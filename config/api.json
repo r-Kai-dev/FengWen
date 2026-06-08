@@ -1,0 +1,47 @@
+{
+  "sites": [
+    {
+      "name": "Hacker News",
+      "org_key": "hackernews",
+      "base_url": "https://hacker-news.firebaseio.com/v0",
+      "pages": [
+        {
+          "key": "best",
+          "endpoint": "/beststories.json",
+          "method": "GET",
+          "output_file": "hackernews_best.json",
+          "params": {},
+          "limit": 50
+        }
+      ]
+    },
+    {
+      "name": "Hugging Face",
+      "org_key": "huggingface",
+      "base_url": "https://huggingface.co/api",
+      "pages": [
+        {
+          "key": "trending_models",
+          "endpoint": "/trending",
+          "method": "GET",
+          "params": { "type": "model", "limit": 20 },
+          "output_file": "huggingface_trending_models.json"
+        },
+        {
+          "key": "trending_datasets",
+          "endpoint": "/trending",
+          "method": "GET",
+          "params": { "type": "dataset", "limit": 20 },
+          "output_file": "huggingface_trending_datasets.json"
+        },
+        {
+          "key": "daily_papers",
+          "endpoint": "/daily_papers",
+          "method": "GET",
+          "params": {},
+          "output_file": "huggingface_daily_papers.json"
+        }
+      ]
+    }
+  ]
+}
