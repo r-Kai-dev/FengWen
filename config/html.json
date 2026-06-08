@@ -1,0 +1,61 @@
+[
+  {
+    "url": "https://www.anthropic.com",
+    "org_key": "anthropic",
+    "pages": ["news", "research", "engineering"]
+  },
+  {
+    "url": "https://github.com",
+    "org_key": "github",
+    "pages": [
+      "trending?since=daily",
+      "trending?since=weekly",
+      "trending?since=monthly"
+    ],
+    "extra_outputs": {
+      "trending_combined": "github_trends.json"
+    }
+  },
+  {
+    "url": "https://ai.meta.com",
+    "org_key": "meta",
+    "favicon": "https://static.xx.fbcdn.net/rsrc.php/yi/r/gbO80SSOuBU.ico",
+    "pages": ["blog"]
+  },
+  {
+    "url": "https://news.aibase.com",
+    "org_key": "aibase",
+    "pages": ["zh/daily"]
+  },
+  {
+    "url": "https://www.deeplearning.ai",
+    "org_key": "deeplearning_ai",
+    "pages": ["the-batch"]
+  },
+  {
+    "url": "https://artificialanalysis.ai",
+    "org_key": "artificial_analysis",
+    "pages": ["articles"]
+  },
+  {
+    "url": "https://www.kimi.com",
+    "org_key": "kimi",
+    "pages": ["blog"]
+  },
+  {
+    "url": "https://platform.moonshot.ai",
+    "org_key": "moonshot",
+    "pages": ["blog"]
+  },
+  {
+    "url": "https://platform.minimax.io",
+    "org_key": "minimax",
+    "favicon": "https://platform.minimax.io/docs/_mintlify/favicons/minimax-cac98058/-WSO_KEoennf5XoM/_generated/favicon/apple-touch-icon.png",
+    "pages": ["docs/release-notes/models"]
+  },
+  {
+    "url": "https://docs.z.ai",
+    "org_key": "z-ai",
+    "pages": ["release-notes/new-released"]
+  }
+]
