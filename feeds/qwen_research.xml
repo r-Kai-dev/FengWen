@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Qwen (Alibaba)</title>
+  <icon>https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico</icon>
+  <link href="https://qwen.ai/research"/>
+  <id>https://qwen.ai/research</id>
+  <updated>2026-05-31T00:00:00+00:00</updated>
+  <author>
+    <name>Qwen (Alibaba)</name>
+  </author>
+  <entry>
+    <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
+    <link href="https://qwen.ai/blog?id=qwen3.7-plus"/>
+    <id>ef4a51f95af231d8bc3ac2a5b3ad3066</id>
+    <published>2026-05-31T00:00:00+00:00</published>
+    <updated>2026-05-31T00:00:00+00:00</updated>
+    <summary type="text">Today we introduce Qwen3.7-Plus — a multimodal agent model that unifies vision and language into a single, versatile agent foundation. Building on Qwen3.7's strong text backbone, Qwen3.7-Plus delivers a comprehensive upgrade in vision-language...</summary>
+    <category term="Release"/>
+  </entry>
+  <entry>
+    <title>Qwen-VLA: From Understanding the World to Acting in It</title>
+    <link href="https://qwen.ai/blog?id=qwenvla"/>
+    <id>a91b7893f54db3b902f42db1a435ac6e</id>
+    <published>2026-05-29T00:00:00+00:00</published>
+    <updated>2026-05-29T00:00:00+00:00</updated>
+    <summary type="text">Over the past few years, multimodal large language models have become increasingly capable of understanding images, videos, and real-world scenes. They can recognize objects, reason about spatial relationships, answer visual questions, and solve complex multimodal reasoning tasks. But for embodied intelligence, understanding the world is only the first step. A truly embodied agent also needs to...</summary>
+    <category term="Release"/>
+  </entry>
+  <entry>
+    <title>Qwen3.7: The Agent Frontier</title>
+    <link href="https://qwen.ai/blog?id=qwen3.7"/>
+    <id>26b0c6ec1440b3db997cf466b780649a</id>
+    <published>2026-05-19T00:00:00+00:00</published>
+    <updated>2026-05-19T00:00:00+00:00</updated>
+    <summary type="text">Today we introduce Qwen3.7-Max, our latest proprietary model designed for the agent era. Qwen3.7-Max is built to be a versatile agent foundation — equally capable of writing and debugging code, automating office workflows, and sustaining autonomous execution across hundreds or thousands of steps. What sets Qwen3.7-Max apart is the breadth and depth of its agent capabilities. It excels as a...</summary>
+    <category term="Release"/>
+  </entry>
+  <entry>
+    <title>Qwen3.5-LiveTranslate: From Sound to Sight, From Word to Right</title>
+    <link href="https://qwen.ai/blog?id=qwen3.5-livetranslate"/>
+    <id>150b79e35f811655cf05fe1c152d76eb</id>
+    <published>2026-05-19T00:00:00+00:00</published>
+    <updated>2026-05-19T00:00:00+00:00</updated>
+    <summary type="text">Qwen3.5-LiveTranslate-Flash is the latest simultaneous interpretation model in the Qwen family, built on top of Qwen3.5-Omni. It delivers real-time, multimodal translation that not only hears and translates speech, but also sees and understands visual context to produce more accurate translations. Compared with its predecessor Qwen3-LiveTranslate, Qwen3.5-LiveTranslate-Flash brings major...</summary>
+    <category term="Release"/>
+  </entry>
+  <entry>
+    <title>Qwen-Scope: Decoding Intelligence, Unleashing Potential</title>
+    <link href="https://qwen.ai/blog?id=qwen-scope"/>
+    <id>846604aec93f6ebced83d4d75c44c741</id>
+    <published>2026-04-29T00:00:00+00:00</published>
+    <updated>2026-04-29T00:00:00+00:00</updated>
+    <summary type="text">Interpretability research has emerged as a critical area for understanding LLM behaviors, informing performance optimization, and enabling more controllable model outputs. Today, we are excited to introduce Qwen-Scope, an interpretability toolkit trained on the Qwen3 and Qwen3.5 series models. Specifically, we inserted and trained Sparse Autoencoders (SAEs) within Qwen’s hidden layers. By...</summary>
+    <category term="Open-Source"/>
+  </entry>
+</feed>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DeepSeek</title>
+  <icon>https://api-docs.deepseek.com/img/favicon.svg</icon>
+  <link href="https://api-docs.deepseek.com"/>
+  <id>https://api-docs.deepseek.com</id>
+  <updated>2026-04-24T00:00:00+00:00</updated>
+  <author>
+    <name>DeepSeek</name>
+  </author>
+  <entry>
+    <title>DeepSeek-V4 Preview Release</title>
+    <link href="https://api-docs.deepseek.com/news/news260424"/>
+    <id>047dcecd2394c3c351d538f16171b9f9</id>
+    <published>2026-04-24T00:00:00+00:00</published>
+    <updated>2026-04-24T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek-V3.2 Release</title>
+    <link href="https://api-docs.deepseek.com/news/news251201"/>
+    <id>3fbe6c95888f81a51b8e192af957d316</id>
+    <published>2025-12-01T00:00:00+00:00</published>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek-V3.2-Exp Release</title>
+    <link href="https://api-docs.deepseek.com/news/news250929"/>
+    <id>8109e1fe9db77137b3c50b89240b12e7</id>
+    <published>2025-09-29T00:00:00+00:00</published>
+    <updated>2025-09-29T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek V3.1 Update</title>
+    <link href="https://api-docs.deepseek.com/news/news250922"/>
+    <id>b80714b3b7e554f637d9f72eeab69d8c</id>
+    <published>2025-09-22T00:00:00+00:00</published>
+    <updated>2025-09-22T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek V3.1 Release</title>
+    <link href="https://api-docs.deepseek.com/news/news250821"/>
+    <id>c734d949f02fdf09e3d46dee0da98dc2</id>
+    <published>2025-08-21T00:00:00+00:00</published>
+    <updated>2025-08-21T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek-R1-0528 Release</title>
+    <link href="https://api-docs.deepseek.com/news/news250528"/>
+    <id>a2ba767ceb25de4e79423279a7cd0c3b</id>
+    <published>2025-05-28T00:00:00+00:00</published>
+    <updated>2025-05-28T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek-V3-0324 Release</title>
+    <link href="https://api-docs.deepseek.com/news/news250325"/>
+    <id>1a845a72bb40074e77d357eeecd4950c</id>
+    <published>2025-03-25T00:00:00+00:00</published>
+    <updated>2025-03-25T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek-R1 Release</title>
+    <link href="https://api-docs.deepseek.com/news/news250120"/>
+    <id>785904a3846d00490dd0dfc85d490ca2</id>
+    <published>2025-01-20T00:00:00+00:00</published>
+    <updated>2025-01-20T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek APP</title>
+    <link href="https://api-docs.deepseek.com/news/news250115"/>
+    <id>17cb466b26d9a84c4aa3024e51f28cef</id>
+    <published>2025-01-15T00:00:00+00:00</published>
+    <updated>2025-01-15T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Introducing DeepSeek-V3</title>
+    <link href="https://api-docs.deepseek.com/news/news1226"/>
+    <id>62a64275327210e232e0b93a3b4eaf3a</id>
+    <published>2024-12-26T00:00:00+00:00</published>
+    <updated>2024-12-26T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek-V2.5-1210 Release</title>
+    <link href="https://api-docs.deepseek.com/news/news1210"/>
+    <id>79be5f2e1f48a57c2ed5462b7756ad66</id>
+    <published>2024-12-10T00:00:00+00:00</published>
+    <updated>2024-12-10T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek-R1-Lite Release</title>
+    <link href="https://api-docs.deepseek.com/news/news1120"/>
+    <id>8e5028a190cd54643809901134614fe8</id>
+    <published>2024-11-20T00:00:00+00:00</published>
+    <updated>2024-11-20T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek-V2.5 Release</title>
+    <link href="https://api-docs.deepseek.com/news/news0905"/>
+    <id>acac6c013e5dcb0332e9279778b94cc3</id>
+    <published>2024-09-05T00:00:00+00:00</published>
+    <updated>2024-09-05T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Context Caching is Available</title>
+    <link href="https://api-docs.deepseek.com/news/news0802"/>
+    <id>509024195ad3e76292e54b35c2e802d2</id>
+    <published>2024-08-02T00:00:00+00:00</published>
+    <updated>2024-08-02T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>New API Features</title>
+    <link href="https://api-docs.deepseek.com/news/news0725"/>
+    <id>8dd3531214d683c49f004fe241d50052</id>
+    <published>2024-07-25T00:00:00+00:00</published>
+    <updated>2024-07-25T00:00:00+00:00</updated>
+  </entry>
+</feed>

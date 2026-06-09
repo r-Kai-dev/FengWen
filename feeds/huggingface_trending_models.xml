@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hugging Face Trending Models</title>
+  <icon>https://huggingface.co/front/assets/huggingface_logo-noborder.svg</icon>
+  <link href="https://huggingface.co/models"/>
+  <id>https://huggingface.co/models</id>
+  <updated>2026-06-09T19:39:53.155985+00:00</updated>
+  <entry>
+    <title>nvidia/LocateAnything-3B</title>
+    <link href="https://huggingface.co/nvidia/LocateAnything-3B"/>
+    <id>38460ca66b8b561dfc73ac8d0577add2</id>
+    <published>2026-06-09T19:39:53.155885+00:00</published>
+    <updated>2026-06-09T19:39:53.155885+00:00</updated>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>google/gemma-4-12B-it</title>
+    <link href="https://huggingface.co/google/gemma-4-12B-it"/>
+    <id>009d0762d266ad32c7ae7c10a66ad65e</id>
+    <published>2026-06-09T19:39:53.155904+00:00</published>
+    <updated>2026-06-09T19:39:53.155904+00:00</updated>
+    <category term="any-to-any"/>
+  </entry>
+  <entry>
+    <title>unsloth/gemma-4-12b-it-GGUF</title>
+    <link href="https://huggingface.co/unsloth/gemma-4-12b-it-GGUF"/>
+    <id>bd8c9414466e9dec11315da2906e4899</id>
+    <published>2026-06-09T19:39:53.155913+00:00</published>
+    <updated>2026-06-09T19:39:53.155913+00:00</updated>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>google/gemma-4-12B</title>
+    <link href="https://huggingface.co/google/gemma-4-12B"/>
+    <id>3afbe195d7fb570b96f60c75a333b112</id>
+    <published>2026-06-09T19:39:53.155922+00:00</published>
+    <updated>2026-06-09T19:39:53.155922+00:00</updated>
+    <category term="any-to-any"/>
+  </entry>
+  <entry>
+    <title>ideogram-ai/ideogram-4-fp8</title>
+    <link href="https://huggingface.co/ideogram-ai/ideogram-4-fp8"/>
+    <id>e1207e2a13793cd5fca90d265f8ca40f</id>
+    <published>2026-06-09T19:39:53.155926+00:00</published>
+    <updated>2026-06-09T19:39:53.155926+00:00</updated>
+    <category term="text-to-image"/>
+  </entry>
+  <entry>
+    <title>sapientinc/HRM-Text-1B</title>
+    <link href="https://huggingface.co/sapientinc/HRM-Text-1B"/>
+    <id>fd3052d08771bfb2706ddca0a11c4cb2</id>
+    <published>2026-06-09T19:39:53.155929+00:00</published>
+    <updated>2026-06-09T19:39:53.155929+00:00</updated>
+    <category term="text-generation"/>
+  </entry>
+  <entry>
+    <title>ideogram-ai/ideogram-4-nf4</title>
+    <link href="https://huggingface.co/ideogram-ai/ideogram-4-nf4"/>
+    <id>6ec73cf72db2531a3ad6903e4a92e890</id>
+    <published>2026-06-09T19:39:53.155933+00:00</published>
+    <updated>2026-06-09T19:39:53.155933+00:00</updated>
+    <category term="text-to-image"/>
+  </entry>
+  <entry>
+    <title>nvidia/nemotron-3.5-asr-streaming-0.6b</title>
+    <link href="https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b"/>
+    <id>1f9f823d9fe42c1c5ee0b340acb778e2</id>
+    <published>2026-06-09T19:39:53.155937+00:00</published>
+    <updated>2026-06-09T19:39:53.155937+00:00</updated>
+    <category term="automatic-speech-recognition"/>
+  </entry>
+  <entry>
+    <title>bosonai/higgs-audio-v3-tts-4b</title>
+    <link href="https://huggingface.co/bosonai/higgs-audio-v3-tts-4b"/>
+    <id>b99ae5969d993c4f1aab26ca75c57156</id>
+    <published>2026-06-09T19:39:53.155940+00:00</published>
+    <updated>2026-06-09T19:39:53.155940+00:00</updated>
+    <category term="text-to-speech"/>
+  </entry>
+  <entry>
+    <title>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive</title>
+    <link href="https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"/>
+    <id>1be4f6cf5ae949e75b8d38253a49093c</id>
+    <published>2026-06-09T19:39:53.155944+00:00</published>
+    <updated>2026-06-09T19:39:53.155944+00:00</updated>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16</title>
+    <link href="https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16"/>
+    <id>2f55e9946b646409d0b6bae9ccdcef7a</id>
+    <published>2026-06-09T19:39:53.155948+00:00</published>
+    <updated>2026-06-09T19:39:53.155948+00:00</updated>
+    <category term="text-generation"/>
+  </entry>
+  <entry>
+    <title>MisoLabs/MisoTTS</title>
+    <link href="https://huggingface.co/MisoLabs/MisoTTS"/>
+    <id>5999c65c21119bdf3b39e14d6018ce43</id>
+    <published>2026-06-09T19:39:53.155952+00:00</published>
+    <updated>2026-06-09T19:39:53.155952+00:00</updated>
+    <category term="text-to-speech"/>
+  </entry>
+  <entry>
+    <title>unsloth/gemma-4-12B-it-qat-GGUF</title>
+    <link href="https://huggingface.co/unsloth/gemma-4-12B-it-qat-GGUF"/>
+    <id>6bfd75743cd317c3bd028772b0f7913d</id>
+    <published>2026-06-09T19:39:53.155956+00:00</published>
+    <updated>2026-06-09T19:39:53.155956+00:00</updated>
+    <category term="any-to-any"/>
+  </entry>
+  <entry>
+    <title>google/magenta-realtime-2</title>
+    <link href="https://huggingface.co/google/magenta-realtime-2"/>
+    <id>04fcae0ff21521d791e9fc8ea28800c6</id>
+    <published>2026-06-09T19:39:53.155962+00:00</published>
+    <updated>2026-06-09T19:39:53.155962+00:00</updated>
+    <category term="text-to-audio"/>
+  </entry>
+  <entry>
+    <title>nex-agi/Nex-N2-Pro</title>
+    <link href="https://huggingface.co/nex-agi/Nex-N2-Pro"/>
+    <id>453a6410ca6cebc6204d7ccee8edbb95</id>
+    <published>2026-06-09T19:39:53.155967+00:00</published>
+    <updated>2026-06-09T19:39:53.155967+00:00</updated>
+    <category term="text-generation"/>
+  </entry>
+  <entry>
+    <title>JetBrains/Mellum2-12B-A2.5B-Thinking</title>
+    <link href="https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking"/>
+    <id>0be627e49177c8acd3a6a8a42000a38c</id>
+    <published>2026-06-09T19:39:53.155971+00:00</published>
+    <updated>2026-06-09T19:39:53.155971+00:00</updated>
+    <category term="text-generation"/>
+  </entry>
+  <entry>
+    <title>nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4</title>
+    <link href="https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4"/>
+    <id>e63f3a6af1138f0f0b4a8f96fdc940a6</id>
+    <published>2026-06-09T19:39:53.155975+00:00</published>
+    <updated>2026-06-09T19:39:53.155975+00:00</updated>
+    <category term="text-generation"/>
+  </entry>
+  <entry>
+    <title>stepfun-ai/Step-3.7-Flash</title>
+    <link href="https://huggingface.co/stepfun-ai/Step-3.7-Flash"/>
+    <id>547002965ed9d6e548ba50084647f589</id>
+    <published>2026-06-09T19:39:53.155978+00:00</published>
+    <updated>2026-06-09T19:39:53.155978+00:00</updated>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>ByteDance/Bernini-R</title>
+    <link href="https://huggingface.co/ByteDance/Bernini-R"/>
+    <id>10d5f9613e04c481a55829c885c3be61</id>
+    <published>2026-06-09T19:39:53.155981+00:00</published>
+    <updated>2026-06-09T19:39:53.155981+00:00</updated>
+    <category term="image-text-to-video"/>
+  </entry>
+  <entry>
+    <title>LiquidAI/LFM2.5-8B-A1B</title>
+    <link href="https://huggingface.co/LiquidAI/LFM2.5-8B-A1B"/>
+    <id>10fb0c43a2c6bb32b638c11e82c2a969</id>
+    <published>2026-06-09T19:39:53.155985+00:00</published>
+    <updated>2026-06-09T19:39:53.155985+00:00</updated>
+    <category term="text-generation"/>
+  </entry>
+</feed>

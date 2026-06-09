@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Artificial Analysis</title>
+  <icon>https://artificialanalysis.ai/favicon.ico</icon>
+  <link href="https://artificialanalysis.ai/articles"/>
+  <id>https://artificialanalysis.ai/articles</id>
+  <updated>2026-06-09T00:00:00+00:00</updated>
+  <author>
+    <name>Artificial Analysis</name>
+  </author>
+  <entry>
+    <title>Claude Fable 5: the first public Mythos-class model</title>
+    <link href="https://artificialanalysis.ai/articles/claude-fable-5-mythos"/>
+    <id>f306140d815978f84b1b56f65be3ca5a</id>
+    <published>2026-06-09T00:00:00+00:00</published>
+    <updated>2026-06-09T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>North Mini Code: Cohere's small coding-focused MoE model</title>
+    <link href="https://artificialanalysis.ai/articles/north-mini-code-cohere-s-small-coding-focused-moe-model"/>
+    <id>f033e153e67067a0bd59e1d71fbca6e2</id>
+    <published>2026-06-09T00:00:00+00:00</published>
+    <updated>2026-06-09T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>MiniMax-M3: Leading open weights model, once the weights are released</title>
+    <link href="https://artificialanalysis.ai/articles/minimax-m3"/>
+    <id>42307d8fca81cc04c5e9e38bfd8e4cef</id>
+    <published>2026-06-08T00:00:00+00:00</published>
+    <updated>2026-06-08T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Nemotron 3 Ultra released: fast, intelligent, and open</title>
+    <link href="https://artificialanalysis.ai/articles/nvidia-nemotron-3-ultra-released"/>
+    <id>65ce6d1641f5f69611ed2dc506f2e0ff</id>
+    <published>2026-06-04T00:00:00+00:00</published>
+    <updated>2026-06-04T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Fun-Realtime-TTS: New Text to Speech model topping Artificial Analysis leaderboard</title>
+    <link href="https://artificialanalysis.ai/articles/fun-realtime-tts-new-text-to-speech-model-topping-artificial-analysis-leaderboard"/>
+    <id>b3176b2495f94c9571eb53798e14276c</id>
+    <published>2026-06-03T00:00:00+00:00</published>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>MAI-Transcribe-1.5: New Speech to Text model leading the accuracy-speed Pareto frontier</title>
+    <link href="https://artificialanalysis.ai/articles/mai-transcribe-1-5-new-speech-to-text-model-leading-the-accuracy-speed-pareto-frontier"/>
+    <id>41d847a2c60f9f1c1c784bf75daa4462</id>
+    <published>2026-06-02T00:00:00+00:00</published>
+    <updated>2026-06-02T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>AA-WER Streaming: New Speech to Text Streaming Benchmark</title>
+    <link href="https://artificialanalysis.ai/articles/new-streaming-speech-to-text-benchmark-aa-wer-streaming"/>
+    <id>b51b21d56554f534b2d33623e6b58d5d</id>
+    <published>2026-06-02T00:00:00+00:00</published>
+    <updated>2026-06-02T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Nemotron 3 Ultra announced: high-speed, leading US open weights intelligence</title>
+    <link href="https://artificialanalysis.ai/articles/nvidia-nemotron-3-ultra-launch-announced"/>
+    <id>6da8907ee65a8538f5bdafca28ed1eee</id>
+    <published>2026-06-01T00:00:00+00:00</published>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Claude Opus 4.8 - The new #1 AI model</title>
+    <link href="https://artificialanalysis.ai/articles/claude-opus-4-8-analysis-and-benchmarks"/>
+    <id>51f4789a4cc3651a3916cb92a1449633</id>
+    <published>2026-05-28T00:00:00+00:00</published>
+    <updated>2026-05-28T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>ITBench-AA: Agentic benchmark to test models on real-world SRE tasks</title>
+    <link href="https://artificialanalysis.ai/articles/itbench-aa-launch"/>
+    <id>faa65fd524280c3a1ac5ecaa48ccf299</id>
+    <published>2026-05-28T00:00:00+00:00</published>
+    <updated>2026-05-28T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>MiniCPM5-1B: The leading 1B open weights model</title>
+    <link href="https://artificialanalysis.ai/articles/minicpm5-1b-the-leading-1b-open-weights-model"/>
+    <id>28a8dbc5ad20a77471c221f0fbd4d03d</id>
+    <published>2026-05-26T00:00:00+00:00</published>
+    <updated>2026-05-26T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Cursor’s Composer 2.5: third on the Coding Agent Index and ~10-60x lower cost than rivals</title>
+    <link href="https://artificialanalysis.ai/articles/cursor-composer-2-5-coding-agent-index"/>
+    <id>7d22229a898d2379dcb5b863e6c12d13</id>
+    <published>2026-05-21T00:00:00+00:00</published>
+    <updated>2026-05-21T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Cohere launches open weights model Command A+, more than a year since the Command A release</title>
+    <link href="https://artificialanalysis.ai/articles/cohere-launches-open-weights-model-command-a-more-than-a-year-since-the-command-a-release"/>
+    <id>267b5424b9b49b0c075c2318034b8132</id>
+    <published>2026-05-21T00:00:00+00:00</published>
+    <updated>2026-05-21T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Gemini 3.5 Flash: The new leader in intelligence versus speed</title>
+    <link href="https://artificialanalysis.ai/articles/gemini-3-5-flash-everything-you-need-to-know"/>
+    <id>d1493d155aab5d69f9fec2669ca150e9</id>
+    <published>2026-05-19T00:00:00+00:00</published>
+    <updated>2026-05-19T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>OpenBMB launches MiniCPM-V 4.6 1.3B Instruct</title>
+    <link href="https://artificialanalysis.ai/articles/openbmb-launches-minicpm-v-4-6-1-3b-instruct"/>
+    <id>9847e56938a84ebc1917d1402a40bb59</id>
+    <published>2026-05-11T00:00:00+00:00</published>
+    <updated>2026-05-11T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Recent open weights model launches</title>
+    <link href="https://artificialanalysis.ai/articles/recent-open-weights-model-launches"/>
+    <id>3c39b038ef779fc5d9a61802b525165a</id>
+    <published>2026-04-30T00:00:00+00:00</published>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>xAI launches Grok 4.3 with improved agentic performance and lower pricing</title>
+    <link href="https://artificialanalysis.ai/articles/xai-launches-grok-4-3-with-improved-agentic-performance-and-lower-pricing"/>
+    <id>e316c42738b67e8e713ea36ce49f9844</id>
+    <published>2026-04-30T00:00:00+00:00</published>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek is back among the leading open weights models with V4 Pro and V4 Flash</title>
+    <link href="https://artificialanalysis.ai/articles/deepseek-is-back-among-the-leading-open-weights-models-with-v4-pro-and-v4-flash"/>
+    <id>ba77b9937048f65adef2b932851cd0f3</id>
+    <published>2026-04-24T00:00:00+00:00</published>
+    <updated>2026-04-24T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>OpenAI's GPT-5.5 is the new leading AI model</title>
+    <link href="https://artificialanalysis.ai/articles/openai-gpt5-5-is-the-new-leading-AI-model"/>
+    <id>d06d4d0b9990274186138496aa367ed5</id>
+    <published>2026-04-23T00:00:00+00:00</published>
+    <updated>2026-04-23T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Kimi K2.6: The new leading open weights model</title>
+    <link href="https://artificialanalysis.ai/articles/kimi-k2-6-the-new-leading-open-weights-model"/>
+    <id>7f6de4d18df320241edcd63d151b05c1</id>
+    <published>2026-04-21T00:00:00+00:00</published>
+    <updated>2026-04-21T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Opus 4.7: Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/opus-4-7-everything-you-need-to-know"/>
+    <id>2df6d0fa570f573905e43035e63a4551</id>
+    <published>2026-04-17T00:00:00+00:00</published>
+    <updated>2026-04-17T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Sub-32B Open Weights</title>
+    <link href="https://artificialanalysis.ai/articles/sub-32b-open-weights"/>
+    <id>aa6b5d0e39497d9ebd7bb94d28002d75</id>
+    <published>2026-04-14T00:00:00+00:00</published>
+    <updated>2026-04-14T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>A new look for Artificial Analysis</title>
+    <link href="https://artificialanalysis.ai/articles/a-new-look-for-artificial-analysis"/>
+    <id>5e7098627709e08bba3ab608adce332f</id>
+    <published>2026-04-10T00:00:00+00:00</published>
+    <updated>2026-04-10T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Muse Spark: Meta is back in the AI race</title>
+    <link href="https://artificialanalysis.ai/articles/muse-spark-everything-you-need-to-know"/>
+    <id>cf2e1224c84b4a01d85e8b2f2abbc90c</id>
+    <published>2026-04-08T00:00:00+00:00</published>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Gemma 4: Google on the American open weights frontier</title>
+    <link href="https://artificialanalysis.ai/articles/gemma-4-everything-you-need-to-know"/>
+    <id>5dbf2b5def87424a7b48e17840224320</id>
+    <published>2026-04-06T00:00:00+00:00</published>
+    <updated>2026-04-06T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Sarvam 105B and Sarvam 30B: India enters the open-weights race</title>
+    <link href="https://artificialanalysis.ai/articles/sarvam-105b-Sarvam-30b-everything-you-need-to-know"/>
+    <id>b6b387aa5c53d7d9cfd3ded83bd59941</id>
+    <published>2026-04-03T00:00:00+00:00</published>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>MAI-Transcribe-1: Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/mai-transcribe-1-everything-you-need-to-know"/>
+    <id>49d1208b1ca9b689a84fc410ee7249ba</id>
+    <published>2026-04-03T00:00:00+00:00</published>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>MiniMax M2.7: Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/minimax-m2-7-everything-you-need-to-know"/>
+    <id>a66dd8d5d7ef7e5a9ccdd9e9569fff37</id>
+    <published>2026-03-25T00:00:00+00:00</published>
+    <updated>2026-03-25T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>MiMo-V2-Pro: Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/mimo-v2-pro-everything-you-need-to-know"/>
+    <id>8333f5b192d36cb263d29a59b5d8e9a1</id>
+    <published>2026-03-20T00:00:00+00:00</published>
+    <updated>2026-03-20T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Nemotron 3 VoiceChat: Leading the Open Weights Frontier of Conversational Dynamics vs. Speech Reasoning</title>
+    <link href="https://artificialanalysis.ai/articles/nemotron-3-voicechat-leader-speech-pareto"/>
+    <id>c91bc0d693d1fba4b24e609717879ae2</id>
+    <published>2026-03-14T00:00:00+00:00</published>
+    <updated>2026-03-14T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Nemotron 3 Super: The new leader in open, efficient intelligence</title>
+    <link href="https://artificialanalysis.ai/articles/nvidia-nemotron-3-super-the-new-leader-in-open-efficient-intelligence"/>
+    <id>484c30158fb8f29296571a06339162c1</id>
+    <published>2026-03-11T00:00:00+00:00</published>
+    <updated>2026-03-11T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Qwen3.5 small models: Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/qwen3-5-small-models"/>
+    <id>d82073df4646e7e9a1057d257c1a38d0</id>
+    <published>2026-03-05T00:00:00+00:00</published>
+    <updated>2026-03-05T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Gemini 3.1 Pro Preview: The new leader in AI</title>
+    <link href="https://artificialanalysis.ai/articles/gemini-3-1-pro-preview-new-leader-in-ai"/>
+    <id>b1cd64ba039476104c7e68673923499c</id>
+    <published>2026-02-19T00:00:00+00:00</published>
+    <updated>2026-02-19T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Sonnet 4.6 - Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/sonnet-4-6-everything-you-need-to-know"/>
+    <id>adbd60246f2b1d150fb2aa9b64d9b3b2</id>
+    <published>2026-02-18T00:00:00+00:00</published>
+    <updated>2026-02-18T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>AA-WER v2.0: Speech to Text Accuracy Benchmark</title>
+    <link href="https://artificialanalysis.ai/articles/aa-wer-v2"/>
+    <id>cf544f8fa93fbbb995513c3fef49deee</id>
+    <published>2026-02-18T00:00:00+00:00</published>
+    <updated>2026-02-18T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Claude Sonnet 4.6 - New leader in GDPval-AA</title>
+    <link href="https://artificialanalysis.ai/articles/claude-sonnet-4-6-gdpval"/>
+    <id>fd75e91b9f36eb961cbdeef1f194fdad</id>
+    <published>2026-02-17T00:00:00+00:00</published>
+    <updated>2026-02-17T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Qwen3.5-397B-A17B - Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/qwen3-5-397b-a17b-everything-you-need-to-know"/>
+    <id>a7c5a72328c97e8a828ae04368c1c4a8</id>
+    <published>2026-02-17T00:00:00+00:00</published>
+    <updated>2026-02-17T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>MiniMax-M2.5: Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/minimax-m2-5-everything-you-need-to-know"/>
+    <id>3b69ddd5caac57686ce26e61e5c04aa4</id>
+    <published>2026-02-14T00:00:00+00:00</published>
+    <updated>2026-02-14T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>GLM-5 - Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/glm-5-everything-you-need-to-know"/>
+    <id>b67a43495964b84ff1f998c33476ce24</id>
+    <published>2026-02-11T00:00:00+00:00</published>
+    <updated>2026-02-11T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Opus 4.6 - Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/opus-4-6-everything-you-need-to-know"/>
+    <id>db95200be559a64c5aad1be9d1241716</id>
+    <published>2026-02-07T00:00:00+00:00</published>
+    <updated>2026-02-07T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Opus 4.6 Takes Lead in Agentic Real-World Knowledge Tasks</title>
+    <link href="https://artificialanalysis.ai/articles/opus-4-6-takes-lead-in-agentic-real-world-knowledge-tasks"/>
+    <id>6e4078165dbb8df4313c480a6869a1b3</id>
+    <published>2026-02-05T00:00:00+00:00</published>
+    <updated>2026-02-05T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Qwen3 Max Thinking Benchmarks and Analysis</title>
+    <link href="https://artificialanalysis.ai/articles/qwen3-max-thinking-everything-you-need-to-know"/>
+    <id>44414f7573d5cedc67a492a07646cdee</id>
+    <published>2026-01-29T00:00:00+00:00</published>
+    <updated>2026-01-29T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Kimi K2.5 - Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/kimi-k2-5-everything-you-need-to-know"/>
+    <id>06329a0aa8147e96c5fe1303d4ca9bae</id>
+    <published>2026-01-28T00:00:00+00:00</published>
+    <updated>2026-01-28T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Gemini 3 Flash - Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/gemini-3-flash-everything-you-need-to-know"/>
+    <id>6bf4cbd87ba1bae5d50fe9093fd423c2</id>
+    <published>2025-12-17T00:00:00+00:00</published>
+    <updated>2025-12-17T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Stirrup: Our new open source framework for building agents</title>
+    <link href="https://artificialanalysis.ai/articles/stirrup-open-source-framework-agents"/>
+    <id>aa1e4e4d9ef52bbc582807782101a9f0</id>
+    <published>2025-12-11T00:00:00+00:00</published>
+    <updated>2025-12-11T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Introducing the Artificial Analysis Openness Index</title>
+    <link href="https://artificialanalysis.ai/articles/announcing-artificial-analysis-openness-index"/>
+    <id>5a0fe48ac19837289d7becdfa8d7c5bc</id>
+    <published>2025-12-01T00:00:00+00:00</published>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Claude Opus 4.5 Benchmarks and Analysis</title>
+    <link href="https://artificialanalysis.ai/articles/claude-opus-4-5-benchmarks-and-analysis"/>
+    <id>6a41f68d114afe42ff0be78cfbab6cd1</id>
+    <published>2025-11-25T00:00:00+00:00</published>
+    <updated>2025-11-25T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Gemini 3 Pro - Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/gemini-3-pro-everything-you-need-to-know"/>
+    <id>532b048dee5ceb3308c55f03e90e54da</id>
+    <published>2025-11-18T00:00:00+00:00</published>
+    <updated>2025-11-18T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>AA-Omniscience: Knowledge and Hallucination Benchmark</title>
+    <link href="https://artificialanalysis.ai/articles/aa-omniscience-knowledge-hallucination-benchmark"/>
+    <id>be48b7ab112f43e7b67b466337fb7c07</id>
+    <published>2025-11-16T00:00:00+00:00</published>
+    <updated>2025-11-16T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Kimi K2-Thinking - Everything you need to know</title>
+    <link href="https://artificialanalysis.ai/articles/kimi-k2-thinking-everything-you-need-to-know"/>
+    <id>4444d11d85896819d802ee99ed78a517</id>
+    <published>2025-11-07T00:00:00+00:00</published>
+    <updated>2025-11-07T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>MiniMax M2 Benchmarks &amp; Analysis</title>
+    <link href="https://artificialanalysis.ai/articles/minimax-m2-benchmarks-and-analysis"/>
+    <id>d8c922eeb4007de8a172ea1890c4080f</id>
+    <published>2025-10-27T00:00:00+00:00</published>
+    <updated>2025-10-27T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>GPT-5 Benchmarks and Analysis</title>
+    <link href="https://artificialanalysis.ai/articles/gpt-5-benchmarks-and-analysis"/>
+    <id>4adb267a4fdbbc9576f9ceb976963178</id>
+    <published>2025-08-07T00:00:00+00:00</published>
+    <updated>2025-08-07T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Analysis of OpenAI's gpt-oss models</title>
+    <link href="https://artificialanalysis.ai/articles/analysis-openai-gpt-oss-models"/>
+    <id>8e8672c18f8558a5fa03dbcd35e7bccd</id>
+    <published>2025-08-06T00:00:00+00:00</published>
+    <updated>2025-08-06T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Announcing Artificial Analysis Long Context Reasoning (AA-LCR)</title>
+    <link href="https://artificialanalysis.ai/articles/announcing-aa-lcr"/>
+    <id>f83d794b82655461b8426f9b898423dc</id>
+    <published>2025-08-05T00:00:00+00:00</published>
+    <updated>2025-08-05T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Independent Performance Analysis of Leading GPUs</title>
+    <link href="https://artificialanalysis.ai/articles/independent-analysis-of-leading-gpus-amd-nvidia"/>
+    <id>fbf41692914ee5577ed16fda30f409d9</id>
+    <published>2025-06-09T00:00:00+00:00</published>
+    <updated>2025-06-09T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek R1 Update</title>
+    <link href="https://artificialanalysis.ai/articles/deepseek-r1-update"/>
+    <id>96c38e8f0c4a247842a62e67016a84db</id>
+    <published>2025-05-29T00:00:00+00:00</published>
+    <updated>2025-05-29T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Overview of Google I/O Benchmarking Results</title>
+    <link href="https://artificialanalysis.ai/articles/google-io-2024-benchmarking-results"/>
+    <id>83f9c3923fa9e116d424f5854fdfc2e5</id>
+    <published>2025-05-21T00:00:00+00:00</published>
+    <updated>2025-05-21T00:00:00+00:00</updated>
+  </entry>
+</feed>
