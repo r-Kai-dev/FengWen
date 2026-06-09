@@ -6,8 +6,8 @@ import time
 from pathlib import Path
 
 # ── Paths ────────────────────────────────────────────────
-PROJECT_DIR = Path(__file__).resolve().parent.parent
-PARSED_DIR = PROJECT_DIR / "feeds"
+PROJECT_DIR = Path(__file__).resolve().parent.parent.parent
+PARSED_DIR = PROJECT_DIR / "data"
 CONFIG_DIR = PROJECT_DIR / "config"
 
 

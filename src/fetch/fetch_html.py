@@ -15,7 +15,7 @@ logging.basicConfig(
 )
 
 script_dir = Path(__file__).resolve().parent
-project_dir = script_dir.parent
+project_dir = script_dir.parent.parent
 html_cache_dir = project_dir / "html_cache"
 logs_dir = project_dir / "logs"
 

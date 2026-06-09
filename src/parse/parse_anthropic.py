@@ -14,9 +14,9 @@ logging.basicConfig(
 )
 
 # Directory containing the HTML files
-project_dir = Path(__file__).resolve().parent.parent
+project_dir = Path(__file__).resolve().parent.parent.parent
 html_dir = project_dir / "html_cache"
-parsed_dir = project_dir / "feeds"
+parsed_dir = project_dir / "data"
 # Ensure parsed directory exists
 parsed_dir.mkdir(exist_ok=True)
 
