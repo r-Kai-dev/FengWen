@@ -7,7 +7,7 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from config_util import compact, load_site_config
+from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
 logging.basicConfig(
@@ -17,7 +17,7 @@ logging.basicConfig(
 # Directory containing the HTML files
 project_dir = Path(__file__).resolve().parent.parent.parent
 html_dir = project_dir / "html_cache"
-parsed_dir = project_dir / "data"
+parsed_dir = project_dir / "feeds"
 # Ensure parsed directory exists
 parsed_dir.mkdir(exist_ok=True)
 
@@ -239,14 +239,14 @@ def parse_meta_ai_html(soup):
 
 def save_to_json(posts, filename):
     """Save posts to JSON file"""
+    config = load_config()
+    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
     try:
-        # Derive output filename from the cache filename (e.g., meta_blog.html -> meta_blog.json)
-        output_filename = filename.replace(".html", ".json")
-        json_path = parsed_dir / output_filename
+        # Derive output filename from the cache filename (e.g., meta_blog.html -> meta_blog.xml)
+        output_filename = filename.replace(".html", ".xml")
+        feed_path = parsed_dir / output_filename
 
-        with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(posts, f, indent=4, ensure_ascii=False)
-            logging.info(f"Parsed data successfully written to '{json_path}'")
+        write_atom_feed(feed_path, posts, feed_title="Meta AI", feed_link="https://ai.meta.com/blog", feed_icon=favicon)
     except IOError as e:
         logging.error(f"Error writing to file: {e}")
 

@@ -6,7 +6,7 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from config_util import compact, load_site_config
+from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
 logging.basicConfig(
@@ -16,7 +16,7 @@ logging.basicConfig(
 # Directory containing the HTML files
 project_dir = Path(__file__).resolve().parent.parent.parent
 html_dir = project_dir / "html_cache"
-parsed_dir = project_dir / "data"
+parsed_dir = project_dir / "feeds"
 # Ensure parsed directory exists
 parsed_dir.mkdir(exist_ok=True)
 
@@ -133,8 +133,9 @@ def main():
     logging.info("Starting Kimi blog scraper...")
 
     config = load_config()
-    output_filename = config["output_files"].get("blog", "kimi_blog.json")
+    output_filename = config["output_files"].get("blog", "kimi_blog.xml")
     cache_filename = config["cache_files"].get("blog", "kimi_blog.html")
+    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
 
     logging.info(f"Output file: {output_filename}")
     logging.info(f"Cache file: {cache_filename}")
@@ -152,11 +153,8 @@ def main():
 
     posts.sort(key=lambda x: x.get("published_date", ""), reverse=True)
 
-    output_path = parsed_dir / output_filename
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(posts, f, indent=2, ensure_ascii=False)
-
-    logging.info(f"Saved {len(posts)} posts to {output_path}")
+    feed_path = parsed_dir / output_filename
+    write_atom_feed(feed_path, posts, feed_title="Kimi (Moonshot AI)", feed_link="https://www.kimi.com/blog", feed_icon=favicon)
 
 
 if __name__ == "__main__":

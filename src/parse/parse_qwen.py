@@ -21,7 +21,7 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from config_util import compact, load_site_config
+from config_util import compact, load_site_config, write_atom_feed
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
@@ -29,7 +29,7 @@ logging.basicConfig(
 
 project_dir = Path(__file__).resolve().parent.parent.parent
 html_dir = project_dir / "html_cache"
-parsed_dir = project_dir / "data"
+parsed_dir = project_dir / "feeds"
 parsed_dir.mkdir(exist_ok=True)
 
 
@@ -168,7 +168,7 @@ def extract_research_items(soup, base_url):
 
 
 def save_to_json(post_items, filename):
-    """Deduplicate, sort, and save to data/."""
+    """Deduplicate, sort, and save to feeds/ as Atom XML"""
     dedup_list = [
         json.loads(entry) for entry in {json.dumps(d) for d in post_items}
     ]
@@ -179,17 +179,17 @@ def save_to_json(post_items, filename):
 
     config = load_config()
     output_files = config["output_files"]
+    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
 
     for page_type, cache_name in config["cache_files"].items():
         if cache_name == filename:
-            output_name = output_files.get(page_type, f"qwen_{page_type}.json")
+            output_name = output_files.get(page_type, f"qwen_{page_type}.xml")
             break
     else:
-        output_name = "qwen_research.json"
+        output_name = "qwen_research.xml"
 
-    json_path = parsed_dir / output_name
-    json_path.write_text(json.dumps(dedup_list, indent=4, ensure_ascii=False), encoding="utf-8")
-    logging.info(f"Saved {len(dedup_list)} items to {json_path}")
+    feed_path = parsed_dir / output_name
+    write_atom_feed(feed_path, dedup_list, feed_title="Qwen (Alibaba)", feed_link="https://qwen.ai/research", feed_icon=favicon)
 
 
 if __name__ == "__main__":

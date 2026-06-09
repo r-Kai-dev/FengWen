@@ -2,16 +2,19 @@
   {
     "url": "https://seed.bytedance.com/en",
     "org_key": "bytedance",
-    "pages": ["blog", "public_papers"]
+    "pages": ["blog", "public_papers"],
+    "favicon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico"
   },
   {
     "url": "https://api-docs.deepseek.com",
     "org_key": "deepseek",
-    "pages": ["/"]
+    "pages": ["/"],
+    "favicon": "https://api-docs.deepseek.com/img/favicon.svg"
   },
   {
     "url": "https://qwen.ai",
     "org_key": "qwen",
-    "pages": ["research"]
+    "pages": ["research"],
+    "favicon": "https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico"
   }
 ]

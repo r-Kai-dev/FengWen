@@ -14,6 +14,7 @@ from common import (
     load_api_config,
     setup_logging,
     ensure_output_dir,
+    write_atom_feed,
 )
 
 setup_logging()
@@ -111,11 +112,16 @@ async def main() -> None:
         logging.error("No stories were fetched")
         return
 
-    output_file = PARSED_DIR / page_config["output_file"]
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(stories, f, ensure_ascii=False, indent=2)
+    # Favicon: use config value or fall back to {base_url}/favicon.ico
+    favicon = config.get("favicon") or (config.get("base_url", "").rstrip("/") + "/favicon.ico")
 
-    logging.info("Saved %d stories to %s", len(stories), output_file)
+    output_file = PARSED_DIR / page_config["output_file"]
+    write_atom_feed(
+        output_file, stories,
+        feed_title="Hacker News Best",
+        feed_link="https://news.ycombinator.com/best",
+        feed_icon=favicon,
+    )
 
 
 if __name__ == "__main__":

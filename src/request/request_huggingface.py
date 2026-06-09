@@ -14,6 +14,7 @@ from common import (
     load_api_config,
     setup_logging,
     ensure_output_dir,
+    write_atom_feed,
 )
 
 setup_logging()
@@ -309,6 +310,9 @@ async def main() -> None:
 
     page_keys = ["trending_models", "trending_datasets", "daily_papers"]
 
+    # Favicon: use config value or fall back to {base_url}/favicon.ico
+    favicon = config.get("favicon") or (config.get("base_url", "").rstrip("/") + "/favicon.ico")
+
     for key in page_keys:
         page_config = config["pages"].get(key)
         if not page_config:
@@ -324,10 +328,32 @@ async def main() -> None:
 
         if data:
             output_file = PARSED_DIR / page_config["output_file"]
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
-            logging.info(
-                "Saved %d items to %s", len(data), output_file
+
+            # Page-specific feed link and title
+            page_feed_info = {
+                "trending_models": {
+                    "title": "Hugging Face Trending Models",
+                    "link": "https://huggingface.co/models",
+                },
+                "trending_datasets": {
+                    "title": "Hugging Face Trending Datasets",
+                    "link": "https://huggingface.co/datasets",
+                },
+                "daily_papers": {
+                    "title": "Hugging Face Daily Papers",
+                    "link": "https://huggingface.co/papers",
+                },
+            }
+            feed_info = page_feed_info.get(key, {
+                "title": "Hugging Face",
+                "link": "https://huggingface.co",
+            })
+
+            write_atom_feed(
+                output_file, data,
+                feed_title=feed_info["title"],
+                feed_link=feed_info["link"],
+                feed_icon=favicon,
             )
         else:
             logging.error("No data fetched for %s", key)

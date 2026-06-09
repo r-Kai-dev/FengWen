@@ -7,7 +7,7 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from config_util import compact, load_site_config
+from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
 logging.basicConfig(
@@ -17,7 +17,7 @@ logging.basicConfig(
 # Directory containing the HTML files
 project_dir = Path(__file__).resolve().parent.parent.parent
 html_dir = project_dir / "html_cache"
-parsed_dir = project_dir / "data"
+parsed_dir = project_dir / "feeds"
 # Ensure parsed directory exists
 parsed_dir.mkdir(exist_ok=True)
 
@@ -188,33 +188,52 @@ def deduplicate_repositories(all_repositories):
     return list(repo_dict.values())
 
 
-def save_to_json(repositories, output_filename):
+def save_to_json(repositories, output_filename, feed_icon=None, feed_title=None, feed_link=None):
     """Save repositories to JSON file"""
     # Sort by stars_today (trending metric) in descending order
     repositories.sort(key=lambda x: x["metadata"].get("stars_today", 0), reverse=True)
 
-    json_path = parsed_dir / output_filename
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(repositories, f, ensure_ascii=False, indent=2)
+    # Derive feed link and title from output_filename if not provided
+    if not feed_title:
+        if "daily" in output_filename:
+            feed_title = "GitHub Trending (Daily)"
+        elif "weekly" in output_filename:
+            feed_title = "GitHub Trending (Weekly)"
+        elif "monthly" in output_filename:
+            feed_title = "GitHub Trending (Monthly)"
+        else:
+            feed_title = "GitHub Trending"
+    if not feed_link:
+        if "daily" in output_filename:
+            feed_link = "https://github.com/trending?since=daily"
+        elif "weekly" in output_filename:
+            feed_link = "https://github.com/trending?since=weekly"
+        elif "monthly" in output_filename:
+            feed_link = "https://github.com/trending?since=monthly"
+        else:
+            feed_link = "https://github.com/trending"
+
+    feed_path = parsed_dir / output_filename
+    write_atom_feed(feed_path, repositories, feed_title=feed_title, feed_link=feed_link, feed_icon=feed_icon)
 
     logging.info(
-        f"Successfully saved {len(repositories)} trending repositories to {json_path}"
+        f"Successfully saved {len(repositories)} trending repositories to {feed_path}"
     )
 
 
-def merge_with_existing(new_repositories, combined_output):
+def merge_with_existing(new_repositories, combined_output, feed_icon=None):
     """Merge newly parsed repos with the existing stateful JSON.
 
     Repos currently on trending replace their old entry (fresh data + timestamp).
     Repos that have dropped off trending remain in the file unchanged.
     """
-    json_path = parsed_dir / combined_output
+    feed_path = parsed_dir / combined_output
 
     # Load existing entries by id
     existing_by_id = {}
-    if json_path.exists():
+    if feed_path.exists():
         try:
-            with open(json_path, "r", encoding="utf-8") as f:
+            with open(feed_path, "r", encoding="utf-8") as f:
                 existing = json.load(f)
             for repo in existing:
                 existing_by_id[repo["id"]] = repo
@@ -233,13 +252,14 @@ def merge_with_existing(new_repositories, combined_output):
         f"({len(merged) - len(new_repositories)} carried over from previous runs)"
     )
 
-    save_to_json(merged, combined_output)
+    save_to_json(merged, combined_output, feed_icon=feed_icon)
 
 
 if __name__ == "__main__":
     config = load_config()
     cache_files = config["cache_files"]
     output_files = config["output_files"]
+    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
 
     all_repositories = []
     timeframes = ["daily", "weekly", "monthly"]
@@ -264,7 +284,7 @@ if __name__ == "__main__":
 
                 # Save individual timeframe file
                 if individual_output:
-                    save_to_json(repositories, individual_output)
+                    save_to_json(repositories, individual_output, feed_icon=favicon)
             else:
                 logging.error(f"Failed to load HTML content for {cache_filename}")
         else:
@@ -281,7 +301,7 @@ if __name__ == "__main__":
         )
 
         # Merge with existing stateful data (carry over repos from previous runs)
-        combined_output = output_files.get("trending_combined", "github_trends.json")
-        merge_with_existing(deduplicated_repositories, combined_output)
+        combined_output = output_files.get("trending_combined", "github_trends.xml")
+        merge_with_existing(deduplicated_repositories, combined_output, feed_icon=favicon)
     else:
         logging.error("No repositories found to process")

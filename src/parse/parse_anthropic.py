@@ -6,7 +6,7 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from config_util import compact, load_site_config
+from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
 logging.basicConfig(
@@ -16,7 +16,7 @@ logging.basicConfig(
 # Directory containing the HTML files
 project_dir = Path(__file__).resolve().parent.parent.parent
 html_dir = project_dir / "html_cache"
-parsed_dir = project_dir / "data"
+parsed_dir = project_dir / "feeds"
 # Ensure parsed directory exists
 parsed_dir.mkdir(exist_ok=True)
 
@@ -349,12 +349,28 @@ def save_to_json(post_items, filename):
     elif "research" in filename:
         page_type = "research"
 
+    # Favicon: use config value or fall back to {url}/favicon.ico
+    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+
     try:
-        output_filename = output_files.get(page_type, f"anthropic_{page_type}.json")
-        json_path = parsed_dir / output_filename
-        with open(json_path, "w") as f:
-            json.dump(dedup_list, f, indent=4)
-            logging.info(f"Parsed data successfully written to '{json_path}'")
+        output_filename = output_files.get(page_type, f"anthropic_{page_type}.xml")
+        feed_path = parsed_dir / output_filename
+
+        # Page-specific feed link and title
+        page_links = {
+            "news": "https://www.anthropic.com/news",
+            "research": "https://www.anthropic.com/research",
+            "engineering": "https://www.anthropic.com/engineering",
+        }
+        page_titles = {
+            "news": "Anthropic News",
+            "research": "Anthropic Research",
+            "engineering": "Anthropic Engineering",
+        }
+        feed_link = page_links.get(page_type, "https://www.anthropic.com")
+        feed_title = page_titles.get(page_type, "Anthropic")
+
+        write_atom_feed(feed_path, dedup_list, feed_title=feed_title, feed_link=feed_link, feed_icon=favicon)
     except IOError as e:
         logging.error(f"Error writing to file: {e}")
 

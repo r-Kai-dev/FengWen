@@ -18,7 +18,7 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from config_util import compact, load_site_config
+from config_util import compact, load_site_config, write_atom_feed
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
@@ -26,7 +26,7 @@ logging.basicConfig(
 
 project_dir = Path(__file__).resolve().parent.parent.parent
 html_dir = project_dir / "html_cache"
-parsed_dir = project_dir / "data"
+parsed_dir = project_dir / "feeds"
 parsed_dir.mkdir(exist_ok=True)
 
 
@@ -197,7 +197,7 @@ def extract_html_data(soup, filename):
 
 
 def save_to_json(post_items, filename):
-    """Deduplicate, sort, and save to data/."""
+    """Deduplicate, sort, and save to feeds/ as Atom XML"""
     dedup_list = [
         json.loads(entry) for entry in {json.dumps(d) for d in post_items}
     ]
@@ -208,23 +208,34 @@ def save_to_json(post_items, filename):
 
     config = load_config()
     output_files = config["output_files"]
+    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
 
     # Determine output filename from cache filename
     for page_type, cache_name in config["cache_files"].items():
         if cache_name == filename:
-            output_name = output_files.get(page_type, f"bytedance_{page_type}.json")
+            output_name = output_files.get(page_type, f"bytedance_{page_type}.xml")
             break
     else:
         if "blog" in filename:
-            output_name = "bytedance_blog.json"
+            output_name = "bytedance_blog.xml"
         elif "public_papers" in filename:
-            output_name = "bytedance_public_papers.json"
+            output_name = "bytedance_public_papers.xml"
         else:
             output_name = f"bytedance_{filename}"
 
-    json_path = parsed_dir / output_name
-    json_path.write_text(json.dumps(dedup_list, indent=4, ensure_ascii=False), encoding="utf-8")
-    logging.info(f"Saved {len(dedup_list)} items to {json_path}")
+    # Page-specific feed link and title
+    if "blog" in filename:
+        feed_link = "https://seed.bytedance.com/en/blog"
+        feed_title = "ByteDance Seed Blog"
+    elif "public_papers" in filename:
+        feed_link = "https://seed.bytedance.com/en/public_papers"
+        feed_title = "ByteDance Seed Public Papers"
+    else:
+        feed_link = "https://seed.bytedance.com/en"
+        feed_title = "ByteDance Seed"
+
+    feed_path = parsed_dir / output_name
+    write_atom_feed(feed_path, dedup_list, feed_title=feed_title, feed_link=feed_link, feed_icon=favicon)
 
 
 if __name__ == "__main__":
