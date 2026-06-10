@@ -1,6 +1,7 @@
 when:
   - event: cron
     cron: daily-21
+  - event: push
 
 steps:
   - name: fetch-html
