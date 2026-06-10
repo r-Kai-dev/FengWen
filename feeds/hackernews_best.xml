@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hacker News Best</title>
-  <icon>https://news.ycombinator.com/y18.svg</icon>
+  <icon>https://news.ycombinator.com/favicon.ico</icon>
   <link href="https://news.ycombinator.com/best"/>
   <id>https://news.ycombinator.com/best</id>
-  <updated>2026-06-10T18:45:20+00:00</updated>
+  <updated>2026-06-10T19:06:50+00:00</updated>
   <author>
     <name>Hacker News</name>
   </author>
   <entry>
-    <title>Anthropic's Model Naming, Extrapolated</title>
+    <title>Farmer donates land for a park, city sells it for $10M as data center land</title>
+    <link href="https://news.ycombinator.com/item?id=48481126"/>
+    <id>aedac6ccccf7793717fe210e8f61f95f</id>
+    <published>2026-06-10T19:06:50+00:00</published>
+    <updated>2026-06-10T19:06:50+00:00</updated>
+  </entry>
+  <entry>
+    <title>πFS</title>
+    <link href="https://news.ycombinator.com/item?id=48480978"/>
+    <id>023c787a5c98f8958c3607eb9f569b26</id>
+    <published>2026-06-10T18:54:54+00:00</published>
+    <updated>2026-06-10T18:54:54+00:00</updated>
+  </entry>
+  <entry>
+    <title>Anthropic's model naming, extrapolated</title>
     <link href="https://news.ycombinator.com/item?id=48480852"/>
     <id>66757149a89d0b1f4e55cedeb3fd32cc</id>
     <published>2026-06-10T18:45:20+00:00</published>
     <updated>2026-06-10T18:45:20+00:00</updated>
   </entry>
   <entry>
-    <title>Claude Desktop spins up a VM without no way of stopping it</title>
+    <title>Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely</title>
+    <link href="https://news.ycombinator.com/item?id=48479947"/>
+    <id>93cf2ace15e0141aeea4f7730f07ab74</id>
+    <published>2026-06-10T17:44:59+00:00</published>
+    <updated>2026-06-10T17:44:59+00:00</updated>
+  </entry>
+  <entry>
+    <title>Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use</title>
     <link href="https://news.ycombinator.com/item?id=48479452"/>
     <id>5b13942d827e0cd4b6f7c660a90cd0fd</id>
     <published>2026-06-10T17:11:56+00:00</published>
@@ -35,6 +56,13 @@
     <id>34d5f8aad620a524bddc20a51e2efef3</id>
     <published>2026-06-10T15:10:40+00:00</published>
     <updated>2026-06-10T15:10:40+00:00</updated>
+  </entry>
+  <entry>
+    <title>Apache Burr: Build reliable AI agents and applications</title>
+    <link href="https://news.ycombinator.com/item?id=48477400"/>
+    <id>028c48da0b933ddfcbc37ca52646a807</id>
+    <published>2026-06-10T15:01:06+00:00</published>
+    <updated>2026-06-10T15:01:06+00:00</updated>
   </entry>
   <entry>
     <title>I'm Eric Ries, author of &quot;The Lean Startup&quot; and new book &quot;Incorruptible&quot; – AMA</title>
@@ -329,33 +357,5 @@
     <id>8802a6940a0e8b6a3f6178b587c6d9bb</id>
     <published>2026-06-09T00:01:37+00:00</published>
     <updated>2026-06-09T00:01:37+00:00</updated>
-  </entry>
-  <entry>
-    <title>Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]</title>
-    <link href="https://news.ycombinator.com/item?id=48453275"/>
-    <id>90dbd1bcdbad3f44426501d45622fac4</id>
-    <published>2026-06-08T22:32:36+00:00</published>
-    <updated>2026-06-08T22:32:36+00:00</updated>
-  </entry>
-  <entry>
-    <title>Confidential submission of draft S-1 to the SEC</title>
-    <link href="https://news.ycombinator.com/item?id=48452317"/>
-    <id>63be711b54a05f88f3bade825ce916eb</id>
-    <published>2026-06-08T21:22:43+00:00</published>
-    <updated>2026-06-08T21:22:43+00:00</updated>
-  </entry>
-  <entry>
-    <title>A giant star may have destroyed itself in one of the rarest explosions</title>
-    <link href="https://news.ycombinator.com/item?id=48451966"/>
-    <id>9215dc6f010e90a72e1998ed719088ba</id>
-    <published>2026-06-08T21:00:13+00:00</published>
-    <updated>2026-06-08T21:00:13+00:00</updated>
-  </entry>
-  <entry>
-    <title>FrontierCode: An eval to measure whether you would actually merge the code</title>
-    <link href="https://news.ycombinator.com/item?id=48451723"/>
-    <id>dc18e7ef45dd29b2bb5389c870a1d661</id>
-    <published>2026-06-08T20:45:03+00:00</published>
-    <updated>2026-06-08T20:45:03+00:00</updated>
   </entry>
 </feed>
