@@ -6,7 +6,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-
 from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
@@ -117,18 +116,20 @@ def parse_minimax_html(soup):
                 "_".join(filter(None, id_components)).encode()
             ).hexdigest()
 
-            post = compact({
-                "id": item_id,
-                "source": "minimax",
-                "type": "model_update",
-                "title": title,
-                "description": description,
-                "url": url,
-                "published_date": published_date
-                or datetime.now(timezone.utc).isoformat(),
-                "categories": ["Release Notes", "Models"],
-                "organization": "MiniMax",
-            })
+            post = compact(
+                {
+                    "id": item_id,
+                    "source": "minimax",
+                    "type": "model_update",
+                    "title": title,
+                    "description": description,
+                    "url": url,
+                    "published_date": published_date
+                    or datetime.now(timezone.utc).isoformat(),
+                    "categories": ["Release Notes", "Models"],
+                    "organization": "MiniMax",
+                }
+            )
             posts.append(post)
             logging.info(f"Extracted update: {title[:50]}...")
 
@@ -247,13 +248,21 @@ def parse_date_from_text(date_str):
 def save_to_json(posts, filename):
     """Save posts to JSON file"""
     config = load_config()
-    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+    favicon = config.get("favicon") or (
+        config.get("url", "").rstrip("/") + "/favicon.ico"
+    )
     try:
         # Derive output filename from the cache filename (e.g., minimax_docs-release-notes-models.html -> minimax_docs-release-notes-models.xml)
         output_filename = filename.replace(".html", ".xml")
         feed_path = parsed_dir / output_filename
 
-        write_atom_feed(feed_path, posts, feed_title="MiniMax", feed_link="https://platform.minimax.io/docs/release-notes/models", feed_icon=favicon)
+        write_atom_feed(
+            feed_path,
+            posts,
+            feed_title="MiniMax",
+            feed_link="https://platform.minimax.io/docs/release-notes/models",
+            feed_icon=favicon,
+        )
     except IOError as e:
         logging.error(f"Error writing to file: {e}")
 

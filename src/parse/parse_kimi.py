@@ -1,11 +1,9 @@
 import hashlib
-import json
 import logging
 from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-
 from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
@@ -107,17 +105,19 @@ def extract_posts(soup):
                 "_".join(filter(None, id_components)).encode()
             ).hexdigest()
 
-            post = compact({
-                "id": item_id,
-                "source": "kimi",
-                "type": "blog",
-                "title": title,
-                "description": description,
-                "url": url,
-                "published_date": published_date,
-                "categories": ["Research"],
-                "organization": "Kimi",
-            })
+            post = compact(
+                {
+                    "id": item_id,
+                    "source": "kimi",
+                    "type": "blog",
+                    "title": title,
+                    "description": description,
+                    "url": url,
+                    "published_date": published_date,
+                    "categories": ["Research"],
+                    "organization": "Kimi",
+                }
+            )
             posts.append(post)
             logging.info(f"Extracted post: {title[:50]}...")
 
@@ -135,7 +135,9 @@ def main():
     config = load_config()
     output_filename = config["output_files"].get("blog", "kimi_blog.xml")
     cache_filename = config["cache_files"].get("blog", "kimi_blog.html")
-    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+    favicon = config.get("favicon") or (
+        config.get("url", "").rstrip("/") + "/favicon.ico"
+    )
 
     logging.info(f"Output file: {output_filename}")
     logging.info(f"Cache file: {cache_filename}")
@@ -154,7 +156,13 @@ def main():
     posts.sort(key=lambda x: x.get("published_date", ""), reverse=True)
 
     feed_path = parsed_dir / output_filename
-    write_atom_feed(feed_path, posts, feed_title="Kimi (Moonshot AI)", feed_link="https://www.kimi.com/blog", feed_icon=favicon)
+    write_atom_feed(
+        feed_path,
+        posts,
+        feed_title="Kimi (Moonshot AI)",
+        feed_link="https://www.kimi.com/blog",
+        feed_icon=favicon,
+    )
 
 
 if __name__ == "__main__":

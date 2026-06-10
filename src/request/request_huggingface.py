@@ -2,20 +2,18 @@
 
 import asyncio
 import hashlib
-import json
 import logging
 from datetime import datetime, timedelta, timezone
 
-from curl_cffi.requests import AsyncSession
-
 from common import (
     PARSED_DIR,
+    ensure_output_dir,
     fetch_with_retry,
     load_api_config,
     setup_logging,
-    ensure_output_dir,
     write_atom_feed,
 )
+from curl_cffi.requests import AsyncSession
 
 setup_logging()
 ensure_output_dir()
@@ -53,9 +51,7 @@ def _build_trending_item(item_data: dict, item_type: str) -> dict | None:
             description_parts.append(f"Tags: {', '.join(tags[:3])}")
 
         return {
-            "id": hashlib.md5(
-                f"huggingface_{item_id}".encode()
-            ).hexdigest(),
+            "id": hashlib.md5(f"huggingface_{item_id}".encode()).hexdigest(),
             "source": ORG_KEY,
             "type": item_type,
             "title": item_id,
@@ -110,8 +106,7 @@ def _build_paper_entry(raw_item: dict) -> dict | None:
             description_parts.append(f"GitHub Stars: {github_stars}")
 
         author_names = [
-            a["name"] for a in authors_raw
-            if isinstance(a, dict) and a.get("name")
+            a["name"] for a in authors_raw if isinstance(a, dict) and a.get("name")
         ]
         if author_names:
             description_parts.append(f"Authors: {', '.join(author_names[:3])}")
@@ -121,7 +116,8 @@ def _build_paper_entry(raw_item: dict) -> dict | None:
         primary_url = (
             f"https://arxiv.org/abs/{paper_id}"
             if paper_id
-            else project_url or github_url
+            else project_url
+            or github_url
             or f"https://huggingface.co/papers/{paper_id}"
         )
 
@@ -138,14 +134,12 @@ def _build_paper_entry(raw_item: dict) -> dict | None:
             additional_links.append(f'🔗 <a href="{hf_paper_url}">Hugging Face</a>')
 
         if additional_links:
-            description += (
-                "<br/>" if description else ""
-            ) + "<br/>".join(additional_links)
+            description += ("<br/>" if description else "") + "<br/>".join(
+                additional_links
+            )
 
         return {
-            "id": hashlib.md5(
-                f"huggingface_paper_{paper_id}".encode()
-            ).hexdigest(),
+            "id": hashlib.md5(f"huggingface_paper_{paper_id}".encode()).hexdigest(),
             "source": ORG_KEY,
             "type": "paper",
             "title": title,
@@ -154,7 +148,9 @@ def _build_paper_entry(raw_item: dict) -> dict | None:
             "external_url": (
                 github_url
                 if primary_url != github_url
-                else project_url if project_url != primary_url else None
+                else project_url
+                if project_url != primary_url
+                else None
             ),
             "published_date": published_date or datetime.now(timezone.utc).isoformat(),
             "categories": ["research", "paper"],
@@ -180,9 +176,7 @@ def _build_paper_entry(raw_item: dict) -> dict | None:
 # ── API fetchers ─────────────────────────────────────────
 
 
-async def fetch_trending_items(
-    base_url: str, page_config: dict
-) -> list[dict]:
+async def fetch_trending_items(base_url: str, page_config: dict) -> list[dict]:
     """Fetch trending items (models or datasets) from the Hugging Face API.
 
     The *page_config* dict must contain ``endpoint``, ``params`` (with ``type``
@@ -294,10 +288,7 @@ async def fetch_daily_papers(base_url: str) -> list[dict]:
 
         logging.info("Deduplicated to %d unique papers", len(deduped))
 
-        formatted = [
-            entry for item in deduped
-            if (entry := _build_paper_entry(item))
-        ]
+        formatted = [entry for item in deduped if (entry := _build_paper_entry(item))]
         return formatted
 
 
@@ -311,7 +302,9 @@ async def main() -> None:
     page_keys = ["trending_models", "trending_datasets", "daily_papers"]
 
     # Favicon: use config value or fall back to {base_url}/favicon.ico
-    favicon = config.get("favicon") or (config.get("base_url", "").rstrip("/") + "/favicon.ico")
+    favicon = config.get("favicon") or (
+        config.get("base_url", "").rstrip("/") + "/favicon.ico"
+    )
 
     for key in page_keys:
         page_config = config["pages"].get(key)
@@ -344,13 +337,17 @@ async def main() -> None:
                     "link": "https://huggingface.co/papers",
                 },
             }
-            feed_info = page_feed_info.get(key, {
-                "title": "Hugging Face",
-                "link": "https://huggingface.co",
-            })
+            feed_info = page_feed_info.get(
+                key,
+                {
+                    "title": "Hugging Face",
+                    "link": "https://huggingface.co",
+                },
+            )
 
             write_atom_feed(
-                output_file, data,
+                output_file,
+                data,
                 feed_title=feed_info["title"],
                 feed_link=feed_info["link"],
                 feed_icon=favicon,

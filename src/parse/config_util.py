@@ -125,9 +125,7 @@ def write_atom_feed(
     ET.SubElement(feed, "id").text = feed_link
 
     # Latest date for <updated>
-    dates = [
-        e.get("published_date", "") for e in entries if e.get("published_date")
-    ]
+    dates = [e.get("published_date", "") for e in entries if e.get("published_date")]
     dates.sort(reverse=True)
     updated = dates[0] if dates else datetime.now(timezone.utc).isoformat()
     ET.SubElement(feed, "updated").text = updated

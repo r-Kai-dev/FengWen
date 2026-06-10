@@ -6,7 +6,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-
 from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
@@ -142,24 +141,26 @@ def extract_trending_data(soup, timeframe="monthly"):
             # Generate unique ID based on repository path (stable across updates)
             item_id = hashlib.md5(f"github_trending_{repo_path}".encode()).hexdigest()
 
-            repository = compact({
-                "id": item_id,
-                "source": "github",
-                "type": "trending_repository",
-                "title": formatted_title,
-                "description": description,
-                "url": repo_url,
-                "published_date": datetime.now(timezone.utc).isoformat(),
-                "categories": [language] if language else [],
-                "metadata": {
-                    "stars": stars_count,
-                    "forks": forks_count,
-                    "stars_today": stars_today,
-                    "language": language,
-                    "timeframe": timeframe,
-                    "repo_path": repo_path,
-                },
-            })
+            repository = compact(
+                {
+                    "id": item_id,
+                    "source": "github",
+                    "type": "trending_repository",
+                    "title": formatted_title,
+                    "description": description,
+                    "url": repo_url,
+                    "published_date": datetime.now(timezone.utc).isoformat(),
+                    "categories": [language] if language else [],
+                    "metadata": {
+                        "stars": stars_count,
+                        "forks": forks_count,
+                        "stars_today": stars_today,
+                        "language": language,
+                        "timeframe": timeframe,
+                        "repo_path": repo_path,
+                    },
+                }
+            )
 
             repositories.append(repository)
 
@@ -188,7 +189,9 @@ def deduplicate_repositories(all_repositories):
     return list(repo_dict.values())
 
 
-def save_to_json(repositories, output_filename, feed_icon=None, feed_title=None, feed_link=None):
+def save_to_json(
+    repositories, output_filename, feed_icon=None, feed_title=None, feed_link=None
+):
     """Save repositories to JSON file"""
     # Sort by stars_today (trending metric) in descending order
     repositories.sort(key=lambda x: x["metadata"].get("stars_today", 0), reverse=True)
@@ -214,7 +217,13 @@ def save_to_json(repositories, output_filename, feed_icon=None, feed_title=None,
             feed_link = "https://github.com/trending"
 
     feed_path = parsed_dir / output_filename
-    write_atom_feed(feed_path, repositories, feed_title=feed_title, feed_link=feed_link, feed_icon=feed_icon)
+    write_atom_feed(
+        feed_path,
+        repositories,
+        feed_title=feed_title,
+        feed_link=feed_link,
+        feed_icon=feed_icon,
+    )
 
     logging.info(
         f"Successfully saved {len(repositories)} trending repositories to {feed_path}"
@@ -259,7 +268,9 @@ if __name__ == "__main__":
     config = load_config()
     cache_files = config["cache_files"]
     output_files = config["output_files"]
-    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+    favicon = config.get("favicon") or (
+        config.get("url", "").rstrip("/") + "/favicon.ico"
+    )
 
     all_repositories = []
     timeframes = ["daily", "weekly", "monthly"]
@@ -302,6 +313,8 @@ if __name__ == "__main__":
 
         # Merge with existing stateful data (carry over repos from previous runs)
         combined_output = output_files.get("trending_combined", "github_trends.xml")
-        merge_with_existing(deduplicated_repositories, combined_output, feed_icon=favicon)
+        merge_with_existing(
+            deduplicated_repositories, combined_output, feed_icon=favicon
+        )
     else:
         logging.error("No repositories found to process")

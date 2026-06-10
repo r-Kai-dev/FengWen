@@ -6,7 +6,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-
 from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
@@ -116,15 +115,17 @@ def extract_featured_post(soup):
     id_components = ["meta_ai", title, url]
     item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
 
-    post = compact({
-        "id": item_id,
-        "source": "meta_ai",
-        "type": "blog",
-        "title": title,
-        "url": url if url.startswith("http") else f"https://ai.meta.com{url}",
-        "published_date": published_date,
-        "organization": "Meta AI",
-    })
+    post = compact(
+        {
+            "id": item_id,
+            "source": "meta_ai",
+            "type": "blog",
+            "title": title,
+            "url": url if url.startswith("http") else f"https://ai.meta.com{url}",
+            "published_date": published_date,
+            "organization": "Meta AI",
+        }
+    )
     posts.append(post)
     logging.info(f"Extracted featured post: {title[:50]}...")
 
@@ -173,18 +174,24 @@ def extract_latest_news(soup):
 
             # Stable ID (without date)
             id_components = ["meta_ai", title, url]
-            item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
+            item_id = hashlib.md5(
+                "_".join(filter(None, id_components)).encode()
+            ).hexdigest()
 
-            post = compact({
-                "id": item_id,
-                "source": "meta_ai",
-                "type": "blog",
-                "title": title,
-                "url": url if url.startswith("http") else f"https://ai.meta.com{url}",
-                "published_date": published_date,
-                "categories": categories,
-                "organization": "Meta AI",
-            })
+            post = compact(
+                {
+                    "id": item_id,
+                    "source": "meta_ai",
+                    "type": "blog",
+                    "title": title,
+                    "url": url
+                    if url.startswith("http")
+                    else f"https://ai.meta.com{url}",
+                    "published_date": published_date,
+                    "categories": categories,
+                    "organization": "Meta AI",
+                }
+            )
             posts.append(post)
             logging.info(f"Extracted news post: {title[:50]}...")
 
@@ -193,9 +200,6 @@ def extract_latest_news(soup):
             continue
 
     return posts
-
-
-
 
 
 def parse_meta_ai_html(soup):
@@ -240,13 +244,21 @@ def parse_meta_ai_html(soup):
 def save_to_json(posts, filename):
     """Save posts to JSON file"""
     config = load_config()
-    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+    favicon = config.get("favicon") or (
+        config.get("url", "").rstrip("/") + "/favicon.ico"
+    )
     try:
         # Derive output filename from the cache filename (e.g., meta_blog.html -> meta_blog.xml)
         output_filename = filename.replace(".html", ".xml")
         feed_path = parsed_dir / output_filename
 
-        write_atom_feed(feed_path, posts, feed_title="Meta AI", feed_link="https://ai.meta.com/blog", feed_icon=favicon)
+        write_atom_feed(
+            feed_path,
+            posts,
+            feed_title="Meta AI",
+            feed_link="https://ai.meta.com/blog",
+            feed_icon=favicon,
+        )
     except IOError as e:
         logging.error(f"Error writing to file: {e}")
 

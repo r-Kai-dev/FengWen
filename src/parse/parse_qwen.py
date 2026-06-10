@@ -20,7 +20,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-
 from config_util import compact, load_site_config, write_atom_feed
 
 logging.basicConfig(
@@ -54,7 +53,11 @@ def parse_date(date_str: str) -> str | None:
     """Parse date strings like '2026/05/31'."""
     date_str = date_str.strip()
     try:
-        return datetime.strptime(date_str, "%Y/%m/%d").replace(tzinfo=timezone.utc).isoformat()
+        return (
+            datetime.strptime(date_str, "%Y/%m/%d")
+            .replace(tzinfo=timezone.utc)
+            .isoformat()
+        )
     except ValueError:
         pass
     return None
@@ -79,7 +82,9 @@ def extract_item(soup_item, base_url, seen_ids):
     Returns a compact dict or None if already seen / invalid.
     """
     # Title
-    title_el = soup_item.select_one("[class*='Advancement__Title'], [class*='Capability__Title']")
+    title_el = soup_item.select_one(
+        "[class*='Advancement__Title'], [class*='Capability__Title']"
+    )
     if not title_el:
         return None
     title = title_el.get_text(strip=True)
@@ -94,8 +99,7 @@ def extract_item(soup_item, base_url, seen_ids):
 
     # Description / summary
     desc_el = soup_item.select_one(
-        "[class*='Advancement__Description'], "
-        "[class*='Capability__Description'] "
+        "[class*='Advancement__Description'], [class*='Capability__Description'] "
     )
     summary = ""
     if desc_el:
@@ -103,15 +107,13 @@ def extract_item(soup_item, base_url, seen_ids):
 
     # Source/category (e.g., "Release", "Open-Source", "Research")
     source_el = soup_item.select_one(
-        "[class*='Advancement__Source'], "
-        "[class*='Capability__Source'] "
+        "[class*='Advancement__Source'], [class*='Capability__Source'] "
     )
     categories = [source_el.get_text(strip=True)] if source_el else []
 
     # Date
     date_el = soup_item.select_one(
-        "[class*='Advancement__Date'], "
-        "[class*='Capability__Date'] "
+        "[class*='Advancement__Date'], [class*='Capability__Date'] "
     )
     published_date = None
     if date_el:
@@ -131,17 +133,19 @@ def extract_item(soup_item, base_url, seen_ids):
 
     item_id = hashlib.md5(f"qwen_research_{title}".encode()).hexdigest()
 
-    return compact({
-        "id": item_id,
-        "source": "qwen",
-        "type": "research",
-        "title": title,
-        "url": url,
-        "summary": summary[:600] if summary else None,
-        "published_date": published_date,
-        "organization": "Qwen (Alibaba)",
-        "categories": categories,
-    })
+    return compact(
+        {
+            "id": item_id,
+            "source": "qwen",
+            "type": "research",
+            "title": title,
+            "url": url,
+            "summary": summary[:600] if summary else None,
+            "published_date": published_date,
+            "organization": "Qwen (Alibaba)",
+            "categories": categories,
+        }
+    )
 
 
 def extract_research_items(soup, base_url):
@@ -169,9 +173,7 @@ def extract_research_items(soup, base_url):
 
 def save_to_json(post_items, filename):
     """Deduplicate, sort, and save to feeds/ as Atom XML"""
-    dedup_list = [
-        json.loads(entry) for entry in {json.dumps(d) for d in post_items}
-    ]
+    dedup_list = [json.loads(entry) for entry in {json.dumps(d) for d in post_items}]
     dedup_list.sort(
         key=lambda x: x.get("published_date", ""),
         reverse=True,
@@ -179,7 +181,9 @@ def save_to_json(post_items, filename):
 
     config = load_config()
     output_files = config["output_files"]
-    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+    favicon = config.get("favicon") or (
+        config.get("url", "").rstrip("/") + "/favicon.ico"
+    )
 
     for page_type, cache_name in config["cache_files"].items():
         if cache_name == filename:
@@ -189,7 +193,13 @@ def save_to_json(post_items, filename):
         output_name = "qwen_research.xml"
 
     feed_path = parsed_dir / output_name
-    write_atom_feed(feed_path, dedup_list, feed_title="Qwen (Alibaba)", feed_link="https://qwen.ai/research", feed_icon=favicon)
+    write_atom_feed(
+        feed_path,
+        dedup_list,
+        feed_title="Qwen (Alibaba)",
+        feed_link="https://qwen.ai/research",
+        feed_icon=favicon,
+    )
 
 
 if __name__ == "__main__":

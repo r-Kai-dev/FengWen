@@ -1,12 +1,10 @@
 import hashlib
-import json
 import logging
 import re
 from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-
 from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
@@ -102,15 +100,17 @@ def extract_articles(soup):
                 "_".join(filter(None, id_components)).encode()
             ).hexdigest()
 
-            article = compact({
-                "id": item_id,
-                "source": "artificial_analysis",
-                "type": "article",
-                "title": title,
-                "url": url,
-                "published_date": published_date,
-                "organization": "Artificial Analysis",
-            })
+            article = compact(
+                {
+                    "id": item_id,
+                    "source": "artificial_analysis",
+                    "type": "article",
+                    "title": title,
+                    "url": url,
+                    "published_date": published_date,
+                    "organization": "Artificial Analysis",
+                }
+            )
             articles.append(article)
             logging.info(f"Extracted article: {title[:50]}...")
 
@@ -129,7 +129,9 @@ def main():
     config = load_config()
     output_filename = config["output_files"].get("articles", "artificial_analysis.xml")
     cache_filename = config["cache_files"].get("articles", "artificial_analysis.html")
-    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+    favicon = config.get("favicon") or (
+        config.get("url", "").rstrip("/") + "/favicon.ico"
+    )
 
     logging.info(f"Output file: {output_filename}")
     logging.info(f"Cache file: {cache_filename}")
@@ -153,7 +155,13 @@ def main():
 
     # Save to JSON
     feed_path = parsed_dir / output_filename
-    write_atom_feed(feed_path, articles, feed_title="Artificial Analysis", feed_link="https://artificialanalysis.ai/articles", feed_icon=favicon)
+    write_atom_feed(
+        feed_path,
+        articles,
+        feed_title="Artificial Analysis",
+        feed_link="https://artificialanalysis.ai/articles",
+        feed_icon=favicon,
+    )
 
 
 if __name__ == "__main__":

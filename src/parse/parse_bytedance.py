@@ -17,7 +17,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-
 from config_util import compact, load_site_config, write_atom_feed
 
 logging.basicConfig(
@@ -53,12 +52,20 @@ def parse_date(date_str: str) -> str | None:
     # "Apr 23, 2026"
     for fmt in ("%b %d, %Y", "%B %d, %Y", "%Y/%m/%d"):
         try:
-            return datetime.strptime(date_str, fmt).replace(tzinfo=timezone.utc).isoformat()
+            return (
+                datetime.strptime(date_str, fmt)
+                .replace(tzinfo=timezone.utc)
+                .isoformat()
+            )
         except ValueError:
             continue
     # "2026/05/31"
     try:
-        return datetime.strptime(date_str, "%Y/%m/%d").replace(tzinfo=timezone.utc).isoformat()
+        return (
+            datetime.strptime(date_str, "%Y/%m/%d")
+            .replace(tzinfo=timezone.utc)
+            .isoformat()
+        )
     except ValueError:
         pass
     return None
@@ -73,7 +80,10 @@ def _extract_blog(soup, base_url):
     cards = soup.select("div.grid.grid-cols-3 > div.group")
     if not cards:
         # Fallback: look for any div with cursor-pointer inside the grid
-        cards = soup.find_all("div", class_=lambda c: c and "group" in str(c) and "cursor-pointer" in str(c))
+        cards = soup.find_all(
+            "div",
+            class_=lambda c: c and "group" in str(c) and "cursor-pointer" in str(c),
+        )
 
     for card in cards:
         # Title — find by font-[500] class or common title pattern
@@ -93,7 +103,10 @@ def _extract_blog(soup, base_url):
 
         # Date — look for text matching "Mon DD, YYYY" pattern
         date_el = card.find(
-            "div", string=lambda t: bool(re.match(r"[A-Z][a-z]+ \d{1,2}, \d{4}", (t or "").strip()))
+            "div",
+            string=lambda t: bool(
+                re.match(r"[A-Z][a-z]+ \d{1,2}, \d{4}", (t or "").strip())
+            ),
         )
         published_date = None
         if date_el:
@@ -116,16 +129,20 @@ def _extract_blog(soup, base_url):
 
         item_id = hashlib.md5(f"bytedance_blog_{title}".encode()).hexdigest()
 
-        items.append(compact({
-            "id": item_id,
-            "source": "bytedance",
-            "type": "blog",
-            "title": title,
-            "url": url,
-            "published_date": published_date,
-            "organization": "ByteDance Seed",
-            "categories": categories,
-        }))
+        items.append(
+            compact(
+                {
+                    "id": item_id,
+                    "source": "bytedance",
+                    "type": "blog",
+                    "title": title,
+                    "url": url,
+                    "published_date": published_date,
+                    "organization": "ByteDance Seed",
+                    "categories": categories,
+                }
+            )
+        )
 
     return items
 
@@ -135,7 +152,12 @@ def _extract_public_papers(soup, base_url):
     items = []
 
     # Each paper is in a div with class containing "group relative w-full cursor-pointer"
-    papers = soup.find_all("div", class_=lambda c: c and "group relative w-full cursor-pointer" in str(c) if c else False)
+    papers = soup.find_all(
+        "div",
+        class_=lambda c: (
+            c and "group relative w-full cursor-pointer" in str(c) if c else False
+        ),
+    )
 
     for paper in papers:
         # Date is in a div with whitespace-nowrap text
@@ -144,7 +166,10 @@ def _extract_public_papers(soup, base_url):
 
         # Title is in a div with text-[24px] font-[500]
         title_el = paper.find(
-            "div", class_=lambda c: c and "text-[24px]" in str(c) and "font-[500]" in str(c) if c else False
+            "div",
+            class_=lambda c: (
+                c and "text-[24px]" in str(c) and "font-[500]" in str(c) if c else False
+            ),
         )
         title = title_el.get_text(strip=True) if title_el else ""
         if not title:
@@ -170,17 +195,21 @@ def _extract_public_papers(soup, base_url):
 
         item_id = hashlib.md5(f"bytedance_papers_{title}".encode()).hexdigest()
 
-        items.append(compact({
-            "id": item_id,
-            "source": "bytedance",
-            "type": "public_papers",
-            "title": title,
-            "url": url,
-            "summary": abstract[:500] if abstract else None,
-            "published_date": published_date,
-            "organization": "ByteDance Seed",
-            "categories": categories,
-        }))
+        items.append(
+            compact(
+                {
+                    "id": item_id,
+                    "source": "bytedance",
+                    "type": "public_papers",
+                    "title": title,
+                    "url": url,
+                    "summary": abstract[:500] if abstract else None,
+                    "published_date": published_date,
+                    "organization": "ByteDance Seed",
+                    "categories": categories,
+                }
+            )
+        )
 
     return items
 
@@ -198,9 +227,7 @@ def extract_html_data(soup, filename):
 
 def save_to_json(post_items, filename):
     """Deduplicate, sort, and save to feeds/ as Atom XML"""
-    dedup_list = [
-        json.loads(entry) for entry in {json.dumps(d) for d in post_items}
-    ]
+    dedup_list = [json.loads(entry) for entry in {json.dumps(d) for d in post_items}]
     dedup_list.sort(
         key=lambda x: x.get("published_date", ""),
         reverse=True,
@@ -208,7 +235,9 @@ def save_to_json(post_items, filename):
 
     config = load_config()
     output_files = config["output_files"]
-    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+    favicon = config.get("favicon") or (
+        config.get("url", "").rstrip("/") + "/favicon.ico"
+    )
 
     # Determine output filename from cache filename
     for page_type, cache_name in config["cache_files"].items():
@@ -235,7 +264,13 @@ def save_to_json(post_items, filename):
         feed_title = "ByteDance Seed"
 
     feed_path = parsed_dir / output_name
-    write_atom_feed(feed_path, dedup_list, feed_title=feed_title, feed_link=feed_link, feed_icon=favicon)
+    write_atom_feed(
+        feed_path,
+        dedup_list,
+        feed_title=feed_title,
+        feed_link=feed_link,
+        feed_icon=favicon,
+    )
 
 
 if __name__ == "__main__":

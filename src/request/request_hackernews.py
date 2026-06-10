@@ -2,20 +2,18 @@
 
 import asyncio
 import hashlib
-import json
 import logging
 from datetime import datetime, timezone
 
-from curl_cffi.requests import AsyncSession
-
 from common import (
     PARSED_DIR,
+    ensure_output_dir,
     fetch_with_retry,
     load_api_config,
     setup_logging,
-    ensure_output_dir,
     write_atom_feed,
 )
+from curl_cffi.requests import AsyncSession
 
 setup_logging()
 ensure_output_dir()
@@ -113,11 +111,14 @@ async def main() -> None:
         return
 
     # Favicon: use config value or fall back to {base_url}/favicon.ico
-    favicon = config.get("favicon") or (config.get("base_url", "").rstrip("/") + "/favicon.ico")
+    favicon = config.get("favicon") or (
+        config.get("base_url", "").rstrip("/") + "/favicon.ico"
+    )
 
     output_file = PARSED_DIR / page_config["output_file"]
     write_atom_feed(
-        output_file, stories,
+        output_file,
+        stories,
         feed_title="Hacker News Best",
         feed_link="https://news.ycombinator.com/best",
         feed_icon=favicon,

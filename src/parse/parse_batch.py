@@ -1,12 +1,10 @@
 import hashlib
-import json
 import logging
 import re
 from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-
 from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
@@ -68,11 +66,15 @@ def extract_posts(soup):
 
     # Collect article cards: PostCardLarge, PostCard (regular), PostCardSmall
     cards = []
-    for article in soup.find_all("article", attrs={"data-sentry-component": "PostCard"}):
+    for article in soup.find_all(
+        "article", attrs={"data-sentry-component": "PostCard"}
+    ):
         src = article.get("data-sentry-source-file", "")
         if src in ("PostCardLarge.tsx", "PostCard.tsx"):
             cards.append(article)
-    for article in soup.find_all("article", attrs={"data-sentry-component": "PostCardSmall"}):
+    for article in soup.find_all(
+        "article", attrs={"data-sentry-component": "PostCardSmall"}
+    ):
         cards.append(article)
 
     logging.info(f"Found {len(cards)} post cards on the page")
@@ -115,18 +117,22 @@ def extract_posts(soup):
 
             # Stable ID
             id_components = ["deeplearning_ai", title, url]
-            item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
+            item_id = hashlib.md5(
+                "_".join(filter(None, id_components)).encode()
+            ).hexdigest()
 
-            post = compact({
-                "id": item_id,
-                "source": "deeplearning_ai",
-                "type": "newsletter",
-                "title": title,
-                "description": description,
-                "url": url,
-                "published_date": published_date,
-                "organization": "DeepLearning.AI",
-            })
+            post = compact(
+                {
+                    "id": item_id,
+                    "source": "deeplearning_ai",
+                    "type": "newsletter",
+                    "title": title,
+                    "description": description,
+                    "url": url,
+                    "published_date": published_date,
+                    "organization": "DeepLearning.AI",
+                }
+            )
             posts.append(post)
             logging.info(f"Extracted post: {title[:50]}...")
 
@@ -143,9 +149,15 @@ def main():
 
     # Load configuration
     config = load_config()
-    output_filename = config["output_files"].get("the-batch", "deeplearning_ai_the-batch.xml")
-    cache_filename = config["cache_files"].get("the-batch", "deeplearning_ai_the-batch.html")
-    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+    output_filename = config["output_files"].get(
+        "the-batch", "deeplearning_ai_the-batch.xml"
+    )
+    cache_filename = config["cache_files"].get(
+        "the-batch", "deeplearning_ai_the-batch.html"
+    )
+    favicon = config.get("favicon") or (
+        config.get("url", "").rstrip("/") + "/favicon.ico"
+    )
 
     logging.info(f"Output file: {output_filename}")
     logging.info(f"Cache file: {cache_filename}")
@@ -169,7 +181,13 @@ def main():
 
     # Save to JSON
     feed_path = parsed_dir / output_filename
-    write_atom_feed(feed_path, posts, feed_title="DeepLearning.AI", feed_link="https://www.deeplearning.ai/the-batch", feed_icon=favicon)
+    write_atom_feed(
+        feed_path,
+        posts,
+        feed_title="DeepLearning.AI",
+        feed_link="https://www.deeplearning.ai/the-batch",
+        feed_icon=favicon,
+    )
 
 
 if __name__ == "__main__":

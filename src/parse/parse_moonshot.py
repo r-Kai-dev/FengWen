@@ -1,12 +1,10 @@
 import hashlib
 import json
 import logging
-import re
 from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-
 from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
@@ -138,17 +136,19 @@ def parse_moonshot_html(soup):
                 "_".join(filter(None, id_components)).encode()
             ).hexdigest()
 
-            post = compact({
-                "id": item_id,
-                "source": "moonshot",
-                "type": "blog",
-                "title": title,
-                "description": description,
-                "url": url,
-                "published_date": published_date,
-                "categories": ["Blog"],
-                "organization": "Moonshot AI",
-            })
+            post = compact(
+                {
+                    "id": item_id,
+                    "source": "moonshot",
+                    "type": "blog",
+                    "title": title,
+                    "description": description,
+                    "url": url,
+                    "published_date": published_date,
+                    "categories": ["Blog"],
+                    "organization": "Moonshot AI",
+                }
+            )
             posts.append(post)
             logging.info(f"Extracted post: {title[:50]}...")
 
@@ -182,7 +182,9 @@ def save_to_json(posts, filename):
     try:
         config = load_config()
         output_files = config["output_files"]
-        favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+        favicon = config.get("favicon") or (
+            config.get("url", "").rstrip("/") + "/favicon.ico"
+        )
 
         # Determine the output filename based on the cache filename
         if "blog" in filename:
@@ -193,7 +195,13 @@ def save_to_json(posts, filename):
         output_filename = output_files.get(page_type, "moonshot_blog.xml")
         feed_path = parsed_dir / output_filename
 
-        write_atom_feed(feed_path, posts, feed_title="Moonshot AI", feed_link="https://platform.moonshot.ai/blog", feed_icon=favicon)
+        write_atom_feed(
+            feed_path,
+            posts,
+            feed_title="Moonshot AI",
+            feed_link="https://platform.moonshot.ai/blog",
+            feed_icon=favicon,
+        )
     except IOError as e:
         logging.error(f"Error writing to file: {e}")
 

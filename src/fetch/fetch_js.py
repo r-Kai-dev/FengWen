@@ -32,10 +32,21 @@ logs_dir.mkdir(parents=True, exist_ok=True)
 
 # Tags stripped from saved HTML (mirrors fetch_html.py)
 _REMOVE_TAGS = {
-    "script", "style", "noscript", "template",
-    "img", "picture", "video", "audio",
-    "source", "track", "canvas", "svg",
-    "iframe", "embed", "object",
+    "script",
+    "style",
+    "noscript",
+    "template",
+    "img",
+    "picture",
+    "video",
+    "audio",
+    "source",
+    "track",
+    "canvas",
+    "svg",
+    "iframe",
+    "embed",
+    "object",
 }
 
 
@@ -146,10 +157,24 @@ def fetch_all(config_path: Path) -> None:
                         html = _fetch_straightforward(page, full_url)
 
                     filename = save_html(org_key, page_path, html)
-                    results.append({"url": base_url, "page": page_path, "status": "success", "file": filename})
+                    results.append(
+                        {
+                            "url": base_url,
+                            "page": page_path,
+                            "status": "success",
+                            "file": filename,
+                        }
+                    )
                 except Exception as exc:
                     logging.error(f"Failed {org_key}/{page_path}: {exc}")
-                    results.append({"url": base_url, "page": page_path, "status": "error", "error": str(exc)})
+                    results.append(
+                        {
+                            "url": base_url,
+                            "page": page_path,
+                            "status": "error",
+                            "error": str(exc),
+                        }
+                    )
     finally:
         page.quit()
 
@@ -163,7 +188,9 @@ def fetch_all(config_path: Path) -> None:
     # Save log
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H")
     log_path = logs_dir / f"fetch_js_log_{timestamp}.json"
-    log_path.write_text(json.dumps(results, ensure_ascii=False, indent=2), encoding="utf-8")
+    log_path.write_text(
+        json.dumps(results, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
 
 if __name__ == "__main__":

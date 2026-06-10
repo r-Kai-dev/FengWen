@@ -45,9 +45,7 @@ def load_api_config(org_key: str) -> dict:
                 "favicon": site.get("favicon"),
             }
 
-    raise ValueError(
-        f"Configuration for '{org_key}' not found in config/api.json"
-    )
+    raise ValueError(f"Configuration for '{org_key}' not found in config/api.json")
 
 
 async def fetch_with_retry(
@@ -72,10 +70,9 @@ async def fetch_with_retry(
         except Exception as exc:
             last_exception = exc
             if attempt < max_retries - 1:
-                wait = base_delay * (2 ** attempt)
+                wait = base_delay * (2**attempt)
                 logging.warning(
-                    "Request to %s failed (attempt %d/%d): %s. "
-                    "Retrying in %.1fs …",
+                    "Request to %s failed (attempt %d/%d): %s. Retrying in %.1fs …",
                     url,
                     attempt + 1,
                     max_retries,
@@ -117,9 +114,7 @@ def write_atom_feed(
     ET.SubElement(feed, "link", href=feed_link)
     ET.SubElement(feed, "id").text = feed_link
 
-    dates = [
-        e.get("published_date", "") for e in entries if e.get("published_date")
-    ]
+    dates = [e.get("published_date", "") for e in entries if e.get("published_date")]
     dates.sort(reverse=True)
     updated = dates[0] if dates else datetime.now(timezone.utc).isoformat()
     ET.SubElement(feed, "updated").text = updated
@@ -152,4 +147,6 @@ def write_atom_feed(
     dom = minidom.parseString(rough)
     pretty = dom.toprettyxml(indent="  ", encoding="utf-8")
     output_path.write_bytes(pretty)
-    logging.getLogger(__name__).info(f"Wrote Atom feed ({len(entries)} entries) to {output_path}")
+    logging.getLogger(__name__).info(
+        f"Wrote Atom feed ({len(entries)} entries) to {output_path}"
+    )

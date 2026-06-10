@@ -6,7 +6,6 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-
 from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
@@ -195,17 +194,19 @@ def extract_daily_news_from_html(soup, html_content):
                 "_".join(filter(None, id_components)).encode()
             ).hexdigest()
 
-            article = compact({
-                "id": item_id,
-                "source": "aibase",
-                "type": "daily_news",
-                "title": title,
-                "description": cleaned_description,
-                "url": url,
-                "published_date": published_date,
-                "categories": ["AI Daily", "人工智能"],
-                "organization": "AIBase",
-            })
+            article = compact(
+                {
+                    "id": item_id,
+                    "source": "aibase",
+                    "type": "daily_news",
+                    "title": title,
+                    "description": cleaned_description,
+                    "url": url,
+                    "published_date": published_date,
+                    "categories": ["AI Daily", "人工智能"],
+                    "organization": "AIBase",
+                }
+            )
 
             articles.append(article)
             logging.info(f"Extracted AIBase daily news: {title[:50]}...")
@@ -256,13 +257,21 @@ def parse_aibase_html(soup, html_content):
 def save_to_json(articles, filename):
     """Save articles to JSON file"""
     config = load_config()
-    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+    favicon = config.get("favicon") or (
+        config.get("url", "").rstrip("/") + "/favicon.ico"
+    )
     try:
         # Derive output filename from the cache filename (e.g., aibase_zh-daily.html -> aibase_zh-daily.xml)
         output_filename = filename.replace(".html", ".xml")
         feed_path = parsed_dir / output_filename
 
-        write_atom_feed(feed_path, articles, feed_title="AIbase", feed_link="https://news.aibase.com/zh/daily", feed_icon=favicon)
+        write_atom_feed(
+            feed_path,
+            articles,
+            feed_title="AIbase",
+            feed_link="https://news.aibase.com/zh/daily",
+            feed_icon=favicon,
+        )
     except IOError as e:
         logging.error(f"Error writing to file: {e}")
 

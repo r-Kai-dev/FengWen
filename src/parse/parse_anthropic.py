@@ -5,7 +5,6 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-
 from config_util import compact, load_site_config, write_atom_feed
 
 # Configure logging
@@ -254,16 +253,18 @@ def _create_post_item(
     id_components = ["anthropic", title, url]
     item_id = hashlib.md5("_".join(filter(None, id_components)).encode()).hexdigest()
 
-    return compact({
-        "id": item_id,
-        "source": "anthropic",
-        "type": page_type,
-        "title": title,
-        "url": url,
-        "published_date": published_date,
-        "organization": "Anthropic",
-        "categories": categories,
-    })
+    return compact(
+        {
+            "id": item_id,
+            "source": "anthropic",
+            "type": page_type,
+            "title": title,
+            "url": url,
+            "published_date": published_date,
+            "organization": "Anthropic",
+            "categories": categories,
+        }
+    )
 
 
 def save_to_json(post_items, filename):
@@ -350,7 +351,9 @@ def save_to_json(post_items, filename):
         page_type = "research"
 
     # Favicon: use config value or fall back to {url}/favicon.ico
-    favicon = config.get("favicon") or (config.get("url", "").rstrip("/") + "/favicon.ico")
+    favicon = config.get("favicon") or (
+        config.get("url", "").rstrip("/") + "/favicon.ico"
+    )
 
     try:
         output_filename = output_files.get(page_type, f"anthropic_{page_type}.xml")
@@ -370,7 +373,13 @@ def save_to_json(post_items, filename):
         feed_link = page_links.get(page_type, "https://www.anthropic.com")
         feed_title = page_titles.get(page_type, "Anthropic")
 
-        write_atom_feed(feed_path, dedup_list, feed_title=feed_title, feed_link=feed_link, feed_icon=favicon)
+        write_atom_feed(
+            feed_path,
+            dedup_list,
+            feed_title=feed_title,
+            feed_link=feed_link,
+            feed_icon=favicon,
+        )
     except IOError as e:
         logging.error(f"Error writing to file: {e}")
 
