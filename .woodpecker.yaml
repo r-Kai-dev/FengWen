@@ -1,5 +1,3 @@
-timeout: 10
-
 when:
   - event: cron
     cron: daily-21
@@ -50,7 +48,7 @@ steps:
       - git config user.email "ci@woodpecker"
       - git config user.name "Woodpecker CI"
       - git add feeds/
-      - "if ! git diff --cached --quiet; then git commit -m 'ci: update feeds [SKIP CI]'; fi"
-      - git push
+      - git diff --cached --quiet || git commit -m "ci: update results [skip ci]"
+      - git push --set-upstream origin main
     depends_on:
       - parse
