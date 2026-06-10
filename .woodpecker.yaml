@@ -48,7 +48,7 @@ steps:
       - git config user.email "ci@woodpecker"
       - git config user.name "Woodpecker CI"
       - git add feeds/
-      - git diff --cached --quiet || git commit -m "ci: update results [skip ci]"
+      - "git diff --cached --quiet || git commit -m 'ci: update results [skip ci]'"
       - git push --set-upstream origin main
     depends_on:
       - parse
