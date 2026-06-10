@@ -4,7 +4,7 @@
       "name": "Hacker News",
       "org_key": "hackernews",
       "base_url": "https://hacker-news.firebaseio.com/v0",
-      "favicon": "https://news.ycombinator.com/y18.svg",
+      "favicon": "https://news.ycombinator.com/favicon.ico",
       "pages": [
         {
           "key": "best",
@@ -20,7 +20,7 @@
       "name": "Hugging Face",
       "org_key": "huggingface",
       "base_url": "https://huggingface.co/api",
-      "favicon": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg",
+      "favicon": "https://huggingface.co/favicon.ico",
       "pages": [
         {
           "key": "trending_models",
