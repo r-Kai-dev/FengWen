@@ -6,60 +6,6 @@
   <id>https://huggingface.co/papers</id>
   <updated>2026-06-01T20:00:00.000Z</updated>
   <entry>
-    <title>Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players</title>
-    <link href="https://arxiv.org/abs/2605.28816"/>
-    <id>31d90a42baf5050501cbad0c5d62ffd6</id>
-    <published>2026-05-26T20:00:00.000Z</published>
-    <updated>2026-05-26T20:00:00.000Z</updated>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>HRM-Text: Efficient Pretraining Beyond Scaling</title>
-    <link href="https://arxiv.org/abs/2605.20613"/>
-    <id>e4aee06f3b52f8035a5c6db1a3f878fb</id>
-    <published>2026-05-19T20:00:00.000Z</published>
-    <updated>2026-05-19T20:00:00.000Z</updated>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence</title>
-    <link href="https://arxiv.org/abs/2605.12882"/>
-    <id>50f759643fa412dbf069f37417e4190d</id>
-    <published>2026-05-12T20:00:00.000Z</published>
-    <updated>2026-05-12T20:00:00.000Z</updated>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers</title>
-    <link href="https://arxiv.org/abs/2605.06169"/>
-    <id>7fe9b1b9bd349f0f11630b5a8d367adc</id>
-    <published>2026-05-06T20:00:00.000Z</published>
-    <updated>2026-05-06T20:00:00.000Z</updated>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>SkillOpt: Executive Strategy for Self-Evolving Agent Skills</title>
-    <link href="https://arxiv.org/abs/2605.23904"/>
-    <id>67d1d56c7d6250cd7d62e8b97fa35cec</id>
-    <published>2026-05-21T20:00:00.000Z</published>
-    <updated>2026-05-21T20:00:00.000Z</updated>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters</title>
-    <link href="https://arxiv.org/abs/2606.02437"/>
-    <id>a3dcbdfe01d46217430b0ed553a8632d</id>
-    <published>2026-05-31T20:00:00.000Z</published>
-    <updated>2026-05-31T20:00:00.000Z</updated>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
     <title>PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training</title>
     <link href="https://arxiv.org/abs/2606.03264"/>
     <id>4880dc69bacd9ce7e16146a199375baa</id>
@@ -78,11 +24,56 @@
     <category term="paper"/>
   </entry>
   <entry>
+    <title>Cosmos 3: Omnimodal World Models for Physical AI</title>
+    <link href="https://arxiv.org/abs/2606.02800"/>
+    <id>daf251a8f2baee3ca01adc98296543eb</id>
+    <published>2026-05-31T20:00:00.000Z</published>
+    <updated>2026-05-31T20:00:00.000Z</updated>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters</title>
+    <link href="https://arxiv.org/abs/2606.02437"/>
+    <id>a3dcbdfe01d46217430b0ed553a8632d</id>
+    <published>2026-05-31T20:00:00.000Z</published>
+    <updated>2026-05-31T20:00:00.000Z</updated>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
     <title>COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation</title>
     <link href="https://arxiv.org/abs/2605.31264"/>
     <id>55e888d4bb41df6cdf77fbcfb2d71162</id>
     <published>2026-05-28T20:00:00.000Z</published>
     <updated>2026-05-28T20:00:00.000Z</updated>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players</title>
+    <link href="https://arxiv.org/abs/2605.28816"/>
+    <id>31d90a42baf5050501cbad0c5d62ffd6</id>
+    <published>2026-05-26T20:00:00.000Z</published>
+    <updated>2026-05-26T20:00:00.000Z</updated>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>SkillOpt: Executive Strategy for Self-Evolving Agent Skills</title>
+    <link href="https://arxiv.org/abs/2605.23904"/>
+    <id>67d1d56c7d6250cd7d62e8b97fa35cec</id>
+    <published>2026-05-21T20:00:00.000Z</published>
+    <updated>2026-05-21T20:00:00.000Z</updated>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>HRM-Text: Efficient Pretraining Beyond Scaling</title>
+    <link href="https://arxiv.org/abs/2605.20613"/>
+    <id>e4aee06f3b52f8035a5c6db1a3f878fb</id>
+    <published>2026-05-19T20:00:00.000Z</published>
+    <updated>2026-05-19T20:00:00.000Z</updated>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -96,11 +87,20 @@
     <category term="paper"/>
   </entry>
   <entry>
-    <title>Cosmos 3: Omnimodal World Models for Physical AI</title>
-    <link href="https://arxiv.org/abs/2606.02800"/>
-    <id>daf251a8f2baee3ca01adc98296543eb</id>
-    <published>2026-05-31T20:00:00.000Z</published>
-    <updated>2026-05-31T20:00:00.000Z</updated>
+    <title>CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence</title>
+    <link href="https://arxiv.org/abs/2605.12882"/>
+    <id>50f759643fa412dbf069f37417e4190d</id>
+    <published>2026-05-12T20:00:00.000Z</published>
+    <updated>2026-05-12T20:00:00.000Z</updated>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers</title>
+    <link href="https://arxiv.org/abs/2605.06169"/>
+    <id>7fe9b1b9bd349f0f11630b5a8d367adc</id>
+    <published>2026-05-06T20:00:00.000Z</published>
+    <updated>2026-05-06T20:00:00.000Z</updated>
     <category term="research"/>
     <category term="paper"/>
   </entry>

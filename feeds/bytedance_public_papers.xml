@@ -66,21 +66,21 @@ high-frequency detail recovery, while a locality-aware VAE achieve...</summary>
     <category term="Robotics"/>
   </entry>
   <entry>
-    <title>UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation</title>
-    <link href="https://seed.bytedance.com/en/publication/unigrpo-unified-policy-optimization-for-reasoning-driven-visual-generation"/>
-    <id>16e57d0078e7830deedcc632b8498878</id>
-    <published>2026-03-24T00:00:00+00:00</published>
-    <updated>2026-03-24T00:00:00+00:00</updated>
-    <summary type="text">Unified models capable of interleaved generation have emerged as a promising paradigm, with the community increasingly converging on autoregressive modeling for text and flow matching for image generation. To advance this direction, we propose a unified reinforcement learning framework tailored for interleaved generation. We validate our approach on its fu...</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
     <title>SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM</title>
     <link href="https://seed.bytedance.com/en/publication/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm"/>
     <id>499bfa58dcf8fd2549793edc4022c78a</id>
     <published>2026-03-24T00:00:00+00:00</published>
     <updated>2026-03-24T00:00:00+00:00</updated>
     <summary type="text">High-quality articulated 3D assets are indispensable for embodied AI and physical simulation, yet 3D generation still focuses on static meshes, leaving a gap in &quot;sim-ready&quot; interactive objects. Most recent articulated object creation methods rely on multi-stage pipelines that accumulate errors across decoupled modules. Alternatively, unified MLLMs offe...</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
+  </entry>
+  <entry>
+    <title>UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation</title>
+    <link href="https://seed.bytedance.com/en/publication/unigrpo-unified-policy-optimization-for-reasoning-driven-visual-generation"/>
+    <id>16e57d0078e7830deedcc632b8498878</id>
+    <published>2026-03-24T00:00:00+00:00</published>
+    <updated>2026-03-24T00:00:00+00:00</updated>
+    <summary type="text">Unified models capable of interleaved generation have emerged as a promising paradigm, with the community increasingly converging on autoregressive modeling for text and flow matching for image generation. To advance this direction, we propose a unified reinforcement learning framework tailored for interleaved generation. We validate our approach on its fu...</summary>
     <category term="Computer Vision and Pattern Recognition"/>
   </entry>
   <entry>
@@ -147,13 +147,13 @@ high-frequency detail recovery, while a locality-aware VAE achieve...</summary>
     <category term="Computation and Language"/>
   </entry>
   <entry>
-    <title>Steerable Instruction Following Coding Data Synthesis with Actor-Parametric Schema Co-Evolution</title>
-    <link href="https://seed.bytedance.com/en/publication/steerable-instruction-following-coding-data-synthesis-with-actor-parametric-schema-co-evolution"/>
-    <id>dcef8ba92b437a534ab4b1ea0046960b</id>
+    <title>CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation</title>
+    <link href="https://seed.bytedance.com/en/publication/cuda-agent-large-scale-agentic-rl-for-high-performance-cuda-kernel-generation"/>
+    <id>9f8e05e70e3eccccb486656a7cb2cf33</id>
     <published>2026-02-27T00:00:00+00:00</published>
     <updated>2026-02-27T00:00:00+00:00</updated>
-    <summary type="text">Interpreting and following human instructions is a critical capability of large language models (LLMs) in automatic programming. However, synthesizing large-scale instruction-paired coding data remains largely unexplored and is particularly challenging when ensuring logical compatibility among multiple constraints. In this study, we propose IFCodeE...</summary>
-    <category term="Software Engineering"/>
+    <summary type="text">GPU kernel optimization is fundamental to modern deep learning but remains a highly specialized task requiring deep hardware expertise. Despite strong performance in general programming, large language models (LLMs) remain uncompetitive with compiler-based systems such as this http URL for CUDA kernel generation. Existing CUDA code genera...</summary>
+    <category term="Machine Learning"/>
   </entry>
   <entry>
     <title>Does Your Reasoning Model Implicitly Know When to Stop Thinking?</title>
@@ -165,12 +165,12 @@ high-frequency detail recovery, while a locality-aware VAE achieve...</summary>
     <category term="Artificial Intelligence"/>
   </entry>
   <entry>
-    <title>CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation</title>
-    <link href="https://seed.bytedance.com/en/publication/cuda-agent-large-scale-agentic-rl-for-high-performance-cuda-kernel-generation"/>
-    <id>9f8e05e70e3eccccb486656a7cb2cf33</id>
+    <title>Steerable Instruction Following Coding Data Synthesis with Actor-Parametric Schema Co-Evolution</title>
+    <link href="https://seed.bytedance.com/en/publication/steerable-instruction-following-coding-data-synthesis-with-actor-parametric-schema-co-evolution"/>
+    <id>dcef8ba92b437a534ab4b1ea0046960b</id>
     <published>2026-02-27T00:00:00+00:00</published>
     <updated>2026-02-27T00:00:00+00:00</updated>
-    <summary type="text">GPU kernel optimization is fundamental to modern deep learning but remains a highly specialized task requiring deep hardware expertise. Despite strong performance in general programming, large language models (LLMs) remain uncompetitive with compiler-based systems such as this http URL for CUDA kernel generation. Existing CUDA code genera...</summary>
-    <category term="Machine Learning"/>
+    <summary type="text">Interpreting and following human instructions is a critical capability of large language models (LLMs) in automatic programming. However, synthesizing large-scale instruction-paired coding data remains largely unexplored and is particularly challenging when ensuring logical compatibility among multiple constraints. In this study, we propose IFCodeE...</summary>
+    <category term="Software Engineering"/>
   </entry>
 </feed>
