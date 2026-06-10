@@ -45,12 +45,12 @@ steps:
       - fetch-js
 
   - name: update-feeds
-      image: alpine/git
-      commands:
-        - git config user.email "ci@woodpecker"
-        - git config user.name "Woodpecker CI"
-        - git add feeds/
-        - git diff --cached --quiet || git commit -m "ci: update feeds [SKIP CI]"
-        - git push
-      depends_on:
-        - parse
+    image: alpine/git
+    commands:
+      - git config user.email "ci@woodpecker"
+      - git config user.name "Woodpecker CI"
+      - git add feeds/
+      - git diff --cached --quiet || git commit -m "ci: update feeds [SKIP CI]"
+      - git push
+    depends_on:
+      - parse
