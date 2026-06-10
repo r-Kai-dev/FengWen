@@ -10,21 +10,14 @@ cd "$(dirname "$0")"
 LOGDIR="$(dirname "$(dirname "$PWD")")/logs"
 mkdir -p "$LOGDIR"
 
-SCRIPTS=(
-    parse_aibase.py
-    parse_anthropic.py
-    parse_artianalysis.py
-    parse_batch.py
-    parse_bytedance.py
-    parse_deepseek.py
-    parse_github.py
-    parse_kimi.py
-    parse_meta.py
-    parse_minimax.py
-    parse_moonshot.py
-    parse_qwen.py
-    parse_zai.py
-)
+shopt -s nullglob
+SCRIPTS=(parse_*.py)
+shopt -u nullglob
+
+if [ ${#SCRIPTS[@]} -eq 0 ]; then
+    echo "No parse_*.py scripts found."
+    exit 0
+fi
 
 FAILED=0
 for script in "${SCRIPTS[@]}"; do

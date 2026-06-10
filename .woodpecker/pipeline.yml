@@ -1,0 +1,42 @@
+when:
+  - event: cron
+    cron: daily-11
+
+steps:
+  - name: fetch-html
+    image: python:3.12
+    commands:
+      - pip install -q curl_cffi beautifulsoup4
+      - python3 src/fetch/fetch_html.py
+    depends_on: []
+
+  - name: fetch-js
+    image: python:3.12
+    commands:
+      - apt-get update -qq && apt-get install -y -qq chromium 2>/dev/null
+      - pip install -q curl_cffi beautifulsoup4 DrissionPage
+      - python3 src/fetch/fetch_js.py
+    depends_on: []
+
+  - name: request-hackernews
+    image: python:3.12
+    commands:
+      - pip install -q curl_cffi
+      - python3 src/request/request_hackernews.py
+    depends_on: []
+
+  - name: request-huggingface
+    image: python:3.12
+    commands:
+      - pip install -q curl_cffi
+      - python3 src/request/request_huggingface.py
+    depends_on: []
+
+  - name: parse
+    image: python:3.12
+    commands:
+      - pip install -q beautifulsoup4
+      - bash src/parse/run.sh
+    depends_on:
+      - fetch-html
+      - fetch-js
