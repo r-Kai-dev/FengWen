@@ -93,6 +93,9 @@ def write_atom_feed(
 ) -> None:
     """Write a list of entry dicts to an Atom XML feed file.
 
+    Entries are sorted by ``published_date`` descending, then by ``title``
+    ascending for ties, to ensure stable ordering across runs.
+
     Each entry dict may contain:
       - title (str)
       - url / link (str)
@@ -105,6 +108,11 @@ def write_atom_feed(
     If *feed_icon* is provided, an ``<icon>`` element is added to the feed.
     """
     import xml.etree.ElementTree as ET
+
+    # Stable sort: date descending, title ascending for ties.
+    # Two-pass sort exploits Python's stable sort — the last key wins.
+    entries.sort(key=lambda e: e.get("title", "") or "")
+    entries.sort(key=lambda e: e.get("published_date", "") or "", reverse=True)
 
     feed = ET.Element("feed", xmlns="http://www.w3.org/2005/Atom")
 
