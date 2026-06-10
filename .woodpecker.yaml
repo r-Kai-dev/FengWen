@@ -49,7 +49,7 @@ steps:
       - git config user.name "Woodpecker CI"
       - git add feeds/
       - "git diff --cached --quiet || git commit -m 'ci: update results [skip ci]'"
-      - git remote set-url origin https://$CI_REPO_OWNER:$Push-FengWen@codeberg.org/$CI_REPO_OWNER/$CI_REPO_NAME.git
-      - git push --set-upstream origin main
+      - git remote set-url origin https://${CI_REPO_OWNER}:${Push-FengWen}@codeberg.org/${CI_REPO}.git
+      - git push origin HEAD:main
     depends_on:
       - parse
