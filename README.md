@@ -112,6 +112,7 @@ To-Do: Appending logic with snapshot timestamps
 | [AlphaSignal Blog](https://alphasignalai.substack.com/) | [AlphaSignal Blog Feed](https://alphasignalai.substack.com/feed) | Official |
 | [Interconnects AI](https://www.interconnects.ai/) | [Interconnects AI Feed](https://www.interconnects.ai/feed) | Official |
 | [Import AI](https://importai.substack.com/) | [Import AI Feed](https://importai.substack.com/feed) | Official |
+| [lcamtuf’s thing](https://lcamtuf.substack.com/) | [lcamtuf’s thing Feed](https://lcamtuf.substack.com/feed) | Official |
 
 
 ## Tech News
