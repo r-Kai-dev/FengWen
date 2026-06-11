@@ -19,7 +19,7 @@ The following tables include both the feeds created by this project and existing
 | [DeepMind Blog](https://deepmind.google/discover/blog/) | [DeepMind Blog Feed](https://deepmind.google/blog/rss.xml) | Official |
 | [DeepMind Research](https://deepmind.google/research/) | [DeepMind Research Feed](https://deepmind.google/blog/rss.xml) | Official |
 | [Meta AI Blog](https://ai.meta.com/blog/) | [meta_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/meta_blog.xml) | Created |
-| [Mistral AI Blog](https://mistral.ai/news) | | |
+| [Mistral AI News](https://mistral.ai/news) | [Mistral AI News Feed](https://mistral.ai/news/rss.xml) | Official |
 | [X.AI News](https://x.ai/news) | | |
 | [Amazon Science Blog](https://www.amazon.science/blog) | [Amazon Science Blog Feed](https://www.amazon.science/index.rss) | Official |
 | [AWS AI Blog](https://aws.amazon.com/blogs/machine-learning/) | [AWS AI Blog Feed](https://aws.amazon.com/blogs/machine-learning/feed/) | Official |
@@ -51,12 +51,14 @@ The following tables include both the feeds created by this project and existing
 | [Kyutai Lab Blog](https://kyutai.org/blog.html) | | |
 | [Boson AI Blog](https://www.boson.ai/blog) | | |
 | [Sesame AI Blog](https://www.sesame.com/blog) | | |
-| [Arc Prize Blog](https://arcprize.org/blog) | | |
+| [Arc Prize Blog](https://arcprize.org/blog) | [Arc Prize Blog Feed](https://arcprize.org/feed.xml) | Official |
 | [World Labs AI Blog](https://www.worldlabs.ai/blog) | | |
+| [AMI Lab Updates](https://amilabs.xyz/updates) | | |
 | [Sakana AI Blog](https://sakana.ai/blog/) | [Sakana AI Blog Feed](https://sakana.ai/feed.xml) | Official |
 | [Netflix Tech Blog](https://netflixtechblog.com) | [Netflix Tech Blog Feed](https://netflixtechblog.com/feed) | Official |
 | [Thinking Machine Lab Blog](https://thinkingmachines.ai/blog/) | [Thinking Machine Lab Blog Feed](https://thinkingmachines.ai/blog/index.xml) | Official |
 | [Thinking Machine Lab News](https://thinkingmachines.ai/news/) | [Thinking Machine Lab News Feed](https://thinkingmachines.ai/news/index.xml) | Official |
+| [Resemble AI Blog](https://www.resemble.ai/resources) | | |
 
 
 ## Tool/Platform Feeds
@@ -66,15 +68,17 @@ The following tables include both the feeds created by this project and existing
 | [GitHub Trending](https://github.com/trending) | [github_trends.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trends.xml)<br>[github_trending-since-daily.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-daily.xml)<br>[github_trending-since-weekly.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-weekly.xml)<br>[github_trending-since-monthly.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-monthly.xml)<br> | Created |
 | [HuggingFace Blog](https://huggingface.co/blog) | [HuggingFace Blog Feed](https://huggingface.co/blog/feed.xml) | Official |
 | [Ollama Blog](https://ollama.com/blog) | [Ollama Blog Feed](https://ollama.com/blog/rss.xml) | Official |
-| [vLLM Blog](https://blog.vllm.ai/) | [vLLM Blog Feed](https://blog.vllm.ai/feed.xml) | Official |
+| [vLLM Blog](https://vllm.ai/blog) | [vLLM Blog Feed](https://vllm.ai/blog/rss.xml) | Official |
 | [Unsloth Blog](https://unsloth.ai/blog) | | |
 | [ComfyUI Blog](https://blog.comfy.org/) | [ComfyUI Blog Feed](https://blog.comfy.org/feed) | Official |
 | [Replicate Blog](https://replicate.com/blog) | [Replicate Blog Feed](https://replicate.com/blog/atom) | Official |
-| [OpenRouter News](https://openrouter.ai/announcements) | | |
+| [OpenRouter Blog](https://openrouter.ai/blog/) | [OpenRouter Blog Feed](https://openrouter.ai/blog/feed.xml) | Official |
 | [Groq Blog](https://groq.com/blog) | | |
 | [Groq News](https://groq.com/announcements) | | |
 | [Llama.cpp Announcement](https://github.com/ggml-org/llama.cpp/discussions/categories/announcements) | [Llama.cpp Announcement Feed](https://github.com/ggml-org/llama.cpp/discussions/categories/announcements.atom) | Official |
 | [Rust Blog](https://blog.rust-lang.org/) | [Rust Blog Feed](https://blog.rust-lang.org/feed.xml) | Official |
+| [Higgsfield Blog](https://higgsfield.ai/blog) | | |
+| [LMSys Blog](https://www.lmsys.org/blog/) | | |
 
 
 ## Academic Feeds
@@ -103,7 +107,8 @@ To-Do: Appending logic with snapshot timestamps
 | [Latent Space](https://www.latent.space/) | [Latent Space Feed](https://www.latent.space/feed) | Official |
 | [12 Grams of Carbon](https://theahura.substack.com/) | [12 Grams of Carbon Feed](https://theahura.substack.com/feed) | Official |
 | [Quanta Magazine](https://www.quantamagazine.org/) | [Quanta Magazine Feed](https://www.quantamagazine.org/feed) | Official |
-| [Epoch AI Blog](https://epoch.ai/blog) | [Epoch AI Blog Feed](https://epoch.ai/atom.xml) | Official |
+| [Epoch AI Latest](https://epoch.ai/latest) |  | |
+| [Epoch AI Substack](https://epochai.substack.com/) | [Epoch AI Substack Feed](https://epochai.substack.com/feed) | Official |
 | [Citrini Research](https://www.citriniresearch.com/) | [Citrini Research Blog Feed](https://www.citriniresearch.com/feed) | Official |
 | [IEEE Spectrum](https://spectrum.ieee.org/) | [IEEE Spectrum Feed](https://spectrum.ieee.org/customfeeds/feed/all-topics/rss) | Official |
 | [METR](https://metr.org/) | [METR Feed](https://metr.substack.com/feed) | Official |
@@ -131,7 +136,7 @@ To-Do: Appending logic with snapshot timestamps
 | [AlphaSignal News](https://alphasignal.ai/) | | |
 | [Venture Beat](https://venturebeat.com/) | | |
 | [机器之心](https://www.jiqizhixin.com/) | | |
-| [AI Hot News](https://aihot.virxact.com/) | | |
+| [AI Hot News](https://aihot.virxact.com/) | [AI Hot News Feed](https://aihot.virxact.com/feed.xml) | Official |
 | [AI News Radar](https://learnprompt.github.io/ai-news-radar/) | | |
 
 ## Quantum Computing / Quantum AI
