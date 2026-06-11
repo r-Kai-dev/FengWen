@@ -4,7 +4,16 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/papers"/>
   <id>https://huggingface.co/papers</id>
-  <updated>2026-06-01T20:00:00.000Z</updated>
+  <updated>2026-06-02T20:00:00.000Z</updated>
+  <entry>
+    <title>Agents' Last Exam</title>
+    <link href="https://arxiv.org/abs/2606.05405"/>
+    <id>2d7612d3c938c9e51b341aead3ae0c2a</id>
+    <published>2026-06-02T20:00:00.000Z</published>
+    <updated>2026-06-02T20:00:00.000Z</updated>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
   <entry>
     <title>PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training</title>
     <link href="https://arxiv.org/abs/2606.03264"/>
@@ -92,15 +101,6 @@
     <id>50f759643fa412dbf069f37417e4190d</id>
     <published>2026-05-12T20:00:00.000Z</published>
     <updated>2026-05-12T20:00:00.000Z</updated>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers</title>
-    <link href="https://arxiv.org/abs/2605.06169"/>
-    <id>7fe9b1b9bd349f0f11630b5a8d367adc</id>
-    <published>2026-05-06T20:00:00.000Z</published>
-    <updated>2026-05-06T20:00:00.000Z</updated>
     <category term="research"/>
     <category term="paper"/>
   </entry>
