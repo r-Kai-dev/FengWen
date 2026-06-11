@@ -2,6 +2,7 @@
 
 Feng Wen (风闻) is a news aggregator focused on AI and technology. It periodically scrapes official blogs, release notes, trending repositories, and research publications from major AI companies and platforms, then converts them into standard **Atom/RSS XML feeds** so they can be consumed by any feed reader directly.
 
+
 # All Feeds
 
 The following tables include both the feeds created by this project and existing official feeds for ease of use and organization.
@@ -49,10 +50,13 @@ The following tables include both the feeds created by this project and existing
 | [Hume AI Research](https://www.hume.ai/research) | | |
 | [Kyutai Lab Blog](https://kyutai.org/blog.html) | | |
 | [Boson AI Blog](https://www.boson.ai/blog) | | |
+| [Sesame AI Blog](https://www.sesame.com/blog) | | |
 | [Arc Prize Blog](https://arcprize.org/blog) | | |
 | [World Labs AI Blog](https://www.worldlabs.ai/blog) | | |
 | [Sakana AI Blog](https://sakana.ai/blog/) | [Sakana AI Blog Feed](https://sakana.ai/feed.xml) | Official |
 | [Netflix Tech Blog](https://netflixtechblog.com) | [Netflix Tech Blog Feed](https://netflixtechblog.com/feed) | Official |
+| [Thinking Machine Lab Blog](https://thinkingmachines.ai/blog/) | [Thinking Machine Lab Blog Feed](https://thinkingmachines.ai/blog/index.xml) | Official |
+| [Thinking Machine Lab News](https://thinkingmachines.ai/news/) | [Thinking Machine Lab News Feed](https://thinkingmachines.ai/news/index.xml) | Official |
 
 
 ## Tool/Platform Feeds
@@ -69,6 +73,8 @@ The following tables include both the feeds created by this project and existing
 | [OpenRouter News](https://openrouter.ai/announcements) | | |
 | [Groq Blog](https://groq.com/blog) | | |
 | [Groq News](https://groq.com/announcements) | | |
+| [Llama.cpp Announcement](https://github.com/ggml-org/llama.cpp/discussions/categories/announcements) | [Llama.cpp Announcement Feed](https://github.com/ggml-org/llama.cpp/discussions/categories/announcements.atom) | Official |
+| [Rust Blog](https://blog.rust-lang.org/) | [Rust Blog Feed](https://blog.rust-lang.org/feed.xml) | Official |
 
 
 ## Academic Feeds
@@ -103,6 +109,9 @@ To-Do: Appending logic with snapshot timestamps
 | [METR](https://metr.org/) | [METR Feed](https://metr.substack.com/feed) | Official |
 | [Artificial Analysis](https://artificialanalysis.ai/articles) | [artificial_analysis_articles.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/artificial_analysis_articles.xml) | Created |
 | [LessWrong](https://www.lesswrong.com/) | [LessWrong Feed](https://www.lesswrong.com/feed.xml?view=community-rss&karmaThreshold=125) | Official |
+| [AlphaSignal Blog](https://alphasignalai.substack.com/) | [AlphaSignal Blog Feed](https://alphasignalai.substack.com/feed) | Official |
+| [Interconnects AI](https://www.interconnects.ai/) | [Interconnects AI Feed](https://www.interconnects.ai/feed) | Official |
+| [Import AI](https://importai.substack.com/) | [Import AI Feed](https://importai.substack.com/feed) | Official |
 
 
 ## Tech News
@@ -117,9 +126,12 @@ To-Do: Appending logic with snapshot timestamps
 | [喷嚏图卦](https://www.dapenti.com/blog/blog.asp?name=xilei&subjectid=70) | [喷嚏图卦 Feed](https://rsshub.rssforever.com/dapenti/tugua) | Official |
 | [Slashdot](https://slashdot.org/) | [Slashdot Feed](https://rss.slashdot.org/Slashdot/slashdotMain) | Official |
 | [The Hacker News](https://thehackernews.com/) | [The Hacker News Feed](https://feeds.feedburner.com/TheHackersNews) | Official |
+| [The Sequence](https://thesequence.substack.com/) | [The Sequence Feed](https://thesequence.substack.com/feed) | Official |
+| [AlphaSignal News](https://alphasignal.ai/) | | |
 | [Venture Beat](https://venturebeat.com/) | | |
 | [机器之心](https://www.jiqizhixin.com/) | | |
-
+| [AI Hot News](https://aihot.virxact.com/) | | |
+| [AI News Radar](https://learnprompt.github.io/ai-news-radar/) | | |
 
 ## Quantum Computing / Quantum AI
 
