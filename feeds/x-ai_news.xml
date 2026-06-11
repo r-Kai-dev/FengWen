@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xAI News</title>
+  <icon>https://x.ai/favicon.ico</icon>
+  <link href="https://x.ai/news"/>
+  <id>https://x.ai/news</id>
+  <updated>2026-06-11T00:00:00+00:00</updated>
+  <author>
+    <name>xAI</name>
+  </author>
+  <entry>
+    <title>Grok Build Plugin Marketplace</title>
+    <link href="https://x.ai/news/grok-plugin-marketplace"/>
+    <id>6ca6c0c03eebbd9578050b23d8851d31</id>
+    <published>2026-06-11T00:00:00+00:00</published>
+    <updated>2026-06-11T00:00:00+00:00</updated>
+    <summary type="text">Launching the built-in plugin marketplace for Grok Build.</summary>
+  </entry>
+  <entry>
+    <title>Bringing real-time market sentiment to Tori, from eToro</title>
+    <link href="https://x.ai/news/grok-etoro"/>
+    <id>c6cefb538260f781eec2acddafe0f33f</id>
+    <published>2026-06-10T00:00:00+00:00</published>
+    <updated>2026-06-10T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Powering Gopuff's Go agent</title>
+    <link href="https://x.ai/news/grok-gopuff"/>
+    <id>c9fbae582b6ac361f2be7a9b084de1c9</id>
+    <published>2026-06-09T00:00:00+00:00</published>
+    <updated>2026-06-09T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Grok Becomes the Voice of Vapi</title>
+    <link href="https://x.ai/news/grok-vapi"/>
+    <id>77b1ce6545637c9d4fe88a4a829d9303</id>
+    <published>2026-06-03T00:00:00+00:00</published>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Grok Imagine 1.5 Preview</title>
+    <link href="https://x.ai/news/grok-imagine-1-5"/>
+    <id>8e1534e2ead7276c0396c9bd156dae52</id>
+    <published>2026-06-03T00:00:00+00:00</published>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Composer 2.5</title>
+    <link href="https://x.ai/news/composer-2-5"/>
+    <id>7c0c4196c699f238c67b16cc1f825a51</id>
+    <published>2026-06-01T00:00:00+00:00</published>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <summary type="text">Composer 2.5 is now available in Grok Build. Try it from the /models menu.</summary>
+  </entry>
+  <entry>
+    <title>Grok Build 0.1 on API</title>
+    <link href="https://x.ai/news/grok-build-0-1"/>
+    <id>ece13d347c5e8ba28823c9d595b9c320</id>
+    <published>2026-05-29T00:00:00+00:00</published>
+    <updated>2026-05-29T00:00:00+00:00</updated>
+    <summary type="text">Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.</summary>
+  </entry>
+  <entry>
+    <title>Use Grok in Kilo Code</title>
+    <link href="https://x.ai/news/grok-kilocode"/>
+    <id>e1f4a6f21357d5ed8cce127618e5d29a</id>
+    <published>2026-05-27T00:00:00+00:00</published>
+    <updated>2026-05-27T00:00:00+00:00</updated>
+    <summary type="text">Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.</summary>
+  </entry>
+  <entry>
+    <title>Introducing Grok Build</title>
+    <link href="https://x.ai/news/grok-build-cli"/>
+    <id>1a215a47e6e00c4250e1a04f55af8cd5</id>
+    <published>2026-05-25T00:00:00+00:00</published>
+    <updated>2026-05-25T00:00:00+00:00</updated>
+    <summary type="text">Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.</summary>
+  </entry>
+  <entry>
+    <title>Use Grok in OpenCode</title>
+    <link href="https://x.ai/news/grok-opencode"/>
+    <id>37b8f310322c4f98733a36a5009cc974</id>
+    <published>2026-05-21T00:00:00+00:00</published>
+    <updated>2026-05-21T00:00:00+00:00</updated>
+    <summary type="text">Use your SuperGrok or X Premium subscription inside OpenCode.</summary>
+  </entry>
+  <entry>
+    <title>Use Grok in OpenClaw</title>
+    <link href="https://x.ai/news/grok-openclaw"/>
+    <id>c123b7593eea7848fe365a56cd630844</id>
+    <published>2026-05-19T00:00:00+00:00</published>
+    <updated>2026-05-19T00:00:00+00:00</updated>
+    <summary type="text">Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.</summary>
+  </entry>
+  <entry>
+    <title>Skills in web, iOS, and Android</title>
+    <link href="https://x.ai/news/grok-skills"/>
+    <id>f7d1823dce1ed55454ca1097fc13dbda</id>
+    <published>2026-05-18T00:00:00+00:00</published>
+    <updated>2026-05-18T00:00:00+00:00</updated>
+    <summary type="text">Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.</summary>
+  </entry>
+  <entry>
+    <title>Connect Grok to Hermes Agent</title>
+    <link href="https://x.ai/news/grok-hermes"/>
+    <id>800ae7150b6aad57d687638adc0ed595</id>
+    <published>2026-05-15T00:00:00+00:00</published>
+    <updated>2026-05-15T00:00:00+00:00</updated>
+    <summary type="text">Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.</summary>
+  </entry>
+  <entry>
+    <title>Connectors in web, iOS, and Android</title>
+    <link href="https://x.ai/news/grok-connectors"/>
+    <id>4d611b655d17595130e32a34a62593b4</id>
+    <published>2026-05-06T00:00:00+00:00</published>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <summary type="text">Deep integrations that bring the apps you use every day directly into Grok.</summary>
+  </entry>
+  <entry>
+    <title>Grok Imagine Quality Mode API</title>
+    <link href="https://x.ai/news/grok-imagine-quality-mode"/>
+    <id>b43b41ae45eae13179709ec23664a5ea</id>
+    <published>2026-05-06T00:00:00+00:00</published>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <summary type="text">Higher realism. Stronger text rendering. Better creative control.</summary>
+  </entry>
+  <entry>
+    <title>New Compute Partnership with Anthropic</title>
+    <link href="https://x.ai/news/anthropic-compute-partnership"/>
+    <id>ffd676d505f859a303216e2466f8fe64</id>
+    <published>2026-05-06T00:00:00+00:00</published>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <summary type="text">SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.</summary>
+  </entry>
+  <entry>
+    <title>Custom Voices and Voice Library</title>
+    <link href="https://x.ai/news/grok-custom-voices"/>
+    <id>1d4341d109a9aada46bfd9a4efe96682</id>
+    <published>2026-04-30T00:00:00+00:00</published>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+    <summary type="text">Your voice. Your brand. Clone a voice from a short recording and manage your entire voice catalog from the xAI console.</summary>
+  </entry>
+  <entry>
+    <title>Grok Voice Think Fast 1.0</title>
+    <link href="https://x.ai/news/grok-voice-think-fast-1"/>
+    <id>a4385b2645a4e0eab4cbc7df4dec80ad</id>
+    <published>2026-04-23T00:00:00+00:00</published>
+    <updated>2026-04-23T00:00:00+00:00</updated>
+    <summary type="text">Our most capable voice agent is now available via API.</summary>
+  </entry>
+  <entry>
+    <title>Grok Speech to Text and Text to Speech APIs</title>
+    <link href="https://x.ai/news/grok-stt-and-tts-apis"/>
+    <id>ae54c48221f7245be3d2534a5e63cc5a</id>
+    <published>2026-04-17T00:00:00+00:00</published>
+    <updated>2026-04-17T00:00:00+00:00</updated>
+    <summary type="text">Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.</summary>
+  </entry>
+  <entry>
+    <title>xAI joins SpaceX</title>
+    <link href="https://x.ai/news/xai-joins-spacex"/>
+    <id>7ca5938e7e21f9cc40fa91eac422f733</id>
+    <published>2026-02-02T00:00:00+00:00</published>
+    <updated>2026-02-02T00:00:00+00:00</updated>
+    <summary type="text">SpaceX announced today that it has acquired xAI.</summary>
+  </entry>
+  <entry>
+    <title>Grok Imagine API</title>
+    <link href="https://x.ai/news/grok-imagine-api"/>
+    <id>ee50564c7620c7d2b33d2f30d3ddbd5d</id>
+    <published>2026-01-28T00:00:00+00:00</published>
+    <updated>2026-01-28T00:00:00+00:00</updated>
+    <summary type="text">State-of-the-art video generation across quality, cost, and latency.</summary>
+  </entry>
+  <entry>
+    <title>xAI Raises $20B Series E</title>
+    <link href="https://x.ai/news/series-e"/>
+    <id>bbaf8b31dff9b246f3f32feaeccea113</id>
+    <published>2026-01-06T00:00:00+00:00</published>
+    <updated>2026-01-06T00:00:00+00:00</updated>
+    <summary type="text">xAI is rapidly accelerating its progress in building advanced AI.</summary>
+  </entry>
+  <entry>
+    <title>Introducing Grok Business and Grok Enterprise</title>
+    <link href="https://x.ai/news/grok-business"/>
+    <id>dbf8a3dbd2c2bd98723b6fb581f0eacb</id>
+    <published>2025-12-30T00:00:00+00:00</published>
+    <updated>2025-12-30T00:00:00+00:00</updated>
+    <summary type="text">The best assistant in the world is now Enterprise ready.</summary>
+  </entry>
+  <entry>
+    <title>Grok Collections API</title>
+    <link href="https://x.ai/news/grok-collections-api"/>
+    <id>8f5d01ece38a9b9c0e1381907b4cf844</id>
+    <published>2025-12-22T00:00:00+00:00</published>
+    <updated>2025-12-22T00:00:00+00:00</updated>
+    <summary type="text">State-of-the-art RAG system built directly into our API.</summary>
+  </entry>
+  <entry>
+    <title>Supporting the DOW's mission with AI</title>
+    <link href="https://x.ai/news/us-gov-dept-of-war"/>
+    <id>d4a11963e38a88cdd4e901030b4fea30</id>
+    <published>2025-12-22T00:00:00+00:00</published>
+    <updated>2025-12-22T00:00:00+00:00</updated>
+    <summary type="text">xAI is proud to be selected by the US Department of War to deliver Frontier AI</summary>
+  </entry>
+  <entry>
+    <title>Grok Voice Agent API</title>
+    <link href="https://x.ai/news/grok-voice-agent-api"/>
+    <id>64ebb3ea5466ca7ef51a1dcf2b608bf1</id>
+    <published>2025-12-17T00:00:00+00:00</published>
+    <updated>2025-12-17T00:00:00+00:00</updated>
+    <summary type="text">Bringing the power of Grok Voice to all developers.</summary>
+  </entry>
+  <entry>
+    <title>xAI and El Salvador Pioneer the World's First Nationwide AI Education Program</title>
+    <link href="https://x.ai/news/el-salvador-partnership"/>
+    <id>6e791fa6485409a3a0e1ac485180fd76</id>
+    <published>2025-12-11T00:00:00+00:00</published>
+    <updated>2025-12-11T00:00:00+00:00</updated>
+    <summary type="text">Announcing Our Transformative Partnership with the Government of El Salvador.</summary>
+  </entry>
+  <entry>
+    <title>Grok 4.1 Fast and Agent Tools API</title>
+    <link href="https://x.ai/news/grok-4-1-fast"/>
+    <id>cf06dc583599f7a650afc25150d784d5</id>
+    <published>2025-11-19T00:00:00+00:00</published>
+    <updated>2025-11-19T00:00:00+00:00</updated>
+    <summary type="text">Bringing the next generation of tool-calling agents to the xAI API</summary>
+  </entry>
+  <entry>
+    <title>Grok goes Global with KSA</title>
+    <link href="https://x.ai/news/grok-goes-global"/>
+    <id>e629b86565f610e04a7b93613e19053d</id>
+    <published>2025-11-19T00:00:00+00:00</published>
+    <updated>2025-11-19T00:00:00+00:00</updated>
+    <summary type="text">Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN</summary>
+  </entry>
+  <entry>
+    <title>Grok 4.1</title>
+    <link href="https://x.ai/news/grok-4-1"/>
+    <id>d62e0b184ed907c48b5b148d2198c83a</id>
+    <published>2025-11-17T00:00:00+00:00</published>
+    <updated>2025-11-17T00:00:00+00:00</updated>
+    <summary type="text">Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.</summary>
+  </entry>
+  <entry>
+    <title>Expanding xAI for Government with GSA OneGov</title>
+    <link href="https://x.ai/news/onegov"/>
+    <id>7c03688ff8ba1f6ce38c7ba56c304c7c</id>
+    <published>2025-09-25T00:00:00+00:00</published>
+    <updated>2025-09-25T00:00:00+00:00</updated>
+    <summary type="text">Expanding ‘xAI For Government’ with more accessible AI tools for the Federal Government</summary>
+  </entry>
+  <entry>
+    <title>Grok 4 Fast</title>
+    <link href="https://x.ai/news/grok-4-fast"/>
+    <id>2b29f19cafc01ce6211064d503d4734c</id>
+    <published>2025-09-19T00:00:00+00:00</published>
+    <updated>2025-09-19T00:00:00+00:00</updated>
+    <summary type="text">Pushing the Frontier of Cost-Efficient Intelligence</summary>
+  </entry>
+  <entry>
+    <title>Grok Code Fast 1</title>
+    <link href="https://x.ai/news/grok-code-fast-1"/>
+    <id>1072416c8bac4341c395915ea7738870</id>
+    <published>2025-08-28T00:00:00+00:00</published>
+    <updated>2025-08-28T00:00:00+00:00</updated>
+    <summary type="text">We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.</summary>
+  </entry>
+  <entry>
+    <title>Announcing xAI for Government</title>
+    <link href="https://x.ai/news/government"/>
+    <id>36840fcd0faa22eb52abf0907f59d198</id>
+    <published>2025-07-14T00:00:00+00:00</published>
+    <updated>2025-07-14T00:00:00+00:00</updated>
+    <summary type="text">We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.</summary>
+  </entry>
+  <entry>
+    <title>Grok 4</title>
+    <link href="https://x.ai/news/grok-4"/>
+    <id>46b6bc4a08ae6ada601bb3affaed8031</id>
+    <published>2025-07-09T00:00:00+00:00</published>
+    <updated>2025-07-09T00:00:00+00:00</updated>
+    <summary type="text">Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also introducing a new SuperGrok Heavy tier with access to Grok 4 Heavy - the most powerful version of Grok 4.</summary>
+  </entry>
+  <entry>
+    <title>Grok 3 Beta — The Age of Reasoning Agents</title>
+    <link href="https://x.ai/news/grok-3"/>
+    <id>b16ad2f51fa27ea5fff08e7d5b34393c</id>
+    <published>2025-02-19T00:00:00+00:00</published>
+    <updated>2025-02-19T00:00:00+00:00</updated>
+    <summary type="text">We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.</summary>
+  </entry>
+  <entry>
+    <title>xAI raises $6B Series C</title>
+    <link href="https://x.ai/news/series-c"/>
+    <id>468a9d098733b54c1421f5ec0783ad3d</id>
+    <published>2024-12-23T00:00:00+00:00</published>
+    <updated>2024-12-23T00:00:00+00:00</updated>
+    <summary type="text">We are partnering with A16Z, Blackrock, Fidelity Management &amp; Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.</summary>
+  </entry>
+  <entry>
+    <title>Bringing Grok to Everyone</title>
+    <link href="https://x.ai/news/grok-1212"/>
+    <id>c1ec523edd1c8d57fb6a7acd0f8e081c</id>
+    <published>2024-12-12T00:00:00+00:00</published>
+    <updated>2024-12-12T00:00:00+00:00</updated>
+    <summary type="text">Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.</summary>
+  </entry>
+  <entry>
+    <title>Grok Image Generation Release</title>
+    <link href="https://x.ai/news/grok-image-generation-release"/>
+    <id>5f4db5be2a9f93dff243a0d916a8c652</id>
+    <published>2024-12-09T00:00:00+00:00</published>
+    <updated>2024-12-09T00:00:00+00:00</updated>
+    <summary type="text">We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.</summary>
+  </entry>
+  <entry>
+    <title>API Public Beta</title>
+    <link href="https://x.ai/news/api"/>
+    <id>05b7ba536ec0ad7a53e29154ed201dcd</id>
+    <published>2024-11-04T00:00:00+00:00</published>
+    <updated>2024-11-04T00:00:00+00:00</updated>
+    <summary type="text">Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.</summary>
+  </entry>
+  <entry>
+    <title>Grok-2 Beta Release</title>
+    <link href="https://x.ai/news/grok-2"/>
+    <id>94bf123b13788bf437029fbd2dfbfd1b</id>
+    <published>2024-08-13T00:00:00+00:00</published>
+    <updated>2024-08-13T00:00:00+00:00</updated>
+    <summary type="text">We announce our new Grok-2 and Grok-2 mini models.</summary>
+  </entry>
+  <entry>
+    <title>Series B funding round</title>
+    <link href="https://x.ai/news/series-b"/>
+    <id>6f3488344db696d1af72a3fbf9636aac</id>
+    <published>2024-05-26T00:00:00+00:00</published>
+    <updated>2024-05-26T00:00:00+00:00</updated>
+    <summary type="text">xAI is pleased to announce our series B funding round of $6 billion.</summary>
+  </entry>
+  <entry>
+    <title>Grok-1.5 Vision Preview</title>
+    <link href="https://x.ai/news/grok-1.5v"/>
+    <id>ca18a77a58b380c1b41a20146a6002d6</id>
+    <published>2024-04-12T00:00:00+00:00</published>
+    <updated>2024-04-12T00:00:00+00:00</updated>
+    <summary type="text">Connecting the digital and physical worlds with our first multimodal model.</summary>
+  </entry>
+  <entry>
+    <title>Announcing Grok-1.5</title>
+    <link href="https://x.ai/news/grok-1.5"/>
+    <id>b7815e41e59f851ec1e30f55daa53a81</id>
+    <published>2024-03-28T00:00:00+00:00</published>
+    <updated>2024-03-28T00:00:00+00:00</updated>
+    <summary type="text">Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon.</summary>
+  </entry>
+  <entry>
+    <title>Open Release of Grok-1</title>
+    <link href="https://x.ai/news/grok-os"/>
+    <id>cd33ae55fe5c55fb7640d81c573876f8</id>
+    <published>2024-03-17T00:00:00+00:00</published>
+    <updated>2024-03-17T00:00:00+00:00</updated>
+    <summary type="text">We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.</summary>
+  </entry>
+  <entry>
+    <title>Announcing PromptIDE</title>
+    <link href="https://x.ai/news/prompt-ide"/>
+    <id>958ee06f7a822cf6dfb18854753a0bfb</id>
+    <published>2023-11-06T00:00:00+00:00</published>
+    <updated>2023-11-06T00:00:00+00:00</updated>
+    <summary type="text">Integrated development environment for prompt engineering and interpretability research.</summary>
+  </entry>
+  <entry>
+    <title>Announcing Grok</title>
+    <link href="https://x.ai/news/grok"/>
+    <id>dd48390a601f6d738dbd76b6b7b60da2</id>
+    <published>2023-11-03T00:00:00+00:00</published>
+    <updated>2023-11-03T00:00:00+00:00</updated>
+    <summary type="text">Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!</summary>
+  </entry>
+</feed>
