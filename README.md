@@ -20,7 +20,7 @@ The following tables include both the feeds created by this project and existing
 | [DeepMind Research](https://deepmind.google/research/) | [DeepMind Research Feed](https://deepmind.google/blog/rss.xml) | Official |
 | [Meta AI Blog](https://ai.meta.com/blog/) | [meta_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/meta_blog.xml) | Created |
 | [Mistral AI News](https://mistral.ai/news) | [Mistral AI News Feed](https://mistral.ai/news/rss.xml) | Official |
-| [X.AI News](https://x.ai/news) | | |
+| [X.AI News](https://x.ai/news) | [x-ai_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/x-ai_news.xml) | Created |
 | [Amazon Science Blog](https://www.amazon.science/blog) | [Amazon Science Blog Feed](https://www.amazon.science/index.rss) | Official |
 | [AWS AI Blog](https://aws.amazon.com/blogs/machine-learning/) | [AWS AI Blog Feed](https://aws.amazon.com/blogs/machine-learning/feed/) | Official |
 | [AWS AI News](https://aws.amazon.com/blogs/aws/category/artificial-intelligence/) | [AWS AI News Feed](https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed/) | Official |
