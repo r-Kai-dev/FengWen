@@ -59,6 +59,8 @@ The following tables include both the feeds created by this project and existing
 | [Thinking Machine Lab Blog](https://thinkingmachines.ai/blog/) | [Thinking Machine Lab Blog Feed](https://thinkingmachines.ai/blog/index.xml) | Official |
 | [Thinking Machine Lab News](https://thinkingmachines.ai/news/) | [Thinking Machine Lab News Feed](https://thinkingmachines.ai/news/index.xml) | Official |
 | [Resemble AI Blog](https://www.resemble.ai/resources) | | |
+| [LTX Blog](https://ltx.io/blog) | | |
+| [LTX News](https://ltx.io/newsroom) | | |
 
 
 ## Tool/Platform Feeds
