@@ -4,10 +4,17 @@
   <icon>https://artificialanalysis.ai/favicon.ico</icon>
   <link href="https://artificialanalysis.ai/articles"/>
   <id>https://artificialanalysis.ai/articles</id>
-  <updated>2026-06-11T00:00:00+00:00</updated>
+  <updated>2026-06-12T00:00:00+00:00</updated>
   <author>
     <name>Artificial Analysis</name>
   </author>
+  <entry>
+    <title>First results from AA-AgentPerf: the hardware benchmark for the agent era</title>
+    <link href="https://artificialanalysis.ai/articles/aa-agentperf"/>
+    <id>a6a0f1093e3047b7d4a4690e0267f21f</id>
+    <published>2026-06-12T00:00:00+00:00</published>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Benchmarking guardrail models for safety, refusal, and latency</title>
     <link href="https://artificialanalysis.ai/articles/guardrail-safety-benchmark"/>
