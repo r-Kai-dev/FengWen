@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Black Forest Labs Research</title>
+  <icon>https://bfl.ai/favicon.ico</icon>
+  <link href="https://bfl.ai/research"/>
+  <id>https://bfl.ai/research</id>
+  <updated>2026-03-03T00:00:00+00:00</updated>
+  <author>
+    <name>Black Forest Labs</name>
+  </author>
+  <entry>
+    <title>Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis</title>
+    <link href="https://bfl.ai/research/self-flow"/>
+    <id>86fff3a4297129be544f14f794c31456</id>
+    <published>2026-03-03T00:00:00+00:00</published>
+    <updated>2026-03-03T00:00:00+00:00</updated>
+    <summary type="text">A modality-agnostic, self-supervised flow matching framework for image, video, and audio generation.</summary>
+  </entry>
+  <entry>
+    <title>FLUX.2: Analyzing and Enhancing the Latent Space of FLUX – Representation Comparison</title>
+    <link href="https://bfl.ai/research/representation-comparison"/>
+    <id>b3cc9587a92c28912b3c766fd2292d26</id>
+    <published>2025-11-25T00:00:00+00:00</published>
+    <updated>2025-11-25T00:00:00+00:00</updated>
+    <summary type="text">A comprehensive study comparing different autoencoder representations for diffusion models, including SD-VAE, RAE, FLUX.1 and FLUX.2.</summary>
+  </entry>
+  <entry>
+    <title>FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space</title>
+    <link href="https://cdn.sanity.io/files/2gpum2i6/production/880b072208997108f87e5d2729d8a8be481310b5.pdf"/>
+    <id>05d61b0002fbcc2be687ee09549ec77e</id>
+    <published>2025-05-29T00:00:00+00:00</published>
+    <updated>2025-05-29T00:00:00+00:00</updated>
+    <summary type="text">FLUX.1 Kontext is a unified model for image editing and generation in context, achieving fast, state-of-the-art results with strong consistency and quality.</summary>
+  </entry>
+</feed>

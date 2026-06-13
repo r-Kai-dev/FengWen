@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Runway Research Publications</title>
+  <icon>https://runwayml.com/icon.png</icon>
+  <link href="https://runwayml.com/research/publications"/>
+  <id>https://runwayml.com/research/publications</id>
+  <updated>2025-09-24T00:00:00+00:00</updated>
+  <author>
+    <name>Runway</name>
+  </author>
+  <entry>
+    <title>Autoregressive-to-Diffusion Vision Language Models</title>
+    <link href="https://runwayml.com/research/autoregressive-to-diffusion-vlms"/>
+    <id>beeb49cef84f67f2ae70b4aa560aeeb4</id>
+    <published>2025-09-24T00:00:00+00:00</published>
+    <updated>2025-09-24T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting</title>
+    <link href="https://arxiv.org/abs/2503.24366"/>
+    <id>cc41755bf9fddf7f95f7433792da1668</id>
+    <published>2025-03-31T00:00:00+00:00</published>
+    <updated>2025-03-31T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Progressive Prompt Detailing for Improved Alignment in Text-to-Image Generative Models</title>
+    <link href="https://arxiv.org/abs/2503.17794"/>
+    <id>44e9a71413ea247feb98c71bb5776a3c</id>
+    <published>2025-03-22T00:00:00+00:00</published>
+    <updated>2025-03-22T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>What's in a Latent? Leveraging Diffusion Latent Space for Domain Generalization</title>
+    <link href="https://arxiv.org/abs/2503.06698"/>
+    <id>86722b21e64041f3add4f4259b441208</id>
+    <published>2025-03-09T00:00:00+00:00</published>
+    <updated>2025-03-09T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable Generations</title>
+    <link href="https://arxiv.org/abs/2501.19066"/>
+    <id>2c262256ab36f5d904289eb5a70bdac9</id>
+    <published>2025-01-31T00:00:00+00:00</published>
+    <updated>2025-01-31T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Revelio: Interpreting and leveraging semantic information in diffusion models</title>
+    <link href="https://arxiv.org/abs/2411.16725"/>
+    <id>93c4f72a49aa1e849cf5308db331535d</id>
+    <published>2024-11-23T00:00:00+00:00</published>
+    <updated>2024-11-23T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Mitigating stereotypical biases in text to image generative systems</title>
+    <link href="https://arxiv.org/abs/2310.06904"/>
+    <id>dbd143c7b29c92ac56bfb447bc22abd2</id>
+    <published>2023-10-10T00:00:00+00:00</published>
+    <updated>2023-10-10T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Structure and Content-Guided Video Synthesis with Diffusion Models</title>
+    <link href="https://arxiv.org/abs/2302.03011"/>
+    <id>276fe59f883104df637cb6bb180a7137</id>
+    <published>2023-02-06T00:00:00+00:00</published>
+    <updated>2023-02-06T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Towards unified keyframe propagation models</title>
+    <link href="https://arxiv.org/abs/2205.09731"/>
+    <id>8cd7220ff34a0333e124ed095e5e6290</id>
+    <published>2022-05-19T00:00:00+00:00</published>
+    <updated>2022-05-19T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
+    <link href="https://arxiv.org/abs/2112.10752"/>
+    <id>f0febfdf84c1c13f16d5a1552cc61e3c</id>
+    <published>2021-12-20T00:00:00+00:00</published>
+    <updated>2021-12-20T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Soundify: Matching sound effects to video</title>
+    <link href="https://arxiv.org/abs/2112.09726"/>
+    <id>b0a93ba0fceb267341cc90a37251c9ac</id>
+    <published>2021-12-17T00:00:00+00:00</published>
+    <updated>2021-12-17T00:00:00+00:00</updated>
+  </entry>
+</feed>

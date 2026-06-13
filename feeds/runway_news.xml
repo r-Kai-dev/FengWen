@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Runway News</title>
+  <icon>https://runwayml.com/icon.png</icon>
+  <link href="https://runwayml.com/news"/>
+  <id>https://runwayml.com/news</id>
+  <updated>2026-06-11T10:10:10.110000+00:00</updated>
+  <author>
+    <name>Runway</name>
+  </author>
+  <entry>
+    <title>Runway and Lionsgate Expand Partnership</title>
+    <link href="https://runwayml.com/news/runway-and-lionsgate-expand-partnership"/>
+    <id>7df3bd68e457fdf61d52da14f7e3a420</id>
+    <published>2026-06-11T10:10:10.110000+00:00</published>
+    <updated>2026-06-11T10:10:10.110000+00:00</updated>
+    <summary type="text">Companies Will Launch a Joint Development Program to Create New IP; Lionsgate Has Taken an Equity Interest in Runway</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway Opens London HQ, Bringing World Model Research Hub to the UK and Europe</title>
+    <link href="https://runwayml.com/news/runway-opens-london-hq"/>
+    <id>d8e8a53c1cbd3ec27229781f9ee4dff9</id>
+    <published>2026-06-01T10:10:10.110000+00:00</published>
+    <updated>2026-06-01T10:10:10.110000+00:00</updated>
+    <summary type="text">Announcing London as Runway's new European headquarters and world model research hub, with a planned $100M investment in the UK AI ecosystem and a new Head of Europe.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Introducing the Cosmos Coalition</title>
+    <link href="https://runwayml.com/news/introducing-cosmos-coalition"/>
+    <id>17ed9c5c69eea7a17ff4d396d9e59943</id>
+    <published>2026-06-01T05:30:00+00:00</published>
+    <updated>2026-06-01T05:30:00+00:00</updated>
+    <summary type="text">Runway is a founding member of the Cosmos Coalition, a new global initiative with NVIDIA and leading AI labs to build and open-source frontier world models for physical AI.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Introducing Runway MCP</title>
+    <link href="https://runwayml.com/news/mcp"/>
+    <id>7407cd536670a24e9d2ce358fe9b1e4e</id>
+    <published>2026-05-27T10:00:00+00:00</published>
+    <updated>2026-05-27T10:00:00+00:00</updated>
+    <summary type="text">You can now generate images and videos in any MCP-compatible agent without ever leaving your workflow.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Project Luxo: Crossing the Uncanny Valley of AI Media</title>
+    <link href="https://runwayml.com/news/project-luxo"/>
+    <id>daa7065279f9efd36908dd04f3278add</id>
+    <published>2026-05-26T00:00:00</published>
+    <updated>2026-05-26T00:00:00</updated>
+    <summary type="text">Today we're sharing early evidence of a shift we believe will reshape how media is made: AI-generated video is beginning to cross the uncanny valley.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Introducing Aleph 2.0 and Edit Studio</title>
+    <link href="https://runwayml.com/news/introducing-aleph-2-and-edit-studio"/>
+    <id>d72d943e80a6022e7ee2bd262f316db6</id>
+    <published>2026-05-21T10:00:00+00:00</published>
+    <updated>2026-05-21T10:00:00+00:00</updated>
+    <summary type="text">Aleph 2.0 is an upgrade to Runway's flagship video editing model, launching alongside Edit Studioâa new product experience designed to close the gap between the video you have and the video you actually need.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Why Distributed Training Is Hard: DTensor, Correctness and the Costs of Abstraction</title>
+    <link href="https://runwayml.com/news/dtensor-distributed-training"/>
+    <id>038205149ebd168da0d6819037db8511</id>
+    <published>2026-05-18T00:00:00</published>
+    <updated>2026-05-18T00:00:00</updated>
+    <category term="Engineering"/>
+  </entry>
+  <entry>
+    <title>Runway is Coming to Japan</title>
+    <link href="https://runwayml.com/news/runway-is-coming-to-japan"/>
+    <id>485b773dc44e536269f6992d0becc582</id>
+    <published>2026-05-14T10:10:10.110000+00:00</published>
+    <updated>2026-05-14T10:10:10.110000+00:00</updated>
+    <summary type="text">Announcing our expansion into Japan with a Tokyo office, an initial $40M investment, and a new Head of Japan.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Introducing Runway Agent</title>
+    <link href="https://runwayml.com/news/introducing-runway-agent"/>
+    <id>7e1ad8e5c38c9c787387a98b00e94615</id>
+    <published>2026-05-13T10:00:00+00:00</published>
+    <updated>2026-05-13T10:00:00+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Stop Writing YAML: Configuring ML Systems with confingy</title>
+    <link href="https://runwayml.com/news/stop-writing-yaml-configuring-ml-systems-with-confingy"/>
+    <id>95d9f209d7df991978f8e7577e05cb48</id>
+    <published>2026-05-11T00:00:00</published>
+    <updated>2026-05-11T00:00:00</updated>
+    <category term="Engineering"/>
+  </entry>
+  <entry>
+    <title>Our Approach to Child Safety</title>
+    <link href="https://runwayml.com/news/our-approach-to-child-safety"/>
+    <id>7644ae86daa13d7a4cf9628f2fad69ff</id>
+    <published>2026-05-08T10:00:00+00:00</published>
+    <updated>2026-05-08T10:00:00+00:00</updated>
+    <category term="Safety"/>
+  </entry>
+  <entry>
+    <title>60x Faster Cold Starts: Treating Peer GPUs as Weight Servers</title>
+    <link href="https://runwayml.com/news/60x-faster-cold-starts-treating-peer-gpus-as-weight-servers"/>
+    <id>dd9786622bbce25b524d71a6c2c091c7</id>
+    <published>2026-05-04T00:00:00</published>
+    <updated>2026-05-04T00:00:00</updated>
+    <category term="Engineering"/>
+  </entry>
+  <entry>
+    <title>Building Real-Time Video Agent from a Single Image with Runway Characters</title>
+    <link href="https://runwayml.com/news/building-runway-characters"/>
+    <id>71af81085a7c872f328b24924fcaaa9e</id>
+    <published>2026-05-04T00:00:00</published>
+    <updated>2026-05-04T00:00:00</updated>
+    <summary type="text">How we built a real-time video agent from any single image â photorealistic human, cartoon mascot or fantasy creature â into a fully expressive conversational character at 24fps, with fast end-to-end latency. Zero fine-tuning required.</summary>
+    <category term="Engineering"/>
+  </entry>
+  <entry>
+    <title>No Idle GPUs: Managing Research Compute at Runway</title>
+    <link href="https://runwayml.com/news/no-idle-gpus-managing-research-compute-at-runway"/>
+    <id>8724fa9453494960a02e4a8533d261e6</id>
+    <published>2026-04-27T00:00:00</published>
+    <updated>2026-04-27T00:00:00</updated>
+    <category term="Engineering"/>
+  </entry>
+  <entry>
+    <title>Runway Expands Collaboration with NYU Tisch School of the Arts</title>
+    <link href="https://runwayml.com/news/runway-expands-collaboration-with-nyu-tisch-school-of-the-arts"/>
+    <id>c8bef2cef5903f77e442205c2611f753</id>
+    <published>2026-04-10T00:00:00</published>
+    <updated>2026-04-10T00:00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Introducing Runway Builders</title>
+    <link href="https://runwayml.com/news/introducing-runway-builders"/>
+    <id>87de35b0bea7c71ad0f7ebc2833e0812</id>
+    <published>2026-03-31T12:00:00+00:00</published>
+    <updated>2026-03-31T12:00:00+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Introducing Runway Fund</title>
+    <link href="https://runwayml.com/news/introducing-runway-fund"/>
+    <id>3043a73e5c58027d2759137d3d3a861a</id>
+    <published>2026-03-31T12:00:00+00:00</published>
+    <updated>2026-03-31T12:00:00+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Building Interactive AI Characters Responsibly</title>
+    <link href="https://runwayml.com/news/building-interactive-ai-characters-responsibly"/>
+    <id>8341fbddc49db3153c69d348b3dd2aed</id>
+    <published>2026-03-12T10:00:00+00:00</published>
+    <updated>2026-03-12T10:00:00+00:00</updated>
+    <category term="Safety"/>
+  </entry>
+  <entry>
+    <title>Introducing Runway Labs</title>
+    <link href="https://runwayml.com/news/introducing-runway-labs"/>
+    <id>e8776e472c7ed34420a3af36a1c5bac6</id>
+    <published>2026-03-11T12:00:00+00:00</published>
+    <updated>2026-03-11T12:00:00+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Introducing Runway Characters</title>
+    <link href="https://runwayml.com/news/introducing-runway-characters"/>
+    <id>050447948f0bd4a172ddcea1403507f1</id>
+    <published>2026-03-09T10:00:00+00:00</published>
+    <updated>2026-03-09T10:00:00+00:00</updated>
+    <summary type="text">A real-time video agent API that lets you build fully custom conversational characters, powered by GWM-1.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>New Leaders to Support Our Next Phase of Growth</title>
+    <link href="https://runwayml.com/news/new-leaders-to-support-next-phase-of-growth"/>
+    <id>badefef76e09743835eb06b1c9a7214a</id>
+    <published>2026-02-26T12:00:00+00:00</published>
+    <updated>2026-02-26T12:00:00+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>New Funding to Scale World Simulation</title>
+    <link href="https://runwayml.com/news/runway-series-e-funding"/>
+    <id>4a8e6cbde7346d52a92f88b191e21338</id>
+    <published>2026-02-10T23:23:58.290000+00:00</published>
+    <updated>2026-02-10T23:23:58.290000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway Advances Video Generation and World Models With NVIDIA Rubin Platform</title>
+    <link href="https://runwayml.com/news/runway-partners-with-nvidia"/>
+    <id>c2087457e90509d464ef15345f0ad7f8</id>
+    <published>2026-01-05T10:10:10.110000+00:00</published>
+    <updated>2026-01-05T10:10:10.110000+00:00</updated>
+    <summary type="text">Accelerating our video and world models research with NVIDIA's Rubin architecture</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway and IMAXÂ® Partner on Exclusive Presentation of the 2025 AI Film Festival</title>
+    <link href="https://runwayml.com/news/runway-imax-aiff-presentation"/>
+    <id>96e1d03e95906b2401ecdc5cac9a5dd7</id>
+    <published>2025-07-28T10:10:10.110000+00:00</published>
+    <updated>2025-07-28T10:10:10.110000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Parsons School of Design Develops New Course Powered by Runway</title>
+    <link href="https://runwayml.com/news/parsons-school-design-develops-new-course-powered-by-runway"/>
+    <id>026f9cd2c7167304994b0856a200fe30</id>
+    <published>2025-06-26T10:10:10.110000+00:00</published>
+    <updated>2025-06-26T10:10:10.110000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway Partners with AMC Networks Across Marketing and TV Development</title>
+    <link href="https://runwayml.com/news/runway-amc-partnership"/>
+    <id>149fa518414c3a7c6703ee3e67ca686a</id>
+    <published>2025-06-04T10:10:10.110000+00:00</published>
+    <updated>2025-06-04T10:10:10.110000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Introducing the Gen-4 Image API</title>
+    <link href="https://runwayml.com/news/introducing-runway-api-for-gen-4-images"/>
+    <id>7f329701f8b27a2ed5cdd01550b61935</id>
+    <published>2025-05-16T10:10:10.110000+00:00</published>
+    <updated>2025-05-16T10:10:10.110000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway and Fabula Unveil Production Partnership</title>
+    <link href="https://runwayml.com/news/runway-fabula-partnership"/>
+    <id>b32a09cc9b86fa358f4401aed0f8999d</id>
+    <published>2025-04-14T10:10:10.110000+00:00</published>
+    <updated>2025-04-14T10:10:10.110000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway Inks First-Look Development Deal with Harmony Korineâs EDGLRD</title>
+    <link href="https://runwayml.com/news/runway-edglrd-deal"/>
+    <id>9e5442b3408141e7ebd2caa9a8fca7a1</id>
+    <published>2025-04-10T10:10:10.110000+00:00</published>
+    <updated>2025-04-10T10:10:10.110000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Harmony Korine Joins Runwayâs 2025 AI Film Festival Jurors</title>
+    <link href="https://runwayml.com/news/harmony-korine-joins-aiff-2025-jurors"/>
+    <id>44bbc5ae960c8c675a7cdfba3de24365</id>
+    <published>2025-04-07T10:10:10.110000+00:00</published>
+    <updated>2025-04-07T10:10:10.110000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Towards a new media ecosystem with world simulators</title>
+    <link href="https://runwayml.com/news/runway-series-d-funding"/>
+    <id>5724e683b4c11aa3b10797148b87eb2a</id>
+    <published>2025-04-03T23:23:58.290000+00:00</published>
+    <updated>2025-04-03T23:23:58.290000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Gaspar NoÃ© Joins Runwayâs 2025 AI Film Festival Jurors</title>
+    <link href="https://runwayml.com/news/gaspar-noe-joins-aiff-2025-jurors"/>
+    <id>1206a038da63fce49108dc023030b58b</id>
+    <published>2025-03-17T10:10:10.110000+00:00</published>
+    <updated>2025-03-17T10:10:10.110000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway Launches Global Talent Network</title>
+    <link href="https://runwayml.com/news/runway-launches-global-talent-network"/>
+    <id>ecee78a5a4853e4384f909e090d84d99</id>
+    <published>2024-12-18T10:10:10.110000+00:00</published>
+    <updated>2024-12-18T10:10:10.110000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>NYU Tisch Graduate Program brings Runway tools to the Martin Scorsese Virtual Production Center</title>
+    <link href="https://runwayml.com/news/nyu-tisch-runway-scorsese-virtual-production-center"/>
+    <id>c7190c8f43beb8c802edc3e42ac6d79a</id>
+    <published>2024-12-16T10:10:10.110000+00:00</published>
+    <updated>2024-12-16T10:10:10.110000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway launches Student Ambassador Program</title>
+    <link href="https://runwayml.com/news/runway-launches-student-ambassador-program"/>
+    <id>4078b33ac37f72ae113b64623319c204</id>
+    <published>2024-12-12T10:10:10.110000+00:00</published>
+    <updated>2024-12-12T10:10:10.110000+00:00</updated>
+    <summary type="text">Today we are excited to announce the launch of our Student Ambassador Program to support students as they prepare to embark on their professional careers.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway launches fund to provide artists resources to make one hundred films</title>
+    <link href="https://runwayml.com/news/hundred-film-fund"/>
+    <id>a3749ab26a1e499e964ee3d2ac7546fc</id>
+    <published>2024-09-26T10:10:10.110000+00:00</published>
+    <updated>2024-09-26T10:10:10.110000+00:00</updated>
+    <summary type="text">We believe that the best stories are yet to be told, but that traditional funding mechanisms often overlook new and emerging visions within the larger industry ecosystem. With that in mind, we are excited to announce the introduction of The Hundred Film Fund. A new effort from Runway and Runway Stud</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway Partners with Lionsgate</title>
+    <link href="https://runwayml.com/news/runway-partners-with-lionsgate"/>
+    <id>ca226d0e5ab618eba21b26cf653703b4</id>
+    <published>2024-09-18T10:10:10.110000+00:00</published>
+    <updated>2024-09-18T10:10:10.110000+00:00</updated>
+    <summary type="text">Runway and Lionsgate are partnering to explore the use of AI in film production.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Introducing the Runway API for Gen-3 Alpha Turbo</title>
+    <link href="https://runwayml.com/news/introducing-the-runway-api"/>
+    <id>fbbec77acd49c998bb46c070f3877e8b</id>
+    <published>2024-09-16T10:10:10.110000+00:00</published>
+    <updated>2024-09-16T10:10:10.110000+00:00</updated>
+    <summary type="text">Developers can now easily integrate our Gen-3 Alpha Turbo model into their apps and products.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Exploring the Future of Filmmaking: Runwayâs programming partnership with Tribeca Festival 2024</title>
+    <link href="https://runwayml.com/news/runway-partners-with-tribeca-festival"/>
+    <id>e3fbc34af9beaa811e23a2acb264971b</id>
+    <published>2024-05-10T10:10:10.110000+00:00</published>
+    <updated>2024-05-10T10:10:10.110000+00:00</updated>
+    <summary type="text">The film industry stands on the brink of a new era, one where the lines between technology and creativity are blurring and giving way to entirely new forms of storytelling. To explore this foundational shift, Runwayâs AI Film Festival has announced a programming partnership with the 23rd annual Tr</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Partnering with Musixmatch to enhance the experience of music worldwide</title>
+    <link href="https://runwayml.com/news/runway-partners-with-musixmatch"/>
+    <id>7f54927e45bd12542a3641495df02b0b</id>
+    <published>2024-03-21T10:10:10.110000+00:00</published>
+    <updated>2024-03-21T10:10:10.110000+00:00</updated>
+    <summary type="text">Musixmatch and Runway are partnering to extend the reach of AI-powered media generation by putting generative video directly into the hands of Musixmatchâs community of artists and musicians.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Partnering with Media.Monks to expand creative horizons</title>
+    <link href="https://runwayml.com/news/partnering-with-media-monks"/>
+    <id>c6227fca9af994ad27c2fce5843a7396</id>
+    <published>2024-03-20T10:10:10.110000+00:00</published>
+    <updated>2024-03-20T10:10:10.110000+00:00</updated>
+    <summary type="text">Media.Monks and Runway are entering into a collaborative partnership that provides the global creative teams and clients of Media.Monks with advanced access to new creative tools and artificial intelligence (AI) models.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway partners with Getty Images to build enterprise ready AI tools</title>
+    <link href="https://runwayml.com/news/runway-partners-with-getty-images"/>
+    <id>9a3e4ea5070525fef9a7c82428da6d1d</id>
+    <published>2023-12-04T10:10:10.110000+00:00</published>
+    <updated>2023-12-04T10:10:10.110000+00:00</updated>
+    <summary type="text">Runway is partnering with Getty Images to launch a new video model for enterprise customers, addressing companiesâ ever-growing need for high-quality, customized content.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Introducing the Runway Acceleration Program</title>
+    <link href="https://runwayml.com/news/introducing-acceleration-program"/>
+    <id>3078f070979c196469b4c0e6a0c7e290</id>
+    <published>2023-10-16T23:23:58.290000+00:00</published>
+    <updated>2023-10-16T23:23:58.290000+00:00</updated>
+    <summary type="text">We are excited to introduce the Runway Acceleration Program to help exceptional software engineers become ML practitioners.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway partners with Canva</title>
+    <link href="https://runwayml.com/news/runway-partners-with-canva"/>
+    <id>29210077b2f3554327524a4e12ba9cec</id>
+    <published>2023-10-04T10:10:10.110000+00:00</published>
+    <updated>2023-10-04T10:10:10.110000+00:00</updated>
+    <summary type="text">Today, we are thrilled to announce that we are partnering with Canva to bring the power of Runway and AI video generation to Canva users all around the world.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway raises $141 million to continue building the future of creativity</title>
+    <link href="https://runwayml.com/news/runway-raises-141-million-to-continue-building-the-future-of-creativity"/>
+    <id>9d3e81f80d1966896c3ff9104b5d42bc</id>
+    <published>2023-06-29T10:10:10.110000+00:00</published>
+    <updated>2023-06-29T10:10:10.110000+00:00</updated>
+    <summary type="text">We are thrilled to announce a $141M extension to our Series C with participation from Google, NVIDIA, Salesforce Ventures, and existing investors, among others.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Scaling our in-house research infrastructure with AWS</title>
+    <link href="https://runwayml.com/news/scaling-our-in-house-research-infrastructure-with-aws"/>
+    <id>6127e1b7012afa5d5a838903b90da1b9</id>
+    <published>2023-03-22T10:10:10.110000+00:00</published>
+    <updated>2023-03-22T10:10:10.110000+00:00</updated>
+    <summary type="text">A multi-year strategic research partnership with AWS to scale our applied AI research.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway raises $50M Series C</title>
+    <link href="https://runwayml.com/news/runway-raises-50-series-c"/>
+    <id>3e16388e2174cdc510d0d4b3cb42f35e</id>
+    <published>2022-12-05T10:10:10.110000+00:00</published>
+    <updated>2022-12-05T10:10:10.110000+00:00</updated>
+    <summary type="text">Building the next creative suite, the Generative Suite.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway raises $35M Series B</title>
+    <link href="https://runwayml.com/news/runway-raises-35-series-b"/>
+    <id>3cd0767f0faba9ce3eec0f9bb00ddc77</id>
+    <published>2021-12-15T23:23:58.290000+00:00</published>
+    <updated>2021-12-15T23:23:58.290000+00:00</updated>
+    <summary type="text">Doubling down on our mission to help more people tell stories with video.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Runway raises $8.5M Series A</title>
+    <link href="https://runwayml.com/news/runway-raises-8-5m-series-a"/>
+    <id>c4ac4b9c4f1770595e7e88254f6e5bda</id>
+    <published>2020-12-16T23:23:58.290000+00:00</published>
+    <updated>2020-12-16T23:23:58.290000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Building impossible things</title>
+    <link href="https://runwayml.com/news/building-impossible-things"/>
+    <id>10ba2234c466d90ddf1b1d1ed3ecc0a4</id>
+    <published>2020-12-10T17:36:46.024000+00:00</published>
+    <updated>2020-12-10T17:36:46.024000+00:00</updated>
+    <summary type="text">A glimpse into the future of Runway.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Machine Learning En Plein Air: Building accessible tools for artists</title>
+    <link href="https://runwayml.com/news/machine-learning-en-plein-air-building-accessible-tools-for-artists"/>
+    <id>403beaff6504454c16232c1899787e84</id>
+    <published>2018-05-28T20:07:43.317000+00:00</published>
+    <updated>2018-05-28T20:07:43.317000+00:00</updated>
+    <category term="Company News"/>
+  </entry>
+</feed>
