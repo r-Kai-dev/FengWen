@@ -37,6 +37,12 @@ The `request/` pipeline is now the catch-all for self-contained fetch+parse (any
 
 Use the existing scripts in the relevant directory as reference. Keep `org_key` consistent between the config entry and the filename (`request_{org_key}.py` or `parse_{org_key}.py`).
 
+> **CI compatibility**: The CI pipeline runs scripts via `run.sh` (which sets `PYTHONPATH`), so new request/parse
+> scripts are automatically included — no CI config changes needed. As defense-in-depth, also ensure your script
+> imports `common` (in `request/`) or `config_util` (in `parse/`) **before** `feed_util`, since those modules
+> add `src/` to `sys.path` on import. The fetch scripts (`fetch_html.py`, `fetch_js.py`) don't need this —
+> they have no local imports.
+
 ### 3. Use the shared utilities
 
 | Utility | Module | Purpose |
