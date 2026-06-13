@@ -12,6 +12,18 @@
     "favicon": "https://www.deepseek.com/favicon.ico"
   },
   {
+    "url": "https://hunyuan.tencent.com",
+    "org_key": "tencent_hunyuan",
+    "pages": ["research"],
+    "favicon": "https://hunyuan-blog-web-prod-1258344703.cos.ap-guangzhou.myqcloud.com/favicon.png"
+  },
+  {
+    "url": "https://aistudio.tencent.com",
+    "org_key": "tencent_aistudio",
+    "pages": ["news/blog"],
+    "favicon": "https://cdn-portal.hunyuan.tencent.com/public/static/logo/favicon.png"
+  },
+  {
     "url": "https://qwen.ai",
     "org_key": "qwen",
     "pages": ["research"],

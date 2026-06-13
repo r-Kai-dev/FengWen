@@ -94,14 +94,174 @@ def _start_browser() -> ChromiumPage:
     return page
 
 
-def _fetch_straightforward(page: ChromiumPage, url: str) -> str:
-    """Navigate and return the fully-rendered HTML (for SPA sites)."""
+def _wait_for_render(page: ChromiumPage, org_key: str, timeout: int = 15) -> None:
+    """Wait for SPA content to finish rendering, with org_key-specific logic.
+
+    Some SPAs initially show a skeleton loader, then render real content
+    after the JS bundles execute and API calls resolve.  This helper waits
+    for site-specific signals that the *real* content is in the DOM.
+    """
+    import time
+
+    if org_key == "tencent_hunyuan":
+        # Hunyuan research: wait for blog-item cards to appear AND
+        # the skeleton loader to gain class "hidden"
+        deadline = time.time() + timeout
+        while time.time() < deadline:
+            # Check if skeleton is hidden
+            try:
+                skel = page.ele("#app-skeleton", timeout=1)
+                skel_cls = (skel.attr("class") or "") if skel else ""
+                skeleton_hidden = "hidden" in skel_cls.split()
+            except Exception:
+                skeleton_hidden = True
+
+            # Check if any blog cards are rendered
+            try:
+                cards = page.eles(".blog-item")
+                has_content = len(cards) >= 1
+            except Exception:
+                has_content = False
+
+            if skeleton_hidden and has_content:
+                logging.info(f"  Hunyuan content rendered ({len(cards)} blog items)")
+                return
+            page.wait(0.5)
+
+        # Fallback: just wait a few more seconds
+        logging.warning("  Hunyuan render signal not detected, waiting extra …")
+        page.wait(5)
+
+    elif org_key == "tencent_aistudio":
+        # AI Studio: wait for blog-list__item cards to appear
+        deadline = time.time() + timeout
+        while time.time() < deadline:
+            try:
+                cards = page.eles(".blog-list__item")
+                if len(cards) >= 1:
+                    logging.info(f"  AI Studio content rendered ({len(cards)} blog items)")
+                    return
+            except Exception:
+                pass
+            page.wait(0.5)
+
+        logging.warning("  AI Studio render signal not detected, waiting extra …")
+        page.wait(5)
+
+    else:
+        # Generic wait for other SPAs
+        page.wait(3)
+
+
+def _fetch_straightforward(page: ChromiumPage, url: str, org_key: str = "") -> str:
+    """Navigate and return the fully-rendered HTML (for SPA sites).
+
+    Uses org_key-specific wait logic when provided.
+    """
     logging.info(f"Navigating to {url}")
     page.get(url)
     page.wait.doc_loaded()
-    # Give SPA frameworks extra time to render content
-    page.wait(2)
+    _wait_for_render(page, org_key)
     return page.html
+
+
+def _inject_article_ids(page: ChromiumPage, selector: str) -> int:
+    """Extract article IDs from React fiber tree and inject as DOM attributes.
+
+    Both the Hunyuan research and AI Studio news/blog pages render their
+    article listings via React components.  The article detail URLs use
+    numeric IDs stored in the React fiber tree (as fiber.key), not in
+    static DOM attributes.  This helper walks each element matching
+    *selector*, finds the React fiber internals, and writes
+    ``data-article-id`` onto the element so parsers can read it from the
+    cached HTML.
+
+    For AI Studio, it also extracts the actual article URL (WeChat article
+    links) from the parent component's state and writes it as
+    ``data-article-url``.
+
+    Returns the number of elements that received an ID.
+    """
+    count = page.run_js(f"""
+        const items = document.querySelectorAll('{selector}');
+        let injected = 0;
+
+        // First pass: find article URLs from the blog-list parent fiber tree
+        let articleUrlMap = {{}};
+        const listWrapper = document.querySelector('.blog-list, .blog-list-wrapper');
+        if (listWrapper) {{
+            for (const key in listWrapper) {{
+                if (key.startsWith('__reactFiber')) {{
+                    let f = listWrapper[key];
+                    let depth = 0;
+                    while (f && depth < 30) {{
+                        let state = f.memoizedState;
+                        while (state) {{
+                            if (state.queue && state.queue.lastRenderedState) {{
+                                const st = state.queue.lastRenderedState;
+                                if (Array.isArray(st)) {{
+                                    for (const item of st) {{
+                                        if (item && (item.url || item.link)) {{
+                                            articleUrlMap[item.id] = item.url || item.link;
+                                        }}
+                                    }}
+                                }}
+                            }}
+                            state = state.next;
+                        }}
+                        f = f.return;
+                        depth++;
+                    }}
+                }}
+            }}
+        }}
+
+        // Second pass: inject IDs and URLs onto each item
+        items.forEach(item => {{
+            let articleId = null;
+            for (const key in item) {{
+                if (key.startsWith('__reactFiber')) {{
+                    let f = item[key];
+                    let depth = 0;
+                    while (f && depth < 20) {{
+                        const fid = f.key;
+                        if (fid !== null && fid !== undefined &&
+                            (typeof fid === 'number' || /^\\d+$/.test(String(fid)))) {{
+                            articleId = String(fid);
+                            item.setAttribute('data-article-id', articleId);
+                            injected++;
+                            // Look up the URL from the parent state map
+                            if (articleUrlMap[articleId]) {{
+                                item.setAttribute('data-article-url', articleUrlMap[articleId]);
+                            }}
+                            break;
+                        }}
+                        // Also check memoizedProps for id or customUrl
+                        const mp = f.memoizedProps || {{}};
+                        if (mp.id && !articleId) {{
+                            articleId = String(mp.id);
+                            item.setAttribute('data-article-id', articleId);
+                            injected++;
+                        }}
+                        if (mp.url && !item.getAttribute('data-article-url')) {{
+                            item.setAttribute('data-article-url', String(mp.url));
+                        }}
+                        if (mp.customUrl && !item.getAttribute('data-custom-url')) {{
+                            item.setAttribute('data-custom-url', String(mp.customUrl));
+                        }}
+                        f = f.return;
+                        depth++;
+                    }}
+                }}
+            }}
+            // Final fallback: if we have an ID but no URL, use the map
+            if (articleId && !item.getAttribute('data-article-url') && articleUrlMap[articleId]) {{
+                item.setAttribute('data-article-url', articleUrlMap[articleId]);
+            }}
+        }});
+        return injected;
+    """)
+    return int(count) if count else 0
 
 
 def _fetch_deepseek_news(page: ChromiumPage, base_url: str) -> str:
@@ -135,6 +295,75 @@ def _fetch_deepseek_news(page: ChromiumPage, base_url: str) -> str:
     return page.html
 
 
+def _fetch_hunyuan_research(page: ChromiumPage, url: str) -> str:
+    """Navigate to Hunyuan research page and switch to Chinese (中文).
+
+    The Hunyuan research page shows different articles depending on the
+    selected language.  The Chinese version includes more articles (e.g. 5
+    vs 4 in English).  We navigate, wait for the initial render, then
+    click the Chinese language toggle to switch content, and wait for
+    the re-render before capturing the HTML.
+
+    Article URLs use numeric IDs (e.g. /research/100041) that live in
+    React fiber internals, not in DOM attributes.  Before saving, we
+    inject them as data-article-id attributes onto each .blog-item div
+    so the parser can construct correct article URLs.
+    """
+    logging.info(f"Navigating to {url}")
+    page.get(url)
+    page.wait.doc_loaded()
+    _wait_for_render(page, "tencent_hunyuan")
+
+    # Switch to Chinese for more articles
+    logging.info("Switching to Chinese (中文) …")
+    page.run_js("""
+        const items = document.querySelectorAll('.header__lang-switch-text-item');
+        for (const item of items) {
+            if (item.textContent.trim() === '中文') {
+                item.click();
+                break;
+            }
+        }
+    """)
+    page.wait(5)
+
+    # Inject article IDs from React fiber tree into DOM
+    injected = _inject_article_ids(page, ".blog-item")
+
+    try:
+        cards = page.eles(".blog-item")
+        logging.info(f"  Chinese version rendered ({len(cards)} blog items, "
+                      f"{injected} with article IDs)")
+    except Exception:
+        logging.warning("  Could not count blog items after language switch")
+
+    return page.html
+
+
+def _fetch_aistudio_news(page: ChromiumPage, url: str) -> str:
+    """Navigate to AI Studio news/blog page, wait for render, and inject
+    article IDs from React fiber internals into the DOM before saving.
+
+    Article URLs use numeric IDs (e.g. /news/blog/241) stored in the
+    React fiber tree as fiber.key, not in static DOM attributes.
+    """
+    logging.info(f"Navigating to {url}")
+    page.get(url)
+    page.wait.doc_loaded()
+    _wait_for_render(page, "tencent_aistudio")
+
+    injected = _inject_article_ids(page, ".blog-list__item")
+
+    try:
+        cards = page.eles(".blog-list__item")
+        logging.info(f"  AI Studio content rendered ({len(cards)} blog items, "
+                      f"{injected} with article IDs)")
+    except Exception:
+        logging.warning("  Could not count blog items")
+
+    return page.html
+
+
 def fetch_all(config_path: Path) -> None:
     """Process every entry in the JS config file."""
     entries = json.loads(config_path.read_text(encoding="utf-8"))
@@ -152,9 +381,15 @@ def fetch_all(config_path: Path) -> None:
                 try:
                     if org_key == "deepseek" and page_path == "/":
                         html = _fetch_deepseek_news(page, base_url)
+                    elif org_key == "tencent_hunyuan":
+                        full_url = base_url.rstrip("/") + "/" + page_path.lstrip("/")
+                        html = _fetch_hunyuan_research(page, full_url)
+                    elif org_key == "tencent_aistudio":
+                        full_url = base_url.rstrip("/") + "/" + page_path.lstrip("/")
+                        html = _fetch_aistudio_news(page, full_url)
                     else:
                         full_url = base_url.rstrip("/") + "/" + page_path.lstrip("/")
-                        html = _fetch_straightforward(page, full_url)
+                        html = _fetch_straightforward(page, full_url, org_key=org_key)
 
                     filename = save_html(org_key, page_path, html)
                     results.append(
