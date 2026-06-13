@@ -6,7 +6,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-from config_util import compact, load_site_config, write_atom_feed
+from config_util import load_site_config
+from feed_util import compact, write_atom_feed
 
 # Configure logging
 logging.basicConfig(
@@ -141,6 +142,29 @@ def extract_trending_data(soup, timeframe="monthly"):
             # Generate unique ID based on repository path (stable across updates)
             item_id = hashlib.md5(f"github_trending_{repo_path}".encode()).hexdigest()
 
+            # Format stars/humbers for display (e.g. 1500 -> "1.5k")
+            def _format_count(num):
+                if num >= 1000:
+                    return f"{num / 1000:.1f}k".rstrip("0").rstrip(".")
+                return str(num)
+
+            # Build rich HTML content for the <content type="html"> element
+            content_parts = []
+            if description:
+                # Wrap description in <p>. The XML library will escape
+                # any bare HTML special characters in Atom <content type="html">.
+                content_parts.append(f"<p>{description}</p>")
+
+            meta_items = []
+            meta_items.append(f"\u2b50 <strong>{_format_count(stars_count)}</strong> stars")
+            meta_items.append(f"\U0001f374 <strong>{_format_count(forks_count)}</strong> forks")
+            meta_items.append(f"\U0001f525 <strong>{_format_count(stars_today)}</strong> stars today")
+            if language:
+                meta_items.append(f"\U0001f4bb <strong>{language}</strong>")
+            content_parts.append(f"<p>{' &middot; '.join(meta_items)}</p>")
+
+            html_content = "\n".join(content_parts) if content_parts else ""
+
             repository = compact(
                 {
                     "id": item_id,
@@ -148,6 +172,8 @@ def extract_trending_data(soup, timeframe="monthly"):
                     "type": "trending_repository",
                     "title": formatted_title,
                     "description": description,
+                    "summary": description,
+                    "content": html_content,
                     "url": repo_url,
                     "published_date": datetime.now(timezone.utc).isoformat(),
                     "categories": [language] if language else [],

@@ -7,6 +7,9 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 LOGDIR="$(dirname "$(dirname "$PWD")")/logs"
+
+# Add src/ to PYTHONPATH so feed_util.py is importable
+export PYTHONPATH="$(dirname "$PWD"):${PYTHONPATH:-}"
 mkdir -p "$LOGDIR"
 
 SCRIPTS=(

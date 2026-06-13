@@ -5,13 +5,14 @@ import hashlib
 import logging
 from datetime import datetime, timedelta, timezone
 
+from feed_util import write_atom_feed
+
 from common import (
     PARSED_DIR,
     ensure_output_dir,
     fetch_with_retry,
     load_api_config,
     setup_logging,
-    write_atom_feed,
 )
 from curl_cffi.requests import AsyncSession
 
@@ -50,12 +51,16 @@ def _build_trending_item(item_data: dict, item_type: str) -> dict | None:
         if tags:
             description_parts.append(f"Tags: {', '.join(tags[:3])}")
 
+        # Plain-text summary for mobile (no HTML)
+        summary = " \u00b7 ".join(description_parts) if description_parts else ""
+
         return {
             "id": hashlib.md5(f"huggingface_{item_id}".encode()).hexdigest(),
             "source": ORG_KEY,
             "type": item_type,
             "title": item_id,
             "description": "<br/>".join(description_parts),
+            "summary": summary,
             "url": (
                 f"https://huggingface.co/datasets/{item_id}"
                 if item_type == "dataset"
@@ -111,6 +116,10 @@ def _build_paper_entry(raw_item: dict) -> dict | None:
         if author_names:
             description_parts.append(f"Authors: {', '.join(author_names[:3])}")
 
+        # Plain-text summary for mobile (no HTML)
+        summary_parts = description_parts[:]
+        summary_text = " · ".join(summary_parts) if summary_parts else ""
+
         description = "<br/>".join(description_parts)
 
         primary_url = (
@@ -144,6 +153,7 @@ def _build_paper_entry(raw_item: dict) -> dict | None:
             "type": "paper",
             "title": title,
             "description": description,
+            "summary": summary_text,
             "url": primary_url,
             "external_url": (
                 github_url
@@ -325,15 +335,15 @@ async def main() -> None:
             # Page-specific feed link and title
             page_feed_info = {
                 "trending_models": {
-                    "title": "Hugging Face Trending Models",
+                    "title": "Models Huggingface Trending",
                     "link": "https://huggingface.co/models",
                 },
                 "trending_datasets": {
-                    "title": "Hugging Face Trending Datasets",
+                    "title": "Datasets Huggingface Trending",
                     "link": "https://huggingface.co/datasets",
                 },
                 "daily_papers": {
-                    "title": "Hugging Face Daily Papers",
+                    "title": "Daily Papers Huggingface",
                     "link": "https://huggingface.co/papers",
                 },
             }

@@ -5,13 +5,14 @@ import hashlib
 import logging
 from datetime import datetime, timezone
 
+from feed_util import write_atom_feed
+
 from common import (
     PARSED_DIR,
     ensure_output_dir,
     fetch_with_retry,
     load_api_config,
     setup_logging,
-    write_atom_feed,
 )
 from curl_cffi.requests import AsyncSession
 

@@ -6,7 +6,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-from config_util import compact, load_site_config, write_atom_feed
+from config_util import load_site_config
+from feed_util import compact, write_atom_feed
 
 # Configure logging
 logging.basicConfig(
@@ -201,6 +202,7 @@ def extract_daily_news_from_html(soup, html_content):
                     "type": "daily_news",
                     "title": title,
                     "description": cleaned_description,
+                    "summary": cleaned_description,
                     "url": url,
                     "published_date": published_date,
                     "categories": ["AI Daily", "人工智能"],

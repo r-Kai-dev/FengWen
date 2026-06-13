@@ -2,10 +2,17 @@
 
 import json
 import logging
+import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from xml.dom import minidom
+
+# Ensure src/ is on sys.path so feed_util is importable from any invocation context
+_src_dir = str(Path(__file__).resolve().parent.parent)
+if _src_dir not in sys.path:
+    sys.path.insert(0, _src_dir)
+
+from feed_util import write_atom_feed  # noqa: F401
 
 # ── Paths ────────────────────────────────────────────────
 PROJECT_DIR = Path(__file__).resolve().parent.parent.parent
@@ -72,7 +79,7 @@ async def fetch_with_retry(
             if attempt < max_retries - 1:
                 wait = base_delay * (2**attempt)
                 logging.warning(
-                    "Request to %s failed (attempt %d/%d): %s. Retrying in %.1fs …",
+                    "Request to %s failed (attempt %d/%d): %s. Retrying in %.1fs \u2026",
                     url,
                     attempt + 1,
                     max_retries,
@@ -81,80 +88,3 @@ async def fetch_with_retry(
                 )
                 time.sleep(wait)  # blocking sleep is fine for sequential scrapes
     raise last_exception  # type: ignore[misc]
-
-
-def write_atom_feed(
-    output_path: Path,
-    entries: list[dict],
-    feed_title: str,
-    feed_link: str,
-    feed_author: str | None = None,
-    feed_icon: str | None = None,
-) -> None:
-    """Write a list of entry dicts to an Atom XML feed file.
-
-    Entries are sorted by ``published_date`` descending, then by ``title``
-    ascending for ties, to ensure stable ordering across runs.
-
-    Each entry dict may contain:
-      - title (str)
-      - url / link (str)
-      - id (str) — optional, falls back to url
-      - published_date (str, ISO-8601)
-      - summary (str) — optional, plain text
-      - categories (list of str) — optional
-      - organization (str) — used as author if feed_author not given
-
-    If *feed_icon* is provided, an ``<icon>`` element is added to the feed.
-    """
-    import xml.etree.ElementTree as ET
-
-    # Stable sort: date descending, title ascending for ties.
-    # Two-pass sort exploits Python's stable sort — the last key wins.
-    entries.sort(key=lambda e: e.get("title", "") or "")
-    entries.sort(key=lambda e: e.get("published_date", "") or "", reverse=True)
-
-    feed = ET.Element("feed", xmlns="http://www.w3.org/2005/Atom")
-
-    ET.SubElement(feed, "title").text = feed_title
-    if feed_icon:
-        ET.SubElement(feed, "icon").text = feed_icon
-    ET.SubElement(feed, "link", href=feed_link)
-    ET.SubElement(feed, "id").text = feed_link
-
-    dates = [e.get("published_date", "") for e in entries if e.get("published_date")]
-    dates.sort(reverse=True)
-    updated = dates[0] if dates else datetime.now(timezone.utc).isoformat()
-    ET.SubElement(feed, "updated").text = updated
-
-    author_name = feed_author or (entries[0].get("organization") if entries else None)
-    if author_name:
-        author = ET.SubElement(feed, "author")
-        ET.SubElement(author, "name").text = author_name
-
-    for entry in entries:
-        e = ET.SubElement(feed, "entry")
-        ET.SubElement(e, "title").text = entry.get("title", "")
-        ET.SubElement(e, "link", href=entry.get("url", entry.get("link", "")))
-        ET.SubElement(e, "id").text = entry.get("id", entry.get("url", ""))
-
-        pub_date = entry.get("published_date", "")
-        if pub_date:
-            ET.SubElement(e, "published").text = pub_date
-            ET.SubElement(e, "updated").text = pub_date
-
-        summary = entry.get("summary", "")
-        if summary:
-            ET.SubElement(e, "summary", type="text").text = summary
-
-        for cat in entry.get("categories", []):
-            if cat:
-                ET.SubElement(e, "category", term=cat)
-
-    rough = ET.tostring(feed, encoding="utf-8")
-    dom = minidom.parseString(rough)
-    pretty = dom.toprettyxml(indent="  ", encoding="utf-8")
-    output_path.write_bytes(pretty)
-    logging.getLogger(__name__).info(
-        f"Wrote Atom feed ({len(entries)} entries) to {output_path}"
-    )

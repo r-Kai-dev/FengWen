@@ -5,7 +5,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-from config_util import compact, load_site_config, write_atom_feed
+from config_util import load_site_config
+from feed_util import compact, write_atom_feed
 
 # Configure logging
 logging.basicConfig(

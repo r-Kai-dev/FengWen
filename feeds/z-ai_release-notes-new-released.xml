@@ -14,6 +14,7 @@
     <id>cf8fd33f4358f951afa1ea56d19654bd</id>
     <published>2026-04-07T00:00:00+00:00</published>
     <updated>2026-04-07T00:00:00+00:00</updated>
+    <summary type="text">Designed for long-horizon tasks, GLM-5.1 can work independently for up to 8 hours in a single run, enabling a full loop from planning and execution to iterative refinement and final delivery.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -23,6 +24,7 @@
     <id>0ef9a93d6c0ba732cb84a4ed702430ea</id>
     <published>2026-04-01T00:00:00+00:00</published>
     <updated>2026-04-01T00:00:00+00:00</updated>
+    <summary type="text">Designed for vision-based coding and claw-style Agent workflows, GLM-5V-Turbo brings native multimodal understanding to images, video, and text, enabling stronger planning, coding, and action execution in visually grounded tasks.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -32,6 +34,7 @@
     <id>96440c88c15049d8476821f49f295d0a</id>
     <published>2026-03-15T00:00:00+00:00</published>
     <updated>2026-03-15T00:00:00+00:00</updated>
+    <summary type="text">Designed for high-throughput OpenClaw lobster workloads, GLM-5-Turbo focuses on improving stability and efficiency in long-chain Agent tasks, enabling smoother execution for complex, multi-step workflows.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -41,6 +44,7 @@
     <id>a03caaa40d939b250633530f19d8ed7d</id>
     <published>2026-02-12T00:00:00+00:00</published>
     <updated>2026-02-12T00:00:00+00:00</updated>
+    <summary type="text">Designed for complex system engineering and long-range Agent tasks, GLM-5 shifts the paradigm from coding to engineering, demonstrating strong deep-reasoning performance in backend architecture, complex algorithms, and stubborn bug fixing.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -50,6 +54,7 @@
     <id>a392115da543e803db99e8a5f38f8955</id>
     <published>2026-02-03T00:00:00+00:00</published>
     <updated>2026-02-03T00:00:00+00:00</updated>
+    <summary type="text">We’ve launched GLM-OCR, a compact and high-performance optical character recognition model powered by the self-developed CogViT and GLM-0.5B encoder-decoder architecture, enabling efficient cross-modal alignment through its dedicated connection layer.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -59,6 +64,7 @@
     <id>84b7ec3a537e62029d89736ec0cfb823</id>
     <published>2026-01-19T00:00:00+00:00</published>
     <updated>2026-01-19T00:00:00+00:00</updated>
+    <summary type="text">We’ve launched GLM-4.7-Flash, a lightweight and efficient model designed as the free-tier version of GLM-4.7, delivering strong performance across coding, reasoning, and generative tasks with low latency and high throughput.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -68,6 +74,7 @@
     <id>4c25e084e60e471cc4169ab0fe2f87d1</id>
     <published>2026-01-14T00:00:00+00:00</published>
     <updated>2026-01-14T00:00:00+00:00</updated>
+    <summary type="text">We’ve launched GLM-Image, a state-of-the-art image generation model built on a multimodal architecture and fully trained on domestic chips, combining autoregressive semantic understanding with diffusion-based decoding to deliver high-quality, controllable visual generation.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -77,6 +84,7 @@
     <id>ad943f43d4f0c884b612e27854101127</id>
     <published>2025-12-22T00:00:00+00:00</published>
     <updated>2025-12-22T00:00:00+00:00</updated>
+    <summary type="text">We’ve released GLM-4.7, our foundation model with significant improvements in coding, reasoning, and agentic capabilities. It delivers more reliable code generation, stronger long-context understanding, and improved end-to-end task execution across real-world development workflows.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -86,6 +94,7 @@
     <id>7932954ce15a2a74b75ec1bd7d622205</id>
     <published>2025-12-11T00:00:00+00:00</published>
     <updated>2025-12-11T00:00:00+00:00</updated>
+    <summary type="text">We’ve launched AutoGLM-Phone-Multilingual, our latest multimodal mobile automation framework that understands screen content and executes real actions through ADB. It enables natural-language task execution across 50+ mainstream apps, delivering true end-to-end mobile control.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -95,6 +104,7 @@
     <id>3e9c4a0ce789d9af37777a5c32578225</id>
     <published>2025-12-10T00:00:00+00:00</published>
     <updated>2025-12-10T00:00:00+00:00</updated>
+    <summary type="text">We’ve launched GLM-ASR-2512, our ASR model, delivering industry-leading accuracy with a Character Error Rate of just 0.0717, and significantly improved performance across real-world multilingual and accent-rich scenarios.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -104,6 +114,7 @@
     <id>635cf04c7a51fdf78d5abb02302180ca</id>
     <published>2025-12-08T00:00:00+00:00</published>
     <updated>2025-12-08T00:00:00+00:00</updated>
+    <summary type="text">We’re excited to introduce GLM-4.6V, Z.ai’s latest iteration in multimodal large language models. This version enhances vision understanding, achieving state-of-the-art performance in tasks involving images and text.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -113,6 +124,7 @@
     <id>7264d01b66d0588f8128b04bd6687bf8</id>
     <published>2025-09-30T00:00:00+00:00</published>
     <updated>2025-09-30T00:00:00+00:00</updated>
+    <summary type="text">We’ve launched GLM-4.6, the flagship coding model, showcasing enhanced performance in both public benchmarks and real-world programming tasks, making it the leading coding model in China.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -122,6 +134,7 @@
     <id>e0004d7e2822cee449c84fe3a91851ca</id>
     <published>2025-08-11T00:00:00+00:00</published>
     <updated>2025-08-11T00:00:00+00:00</updated>
+    <summary type="text">We’ve launched GLM-4.5V, a 100B-scale open-source vision reasoning model, supporting a broad range of visual tasks including video understanding, visual grounding, GUI agents and etc.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -131,6 +144,7 @@
     <id>2e6b183246bece53266276d6d41ef14e</id>
     <published>2025-08-08T00:00:00+00:00</published>
     <updated>2025-08-08T00:00:00+00:00</updated>
+    <summary type="text">We’ve launched GLM Slide/Poster Agent, an AI-powered creation agent that combines information retrieval, content structuring, and visual layout design to generate professional-grade slides and posters from natural language instructions.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -140,6 +154,7 @@
     <id>c1090a2ad1e10d52854c2efe59a555a5</id>
     <published>2025-07-28T00:00:00+00:00</published>
     <updated>2025-07-28T00:00:00+00:00</updated>
+    <summary type="text">We’ve launched GLM-4.5, our latest native agentic LLM, delivering doubled parameter efficiency and strong reasoning, coding, and agentic capabilities.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>
@@ -149,6 +164,7 @@
     <id>bb803b928074e3a6da35b7a76a68714d</id>
     <published>2025-07-15T00:00:00+00:00</published>
     <updated>2025-07-15T00:00:00+00:00</updated>
+    <summary type="text">We’ve launched CogVideoX-3, an incremental upgrade to our video generation model with improved quality and new features.</summary>
     <category term="Release Notes"/>
     <category term="Models"/>
   </entry>

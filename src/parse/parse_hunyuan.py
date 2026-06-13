@@ -35,7 +35,8 @@ from pathlib import Path
 from urllib.parse import quote
 
 from bs4 import BeautifulSoup
-from config_util import compact, load_site_config, write_atom_feed
+from config_util import load_site_config
+from feed_util import compact, write_atom_feed
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
