@@ -44,6 +44,73 @@
           "output_file": "huggingface_daily_papers.xml"
         }
       ]
+    },
+    {
+      "name": "AI News Radar",
+      "org_key": "ainewsradar",
+      "base_url": "https://learnprompt.github.io/ai-news-radar",
+      "favicon": "https://learnprompt.github.io/ai-news-radar/assets/logo.svg",
+      "pages": [
+        {
+          "key": "bole_picks",
+          "endpoint": "/data/daily-brief.json",
+          "method": "GET",
+          "params": {},
+          "output_file": "ainewsradar_bole-picks.xml"
+        }
+      ]
+    },
+    {
+      "name": "Runway",
+      "org_key": "runway",
+      "base_url": "https://runwayml.com",
+      "favicon": "https://runwayml.com/icon.png",
+      "pages": [
+        {
+          "key": "news",
+          "endpoint": "/news",
+          "method": "GET",
+          "params": {},
+          "output_file": "runway_news.xml"
+        },
+        {
+          "key": "research",
+          "endpoint": "/research/publications",
+          "method": "GET",
+          "params": {},
+          "output_file": "runway_research.xml"
+        }
+      ]
+    },
+    {
+      "name": "ElevenLabs",
+      "org_key": "elevenlabs",
+      "base_url": "https://elevenlabs.io",
+      "favicon": "https://elevenlabs.io/favicon.ico",
+      "pages": [
+        {
+          "key": "research",
+          "endpoint": "/blog/category/research",
+          "method": "GET",
+          "params": {},
+          "output_file": "elevenlabs_research.xml"
+        }
+      ]
+    },
+    {
+      "name": "Hume AI",
+      "org_key": "hume",
+      "base_url": "https://www.hume.ai",
+      "favicon": "https://www.hume.ai/favicon.ico",
+      "pages": [
+        {
+          "key": "blog",
+          "endpoint": "/blog",
+          "method": "GET",
+          "params": {},
+          "output_file": "hume_blog.xml"
+        }
+      ]
     }
   ]
 }

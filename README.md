@@ -38,17 +38,16 @@ The following tables include both the feeds created by this project and existing
 | [Moonshot News](https://platform.moonshot.ai/blog) | [moonshot_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/moonshot_blog.xml) | Created |
 | [Kimi Blog](https://www.kimi.com/blog) | [kimi_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/kimi_blog.xml) | Created |
 | [Z.ai News](https://docs.z.ai/release-notes/new-released) | [z-ai_release-notes-new-released.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/z-ai_release-notes-new-released.xml) | Created |
-| [Black Forest Lab News](https://bfl.ai/announcements) | | |
+| [Black Forest Lab Blog](https://bfl.ai/blog) | [bfl_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/bfl_blog.xml) | Created |
+| [Black Forest Lab Research](https://bfl.ai/research) | [bfl_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/bfl_research.xml) | Created |
 | [Stability AI Research](https://stability.ai/research) | [Stability AI Research Feed](https://stability.ai/research?format=rss) | Official |
 | [Stability AI News](https://stability.ai/news) | [Stability AI News Feed](https://stability.ai/news?format=rss) | Official |
 | [Midjourney News](https://www.midjourney.com/updates) | [Midjourney News Feed](https://updates.midjourney.com/rss/) | Official |
-| [Luma AI News](https://lumalabs.ai/blog/news) | | |
-| [Luma AI Research](https://lumalabs.ai/#research) | | |
-| [Runway Research](https://runwayml.com/research/publications) | | |
-| [Runway News](https://runwayml.com/news) | | |
-| [ElevenLabs Blog](https://elevenlabs.io/blog) | | |
-| [Hume AI News](https://www.hume.ai/blog) | | |
-| [Hume AI Research](https://www.hume.ai/research) | | |
+| [Luma AI News](https://lumalabs.ai/news) | [luma_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/luma_news.xml) | Created |
+| [Runway Research](https://runwayml.com/research/publications) | [runway_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/runway_research.xml) | Created |
+| [Runway News](https://runwayml.com/news) | [runway_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/runway_news.xml) | Created |
+| [ElevenLabs Research](https://elevenlabs.io/blog/category/research) | [elevenlabs_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/elevenlabs_research.xml) | Created |
+| [Hume AI Blog](https://www.hume.ai/blog) | [hume_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/hume_blog.xml) | Created |
 | [Kyutai Lab Blog](https://kyutai.org/blog.html) | | |
 | [Boson AI Blog](https://www.boson.ai/blog) | | |
 | [Sesame AI Blog](https://www.sesame.com/blog) | | |
@@ -140,7 +139,7 @@ To-Do: Appending logic with snapshot timestamps
 | [Venture Beat](https://venturebeat.com/) | | |
 | [机器之心](https://www.jiqizhixin.com/) | | |
 | [AI Hot News](https://aihot.virxact.com/) | [AI Hot News Feed](https://aihot.virxact.com/feed.xml) | Official |
-| [AI News Radar](https://learnprompt.github.io/ai-news-radar/) | | |
+| [AI News Radar](https://learnprompt.github.io/ai-news-radar/) | [ainewsradar_bole-picks.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ainewsradar_bole-picks.xml) | Created |
 
 ## Quantum Computing / Quantum AI
 
@@ -165,62 +164,14 @@ To-Do: Appending logic with snapshot timestamps
 
 # How It Works
 
-The project runs a **three-phase data pipeline**:
+See [`AGENTS.md`](./AGENTS.md) for the full technical architecture, pipeline details, and instructions for adding new feed sources.
 
-1. **Fetch** (`src/fetch/`) — Downloads HTML from target sites.
-   - `fetch_html.py` — Uses `curl_cffi` (async HTTP with TLS fingerprint impersonation) to fetch plain HTML pages from ~10 sources (Anthropic, Meta, KIMI, Moonshot, etc.). 15–20 URLs total.
-   - `fetch_js.py` — Uses **DrissionPage** + headless Chromium to render JavaScript-heavy pages (ByteDance, DeepSeek, Qwen) that require browser execution. 3–4 URLs total.
-2. **Request** (`src/request/`) — Fetches data from public REST APIs.
-   - `request_hackernews.py` — Fetches Hacker News best stories via Firebase API.
-   - `request_huggingface.py` — Fetches Hugging Face trending models, datasets, and daily papers.
-3. **Parse** (`src/parse/`) — Reads cached HTML / API responses with BeautifulSoup and produces Atom XML feeds (saved under `feeds/`).
-
-The full pipeline is orchestrated by `src/run_all.sh`, which runs the three phases sequentially. Each script logs to `logs/` for observability.
-
-## Codeberg CI Usage
-
-We plan to use Codeberg CI to automate feed generation so that the raw XML files at `feeds/*.xml` are always up-to-date and linkable from feed readers.
-
-## CI Pipeline
-
-**Pipeline A — HTML + JS scrape feeds** (fetch + parse)
-- Triggers: **2 times per day** (e.g., 06:00 and 18:00 UTC)
-- Steps:
-  1. `python3 src/fetch/fetch_html.py` — async HTTP fetches (~15 URLs, 5 concurrent)
-  2. `python3 src/fetch/fetch_js.py` — DrissionPage + headless Chromium (~3 pages)
-  3. `python3 src/parse/parse_*.py` — 13 parse scripts, each reads cached HTML and writes an XML feed
-
-**Pipeline B — API-based feeds** (request + parse)
-- Triggers: **1 time per day** (e.g., 06:00 UTC)
-- Steps:
-  1. `python3 src/request/request_hackernews.py` — single HTTP API call
-  2. `python3 src/request/request_huggingface.py` — 3 HTTP API calls
-
-After both pipelines complete, the generated `feeds/*.xml` files would be committed back to the repository (or deployed to a static hosting branch).
-
-## Expected Resource Usage
-
-| Resource | Pipeline A (HTML+JS) | Pipeline B (API) |
-|----------|----------------------|------------------|
-| **RAM**  | ~500–800 MB (peak during DrissionPage Chromium launch) | < 128 MB |
-| **CPU**  | 1 (scripts are single-threaded; async I/O is non-blocking) | 1 |
-| **Runtime** | ~1–2 minutes total | ~10–30 seconds |
-| **Disk (transient)** | ~2 MB cache (text-only pruned HTML) | None |
-| **Network** | ~15–20 small HTTP requests (~100 KB–1 MB each) | ~4 small API calls |
-
-The **DrissionPage** browser is the most resource-intensive component, but it runs headless with `--no-sandbox --disable-gpu --disable-dev-shm-usage`, launches only once, navigates 3–4 pages sequentially, and exits. Peak memory is well under 1 GB.
-
-**Overall classification: minimal** (< 1 GB RAM, 1 CPU, < 2 minutes of runtime per run).
-
-## Committed Files
-
-The repository already contains:
-- `config/html.json` — site list for plain-HTML fetchers
-- `config/js.json` — site list for JS-rendered fetchers
-- `config/api.json` — API endpoint configuration
-- `src/` — all Python scripts
-- `feeds/` — generated XML feeds (stale without CI automation)
-- `html_cache/` — cached/pruned HTML (stale without CI automation)
+**Quick overview:**
+- **HTML sources** (server-rendered DOM) → `config/html.json` + `src/fetch/fetch_html.py` + `src/parse/parse_*.py`
+- **JS sources** (client-side rendered) → `config/js.json` + `src/fetch/fetch_js.py` + `src/parse/parse_*.py`
+- **Self-contained sources** (JSON APIs, Next.js RSC payloads) → `config/api.json` + `src/request/request_*.py`
+- All scripts auto-discover via glob — no manual registration needed.
+- Pipeline orchestrated by `src/run_all.sh` (fetch → request → parse).
 
 ## Dependencies
 
@@ -228,6 +179,6 @@ The repository already contains:
 - `curl_cffi` — async HTTP with TLS fingerprint impersonation
 - `beautifulsoup4` — HTML parsing / XML generation
 - `DrissionPage` — headless Chromium automation for JS-rendered pages
-- Chromium (or Chrome) installed on the CI runner for DrissionPage
+- Chromium (or Chrome) installed for DrissionPage
 
 All Python dependencies are declared in `pyproject.toml`.

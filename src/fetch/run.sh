@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Run all JS-rendered and HTML fetchers.
+# Run all fetchers (HTML and JS-rendered).
 # Output (stdout+stderr) is logged per script under logs/.
 
 set -euo pipefail
@@ -7,12 +7,20 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 LOGDIR="$(dirname "$(dirname "$PWD")")/logs"
+
+# Add src/ to PYTHONPATH for any shared imports
+PYTHONPATH="$(dirname "$PWD"):${PYTHONPATH:-}"
+export PYTHONPATH
 mkdir -p "$LOGDIR"
 
-SCRIPTS=(
-    fetch_html.py
-    fetch_js.py
-)
+shopt -s nullglob
+SCRIPTS=(fetch_*.py)
+shopt -u nullglob
+
+if [ ${#SCRIPTS[@]} -eq 0 ]; then
+    echo "No fetch_*.py scripts found."
+    exit 0
+fi
 
 FAILED=0
 for script in "${SCRIPTS[@]}"; do

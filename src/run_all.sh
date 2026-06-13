@@ -19,7 +19,7 @@ bash request/run.sh || true
 
 echo ""
 echo "========================================"
-echo "[PHASE 3] Parse (HTML cache → JSON)"
+echo "[PHASE 3] Parse (HTML cache → Atom feeds)"
 echo "========================================"
 bash parse/run.sh || true
 

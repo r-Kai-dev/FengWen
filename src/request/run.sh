@@ -12,10 +12,14 @@ LOGDIR="$(dirname "$(dirname "$PWD")")/logs"
 export PYTHONPATH="$(dirname "$PWD"):${PYTHONPATH:-}"
 mkdir -p "$LOGDIR"
 
-SCRIPTS=(
-    request_hackernews.py
-    request_huggingface.py
-)
+shopt -s nullglob
+SCRIPTS=(request_*.py)
+shopt -u nullglob
+
+if [ ${#SCRIPTS[@]} -eq 0 ]; then
+    echo "No request_*.py scripts found."
+    exit 0
+fi
 
 FAILED=0
 for script in "${SCRIPTS[@]}"; do

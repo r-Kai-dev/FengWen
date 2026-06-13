@@ -62,5 +62,17 @@
     "url": "https://docs.z.ai",
     "org_key": "z-ai",
     "pages": ["release-notes/new-released"]
+  },
+  {
+    "url": "https://bfl.ai",
+    "org_key": "bfl",
+    "pages": ["blog", "research"],
+    "favicon": "https://bfl.ai/favicon.ico"
+  },
+  {
+    "url": "https://lumalabs.ai",
+    "org_key": "luma",
+    "favicon": "https://lumalabs.ai/favicons/favicon-black.ico",
+    "pages": ["news"]
   }
 ]
