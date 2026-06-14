@@ -61,6 +61,8 @@ The following tables include both the feeds created by this project and existing
 | [Resemble AI Blog](https://www.resemble.ai/resources) | | |
 | [LTX Blog](https://ltx.io/blog) | | |
 | [LTX News](https://ltx.io/newsroom) | | |
+| [Udio Blog](https://www.udio.com/blog) | | |
+| [Suno Blog](https://suno.com/blog) | | |
 
 
 ## Tool/Platform Feeds
