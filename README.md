@@ -48,7 +48,8 @@ The following tables include both the feeds created by this project and existing
 | [Runway News](https://runwayml.com/news) | [runway_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/runway_news.xml) | Created |
 | [ElevenLabs Research](https://elevenlabs.io/blog/category/research) | [elevenlabs_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/elevenlabs_research.xml) | Created |
 | [Hume AI Blog](https://www.hume.ai/blog) | [hume_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/hume_blog.xml) | Created |
-| [Kyutai Lab Blog](https://kyutai.org/blog.html) | | |
+| [Kyutai Lab Blog](https://kyutai.org/blog) | | |
+| [Kyutai Lab Papers](https://kyutai.org/papers) | | |
 | [Boson AI Blog](https://www.boson.ai/blog) | | |
 | [Sesame AI Blog](https://www.sesame.com/blog) | | |
 | [Arc Prize Blog](https://arcprize.org/blog) | [Arc Prize Blog Feed](https://arcprize.org/feed.xml) | Official |
@@ -57,7 +58,7 @@ The following tables include both the feeds created by this project and existing
 | [Sakana AI Blog](https://sakana.ai/blog/) | [Sakana AI Blog Feed](https://sakana.ai/feed.xml) | Official |
 | [Netflix Tech Blog](https://netflixtechblog.com) | [Netflix Tech Blog Feed](https://netflixtechblog.com/feed) | Official |
 | [Thinking Machine Lab Blog](https://thinkingmachines.ai/blog/) | [Thinking Machine Lab Blog Feed](https://thinkingmachines.ai/blog/index.xml) | Official |
-| [Thinking Machine Lab News](https://thinkingmachines.ai/news/) | [Thinking Machine Lab News Feed](https://thinkingmachines.ai/news/index.xml) | Official |
+| [Thinking Machine Lab News](https://thinkingmachines.ai/news/) | | |
 | [Resemble AI Blog](https://www.resemble.ai/resources) | | |
 | [LTX Blog](https://ltx.io/blog) | | |
 | [LTX News](https://ltx.io/newsroom) | | |
@@ -78,7 +79,7 @@ The following tables include both the feeds created by this project and existing
 | [Replicate Blog](https://replicate.com/blog) | [Replicate Blog Feed](https://replicate.com/blog/atom) | Official |
 | [OpenRouter Blog](https://openrouter.ai/blog/) | [OpenRouter Blog Feed](https://openrouter.ai/blog/feed.xml) | Official |
 | [Groq Blog](https://groq.com/blog) | | |
-| [Groq News](https://groq.com/announcements) | | |
+| [Groq News](https://groq.com/newsroom) | | |
 | [Llama.cpp Announcement](https://github.com/ggml-org/llama.cpp/discussions/categories/announcements) | [Llama.cpp Announcement Feed](https://github.com/ggml-org/llama.cpp/discussions/categories/announcements.atom) | Official |
 | [Rust Blog](https://blog.rust-lang.org/) | [Rust Blog Feed](https://blog.rust-lang.org/feed.xml) | Official |
 | [Higgsfield Blog](https://higgsfield.ai/blog) | | |
@@ -93,7 +94,7 @@ To-Do: Appending logic with snapshot timestamps
 | [HuggingFace Trending Models](https://huggingface.co/models?sort=trending) | [huggingface_trending_models.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/huggingface_trending_models.xml) | Created |
 | [HuggingFace Trending Datasets](https://huggingface.co/datasets?sort=trending) | [huggingface_trending_datasets.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/huggingface_trending_datasets.xml) | Created |
 | [HuggingFace Daily Papers](https://huggingface.co/papers) | [huggingface_daily_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/huggingface_daily_papers.xml) | Created |
-| [alphaXiv Trending Papers](https://www.alphaxiv.org/?sort=Hot&time=30+Days) | | |
+| [alphaXiv Trending Papers](https://www.alphaxiv.org/?sort=Hot&interval=90+Days) | | |
 | [Cool Papers](https://papers.cool/) | [Cool Papers Feed](https://papers.cool/arxiv/cs.CL,cs.LG,cs.AI,cs.CV/feed) | Official |
 
 
