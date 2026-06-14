@@ -4,148 +4,148 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/models"/>
   <id>https://huggingface.co/models</id>
-  <updated>2026-06-14T18:06:06.711505+00:00</updated>
-  <entry>
-    <title>XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash</title>
-    <link href="https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash"/>
-    <id>84abcda219207b8e3a5d25da48a8befa</id>
-    <published>2026-06-14T18:06:06.711505+00:00</published>
-    <updated>2026-06-14T18:06:06.711505+00:00</updated>
-    <summary type="text">Type: text-generation · Downloads: 4,108 · Likes: 112</summary>
-    <category term="text-generation"/>
-  </entry>
+  <updated>2026-06-14T22:36:54.176285+00:00</updated>
   <entry>
     <title>google/gemma-4-12B</title>
     <link href="https://huggingface.co/google/gemma-4-12B"/>
     <id>3afbe195d7fb570b96f60c75a333b112</id>
-    <published>2026-06-14T18:06:06.711490+00:00</published>
-    <updated>2026-06-14T18:06:06.711490+00:00</updated>
-    <summary type="text">Type: any-to-any · Downloads: 213,502 · Likes: 541</summary>
+    <published>2026-06-14T22:36:54.176285+00:00</published>
+    <updated>2026-06-14T22:36:54.176285+00:00</updated>
+    <summary type="text">Type: any-to-any · Downloads: 213,502 · Likes: 542</summary>
     <category term="any-to-any"/>
   </entry>
   <entry>
     <title>unsloth/gemma-4-12b-it-GGUF</title>
     <link href="https://huggingface.co/unsloth/gemma-4-12b-it-GGUF"/>
     <id>bd8c9414466e9dec11315da2906e4899</id>
-    <published>2026-06-14T18:06:06.711475+00:00</published>
-    <updated>2026-06-14T18:06:06.711475+00:00</updated>
-    <summary type="text">Type: image-text-to-text · Downloads: 926,372 · Likes: 587</summary>
+    <published>2026-06-14T22:36:54.176236+00:00</published>
+    <updated>2026-06-14T22:36:54.176236+00:00</updated>
+    <summary type="text">Type: image-text-to-text · Downloads: 926,372 · Likes: 595</summary>
     <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF</title>
+    <link href="https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF"/>
+    <id>de10ccd71b8b9d266776c7ff919b95f6</id>
+    <published>2026-06-14T22:36:54.176187+00:00</published>
+    <updated>2026-06-14T22:36:54.176187+00:00</updated>
+    <summary type="text">Type: text-generation · Downloads: 6,219 · Likes: 150</summary>
+    <category term="text-generation"/>
   </entry>
   <entry>
     <title>nvidia/nemotron-3.5-asr-streaming-0.6b</title>
     <link href="https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b"/>
     <id>1f9f823d9fe42c1c5ee0b340acb778e2</id>
-    <published>2026-06-14T18:06:06.711463+00:00</published>
-    <updated>2026-06-14T18:06:06.711463+00:00</updated>
-    <summary type="text">Type: automatic-speech-recognition · Downloads: 4,505 · Likes: 410</summary>
+    <published>2026-06-14T22:36:54.176144+00:00</published>
+    <updated>2026-06-14T22:36:54.176144+00:00</updated>
+    <summary type="text">Type: automatic-speech-recognition · Downloads: 4,505 · Likes: 412</summary>
     <category term="automatic-speech-recognition"/>
   </entry>
   <entry>
     <title>zai-org/SCAIL-2</title>
     <link href="https://huggingface.co/zai-org/SCAIL-2"/>
     <id>7c85bbbdc44da9dde38ca278b768db60</id>
-    <published>2026-06-14T18:06:06.711451+00:00</published>
-    <updated>2026-06-14T18:06:06.711451+00:00</updated>
-    <summary type="text">Type: image-to-video · Likes: 168</summary>
+    <published>2026-06-14T22:36:54.176110+00:00</published>
+    <updated>2026-06-14T22:36:54.176110+00:00</updated>
+    <summary type="text">Type: image-to-video · Likes: 172</summary>
     <category term="image-to-video"/>
-  </entry>
-  <entry>
-    <title>Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF</title>
-    <link href="https://huggingface.co/Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF"/>
-    <id>0d20c35df32ad02f13544e2854d2fb96</id>
-    <published>2026-06-14T18:06:06.711440+00:00</published>
-    <updated>2026-06-14T18:06:06.711440+00:00</updated>
-    <summary type="text">Type: image-text-to-text · Downloads: 33,720 · Likes: 174</summary>
-    <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>ideogram-ai/ideogram-4-fp8</title>
     <link href="https://huggingface.co/ideogram-ai/ideogram-4-fp8"/>
     <id>e1207e2a13793cd5fca90d265f8ca40f</id>
-    <published>2026-06-14T18:06:06.711426+00:00</published>
-    <updated>2026-06-14T18:06:06.711426+00:00</updated>
-    <summary type="text">Type: text-to-image · Downloads: 8,263 · Likes: 531</summary>
+    <published>2026-06-14T22:36:54.176056+00:00</published>
+    <updated>2026-06-14T22:36:54.176056+00:00</updated>
+    <summary type="text">Type: text-to-image · Downloads: 8,263 · Likes: 534</summary>
     <category term="text-to-image"/>
+  </entry>
+  <entry>
+    <title>Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF</title>
+    <link href="https://huggingface.co/Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF"/>
+    <id>0d20c35df32ad02f13544e2854d2fb96</id>
+    <published>2026-06-14T22:36:54.176012+00:00</published>
+    <updated>2026-06-14T22:36:54.176012+00:00</updated>
+    <summary type="text">Type: image-text-to-text · Downloads: 33,720 · Likes: 178</summary>
+    <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>nex-agi/Nex-N2-mini</title>
     <link href="https://huggingface.co/nex-agi/Nex-N2-mini"/>
     <id>b811401aabde92a091eb8b1c1731f788</id>
-    <published>2026-06-14T18:06:06.711414+00:00</published>
-    <updated>2026-06-14T18:06:06.711414+00:00</updated>
-    <summary type="text">Type: text-generation · Downloads: 7,010 · Likes: 205</summary>
+    <published>2026-06-14T22:36:54.175975+00:00</published>
+    <updated>2026-06-14T22:36:54.175975+00:00</updated>
+    <summary type="text">Type: text-generation · Downloads: 7,010 · Likes: 210</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>nex-agi/Nex-N2-Pro</title>
     <link href="https://huggingface.co/nex-agi/Nex-N2-Pro"/>
     <id>453a6410ca6cebc6204d7ccee8edbb95</id>
-    <published>2026-06-14T18:06:06.711403+00:00</published>
-    <updated>2026-06-14T18:06:06.711403+00:00</updated>
-    <summary type="text">Type: text-generation · Downloads: 3,396 · Likes: 253</summary>
+    <published>2026-06-14T22:36:54.175907+00:00</published>
+    <updated>2026-06-14T22:36:54.175907+00:00</updated>
+    <summary type="text">Type: text-generation · Downloads: 3,396 · Likes: 256</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>bosonai/higgs-audio-v3-tts-4b</title>
     <link href="https://huggingface.co/bosonai/higgs-audio-v3-tts-4b"/>
     <id>b99ae5969d993c4f1aab26ca75c57156</id>
-    <published>2026-06-14T18:06:06.711392+00:00</published>
-    <updated>2026-06-14T18:06:06.711392+00:00</updated>
-    <summary type="text">Type: text-to-speech · Downloads: 35,122 · Likes: 423</summary>
+    <published>2026-06-14T22:36:54.175864+00:00</published>
+    <updated>2026-06-14T22:36:54.175864+00:00</updated>
+    <summary type="text">Type: text-to-speech · Downloads: 35,122 · Likes: 426</summary>
     <category term="text-to-speech"/>
-  </entry>
-  <entry>
-    <title>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive</title>
-    <link href="https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"/>
-    <id>1be4f6cf5ae949e75b8d38253a49093c</id>
-    <published>2026-06-14T18:06:06.711376+00:00</published>
-    <updated>2026-06-14T18:06:06.711376+00:00</updated>
-    <summary type="text">Type: image-text-to-text · Downloads: 2,516,709 · Likes: 1796</summary>
-    <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>OBLITERATUS/Gemma-4-12B-OBLITERATED</title>
     <link href="https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED"/>
     <id>c0063de5b8f0a9be83150aecf56e7a33</id>
-    <published>2026-06-14T18:06:06.711359+00:00</published>
-    <updated>2026-06-14T18:06:06.711359+00:00</updated>
-    <summary type="text">Type: text-generation · Downloads: 60,949 · Likes: 293</summary>
+    <published>2026-06-14T22:36:54.175827+00:00</published>
+    <updated>2026-06-14T22:36:54.175827+00:00</updated>
+    <summary type="text">Type: text-generation · Downloads: 60,949 · Likes: 297</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
-    <title>prefeitura-rio/Rio-3.5-Open-397B</title>
-    <link href="https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B"/>
-    <id>c21194d280eae116125946be60914833</id>
-    <published>2026-06-14T18:06:06.711347+00:00</published>
-    <updated>2026-06-14T18:06:06.711347+00:00</updated>
-    <summary type="text">Type: image-text-to-text · Downloads: 112,371 · Likes: 250</summary>
+    <title>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive</title>
+    <link href="https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"/>
+    <id>1be4f6cf5ae949e75b8d38253a49093c</id>
+    <published>2026-06-14T22:36:54.175782+00:00</published>
+    <updated>2026-06-14T22:36:54.175782+00:00</updated>
+    <summary type="text">Type: image-text-to-text · Downloads: 2,516,709 · Likes: 1805</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>unsloth/diffusiongemma-26B-A4B-it-GGUF</title>
     <link href="https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF"/>
     <id>845f61cdddd2d2a49213d320a2696c62</id>
-    <published>2026-06-14T18:06:06.711334+00:00</published>
-    <updated>2026-06-14T18:06:06.711334+00:00</updated>
-    <summary type="text">Type: image-text-to-text · Downloads: 80,118 · Likes: 255</summary>
+    <published>2026-06-14T22:36:54.175744+00:00</published>
+    <updated>2026-06-14T22:36:54.175744+00:00</updated>
+    <summary type="text">Type: image-text-to-text · Downloads: 80,118 · Likes: 260</summary>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>prefeitura-rio/Rio-3.5-Open-397B</title>
+    <link href="https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B"/>
+    <id>c21194d280eae116125946be60914833</id>
+    <published>2026-06-14T22:36:54.175708+00:00</published>
+    <updated>2026-06-14T22:36:54.175708+00:00</updated>
+    <summary type="text">Type: image-text-to-text · Downloads: 112,371 · Likes: 268</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>google/gemma-4-12B-it</title>
     <link href="https://huggingface.co/google/gemma-4-12B-it"/>
     <id>009d0762d266ad32c7ae7c10a66ad65e</id>
-    <published>2026-06-14T18:06:06.711321+00:00</published>
-    <updated>2026-06-14T18:06:06.711321+00:00</updated>
-    <summary type="text">Type: any-to-any · Downloads: 1,084,405 · Likes: 1004</summary>
+    <published>2026-06-14T22:36:54.175672+00:00</published>
+    <updated>2026-06-14T22:36:54.175672+00:00</updated>
+    <summary type="text">Type: any-to-any · Downloads: 1,084,405 · Likes: 1008</summary>
     <category term="any-to-any"/>
   </entry>
   <entry>
     <title>CohereLabs/North-Mini-Code-1.0</title>
     <link href="https://huggingface.co/CohereLabs/North-Mini-Code-1.0"/>
     <id>0b76dbe89c22544e31770168d3c217ff</id>
-    <published>2026-06-14T18:06:06.711309+00:00</published>
-    <updated>2026-06-14T18:06:06.711309+00:00</updated>
+    <published>2026-06-14T22:36:54.175634+00:00</published>
+    <updated>2026-06-14T22:36:54.175634+00:00</updated>
     <summary type="text">Type: text-generation · Downloads: 9,932 · Likes: 368</summary>
     <category term="text-generation"/>
   </entry>
@@ -153,36 +153,36 @@
     <title>nvidia/LocateAnything-3B</title>
     <link href="https://huggingface.co/nvidia/LocateAnything-3B"/>
     <id>38460ca66b8b561dfc73ac8d0577add2</id>
-    <published>2026-06-14T18:06:06.711296+00:00</published>
-    <updated>2026-06-14T18:06:06.711296+00:00</updated>
-    <summary type="text">Type: image-text-to-text · Downloads: 75,201 · Likes: 1992</summary>
+    <published>2026-06-14T22:36:54.175597+00:00</published>
+    <updated>2026-06-14T22:36:54.175597+00:00</updated>
+    <summary type="text">Type: image-text-to-text · Downloads: 75,201 · Likes: 1995</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>MiniMaxAI/MiniMax-M3</title>
     <link href="https://huggingface.co/MiniMaxAI/MiniMax-M3"/>
     <id>ec8376149283c444b950597a9aab1b27</id>
-    <published>2026-06-14T18:06:06.711283+00:00</published>
-    <updated>2026-06-14T18:06:06.711283+00:00</updated>
-    <summary type="text">Type: image-text-to-text · Downloads: 6,643 · Likes: 475</summary>
+    <published>2026-06-14T22:36:54.175559+00:00</published>
+    <updated>2026-06-14T22:36:54.175559+00:00</updated>
+    <summary type="text">Type: image-text-to-text · Downloads: 6,643 · Likes: 482</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>moonshotai/Kimi-K2.7-Code</title>
     <link href="https://huggingface.co/moonshotai/Kimi-K2.7-Code"/>
     <id>de3b424409a31a1d505900b03d4fe1c3</id>
-    <published>2026-06-14T18:06:06.711267+00:00</published>
-    <updated>2026-06-14T18:06:06.711267+00:00</updated>
-    <summary type="text">Type: image-text-to-text · Downloads: 15,145 · Likes: 597</summary>
+    <published>2026-06-14T22:36:54.175516+00:00</published>
+    <updated>2026-06-14T22:36:54.175516+00:00</updated>
+    <summary type="text">Type: image-text-to-text · Downloads: 15,145 · Likes: 618</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>google/diffusiongemma-26B-A4B-it</title>
     <link href="https://huggingface.co/google/diffusiongemma-26B-A4B-it"/>
     <id>a7ab0ba0407f5aff10c633b4f368c6b4</id>
-    <published>2026-06-14T18:06:06.711223+00:00</published>
-    <updated>2026-06-14T18:06:06.711223+00:00</updated>
-    <summary type="text">Type: image-text-to-text · Downloads: 198,912 · Likes: 765</summary>
+    <published>2026-06-14T22:36:54.175436+00:00</published>
+    <updated>2026-06-14T22:36:54.175436+00:00</updated>
+    <summary type="text">Type: image-text-to-text · Downloads: 198,912 · Likes: 786</summary>
     <category term="image-text-to-text"/>
   </entry>
 </feed>
