@@ -180,21 +180,6 @@
       ]
     },
     {
-      "name": "World Labs",
-      "org_key": "worldlabs",
-      "base_url": "https://www.worldlabs.ai",
-      "favicon": "https://www.worldlabs.ai/favicon.ico",
-      "pages": [
-        {
-          "key": "blog",
-          "endpoint": "/blog",
-          "method": "GET",
-          "params": {},
-          "output_file": "worldlabs_blog.xml"
-        }
-      ]
-    },
-    {
       "name": "LMSYS",
       "org_key": "lmsys",
       "base_url": "https://lmsys.org",
