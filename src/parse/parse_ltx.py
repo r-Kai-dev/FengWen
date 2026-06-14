@@ -42,6 +42,7 @@ parsed_dir = project_dir / "feeds"
 parsed_dir.mkdir(exist_ok=True)
 
 BASE_URL = "https://ltx.io"
+MAX_ENTRIES = 30  # Only keep the most recent entries to keep CI fast
 
 
 def load_config():
@@ -273,6 +274,10 @@ if __name__ == "__main__":
             continue
 
         if posts:
+            # Sort by date descending and limit to MAX_ENTRIES
+            posts.sort(key=lambda p: p.get("published_date", ""), reverse=True)
+            posts = posts[:MAX_ENTRIES]
+
             favicon = config.get("favicon") or f"{BASE_URL}/favicon.ico"
             output_filename = output_files.get(page_type, cache_filename.replace(".html", ".xml"))
             feed_path = parsed_dir / output_filename

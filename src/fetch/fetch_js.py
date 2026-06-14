@@ -155,12 +155,9 @@ def _wait_for_render(page: ChromiumPage, org_key: str, timeout: int = 15) -> Non
         page.wait(5)
 
     elif org_key == "ltx":
-        # LTX blog: Webflow CMS lazy-loads articles. Wait longer + scroll.
-        page.wait(6)
-        page.run_js("window.scrollTo(0, document.body.scrollHeight)")
+        # LTX blog: Webflow CMS loads most-recent articles first.
+        # Only need the initial render — no scrolling required.
         page.wait(3)
-        page.run_js("window.scrollTo(0, 0)")
-        page.wait(2)
 
     elif org_key == "higgsfield":
         # Higgsfield blog: scroll to load all articles
