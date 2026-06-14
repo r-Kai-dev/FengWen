@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Epoch AI Latest</title>
+  <icon>https://epoch.ai/favicon.ico</icon>
+  <link href="https://epoch.ai/latest"/>
+  <id>https://epoch.ai/latest</id>
+  <updated>2026-06-11T00:00:00+00:00</updated>
+  <author>
+    <name>Epoch AI</name>
+  </author>
+  <entry>
+    <title>Are Mythos’ cyber capabilities overhyped?</title>
+    <link href="https://epoch.ai/gradient-updates/are-mythos-cyber-capabilities-overhyped"/>
+    <id>4234beb7587ae07a5105a5e4925aace5</id>
+    <published>2026-06-11T00:00:00+00:00</published>
+    <updated>2026-06-11T00:00:00+00:00</updated>
+    <summary type="text">Compiling all the public evidence on Mythos Preview’s cyber abilities</summary>
+    <category term="Newsletter"/>
+  </entry>
+  <entry>
+    <title>The record for computing capacity in a single data center has doubled every 7 months</title>
+    <link href="https://epoch.ai/data-insights/largest-data-center-compute"/>
+    <id>e5696d0b6ea1f7ba2b6d5d5cc1953eac</id>
+    <published>2026-06-11T00:00:00+00:00</published>
+    <updated>2026-06-11T00:00:00+00:00</updated>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>Controlling the capital after AGI</title>
+    <link href="https://epoch.ai/gradient-updates/controlling-the-capital-after-agi"/>
+    <id>4ab4c332df72449f80d8aa68c6be1013</id>
+    <published>2026-06-09T00:00:00+00:00</published>
+    <updated>2026-06-09T00:00:00+00:00</updated>
+    <summary type="text">A simple taxonomy of the main proposals for post-AGI universal redistribution.</summary>
+    <category term="Newsletter"/>
+  </entry>
+  <entry>
+    <title>The AI boom has doubled computing infrastructure's share of US GDP</title>
+    <link href="https://epoch.ai/data-insights/ai-datacenter-share-gdp"/>
+    <id>918d94620fb283667b143fd5bf007873</id>
+    <published>2026-06-05T00:00:00+00:00</published>
+    <updated>2026-06-05T00:00:00+00:00</updated>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>Open models lag state-of-the-art closed models by 4 months</title>
+    <link href="https://epoch.ai/data-insights/open-closed-eci-gap"/>
+    <id>138a364a7643041aab81efed4412948b</id>
+    <published>2026-05-29T00:00:00+00:00</published>
+    <updated>2026-05-29T00:00:00+00:00</updated>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>Is a compute crunch coming?</title>
+    <link href="https://epoch.ai/gradient-updates/is-a-compute-crunch-coming"/>
+    <id>e9045b68a3b870fb73b4f8cc1a966488</id>
+    <published>2026-05-25T00:00:00+00:00</published>
+    <updated>2026-05-25T00:00:00+00:00</updated>
+    <summary type="text">We estimated trends in global inference capacity and found that token demand appears to be growing much faster than supply.</summary>
+    <category term="Newsletter"/>
+  </entry>
+  <entry>
+    <title>Memory has grown to nearly two-thirds of AI chip component costs</title>
+    <link href="https://epoch.ai/data-insights/ai-chip-component-cost-shares"/>
+    <id>01e851299cd80fd79b10171c716ff7e4</id>
+    <published>2026-05-21T00:00:00+00:00</published>
+    <updated>2026-05-21T00:00:00+00:00</updated>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>Frontier labs don't use most AI compute (yet)</title>
+    <link href="https://epoch.ai/gradient-updates/frontier-labs-dont-use-most-ai-compute"/>
+    <id>440d5c5a0e905fb320347c95af3f3a7f</id>
+    <published>2026-05-20T00:00:00+00:00</published>
+    <updated>2026-05-20T00:00:00+00:00</updated>
+    <summary type="text">But Anthropic and OpenAI may rapidly grow their compute share in the next few years. After that, continued scaling would require an economic transformation.</summary>
+    <category term="Newsletter"/>
+  </entry>
+  <entry>
+    <title>Claude overperforms at software engineering and underperforms at math</title>
+    <link href="https://epoch.ai/data-insights/claude-ds-eci"/>
+    <id>84500e6c8da5eb9a46c18dd355e9b9e4</id>
+    <published>2026-05-15T00:00:00+00:00</published>
+    <updated>2026-05-15T00:00:00+00:00</updated>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>Servers account for 60% of the total cost of ownership of a one-gigawatt AI data center</title>
+    <link href="https://epoch.ai/data-insights/ai-datacenter-cost-breakdown"/>
+    <id>11d3e770a055b6c673422b887a791868</id>
+    <published>2026-05-14T00:00:00+00:00</published>
+    <updated>2026-05-14T00:00:00+00:00</updated>
+    <category term="Data Insight"/>
+  </entry>
+</feed>

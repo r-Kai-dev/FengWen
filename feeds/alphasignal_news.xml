@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AlphaSignal AI News</title>
+  <icon>https://alphasignal.ai/favicon.ico</icon>
+  <link href="https://alphasignal.ai"/>
+  <id>https://alphasignal.ai</id>
+  <updated>2026-06-13T18:22:56+00:00</updated>
+  <author>
+    <name>Suno</name>
+  </author>
+  <entry>
+    <title>Suno Rebuilds Stem Separation From Scratch, Hitting 90% Accuracy</title>
+    <link href="https://x.com/suno/status/2065862499765821916"/>
+    <id>7567d6325c4929230ee78fe9ed65ce30</id>
+    <published>2026-06-13T18:22:56+00:00</published>
+    <updated>2026-06-13T18:22:56+00:00</updated>
+    <summary type="text">Suno's revamped stem separation now regenerates individual tracks from scratch, delivering artifact-free audio ready for professional DAW workflows.</summary>
+    <category term="audio"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Databricks Open-Sources Omnigent to Unify and Govern Multiple AI Agents</title>
+    <link href="https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents?utm_source=twitter&amp;utm_medium=organic-social"/>
+    <id>c80ed0f1b2b598bfa2fc9ec48f32531d</id>
+    <published>2026-06-13T15:19:06+00:00</published>
+    <updated>2026-06-13T15:19:06+00:00</updated>
+    <summary type="text">Databricks open-sources Omnigent, a meta-harness that unifies Claude Code, Codex, and custom agents under one shared layer for composition, control, and real-time collaboration.</summary>
+    <category term="agents"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Warp Lets SuperGrok Subscribers Run xAI's Grok Build 0.1 Free</title>
+    <link href="https://x.com/warpdotdev/status/2065811741397930107"/>
+    <id>3a21e57b3c472165a62be73d4a24ce4a</id>
+    <published>2026-06-13T15:01:14+00:00</published>
+    <updated>2026-06-13T15:01:14+00:00</updated>
+    <summary type="text">Warp's AI terminal agent now connects directly to SuperGrok subscriptions, unlocking Grok Build 0.1 â xAI's purpose-built agentic coding model â without burning Warp credits.</summary>
+    <category term="development"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Z.ai's GLM-5.2 Hits 1M Context Window to Challenge Claude Code</title>
+    <link href="https://docs.z.ai/devpack/latest-model"/>
+    <id>bc9c92f411f3afc3fefa966edb5f058f</id>
+    <published>2026-06-13T07:56:46+00:00</published>
+    <updated>2026-06-13T07:56:46+00:00</updated>
+    <summary type="text">Z.ai's GLM-5.2 arrives as the new coding flagship with 1M-context support, two thinking-effort modes, and a full open-source MIT release coming next week</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Trump Forces Anthropic to Shut Down Fable 5 and Mythos 5 Globally</title>
+    <link href="https://www.anthropic.com/news/fable-mythos-access"/>
+    <id>f206493cae231fbb124c77fd47188d9c</id>
+    <published>2026-06-13T00:50:03+00:00</published>
+    <updated>2026-06-13T00:50:03+00:00</updated>
+    <summary type="text">The US Commerce Department invoked national security export controls to force Anthropic to pull its most powerful AI models from all users worldwide, citing a reported jailbreak.</summary>
+    <category term="government"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis' AA-AgentPerf Benchmark Exposes What AI Hardware Really Handles</title>
+    <link href="https://artificialanalysis.ai/articles/aa-agentperf?utm_source=x"/>
+    <id>fd87b3afa7340c78cd785f64de93f3fb</id>
+    <published>2026-06-12T22:20:12+00:00</published>
+    <updated>2026-06-12T22:20:12+00:00</updated>
+    <summary type="text">Artificial Analysis launches the first hardware benchmark built for agentic workloads, using real coding agent trajectories and production-grade optimizations to measure Agents per Megawatt</summary>
+    <category term="benchmarks"/>
+    <category term="infra"/>
+  </entry>
+  <entry>
+    <title>Browser Use Brings 84.8% Stealth Web Browsing to Anthropic's Claude Agents</title>
+    <link href="https://docs.browser-use.com/cloud/tutorials/integrations/claude-managed-agents"/>
+    <id>1ed694c7ee5c903eacc5d0ff8bef99e4</id>
+    <published>2026-06-12T22:07:51+00:00</published>
+    <updated>2026-06-12T22:07:51+00:00</updated>
+    <summary type="text">Browser Use's stealth cloud browser is now a one-package install inside Anthropic's Claude Managed Agents, giving hosted agents live web access with CAPTCHA solving and residential proxies at $0.02/hr.</summary>
+    <category term="agents"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>SGLang Breaks 12,000 Tokens per Second on DeepSeek V4 Pro</title>
+    <link href="https://x.com/lmsysorg/status/2065513735213773021"/>
+    <id>104ea9b541be5c48414ee692ea1f0ad8</id>
+    <published>2026-06-12T19:17:04+00:00</published>
+    <updated>2026-06-12T19:17:04+00:00</updated>
+    <summary type="text">SGLang breaks 12,000 tokens/GPU/second on DeepSeek V4 Pro using NVIDIA's GB300 NVL72 rack, Dynamo orchestration, and MTP speculative decoding</summary>
+    <category term="infra"/>
+    <category term="gpus"/>
+  </entry>
+  <entry>
+    <title>OpenAI Ships a Docs Agent That Builds Custom Guides for Developers</title>
+    <link href="https://developers.openai.com/"/>
+    <id>a495924183beb9266bac4ab7b4d72689</id>
+    <published>2026-06-12T18:53:11+00:00</published>
+    <updated>2026-06-12T18:53:11+00:00</updated>
+    <summary type="text">OpenAI's developer portal now has a built-in AI agent that answers API questions and generates custom project guides you can pipe straight into Codex</summary>
+    <category term="agents"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Factory's Droid Now Runs MiniMax M3 at 5% the Cost of Closed Models</title>
+    <link href="https://factory.ai/"/>
+    <id>54648c2a571fe48af57580719c9ac622</id>
+    <published>2026-06-12T18:49:18+00:00</published>
+    <updated>2026-06-12T18:49:18+00:00</updated>
+    <summary type="text">MiniMax M3, the first open-weight model combining frontier coding, 1M-token context, and native multimodality, is now available inside Factory's Droid agent platform</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Google Research's Skin AI Triples Condition Accuracy but Misses Urgency Calls</title>
+    <link href="https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
+    <id>0440b4d1c4bb169edd27d8ab23d52160</id>
+    <published>2026-06-12T18:04:42+00:00</published>
+    <updated>2026-06-12T18:04:42+00:00</updated>
+    <summary type="text">Google Research publishes two studies showing AI skin condition tools triple laypeople's diagnostic accuracy, but struggle to guide next steps</summary>
+    <category term="image"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>GitHub's Copilot Code Review Now Reads Your Jira Tickets and Internal Docs</title>
+    <link href="https://x.com/github/status/2065493219320713590"/>
+    <id>a28a046cc74f4d21e4f49c1074da4b3c</id>
+    <published>2026-06-12T17:55:33+00:00</published>
+    <updated>2026-06-12T17:55:33+00:00</updated>
+    <summary type="text">GitHub Copilot code review now pulls context from MCP servers and custom agent skills, letting teams enforce their own standards on every PR automatically.</summary>
+    <category term="development"/>
+    <category term="api"/>
+  </entry>
+</feed>

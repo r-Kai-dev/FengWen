@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Resemble AI Resources</title>
+  <icon>https://www.resemble.ai/favicon.ico</icon>
+  <link href="https://www.resemble.ai/resources"/>
+  <id>https://www.resemble.ai/resources</id>
+  <updated>2026-06-12T00:00:00+00:00</updated>
+  <author>
+    <name>Resemble AI</name>
+  </author>
+  <entry>
+    <title>The Deepfake Watchlist: Week of June 5–11, 2026</title>
+    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-june-5-11-2026"/>
+    <id>5ff40c87461536761915707c6258dbad</id>
+    <published>2026-06-12T00:00:00+00:00</published>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
+  </entry>
+  <entry>
+    <title>Chatterbox Multilingual v3: TTS with embedded watermarking for 25 languages</title>
+    <link href="https://www.resemble.ai/resources/chatterbox-multilingual-v3-tts-with-embedded-watermarking-for-25-languages"/>
+    <id>4154cbee4ab653ed3c30a4630b90f598</id>
+    <published>2026-06-10T00:00:00+00:00</published>
+    <updated>2026-06-10T00:00:00+00:00</updated>
+    <summary type="text">Chatterbox Multilingual v3 open source ships with PerTh watermarking embedded by default on every self-hosted audio output, across every supported language. Provenance and the ability to automatically watermark outputs is a major component of this release as regulation like the EU AI Act Article 50 loom, and as voice AI and text-to-speech models strive to be more trustworthy and verifiable at generation time.</summary>
+    <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>Detect Candidate Fraud In Remote Hiring: Red Flags, Funnel Checks, And Access Risk</title>
+    <link href="https://www.resemble.ai/resources/detect-candidate-fraud-in-remote-hiring-red-flags-funnel-checks-and-access-risk"/>
+    <id>2939df9ea500df59426456babec55d19</id>
+    <published>2026-06-08T00:00:00+00:00</published>
+    <updated>2026-06-08T00:00:00+00:00</updated>
+    <summary type="text">Learn best practices for detecting candidate fraud in remote hiring with funnel checks, interview red flags, identity review, and live deepfake detection.</summary>
+    <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>The Deepfake Watchlist: Week of May 29 – June 4, 2026</title>
+    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-may-29-june-4-2026"/>
+    <id>eac832a9355bd285ccfaf4fd3629fab3</id>
+    <published>2026-06-05T00:00:00+00:00</published>
+    <updated>2026-06-05T00:00:00+00:00</updated>
+    <summary type="text">‍The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
+  </entry>
+  <entry>
+    <title>How to integrate TrueFoundry with Resemble AI</title>
+    <link href="https://www.resemble.ai/resources/how-to-integrate-truefoundry-with-resemble-ai"/>
+    <id>dc7dd216a5f3f96dee9402504cbe7e15</id>
+    <published>2026-06-04T00:00:00+00:00</published>
+    <updated>2026-06-04T00:00:00+00:00</updated>
+    <summary type="text">This post explains how the TrueFoundry AI Gateway exposes TTS providers and how Resemble's native API surface is preserved through the pass-through layer and how failover across multiple TTS providers works through Virtual Models.</summary>
+    <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>Resemble AI vs. Steg.ai: Comparing AI Watermarking Solutions (2026)</title>
+    <link href="https://www.resemble.ai/resources/resemble-ai-vs-steg-ai-comparing-ai-watermarking-solutions-2026"/>
+    <id>fb260c97dd63534682a6027022cac0c7</id>
+    <published>2026-06-03T00:00:00+00:00</published>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+    <summary type="text">Compare Resemble AI vs Steg.ai to find the best watermarking solution for multimodal content. Explore features, pricing, and use cases for secure content.</summary>
+    <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>How to Detect Deepfake Interviews in Remote Hiring in 2026?</title>
+    <link href="https://www.resemble.ai/resources/how-to-detect-deepfake-interviews-in-remote-hiring-in-2026"/>
+    <id>fcfe869a848e213ee6e1624c6b60a4ba</id>
+    <published>2026-06-01T00:00:00+00:00</published>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <summary type="text">Explore how you can detect deepfake interviews in remote hiring before candidate fraud becomes an identity and access risk.</summary>
+    <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>The Deepfake Watchlist: Week of May 22–28, 2026</title>
+    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-may-22-28-2026"/>
+    <id>746e5811f06c21a80f6089811d8afdfc</id>
+    <published>2026-05-29T00:00:00+00:00</published>
+    <updated>2026-05-29T00:00:00+00:00</updated>
+    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
+  </entry>
+  <entry>
+    <title>Audio Deepfake Detection Benchmark Results: How 8 Systems Performed in 2026</title>
+    <link href="https://www.resemble.ai/resources/audio-deepfake-detection-benchmark-results-how-8-systems-performed-in-2026"/>
+    <id>6a7bec2366a095a2a3a444348b94879d</id>
+    <published>2026-05-27T00:00:00+00:00</published>
+    <updated>2026-05-27T00:00:00+00:00</updated>
+    <summary type="text">Podonos ran a neutral benchmark across 8 audio deepfake detection systems. Resemble AI ranked #1 at 98.1%. Here's what the full results actually mean for buyers.</summary>
+    <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>The dragon said &quot;spaghetti.&quot; A six-year-old lost her mind. Inside the voice pipeline that made Crayola Adventures an Apple Design Award winner.</title>
+    <link href="https://www.resemble.ai/resources/the-dragon-said-spaghetti-a-six-year-old-lost-her-mind-inside-the-voice-pipeline-that-made-crayola-adventures-an-apple-design-award-winner"/>
+    <id>0877f9b78ce99fb45dcab0d29ba1bf49</id>
+    <published>2026-05-25T00:00:00+00:00</published>
+    <updated>2026-05-25T00:00:00+00:00</updated>
+    <summary type="text">Without a solution, the game didn't ship. RED Games needed a way to narrate open player input, in real time, across 13 languages, without it sounding like a robot. Here's what they built on Resemble AI.</summary>
+    <category term="Case study"/>
+  </entry>
+  <entry>
+    <title>The Deepfake Watchlist: Week of May 15–21, 2026</title>
+    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-may-15-21-2026"/>
+    <id>36192ee0bcaed82c25a62a730f2c90e1</id>
+    <published>2026-05-22T00:00:00+00:00</published>
+    <updated>2026-05-22T00:00:00+00:00</updated>
+    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
+  </entry>
+  <entry>
+    <title>The Deepfake Watchlist: Week of May 8–14, 2026</title>
+    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-may-8-14-2026"/>
+    <id>ebf7e949f052bdd658c7db6d93169d32</id>
+    <published>2026-05-15T00:00:00+00:00</published>
+    <updated>2026-05-15T00:00:00+00:00</updated>
+    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
+  </entry>
+</feed>

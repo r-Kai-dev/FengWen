@@ -4,114 +4,30 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/"/>
   <id>https://learnprompt.github.io/ai-news-radar/</id>
-  <updated>2026-06-13T18:22:56+00:00</updated>
+  <updated>2026-06-14T16:46:14.648000+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Suno 音轨分离：从零生成更纯净</title>
-    <link href="https://x.com/suno/status/2065862499765821916"/>
-    <id>1bfe923df8bb5a65172889484c05424f</id>
-    <published>2026-06-13T18:22:56+00:00</published>
-    <updated>2026-06-13T18:22:56+00:00</updated>
-    <summary type="text">Score: 0.784
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Fusion API：半价达Fable级智能</title>
-    <link href="https://x.com/OpenRouter/status/2065856853989270011"/>
-    <id>6152e9fd711cb8646266194bbde9ab20</id>
-    <published>2026-06-13T18:00:30+00:00</published>
-    <updated>2026-06-13T18:00:30+00:00</updated>
-    <summary type="text">Score: 0.781
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治</title>
-    <link href="https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578"/>
-    <id>2e419aa17cdc87863217bcd06845d156</id>
-    <published>2026-06-13T16:57:49+00:00</published>
-    <updated>2026-06-13T16:57:49+00:00</updated>
-    <summary type="text">Score: 0.884
-Sources: 5 (AI HOT)
-Importance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建</title>
-    <link href="https://github.com/DanMcInerney/architect-loop"/>
-    <id>15fee66d579fa46dcf3030cd690af713</id>
-    <published>2026-06-13T16:46:05+00:00</published>
-    <updated>2026-06-13T16:46:05+00:00</updated>
-    <summary type="text">Score: 0.795
-Sources: 2 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>在家学习AI编程，不花大钱</title>
-    <link href="https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke"/>
-    <id>490f40e91cc20c3cdf4ebc442babd92b</id>
-    <published>2026-06-13T16:45:03+00:00</published>
-    <updated>2026-06-13T16:45:03+00:00</updated>
-    <summary type="text">Score: 0.551
-Sources: 3 (Buzzing)
-Importance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。</title>
-    <link href="https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6"/>
-    <id>f823673b4859565ff51fb4f63311ee4a</id>
-    <published>2026-06-13T16:31:13+00:00</published>
-    <updated>2026-06-13T16:31:13+00:00</updated>
-    <summary type="text">Score: 0.515
-Sources: 2 (Buzzing)
+    <title>按当前估值计算，FTX此前持有的Anthropic股份价值约为750亿美元 / FTX's former Anthropic stake would be worth about $75B at today's valuation</title>
+    <link href="https://news.ycombinator.com/item?id=48529190"/>
+    <id>7a0ed83309086bb9d53803a79d2851d2</id>
+    <published>2026-06-14T16:46:14.648000+00:00</published>
+    <updated>2026-06-14T16:46:14.648000+00:00</updated>
+    <summary type="text">Score: 0.548
+Sources: 2 (NewsNow)
 Importance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献</title>
-    <link href="https://slopscan.ava.pet"/>
-    <id>1c5b9f168c13011387573ad173050026</id>
-    <published>2026-06-13T15:37:16+00:00</published>
-    <updated>2026-06-13T15:37:16+00:00</updated>
-    <summary type="text">Score: 0.497
-Sources: 2 (Buzzing)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>科技领袖纷纷开启「反思模式」，修正此前「AI 会带来就业末日」论调</title>
-    <link href="https://www.ithome.com/0/963/990.htm"/>
-    <id>ea0dfc9bd213420840ed676234281ef6</id>
-    <published>2026-06-13T15:21:21+00:00</published>
-    <updated>2026-06-13T15:21:21+00:00</updated>
-    <summary type="text">Score: 0.518
+    <title>正秘密测试 AI 版支付宝？蚂蚁集团拒绝评论</title>
+    <link href="https://www.huxiu.com/article/4867241.html?f=rss"/>
+    <id>03bbe856d958bda25b5fa8a3b89b1736</id>
+    <published>2026-06-14T16:28:56+00:00</published>
+    <updated>2026-06-14T16:28:56+00:00</updated>
+    <summary type="text">Score: 0.548
 Sources: 2 (TopHub)
 Importance: 值得关注</summary>
     <category term="值得关注"/>
@@ -119,93 +35,210 @@ Importance: 值得关注</summary>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Anthropic 应政府要求切断 Fable 5 和 Mythos 5 模型访问</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security"/>
-    <id>05a51ad73a87cf230a7cf760f0f6b629</id>
-    <published>2026-06-13T12:55:49+00:00</published>
-    <updated>2026-06-13T12:55:49+00:00</updated>
-    <summary type="text">Score: 0.739
+    <title>白宫AI监管决定被指偏袒OpenAI与亚马逊</title>
+    <link href="https://garymarcus.substack.com/p/what-washington-must-do"/>
+    <id>71085d23cd0fe5af9d458c2b7ee87460</id>
+    <published>2026-06-14T16:15:35+00:00</published>
+    <updated>2026-06-14T16:15:35+00:00</updated>
+    <summary type="text">Score: 0.798
 Sources: 1 (AI HOT)
 Importance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>美国商务部下令Anthropic全球关闭Fable 5和Mythos 5</title>
-    <link href="https://x.com/kimmonismus/status/2065774154968711429"/>
-    <id>9db3aa69757424adb94a0f2cd15c444f</id>
-    <published>2026-06-13T12:31:53+00:00</published>
-    <updated>2026-06-13T12:31:53+00:00</updated>
-    <summary type="text">Score: 0.735
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>一名警员因在多起案件中利用人工智能“伪造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases</title>
-    <link href="https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"/>
-    <id>24f55df7598fd1c448077dbbc832abb8</id>
-    <published>2026-06-13T12:13:58.627000+00:00</published>
-    <updated>2026-06-13T12:13:58.627000+00:00</updated>
-    <summary type="text">Score: 0.533
-Sources: 2 (TechURLs)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed</title>
-    <link href="https://news.ycombinator.com/item?id=48516504"/>
-    <id>ba5d2def901891b55a20d29c02ad46f6</id>
-    <published>2026-06-13T12:10:47+00:00</published>
-    <updated>2026-06-13T12:10:47+00:00</updated>
-    <summary type="text">Score: 0.517
-Sources: 3 (NewsNow)
-Importance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Anthropic 秘密申请上市，估值 9650 亿美元</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters"/>
-    <id>ad8d1b88ca5f12ba460d91db6434552f</id>
-    <published>2026-06-13T11:00:00+00:00</published>
-    <updated>2026-06-13T11:00:00+00:00</updated>
-    <summary type="text">Score: 0.772
-Sources: 3 (AI HOT)
-Importance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>谷歌Android安全负责人因反对军事AI合作辞职</title>
-    <link href="https://www.ithome.com/0/963/888.htm"/>
-    <id>8979e12ade8f0b601d640852b31e366f</id>
-    <published>2026-06-13T08:40:39+00:00</published>
-    <updated>2026-06-13T08:40:39+00:00</updated>
-    <summary type="text">Score: 0.728
-Sources: 2 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>扎克伯格承认 Meta AI 转型&quot;脱轨&quot;：裁员 10%、转岗 7000 人后组织调整过快</title>
-    <link href="https://www.ithome.com/0/963/858.htm"/>
-    <id>6650e25dd5917f33dc521634f6872e6b</id>
-    <published>2026-06-13T06:49:25+00:00</published>
-    <updated>2026-06-13T06:49:25+00:00</updated>
-    <summary type="text">Score: 0.713
+    <title>不，并不是每个人都在所有事情上都使用人工智能 / No, everyone is not using AI for everything</title>
+    <link href="https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"/>
+    <id>aa82901faccd34dfcb1b7617bbffcc9b</id>
+    <published>2026-06-14T16:14:04.686000+00:00</published>
+    <updated>2026-06-14T16:14:04.686000+00:00</updated>
+    <summary type="text">Score: 0.545
+Sources: 2 (Info Flow)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>21 世纪最伟大的 CEO，会是一个 AI 吗？|| 大视野</title>
+    <link href="https://www.huxiu.com/article/4867239.html?f=rss"/>
+    <id>ea42aa656436a11c7e1ca53544ac9b30</id>
+    <published>2026-06-14T16:13:36+00:00</published>
+    <updated>2026-06-14T16:13:36+00:00</updated>
+    <summary type="text">Score: 0.548
+Sources: 2 (TopHub)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's &quot;homegrown&quot; LLM appears to be a merge of an existing model</title>
+    <link href="https://news.ycombinator.com/item?id=48528371"/>
+    <id>7cee2d36a136e324cb61cb3fc7837237</id>
+    <published>2026-06-14T15:37:31+00:00</published>
+    <updated>2026-06-14T15:37:31+00:00</updated>
+    <summary type="text">Score: 0.535
+Sources: 2 (NewsNow)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Satya Nadella：没有生态的前沿不稳定</title>
+    <link href="https://x.com/satyanadella/status/2066182223213293753"/>
+    <id>86be7ecbd32458fa7a735ce614c1a696</id>
+    <published>2026-06-14T15:33:24+00:00</published>
+    <updated>2026-06-14T15:33:24+00:00</updated>
+    <summary type="text">Score: 0.792
+Sources: 1 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>基于云的 LLM 淘金热即将结束 / Cloud-based LLM gold rush is ending</title>
+    <link href="https://news.ycombinator.com/item?id=48527817"/>
+    <id>a85f28b1391647ce0ccbbb6634089808</id>
+    <published>2026-06-14T14:56:35+00:00</published>
+    <updated>2026-06-14T14:56:35+00:00</updated>
+    <summary type="text">Score: 0.535
+Sources: 2 (NewsNow)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>乔木小说创作 Skill 开源发布</title>
+    <link href="https://x.com/vista8/status/2066165703443726749"/>
+    <id>188e938eac420051949f8abaaaccf3cc</id>
+    <published>2026-06-14T14:27:45+00:00</published>
+    <updated>2026-06-14T14:27:45+00:00</updated>
+    <summary type="text">Score: 0.783
+Sources: 1 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>老板们的 AI 焦虑，让打工人穿上职场 CK 内裤</title>
+    <link href="https://www.huxiu.com/article/4867220.html?f=rss"/>
+    <id>e833b1b0f77f1e06ab2757e91de5187e</id>
+    <published>2026-06-14T14:16:29+00:00</published>
+    <updated>2026-06-14T14:16:29+00:00</updated>
+    <summary type="text">Score: 0.535
+Sources: 2 (TopHub)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>由于明显的幻觉，毕马威撤回了人工智能使用报告 / KPMG pulls report on AI usage due to apparent hallucinations</title>
+    <link href="https://news.ycombinator.com/item?id=48527297"/>
+    <id>99c3550b09622be99275a23603ce742d</id>
+    <published>2026-06-14T14:01:35+00:00</published>
+    <updated>2026-06-14T14:01:35+00:00</updated>
+    <summary type="text">Score: 0.535
+Sources: 2 (NewsNow)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>AI 互动叙事行业仍陷「剧本之困」</title>
+    <link href="https://www.huxiu.com/article/4867213.html?f=rss"/>
+    <id>22abb07a6a4a5c1d4a86ed0bd9807d92</id>
+    <published>2026-06-14T13:57:41+00:00</published>
+    <updated>2026-06-14T13:57:41+00:00</updated>
+    <summary type="text">Score: 0.521
+Sources: 2 (TopHub)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>欧盟委员会发言人表示，欧盟委员会正在评估Anthropic裁决的实际影响 - Reuters</title>
+    <link href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjV5UElrM0pwdjE0dkFUM09CRHd6elhGdTJuUXVkb29QWVNrU3lpQnBNSXpJT2lfUnppQVlzN0NZMHBienBaWWlub3lxTjItbm1FbFNSdnZtMUE4MndyMWVEV0FfVE9iYjBsbGJnNGVkT3kyNEN2NE04ZXI3WUN3a2dxSWV5bUh0aVBrLWFZVEpXOERDWU9Qc3NPbGlRQkZLZEtrR3ktb04tY2ZHRmM0NzlKVm5ITF8zNVM3TlpXSUFYc2dSQWRieA?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen"/>
+    <id>d979c944d862b8a7828787096b776724</id>
+    <published>2026-06-14T13:50:01.242000+00:00</published>
+    <updated>2026-06-14T13:50:01.242000+00:00</updated>
+    <summary type="text">Score: 0.572
+Sources: 3 (Buzzing)
+Importance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>我十几岁的儿子反对人工智能，但我每天在公司工作时都在使用它。这导致我们在家里很难谈论这个话题。</title>
+    <link href="https://www.businessinsider.com/teenager-against-ai-mom-uses-corporate-job-2026-6"/>
+    <id>5489260856fd2e16224f082d50bbb49b</id>
+    <published>2026-06-14T13:07:01+00:00</published>
+    <updated>2026-06-14T13:07:01+00:00</updated>
+    <summary type="text">Score: 0.509
+Sources: 2 (Buzzing)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。</title>
+    <link href="https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6"/>
+    <id>78fe335e357d17f1d80b6c72554f71e9</id>
+    <published>2026-06-14T12:37:02+00:00</published>
+    <updated>2026-06-14T12:37:02+00:00</updated>
+    <summary type="text">Score: 0.538
+Sources: 2 (Buzzing)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots</title>
+    <link href="https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"/>
+    <id>39ec142bef3135100cbc2756a6c0c23d</id>
+    <published>2026-06-14T11:59:20.637000+00:00</published>
+    <updated>2026-06-14T11:59:20.637000+00:00</updated>
+    <summary type="text">Score: 0.502
+Sources: 2 (TopHub)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌</title>
+    <link href="https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6"/>
+    <id>d7fccc9530affc28265de281a2f2a7bb</id>
+    <published>2026-06-14T08:41:01+00:00</published>
+    <updated>2026-06-14T08:41:01+00:00</updated>
+    <summary type="text">Score: 0.489
+Sources: 2 (Buzzing)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Anthropic 暂停新模型访问，印度辩论 AI 未来</title>
+    <link href="https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future"/>
+    <id>cba607fe04ae89804fe167441af12b94</id>
+    <published>2026-06-14T03:00:00+00:00</published>
+    <updated>2026-06-14T03:00:00+00:00</updated>
+    <summary type="text">Score: 0.712
 Sources: 2 (AI HOT)
 Importance: 值得关注</summary>
     <category term="值得关注"/>
@@ -214,66 +247,25 @@ Importance: 值得关注</summary>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5"/>
-    <id>a03258afc75674b1985f7b1e0732a3ed</id>
-    <published>2026-06-13T02:56:01.940000+00:00</published>
-    <updated>2026-06-13T02:56:01.940000+00:00</updated>
-    <summary type="text">Score: 0.559
-Sources: 4 (Buzzing)
-Importance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Anthropic的安全警告可能适得其反--政府已撤回其最强大AI</title>
-    <link href="https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai"/>
-    <id>2fcaef4d95b710822a45ec9161baa575</id>
-    <published>2026-06-13T02:26:30+00:00</published>
-    <updated>2026-06-13T02:26:30+00:00</updated>
-    <summary type="text">Score: 0.676
-Sources: 2 (AI HOT)
+    <title>俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人</title>
+    <link href="https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&amp;at_campaign=rss"/>
+    <id>35697ce9229e00519c52462c98343572</id>
+    <published>2026-06-13T23:19:52+00:00</published>
+    <updated>2026-06-13T23:19:52+00:00</updated>
+    <summary type="text">Score: 0.449
+Sources: 2 (Buzzing)
 Importance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>开源人工智能必须胜出</title>
-    <link href="https://opensourceaimustwin.com"/>
-    <id>52c831cdd574d656a157357aae0bdc41</id>
-    <published>2026-06-13T02:14:24+00:00</published>
-    <updated>2026-06-13T02:14:24+00:00</updated>
-    <summary type="text">Score: 0.530
-Sources: 5 (Buzzing)
-Importance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>关于美国政府指令暂停访问Fable 5和Mythos 5的声明</title>
-    <link href="https://www.anthropic.com/news/fable-mythos-access"/>
-    <id>86299af7907d3dfd6cdade8d44fb92d9</id>
-    <published>2026-06-13T00:51:30+00:00</published>
-    <updated>2026-06-13T00:51:30+00:00</updated>
-    <summary type="text">Score: 0.741
-Sources: 6 (AI HOT)
-Importance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>OpenAI 遭多州总检察长联合调查</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general"/>
-    <id>e0bfddf13555ff8cb69669c102c6622c</id>
-    <published>2026-06-13T00:27:02+00:00</published>
-    <updated>2026-06-13T00:27:02+00:00</updated>
-    <summary type="text">Score: 0.659
+    <title>亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治</title>
+    <link href="https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578"/>
+    <id>2e419aa17cdc87863217bcd06845d156</id>
+    <published>2026-06-13T18:22:19+00:00</published>
+    <updated>2026-06-13T18:22:19+00:00</updated>
+    <summary type="text">Score: 0.640
 Sources: 2 (AI HOT)
 Importance: 值得关注</summary>
     <category term="值得关注"/>

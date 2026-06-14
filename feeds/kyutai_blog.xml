@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kyutai Lab Blog</title>
+  <icon>https://kyutai.org/favicon.ico</icon>
+  <link href="https://kyutai.org/blog"/>
+  <id>https://kyutai.org/blog</id>
+  <updated>2026-06-10T00:00:00+00:00</updated>
+  <author>
+    <name>Kyutai</name>
+  </author>
+  <entry>
+    <title>Post-training speech models for better interactivity</title>
+    <link href="https://kyutai.org/blog/2026-06-10-interactivity"/>
+    <id>21b94dd57e240ea8cfa1c3e17e92bb83</id>
+    <published>2026-06-10T00:00:00+00:00</published>
+    <updated>2026-06-10T00:00:00+00:00</updated>
+    <summary type="text">Post-training full-duplex spoken dialogue models with RL for improved interactivity</summary>
+  </entry>
+  <entry>
+    <title>Understanding Data Temporality Impact on LLM pre-training</title>
+    <link href="https://kyutai.org/blog/2026-05-26-kairos"/>
+    <id>b90c20ec26d1bdd713f611875cbfea1a</id>
+    <published>2026-05-26T00:00:00+00:00</published>
+    <updated>2026-05-26T00:00:00+00:00</updated>
+    <summary type="text">Benchmarking LLMs on questions whose answers change with time.</summary>
+  </entry>
+  <entry>
+    <title>Introducing KE:SAI</title>
+    <link href="https://kyutai.org/blog/2026-05-20-kesai-launch"/>
+    <id>18a71792b941e0d3352128ac6b3ac1c4</id>
+    <published>2026-05-20T00:00:00+00:00</published>
+    <updated>2026-05-20T00:00:00+00:00</updated>
+    <summary type="text">A new open-science lab dedicated to physical AI, created together with the ELLIS Institute Tübingen.</summary>
+  </entry>
+  <entry>
+    <title>Pocket TTS now supports six languages</title>
+    <link href="https://kyutai.org/blog/2026-05-04-pocket-tts-multilingual"/>
+    <id>20652486d038b8c2c7882495c579c3b9</id>
+    <published>2026-05-04T00:00:00+00:00</published>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <summary type="text">Pocket TTS now speaks English, French, German, Spanish, Portuguese, and Italian.</summary>
+  </entry>
+  <entry>
+    <title>MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models</title>
+    <link href="https://kyutai.org/blog/2026-04-30-moshi-rag"/>
+    <id>a943689ade20a7acb8bed509421f5944</id>
+    <published>2026-04-30T00:00:00+00:00</published>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+    <summary type="text">Helping Moshi answer tough questions with help from a text LLM.</summary>
+  </entry>
+  <entry>
+    <title>ARC-Encoder: learning compressed text representations for LLMs</title>
+    <link href="https://kyutai.org/blog/2026-04-28-arc-encoder"/>
+    <id>bb94813957af5f5871d5e081fa1190ea</id>
+    <published>2026-04-28T00:00:00+00:00</published>
+    <updated>2026-04-28T00:00:00+00:00</updated>
+    <summary type="text">Speeds up RAG, extends the context window, and transfers between LLMs.</summary>
+  </entry>
+  <entry>
+    <title>OVIE: One View Is Enough!</title>
+    <link href="https://kyutai.org/blog/2026-04-14-ovie"/>
+    <id>10eb9ffee83dec270eedab014dce194f</id>
+    <published>2026-04-14T00:00:00+00:00</published>
+    <updated>2026-04-14T00:00:00+00:00</updated>
+    <summary type="text">OVIE generates novel views from a single photograph, trained on unpaired internet images.</summary>
+  </entry>
+  <entry>
+    <title>Invincible Voice online demo released</title>
+    <link href="https://kyutai.org/blog/2026-02-24-invincible-voice"/>
+    <id>5ce1a402b73344216cb9e940edf6e207</id>
+    <published>2026-02-24T00:00:00+00:00</published>
+    <updated>2026-02-24T00:00:00+00:00</updated>
+    <summary type="text">An AI dialogue assistant designed to help people living with ALS communicate more effectively.</summary>
+  </entry>
+  <entry>
+    <title>Hibiki-Zero: Simultaneous Speech-to-Speech Translation Without Aligned Data</title>
+    <link href="https://kyutai.org/blog/2026-02-12-hibiki-zero"/>
+    <id>ae87a4312d78038223ba8e0702d1d6c7</id>
+    <published>2026-02-12T00:00:00+00:00</published>
+    <updated>2026-02-12T00:00:00+00:00</updated>
+    <summary type="text">Real-time speech translation from four languages.</summary>
+  </entry>
+  <entry>
+    <title>Pocket TTS: a high-quality TTS with voice cloning that runs on CPU</title>
+    <link href="https://kyutai.org/blog/2026-01-13-pocket-tts"/>
+    <id>840a563caf9afbd6fad7c254f61bf40e</id>
+    <published>2026-01-13T00:00:00+00:00</published>
+    <updated>2026-01-13T00:00:00+00:00</updated>
+    <summary type="text">A tiny TTS with any voice you like.</summary>
+  </entry>
+  <entry>
+    <title>Neural audio codecs: how to get audio into LLMs</title>
+    <link href="https://kyutai.org/blog/2025-10-21-codec-explainer"/>
+    <id>d46a867ec5f410ad0410632be4b90c3d</id>
+    <published>2025-10-21T00:00:00+00:00</published>
+    <updated>2025-10-21T00:00:00+00:00</updated>
+    <summary type="text">Why modeling audio is harder than text, and how to make it feasible with neural audio codecs.</summary>
+  </entry>
+  <entry>
+    <title>Kyutai TTS 1.6B</title>
+    <link href="https://kyutai.org/blog/2025-07-03-kyutai-tts-1-6b"/>
+    <id>825c7ffc95cded4338170ba29e6362ab</id>
+    <published>2025-07-03T00:00:00+00:00</published>
+    <updated>2025-07-03T00:00:00+00:00</updated>
+    <summary type="text">The nitty-gritty of Kyutai TTS 1.6B, our text-to-speech model.</summary>
+  </entry>
+  <entry>
+    <title>Kyutai TTS and Unmute now open-source</title>
+    <link href="https://kyutai.org/blog/2025-07-03-tts-unmute-open-source"/>
+    <id>ead64c1ecad7c2a04a5131d81e564ba1</id>
+    <published>2025-07-03T00:00:00+00:00</published>
+    <updated>2025-07-03T00:00:00+00:00</updated>
+    <summary type="text">Announcing the open-source release of Kyutai TTS 1.6B and Unmute, with benchmarks and project details.</summary>
+  </entry>
+  <entry>
+    <title>Kyutai Speech-To-Text released as open-source</title>
+    <link href="https://kyutai.org/blog/2025-06-19-stt-open-source"/>
+    <id>562ed4ba2798e8ceff0226c276620fd5</id>
+    <published>2025-06-19T00:00:00+00:00</published>
+    <updated>2025-06-19T00:00:00+00:00</updated>
+    <summary type="text">Announcing the open-source release of Kyutai STT, the streaming speech-to-text model powering Unmute.</summary>
+  </entry>
+  <entry>
+    <title>Unmute: Make LLMs listen and speak</title>
+    <link href="https://kyutai.org/blog/2025-05-22-unmute"/>
+    <id>482f93a5ccb2b9cb7833cc461fe76032</id>
+    <published>2025-05-22T00:00:00+00:00</published>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <summary type="text">Modular voice AI that empowers any text LLM with real-time speech-to-text and text-to-speech.</summary>
+  </entry>
+  <entry>
+    <title>Helium 1: a modular and multilingual LLM</title>
+    <link href="https://kyutai.org/blog/2025-04-30-helium"/>
+    <id>05a02ce0e9a130274d93545ad4b115da</id>
+    <published>2025-04-30T00:00:00+00:00</published>
+    <updated>2025-04-30T00:00:00+00:00</updated>
+    <summary type="text">Announcing Helium 1: a 2B parameter modular and multilingual language model, open-sourced for reproducibility.</summary>
+  </entry>
+  <entry>
+    <title>MoshiVis: Teaching Moshi to Converse about Images</title>
+    <link href="https://kyutai.org/blog/2025-03-21-moshivis"/>
+    <id>ddec90cd97323fb06bf6a335123d46b6</id>
+    <published>2025-03-21T00:00:00+00:00</published>
+    <updated>2025-03-21T00:00:00+00:00</updated>
+    <summary type="text">An open-source Vision Speech Model with low-latency and natural conversation skills.</summary>
+  </entry>
+  <entry>
+    <title>Simultanenous, on-device, high fidelity speech-to-speech translation with Hibiki</title>
+    <link href="https://kyutai.org/blog/2025-02-10-hibiki"/>
+    <id>79e8cfe68d79cd8db6af1e48628a4ea7</id>
+    <published>2025-02-10T00:00:00+00:00</published>
+    <updated>2025-02-10T00:00:00+00:00</updated>
+    <summary type="text">Announcing Hibiki: simultaneous, on-device, high fidelity speech-to-speech translation.</summary>
+  </entry>
+  <entry>
+    <title>Announcing Helium-1 Preview</title>
+    <link href="https://kyutai.org/blog/2025-01-13-helium"/>
+    <id>be2121e349c4c838cc5665746f7e48a7</id>
+    <published>2025-01-13T00:00:00+00:00</published>
+    <updated>2025-01-13T00:00:00+00:00</updated>
+    <summary type="text">Preview release of Helium-1, a lightweight multilingual language model for edge and mobile devices.</summary>
+  </entry>
+  <entry>
+    <title>Moshi open-source release: run Moshi locally!</title>
+    <link href="https://kyutai.org/blog/2024-09-18-moshi-release"/>
+    <id>dcf1049b75dbedae106afe8e9588ca11</id>
+    <published>2024-09-18T00:00:00+00:00</published>
+    <updated>2024-09-18T00:00:00+00:00</updated>
+    <summary type="text">Release announcement and technical details for Moshi, Helium, and Mimi.</summary>
+  </entry>
+  <entry>
+    <title>Meet Moshi, the first real-time voice AI</title>
+    <link href="https://kyutai.org/blog/2024-07-03-meet-moshi"/>
+    <id>a029e4d6defb14cb6490052bd864ebdd</id>
+    <published>2024-07-03T00:00:00+00:00</published>
+    <updated>2024-07-03T00:00:00+00:00</updated>
+    <summary type="text">Introducing Moshi, a real-time voice AI that brings expressive, spontaneous spoken interaction to machines.</summary>
+  </entry>
+  <entry>
+    <title>Hello Kyutai!</title>
+    <link href="https://kyutai.org/blog/2023-11-17-hello-kyutai"/>
+    <id>9d5ac590c5008a904140cc7d2b23ddaa</id>
+    <published>2023-11-17T00:00:00+00:00</published>
+    <updated>2023-11-17T00:00:00+00:00</updated>
+    <summary type="text">Announcing Kyutai, a Paris-based non-profit AI research lab dedicated to open science.</summary>
+  </entry>
+</feed>

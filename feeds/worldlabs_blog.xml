@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>World Labs AI Blog</title>
+  <icon>https://www.worldlabs.ai/favicon.ico</icon>
+  <link href="https://www.worldlabs.ai/blog"/>
+  <id>https://www.worldlabs.ai/blog</id>
+  <updated>2026-06-03T00:00:00+00:00</updated>
+  <author>
+    <name>World Labs</name>
+  </author>
+  <entry>
+    <title>A Functional Taxonomy of World Models</title>
+    <link href="https://www.worldlabs.ai/blog/taxonomy-of-world-models"/>
+    <id>89c6589a131e8d84c4917af9e17d5d84</id>
+    <published>2026-06-03T00:00:00+00:00</published>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+    <summary type="text">Renderers, Simulators, Planners, and the Loop That Connects Them</summary>
+  </entry>
+  <entry>
+    <title>Streaming 3DGS worlds on the web</title>
+    <link href="https://www.worldlabs.ai/blog/spark-2.0"/>
+    <id>1659f41188b21bbd321e77bec519e6e8</id>
+    <published>2026-04-14T00:00:00+00:00</published>
+    <updated>2026-04-14T00:00:00+00:00</updated>
+    <summary type="text">A technical deep dive into Spark 2.0's streamable, Level-of-Detail system for 3D Gaussian Splatting.</summary>
+  </entry>
+  <entry>
+    <title>3D as code</title>
+    <link href="https://www.worldlabs.ai/blog/3d-as-code"/>
+    <id>19b0fdf6738f138cc9f30550dbdd8d99</id>
+    <published>2026-03-03T00:00:00+00:00</published>
+    <updated>2026-03-03T00:00:00+00:00</updated>
+    <summary type="text">Text became the universal interface for software; 3D is becoming the universal interface for space. It’s the medium that allows humans and AI systems to generate, edit, simulate, and share worlds together.</summary>
+  </entry>
+  <entry>
+    <title>World Labs Announces New Funding</title>
+    <link href="https://www.worldlabs.ai/blog/funding-2026"/>
+    <id>445c59f5a8aa1e28757491c3d438cbd6</id>
+    <published>2026-02-18T00:00:00+00:00</published>
+    <updated>2026-02-18T00:00:00+00:00</updated>
+    <summary type="text">An update on our vision for spatial intelligence in 2026.</summary>
+  </entry>
+  <entry>
+    <title>Announcing the World API</title>
+    <link href="https://www.worldlabs.ai/blog/announcing-the-world-api"/>
+    <id>7bef4910d4398800d2f482d75c43bdf7</id>
+    <published>2026-01-21T00:00:00+00:00</published>
+    <updated>2026-01-21T00:00:00+00:00</updated>
+    <summary type="text">A public API for generating explorable 3D worlds from text, images, and video — bringing Marble's world modeling capabilities into your applications.</summary>
+  </entry>
+  <entry>
+    <title>Marble: A Multimodal World Model</title>
+    <link href="https://www.worldlabs.ai/blog/marble-world-model"/>
+    <id>ee3642a2e6c8ee20e4eaa3df0027a674</id>
+    <published>2025-11-12T00:00:00+00:00</published>
+    <updated>2025-11-12T00:00:00+00:00</updated>
+    <summary type="text">Marble, our frontier multimodal world model, is available to everyone starting today</summary>
+  </entry>
+  <entry>
+    <title>RTFM: A Real-Time Frame Model</title>
+    <link href="https://www.worldlabs.ai/blog/rtfm"/>
+    <id>d5f12b3b8e0b5b507a13a8c93294ee92</id>
+    <published>2025-10-16T00:00:00+00:00</published>
+    <updated>2025-10-16T00:00:00+00:00</updated>
+    <summary type="text">A research preview of RTFM, a new generative world model that generates video in real-time as you interact with it.</summary>
+  </entry>
+  <entry>
+    <title>Generating Bigger and Better Worlds</title>
+    <link href="https://www.worldlabs.ai/blog/bigger-better-worlds"/>
+    <id>33cc2fd97dacf3b07adb25f7b715f92d</id>
+    <published>2025-09-16T00:00:00+00:00</published>
+    <updated>2025-09-16T00:00:00+00:00</updated>
+    <summary type="text">Announcing our latest breakthrough in 3D world generation with larger, more detailed environments and improved fidelity.</summary>
+  </entry>
+  <entry>
+    <title>Generating Worlds</title>
+    <link href="https://www.worldlabs.ai/blog/generating-worlds"/>
+    <id>b1ee852a965239a0bd81c22fa3ee575c</id>
+    <published>2024-12-02T00:00:00+00:00</published>
+    <updated>2024-12-02T00:00:00+00:00</updated>
+    <summary type="text">Sharing our early progress toward persistent, navigable 3D worlds you can explore in your browser.</summary>
+  </entry>
+</feed>

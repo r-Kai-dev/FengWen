@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>alphaXiv Hot Papers (Top 5)</title>
+  <icon>https://www.alphaxiv.org/favicon.ico</icon>
+  <link href="https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days"/>
+  <id>https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days</id>
+  <updated>2026-06-11T00:00:00+00:00</updated>
+  <author>
+    <name>alphaXiv</name>
+  </author>
+  <entry>
+    <title>EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments</title>
+    <link href="https://arxiv.org/abs/2606.13681"/>
+    <id>2f2afa4c01a8da4908e7eb820c3e1fba</id>
+    <published>2026-06-11T00:00:00+00:00</published>
+    <updated>2026-06-11T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>MiniMax Sparse Attention</title>
+    <link href="https://arxiv.org/abs/2606.13392"/>
+    <id>83e7af276b3ef5ce7bec5ed09fb1cff6</id>
+    <published>2026-06-11T00:00:00+00:00</published>
+    <updated>2026-06-11T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible</title>
+    <link href="https://arxiv.org/abs/2606.13652"/>
+    <id>8c6ab43164fbedac80d928524c445caa</id>
+    <published>2026-06-11T00:00:00+00:00</published>
+    <updated>2026-06-11T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling</title>
+    <link href="https://arxiv.org/abs/2606.12370"/>
+    <id>d2d3e759070dd2b47be1bed8a7952b9d</id>
+    <published>2026-06-10T00:00:00+00:00</published>
+    <updated>2026-06-10T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>From AGI to ASI</title>
+    <link href="https://arxiv.org/abs/2606.12683"/>
+    <id>133147097f4c4921c43d0f3caca689b7</id>
+    <published>2026-06-10T00:00:00+00:00</published>
+    <updated>2026-06-10T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+</feed>

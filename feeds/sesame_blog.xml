@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sesame Blog</title>
+  <icon>https://www.sesame.com/favicon.svg</icon>
+  <link href="https://www.sesame.com/blog"/>
+  <id>https://www.sesame.com/blog</id>
+  <updated>2026-05-27T00:00:00+00:00</updated>
+  <author>
+    <name>Sesame</name>
+  </author>
+  <entry>
+    <title>Getting started</title>
+    <link href="https://www.sesame.com/blog/getting-started"/>
+    <id>c7b662650c22618f29ff996bb1b85497</id>
+    <published>2026-05-27T00:00:00+00:00</published>
+    <updated>2026-05-27T00:00:00+00:00</updated>
+    <summary type="text">Everything you need to start exploring with Maya, Miles, Simone, and Charlie, plus answers to the questions that come up most often. A practical guide to getting the most out of every conversation.</summary>
+  </entry>
+  <entry>
+    <title>Voice your curiosity</title>
+    <link href="https://www.sesame.com/blog/voice-your-curiosity"/>
+    <id>e294cc5e0ab4229622190a9a69764a14</id>
+    <published>2026-05-27T00:00:00+00:00</published>
+    <updated>2026-05-27T00:00:00+00:00</updated>
+    <summary type="text">Introducing the iOS preview: agents built around the rhythm and timing of natural conversation, powered by a curiosity engine made to help you think out loud. The first step toward more advanced agents and intelligent eyewear.</summary>
+  </entry>
+  <entry>
+    <title>Crossing the uncanny valley of conversational voice</title>
+    <link href="https://www.sesame.com/blog/crossing-the-uncanny-valley-of-voice"/>
+    <id>7854fac88d177d07719dec65f7aa411e</id>
+    <published>2025-02-27T00:00:00+00:00</published>
+    <updated>2025-02-27T00:00:00+00:00</updated>
+    <summary type="text">Voice is our most intimate medium as humans. At Sesame, we are creating conversational partners that achieve voice presence—the quality that makes spoken interactions feel real, understood, and valued.</summary>
+  </entry>
+</feed>

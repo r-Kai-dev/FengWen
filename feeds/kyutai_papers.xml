@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kyutai Lab Papers</title>
+  <icon>https://kyutai.org/favicon.ico</icon>
+  <link href="https://kyutai.org/papers"/>
+  <id>https://kyutai.org/papers</id>
+  <updated>2026-06-09T17:46:55+00:00</updated>
+  <author>
+    <name>Kyutai</name>
+  </author>
+  <entry>
+    <title>Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models</title>
+    <link href="https://arxiv.org/abs/2606.11167"/>
+    <id>03f2eb0caeab25cd81e19b17407f2c58</id>
+    <published>2026-06-09T17:46:55+00:00</published>
+    <updated>2026-06-09T17:46:55+00:00</updated>
+    <summary type="text">Full-duplex spoken dialogue models can listen and speak simultaneously, making them a promising architecture for natural conversation. However, current models are trained solely with supervised learning through token-level likelihood maximization, which does not directly optimize interaction-level behaviors, causing interactivity issues such as excessive silence and ill-timed turn-taking. Recent work has applied reinforcement learning (RL) to improve interactivity, but existing methods address only a limited set of interactive behaviors in their rewards. In this work, we propose a post-training alignment method that comprehensively improves the interactivity of full-duplex spoken dialogue models through RL. We address the four canonical axes of interactivity: pause handling, turn-taking, backchanneling, and user interruption. For each axis, we extract short audio segments from human conversation corpora and optimize the model with axis-specific reward functions. An extra LLM-based reward for response quality prevents semantic degradation. We apply our method to two open-source models, Moshi and PersonaPlex, demonstrating consistent improvements in interactivity on both offline evaluation with pre-recorded audio and real-time multi-turn dialogue evaluation.</summary>
+  </entry>
+  <entry>
+    <title>Understanding Data Temporality Impact on Large Language Models Pre-training</title>
+    <link href="https://arxiv.org/abs/2605.22769"/>
+    <id>3b0c2134bccd4eed45ad280eaae71f53</id>
+    <published>2026-05-21T17:31:17+00:00</published>
+    <updated>2026-05-21T17:31:17+00:00</updated>
+    <summary type="text">Large language models (LLMs) are typically trained on shuffled corpora, yielding models whose knowledge is frozen at train time and whose temporal grounding remains poorly understood. In this work, we study the impact of pre-training dynamics on the acquisition of time-sensitive factual knowledge, focusing specifically on data ordering. Our main contributions are twofold. First, we introduce a comprehensive benchmark of over 7,000 temporally grounded questions and an evaluation protocol that enables analysis of whether models correctly associate facts with their corresponding time periods. Second, we pretrain 6B-parameter models on temporally ordered Common Crawl snapshots and compare them against standard shuffled pre-training. Our results show that sequentially trained models match shuffled baselines on general language understanding and common knowledge while consistently exhibiting more up-to-date and temporally precise knowledge. Temporally ordered pre-training yields improved factual freshness, while shuffled pre-training peaks on older data, possibly due to increased factual repetition. These findings, along with the release of our code at https://github.com/kyutai-labs/kairos , checkpoints, and datasets at https://huggingface.co/collections/kyutai/kairos provide a foundation for future research on continual learning for LLMs.</summary>
+  </entry>
+  <entry>
+    <title>MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models</title>
+    <link href="https://arxiv.org/abs/2604.12928"/>
+    <id>bd1d554bc694c5645691eb68307d7a99</id>
+    <published>2026-04-14T16:17:52+00:00</published>
+    <updated>2026-04-14T16:17:52+00:00</updated>
+    <summary type="text">Speech-to-speech language models have recently emerged to enhance the naturalness of conversational AI. In particular, full-duplex models are distinguished by their real-time interactivity, including handling of pauses, interruptions, and backchannels. However, improving their factuality remains an open challenge. While scaling the model size could address this gap, it would make real-time inference prohibitively expensive. In this work, we propose MoshiRAG, a modular approach that combines a compact full-duplex interface with selective retrieval to access more powerful knowledge sources. Our asynchronous framework enables the model to identify knowledge-demanding queries and ground its responses in external information. By leveraging the natural temporal gap between response onset and the delivery of core information, the retrieval process can be completed while maintaining a natural conversation flow. With this approach, MoshiRAG achieves factuality comparable to the best publicly released non-duplex speech language models while preserving the interactivity inherent to full-duplex systems. Moreover, our flexible design supports plug-and-play retrieval methods without retraining and demonstrates strong performance on out-of-domain mathematical reasoning tasks.</summary>
+  </entry>
+  <entry>
+    <title>One View Is Enough! Monocular Training for In-the-Wild Novel View Generation</title>
+    <link href="https://arxiv.org/abs/2603.23488"/>
+    <id>337c6dfbf1c4abb21c61b54a1655df41</id>
+    <published>2026-03-24T17:54:25+00:00</published>
+    <updated>2026-03-24T17:54:25+00:00</updated>
+    <summary type="text">Monocular novel-view synthesis has long required multi-view image pairs for supervision, limiting training data scale and diversity. We argue it is not necessary: one view is enough. We present OVIE, trained entirely on unpaired internet images. We leverage a monocular depth estimator as a geometric scaffold at training time: we lift a source image into 3D, apply a sampled camera transformation, and project to obtain a pseudo-target view. To handle disocclusions, we introduce a masked training formulation that restricts geometric, perceptual, and textural losses to valid regions, enabling training on 30 million uncurated images. At inference, OVIE is geometry-free, requiring no depth estimator or 3D representation. Trained exclusively on in-the-wild images, OVIE outperforms prior methods in a zero-shot setting, while being 600x faster than the second-best baseline. Code and models are publicly available at https://github.com/AdrienRR/ovie.</summary>
+  </entry>
+  <entry>
+    <title>Simultaneous Speech-to-Speech Translation Without Aligned Data</title>
+    <link href="https://arxiv.org/abs/2602.11072"/>
+    <id>6b997a2aae73f3f11a8f274a33dfe1d7</id>
+    <published>2026-02-11T17:41:01+00:00</published>
+    <updated>2026-02-11T17:41:01+00:00</updated>
+    <summary type="text">Simultaneous speech translation requires translating source speech into a target language in real-time while handling non-monotonic word dependencies. Traditional approaches rely on supervised training with word-level aligned data, which is difficult to collect at scale and thus depends on synthetic alignments using language-specific heuristics that are suboptimal. We propose Hibiki-Zero, which eliminates the need for word-level alignments entirely. This fundamentally simplifies the training pipeline and enables seamless scaling to diverse languages with varying grammatical structures, removing the bottleneck of designing language-specific alignment heuristics. We first train on sentence-level aligned data to learn speech translation at high latency, then apply a novel reinforcement learning strategy using GRPO to optimize latency while preserving translation quality. Hibiki-Zero achieves state-of-the-art performance in translation accuracy, latency, voice transfer, and naturalness across five X-to-English tasks. Moreover, we demonstrate that our model can be adapted to support a new input language with less than 1000h of speech. We provide examples, model weights, inference code and we release a benchmark containing 45h of multilingual data for speech translation evaluation.</summary>
+  </entry>
+  <entry>
+    <title>CASA: Cross-Attention over Self-Attention for Efficient Vision-Language Fusion</title>
+    <link href="https://arxiv.org/abs/2512.19535"/>
+    <id>e3ba133e6b3b59d53341078689616b5a</id>
+    <published>2025-12-22T16:21:39+00:00</published>
+    <updated>2025-12-22T16:21:39+00:00</updated>
+    <summary type="text">Vision-language models (VLMs) are commonly trained by directly inserting image tokens from a pretrained vision encoder into the text stream of a language model. This allows text and image information to fully attend to one another within the model, but becomes rapidly costly for long multi-image conversations or streaming video applications, both in terms of memory and compute. VLMs leveraging cross-attention (CA) are an efficient alternative to token insertion as image tokens are not added to the KV cache. Despite being introduced early on, multimodal CA models are scarce in the current VLM literature and often underperform their token insertion counterparts. In this work, we reinvestigate the effectiveness of cross-attention for vision-language modeling: (i) We analyze the core differences between the cross-attention and self-attention mechanisms, (ii) we train cross-attention VLMs both from a text-only LLM and by adapting a pretrained insertion-based VLM, showing that simple cross-attention is far more competitive with token insertion than previously reported, and (iii) we demonstrate the practical advantages of cross-attention on real-time video captioning, where it naturally maintains low latency and near-constant memory cost. For samples and code, please see our project page at https://kyutai.org/casa .</summary>
+  </entry>
+  <entry>
+    <title>ARC-Encoder: learning compressed text representations for large language models</title>
+    <link href="https://arxiv.org/abs/2510.20535"/>
+    <id>425a49228e18c76501dacaa4adea00c6</id>
+    <published>2025-10-23T13:20:57+00:00</published>
+    <updated>2025-10-23T13:20:57+00:00</updated>
+    <summary type="text">Recent techniques such as retrieval-augmented generation or chain-of-thought reasoning have led to longer contexts and increased inference costs. Context compression techniques can reduce these costs, but the most effective approaches require fine-tuning the target model or even modifying its architecture. This can degrade its general abilities when not used for this specific purpose. Here we explore an alternative approach: an encoder that compresses the context into continuous representations which replace token embeddings in decoder LLMs. First, we perform a systematic study of training strategies and architecture choices for the encoder. Our findings led to the design of an Adaptable text Representations Compressor, named ARC-Encoder, which outputs $x$-times fewer continuous representations (typically $x\!\in\!\{4,8\}$) than text tokens. We evaluate ARC-Encoder across a variety of LLM usage scenarios, ranging from in-context learning to context window extension, on both instruct and base decoders. Results show that ARC-Encoder achieves state-of-the-art performance on several benchmarks while improving computational efficiency at inference. Finally, we demonstrate that our models can be adapted to multiple decoders simultaneously, allowing a single encoder to generalize across different decoder LLMs. This makes ARC-Encoder a flexible and efficient solution for portable encoders that work seamlessly with multiple LLMs. We release a training code at https://github.com/kyutai-labs/ARC-Encoder , fine-tuning dataset and pretrained models are available at https://huggingface.co/collections/kyutai/arc-encoders-68ee18787301407d60a57047 .</summary>
+  </entry>
+  <entry>
+    <title>Streaming Sequence-to-Sequence Learning with Delayed Streams Modeling</title>
+    <link href="https://arxiv.org/abs/2509.08753"/>
+    <id>4d8b2b0fa98a0df9c4acdea3feffbacc</id>
+    <published>2025-09-10T16:43:01+00:00</published>
+    <updated>2025-09-10T16:43:01+00:00</updated>
+    <summary type="text">We introduce Delayed Streams Modeling (DSM), a flexible formulation for streaming, multimodal sequence-to-sequence learning. Sequence-to-sequence generation is often cast in an offline manner, where the model consumes the complete input sequence before generating the first output timestep. Alternatively, streaming sequence-to-sequence rely on learning a policy for choosing when to advance on the input stream, or write to the output stream. DSM instead models already time-aligned streams with a decoder-only language model. By moving the alignment to a pre-processing step,and introducing appropriate delays between streams, DSM provides streaming inference of arbitrary output sequences, from any input combination, making it applicable to many sequence-to-sequence problems. In particular, given text and audio streams, automatic speech recognition (ASR) corresponds to the text stream being delayed, while the opposite gives a text-to-speech (TTS) model. We perform extensive experiments for these two major sequence-to-sequence tasks, showing that DSM provides state-of-the-art performance and latency while supporting arbitrary long sequences, being even competitive with offline baselines. Code, samples and demos are available at https://github.com/kyutai-labs/delayed-streams-modeling</summary>
+  </entry>
+  <entry>
+    <title>Continuous Audio Language Models</title>
+    <link href="https://arxiv.org/abs/2509.06926"/>
+    <id>a3fadc6ec7fcbb85f143f8b8e863cd0d</id>
+    <published>2025-09-08T17:38:13+00:00</published>
+    <updated>2025-09-08T17:38:13+00:00</updated>
+    <summary type="text">Audio Language Models (ALM) have emerged as the dominant paradigm for speech and music generation by representing audio as sequences of discrete tokens. Yet, unlike text tokens, which are invertible, audio tokens are extracted from lossy codecs with a limited bitrate. As a consequence, increasing audio quality requires generating more tokens, which imposes a trade-off between fidelity and computational cost. We address this issue by studying Continuous Audio Language Models (CALM). These models instantiate a large Transformer backbone that produces a contextual embedding at every timestep. This sequential information then conditions an MLP that generates the next continuous frame of an audio VAE through consistency modeling. By avoiding lossy compression, CALM achieves higher quality at lower computational cost than their discrete counterpart. Experiments on speech and music demonstrate improved efficiency and fidelity over state-of-the-art discrete audio language models, facilitating lightweight, high-quality audio generation. Samples are available at hf.co/spaces/kyutai/calm-samples. Finally, we release Pocket TTS, an open-source 100M-parameter text-to-speech model that can run faster than real time on a laptop CPU: github.com/kyutai-labs/pocket-tts.</summary>
+  </entry>
+  <entry>
+    <title>Aligning Spoken Dialogue Models from User Interactions</title>
+    <link href="https://arxiv.org/abs/2506.21463"/>
+    <id>98c97c3268c85c1f6f4feba366f9a147</id>
+    <published>2025-06-26T16:45:20+00:00</published>
+    <updated>2025-06-26T16:45:20+00:00</updated>
+    <summary type="text">We propose a novel preference alignment framework for improving spoken dialogue models on real-time conversations from user interactions. Current preference learning methods primarily focus on text-based language models, and are not directly suited to the complexities of real-time speech interactions, with richer dynamics (e.g. interruption, interjection) and no explicit segmentation between speaker turns.We create a large-scale dataset of more than 150,000 preference pairs from raw multi-turn speech conversations, annotated with AI feedback, to cover preferences over both linguistic content and temporal context variations. We leverage offline alignment methods to finetune a full-duplex autoregressive speech-to-speech model. Extensive experiments demonstrate that feedback on generic conversations can be consistently effective in improving spoken dialogue models to produce more factual, safer and more contextually aligned interactions. We deploy the finetuned model and conduct holistic human evaluations to assess the impact beyond single-turn conversations. Our findings shed light on the importance of a well-calibrated balance among various dynamics, crucial for natural real-time speech dialogue systems.</summary>
+  </entry>
+  <entry>
+    <title>Vision-Speech Models: Teaching Speech Models to Converse about Images</title>
+    <link href="https://arxiv.org/abs/2503.15633"/>
+    <id>ff933f97db1d4ec3fd08a667c72d2ad8</id>
+    <published>2025-03-19T18:40:45+00:00</published>
+    <updated>2025-03-19T18:40:45+00:00</updated>
+    <summary type="text">The recent successes of Vision-Language models raise the question of how to equivalently imbue a pretrained speech model with vision understanding, an important milestone towards building a multimodal speech model able to freely converse about images. Building such a conversational Vision-Speech model brings its unique challenges: (i) paired image-speech datasets are much scarcer than their image-text counterparts, (ii) ensuring real-time latency at inference is crucial thus bringing compute and memory constraints, and (iii) the model should preserve prosodic features (e.g., speaker tone) which cannot be inferred from text alone. In this work, we introduce MoshiVis, augmenting a recent dialogue speech LLM, Moshi, with visual inputs through lightweight adaptation modules. An additional dynamic gating mechanism enables the model to more easily switch between the visual inputs and unrelated conversation topics. To reduce training costs, we design a simple one-stage, parameter-efficient fine-tuning pipeline in which we leverage a mixture of image-text (i.e., &quot;speechless&quot;) and image-speech samples. We evaluate the model on downstream visual understanding tasks with both audio and text prompts, and report qualitative samples of interactions with MoshiVis. Our inference code will be made available, as well as the image-speech data used for audio evaluation.</summary>
+  </entry>
+  <entry>
+    <title>High-Fidelity Simultaneous Speech-To-Speech Translation</title>
+    <link href="https://arxiv.org/abs/2502.03382"/>
+    <id>c6ca68c6db7d852d7c14f0d095fcb788</id>
+    <published>2025-02-05T17:18:55+00:00</published>
+    <updated>2025-02-05T17:18:55+00:00</updated>
+    <summary type="text">We introduce Hibiki, a decoder-only model for simultaneous speech translation. Hibiki leverages a multistream language model to synchronously process source and target speech, and jointly produces text and audio tokens to perform speech-to-text and speech-to-speech translation. We furthermore address the fundamental challenge of simultaneous interpretation, which unlike its consecutive counterpart, where one waits for the end of the source utterance to start translating, adapts its flow to accumulate just enough context to produce a correct translation in real-time, chunk by chunk. To do so, we introduce a weakly-supervised method that leverages the perplexity of an off-the-shelf text translation system to identify optimal delays on a per-word basis and create aligned synthetic data. After supervised training, Hibiki performs adaptive, simultaneous speech translation with vanilla temperature sampling. On a French-English simultaneous speech translation task, Hibiki demonstrates state-of-the-art performance in translation quality, speaker fidelity and naturalness. Moreover, the simplicity of its inference process makes it compatible with batched translation and even real-time on-device deployment. We provide examples as well as models and inference code.</summary>
+  </entry>
+  <entry>
+    <title>Neutral Residues: Revisiting Adapters for Model Extension</title>
+    <link href="https://arxiv.org/abs/2410.02744"/>
+    <id>f1e55a8af10601094b2f2c150b168481</id>
+    <published>2024-10-03T17:55:17+00:00</published>
+    <updated>2024-10-03T17:55:17+00:00</updated>
+    <summary type="text">We address the problem of extending a pretrained large language model to a new domain that was not seen during training. Standard techniques, such as finetuning or low-rank adaptation (LoRA) are successful at domain adaptation, but do not formally add capacity to the model. This often leads to a trade-off, between performing well on the new domain vs. degrading performance on the original domain. Here, we revisit and improve adapters to extend LLMs from three angles: data, architecture and training procedure, which are advantageously considered jointly. The resulting method, called neutral residues, modifies adapters in a way that leads each new residual block to output near-zeros on the original domain. This solution leads to strong results when adapting a state-of-the-art model originally trained on English to a new language. Neutral residues significantly outperform competing approaches such as finetuning, LoRA or vanilla adapters in terms of the trade-off between learning the new language and not forgetting English.</summary>
+  </entry>
+  <entry>
+    <title>Moshi: a speech-text foundation model for real-time dialogue</title>
+    <link href="https://arxiv.org/abs/2410.00037"/>
+    <id>afde20231018bd0e5c9407758b1dc633</id>
+    <published>2024-09-17T17:55:39+00:00</published>
+    <updated>2024-09-17T17:55:39+00:00</updated>
+    <summary type="text">We introduce Moshi, a speech-text foundation model and full-duplex spoken dialogue framework. Current systems for spoken dialogue rely on pipelines of independent components, namely voice activity detection, speech recognition, textual dialogue and text-to-speech. Such frameworks cannot emulate the experience of real conversations. First, their complexity induces a latency of several seconds between interactions. Second, text being the intermediate modality for dialogue, non-linguistic information that modifies meaning -- such as emotion or non-speech sounds -- is lost in the interaction. Finally, they rely on a segmentation into speaker turns, which does not take into account overlapping speech, interruptions and interjections. Moshi solves these independent issues altogether by casting spoken dialogue as speech-to-speech generation. Starting from a text language model backbone, Moshi generates speech as tokens from the residual quantizer of a neural audio codec, while modeling separately its own speech and that of the user into parallel streams. This allows for the removal of explicit speaker turns, and the modeling of arbitrary conversational dynamics. We moreover extend the hierarchical semantic-to-acoustic token generation of previous work to first predict time-aligned text tokens as a prefix to audio tokens. Not only this &quot;Inner Monologue&quot; method significantly improves the linguistic quality of generated speech, but we also illustrate how it can provide streaming speech recognition and text-to-speech. Our resulting model is the first real-time full-duplex spoken large language model, with a theoretical latency of 160ms, 200ms in practice, and is available at https://github.com/kyutai-labs/moshi.</summary>
+  </entry>
+</feed>

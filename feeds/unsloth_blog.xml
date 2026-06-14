@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Unsloth Blog</title>
+  <icon>https://unsloth.ai/favicon.ico</icon>
+  <link href="https://unsloth.ai/blog"/>
+  <id>https://unsloth.ai/blog</id>
+  <updated>2026-06-11T00:00:00+00:00</updated>
+  <author>
+    <name>Unsloth</name>
+  </author>
+  <entry>
+    <title>Gemma 4 12B and QAT is here!</title>
+    <link href="https://unsloth.ai/docs/models/gemma-4/qat"/>
+    <id>8988a9b98dbb5c5016a44ee1d7272b65</id>
+    <published>2026-06-11T00:00:00+00:00</published>
+    <updated>2026-06-11T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Unsloth joins PyTorch ecosystem</title>
+    <link href="https://unsloth.ai/blog/pytorch"/>
+    <id>f2604556e618c0c6e013a6b68f4175f4</id>
+    <published>2026-05-11T00:00:00+00:00</published>
+    <updated>2026-05-11T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Unsloth collabs with NVIDIA</title>
+    <link href="https://unsloth.ai/blog/nvidia-collab"/>
+    <id>cc0bf99a88c889469be5cb7db26ee5c9</id>
+    <published>2026-05-06T00:00:00+00:00</published>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Unsloth API endpoint is here</title>
+    <link href="https://unsloth.ai/docs/basics/api"/>
+    <id>e5584f1ecbb608867947cf9f7bd93e9b</id>
+    <published>2026-05-05T00:00:00+00:00</published>
+    <updated>2026-05-05T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Qwen3.6 is released</title>
+    <link href="https://unsloth.ai/docs/models/qwen3.6"/>
+    <id>6bc61a79a5b469c77324b293a58866b2</id>
+    <published>2026-04-22T00:00:00+00:00</published>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Train Gemma 4 with Unsloth</title>
+    <link href="https://unsloth.ai/docs/models/gemma-4/train"/>
+    <id>bac67cac8cfb72fffd38bef89d63b281</id>
+    <published>2026-04-07T00:00:00+00:00</published>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Run Google Gemma 4</title>
+    <link href="https://unsloth.ai/docs/models/gemma-4"/>
+    <id>e09d3d86e8c521da3283f74b1b71000f</id>
+    <published>2026-04-02T00:00:00+00:00</published>
+    <updated>2026-04-02T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Introducing Unsloth Studio</title>
+    <link href="https://unsloth.ai/docs/new/studio"/>
+    <id>795ca362a1990d39f3a2b8a80312165d</id>
+    <published>2026-03-17T00:00:00+00:00</published>
+    <updated>2026-03-17T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>What are RL environments</title>
+    <link href="https://unsloth.ai/blog/rl-environments"/>
+    <id>ad1dbb53d69df45bf130e14fd81ab7dd</id>
+    <published>2026-03-13T00:00:00+00:00</published>
+    <updated>2026-03-13T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Qwen3.5 is here: Small + Medium!</title>
+    <link href="https://unsloth.ai/docs/models/qwen3.5"/>
+    <id>99b6c57718ff417a1a90ba6ba6169d84</id>
+    <published>2026-03-02T00:00:00+00:00</published>
+    <updated>2026-03-02T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Faster MoE Training</title>
+    <link href="https://unsloth.ai/docs/new/faster-moe"/>
+    <id>5cc10f7c5b088fd35ea50878e1c69241</id>
+    <published>2026-02-10T00:00:00+00:00</published>
+    <updated>2026-02-10T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Embedding Fine-tuning</title>
+    <link href="https://unsloth.ai/docs/new/embedding-finetuning"/>
+    <id>2d83044f9de2618ca482b62b976aa7fd</id>
+    <published>2026-01-22T00:00:00+00:00</published>
+    <updated>2026-01-22T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Long context gpt-oss Unsloth Flex Attention</title>
+    <link href="https://unsloth.ai/blog/gpt-oss-context"/>
+    <id>77013e48218925854c29dd7d3dd7c9c8</id>
+    <published>2025-08-28T00:00:00+00:00</published>
+    <updated>2025-08-28T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Run DeepSeek-V3.1</title>
+    <link href="https://unsloth.ai/blog/deepseek-v3.1"/>
+    <id>facc6e42481fbbab0414dd4a6b93d50d</id>
+    <published>2025-08-21T00:00:00+00:00</published>
+    <updated>2025-08-21T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Finetune gpt-oss</title>
+    <link href="https://unsloth.ai/blog/gpt-oss"/>
+    <id>a7f1836df793ad4c56840b0698391878</id>
+    <published>2025-08-08T00:00:00+00:00</published>
+    <updated>2025-08-08T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Fine-tune &amp; Run Gemma 3n</title>
+    <link href="https://unsloth.ai/blog/gemma-3n"/>
+    <id>15e1f1882b6243f193f50af655ad91af</id>
+    <published>2025-07-01T00:00:00+00:00</published>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Run &amp; Fine-tune DeepSeek-R1-0528</title>
+    <link href="https://unsloth.ai/blog/deepseek-r1-0528"/>
+    <id>c5da2057bcad203accbb8b33ecb6f740</id>
+    <published>2025-05-29T00:00:00+00:00</published>
+    <updated>2025-05-29T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Fine-tuning TTS models</title>
+    <link href="https://unsloth.ai/blog/tts"/>
+    <id>14313a42f1dd49d7e4d01225632a69d3</id>
+    <published>2025-05-15T00:00:00+00:00</published>
+    <updated>2025-05-15T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Run &amp; Fine-tune Qwen3</title>
+    <link href="https://unsloth.ai/blog/qwen3"/>
+    <id>4b28cb46eba5c6de43f48edf51351c04</id>
+    <published>2025-05-02T00:00:00+00:00</published>
+    <updated>2025-05-02T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Unsloth Dynamic v2.0 Quants</title>
+    <link href="https://unsloth.ai/blog/dynamic-v2"/>
+    <id>20c8ae29ebafe9e248681e9febaf2f4d</id>
+    <published>2025-04-24T00:00:00+00:00</published>
+    <updated>2025-04-24T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Fine-tune &amp; Run Llama 4</title>
+    <link href="https://unsloth.ai/blog/llama4"/>
+    <id>583f276416a5f1210f2bf1ab7359123f</id>
+    <published>2025-04-07T00:00:00+00:00</published>
+    <updated>2025-04-07T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Run Dynamic DeepSeek-V3-0324</title>
+    <link href="https://unsloth.ai/blog/deepseek-v3-0324"/>
+    <id>dffe7c9c9ea1b9fc475712a07c39a885</id>
+    <published>2025-03-25T00:00:00+00:00</published>
+    <updated>2025-03-25T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Fine-tune &amp; Run Gemma 3</title>
+    <link href="https://unsloth.ai/blog/gemma3"/>
+    <id>7e85cda5c177c07b31b6478d50567fe8</id>
+    <published>2025-03-12T00:00:00+00:00</published>
+    <updated>2025-03-12T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Run &amp; Finetune QwQ-32B + Bug Fixes</title>
+    <link href="https://unsloth.ai/blog/qwq-32b"/>
+    <id>42945a8ae8a5e73ec9730e4395e0fe68</id>
+    <published>2025-03-07T00:00:00+00:00</published>
+    <updated>2025-03-07T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Long-context GRPO</title>
+    <link href="https://unsloth.ai/blog/grpo"/>
+    <id>f8ab82bb66340aa3904e3c33d9645ef3</id>
+    <published>2025-02-20T00:00:00+00:00</published>
+    <updated>2025-02-20T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Re-introducing Unsloth</title>
+    <link href="https://unsloth.ai/blog/reintroducing"/>
+    <id>b202b49bd2aedd6e197dd76a5ea601c4</id>
+    <published>2025-02-10T00:00:00+00:00</published>
+    <updated>2025-02-10T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Train your own Reasoning Model</title>
+    <link href="https://unsloth.ai/blog/r1-reasoning"/>
+    <id>2152512775c43c5fa3368a19dec6cc33</id>
+    <published>2025-02-05T00:00:00+00:00</published>
+    <updated>2025-02-05T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Run 1.58-bit Dynamic DeepSeek-R1</title>
+    <link href="https://unsloth.ai/blog/deepseekr1-dynamic"/>
+    <id>6ee162b13c0d8e588d6af7478db6ec85</id>
+    <published>2025-01-27T00:00:00+00:00</published>
+    <updated>2025-01-27T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>DeepSeek R1 - Run &amp; Finetune</title>
+    <link href="https://unsloth.ai/blog/deepseek-r1"/>
+    <id>938abf470d9293cf2d4cb21ebd263c8e</id>
+    <published>2025-01-20T00:00:00+00:00</published>
+    <updated>2025-01-20T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Phi-4 Finetuning + Bug Fixes</title>
+    <link href="https://unsloth.ai/blog/phi4"/>
+    <id>725c90f8d01e52d0e6115be759f6b121</id>
+    <published>2025-01-10T00:00:00+00:00</published>
+    <updated>2025-01-10T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Fine-tune Llama 3.3</title>
+    <link href="https://unsloth.ai/blog/llama3-3"/>
+    <id>23d750537f392a360ade52e00fc5e24e</id>
+    <published>2024-12-10T00:00:00+00:00</published>
+    <updated>2024-12-10T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Unsloth - Dynamic 4-bit Quantization</title>
+    <link href="https://unsloth.ai/blog/dynamic-4bit"/>
+    <id>0e7d9fe27271131b58bb9a22d17efea3</id>
+    <published>2024-12-04T00:00:00+00:00</published>
+    <updated>2024-12-04T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Llama 3.2 Vision Finetuning</title>
+    <link href="https://unsloth.ai/blog/vision"/>
+    <id>ae4a7f771325693726d2227ef54bf712</id>
+    <published>2024-11-19T00:00:00+00:00</published>
+    <updated>2024-11-19T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Gradient Accumulation by Unsloth</title>
+    <link href="https://unsloth.ai/blog/gradient"/>
+    <id>d9df9a0cf21272422dc5ffed55328153</id>
+    <published>2024-10-15T00:00:00+00:00</published>
+    <updated>2024-10-15T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Finetune &amp; Run Llama 3.1 with Unsloth</title>
+    <link href="https://unsloth.ai/blog/llama3-1"/>
+    <id>543db21275a90dfc35378cd00018efa2</id>
+    <published>2024-07-23T00:00:00+00:00</published>
+    <updated>2024-07-23T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Mistral NeMo Bug Fixes &amp; Ollama support</title>
+    <link href="https://unsloth.ai/blog/mistral-nemo"/>
+    <id>ab7e6005ebfbe3d75e64141704471269</id>
+    <published>2024-07-18T00:00:00+00:00</published>
+    <updated>2024-07-18T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Gemma 2 - 2x faster + 63% less VRAM</title>
+    <link href="https://unsloth.ai/blog/gemma2"/>
+    <id>d6a409a5367da5daa4347e6ea0dfd7eb</id>
+    <published>2024-07-03T00:00:00+00:00</published>
+    <updated>2024-07-03T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Continued Pretraining with Unsloth</title>
+    <link href="https://unsloth.ai/blog/contpretraining"/>
+    <id>b512d6ecb5f65191eb43c213bf886551</id>
+    <published>2024-06-04T00:00:00+00:00</published>
+    <updated>2024-06-04T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Phi-3, Mistral v0.3 and Llama 3 Bug Fixes</title>
+    <link href="https://unsloth.ai/blog/phi3"/>
+    <id>9b47ad4cd76c0bfe9fecae2143f280e3</id>
+    <published>2024-05-23T00:00:00+00:00</published>
+    <updated>2024-05-23T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Llama 3 - 2x faster + 68% less VRAM</title>
+    <link href="https://unsloth.ai/blog/llama3"/>
+    <id>963e0010a10794109dfc4461b9b9bac6</id>
+    <published>2024-04-23T00:00:00+00:00</published>
+    <updated>2024-04-23T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>4x longer context windows &amp; 1.7x larger batch sizes</title>
+    <link href="https://unsloth.ai/blog/long-context"/>
+    <id>d27a45130bd409763c7eec99dd44bb2b</id>
+    <published>2024-04-09T00:00:00+00:00</published>
+    <updated>2024-04-09T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Unsloth Google Gemma Bug Fixes</title>
+    <link href="https://unsloth.ai/blog/gemma-bugs"/>
+    <id>0a689c6fead0a9abf5ed84da3ed07707</id>
+    <published>2024-03-06T00:00:00+00:00</published>
+    <updated>2024-03-06T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>2.4x faster Gemma + 58% less VRAM</title>
+    <link href="https://unsloth.ai/blog/gemma"/>
+    <id>9616a5abc0769178c8e4a287f66dd519</id>
+    <published>2024-02-26T00:00:00+00:00</published>
+    <updated>2024-02-26T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>New Mistral support + Benchmarks</title>
+    <link href="https://unsloth.ai/blog/mistral-benchmark"/>
+    <id>b1964c05ecebce09c4cd81d2ec99b37c</id>
+    <published>2023-12-14T00:00:00+00:00</published>
+    <updated>2023-12-14T00:00:00+00:00</updated>
+  </entry>
+</feed>
