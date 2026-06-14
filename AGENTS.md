@@ -54,11 +54,34 @@ Use the existing scripts in the relevant directory as reference. Keep `org_key` 
 
 Read those files for exact signatures and the expected entry dict schema.
 
-### 4. Update `README.md`
+### 4. Update the feed registry (`feeds.opml`)
 
-Add the new feed row(s) to the appropriate table. Follow the existing row format: `| [Name](URL) | [filename.xml](feed URL) | Created |`
+`feeds.opml` is the canonical source of truth for all feeds (both created and official).
+Add your new feed entry to the appropriate `<outline>` category. Each entry follows:
 
-### 5. Test
+```xml
+<!-- Created feed (hosted on Codeberg) -->
+<outline text="Display Name" title="Display Name" type="rss"
+         xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/FILENAME.xml"
+         htmlUrl="https://source-website.com/page" fw:type="created"/>
+
+<!-- Official feed (existing RSS/Atom) -->
+<outline text="Display Name" title="Display Name" type="rss"
+         xmlUrl="https://source-website.com/rss.xml"
+         htmlUrl="https://source-website.com/" fw:type="official"/>
+```
+
+### 5. Regenerate README
+
+After updating `feeds.opml`, regenerate `README.md`:
+
+```bash
+python src/generate_readme.py
+```
+
+This reads `feeds.opml` and replaces the marker section in `README.md` with human-friendly tables.
+
+### 6. Test
 
 ```bash
 cd /workspace/src && bash run_all.sh

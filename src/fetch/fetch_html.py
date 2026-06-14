@@ -49,10 +49,15 @@ def prune_html(html: str) -> str:
     Only strips content that can never be article text: scripts, styles,
     media elements, embeds, and HTML comments. All structural and
     class/id-based heuristics are intentionally omitted.
+
+    Preserves <script type="application/ld+json"> tags for structured data extraction.
     """
     soup = BeautifulSoup(html, "html.parser")
 
     for tag in soup.find_all(_REMOVE_TAGS):
+        # Preserve JSON-LD structured data
+        if tag.name == "script" and tag.get("type") == "application/ld+json":
+            continue
         tag.decompose()
 
     for comment in soup.find_all(string=lambda s: isinstance(s, Comment)):

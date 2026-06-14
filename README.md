@@ -7,14 +7,15 @@ Feng Wen (风闻) is a news aggregator focused on AI and technology. It periodic
 
 The following tables include both the feeds created by this project and existing official feeds for ease of use and organization.
 
-## Lab/Company Feeds
+<!-- FEEDS_TABLE_START -->
 
+## Lab/Company Feeds
 | Original Website | Feed | Type |
 |------------------|------|------|
 | [Anthropic News](https://www.anthropic.com/news) | [anthropic_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_news.xml) | Created |
 | [Anthropic Research](https://www.anthropic.com/research) | [anthropic_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_research.xml) | Created |
 | [Anthropic Engineering Blog](https://www.anthropic.com/engineering) | [anthropic_engineering.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_engineering.xml) | Created |
-| [OpenAI News](https://openai.com/news) | [Open AI News Feed](https://openai.com/news/rss.xml) | Official |
+| [OpenAI News](https://openai.com/news) | [OpenAI News Feed](https://openai.com/news/rss.xml) | Official |
 | [Google Tech Blog](https://blog.google/technology/) | [Google Tech Blog Feed](https://blog.google/technology/rss/) | Official |
 | [DeepMind Blog](https://deepmind.google/discover/blog/) | [DeepMind Blog Feed](https://deepmind.google/blog/rss.xml) | Official |
 | [DeepMind Research](https://deepmind.google/research/) | [DeepMind Research Feed](https://deepmind.google/blog/rss.xml) | Official |
@@ -48,42 +49,44 @@ The following tables include both the feeds created by this project and existing
 | [Runway News](https://runwayml.com/news) | [runway_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/runway_news.xml) | Created |
 | [ElevenLabs Research](https://elevenlabs.io/blog/category/research) | [elevenlabs_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/elevenlabs_research.xml) | Created |
 | [Hume AI Blog](https://www.hume.ai/blog) | [hume_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/hume_blog.xml) | Created |
-| [Kyutai Lab Blog](https://kyutai.org/blog) | | |
-| [Kyutai Lab Papers](https://kyutai.org/papers) | | |
-| [Boson AI Blog](https://www.boson.ai/blog) | | |
-| [Sesame AI Blog](https://www.sesame.com/blog) | | |
+| [Kyutai Lab Blog](https://kyutai.org/blog) | [kyutai_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/kyutai_blog.xml) | Created |
+| [Kyutai Lab Papers](https://kyutai.org/papers) | [kyutai_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/kyutai_papers.xml) | Created |
+| [Boson AI Blog](https://www.boson.ai/blog) | [boson_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/boson_blog.xml) | Created |
+| [Sesame AI Blog](https://www.sesame.com/blog) | [sesame_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/sesame_blog.xml) | Created |
 | [Arc Prize Blog](https://arcprize.org/blog) | [Arc Prize Blog Feed](https://arcprize.org/feed.xml) | Official |
-| [World Labs AI Blog](https://www.worldlabs.ai/blog) | | |
-| [AMI Lab Updates](https://amilabs.xyz/updates) | | |
+| [World Labs AI Blog](https://www.worldlabs.ai/blog) | [worldlabs_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/worldlabs_blog.xml) | Created |
+| [AMI Lab Updates](https://amilabs.xyz/updates) | [ami_updates.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ami_updates.xml) | Created |
 | [Sakana AI Blog](https://sakana.ai/blog/) | [Sakana AI Blog Feed](https://sakana.ai/feed.xml) | Official |
 | [Netflix Tech Blog](https://netflixtechblog.com) | [Netflix Tech Blog Feed](https://netflixtechblog.com/feed) | Official |
 | [Thinking Machine Lab Blog](https://thinkingmachines.ai/blog/) | [Thinking Machine Lab Blog Feed](https://thinkingmachines.ai/blog/index.xml) | Official |
-| [Thinking Machine Lab News](https://thinkingmachines.ai/news/) | | |
-| [Resemble AI Blog](https://www.resemble.ai/resources) | | |
-| [LTX Blog](https://ltx.io/blog) | | |
-| [LTX News](https://ltx.io/newsroom) | | |
-| [Udio Blog](https://www.udio.com/blog) | | |
-| [Suno Blog](https://suno.com/blog) | | |
+| [Thinking Machine Lab News](https://thinkingmachines.ai/news/) | [thinkingmachines_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/thinkingmachines_news.xml) | Created |
+| [Resemble AI Blog](https://www.resemble.ai/resources) | [resemble_resources.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/resemble_resources.xml) | Created |
+| [LTX Blog](https://ltx.io/blog) | [ltx_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ltx_blog.xml) | Created |
+| [LTX News](https://ltx.io/newsroom) | [ltx_newsroom.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ltx_newsroom.xml) | Created |
+| [Udio Blog](https://www.udio.com/blog) | [udio_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/udio_blog.xml) | Created |
+| [Suno Blog](https://suno.com/blog) | [suno_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/suno_blog.xml) | Created |
 
 
 ## Tool/Platform Feeds
-
 | Original Website | Feed | Type |
 |------------------|------|------|
-| [GitHub Trending](https://github.com/trending) | [github_trends.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trends.xml)<br>[github_trending-since-daily.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-daily.xml)<br>[github_trending-since-weekly.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-weekly.xml)<br>[github_trending-since-monthly.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-monthly.xml)<br> | Created |
+| [GitHub Trending (daily)](https://github.com/trending?since=daily) | [github_trending-since-daily.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-daily.xml) | Created |
+| [GitHub Trending (weekly)](https://github.com/trending?since=weekly) | [github_trending-since-weekly.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-weekly.xml) | Created |
+| [GitHub Trending (monthly)](https://github.com/trending?since=monthly) | [github_trending-since-monthly.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-monthly.xml) | Created |
+| [GitHub Trending (combined)](https://github.com/trending) | [github_trends.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trends.xml) | Created |
 | [HuggingFace Blog](https://huggingface.co/blog) | [HuggingFace Blog Feed](https://huggingface.co/blog/feed.xml) | Official |
 | [Ollama Blog](https://ollama.com/blog) | [Ollama Blog Feed](https://ollama.com/blog/rss.xml) | Official |
 | [vLLM Blog](https://vllm.ai/blog) | [vLLM Blog Feed](https://vllm.ai/blog/rss.xml) | Official |
-| [Unsloth Blog](https://unsloth.ai/blog) | | |
+| [Unsloth Blog](https://unsloth.ai/blog) | [unsloth_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/unsloth_blog.xml) | Created |
 | [ComfyUI Blog](https://blog.comfy.org/) | [ComfyUI Blog Feed](https://blog.comfy.org/feed) | Official |
 | [Replicate Blog](https://replicate.com/blog) | [Replicate Blog Feed](https://replicate.com/blog/atom) | Official |
 | [OpenRouter Blog](https://openrouter.ai/blog/) | [OpenRouter Blog Feed](https://openrouter.ai/blog/feed.xml) | Official |
-| [Groq Blog](https://groq.com/blog) | | |
-| [Groq News](https://groq.com/newsroom) | | |
-| [Llama.cpp Announcement](https://github.com/ggml-org/llama.cpp/discussions/categories/announcements) | [Llama.cpp Announcement Feed](https://github.com/ggml-org/llama.cpp/discussions/categories/announcements.atom) | Official |
+| [Groq Blog](https://groq.com/blog) | [groq_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/groq_blog.xml) | Created |
+| [Groq News](https://groq.com/newsroom) | [groq_newsroom.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/groq_newsroom.xml) | Created |
+| [Llama.cpp Announcements](https://github.com/ggml-org/llama.cpp/discussions/categories/announcements) | [Llama.cpp Announcements Feed](https://github.com/ggml-org/llama.cpp/discussions/categories/announcements.atom) | Official |
 | [Rust Blog](https://blog.rust-lang.org/) | [Rust Blog Feed](https://blog.rust-lang.org/feed.xml) | Official |
-| [Higgsfield Blog](https://higgsfield.ai/blog) | | |
-| [LMSys Blog](https://www.lmsys.org/blog/) | | |
+| [Higgsfield Blog](https://higgsfield.ai/blog) | [higgsfield_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/higgsfield_blog.xml) | Created |
+| [LMSys Blog](https://www.lmsys.org/blog/) | [lmsys_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/lmsys_blog.xml) | Created |
 
 
 ## Academic Feeds
@@ -94,27 +97,26 @@ To-Do: Appending logic with snapshot timestamps
 | [HuggingFace Trending Models](https://huggingface.co/models?sort=trending) | [huggingface_trending_models.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/huggingface_trending_models.xml) | Created |
 | [HuggingFace Trending Datasets](https://huggingface.co/datasets?sort=trending) | [huggingface_trending_datasets.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/huggingface_trending_datasets.xml) | Created |
 | [HuggingFace Daily Papers](https://huggingface.co/papers) | [huggingface_daily_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/huggingface_daily_papers.xml) | Created |
-| [alphaXiv Trending Papers](https://www.alphaxiv.org/?sort=Hot&interval=90+Days) | | |
+| [alphaXiv Trending Papers](https://www.alphaxiv.org/?sort=Hot&interval=90+Days) | [alphaxiv_hot_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/alphaxiv_hot_papers.xml) | Created |
 | [Cool Papers](https://papers.cool/) | [Cool Papers Feed](https://papers.cool/arxiv/cs.CL,cs.LG,cs.AI,cs.CV/feed) | Official |
 
 
 ## Tech Blogs
-
 | Original Website | Feed | Type |
 |------------------|------|------|
 | [Sebastian Raschka](https://sebastianraschka.com/) | [Sebastian Raschka Feed](https://sebastianraschka.com/rss_feed.xml) | Official |
 | [Deep Learning Weekly](https://www.deeplearningweekly.com/) | [Deep Learning Weekly Feed](https://www.deeplearningweekly.com/feed) | Official |
 | [Deep (Learning) Focus](https://cameronrwolfe.substack.com/) | [Deep (Learning) Focus Feed](https://cameronrwolfe.substack.com/feed) | Official |
 | [Last Week in AI](https://lastweekin.ai/) | [Last Week in AI Feed](https://lastweekin.ai/feed) | Official |
-| [The Batch](https://www.deeplearning.ai/the-batch/) | [deeplearning_ai_the-batch.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/deeplearning_ai_the-batch.xml) | Created |
+| [The Batch (DeepLearning.AI)](https://www.deeplearning.ai/the-batch/) | [deeplearning_ai_the-batch.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/deeplearning_ai_the-batch.xml) | Created |
 | [科技爱好者周刊](https://www.ruanyifeng.com/blog/) | [科技爱好者周刊 Feed](https://feeds.feedburner.com/ruanyifeng) | Official |
 | [Turing Post](https://www.turingpost.com/) | [Turing Post Feed](https://rss.beehiiv.com/feeds/UJIoBuf5BX.xml) | Official |
 | [Latent Space](https://www.latent.space/) | [Latent Space Feed](https://www.latent.space/feed) | Official |
 | [12 Grams of Carbon](https://theahura.substack.com/) | [12 Grams of Carbon Feed](https://theahura.substack.com/feed) | Official |
 | [Quanta Magazine](https://www.quantamagazine.org/) | [Quanta Magazine Feed](https://www.quantamagazine.org/feed) | Official |
-| [Epoch AI Latest](https://epoch.ai/latest) |  | |
+| [Epoch AI Latest](https://epoch.ai/latest) | [epoch_latest.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/epoch_latest.xml) | Created |
 | [Epoch AI Substack](https://epochai.substack.com/) | [Epoch AI Substack Feed](https://epochai.substack.com/feed) | Official |
-| [Citrini Research](https://www.citriniresearch.com/) | [Citrini Research Blog Feed](https://www.citriniresearch.com/feed) | Official |
+| [Citrini Research](https://www.citriniresearch.com/) | [Citrini Research Feed](https://www.citriniresearch.com/feed) | Official |
 | [IEEE Spectrum](https://spectrum.ieee.org/) | [IEEE Spectrum Feed](https://spectrum.ieee.org/customfeeds/feed/all-topics/rss) | Official |
 | [METR](https://metr.org/) | [METR Feed](https://metr.substack.com/feed) | Official |
 | [Artificial Analysis](https://artificialanalysis.ai/articles) | [artificial_analysis_articles.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/artificial_analysis_articles.xml) | Created |
@@ -122,11 +124,10 @@ To-Do: Appending logic with snapshot timestamps
 | [AlphaSignal Blog](https://alphasignalai.substack.com/) | [AlphaSignal Blog Feed](https://alphasignalai.substack.com/feed) | Official |
 | [Interconnects AI](https://www.interconnects.ai/) | [Interconnects AI Feed](https://www.interconnects.ai/feed) | Official |
 | [Import AI](https://importai.substack.com/) | [Import AI Feed](https://importai.substack.com/feed) | Official |
-| [lcamtuf’s thing](https://lcamtuf.substack.com/) | [lcamtuf’s thing Feed](https://lcamtuf.substack.com/feed) | Official |
+| [lcamtuf's thing](https://lcamtuf.substack.com/) | [lcamtuf's thing Feed](https://lcamtuf.substack.com/feed) | Official |
 
 
 ## Tech News
-
 | Original Website | Feed | Type |
 |------------------|------|------|
 | [YCombinator Hacker News](https://news.ycombinator.com/) | [hackernews_best.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/hackernews_best.xml) | Created |
@@ -138,14 +139,12 @@ To-Do: Appending logic with snapshot timestamps
 | [Slashdot](https://slashdot.org/) | [Slashdot Feed](https://rss.slashdot.org/Slashdot/slashdotMain) | Official |
 | [The Hacker News](https://thehackernews.com/) | [The Hacker News Feed](https://feeds.feedburner.com/TheHackersNews) | Official |
 | [The Sequence](https://thesequence.substack.com/) | [The Sequence Feed](https://thesequence.substack.com/feed) | Official |
-| [AlphaSignal News](https://alphasignal.ai/) | | |
-| [Venture Beat](https://venturebeat.com/) | | |
-| [机器之心](https://www.jiqizhixin.com/) | | |
+| [AlphaSignal News](https://alphasignal.ai/) | [alphasignal_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/alphasignal_news.xml) | Created |
 | [AI Hot News](https://aihot.virxact.com/) | [AI Hot News Feed](https://aihot.virxact.com/feed.xml) | Official |
-| [AI News Radar](https://learnprompt.github.io/ai-news-radar/) | [ainewsradar_bole-picks.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ainewsradar_bole-picks.xml) | Created |
+| [AI News Radar (Bo Le Picks)](https://learnprompt.github.io/ai-news-radar/) | [ainewsradar_bole-picks.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ainewsradar_bole-picks.xml) | Created |
+
 
 ## Quantum Computing / Quantum AI
-
 | Original Website | Feed | Type |
 |------------------|------|------|
 | [phys.org Quantum Physics](https://phys.org/physics-news/quantum-physics/) | [phys.org Quantum Physics Feed](https://phys.org/rss-feed/physics-news/quantum-physics/) | Official |
@@ -153,17 +152,14 @@ To-Do: Appending logic with snapshot timestamps
 
 
 ## Arts
-
 | Original Website | Feed | Type |
 |------------------|------|------|
 | [Animation Obsessive Blog](https://animationobsessive.substack.com/) | [Animation Obsessive Blog Feed](https://animationobsessive.substack.com/feed) | Official |
 | [Krita News](https://krita.org/en/categories/news/) | [Krita News Feed](https://krita.org/en/categories/news/index.xml) | Official |
 | [Blender News](https://www.blender.org/news/) | [Blender News Feed](https://www.blender.org/feed/) | Official |
 | [Unreal Engine News](https://www.unrealengine.com/en-US/feed) | [Unreal Engine News Feed](https://www.unrealengine.com/en-US/rss) | Official |
-| [SteamDB Free Promotions](https://steamdb.info/upcoming/free/) | | |
-| [Epic Store Free Games](https://store.epicgames.com/free-games) | | |
 
-
+<!-- FEEDS_TABLE_END -->
 
 # How It Works
 

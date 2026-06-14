@@ -111,6 +111,140 @@
           "output_file": "hume_blog.xml"
         }
       ]
+    },
+    {
+      "name": "Kyutai",
+      "org_key": "kyutai",
+      "base_url": "https://kyutai.org",
+      "favicon": "https://kyutai.org/favicon.ico",
+      "pages": [
+        {
+          "key": "blog",
+          "endpoint": "/blog",
+          "method": "GET",
+          "params": {},
+          "output_file": "kyutai_blog.xml"
+        },
+        {
+          "key": "papers",
+          "endpoint": "/papers",
+          "method": "GET",
+          "params": {},
+          "output_file": "kyutai_papers.xml"
+        }
+      ]
+    },
+    {
+      "name": "Sesame",
+      "org_key": "sesame",
+      "base_url": "https://www.sesame.com",
+      "favicon": "https://www.sesame.com/favicon.svg",
+      "pages": [
+        {
+          "key": "blog",
+          "endpoint": "/blog",
+          "method": "GET",
+          "params": {},
+          "output_file": "sesame_blog.xml"
+        }
+      ]
+    },
+    {
+      "name": "Suno",
+      "org_key": "suno",
+      "base_url": "https://suno.com",
+      "favicon": "https://suno.com/favicon.ico",
+      "pages": [
+        {
+          "key": "blog",
+          "endpoint": "/blog",
+          "method": "GET",
+          "params": {},
+          "output_file": "suno_blog.xml"
+        }
+      ]
+    },
+    {
+      "name": "Boson AI",
+      "org_key": "boson",
+      "base_url": "https://www.boson.ai",
+      "favicon": "https://www.boson.ai/favicon.ico",
+      "pages": [
+        {
+          "key": "blog",
+          "endpoint": "/blog",
+          "method": "GET",
+          "params": {},
+          "output_file": "boson_blog.xml"
+        }
+      ]
+    },
+    {
+      "name": "World Labs",
+      "org_key": "worldlabs",
+      "base_url": "https://www.worldlabs.ai",
+      "favicon": "https://www.worldlabs.ai/favicon.ico",
+      "pages": [
+        {
+          "key": "blog",
+          "endpoint": "/blog",
+          "method": "GET",
+          "params": {},
+          "output_file": "worldlabs_blog.xml"
+        }
+      ]
+    },
+    {
+      "name": "LMSYS",
+      "org_key": "lmsys",
+      "base_url": "https://lmsys.org",
+      "favicon": "https://lmsys.org/favicon.ico",
+      "pages": [
+        {
+          "key": "blog",
+          "endpoint": "/blog",
+          "method": "GET",
+          "params": {},
+          "output_file": "lmsys_blog.xml"
+        }
+      ]
+    },
+    {
+      "name": "AlphaSignal",
+      "org_key": "alphasignal",
+      "base_url": "https://alphasignal.ai",
+      "favicon": "https://alphasignal.ai/favicon.ico",
+      "pages": [
+        {
+          "key": "news",
+          "endpoint": "/",
+          "method": "GET",
+          "params": {},
+          "output_file": "alphasignal_news.xml"
+        }
+      ]
+    },
+    {
+      "name": "Groq",
+      "org_key": "groq",
+      "base_url": "https://groq.com",
+      "favicon": "https://groq.com/favicon.ico",
+      "pages": [
+        {
+          "key": "blog",
+          "endpoint": "",
+          "method": "GET",
+          "params": {},
+          "output_file": "groq_blog.xml"
+        },
+        {
+          "key": "newsroom",
+          "endpoint": "",
+          "method": "GET",
+          "params": {},
+          "output_file": "groq_newsroom.xml"
+        }
+      ]
     }
   ]
 }

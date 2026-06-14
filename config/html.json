@@ -74,5 +74,29 @@
     "org_key": "luma",
     "favicon": "https://lumalabs.ai/favicons/favicon-black.ico",
     "pages": ["news"]
+  },
+  {
+    "url": "https://thinkingmachines.ai",
+    "org_key": "thinkingmachines",
+    "favicon": "https://thinkingmachines.ai/images/favicon-32x32.png",
+    "pages": ["news"]
+  },
+  {
+    "url": "https://www.udio.com",
+    "org_key": "udio",
+    "favicon": "https://www.udio.com/favicon.ico",
+    "pages": ["blog"]
+  },
+  {
+    "url": "https://amilabs.xyz",
+    "org_key": "ami",
+    "favicon": "https://amilabs.xyz/favicon.ico",
+    "pages": ["updates"]
+  },
+  {
+    "url": "https://www.resemble.ai",
+    "org_key": "resemble",
+    "favicon": "https://www.resemble.ai/favicon.ico",
+    "pages": ["resources"]
   }
 ]

@@ -51,9 +51,15 @@ _REMOVE_TAGS = {
 
 
 def prune_html(html: str) -> str:
-    """Remove non-text boilerplate from raw HTML (same as fetch_html.py)."""
+    """Remove non-text boilerplate from raw HTML (same as fetch_html.py).
+
+    Preserves <script type="application/ld+json"> tags for structured data extraction.
+    """
     soup = BeautifulSoup(html, "html.parser")
     for tag in soup.find_all(_REMOVE_TAGS):
+        # Preserve JSON-LD structured data
+        if tag.name == "script" and tag.get("type") == "application/ld+json":
+            continue
         tag.decompose()
     for comment in soup.find_all(string=lambda s: isinstance(s, Comment)):
         comment.extract()
@@ -147,6 +153,23 @@ def _wait_for_render(page: ChromiumPage, org_key: str, timeout: int = 15) -> Non
 
         logging.warning("  AI Studio render signal not detected, waiting extra …")
         page.wait(5)
+
+    elif org_key == "ltx":
+        # LTX blog: Webflow CMS lazy-loads articles. Wait longer + scroll.
+        page.wait(6)
+        page.run_js("window.scrollTo(0, document.body.scrollHeight)")
+        page.wait(3)
+        page.run_js("window.scrollTo(0, 0)")
+        page.wait(2)
+
+    elif org_key == "higgsfield":
+        # Higgsfield blog: scroll to load all articles
+        page.wait(3)
+        for _ in range(5):
+            page.run_js("window.scrollTo(0, document.body.scrollHeight)")
+            page.wait(2)
+        page.run_js("window.scrollTo(0, 0)")
+        page.wait(1)
 
     else:
         # Generic wait for other SPAs
@@ -340,6 +363,33 @@ def _fetch_hunyuan_research(page: ChromiumPage, url: str) -> str:
     return page.html
 
 
+def _fetch_alphaxiv_hot(page: ChromiumPage, base_url: str) -> str:
+    """Navigate to alphaXiv explore page with Hot sort and 90-day interval.
+
+    The explore page uses client-side rendering with TanStack Router.
+    We navigate directly to the Hot-sorted URL, wait for the SPA to
+    render, then capture the DOM.
+    """
+    url = base_url.rstrip("/") + "/?sort=Hot&interval=90+Days"
+    logging.info(f"Navigating to {url}")
+    page.get(url)
+    page.wait.doc_loaded()
+    page.wait(8)  # Allow SPA to fully render paper cards
+    logging.info("alphaXiv explore page rendered")
+    return page.html
+
+
+def _fetch_epoch_latest(page: ChromiumPage, base_url: str) -> str:
+    """Navigate to Epoch AI /latest page and wait for client-side render."""
+    url = base_url.rstrip("/") + "/latest"
+    logging.info(f"Navigating to {url}")
+    page.get(url)
+    page.wait.doc_loaded()
+    page.wait(8)
+    logging.info("Epoch AI /latest page rendered")
+    return page.html
+
+
 def _fetch_aistudio_news(page: ChromiumPage, url: str) -> str:
     """Navigate to AI Studio news/blog page, wait for render, and inject
     article IDs from React fiber internals into the DOM before saving.
@@ -387,6 +437,16 @@ def fetch_all(config_path: Path) -> None:
                     elif org_key == "tencent_aistudio":
                         full_url = base_url.rstrip("/") + "/" + page_path.lstrip("/")
                         html = _fetch_aistudio_news(page, full_url)
+                    elif org_key == "alphaxiv":
+                        html = _fetch_alphaxiv_hot(page, base_url)
+                    elif org_key == "epoch":
+                        html = _fetch_epoch_latest(page, base_url)
+                    elif org_key == "ltx":
+                        full_url = base_url.rstrip("/") + "/" + page_path.lstrip("/")
+                        html = _fetch_straightforward(page, full_url, org_key="ltx")
+                    elif org_key == "higgsfield":
+                        full_url = base_url.rstrip("/") + "/" + page_path.lstrip("/")
+                        html = _fetch_straightforward(page, full_url, org_key="higgsfield")
                     else:
                         full_url = base_url.rstrip("/") + "/" + page_path.lstrip("/")
                         html = _fetch_straightforward(page, full_url, org_key=org_key)

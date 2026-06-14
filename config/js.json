@@ -28,5 +28,35 @@
     "org_key": "qwen",
     "pages": ["research"],
     "favicon": "https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico"
+  },
+  {
+    "url": "https://unsloth.ai",
+    "org_key": "unsloth",
+    "favicon": "https://unsloth.ai/favicon.ico",
+    "pages": ["blog"]
+  },
+  {
+    "url": "https://www.alphaxiv.org",
+    "org_key": "alphaxiv",
+    "favicon": "https://www.alphaxiv.org/favicon.ico",
+    "pages": ["hot_papers"]
+  },
+  {
+    "url": "https://epoch.ai",
+    "org_key": "epoch",
+    "favicon": "https://epoch.ai/favicon.ico",
+    "pages": ["latest"]
+  },
+  {
+    "url": "https://ltx.io",
+    "org_key": "ltx",
+    "favicon": "https://ltx.io/favicon.ico",
+    "pages": ["blog", "newsroom"]
+  },
+  {
+    "url": "https://higgsfield.ai",
+    "org_key": "higgsfield",
+    "favicon": "https://higgsfield.ai/favicon.ico",
+    "pages": ["blog"]
   }
 ]
