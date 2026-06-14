@@ -1,6 +1,8 @@
 # Feng Wen (风闻)
 
-Feng Wen (风闻) is a news aggregator focused on AI and technology. It periodically scrapes official blogs, release notes, trending repositories, and research publications from major AI companies and platforms, then converts them into standard **Atom/RSS XML feeds** so they can be consumed by any feed reader directly.
+Feng Wen (风闻) provides **Atom/RSS feeds** for news sources focused on AI and technology. It periodically scrapes official blogs, release notes, trending repositories, and research publications from major AI companies and platforms, then converts them into standard XML feeds so they can be consumed by any feed reader directly.
+
+You can subscribe to all feeds at once by importing the `feeds.opml` file into your favorite RSS reader.
 
 
 # All Feeds
