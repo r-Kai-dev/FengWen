@@ -58,7 +58,6 @@ The following tables include both the feeds created by this project and existing
 | [Kyutai Lab Papers](https://kyutai.org/papers) | [kyutai_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/kyutai_papers.xml) | Created |
 | [Boson AI Blog](https://www.boson.ai/blog) | [boson_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/boson_blog.xml) | Created |
 | [Sesame AI Blog](https://www.sesame.com/blog) | [sesame_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/sesame_blog.xml) | Created |
-| [Arc Prize Blog](https://arcprize.org/blog) | [Arc Prize Blog Feed](https://arcprize.org/feed.xml) | Official |
 | [World Labs AI Blog](https://www.worldlabs.ai/blog) | [worldlabs_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/worldlabs_blog.xml) | Created |
 | [AMI Lab Updates](https://amilabs.xyz/updates) | [ami_updates.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ami_updates.xml) | Created |
 | [Sakana AI Blog](https://sakana.ai/blog/) | [Sakana AI Blog Feed](https://sakana.ai/feed.xml) | Official |
@@ -125,6 +124,7 @@ To-Do: Appending logic with snapshot timestamps
 | [IEEE Spectrum](https://spectrum.ieee.org/) | [IEEE Spectrum Feed](https://spectrum.ieee.org/customfeeds/feed/all-topics/rss) | Official |
 | [METR](https://metr.org/) | [METR Feed](https://metr.substack.com/feed) | Official |
 | [Artificial Analysis](https://artificialanalysis.ai/articles) | [artificial_analysis_articles.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/artificial_analysis_articles.xml) | Created |
+| [Arc Prize Blog](https://arcprize.org/blog) | [Arc Prize Blog Feed](https://arcprize.org/feed.xml) | Official |
 | [LessWrong](https://www.lesswrong.com/) | [LessWrong Feed](https://www.lesswrong.com/feed.xml?view=community-rss&karmaThreshold=125) | Official |
 | [AlphaSignal Blog](https://alphasignalai.substack.com/) | [AlphaSignal Blog Feed](https://alphasignalai.substack.com/feed) | Official |
 | [Interconnects AI](https://www.interconnects.ai/) | [Interconnects AI Feed](https://www.interconnects.ai/feed) | Official |
