@@ -4,10 +4,19 @@
   <icon>https://lmsys.org/favicon.ico</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-06-08T00:00:00+00:00</updated>
+  <updated>2026-06-15T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>The next generation of speculative decoding: DFlash and Spec V2</title>
+    <link href="https://lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2"/>
+    <id>8fa19e9b2ac834aaf854191a812f4494</id>
+    <published>2026-06-15T00:00:00+00:00</published>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <summary type="text">Using Modal and Z Lab's DFlash speculative decoding models with SGLangâs newly default Spec V2 engine, you can achieve state-of-the-art latencies for LLM inference serving. Our new, jointly-released D...</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Announcing the Recipient of the 2026 LMSYS PhD Fellowship</title>
     <link href="https://lmsys.org/blog/2026-06-08-lmsys-phd-fellowship"/>

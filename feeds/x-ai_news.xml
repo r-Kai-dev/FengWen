@@ -4,17 +4,31 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-06-11T00:00:00+00:00</updated>
+  <updated>2026-06-15T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Agent Dashboard in Grok Build</title>
+    <link href="https://x.ai/news/agent-dashboard"/>
+    <id>eaa8c2767475c67643e186981c36d57f</id>
+    <published>2026-06-15T00:00:00+00:00</published>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <summary type="text">Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.</summary>
+  </entry>
+  <entry>
+    <title>Use Grok in Warp</title>
+    <link href="https://x.ai/news/grok-warp"/>
+    <id>c448ed6f724bd6ce3272f53d3f077310</id>
+    <published>2026-06-15T00:00:00+00:00</published>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Grok Build Plugin Marketplace</title>
     <link href="https://x.ai/news/grok-plugin-marketplace"/>
     <id>6ca6c0c03eebbd9578050b23d8851d31</id>
     <published>2026-06-11T00:00:00+00:00</published>
     <updated>2026-06-11T00:00:00+00:00</updated>
-    <summary type="text">Launching the built-in plugin marketplace for Grok Build.</summary>
   </entry>
   <entry>
     <title>Bringing real-time market sentiment to Tori, from eToro</title>
@@ -36,6 +50,7 @@
     <id>77b1ce6545637c9d4fe88a4a829d9303</id>
     <published>2026-06-03T00:00:00+00:00</published>
     <updated>2026-06-03T00:00:00+00:00</updated>
+    <summary type="text">Bringing frontier voice quality to millions of Vapi agents.</summary>
   </entry>
   <entry>
     <title>Grok Imagine 1.5 Preview</title>
@@ -43,6 +58,7 @@
     <id>8e1534e2ead7276c0396c9bd156dae52</id>
     <published>2026-06-03T00:00:00+00:00</published>
     <updated>2026-06-03T00:00:00+00:00</updated>
+    <summary type="text">grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.</summary>
   </entry>
   <entry>
     <title>Composer 2.5</title>

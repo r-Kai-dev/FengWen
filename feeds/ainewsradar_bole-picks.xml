@@ -4,42 +4,75 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/"/>
   <id>https://learnprompt.github.io/ai-news-radar/</id>
-  <updated>2026-06-14T22:04:01+00:00</updated>
+  <updated>2026-06-15T20:15:31+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>为什么克劳德会变成一个混蛋？ / Why Is Claude Turning into an a**Hole?</title>
-    <link href="https://news.ycombinator.com/item?id=48533308"/>
-    <id>79d27fa1fbb9a4e075fe0080eab4f923</id>
-    <published>2026-06-14T22:04:01+00:00</published>
-    <updated>2026-06-14T22:04:01+00:00</updated>
-    <summary type="text">Score: 0.545
-Sources: 2 (NewsNow)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>面向初学者的 GitHub Copilot CLI：常见斜杠命令概述 / GitHub Copilot CLI for Beginners: Overview of common slash commands</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands"/>
+    <id>2551dee4ee095ab7ff1b494345fcbc3b</id>
+    <published>2026-06-15T20:15:31+00:00</published>
+    <updated>2026-06-15T20:15:31+00:00</updated>
+    <summary type="text">Score: 0.870
+Sources: 1 (Official AI Updates)
+Importance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>谷歌首席执行官桑达尔·皮查伊在斯坦福大学毕业典礼上避谈人工智能（并躲过了嘘声）</title>
-    <link href="https://www.businessinsider.com/google-ceo-sundar-pichai-stanford-graduation-speech-ai-2026-6"/>
-    <id>bdaea418a9d304bb8ed359f3f9069d1c</id>
-    <published>2026-06-14T20:46:39+00:00</published>
-    <updated>2026-06-14T20:46:39+00:00</updated>
-    <summary type="text">Score: 0.536
-Sources: 2 (Buzzing)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>利用新的开放数据集加速研究人员和开发人员构建多语言人工智能 / Accelerating researchers and developers building multilingual AI with a new open dataset</title>
+    <link href="https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset"/>
+    <id>f34a45d3b30e07ff6bd4dc78fd0eeba2</id>
+    <published>2026-06-15T19:17:30+00:00</published>
+    <updated>2026-06-15T19:17:30+00:00</updated>
+    <summary type="text">Score: 0.859
+Sources: 1 (Official AI Updates)
+Importance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>Anthropic 因出口管制派员赴华盛顿修复白宫冲突</title>
-    <link href="https://x.com/kimmonismus/status/2066240276075528533"/>
-    <id>68b0b3864682b3fe786356b3e0972f53</id>
-    <published>2026-06-14T19:24:05+00:00</published>
-    <updated>2026-06-14T19:24:05+00:00</updated>
+    <title>Meta 在 Facebook 上线&quot;AI Mode&quot;，基于平台公开信息合成答案</title>
+    <link href="https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms"/>
+    <id>f9d5c98c8603ce08767e37f8973d4370</id>
+    <published>2026-06-15T18:30:58+00:00</published>
+    <updated>2026-06-15T18:30:58+00:00</updated>
+    <summary type="text">Score: 0.819
+Sources: 2 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenRouter新增免费模型gpt-oss-20b和Gemma4 26B</title>
+    <link href="https://x.com/OpenRouter/status/2066585705581797616"/>
+    <id>4546f7b63ab7d1f742a7590b7cccee33</id>
+    <published>2026-06-15T18:16:42+00:00</published>
+    <updated>2026-06-15T18:16:42+00:00</updated>
+    <summary type="text">Score: 0.792
+Sources: 1 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>下一代投机解码：DFlash 与 Spec V2</title>
+    <link href="https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2"/>
+    <id>8b828a2b87bb21bdc316343a331de231</id>
+    <published>2026-06-15T17:25:17+00:00</published>
+    <updated>2026-06-15T17:25:17+00:00</updated>
     <summary type="text">Score: 0.785
 Sources: 1 (AI HOT)
 Importance: 行业动态</summary>
@@ -49,77 +82,12 @@ Importance: 行业动态</summary>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>人工智能无法拯救一家无法按时交付产品的公司</title>
-    <link href="https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship"/>
-    <id>f7a53de7d991a12b72ef1ec2371e6b87</id>
-    <published>2026-06-14T18:46:19+00:00</published>
-    <updated>2026-06-14T18:46:19+00:00</updated>
-    <summary type="text">Score: 0.516
-Sources: 2 (Buzzing)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>据Axios报道，Anthropic公司员工将于下周与白宫官员会面 / Anthropic staff to meet White House officials next week</title>
-    <link href="https://www.reuters.com/world/us/anthropic-staff-meet-white-house-officials-next-week-axios-reports-2026-06-14"/>
-    <id>3197c47025674f309520cfd0ea9c191e</id>
-    <published>2026-06-14T18:38:10.823000+00:00</published>
-    <updated>2026-06-14T18:38:10.823000+00:00</updated>
-    <summary type="text">Score: 0.517
-Sources: 2 (Zeli)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么</title>
-    <link href="https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6"/>
-    <id>d72a1bd8064098495ce58564842a7232</id>
-    <published>2026-06-14T17:15:27+00:00</published>
-    <updated>2026-06-14T17:15:27+00:00</updated>
-    <summary type="text">Score: 0.514
-Sources: 2 (Buzzing)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>按当前估值计算，FTX此前持有的Anthropic股份价值约为750亿美元 / FTX's former Anthropic stake would be worth about $75B at today's valuation</title>
-    <link href="https://news.ycombinator.com/item?id=48529190"/>
-    <id>7a0ed83309086bb9d53803a79d2851d2</id>
-    <published>2026-06-14T16:46:14.648000+00:00</published>
-    <updated>2026-06-14T16:46:14.648000+00:00</updated>
-    <summary type="text">Score: 0.509
-Sources: 2 (NewsNow)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议</title>
-    <link href="https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6"/>
-    <id>955163961aed77b987948a4d68a017c8</id>
-    <published>2026-06-14T16:32:09+00:00</published>
-    <updated>2026-06-14T16:32:09+00:00</updated>
-    <summary type="text">Score: 0.501
-Sources: 2 (Buzzing)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>正秘密测试 AI 版支付宝？蚂蚁集团拒绝评论</title>
-    <link href="https://www.huxiu.com/article/4867241.html?f=rss"/>
-    <id>03bbe856d958bda25b5fa8a3b89b1736</id>
-    <published>2026-06-14T16:28:56+00:00</published>
-    <updated>2026-06-14T16:28:56+00:00</updated>
-    <summary type="text">Score: 0.509
+    <title>17 岁高中生做了个假 AI，上线一个月获 2.8 亿次访问</title>
+    <link href="https://www.huxiu.com/article/4867564.html?f=rss"/>
+    <id>3ea9616a572d24c9e522be38288d0de3</id>
+    <published>2026-06-15T17:07:34+00:00</published>
+    <updated>2026-06-15T17:07:34+00:00</updated>
+    <summary type="text">Score: 0.548
 Sources: 2 (TopHub)
 Importance: 值得关注</summary>
     <category term="值得关注"/>
@@ -127,25 +95,12 @@ Importance: 值得关注</summary>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>瑞士选民否决了将人口上限设定为1000万的提案 / Swiss voters reject proposal to cap Population at 10M</title>
-    <link href="https://www.ft.com/content/633980b1-06ef-4e83-8551-7b5c6d55d4ac"/>
-    <id>cba1aa3856345fa59d3fc92969f56e76</id>
-    <published>2026-06-14T16:28:54+00:00</published>
-    <updated>2026-06-14T16:28:54+00:00</updated>
-    <summary type="text">Score: 0.511
-Sources: 2 (Zeli)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>白宫AI监管决定被指偏袒OpenAI与亚马逊</title>
-    <link href="https://garymarcus.substack.com/p/what-washington-must-do"/>
-    <id>71085d23cd0fe5af9d458c2b7ee87460</id>
-    <published>2026-06-14T16:15:35+00:00</published>
-    <updated>2026-06-14T16:15:35+00:00</updated>
-    <summary type="text">Score: 0.758
+    <title>Nvidia 加入 AI 债务热潮，发行 200 亿美元债券</title>
+    <link href="https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale"/>
+    <id>bf03298cc58eaec5ab1cdae985a23dd8</id>
+    <published>2026-06-15T15:43:04+00:00</published>
+    <updated>2026-06-15T15:43:04+00:00</updated>
+    <summary type="text">Score: 0.771
 Sources: 1 (AI HOT)
 Importance: 行业动态</summary>
     <category term="行业动态"/>
@@ -154,65 +109,159 @@ Importance: 行业动态</summary>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>21 世纪最伟大的 CEO，会是一个 AI 吗？|| 大视野</title>
-    <link href="https://www.huxiu.com/article/4867239.html?f=rss"/>
-    <id>ea42aa656436a11c7e1ca53544ac9b30</id>
-    <published>2026-06-14T16:13:36+00:00</published>
-    <updated>2026-06-14T16:13:36+00:00</updated>
-    <summary type="text">Score: 0.509
-Sources: 2 (TopHub)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>里约热内卢的“本土化”LLM似乎是现有模型的融合体</title>
-    <link href="https://github.com/nex-agi/Nex-N2/issues/4"/>
-    <id>7cee2d36a136e324cb61cb3fc7837237</id>
-    <published>2026-06-14T15:37:31+00:00</published>
-    <updated>2026-06-14T15:37:31+00:00</updated>
-    <summary type="text">Score: 0.535
-Sources: 3 (Buzzing)
-Importance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Satya Nadella：没有生态的前沿不稳定</title>
-    <link href="https://x.com/satyanadella/status/2066182223213293753"/>
-    <id>86be7ecbd32458fa7a735ce614c1a696</id>
-    <published>2026-06-14T15:33:24+00:00</published>
-    <updated>2026-06-14T15:33:24+00:00</updated>
-    <summary type="text">Score: 0.753
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>不，并不是每个人都在所有事情上都使用人工智能 / No, everyone is not using AI for everything</title>
-    <link href="https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"/>
-    <id>aa82901faccd34dfcb1b7617bbffcc9b</id>
-    <published>2026-06-14T14:44:29+00:00</published>
-    <updated>2026-06-14T14:44:29+00:00</updated>
+    <title>我的家庭实验室 AI 开发平台</title>
+    <link href="https://rsgm.dev/post/ai-dev-platform"/>
+    <id>39b9e078c81c5849a819c5d821f39697</id>
+    <published>2026-06-15T15:09:40+00:00</published>
+    <updated>2026-06-15T15:09:40+00:00</updated>
     <summary type="text">Score: 0.556
-Sources: 4 (Info Flow)
+Sources: 3 (Buzzing)
 Importance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>乔木小说创作 Skill 开源发布</title>
-    <link href="https://x.com/vista8/status/2066165703443726749"/>
-    <id>188e938eac420051949f8abaaaccf3cc</id>
-    <published>2026-06-14T14:27:45+00:00</published>
-    <updated>2026-06-14T14:27:45+00:00</updated>
-    <summary type="text">Score: 0.744
+    <title>MiniMax 开源 M3 模型权重及 MSA 技术论文</title>
+    <link href="https://mp.weixin.qq.com/s/AW6L89QZkwN-jD27hQ84ww"/>
+    <id>1c46b89ac22dd8aee52494d40b87fc1b</id>
+    <published>2026-06-15T14:40:02+00:00</published>
+    <updated>2026-06-15T14:40:02+00:00</updated>
+    <summary type="text">Score: 0.762
+Sources: 1 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Salesforce以36亿美元收购AI客服平台Fin</title>
+    <link href="https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b"/>
+    <id>94b4bc8ec3a99e16a1e2609c748fe38c</id>
+    <published>2026-06-15T14:34:45+00:00</published>
+    <updated>2026-06-15T14:34:45+00:00</updated>
+    <summary type="text">Score: 0.786
+Sources: 2 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Skydio CEO Adam Bry：硅谷不应为无人机使用画红线</title>
+    <link href="https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military"/>
+    <id>5ae5e04cf3c67cbc7decb027880f3e3c</id>
+    <published>2026-06-15T14:00:00+00:00</published>
+    <updated>2026-06-15T14:00:00+00:00</updated>
+    <summary type="text">Score: 0.757
+Sources: 1 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>AI合规再升级：Anthropic拟对全量用户实施身份认证</title>
+    <link href="https://www.aibase.com/news/28928"/>
+    <id>d1217eda439c458396f53bd5aaa7b5ae</id>
+    <published>2026-06-15T12:14:22.093362+00:00</published>
+    <updated>2026-06-15T12:14:22.093362+00:00</updated>
+    <summary type="text">Score: 0.742
+Sources: 1 (AIbase)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>AI圈大反转：巴西“黑马”模型Rio 3. 5 被曝“套壳”国产大模型</title>
+    <link href="https://www.aibase.com/news/28919"/>
+    <id>a2792e428aa6812a457a453ae3b403ac</id>
+    <published>2026-06-15T12:14:22.093362+00:00</published>
+    <updated>2026-06-15T12:14:22.093362+00:00</updated>
+    <summary type="text">Score: 0.742
+Sources: 1 (AIbase)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI豪掷1. 5 亿美元：构建全球合作伙伴网络，深耕企业AI落地</title>
+    <link href="https://www.aibase.com/news/28929"/>
+    <id>90e6385e2e2b014e9e4d1ca733b75226</id>
+    <published>2026-06-15T12:14:22.093362+00:00</published>
+    <updated>2026-06-15T12:14:22.093362+00:00</updated>
+    <summary type="text">Score: 0.742
+Sources: 1 (AIbase)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>​巴西AI黑马Rio 3. 5 翻车：被指套壳缝合两款国产大模型</title>
+    <link href="https://www.aibase.com/news/28913"/>
+    <id>92b68248ae03b2eeaec2ecc085203db5</id>
+    <published>2026-06-15T12:14:22.093362+00:00</published>
+    <updated>2026-06-15T12:14:22.093362+00:00</updated>
+    <summary type="text">Score: 0.742
+Sources: 1 (AIbase)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>“AI教父”神预言？Anthropic因长期唱衰自家产品反遭美国出口管制</title>
+    <link href="https://www.aibase.com/news/28917"/>
+    <id>3a0764a7100a5a3c86dc24ec3aaf5c9d</id>
+    <published>2026-06-15T12:14:22.093362+00:00</published>
+    <updated>2026-06-15T12:14:22.093362+00:00</updated>
+    <summary type="text">Score: 0.742
+Sources: 1 (AIbase)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>元宝正式打通ima公开知识库，搜索结果新增专业信源</title>
+    <link href="https://www.aibase.com/news/28918"/>
+    <id>39542ad2c329beb04fcb99d562bba6d9</id>
+    <published>2026-06-15T12:14:22.093362+00:00</published>
+    <updated>2026-06-15T12:14:22.093362+00:00</updated>
+    <summary type="text">Score: 0.742
+Sources: 1 (AIbase)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>全渠道销量夺冠！千问AI眼镜引爆智能穿戴新风口</title>
+    <link href="https://www.aibase.com/news/28926"/>
+    <id>9d883c8ec4532584da9420329d5291d3</id>
+    <published>2026-06-15T12:14:22.093362+00:00</published>
+    <updated>2026-06-15T12:14:22.093362+00:00</updated>
+    <summary type="text">Score: 0.742
+Sources: 1 (AIbase)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>6倍速！Kimi K2.7 Code 高速版已上线</title>
+    <link href="https://mp.weixin.qq.com/s/p87ebkY1xqKtkGZ2N3DGSw"/>
+    <id>0f6dcb4a9c26a6d0fadbda74bac632ee</id>
+    <published>2026-06-15T10:26:06+00:00</published>
+    <updated>2026-06-15T10:26:06+00:00</updated>
+    <summary type="text">Score: 0.727
 Sources: 1 (AI HOT)
 Importance: 行业动态</summary>
     <category term="行业动态"/>
@@ -220,56 +269,17 @@ Importance: 行业动态</summary>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>毕马威因报告中出现明显“幻觉”而撤回关于人工智能应用的报告</title>
-    <link href="https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations"/>
-    <id>99c3550b09622be99275a23603ce742d</id>
-    <published>2026-06-14T14:01:35+00:00</published>
-    <updated>2026-06-14T14:01:35+00:00</updated>
-    <summary type="text">Score: 0.550
-Sources: 3 (Buzzing)
-Importance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>欧盟委员会发言人表示，欧盟委员会正在评估Anthropic裁决的实际影响 - Reuters</title>
-    <link href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjV5UElrM0pwdjE0dkFUM09CRHd6elhGdTJuUXVkb29QWVNrU3lpQnBNSXpJT2lfUnppQVlzN0NZMHBienBaWWlub3lxTjItbm1FbFNSdnZtMUE4MndyMWVEV0FfVE9iYjBsbGJnNGVkT3kyNEN2NE04ZXI3WUN3a2dxSWV5bUh0aVBrLWFZVEpXOERDWU9Qc3NPbGlRQkZLZEtrR3ktb04tY2ZHRmM0NzlKVm5ITF8zNVM3TlpXSUFYc2dSQWRieA?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen"/>
-    <id>d979c944d862b8a7828787096b776724</id>
-    <published>2026-06-14T13:50:01.242000+00:00</published>
-    <updated>2026-06-14T13:50:01.242000+00:00</updated>
-    <summary type="text">Score: 0.533
-Sources: 3 (Buzzing)
-Importance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots</title>
-    <link href="https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"/>
-    <id>39ec142bef3135100cbc2756a6c0c23d</id>
-    <published>2026-06-14T11:59:20.637000+00:00</published>
-    <updated>2026-06-14T11:59:20.637000+00:00</updated>
-    <summary type="text">Score: 0.462
-Sources: 2 (TopHub)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Anthropic 暂停新模型访问，印度辩论 AI 未来</title>
-    <link href="https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future"/>
-    <id>cba607fe04ae89804fe167441af12b94</id>
-    <published>2026-06-14T03:00:00+00:00</published>
-    <updated>2026-06-14T03:00:00+00:00</updated>
-    <summary type="text">Score: 0.673
+    <title>AI裁员浪潮成为火药桶</title>
+    <link href="https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg"/>
+    <id>9b966918d23421107d26f1025aee0544</id>
+    <published>2026-06-15T07:25:41+00:00</published>
+    <updated>2026-06-15T07:25:41+00:00</updated>
+    <summary type="text">Score: 0.727
 Sources: 2 (AI HOT)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
-    <category term="watch"/>
+    <category term="industry"/>
   </entry>
 </feed>
