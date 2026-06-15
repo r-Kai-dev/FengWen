@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ai2 Research</title>
+  <icon>https://allenai.org/favicon.svg</icon>
+  <link href="https://allenai.org/research"/>
+  <id>https://allenai.org/research</id>
+  <updated>2026-06-12T00:00:00+00:00</updated>
+  <author>
+    <name>Ai2</name>
+  </author>
+  <entry>
+    <title>olmo-eval: An evaluation workbench for the model development loop</title>
+    <link href="https://allenai.org/blog/olmo-eval"/>
+    <id>3244c0db58316da0c48fd5276f98547f</id>
+    <published>2026-06-12T00:00:00+00:00</published>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>OlmoEarth v1.1: A more efficient family of models</title>
+    <link href="https://allenai.org/blog/olmoearth-v1-1"/>
+    <id>9c42812e65c1dc62f3ce5b38953718eb</id>
+    <published>2026-05-19T00:00:00+00:00</published>
+    <updated>2026-05-19T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Introducing AIMIP: The AI weather and climate model intercomparison project</title>
+    <link href="https://allenai.org/blog/aimip"/>
+    <id>658ce06018369fb23894374ca7c6300f</id>
+    <published>2026-05-13T00:00:00+00:00</published>
+    <updated>2026-05-13T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>EMO: Pretraining mixture of experts for emergent modularity</title>
+    <link href="https://allenai.org/blog/emo"/>
+    <id>0ca2481d78d6b0dff8db794d33327890</id>
+    <published>2026-05-08T00:00:00+00:00</published>
+    <updated>2026-05-08T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>MolmoAct 2: An open foundation for robots that work in the real world</title>
+    <link href="https://allenai.org/blog/molmoact2"/>
+    <id>9909e59154557f026568ef10a7c8e14c</id>
+    <published>2026-05-05T00:00:00+00:00</published>
+    <updated>2026-05-05T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>AstaBench update: New results, plus adoption from industry</title>
+    <link href="https://allenai.org/blog/astabench-update-spring-2026"/>
+    <id>d0191faae2f2a5c8492a3c1e506011b9</id>
+    <published>2026-04-30T00:00:00+00:00</published>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis</title>
+    <link href="https://allenai.org/blog/olmoearth-embeddings"/>
+    <id>8ac13cf4e21febb41cd4b065caf9c277</id>
+    <published>2026-04-23T00:00:00+00:00</published>
+    <updated>2026-04-23T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>OlmPool: How small architectural choices compound to undermine long context extension</title>
+    <link href="https://allenai.org/blog/olmpool"/>
+    <id>871621797386c8c928777ca927cedee2</id>
+    <published>2026-04-23T00:00:00+00:00</published>
+    <updated>2026-04-23T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Train separately, merge together: Modular post-training with mixture-of-experts</title>
+    <link href="https://allenai.org/blog/bar"/>
+    <id>8e41ffd6cb8ea31f1fe26b3461db84fa</id>
+    <published>2026-04-20T00:00:00+00:00</published>
+    <updated>2026-04-20T00:00:00+00:00</updated>
+  </entry>
+</feed>

@@ -56,16 +56,6 @@
     <category term="paper"/>
   </entry>
   <entry>
-    <title>On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters</title>
-    <link href="https://arxiv.org/abs/2606.02437"/>
-    <id>a3dcbdfe01d46217430b0ed553a8632d</id>
-    <published>2026-05-31T20:00:00.000Z</published>
-    <updated>2026-05-31T20:00:00.000Z</updated>
-    <summary type="text">Parameter-efficient fine-tuning (PEFT) is usually treated as a cheaper alternative to full fine-tuning. We study a broader role: small trainable adapters as persistent local state on top of strong sha... · Upvotes: 228 · Authors: Mind Lab, Song Cao, Vic Cao</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
     <title>COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation</title>
     <link href="https://arxiv.org/abs/2605.31264"/>
     <id>55e888d4bb41df6cdf77fbcfb2d71162</id>
@@ -91,7 +81,7 @@
     <id>67d1d56c7d6250cd7d62e8b97fa35cec</id>
     <published>2026-05-21T20:00:00.000Z</published>
     <updated>2026-05-21T20:00:00.000Z</updated>
-    <summary type="text">Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reli... · Upvotes: 228 · GitHub Stars: 6488 · Authors: Yifan Yang, Ziyang Gong, Weiquan Huang</summary>
+    <summary type="text">Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reli... · Upvotes: 229 · GitHub Stars: 6488 · Authors: Yifan Yang, Ziyang Gong, Weiquan Huang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

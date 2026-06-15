@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Perplexity Research Blog</title>
+  <icon>https://www.perplexity.ai/favicon.ico</icon>
+  <link href="https://research.perplexity.ai/"/>
+  <id>https://research.perplexity.ai/</id>
+  <updated>2026-06-08T00:00:00.000Z</updated>
+  <author>
+    <name>Perplexity AI</name>
+  </author>
+  <entry>
+    <title>How AI Agents Reshape Knowledge Work</title>
+    <link href="https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work"/>
+    <id>55da767b3e71a0a5acd2fb351e7aca4f</id>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <summary type="text">Computer raises task autonomy, lowers cost, and widens the scope of work users take on.</summary>
+  </entry>
+  <entry>
+    <title>Rethinking Search as Code Generation</title>
+    <link href="https://research.perplexity.ai/articles/rethinking-search-as-code-generation"/>
+    <id>dc2e511d408e930441c9051cb2a6c21b</id>
+    <published>2026-06-01T00:00:00.000Z</published>
+    <updated>2026-06-01T00:00:00.000Z</updated>
+    <summary type="text">Evolving search from monolithic services to programmable primitives for the era of agent harnesses.</summary>
+  </entry>
+  <entry>
+    <title>Improving Unigram Tokenizer CPU Performance</title>
+    <link href="https://research.perplexity.ai/articles/improving-unigram-tokenizer-cpu-performance"/>
+    <id>af6f3dbb5d04c110426d855076964063</id>
+    <published>2026-05-20T00:00:00.000Z</published>
+    <updated>2026-05-20T00:00:00.000Z</updated>
+    <summary type="text">We reimplemented our Unigram tokenizer from scratch as a focused performance project.</summary>
+  </entry>
+  <entry>
+    <title>Query-Aware Context Compression for Better Snippets</title>
+    <link href="https://research.perplexity.ai/articles/query-aware-context-compression-for-better-snippets"/>
+    <id>f5d6702bc21e66732a8c8d713ef5d213</id>
+    <published>2026-05-14T00:00:00.000Z</published>
+    <updated>2026-05-14T00:00:00.000Z</updated>
+    <summary type="text">Improving the quality-efficiency frontier of model context through query-aware context compression models.</summary>
+  </entry>
+  <entry>
+    <title>Hosting Qwen on Blackwell</title>
+    <link href="https://research.perplexity.ai/articles/hosting-qwen-on-blackwell"/>
+    <id>2353a6671dbfa7d44ae1032d02964209</id>
+    <published>2026-05-12T00:00:00.000Z</published>
+    <updated>2026-05-12T00:00:00.000Z</updated>
+  </entry>
+</feed>
