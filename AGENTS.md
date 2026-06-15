@@ -98,8 +98,19 @@ The canonical schemas live in the config files themselves:
 
 Read the relevant file to understand the required fields before editing.
 
+### Same site, multiple pages
+
+When multiple pages live on the same domain (e.g., `/news` and `/research`
+both on `example.com`), merge them into **one config entry** listing all
+pages, and handle them in **one script** that iterates over the pages dict.
+Reference: `request_allenai.py`, `request_groq.py`, `request_runway.py`.
+
+If the pages are on **different subdomains** they can't share a `base_url`
+— keep them as separate config entries.
+
 ## Edge Cases
 
 - **RSC extraction**: decode chunks with `chunk.encode("utf-8").decode("unicode_escape", errors="replace")`. Use bracket-depth matching for JSON arrays if the data is embedded.
 - **`fetch_html.py` prunes `<script>` and `<style>` tags**. If content depends on those (e.g., RSC payloads or JSON-LD), use the request pattern instead.
 - **All `run.sh` scripts use `shopt -s nullglob`** — no need to register new scripts manually.
+- **Cloudflare / bot protection**: if a site returns 403 with plain `urllib`, switch to `curl_cffi` with browser impersonation (sync API, `impersonate="chrome120"`).  `curl_cffi` is already a project dependency.  Reference: `request_perplexity_blog.py`.

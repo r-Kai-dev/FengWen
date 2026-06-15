@@ -12,7 +12,8 @@
         "official" = official RSS/Atom feed from the source
     -->
     <outline text="Lab/Company Feeds" title="Lab/Company Feeds">
-      <outline text="Anthropic News" title="Anthropic News" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_news.xml" htmlUrl="https://www.anthropic.com/news" fw:type="created"/>
+      <outline text="Ai2 News" title="Ai2 News" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/allenai_news.xml" htmlUrl="https://allenai.org/news" fw:type="created"/>
+      <outline text="Ai2 Research" title="Ai2 Research" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/allenai_research.xml" htmlUrl="https://allenai.org/research" fw:type="created"/>
       <outline text="Anthropic Research" title="Anthropic Research" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_research.xml" htmlUrl="https://www.anthropic.com/research" fw:type="created"/>
       <outline text="Anthropic Engineering Blog" title="Anthropic Engineering Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_engineering.xml" htmlUrl="https://www.anthropic.com/engineering" fw:type="created"/>
       <outline text="OpenAI News" title="OpenAI News" type="rss" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news" fw:type="official"/>
@@ -48,6 +49,8 @@
       <outline text="Runway Research" title="Runway Research" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/runway_research.xml" htmlUrl="https://runwayml.com/research/publications" fw:type="created"/>
       <outline text="Runway News" title="Runway News" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/runway_news.xml" htmlUrl="https://runwayml.com/news" fw:type="created"/>
       <outline text="ElevenLabs Research" title="ElevenLabs Research" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/elevenlabs_research.xml" htmlUrl="https://elevenlabs.io/blog/category/research" fw:type="created"/>
+      <outline text="Perplexity Blog" title="Perplexity Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/perplexity_blog.xml" htmlUrl="https://www.perplexity.ai/hub/blog" fw:type="created"/>
+      <outline text="Perplexity Research" title="Perplexity Research" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/perplexity_research.xml" htmlUrl="https://research.perplexity.ai/" fw:type="created"/>
       <outline text="Hume AI Blog" title="Hume AI Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/hume_blog.xml" htmlUrl="https://www.hume.ai/blog" fw:type="created"/>
       <outline text="Kyutai Lab Blog" title="Kyutai Lab Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/kyutai_blog.xml" htmlUrl="https://kyutai.org/blog" fw:type="created"/>
       <outline text="Kyutai Lab Papers" title="Kyutai Lab Papers" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/kyutai_papers.xml" htmlUrl="https://kyutai.org/papers" fw:type="created"/>

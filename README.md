@@ -14,7 +14,8 @@ The following tables include both the feeds created by this project and existing
 ## Lab/Company Feeds
 | Original Website | Feed | Type |
 |------------------|------|------|
-| [Anthropic News](https://www.anthropic.com/news) | [anthropic_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_news.xml) | Created |
+| [Ai2 News](https://allenai.org/news) | [allenai_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/allenai_news.xml) | Created |
+| [Ai2 Research](https://allenai.org/research) | [allenai_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/allenai_research.xml) | Created |
 | [Anthropic Research](https://www.anthropic.com/research) | [anthropic_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_research.xml) | Created |
 | [Anthropic Engineering Blog](https://www.anthropic.com/engineering) | [anthropic_engineering.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_engineering.xml) | Created |
 | [OpenAI News](https://openai.com/news) | [OpenAI News Feed](https://openai.com/news/rss.xml) | Official |
@@ -50,6 +51,8 @@ The following tables include both the feeds created by this project and existing
 | [Runway Research](https://runwayml.com/research/publications) | [runway_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/runway_research.xml) | Created |
 | [Runway News](https://runwayml.com/news) | [runway_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/runway_news.xml) | Created |
 | [ElevenLabs Research](https://elevenlabs.io/blog/category/research) | [elevenlabs_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/elevenlabs_research.xml) | Created |
+| [Perplexity Blog](https://www.perplexity.ai/hub/blog) | [perplexity_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/perplexity_blog.xml) | Created |
+| [Perplexity Research](https://research.perplexity.ai/) | [perplexity_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/perplexity_research.xml) | Created |
 | [Hume AI Blog](https://www.hume.ai/blog) | [hume_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/hume_blog.xml) | Created |
 | [Kyutai Lab Blog](https://kyutai.org/blog) | [kyutai_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/kyutai_blog.xml) | Created |
 | [Kyutai Lab Papers](https://kyutai.org/papers) | [kyutai_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/kyutai_papers.xml) | Created |

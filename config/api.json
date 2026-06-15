@@ -230,6 +230,58 @@
           "output_file": "groq_newsroom.xml"
         }
       ]
+    },
+    {
+      "name": "Perplexity Research",
+      "org_key": "perplexity_research",
+      "base_url": "https://research.perplexity.ai",
+      "favicon": "https://www.perplexity.ai/favicon.ico",
+      "pages": [
+        {
+          "key": "research",
+          "endpoint": "/",
+          "method": "GET",
+          "params": {},
+          "output_file": "perplexity_research.xml"
+        }
+      ]
+    },
+    {
+      "name": "Perplexity Hub Blog",
+      "org_key": "perplexity_blog",
+      "base_url": "https://www.perplexity.ai/hub",
+      "favicon": "https://www.perplexity.ai/favicon.ico",
+      "pages": [
+        {
+          "key": "blog",
+          "endpoint": "/blog",
+          "method": "GET",
+          "params": {},
+          "output_file": "perplexity_blog.xml"
+        }
+      ]
+    },
+    {
+      "name": "Ai2",
+      "org_key": "allenai",
+      "base_url": "https://allenai.org",
+      "favicon": "https://allenai.org/favicon.svg",
+      "pages": [
+        {
+          "key": "news",
+          "endpoint": "/news",
+          "method": "GET",
+          "params": {},
+          "output_file": "allenai_news.xml"
+        },
+        {
+          "key": "research",
+          "endpoint": "/research",
+          "method": "GET",
+          "params": {},
+          "output_file": "allenai_research.xml"
+        }
+      ]
     }
   ]
 }
