@@ -4,10 +4,26 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-06-08T00:00:00+00:00</updated>
+  <updated>2026-06-16T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Agentic coding and persistent returns to expertise</title>
+    <link href="https://www.anthropic.com/research/claude-code-expertise"/>
+    <id>695f43b3605ce08b01b37a8b9a140b67</id>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
+    <category term="Economic Research"/>
+  </entry>
+  <entry>
+    <title>Measuring LLMs’ impact on N-day exploits</title>
+    <link href="https://www.anthropic.com/research/n-days"/>
+    <id>5728e9eca80f674c659346251779240e</id>
+    <published>2026-06-08T00:00:00+00:00</published>
+    <updated>2026-06-08T00:00:00+00:00</updated>
+    <category term="Frontier Red Team"/>
+  </entry>
   <entry>
     <title>Paving the way for agents in biology</title>
     <link href="https://www.anthropic.com/research/agents-in-biology"/>
@@ -25,6 +41,14 @@
     <category term="Science"/>
   </entry>
   <entry>
+    <title>Mapping AI-enabled cyber threats: Insights from the LLM ATT&amp;CK Navigator</title>
+    <link href="https://www.anthropic.com/research/attack-navigator"/>
+    <id>4a1a356b764f157b3b818c57aabb0c98</id>
+    <published>2026-06-03T00:00:00+00:00</published>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+    <category term="Frontier Red Team"/>
+  </entry>
+  <entry>
     <title>What we learned mapping a year’s worth of AI-enabled cyber threats</title>
     <link href="https://www.anthropic.com/research/AI-enabled-cyber-threats-mitre-attack"/>
     <id>49a0b372da1d941ad466d2c29c5a2125</id>
@@ -39,6 +63,14 @@
     <published>2026-05-27T00:00:00+00:00</published>
     <updated>2026-05-27T00:00:00+00:00</updated>
     <category term="Economic Research"/>
+  </entry>
+  <entry>
+    <title>Measuring LLMs’ ability to develop exploits</title>
+    <link href="https://www.anthropic.com/research/exploit-evals"/>
+    <id>64f781f6665bd5c772f36eefb84c6a6e</id>
+    <published>2026-05-22T00:00:00+00:00</published>
+    <updated>2026-05-22T00:00:00+00:00</updated>
+    <category term="Frontier Red Team"/>
   </entry>
   <entry>
     <title>Project Glasswing: An initial update</title>
@@ -63,30 +95,6 @@
     <published>2026-05-08T00:00:00+00:00</published>
     <updated>2026-05-08T00:00:00+00:00</updated>
     <category term="Alignment"/>
-  </entry>
-  <entry>
-    <title>Donating our open-source alignment tool</title>
-    <link href="https://www.anthropic.com/research/donating-open-source-petri"/>
-    <id>cf01a2e5187ce376b07b79c2823b4357</id>
-    <published>2026-05-07T00:00:00+00:00</published>
-    <updated>2026-05-07T00:00:00+00:00</updated>
-    <category term="Alignment"/>
-  </entry>
-  <entry>
-    <title>Focus areas for The Anthropic Institute</title>
-    <link href="https://www.anthropic.com/research/anthropic-institute-agenda"/>
-    <id>dbb9e047da47d9adf67ac335f1b7db97</id>
-    <published>2026-05-07T00:00:00+00:00</published>
-    <updated>2026-05-07T00:00:00+00:00</updated>
-    <category term="Policy"/>
-  </entry>
-  <entry>
-    <title>Natural Language Autoencoders: Turning Claude’s thoughts into text</title>
-    <link href="https://www.anthropic.com/research/natural-language-autoencoders"/>
-    <id>45bfb03037b41eda1cbfb8e568b3e26b</id>
-    <published>2026-05-07T00:00:00+00:00</published>
-    <updated>2026-05-07T00:00:00+00:00</updated>
-    <category term="Interpretability"/>
   </entry>
   <entry>
     <title>Project Deal</title>

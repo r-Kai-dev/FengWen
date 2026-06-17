@@ -4,17 +4,38 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-06-15T00:00:00+00:00</updated>
+  <updated>2026-06-17T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Grok on Amazon Bedrock</title>
+    <link href="https://x.ai/news/grok-amazon-bedrock"/>
+    <id>46dd7931eee1515e8c21c5316ac7a051</id>
+    <published>2026-06-17T00:00:00+00:00</published>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <summary type="text">Grok models are now available via Amazon Bedrock.</summary>
+  </entry>
+  <entry>
+    <title>Grok Imagine Video 1.5</title>
+    <link href="https://x.ai/news/grok-imagine-video-1-5"/>
+    <id>169397f688e762dde02f2cd5d05c41b3</id>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Grok for PowerPoint</title>
+    <link href="https://x.ai/news/introducing-powerpoint-addin"/>
+    <id>29aba248627072d008562deef3fcf591</id>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Agent Dashboard in Grok Build</title>
     <link href="https://x.ai/news/agent-dashboard"/>
     <id>eaa8c2767475c67643e186981c36d57f</id>
     <published>2026-06-15T00:00:00+00:00</published>
     <updated>2026-06-15T00:00:00+00:00</updated>
-    <summary type="text">Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.</summary>
   </entry>
   <entry>
     <title>Use Grok in Warp</title>
@@ -29,6 +50,7 @@
     <id>6ca6c0c03eebbd9578050b23d8851d31</id>
     <published>2026-06-11T00:00:00+00:00</published>
     <updated>2026-06-11T00:00:00+00:00</updated>
+    <summary type="text">Launching the built-in plugin marketplace for Grok Build.</summary>
   </entry>
   <entry>
     <title>Bringing real-time market sentiment to Tori, from eToro</title>
@@ -36,6 +58,7 @@
     <id>c6cefb538260f781eec2acddafe0f33f</id>
     <published>2026-06-10T00:00:00+00:00</published>
     <updated>2026-06-10T00:00:00+00:00</updated>
+    <summary type="text">Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.</summary>
   </entry>
   <entry>
     <title>Powering Gopuff's Go agent</title>
@@ -43,6 +66,7 @@
     <id>c9fbae582b6ac361f2be7a9b084de1c9</id>
     <published>2026-06-09T00:00:00+00:00</published>
     <updated>2026-06-09T00:00:00+00:00</updated>
+    <summary type="text">Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.</summary>
   </entry>
   <entry>
     <title>Grok Becomes the Voice of Vapi</title>

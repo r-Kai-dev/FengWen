@@ -4,128 +4,128 @@
   <icon>https://alphasignal.ai/favicon.ico</icon>
   <link href="https://alphasignal.ai"/>
   <id>https://alphasignal.ai</id>
-  <updated>2026-06-15T16:37:08+00:00</updated>
+  <updated>2026-06-17T03:52:06+00:00</updated>
   <author>
-    <name>LMSYS Org</name>
+    <name>xAI</name>
   </author>
   <entry>
-    <title>Z Lab's DFlash Hits 4.3x Throughput by Drafting Tokens in Parallel</title>
-    <link href="https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2/"/>
-    <id>930dc95efd2200ead30e010beeff6921</id>
-    <published>2026-06-15T16:37:08+00:00</published>
-    <updated>2026-06-15T16:37:08+00:00</updated>
-    <summary type="text">LMSYS, Z Lab, and Modal jointly release DFlash + Spec V2, hitting 4.3x baseline throughput and becoming SGLang's new default speculative decoding engine</summary>
-    <category term="infra"/>
+    <title>xAI Ships Grok Imagine Video 1.5 With Native Audio and 2x Faster Generation</title>
+    <link href="https://grok.com/imagine"/>
+    <id>b5f17221aeb3c04157c707ade4e19f21</id>
+    <published>2026-06-17T03:52:06+00:00</published>
+    <updated>2026-06-17T03:52:06+00:00</updated>
+    <summary type="text">xAI's Grok Imagine Video 1.5 exits preview with native audio, faster generation, and the top spot on the image-to-video leaderboard</summary>
+    <category term="video"/>
     <category term="llms"/>
   </entry>
   <entry>
-    <title>Vercel's v0 Ships Agent Skills So AI Stops Forgetting Your Stack</title>
-    <link href="https://www.skills.sh/"/>
-    <id>d8895d502f8463d29aebbedb0e71ed62</id>
-    <published>2026-06-15T16:16:14+00:00</published>
-    <updated>2026-06-15T16:16:14+00:00</updated>
-    <summary type="text">v0 now lets you attach reusable agent skills directly from the prompt bar, pulling from skills.sh, your saved library, or your own repo</summary>
-    <category term="vibe_coding"/>
+    <title>Cursor's Origin Takes on GitHub With AI Agent-Scale Git Hosting</title>
+    <link href="https://cursor.com/origin-waitlist"/>
+    <id>8d4a0eecb286e961832c5b04de23b936</id>
+    <published>2026-06-16T22:31:31+00:00</published>
+    <updated>2026-06-16T22:31:31+00:00</updated>
+    <summary type="text">Cursor announces Origin, an agent-native Git hosting platform built to handle the throughput demands of parallel AI agents, taking direct aim at GitHub</summary>
     <category term="development"/>
-  </entry>
-  <entry>
-    <title>Lovable Ships a Preview Toolbar So You Click Instead of Describe</title>
-    <link href="https://x.com/lovable/status/2066536196788957198"/>
-    <id>98a0dd71cb8bf452ebabde44c0a5c964</id>
-    <published>2026-06-15T14:59:58+00:00</published>
-    <updated>2026-06-15T14:59:58+00:00</updated>
-    <summary type="text">Lovable's new preview toolbar replaces its old visual editor with four direct-manipulation modes, including free inline text edits and team comments pinned to your live app.</summary>
-    <category term="vibe_coding"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Remotion Turns Its React Video Framework Into a Drag-and-Drop Studio</title>
-    <link href="https://x.com/remotion/status/2066512957677150303"/>
-    <id>7f060c19eecbd31a09faa37749a1e6f4</id>
-    <published>2026-06-15T13:27:37+00:00</published>
-    <updated>2026-06-15T13:27:37+00:00</updated>
-    <summary type="text">Remotion Studio now lets you click, drag, and resize elements on the canvas, with every change writing back to your source code automatically.</summary>
-    <category term="development"/>
-    <category term="vibe_coding"/>
-  </entry>
-  <entry>
-    <title>Sarvam AI Raises $234M to Build India's First Sovereign AI Stack</title>
-    <link href="https://www.sarvam.ai/announcing-series-b"/>
-    <id>11c335a7c00a0316e507aa628f64c8b5</id>
-    <published>2026-06-15T12:47:38+00:00</published>
-    <updated>2026-06-15T12:47:38+00:00</updated>
-    <summary type="text">Sarvam AI closes $234M of a $300M Series B at a $1.5B valuation, with HCLTech anchoring a $150M bet on India's sovereign AI stack</summary>
-    <category term="business"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Moonshot AI's Kimi K2.7 Code Hits 260 Tokens per Second at 6x Speed</title>
-    <link href="https://www.kimi.com/code/beta"/>
-    <id>f2295dbf3326b092dd4afd14dc34b595</id>
-    <published>2026-06-15T10:25:27+00:00</published>
-    <updated>2026-06-15T10:25:27+00:00</updated>
-    <summary type="text">Moonshot AI's Kimi K2.7 Code gets a HighSpeed mode hitting 180â260 tok/s, making trillion-parameter agentic coding dramatically more responsive</summary>
-    <category term="development"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>vLLM v0.23.0 Ships DeepSeek-V4 Production Hardening and 56% Throughput Boost</title>
-    <link href="https://github.com/vllm-project/vllm/releases/tag/v0.23.0"/>
-    <id>9881129b927561d79100ca9fdbba8df8</id>
-    <published>2026-06-15T06:03:11+00:00</published>
-    <updated>2026-06-15T06:03:11+00:00</updated>
-    <summary type="text">vLLM v0.23.0 ships 408 commits from 200 contributors, maturing DeepSeek-V4 support, expanding Model Runner V2, and adding multi-tier KV cache offloading to object stores.</summary>
-    <category term="infra"/>
-    <category term="gpus"/>
-  </entry>
-  <entry>
-    <title>Sakana AI's Marlin Replaces Entire Research Teams With 8-Hour Autonomous Sessions</title>
-    <link href="https://sakana.ai/marlin-release/"/>
-    <id>def9e030eaa222ceb53508a4c6d37879</id>
-    <published>2026-06-15T02:48:31+00:00</published>
-    <updated>2026-06-15T02:48:31+00:00</updated>
-    <summary type="text">Sakana AI's first commercial product uses multi-model tree search to run autonomous strategy research sessions up to 8 hours long</summary>
-    <category term="reasoning"/>
     <category term="business"/>
   </entry>
   <entry>
-    <title>Suno Rebuilds Stem Separation From Scratch, Hitting 90% Accuracy</title>
-    <link href="https://x.com/suno/status/2065862499765821916"/>
-    <id>7567d6325c4929230ee78fe9ed65ce30</id>
-    <published>2026-06-13T18:22:56+00:00</published>
-    <updated>2026-06-13T18:22:56+00:00</updated>
-    <summary type="text">Suno's revamped stem separation now regenerates individual tracks from scratch, delivering artifact-free audio ready for professional DAW workflows.</summary>
-    <category term="audio"/>
-    <category term="development"/>
+    <title>Midjourney Reveals Its First Hardware Project, the Orb You Walk Inside</title>
+    <link href="https://x.com/midjourney/status/2066994481770213697"/>
+    <id>f8da5b568721a9972370d17a3eafc8ab</id>
+    <published>2026-06-16T21:21:02+00:00</published>
+    <updated>2026-06-16T21:21:02+00:00</updated>
+    <summary type="text">Midjourney is unveiling its first-ever physical product at a live San Francisco event â and the only clue is that you can go inside it.</summary>
+    <category term="image"/>
+    <category term="business"/>
   </entry>
   <entry>
-    <title>Databricks Open-Sources Omnigent to Unify and Govern Multiple AI Agents</title>
-    <link href="https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents?utm_source=twitter&amp;utm_medium=organic-social"/>
-    <id>c80ed0f1b2b598bfa2fc9ec48f32531d</id>
-    <published>2026-06-13T15:19:06+00:00</published>
-    <updated>2026-06-13T15:19:06+00:00</updated>
-    <summary type="text">Databricks open-sources Omnigent, a meta-harness that unifies Claude Code, Codex, and custom agents under one shared layer for composition, control, and real-time collaboration.</summary>
+    <title>NVIDIA's SpatialClaw Beats Every Spatial AI Agent by 11 Points Without Training</title>
+    <link href="https://spatialclaw.github.io/?linkId=100000426730902"/>
+    <id>310d0945807c854da2f7b455fedac1a9</id>
+    <published>2026-06-16T20:00:00+00:00</published>
+    <updated>2026-06-16T20:00:00+00:00</updated>
+    <summary type="text">NVIDIA Research's SpatialClaw uses a persistent Python kernel as its action interface, beating prior spatial agents by 11.2 points across 20 benchmarks with no training required.</summary>
     <category term="agents"/>
-    <category term="open_source"/>
+    <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>Warp Lets SuperGrok Subscribers Run xAI's Grok Build 0.1 Free</title>
-    <link href="https://x.com/warpdotdev/status/2065811741397930107"/>
-    <id>3a21e57b3c472165a62be73d4a24ce4a</id>
-    <published>2026-06-13T15:01:14+00:00</published>
-    <updated>2026-06-13T15:01:14+00:00</updated>
-    <summary type="text">Warp's AI terminal agent now connects directly to SuperGrok subscriptions, unlocking Grok Build 0.1 â xAI's purpose-built agentic coding model â without burning Warp credits.</summary>
+    <title>OpenAI's Deployment Simulation Caught a GPT-5.1 Bug Before It Shipped</title>
+    <link href="https://alignment.openai.com/validating-public-evals/"/>
+    <id>aa119d99f448d8031835a0a03c56835c</id>
+    <published>2026-06-16T19:42:18+00:00</published>
+    <updated>2026-06-16T19:42:18+00:00</updated>
+    <summary type="text">OpenAI's Deployment Simulation replays real user conversations with candidate models to predict safety failures before release, catching novel misalignments traditional red-teaming misses.</summary>
+    <category term="security"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Code Study Finds Domain Expertise Beats Coding Background</title>
+    <link href="https://www.anthropic.com/research/claude-code-expertise"/>
+    <id>35e2ec083876973dd8ea51850ad7e3ce</id>
+    <published>2026-06-16T19:41:53+00:00</published>
+    <updated>2026-06-16T19:41:53+00:00</updated>
+    <summary type="text">Anthropic's new economic research on 400K Claude Code sessions reveals that domain expertise, not coding background, is the real driver of success with AI coding agents</summary>
+    <category term="development"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>Exa Agent Collapses Web Research Into One API Call at Half the Cost</title>
+    <link href="https://auth.exa.ai/?callbackUrl=https%3A%2F%2Fdashboard.exa.ai%2Fplayground%2Fagent"/>
+    <id>851bd868fad000e0ea2cf8cd70db6c6a</id>
+    <published>2026-06-16T18:09:14+00:00</published>
+    <updated>2026-06-16T18:09:14+00:00</updated>
+    <summary type="text">Exa's new /agent endpoint delivers frontier web research with structured outputs at less than half the cost of GPT-5.5 or Claude Opus</summary>
+    <category term="agents"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Vercel's AI SDK 7 Lets Developers Swap Claude Code and Codex Like Models</title>
+    <link href="https://ai-sdk.dev/v7/docs/migration-guides/migration-guide-7-0"/>
+    <id>7e9eef7f49a680fbb4f732a4e843f79b</id>
+    <published>2026-06-16T18:00:15+00:00</published>
+    <updated>2026-06-16T18:00:15+00:00</updated>
+    <summary type="text">Vercel's AI SDK 7 beta lands with HarnessAgent for Claude Code and Codex, typed tool context, durable WorkflowAgent, and a new video generation API</summary>
     <category term="development"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>Z.ai's GLM-5.2 Hits 1M Context Window to Challenge Claude Code</title>
-    <link href="https://docs.z.ai/devpack/latest-model"/>
-    <id>bc9c92f411f3afc3fefa966edb5f058f</id>
-    <published>2026-06-13T07:56:46+00:00</published>
-    <updated>2026-06-13T07:56:46+00:00</updated>
-    <summary type="text">Z.ai's GLM-5.2 arrives as the new coding flagship with 1M-context support, two thinking-effort modes, and a full open-source MIT release coming next week</summary>
+    <title>Z.ai's GLM-5.2 Hits 1M Context at 10x Cheaper Than Claude</title>
+    <link href="https://huggingface.co/zai-org/GLM-5.2"/>
+    <id>6600c0d8c5a3132436f464f8416218a6</id>
+    <published>2026-06-16T17:40:19+00:00</published>
+    <updated>2026-06-16T17:40:19+00:00</updated>
+    <summary type="text">Z.ai's GLM-5.2 arrives with a 5x context jump to 1M tokens, dual reasoning modes, MIT open weights, and pricing roughly 10x cheaper than US frontier models</summary>
     <category term="llms"/>
     <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Google Research Maps England's Hidden Hedgerows With Satellite AI</title>
+    <link href="https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
+    <id>f2aecd7b3dc0599c072090997b354bfd</id>
+    <published>2026-06-16T17:34:48+00:00</published>
+    <updated>2026-06-16T17:34:48+00:00</updated>
+    <summary type="text">Google Research releases a vectorized ecological dataset for England, turning AI-detected hedgerows and copses into actionable conservation and carbon-accounting tools.</summary>
+    <category term="data"/>
+    <category term="image"/>
+  </entry>
+  <entry>
+    <title>Nous Research's Hermes Agent Can Now Spend Real Money Autonomously</title>
+    <link href="https://form.typeform.com/to/hpEifIK4"/>
+    <id>15b64f7330f7e745405eec2f7b874981</id>
+    <published>2026-06-16T16:30:48+00:00</published>
+    <updated>2026-06-16T16:30:48+00:00</updated>
+    <summary type="text">Nous Research, NVIDIA, and Stripe launch a $17,500+ hackathon to build AI agents that can autonomously earn, spend, and run real business operations using Hermes Agent's new financial and safety integrations.</summary>
+    <category term="agents"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>George Hotz's Tinygrad Crashes MLPerf With 25,000 Lines of Python</title>
+    <link href="https://x.com/__tinygrad__/status/2066919273390604648"/>
+    <id>aa75407e99d22f03cc51d7a715093ad2</id>
+    <published>2026-06-16T16:22:10+00:00</published>
+    <updated>2026-06-16T16:22:10+00:00</updated>
+    <summary type="text">Tiny Corp's 25,000-line open-source framework lands on the official MLPerf Training v6.0 leaderboard, training Llama 8B on AMD MI350X hardware with a fully custom software stack</summary>
+    <category term="training_infra"/>
+    <category term="gpus"/>
   </entry>
 </feed>

@@ -4,10 +4,20 @@
   <icon>https://lmsys.org/favicon.ico</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-06-15T00:00:00+00:00</updated>
+  <updated>2026-06-17T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Optimizing Ling-2.6-1T on TPU with SGLang-JAX: Hiding MoE Data Movement Behind Compute with One Pallas Kernel</title>
+    <link href="https://lmsys.org/blog/2026-06-17-ling-2-6-tpu"/>
+    <id>fb0d01b8eb072897627d255a880e319f</id>
+    <published>2026-06-17T00:00:00+00:00</published>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <summary type="text">SGLang-JAX now supports efficient serving of inclusionAI's Ling-2.6-1T on TPU v7x. With a working baseline in place, profiling pointed to the Mixture-of-Experts (MoE) path as the main bottleneck: each...</summary>
+    <category term="sglang"/>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>The next generation of speculative decoding: DFlash and Spec V2</title>
     <link href="https://lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2"/>

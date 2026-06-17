@@ -4,18 +4,32 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-06-07T00:00:00+00:00</updated>
+  <updated>2026-06-17T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
   <entry>
+    <title>Introducing The New LTX Trainer: One Framework, Every Training Mode</title>
+    <link href="https://ltx.io/blog/introducing-the-new-ltx-trainer-one-framework-every-training-mode"/>
+    <id>c7e7c7f6792cda640144128ba04a1b68</id>
+    <published>2026-06-17T00:00:00+00:00</published>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <summary type="text">LTX Trainer now supports video, audio, and cross-modal conditioning modes in one flexible framework: train LoRAs, IC-LoRAs, and full fine-tunes with full ownership.</summary>
+    <category term="Product Updates"/>
+  </entry>
+  <entry>
+    <title>Training Your First LoRA on LTX</title>
+    <link href="https://ltx.io/blog/training-your-first-lora-on-ltx"/>
+    <id>b3bf7e066d18309196af2e9d83c5a3b8</id>
+    <published>2026-06-17T00:00:00+00:00</published>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+  </entry>
+  <entry>
     <title>LTX and Asteria Partner to Bring AI Video to Cinematic Storytelling</title>
     <link href="https://ltx.io/blog/ltx-asteria-partnership"/>
     <id>c542e7076375f771780b405cf9b56925</id>
-    <published>2026-06-07T00:00:00+00:00</published>
-    <updated>2026-06-07T00:00:00+00:00</updated>
-    <summary type="text">LTX and Asteria form a strategic partnership to integrate AI video into professional filmmaking, powered by the LTX-2.3 open weights model.</summary>
-    <category term="Product Updates"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+    <updated>2026-06-15T00:00:00+00:00</updated>
   </entry>
   <entry>
     <title>Lipsync vs. LipDub in LTX-2.3: Differences &amp; When To Use Each</title>
@@ -200,23 +214,9 @@
     <updated>2026-05-01T00:00:00+00:00</updated>
   </entry>
   <entry>
-    <title>How To Train A LoRA For Video Generation</title>
-    <link href="https://ltx.io/blog/how-to-fine-tune-a-video-generation-model-with-lora"/>
-    <id>95a87091ae3557c13ff6fb5b042a081c</id>
-    <published>2026-04-30T00:00:00+00:00</published>
-    <updated>2026-04-30T00:00:00+00:00</updated>
-  </entry>
-  <entry>
     <title>LTX Video Model Commercial Licensing: What It Means to Own the Model You Build On</title>
     <link href="https://ltx.io/blog/ltx-licensing-explained"/>
     <id>ca9193cb52d0e49d930dfc5b87816095</id>
-    <published>2026-04-30T00:00:00+00:00</published>
-    <updated>2026-04-30T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>What Is Latent Space? A Visual Explanation for Video Generation</title>
-    <link href="https://ltx.io/blog/what-is-latent-space"/>
-    <id>9073e3ab27c33b857404eaddb84cfd09</id>
     <published>2026-04-30T00:00:00+00:00</published>
     <updated>2026-04-30T00:00:00+00:00</updated>
   </entry>

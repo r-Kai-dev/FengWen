@@ -4,17 +4,59 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/"/>
   <id>https://learnprompt.github.io/ai-news-radar/</id>
-  <updated>2026-06-15T20:15:31+00:00</updated>
+  <updated>2026-06-17T18:16:30+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>面向初学者的 GitHub Copilot CLI：常见斜杠命令概述 / GitHub Copilot CLI for Beginners: Overview of common slash commands</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands"/>
-    <id>2551dee4ee095ab7ff1b494345fcbc3b</id>
-    <published>2026-06-15T20:15:31+00:00</published>
-    <updated>2026-06-15T20:15:31+00:00</updated>
-    <summary type="text">Score: 0.870
+    <title>Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国</title>
+    <link href="https://x.com/kimmonismus/status/2067310431669223425"/>
+    <id>948a14bd8831beb7fd597129e2d2e612</id>
+    <published>2026-06-17T18:16:30+00:00</published>
+    <updated>2026-06-17T18:16:30+00:00</updated>
+    <summary type="text">Score: 0.809
+Sources: 1 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>用SGLang-JAX在TPU上优化Ling-2.6-1T：一个Pallas核将MoE数据移动隐藏在计算中</title>
+    <link href="https://www.lmsys.org/blog/2026-06-17-ling-2-6-tpu"/>
+    <id>247b865fdbaf576308f6194bc308469f</id>
+    <published>2026-06-17T17:53:38+00:00</published>
+    <updated>2026-06-17T17:53:38+00:00</updated>
+    <summary type="text">Score: 0.805
+Sources: 1 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Vercel 发布开源 AI 智能体框架 Eve：每个智能体就是一个文件目录</title>
+    <link href="https://www.marktechpost.com/2026/06/17/vercel-releases-eve"/>
+    <id>fd0a1897f1e028eadc3c59480ef0f94b</id>
+    <published>2026-06-17T17:22:51+00:00</published>
+    <updated>2026-06-17T17:22:51+00:00</updated>
+    <summary type="text">Score: 0.801
+Sources: 1 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>企业管理的设置现在支持绕过权限控制 / Enterprise-managed settings now support bypass permission controls</title>
+    <link href="https://github.blog/changelog/2026-06-17-enterprise-managed-settings-now-support-bypass-permission-controls"/>
+    <id>515fef5f2ed7b21efc1690889c32080c</id>
+    <published>2026-06-17T17:13:47+00:00</published>
+    <updated>2026-06-17T17:13:47+00:00</updated>
+    <summary type="text">Score: 0.849
 Sources: 1 (Official AI Updates)
 Importance: 官方更新</summary>
     <category term="官方更新"/>
@@ -24,26 +66,25 @@ Importance: 官方更新</summary>
     <category term="official"/>
   </entry>
   <entry>
-    <title>利用新的开放数据集加速研究人员和开发人员构建多语言人工智能 / Accelerating researchers and developers building multilingual AI with a new open dataset</title>
-    <link href="https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset"/>
-    <id>f34a45d3b30e07ff6bd4dc78fd0eeba2</id>
-    <published>2026-06-15T19:17:30+00:00</published>
-    <updated>2026-06-15T19:17:30+00:00</updated>
-    <summary type="text">Score: 0.859
-Sources: 1 (Official AI Updates)
-Importance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>NVIDIA GEAR实验室发布ENPIRE：8个Codex智能体自主控制机器人完成物理实验</title>
+    <link href="https://x.com/DrJimFan/status/2067283904986517866"/>
+    <id>47fe81c66a93150eab20c1016622fdf2</id>
+    <published>2026-06-17T16:31:05+00:00</published>
+    <updated>2026-06-17T16:31:05+00:00</updated>
+    <summary type="text">Score: 0.794
+Sources: 1 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Meta 在 Facebook 上线&quot;AI Mode&quot;，基于平台公开信息合成答案</title>
-    <link href="https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms"/>
-    <id>f9d5c98c8603ce08767e37f8973d4370</id>
-    <published>2026-06-15T18:30:58+00:00</published>
-    <updated>2026-06-15T18:30:58+00:00</updated>
+    <title>Google发布99美元Gemini智能音箱</title>
+    <link href="https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker"/>
+    <id>eb91c3b2866b96477c755952eca44516</id>
+    <published>2026-06-17T16:30:09+00:00</published>
+    <updated>2026-06-17T16:30:09+00:00</updated>
     <summary type="text">Score: 0.819
 Sources: 2 (AI HOT)
 Importance: 行业动态</summary>
@@ -54,12 +95,57 @@ Importance: 行业动态</summary>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenRouter新增免费模型gpt-oss-20b和Gemma4 26B</title>
-    <link href="https://x.com/OpenRouter/status/2066585705581797616"/>
-    <id>4546f7b63ab7d1f742a7590b7cccee33</id>
-    <published>2026-06-15T18:16:42+00:00</published>
-    <updated>2026-06-15T18:16:42+00:00</updated>
-    <summary type="text">Score: 0.792
+    <title>Copilot Chat 中的自动模式可供所有用户使用 / Auto mode in Copilot Chat available for all users</title>
+    <link href="https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users"/>
+    <id>aa6b21be3bcdda2e2a242ee147d0118d</id>
+    <published>2026-06-17T16:24:33+00:00</published>
+    <updated>2026-06-17T16:24:33+00:00</updated>
+    <summary type="text">Score: 0.854
+Sources: 1 (Official AI Updates)
+Importance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>限制没有写访问权限的用户打开拉取请求 / Limit open pull requests for users without write access</title>
+    <link href="https://github.blog/changelog/2026-06-17-limit-open-pull-requests-for-users-without-write-access"/>
+    <id>64471ba18091021600e7009ca0ac9c2e</id>
+    <published>2026-06-17T16:23:56+00:00</published>
+    <updated>2026-06-17T16:23:56+00:00</updated>
+    <summary type="text">Score: 0.842
+Sources: 1 (Official AI Updates)
+Importance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot 的代理查找器现已推出 / Agent finder for GitHub Copilot now available</title>
+    <link href="https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available"/>
+    <id>b65e3045b79db7397ab249fd30642a25</id>
+    <published>2026-06-17T16:21:56+00:00</published>
+    <updated>2026-06-17T16:21:56+00:00</updated>
+    <summary type="text">Score: 0.854
+Sources: 1 (Official AI Updates)
+Importance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>谷歌发布Agentic Resource Discovery（ARD）开放规范</title>
+    <link href="https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification"/>
+    <id>fec18f05a3681e898187e05b92bf1bd9</id>
+    <published>2026-06-17T16:08:36+00:00</published>
+    <updated>2026-06-17T16:08:36+00:00</updated>
+    <summary type="text">Score: 0.791
 Sources: 1 (AI HOT)
 Importance: 行业动态</summary>
     <category term="行业动态"/>
@@ -68,12 +154,12 @@ Importance: 行业动态</summary>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>下一代投机解码：DFlash 与 Spec V2</title>
-    <link href="https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2"/>
-    <id>8b828a2b87bb21bdc316343a331de231</id>
-    <published>2026-06-15T17:25:17+00:00</published>
-    <updated>2026-06-15T17:25:17+00:00</updated>
-    <summary type="text">Score: 0.785
+    <title>Omnigent开源：AI智能体团队元框架</title>
+    <link href="https://x.com/Yuchenj_UW/status/2067273020352380950"/>
+    <id>6eef745579f26d63a91956d719130f6c</id>
+    <published>2026-06-17T15:47:50+00:00</published>
+    <updated>2026-06-17T15:47:50+00:00</updated>
+    <summary type="text">Score: 0.788
 Sources: 1 (AI HOT)
 Importance: 行业动态</summary>
     <category term="行业动态"/>
@@ -82,25 +168,42 @@ Importance: 行业动态</summary>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>17 岁高中生做了个假 AI，上线一个月获 2.8 亿次访问</title>
-    <link href="https://www.huxiu.com/article/4867564.html?f=rss"/>
-    <id>3ea9616a572d24c9e522be38288d0de3</id>
-    <published>2026-06-15T17:07:34+00:00</published>
-    <updated>2026-06-15T17:07:34+00:00</updated>
-    <summary type="text">Score: 0.548
-Sources: 2 (TopHub)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
+    <title>MolmoMotion：语言引导的3D运动预测模型</title>
+    <link href="https://huggingface.co/blog/allenai/molmomotion"/>
+    <id>305259799b01579333fee71fcb8abcbf</id>
+    <published>2026-06-17T15:26:44+00:00</published>
+    <updated>2026-06-17T15:26:44+00:00</updated>
+    <summary type="text">Score: 0.810
+Sources: 2 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="multi_source"/>
-    <category term="watch"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Nvidia 加入 AI 债务热潮，发行 200 亿美元债券</title>
-    <link href="https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale"/>
-    <id>bf03298cc58eaec5ab1cdae985a23dd8</id>
-    <published>2026-06-15T15:43:04+00:00</published>
-    <updated>2026-06-15T15:43:04+00:00</updated>
-    <summary type="text">Score: 0.771
+    <title>Google 医学推理 AI 系统 AMIE 新研究：从诊断迈向长期疾病管理</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature"/>
+    <id>6bac8b4fcbfefffb2d6eca9b03d198b7</id>
+    <published>2026-06-17T15:00:00+00:00</published>
+    <updated>2026-06-17T15:00:00+00:00</updated>
+    <summary type="text">Score: 0.806
+Sources: 2 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Cloudflare 发布 Cloudflare One stack：智能体驱动的部署工具集</title>
+    <link href="https://blog.cloudflare.com/cloudflare-one-stack"/>
+    <id>0d24e555adbba9d1b431c76e1aa37dff</id>
+    <published>2026-06-17T13:00:00+00:00</published>
+    <updated>2026-06-17T13:00:00+00:00</updated>
+    <summary type="text">Score: 0.765
 Sources: 1 (AI HOT)
 Importance: 行业动态</summary>
     <category term="行业动态"/>
@@ -109,177 +212,93 @@ Importance: 行业动态</summary>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>我的家庭实验室 AI 开发平台</title>
-    <link href="https://rsgm.dev/post/ai-dev-platform"/>
-    <id>39b9e078c81c5849a819c5d821f39697</id>
-    <published>2026-06-15T15:09:40+00:00</published>
-    <updated>2026-06-15T15:09:40+00:00</updated>
-    <summary type="text">Score: 0.556
-Sources: 3 (Buzzing)
+    <title>阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界</title>
+    <link href="https://www.ithome.com/0/965/652.htm"/>
+    <id>ec583af8630b6ea5d96ad06ac3af48db</id>
+    <published>2026-06-17T12:46:59+00:00</published>
+    <updated>2026-06-17T12:46:59+00:00</updated>
+    <summary type="text">Score: 0.763
+Sources: 1 (AI HOT)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI被曝正筹备发布新一代双向语音模型“GPT-Bidi-1”</title>
+    <link href="https://www.aibase.com/news/28990"/>
+    <id>86473b7c102b23c21940d91f3d8518a4</id>
+    <published>2026-06-17T12:16:14.344951+00:00</published>
+    <updated>2026-06-17T12:16:14.344951+00:00</updated>
+    <summary type="text">Score: 0.758
+Sources: 1 (AIbase)
+Importance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Strands Robots SDK：用单一智能体打通 Hugging Face Hub 到物理机器人 / From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot</title>
+    <link href="https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"/>
+    <id>87283bdb9cfac583a78f6a1c388fb441</id>
+    <published>2026-06-17T10:18:05+00:00</published>
+    <updated>2026-06-17T10:18:05+00:00</updated>
+    <summary type="text">Score: 0.849
+Sources: 2 (Official AI Updates)
+Importance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应 / A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry</title>
+    <link href="https://openai.com/index/ai-chemist-improves-reaction"/>
+    <id>8c15bbb1acbc043be63187b4057e84cb</id>
+    <published>2026-06-17T10:00:00+00:00</published>
+    <updated>2026-06-17T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.835
+Sources: 2 (Official AI Updates)
+Importance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GLM-5.2：专为长期任务而设计 / GLM-5.2: Built for Long-Horizon Tasks</title>
+    <link href="https://huggingface.co/blog/zai-org/glm-52-blog"/>
+    <id>411859801f13f9a341173890af0918d0</id>
+    <published>2026-06-17T09:01:25+00:00</published>
+    <updated>2026-06-17T09:01:25+00:00</updated>
+    <summary type="text">Score: 0.804
+Sources: 1 (Official AI Updates)
+Importance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能</title>
+    <link href="https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality"/>
+    <id>a8d2ff600a853405285b18841fbfc249</id>
+    <published>2026-06-16T23:15:44+00:00</published>
+    <updated>2026-06-16T23:15:44+00:00</updated>
+    <summary type="text">Score: 0.760
+Sources: 4 (AI HOT)
 Importance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>MiniMax 开源 M3 模型权重及 MSA 技术论文</title>
-    <link href="https://mp.weixin.qq.com/s/AW6L89QZkwN-jD27hQ84ww"/>
-    <id>1c46b89ac22dd8aee52494d40b87fc1b</id>
-    <published>2026-06-15T14:40:02+00:00</published>
-    <updated>2026-06-15T14:40:02+00:00</updated>
-    <summary type="text">Score: 0.762
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Salesforce以36亿美元收购AI客服平台Fin</title>
-    <link href="https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b"/>
-    <id>94b4bc8ec3a99e16a1e2609c748fe38c</id>
-    <published>2026-06-15T14:34:45+00:00</published>
-    <updated>2026-06-15T14:34:45+00:00</updated>
-    <summary type="text">Score: 0.786
-Sources: 2 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Skydio CEO Adam Bry：硅谷不应为无人机使用画红线</title>
-    <link href="https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military"/>
-    <id>5ae5e04cf3c67cbc7decb027880f3e3c</id>
-    <published>2026-06-15T14:00:00+00:00</published>
-    <updated>2026-06-15T14:00:00+00:00</updated>
-    <summary type="text">Score: 0.757
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AI合规再升级：Anthropic拟对全量用户实施身份认证</title>
-    <link href="https://www.aibase.com/news/28928"/>
-    <id>d1217eda439c458396f53bd5aaa7b5ae</id>
-    <published>2026-06-15T12:14:22.093362+00:00</published>
-    <updated>2026-06-15T12:14:22.093362+00:00</updated>
-    <summary type="text">Score: 0.742
-Sources: 1 (AIbase)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AI圈大反转：巴西“黑马”模型Rio 3. 5 被曝“套壳”国产大模型</title>
-    <link href="https://www.aibase.com/news/28919"/>
-    <id>a2792e428aa6812a457a453ae3b403ac</id>
-    <published>2026-06-15T12:14:22.093362+00:00</published>
-    <updated>2026-06-15T12:14:22.093362+00:00</updated>
-    <summary type="text">Score: 0.742
-Sources: 1 (AIbase)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI豪掷1. 5 亿美元：构建全球合作伙伴网络，深耕企业AI落地</title>
-    <link href="https://www.aibase.com/news/28929"/>
-    <id>90e6385e2e2b014e9e4d1ca733b75226</id>
-    <published>2026-06-15T12:14:22.093362+00:00</published>
-    <updated>2026-06-15T12:14:22.093362+00:00</updated>
-    <summary type="text">Score: 0.742
-Sources: 1 (AIbase)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>​巴西AI黑马Rio 3. 5 翻车：被指套壳缝合两款国产大模型</title>
-    <link href="https://www.aibase.com/news/28913"/>
-    <id>92b68248ae03b2eeaec2ecc085203db5</id>
-    <published>2026-06-15T12:14:22.093362+00:00</published>
-    <updated>2026-06-15T12:14:22.093362+00:00</updated>
-    <summary type="text">Score: 0.742
-Sources: 1 (AIbase)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>“AI教父”神预言？Anthropic因长期唱衰自家产品反遭美国出口管制</title>
-    <link href="https://www.aibase.com/news/28917"/>
-    <id>3a0764a7100a5a3c86dc24ec3aaf5c9d</id>
-    <published>2026-06-15T12:14:22.093362+00:00</published>
-    <updated>2026-06-15T12:14:22.093362+00:00</updated>
-    <summary type="text">Score: 0.742
-Sources: 1 (AIbase)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>元宝正式打通ima公开知识库，搜索结果新增专业信源</title>
-    <link href="https://www.aibase.com/news/28918"/>
-    <id>39542ad2c329beb04fcb99d562bba6d9</id>
-    <published>2026-06-15T12:14:22.093362+00:00</published>
-    <updated>2026-06-15T12:14:22.093362+00:00</updated>
-    <summary type="text">Score: 0.742
-Sources: 1 (AIbase)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>全渠道销量夺冠！千问AI眼镜引爆智能穿戴新风口</title>
-    <link href="https://www.aibase.com/news/28926"/>
-    <id>9d883c8ec4532584da9420329d5291d3</id>
-    <published>2026-06-15T12:14:22.093362+00:00</published>
-    <updated>2026-06-15T12:14:22.093362+00:00</updated>
-    <summary type="text">Score: 0.742
-Sources: 1 (AIbase)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>6倍速！Kimi K2.7 Code 高速版已上线</title>
-    <link href="https://mp.weixin.qq.com/s/p87ebkY1xqKtkGZ2N3DGSw"/>
-    <id>0f6dcb4a9c26a6d0fadbda74bac632ee</id>
-    <published>2026-06-15T10:26:06+00:00</published>
-    <updated>2026-06-15T10:26:06+00:00</updated>
-    <summary type="text">Score: 0.727
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AI裁员浪潮成为火药桶</title>
-    <link href="https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg"/>
-    <id>9b966918d23421107d26f1025aee0544</id>
-    <published>2026-06-15T07:25:41+00:00</published>
-    <updated>2026-06-15T07:25:41+00:00</updated>
-    <summary type="text">Score: 0.727
-Sources: 2 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
   </entry>
 </feed>

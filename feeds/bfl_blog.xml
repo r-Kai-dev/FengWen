@@ -4,10 +4,19 @@
   <icon>https://bfl.ai/favicon.ico</icon>
   <link href="https://bfl.ai/blog"/>
   <id>https://bfl.ai/blog</id>
-  <updated>2026-05-28T16:37:00.000Z</updated>
+  <updated>2026-06-04T00:06:00.000Z</updated>
   <author>
     <name>Black Forest Labs</name>
   </author>
+  <entry>
+    <title>FLUX.2 is now on device: ASUS ProArt laptops now support Klein models</title>
+    <link href="https://bfl.ai/blog/flux2-klein-on-device"/>
+    <id>ef3622c59f2ebe3a95c5be265ad0b159</id>
+    <published>2026-06-04T00:06:00.000Z</published>
+    <updated>2026-06-04T00:06:00.000Z</updated>
+    <summary type="text">For the first time a FLUX model will ship on consumer hardware. In partnership with ASUS and NVIDIA, creators picking up a new ASUS ProArt laptop will find FLUX.2 [klein] optimized for the device.</summary>
+    <category term="Products"/>
+  </entry>
   <entry>
     <title>FLUX VTO: Virtual Try-On at scale</title>
     <link href="https://bfl.ai/blog/flux-vto-virtual-try-on-at-catalog-scale"/>

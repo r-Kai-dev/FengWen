@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-06-12T00:00:00+00:00</updated>
+  <updated>2026-06-17T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>MolmoMotion: Language-guided 3D motion forecasting</title>
+    <link href="https://allenai.org/blog/molmo-motion"/>
+    <id>e426f9dea8be7b06c8639b808b3cd933</id>
+    <published>2026-06-17T00:00:00+00:00</published>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>olmo-eval: An evaluation workbench for the model development loop</title>
     <link href="https://allenai.org/blog/olmo-eval"/>
@@ -63,12 +70,5 @@
     <id>871621797386c8c928777ca927cedee2</id>
     <published>2026-04-23T00:00:00+00:00</published>
     <updated>2026-04-23T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Train separately, merge together: Modular post-training with mixture-of-experts</title>
-    <link href="https://allenai.org/blog/bar"/>
-    <id>8e41ffd6cb8ea31f1fe26b3461db84fa</id>
-    <published>2026-04-20T00:00:00+00:00</published>
-    <updated>2026-04-20T00:00:00+00:00</updated>
   </entry>
 </feed>
