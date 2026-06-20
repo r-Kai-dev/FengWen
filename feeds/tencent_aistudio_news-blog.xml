@@ -4,7 +4,7 @@
   <icon>https://cdn-portal.hunyuan.tencent.com/public/static/logo/favicon.png</icon>
   <link href="https://aistudio.tencent.com/news/blog"/>
   <id>https://aistudio.tencent.com/news/blog</id>
-  <updated>2026-06-17T21:04:10.291999+00:00</updated>
+  <updated>2026-06-20T12:59:04.173951+00:00</updated>
   <author>
     <name>Tencent Hunyuan</name>
   </author>
@@ -12,72 +12,72 @@
     <title>10亿红包后，我们打算开源这个800亿的模型</title>
     <link href="https://mp.weixin.qq.com/s/VG-H6sxbSvT7sUoPuM8fIQ"/>
     <id>65f0d5536f58a8648640fe2a6d7fdcd3</id>
-    <published>2026-06-17T21:04:10.291999+00:00</published>
-    <updated>2026-06-17T21:04:10.291999+00:00</updated>
+    <published>2026-06-20T12:59:04.173951+00:00</published>
+    <updated>2026-06-20T12:59:04.173951+00:00</updated>
     <summary type="text">在最新全球权威大模型竞技场 LMArena 的Image Edit（图片编辑）榜单上，腾讯混元图像3.0图生图位列全球第七，进入第一梯队，成为全球最强的开源图生图模型。</summary>
   </entry>
   <entry>
     <title>混元研究博客上线姚顺雨团队最新成果：从 Context 探索语言模型的范式转变</title>
     <link href="https://mp.weixin.qq.com/s/iCs7RvTSiejgugleUD6GyA"/>
     <id>ed9e5103869fdc37038e10ac285ba9e0</id>
-    <published>2026-06-17T21:04:10.291239+00:00</published>
-    <updated>2026-06-17T21:04:10.291239+00:00</updated>
+    <published>2026-06-20T12:59:04.173100+00:00</published>
+    <updated>2026-06-20T12:59:04.173100+00:00</updated>
     <summary type="text">“模型想要迈向高价值应用，核心瓶颈就在于能否用好 Context。”</summary>
   </entry>
   <entry>
     <title>腾讯混元AI Infra核心技术重磅开源：推理吞吐提升30%</title>
     <link href="https://mp.weixin.qq.com/s/zyDXLiRJWhol-Uvq72efOQ"/>
     <id>535e79b00327bab2d84e8827932c3fea</id>
-    <published>2026-06-17T21:04:10.290386+00:00</published>
-    <updated>2026-06-17T21:04:10.290386+00:00</updated>
+    <published>2026-06-20T12:59:04.172249+00:00</published>
+    <updated>2026-06-20T12:59:04.172249+00:00</updated>
     <summary type="text">推出开源生产级高性能LLM推理核心算子库 HPC-Ops。</summary>
   </entry>
   <entry>
     <title>首个产业级2Bit量化新突破，腾讯混元开源0.3B端侧模型</title>
     <link href="https://mp.weixin.qq.com/s/m3Sr4fRLAvc7C6MV1RR-ew"/>
     <id>fff2b4cbabe1e1d4c08336871b1cfb4d</id>
-    <published>2026-06-17T21:04:10.289540+00:00</published>
-    <updated>2026-06-17T21:04:10.289540+00:00</updated>
+    <published>2026-06-20T12:59:04.171476+00:00</published>
+    <updated>2026-06-20T12:59:04.171476+00:00</updated>
     <summary type="text">基于首个产业级2Bit端侧量化方案，腾讯混元今天正式推出一款面向消费级硬件场景的“极小”模型HY-1.8B-2Bit，等效参数量仅有0.3B，内存占用仅600MB，比常用的一些手机应用还小。</summary>
   </entry>
   <entry>
     <title>腾讯混元新研究：瞄准强化学习“工程深水区”</title>
     <link href="https://mp.weixin.qq.com/s/Wws3lqxByiZPrXNlEZWYrQ"/>
     <id>0d492c1a9b707f5892910d0042829033</id>
-    <published>2026-06-17T21:04:10.288752+00:00</published>
-    <updated>2026-06-17T21:04:10.288752+00:00</updated>
+    <published>2026-06-20T12:59:04.170604+00:00</published>
+    <updated>2026-06-20T12:59:04.170604+00:00</updated>
     <summary type="text">这篇博客提出了异常梯度定位器GradLoc，可以将全局Gradient Spike定位到具体出现问题的token上，助力系统性解决强化学习中训练不稳定的问题，让开发者不再依赖直觉试错，而是基于确凿的数据证据进行“确定性”的算法迭代。</summary>
   </entry>
   <entry>
     <title>CVPR 2026录取结果公布，腾讯混元25+论文入选</title>
     <link href="https://mp.weixin.qq.com/s/5AnjMWjREWCOVP_dNp3icw"/>
     <id>8fa61545fde92a7fc6473f9374494c60</id>
-    <published>2026-06-17T21:04:10.288403+00:00</published>
-    <updated>2026-06-17T21:04:10.288403+00:00</updated>
+    <published>2026-06-20T12:59:04.169762+00:00</published>
+    <updated>2026-06-20T12:59:04.169762+00:00</updated>
     <summary type="text">据不完全统计，腾讯混元超过25篇论文入选本届CVPR大会</summary>
   </entry>
   <entry>
     <title>新范式！腾讯混元提出HY-WU(无相)，让模型实时生成参数“换脑”</title>
     <link href="https://mp.weixin.qq.com/s/obFDE56Ramxn_L8-2VFAaw"/>
     <id>f3181748035f7a19896e22258330c955</id>
-    <published>2026-06-17T21:04:10.288047+00:00</published>
-    <updated>2026-06-17T21:04:10.288047+00:00</updated>
+    <published>2026-06-20T12:59:04.168985+00:00</published>
+    <updated>2026-06-20T12:59:04.168985+00:00</updated>
     <summary type="text">腾讯混元团队将HY-WU （混元无相）应用在各大开源图形编辑基模上，有效扩充了基模的功能性记忆，在图形编辑任务上普遍取得了更好的内容理解、指令遵循和生成质量。</summary>
   </entry>
   <entry>
     <title>混元世界模型再进化：开源首个面向世界模型的强化学习后训练框架WorldCompass</title>
     <link href="https://mp.weixin.qq.com/s/yaMJG6oxw-FjWfKFK574mA"/>
     <id>6ae9534c7464dab1c0d1ab62f878c2ed</id>
-    <published>2026-06-17T21:04:10.287280+00:00</published>
-    <updated>2026-06-17T21:04:10.287280+00:00</updated>
+    <published>2026-06-20T12:59:04.168637+00:00</published>
+    <updated>2026-06-20T12:59:04.168637+00:00</updated>
     <summary type="text">腾讯混元3D团队开源业界首个面向世界模型的强化学习后训练框架WorldCompass，这是此前发布的混元世界模型1.5 官方强化学习扩展模块，能够让世界模型的交互更加准确，体验更好。</summary>
   </entry>
   <entry>
     <title>腾讯混元 Hy3 preview 语言模型发布并开源</title>
     <link href="https://mp.weixin.qq.com/s/5_nUI2mDchlwoedinFUMeA"/>
     <id>55888deaed605585da61a628b80c1b33</id>
-    <published>2026-06-17T21:04:10.286508+00:00</published>
-    <updated>2026-06-17T21:04:10.286508+00:00</updated>
+    <published>2026-06-20T12:59:04.168247+00:00</published>
+    <updated>2026-06-20T12:59:04.168247+00:00</updated>
     <summary type="text">快慢思考融合的混合专家模型，总参数 295B，激活参数 21B，最大支持 256K 上下文长度</summary>
   </entry>
   <entry>
@@ -85,8 +85,8 @@
 小程序「腾讯Hy翻译」开放体验</title>
     <link href="https://mp.weixin.qq.com/s/a_GPa-brAIB5aqXyd8W4-Q"/>
     <id>686981985e837b69542a5ba76e084f5c</id>
-    <published>2026-06-17T21:04:10.286076+00:00</published>
-    <updated>2026-06-17T21:04:10.286076+00:00</updated>
+    <published>2026-06-20T12:59:04.167733+00:00</published>
+    <updated>2026-06-20T12:59:04.167733+00:00</updated>
     <summary type="text">Hy-MT2 是支持 33 种语言互译的多语言模型，其中7B 和 30B-A3B模型在各类翻译任务上达到了开源模型最佳效果，超越了几十倍参数量的模型，轻量级的 1.8B 模型也超越了微软等主流商业 API，且得益于 AngelSlim 1.25-bit 极端量化，仅需 440MB 存储空间，可以轻松部署在主流手机芯片上支持本地推理，相比Hy-MT1.5推理速度提升 1.5 倍。</summary>
   </entry>
 </feed>

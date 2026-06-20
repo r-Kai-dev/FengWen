@@ -4,128 +4,128 @@
   <icon>https://alphasignal.ai/favicon.ico</icon>
   <link href="https://alphasignal.ai"/>
   <id>https://alphasignal.ai</id>
-  <updated>2026-06-17T03:52:06+00:00</updated>
+  <updated>2026-06-19T19:48:10+00:00</updated>
   <author>
-    <name>xAI</name>
+    <name>Exa</name>
   </author>
   <entry>
-    <title>xAI Ships Grok Imagine Video 1.5 With Native Audio and 2x Faster Generation</title>
-    <link href="https://grok.com/imagine"/>
-    <id>b5f17221aeb3c04157c707ade4e19f21</id>
-    <published>2026-06-17T03:52:06+00:00</published>
-    <updated>2026-06-17T03:52:06+00:00</updated>
-    <summary type="text">xAI's Grok Imagine Video 1.5 exits preview with native audio, faster generation, and the top spot on the image-to-video leaderboard</summary>
-    <category term="video"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Cursor's Origin Takes on GitHub With AI Agent-Scale Git Hosting</title>
-    <link href="https://cursor.com/origin-waitlist"/>
-    <id>8d4a0eecb286e961832c5b04de23b936</id>
-    <published>2026-06-16T22:31:31+00:00</published>
-    <updated>2026-06-16T22:31:31+00:00</updated>
-    <summary type="text">Cursor announces Origin, an agent-native Git hosting platform built to handle the throughput demands of parallel AI agents, taking direct aim at GitHub</summary>
-    <category term="development"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Midjourney Reveals Its First Hardware Project, the Orb You Walk Inside</title>
-    <link href="https://x.com/midjourney/status/2066994481770213697"/>
-    <id>f8da5b568721a9972370d17a3eafc8ab</id>
-    <published>2026-06-16T21:21:02+00:00</published>
-    <updated>2026-06-16T21:21:02+00:00</updated>
-    <summary type="text">Midjourney is unveiling its first-ever physical product at a live San Francisco event â and the only clue is that you can go inside it.</summary>
-    <category term="image"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>NVIDIA's SpatialClaw Beats Every Spatial AI Agent by 11 Points Without Training</title>
-    <link href="https://spatialclaw.github.io/?linkId=100000426730902"/>
-    <id>310d0945807c854da2f7b455fedac1a9</id>
-    <published>2026-06-16T20:00:00+00:00</published>
-    <updated>2026-06-16T20:00:00+00:00</updated>
-    <summary type="text">NVIDIA Research's SpatialClaw uses a persistent Python kernel as its action interface, beating prior spatial agents by 11.2 points across 20 benchmarks with no training required.</summary>
-    <category term="agents"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>OpenAI's Deployment Simulation Caught a GPT-5.1 Bug Before It Shipped</title>
-    <link href="https://alignment.openai.com/validating-public-evals/"/>
-    <id>aa119d99f448d8031835a0a03c56835c</id>
-    <published>2026-06-16T19:42:18+00:00</published>
-    <updated>2026-06-16T19:42:18+00:00</updated>
-    <summary type="text">OpenAI's Deployment Simulation replays real user conversations with candidate models to predict safety failures before release, catching novel misalignments traditional red-teaming misses.</summary>
-    <category term="security"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Code Study Finds Domain Expertise Beats Coding Background</title>
-    <link href="https://www.anthropic.com/research/claude-code-expertise"/>
-    <id>35e2ec083876973dd8ea51850ad7e3ce</id>
-    <published>2026-06-16T19:41:53+00:00</published>
-    <updated>2026-06-16T19:41:53+00:00</updated>
-    <summary type="text">Anthropic's new economic research on 400K Claude Code sessions reveals that domain expertise, not coding background, is the real driver of success with AI coding agents</summary>
-    <category term="development"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Exa Agent Collapses Web Research Into One API Call at Half the Cost</title>
-    <link href="https://auth.exa.ai/?callbackUrl=https%3A%2F%2Fdashboard.exa.ai%2Fplayground%2Fagent"/>
-    <id>851bd868fad000e0ea2cf8cd70db6c6a</id>
-    <published>2026-06-16T18:09:14+00:00</published>
-    <updated>2026-06-16T18:09:14+00:00</updated>
-    <summary type="text">Exa's new /agent endpoint delivers frontier web research with structured outputs at less than half the cost of GPT-5.5 or Claude Opus</summary>
-    <category term="agents"/>
+    <title>Exa Agent Brings $2.2B Semantic Search Directly Into Google Sheets</title>
+    <link href="https://workspace.google.com/marketplace/app/exa_ai/465545439521"/>
+    <id>78970df11bd7cb51370e5329c897c7b6</id>
+    <published>2026-06-19T19:48:10+00:00</published>
+    <updated>2026-06-19T19:48:10+00:00</updated>
+    <summary type="text">Exa brings its AI-powered web research agent directly into Google Sheets, letting anyone enrich data and build lists without writing a line of code</summary>
     <category term="api"/>
-  </entry>
-  <entry>
-    <title>Vercel's AI SDK 7 Lets Developers Swap Claude Code and Codex Like Models</title>
-    <link href="https://ai-sdk.dev/v7/docs/migration-guides/migration-guide-7-0"/>
-    <id>7e9eef7f49a680fbb4f732a4e843f79b</id>
-    <published>2026-06-16T18:00:15+00:00</published>
-    <updated>2026-06-16T18:00:15+00:00</updated>
-    <summary type="text">Vercel's AI SDK 7 beta lands with HarnessAgent for Claude Code and Codex, typed tool context, durable WorkflowAgent, and a new video generation API</summary>
     <category term="development"/>
-    <category term="api"/>
   </entry>
   <entry>
-    <title>Z.ai's GLM-5.2 Hits 1M Context at 10x Cheaper Than Claude</title>
-    <link href="https://huggingface.co/zai-org/GLM-5.2"/>
-    <id>6600c0d8c5a3132436f464f8416218a6</id>
-    <published>2026-06-16T17:40:19+00:00</published>
-    <updated>2026-06-16T17:40:19+00:00</updated>
-    <summary type="text">Z.ai's GLM-5.2 arrives with a 5x context jump to 1M tokens, dual reasoning modes, MIT open weights, and pricing roughly 10x cheaper than US frontier models</summary>
+    <title>Cerebras Runs Gemma 4 at 1,500 Tokens per Second, 15x Faster Than Haiku</title>
+    <link href="https://luma.com/cerebras-piwl?utm_source=linkedin"/>
+    <id>a9c543e7741e2bf8f43ea32ff061e152</id>
+    <published>2026-06-19T19:19:24+00:00</published>
+    <updated>2026-06-19T19:19:24+00:00</updated>
+    <summary type="text">Cerebras brings Google DeepMind's Gemma 4 to its wafer-scale hardware, hitting 1,500+ tokens per second â 15x faster than Claude Haiku â and launches a $5,000 hackathon to celebrate.</summary>
     <category term="llms"/>
+    <category term="gpus"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot CLI's Rubber Duck Uses a Rival AI to Catch Your Bugs</title>
+    <link href="https://github.com/features/copilot/cli?utm_source=x-cli-motion-graphic&amp;utm_medium=social&amp;utm_campaign=dev-pod-copilot-cli-2026"/>
+    <id>d7e4ddba7f80fabe401108e2e49426b6</id>
+    <published>2026-06-19T19:03:26+00:00</published>
+    <updated>2026-06-19T19:03:26+00:00</updated>
+    <summary type="text">GitHub Copilot CLI goes GA with a cross-model Rubber Duck critic and on-device voice input that never leaves your machine</summary>
+    <category term="development"/>
+    <category term="audio"/>
+  </entry>
+  <entry>
+    <title>Zed Adds Ctrl+F Search to AI Agent Threads, Tested on 919k-Token Chats</title>
+    <link href="https://github.com/zed-industries/zed/pull/57231"/>
+    <id>7a17633468d7e12bd7e8af3006cfef73</id>
+    <published>2026-06-19T17:08:12+00:00</published>
+    <updated>2026-06-19T17:08:12+00:00</updated>
+    <summary type="text">Zed merges Ctrl+F search into its AI agent panel, letting you grep long conversations with regex, case, and whole-word toggles</summary>
+    <category term="development"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Fable 5 Tops the Hardest Coding Benchmark With 70% Score</title>
+    <link href="https://deepswe.datacurve.ai/"/>
+    <id>9b27cace4d40fb4661f27c39e2fc302a</id>
+    <published>2026-06-19T01:27:38+00:00</published>
+    <updated>2026-06-19T01:27:38+00:00</updated>
+    <summary type="text">Claude Fable 5 takes the top spot on DeepSWE's contamination-free, long-horizon coding benchmark, dethroning GPT-5.5 with a 70% pass@1 score on harder, more realistic tasks.</summary>
+    <category term="benchmarks"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Chrome's HTML-in-Canvas API Ends 20 Years of Web Graphics Tradeoffs</title>
+    <link href="https://www.youtube.com/watch?v=TUtKGTeFWjQ"/>
+    <id>8e4ac95b4e1826e533bd64c3d3fa4f9b</id>
+    <published>2026-06-19T01:00:00+00:00</published>
+    <updated>2026-06-19T01:00:00+00:00</updated>
+    <summary type="text">Chrome's HTML-in-Canvas API enters origin trial, letting live DOM elements render directly inside WebGL and WebGPU textures with full accessibility preserved</summary>
+    <category term="development"/>
+    <category term="vibe_coding"/>
+  </entry>
+  <entry>
+    <title>GitHub Ships PR Limits to Fight the 3.6x AI-Driven Code Flood</title>
+    <link href="https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"/>
+    <id>59d8129aa2488f247b34d52fcd563468</id>
+    <published>2026-06-18T23:29:55+00:00</published>
+    <updated>2026-06-18T23:29:55+00:00</updated>
+    <summary type="text">GitHub now lets maintainers cap how many open PRs any outside contributor can hold at once, with a bypass list for trusted contributors â a direct response to AI-fueled PR spam.</summary>
+    <category term="development"/>
     <category term="open_source"/>
   </entry>
   <entry>
-    <title>Google Research Maps England's Hidden Hedgerows With Satellite AI</title>
-    <link href="https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
-    <id>f2aecd7b3dc0599c072090997b354bfd</id>
-    <published>2026-06-16T17:34:48+00:00</published>
-    <updated>2026-06-16T17:34:48+00:00</updated>
-    <summary type="text">Google Research releases a vectorized ecological dataset for England, turning AI-detected hedgerows and copses into actionable conservation and carbon-accounting tools.</summary>
-    <category term="data"/>
-    <category term="image"/>
+    <title>Factory's AutoWiki Turns Any Codebase Into Self-Updating Docs on Every Push</title>
+    <link href="https://factory.ai/open-source-wikis"/>
+    <id>657296636264a684d8a7c0c1c46b6fdd</id>
+    <published>2026-06-18T23:21:14+00:00</published>
+    <updated>2026-06-18T23:21:14+00:00</updated>
+    <summary type="text">Factory's AutoWiki generates living, narrated documentation for any codebase and keeps it in sync with every push</summary>
+    <category term="open_source"/>
+    <category term="development"/>
   </entry>
   <entry>
-    <title>Nous Research's Hermes Agent Can Now Spend Real Money Autonomously</title>
-    <link href="https://form.typeform.com/to/hpEifIK4"/>
-    <id>15b64f7330f7e745405eec2f7b874981</id>
-    <published>2026-06-16T16:30:48+00:00</published>
-    <updated>2026-06-16T16:30:48+00:00</updated>
-    <summary type="text">Nous Research, NVIDIA, and Stripe launch a $17,500+ hackathon to build AI agents that can autonomously earn, spend, and run real business operations using Hermes Agent's new financial and safety integrations.</summary>
+    <title>Artificial Analysis' AA-Briefcase Benchmark Exposes What AI Models Can't Actually Do</title>
+    <link href="https://artificialanalysis.ai/evaluations/aa-briefcase"/>
+    <id>8e82e7c2a7aff3d481e382a6fad8c461</id>
+    <published>2026-06-18T23:01:52+00:00</published>
+    <updated>2026-06-18T23:01:52+00:00</updated>
+    <summary type="text">Artificial Analysis launches AA-Briefcase, a new benchmark testing AI agents on real multi-week knowledge work projects with thousands of messy input files</summary>
+    <category term="benchmarks"/>
     <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Krea Offers Artists 25% Affiliate Cuts and Free $70 Monthly Compute</title>
+    <link href="https://links.krea.ai/creators"/>
+    <id>497b2ee505ad45651da19d9ca19f15c5</id>
+    <published>2026-06-18T22:00:06+00:00</published>
+    <updated>2026-06-18T22:00:06+00:00</updated>
+    <summary type="text">Krea launches a structured Creator Program offering compute credits, early tool access, and a 25% affiliate cut to artists who apply</summary>
+    <category term="image"/>
     <category term="business"/>
   </entry>
   <entry>
-    <title>George Hotz's Tinygrad Crashes MLPerf With 25,000 Lines of Python</title>
-    <link href="https://x.com/__tinygrad__/status/2066919273390604648"/>
-    <id>aa75407e99d22f03cc51d7a715093ad2</id>
-    <published>2026-06-16T16:22:10+00:00</published>
-    <updated>2026-06-16T16:22:10+00:00</updated>
-    <summary type="text">Tiny Corp's 25,000-line open-source framework lands on the official MLPerf Training v6.0 leaderboard, training Llama 8B on AMD MI350X hardware with a fully custom software stack</summary>
-    <category term="training_infra"/>
-    <category term="gpus"/>
+    <title>OpenAI Finds Training Alignment in One Domain Fixes It Everywhere</title>
+    <link href="https://alignment.openai.com/beneficial-rl/"/>
+    <id>e5366aca56449bd2ede14c7a93c10193</id>
+    <published>2026-06-18T21:34:39+00:00</published>
+    <updated>2026-06-18T21:34:39+00:00</updated>
+    <summary type="text">OpenAI shows that RL-training beneficial traits in one domain generalizes alignment across unrelated tasks and resists adversarial fine-tuning</summary>
+    <category term="post_training"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>Microsoft's MAI-Code-1-Flash Beats Claude Haiku 4.5 Using 60% Fewer Tokens</title>
+    <link href="https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces/"/>
+    <id>83a073ff10c58ab3c1d1c9e5cb6c8322</id>
+    <published>2026-06-18T20:21:49+00:00</published>
+    <updated>2026-06-18T20:21:49+00:00</updated>
+    <summary type="text">Microsoft's first in-house coding model now runs across VS Code, JetBrains, Xcode, Eclipse, Mobile, and Copilot CLI â no extra setup required.</summary>
+    <category term="development"/>
+    <category term="llms"/>
   </entry>
 </feed>

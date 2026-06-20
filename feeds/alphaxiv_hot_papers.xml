@@ -4,48 +4,48 @@
   <icon>https://www.alphaxiv.org/favicon.ico</icon>
   <link href="https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days"/>
   <id>https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days</id>
-  <updated>2026-06-16T00:00:00+00:00</updated>
+  <updated>2026-06-17T00:00:00+00:00</updated>
   <author>
     <name>alphaXiv</name>
   </author>
   <entry>
-    <title>Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation</title>
-    <link href="https://arxiv.org/abs/2606.17030"/>
-    <id>cced6bd7b8647785676ddc184f1596be</id>
+    <title>Do as I Do: Dexterous Manipulation Data from Everyday Human Videos</title>
+    <link href="https://arxiv.org/abs/2606.19333"/>
+    <id>3e091680cd2762e53d4816b6e5ad0ebf</id>
+    <published>2026-06-17T00:00:00+00:00</published>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+    <link href="https://arxiv.org/abs/2606.17846"/>
+    <id>4243353c6b91250f2b7c60b8cdfce86b</id>
+    <published>2026-06-17T00:00:00+00:00</published>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>Looped World Models</title>
+    <link href="https://arxiv.org/abs/2606.18208"/>
+    <id>7892628b93d7e8b8990db4306d72a043</id>
     <published>2026-06-16T00:00:00+00:00</published>
     <updated>2026-06-16T00:00:00+00:00</updated>
     <category term="hot"/>
   </entry>
   <entry>
-    <title>DreamX-World 1.0: A General-Purpose Interactive World Model</title>
-    <link href="https://arxiv.org/abs/2606.16993"/>
-    <id>8e6e53ef5ccddac1d5a303115dcb39cf</id>
-    <published>2026-06-15T00:00:00+00:00</published>
-    <updated>2026-06-15T00:00:00+00:00</updated>
+    <title>Reversal Q-Learning</title>
+    <link href="https://arxiv.org/abs/2606.17551"/>
+    <id>0ff833eb346119a909bfac941bb42a98</id>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
     <category term="hot"/>
   </entry>
   <entry>
-    <title>ExpRL: Exploratory RL for LLM Mid-Training</title>
-    <link href="https://arxiv.org/abs/2606.17024"/>
-    <id>8797fbcea35d3f0fbff46e8212f5aff9</id>
-    <published>2026-06-15T00:00:00+00:00</published>
-    <updated>2026-06-15T00:00:00+00:00</updated>
-    <category term="hot"/>
-  </entry>
-  <entry>
-    <title>VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models</title>
-    <link href="https://arxiv.org/abs/2606.16140"/>
-    <id>d7457ea6d4c9a19c15365aff06345557</id>
-    <published>2026-06-15T00:00:00+00:00</published>
-    <updated>2026-06-15T00:00:00+00:00</updated>
-    <category term="hot"/>
-  </entry>
-  <entry>
-    <title>You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences</title>
-    <link href="https://arxiv.org/abs/2606.15956"/>
-    <id>a77b272a887e9b18d9c59c4cc0743bba</id>
-    <published>2026-06-14T00:00:00+00:00</published>
-    <updated>2026-06-14T00:00:00+00:00</updated>
+    <title>Variable-Width Transformers</title>
+    <link href="https://arxiv.org/abs/2606.18246"/>
+    <id>70f1f2056c7116ead76a86696a0a9bd4</id>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
     <category term="hot"/>
   </entry>
 </feed>

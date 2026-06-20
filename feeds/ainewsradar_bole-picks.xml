@@ -4,148 +4,43 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/"/>
   <id>https://learnprompt.github.io/ai-news-radar/</id>
-  <updated>2026-06-17T18:16:30+00:00</updated>
+  <updated>2026-06-20T09:37:07+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国</title>
-    <link href="https://x.com/kimmonismus/status/2067310431669223425"/>
-    <id>948a14bd8831beb7fd597129e2d2e612</id>
-    <published>2026-06-17T18:16:30+00:00</published>
-    <updated>2026-06-17T18:16:30+00:00</updated>
-    <summary type="text">Score: 0.809
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>用SGLang-JAX在TPU上优化Ling-2.6-1T：一个Pallas核将MoE数据移动隐藏在计算中</title>
-    <link href="https://www.lmsys.org/blog/2026-06-17-ling-2-6-tpu"/>
-    <id>247b865fdbaf576308f6194bc308469f</id>
-    <published>2026-06-17T17:53:38+00:00</published>
-    <updated>2026-06-17T17:53:38+00:00</updated>
-    <summary type="text">Score: 0.805
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Vercel 发布开源 AI 智能体框架 Eve：每个智能体就是一个文件目录</title>
-    <link href="https://www.marktechpost.com/2026/06/17/vercel-releases-eve"/>
-    <id>fd0a1897f1e028eadc3c59480ef0f94b</id>
-    <published>2026-06-17T17:22:51+00:00</published>
-    <updated>2026-06-17T17:22:51+00:00</updated>
-    <summary type="text">Score: 0.801
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>企业管理的设置现在支持绕过权限控制 / Enterprise-managed settings now support bypass permission controls</title>
-    <link href="https://github.blog/changelog/2026-06-17-enterprise-managed-settings-now-support-bypass-permission-controls"/>
-    <id>515fef5f2ed7b21efc1690889c32080c</id>
-    <published>2026-06-17T17:13:47+00:00</published>
-    <updated>2026-06-17T17:13:47+00:00</updated>
-    <summary type="text">Score: 0.849
-Sources: 1 (Official AI Updates)
-Importance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>NVIDIA GEAR实验室发布ENPIRE：8个Codex智能体自主控制机器人完成物理实验</title>
-    <link href="https://x.com/DrJimFan/status/2067283904986517866"/>
-    <id>47fe81c66a93150eab20c1016622fdf2</id>
-    <published>2026-06-17T16:31:05+00:00</published>
-    <updated>2026-06-17T16:31:05+00:00</updated>
-    <summary type="text">Score: 0.794
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google发布99美元Gemini智能音箱</title>
-    <link href="https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker"/>
-    <id>eb91c3b2866b96477c755952eca44516</id>
-    <published>2026-06-17T16:30:09+00:00</published>
-    <updated>2026-06-17T16:30:09+00:00</updated>
-    <summary type="text">Score: 0.819
-Sources: 2 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型</title>
+    <link href="https://stock.jrj.com.cn/2026/06/20175957532728.shtml"/>
+    <id>c0d705c6155b56aa6bd6a880586606c8</id>
+    <published>2026-06-20T09:37:07+00:00</published>
+    <updated>2026-06-20T09:37:07+00:00</updated>
+    <summary type="text">Score: 0.548
+Sources: 2 (TopHub)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>Copilot Chat 中的自动模式可供所有用户使用 / Auto mode in Copilot Chat available for all users</title>
-    <link href="https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users"/>
-    <id>aa6b21be3bcdda2e2a242ee147d0118d</id>
-    <published>2026-06-17T16:24:33+00:00</published>
-    <updated>2026-06-17T16:24:33+00:00</updated>
-    <summary type="text">Score: 0.854
-Sources: 1 (Official AI Updates)
-Importance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <title>让人工智能帮你选午餐的隐性成本</title>
+    <link href="https://www.businessinsider.com/ai-reliance-decision-making-life-advice-cognitive-surrender-2026-6"/>
+    <id>48a403623f718a28ea4720fe8f9a1f95</id>
+    <published>2026-06-20T08:42:24+00:00</published>
+    <updated>2026-06-20T08:42:24+00:00</updated>
+    <summary type="text">Score: 0.530
+Sources: 2 (Buzzing)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>限制没有写访问权限的用户打开拉取请求 / Limit open pull requests for users without write access</title>
-    <link href="https://github.blog/changelog/2026-06-17-limit-open-pull-requests-for-users-without-write-access"/>
-    <id>64471ba18091021600e7009ca0ac9c2e</id>
-    <published>2026-06-17T16:23:56+00:00</published>
-    <updated>2026-06-17T16:23:56+00:00</updated>
-    <summary type="text">Score: 0.842
-Sources: 1 (Official AI Updates)
-Importance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot 的代理查找器现已推出 / Agent finder for GitHub Copilot now available</title>
-    <link href="https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available"/>
-    <id>b65e3045b79db7397ab249fd30642a25</id>
-    <published>2026-06-17T16:21:56+00:00</published>
-    <updated>2026-06-17T16:21:56+00:00</updated>
-    <summary type="text">Score: 0.854
-Sources: 1 (Official AI Updates)
-Importance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>谷歌发布Agentic Resource Discovery（ARD）开放规范</title>
-    <link href="https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification"/>
-    <id>fec18f05a3681e898187e05b92bf1bd9</id>
-    <published>2026-06-17T16:08:36+00:00</published>
-    <updated>2026-06-17T16:08:36+00:00</updated>
-    <summary type="text">Score: 0.791
+    <title>微软双向转售GPT与DeepSeek成全球最大AI中间商</title>
+    <link href="https://x.com/AYi_AInotes/status/2068218661710512231"/>
+    <id>03de02f0de2dd9e365e7e9505a1f58d8</id>
+    <published>2026-06-20T06:25:29+00:00</published>
+    <updated>2026-06-20T06:25:29+00:00</updated>
+    <summary type="text">Score: 0.774
 Sources: 1 (AI HOT)
 Importance: 行业动态</summary>
     <category term="行业动态"/>
@@ -154,151 +49,225 @@ Importance: 行业动态</summary>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Omnigent开源：AI智能体团队元框架</title>
-    <link href="https://x.com/Yuchenj_UW/status/2067273020352380950"/>
-    <id>6eef745579f26d63a91956d719130f6c</id>
-    <published>2026-06-17T15:47:50+00:00</published>
-    <updated>2026-06-17T15:47:50+00:00</updated>
-    <summary type="text">Score: 0.788
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>MolmoMotion：语言引导的3D运动预测模型</title>
-    <link href="https://huggingface.co/blog/allenai/molmomotion"/>
-    <id>305259799b01579333fee71fcb8abcbf</id>
-    <published>2026-06-17T15:26:44+00:00</published>
-    <updated>2026-06-17T15:26:44+00:00</updated>
-    <summary type="text">Score: 0.810
-Sources: 2 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>面对 AI，人类手里还有「什么牌」？</title>
+    <link href="https://www.huxiu.com/article/4868824.html?f=rss"/>
+    <id>31d579cabfdb355c304b85f65fb65178</id>
+    <published>2026-06-20T04:16:18+00:00</published>
+    <updated>2026-06-20T04:16:18+00:00</updated>
+    <summary type="text">Score: 0.497
+Sources: 2 (TopHub)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>Google 医学推理 AI 系统 AMIE 新研究：从诊断迈向长期疾病管理</title>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature"/>
-    <id>6bac8b4fcbfefffb2d6eca9b03d198b7</id>
-    <published>2026-06-17T15:00:00+00:00</published>
-    <updated>2026-06-17T15:00:00+00:00</updated>
-    <summary type="text">Score: 0.806
-Sources: 2 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗</title>
+    <link href="https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future"/>
+    <id>e1c153bddc46a93d26b2ff1f90fc0579</id>
+    <published>2026-06-20T00:51:33+00:00</published>
+    <updated>2026-06-20T00:51:33+00:00</updated>
+    <summary type="text">Score: 0.490
+Sources: 2 (Buzzing)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>Cloudflare 发布 Cloudflare One stack：智能体驱动的部署工具集</title>
-    <link href="https://blog.cloudflare.com/cloudflare-one-stack"/>
-    <id>0d24e555adbba9d1b431c76e1aa37dff</id>
-    <published>2026-06-17T13:00:00+00:00</published>
-    <updated>2026-06-17T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.765
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界</title>
-    <link href="https://www.ithome.com/0/965/652.htm"/>
-    <id>ec583af8630b6ea5d96ad06ac3af48db</id>
-    <published>2026-06-17T12:46:59+00:00</published>
-    <updated>2026-06-17T12:46:59+00:00</updated>
-    <summary type="text">Score: 0.763
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI被曝正筹备发布新一代双向语音模型“GPT-Bidi-1”</title>
-    <link href="https://www.aibase.com/news/28990"/>
-    <id>86473b7c102b23c21940d91f3d8518a4</id>
-    <published>2026-06-17T12:16:14.344951+00:00</published>
-    <updated>2026-06-17T12:16:14.344951+00:00</updated>
-    <summary type="text">Score: 0.758
-Sources: 1 (AIbase)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Strands Robots SDK：用单一智能体打通 Hugging Face Hub 到物理机器人 / From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot</title>
-    <link href="https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"/>
-    <id>87283bdb9cfac583a78f6a1c388fb441</id>
-    <published>2026-06-17T10:18:05+00:00</published>
-    <updated>2026-06-17T10:18:05+00:00</updated>
-    <summary type="text">Score: 0.849
-Sources: 2 (Official AI Updates)
-Importance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>使用 Airgap 隐藏 AI 代理和 NPM 安装的秘密 / Hide Secrets from AI Agents and NPM install using Airgap</title>
+    <link href="https://news.ycombinator.com/item?id=48602862"/>
+    <id>1d7c494d6e52a645917e1f6f53e0c6ca</id>
+    <published>2026-06-19T20:24:59+00:00</published>
+    <updated>2026-06-19T20:24:59+00:00</updated>
+    <summary type="text">Score: 0.446
+Sources: 2 (NewsNow)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应 / A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry</title>
-    <link href="https://openai.com/index/ai-chemist-improves-reaction"/>
-    <id>8c15bbb1acbc043be63187b4057e84cb</id>
-    <published>2026-06-17T10:00:00+00:00</published>
-    <updated>2026-06-17T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.835
-Sources: 2 (Official AI Updates)
-Importance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>约翰·詹珀 (John Jumper) 加盟 Anthropic / John Jumper to join Anthropic</title>
+    <link href="https://news.ycombinator.com/item?id=48601162"/>
+    <id>e85661aedbd59ace32d6014beea65d81</id>
+    <published>2026-06-19T20:15:00.054000+00:00</published>
+    <updated>2026-06-19T20:15:00.054000+00:00</updated>
+    <summary type="text">Score: 0.438
+Sources: 2 (NewsNow)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>GLM-5.2：专为长期任务而设计 / GLM-5.2: Built for Long-Horizon Tasks</title>
-    <link href="https://huggingface.co/blog/zai-org/glm-52-blog"/>
-    <id>411859801f13f9a341173890af0918d0</id>
-    <published>2026-06-17T09:01:25+00:00</published>
-    <updated>2026-06-17T09:01:25+00:00</updated>
-    <summary type="text">Score: 0.804
-Sources: 1 (Official AI Updates)
-Importance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能</title>
-    <link href="https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality"/>
-    <id>a8d2ff600a853405285b18841fbfc249</id>
-    <published>2026-06-16T23:15:44+00:00</published>
-    <updated>2026-06-16T23:15:44+00:00</updated>
-    <summary type="text">Score: 0.760
-Sources: 4 (AI HOT)
+    <title>亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership</title>
+    <link href="https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership"/>
+    <id>6a07527dfa4d84ba6767495a540a554b</id>
+    <published>2026-06-19T20:03:16+00:00</published>
+    <updated>2026-06-19T20:03:16+00:00</updated>
+    <summary type="text">Score: 0.498
+Sources: 4 (TechURLs)
 Importance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
     <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>由于成本压力导致预算紧张，企业开始限制人工智能的使用</title>
+    <link href="https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314"/>
+    <id>62faaeef2277e2a58750bd5d01702f0f</id>
+    <published>2026-06-19T19:57:18+00:00</published>
+    <updated>2026-06-19T19:57:18+00:00</updated>
+    <summary type="text">Score: 0.532
+Sources: 3 (Buzzing)
+Importance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Figma首席执行官解释了为什么创意人士不必担心人工智能生成的设计</title>
+    <link href="https://www.businessinsider.com/figma-ceo-dylan-field-creative-careers-ai-graphic-design-2026-6"/>
+    <id>d24efaa2def5b2463c6e9300a12de58a</id>
+    <published>2026-06-19T18:50:40+00:00</published>
+    <updated>2026-06-19T18:50:40+00:00</updated>
+    <summary type="text">Score: 0.416
+Sources: 2 (Buzzing)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>曾与德米斯·哈萨比斯共同荣获诺贝尔奖的AlphaFold先驱者离开谷歌DeepMind，加入Anthropic</title>
+    <link href="https://www.businessinsider.com/alphafold-john-jumper-leaves-google-deepmind-anthropic-demis-hassabis-nobel-2026-6"/>
+    <id>9da21bde59d6e3a174a763424003522d</id>
+    <published>2026-06-19T18:33:39+00:00</published>
+    <updated>2026-06-19T18:33:39+00:00</updated>
+    <summary type="text">Score: 0.414
+Sources: 2 (Buzzing)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>人工智能正在毁掉我们的技能吗？早期结果已经出来——但并不好 / Is AI ruining our skills? Early results are in – and they're not good</title>
+    <link href="https://news.ycombinator.com/item?id=48601286"/>
+    <id>7c3287cd149c534abd3fa9d91a5fa782</id>
+    <published>2026-06-19T18:00:48+00:00</published>
+    <updated>2026-06-19T18:00:48+00:00</updated>
+    <summary type="text">Score: 0.409
+Sources: 2 (NewsNow)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>约翰·詹珀将加入Anthropic</title>
+    <link href="https://twitter.com/JohnJumperSci/status/2068001285173834106"/>
+    <id>9021a2250bb5e63899a2419645bb6549</id>
+    <published>2026-06-19T17:53:00+00:00</published>
+    <updated>2026-06-19T17:53:00+00:00</updated>
+    <summary type="text">Score: 0.530
+Sources: 3 (Buzzing)
+Importance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案</title>
+    <link href="https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech"/>
+    <id>f3e7653dbd72f38d83dce8bd45a45c46</id>
+    <published>2026-06-19T17:34:28+00:00</published>
+    <updated>2026-06-19T17:34:28+00:00</updated>
+    <summary type="text">Score: 0.710
+Sources: 2 (AI HOT)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>GPT-5.5的幻觉生成率是采用MIT许可证的GLM-5.2的3倍</title>
+    <link href="https://arrowtsx.dev/bigger-models"/>
+    <id>0f52321b05237b6f701f48b3f088021c</id>
+    <published>2026-06-19T16:11:25+00:00</published>
+    <updated>2026-06-19T16:11:25+00:00</updated>
+    <summary type="text">Score: 0.525
+Sources: 2 (Buzzing)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>一位业余爱好者可能破解了已有120年历史的“线性文字A”之谜 / AI Engineer Claims to Have Cracked Linear A</title>
+    <link href="https://aiclambake.com/clamtakes/linear-a"/>
+    <id>bfe89b70a9e7c57bf147bb427b1e8a8b</id>
+    <published>2026-06-19T16:04:42+00:00</published>
+    <updated>2026-06-19T16:04:42+00:00</updated>
+    <summary type="text">Score: 0.416
+Sources: 3 (Zeli)
+Importance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>挪威对小学阶段的人工智能实施近乎全面禁令</title>
+    <link href="https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19"/>
+    <id>b7ebf5cc3671c4db7e77170568865e33</id>
+    <published>2026-06-19T16:03:15+00:00</published>
+    <updated>2026-06-19T16:03:15+00:00</updated>
+    <summary type="text">Score: 0.491
+Sources: 4 (Buzzing)
+Importance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>世界各国领导人想要美国的人工智能，但他们不希望美国能够将其关闭。 - TechCrunch</title>
+    <link href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen"/>
+    <id>8d64819979011d4003aa51b5c642bba9</id>
+    <published>2026-06-19T15:41:07.211000+00:00</published>
+    <updated>2026-06-19T15:41:07.211000+00:00</updated>
+    <summary type="text">Score: 0.387
+Sources: 2 (Buzzing)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>与 OpenAI 合作生变：亚马逊放弃奥尔特曼传记电影《Artificial》，正在寻找新东家</title>
+    <link href="https://www.ithome.com/0/966/426.htm"/>
+    <id>f127a2daebee394745b71a37690a86c0</id>
+    <published>2026-06-19T13:26:12+00:00</published>
+    <updated>2026-06-19T13:26:12+00:00</updated>
+    <summary type="text">Score: 0.392
+Sources: 2 (TopHub)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>aishwaryanr / awesome-generative-ai-guide</title>
+    <link href="https://github.com/aishwaryanr/awesome-generative-ai-guide"/>
+    <id>5480cc85ba9fcf0794acff5d8603bc91</id>
+    <published>2026-06-19T12:34:17.681000+00:00</published>
+    <updated>2026-06-19T12:34:17.681000+00:00</updated>
+    <summary type="text">Score: 0.365
+Sources: 2 (TopHub)
+Importance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
 </feed>

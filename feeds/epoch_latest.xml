@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.ico</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-06-16T00:00:00+00:00</updated>
+  <updated>2026-06-17T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Toward an O*NET for AI R&amp;D</title>
+    <link href="https://epoch.ai/gradient-updates/toward-an-onet-for-ai-rnd"/>
+    <id>f887cdedf71856e72e99f7361551f3db</id>
+    <published>2026-06-17T00:00:00+00:00</published>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <summary type="text">Proposing a new way to track AI research automation</summary>
+    <category term="Newsletter"/>
+  </entry>
   <entry>
     <title>Hyperscaler capex is on trend to outpace their cash inflows by the end of 2026</title>
     <link href="https://epoch.ai/data-insights/hyperscaler-capex-vs-cash-flow"/>
@@ -83,13 +92,5 @@
     <updated>2026-05-20T00:00:00+00:00</updated>
     <summary type="text">But Anthropic and OpenAI may rapidly grow their compute share in the next few years. After that, continued scaling would require an economic transformation.</summary>
     <category term="Newsletter"/>
-  </entry>
-  <entry>
-    <title>Claude overperforms at software engineering and underperforms at math</title>
-    <link href="https://epoch.ai/data-insights/claude-ds-eci"/>
-    <id>84500e6c8da5eb9a46c18dd355e9b9e4</id>
-    <published>2026-05-15T00:00:00+00:00</published>
-    <updated>2026-05-15T00:00:00+00:00</updated>
-    <category term="Data Insight"/>
   </entry>
 </feed>

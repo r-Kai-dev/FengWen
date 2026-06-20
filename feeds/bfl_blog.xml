@@ -4,10 +4,19 @@
   <icon>https://bfl.ai/favicon.ico</icon>
   <link href="https://bfl.ai/blog"/>
   <id>https://bfl.ai/blog</id>
-  <updated>2026-06-04T00:06:00.000Z</updated>
+  <updated>2026-06-17T14:29:00.000Z</updated>
   <author>
     <name>Black Forest Labs</name>
   </author>
+  <entry>
+    <title>How Envato Built Its Creative AI Engine on FLUX</title>
+    <link href="https://bfl.ai/blog/how-envato-built-its-creative-ai-engine-on-flux"/>
+    <id>93d58dbfb81be41652441e1ff1e8794d</id>
+    <published>2026-06-17T14:29:00.000Z</published>
+    <updated>2026-06-17T14:29:00.000Z</updated>
+    <summary type="text">How one of the world's largest creative platforms turned a careful evaluation into core infrastructure: 51 million+ images, three creative workflows, and a FLUX.2 launch on day zero.</summary>
+    <category term="Customer stories"/>
+  </entry>
   <entry>
     <title>FLUX.2 is now on device: ASUS ProArt laptops now support Klein models</title>
     <link href="https://bfl.ai/blog/flux2-klein-on-device"/>

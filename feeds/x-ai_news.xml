@@ -4,17 +4,31 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-06-17T00:00:00+00:00</updated>
+  <updated>2026-06-18T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Grok for Word</title>
+    <link href="https://x.ai/news/introducing-word-addin"/>
+    <id>89ca4a265cb32cd4647e1d46e6c14144</id>
+    <published>2026-06-18T00:00:00+00:00</published>
+    <updated>2026-06-18T00:00:00+00:00</updated>
+    <summary type="text">Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.</summary>
+  </entry>
+  <entry>
+    <title>Grok on Databricks</title>
+    <link href="https://x.ai/news/grok-databricks"/>
+    <id>fab18ef709b826a2b4a67dd01173b86d</id>
+    <published>2026-06-18T00:00:00+00:00</published>
+    <updated>2026-06-18T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Grok on Amazon Bedrock</title>
     <link href="https://x.ai/news/grok-amazon-bedrock"/>
     <id>46dd7931eee1515e8c21c5316ac7a051</id>
     <published>2026-06-17T00:00:00+00:00</published>
     <updated>2026-06-17T00:00:00+00:00</updated>
-    <summary type="text">Grok models are now available via Amazon Bedrock.</summary>
   </entry>
   <entry>
     <title>Grok Imagine Video 1.5</title>
@@ -36,6 +50,7 @@
     <id>eaa8c2767475c67643e186981c36d57f</id>
     <published>2026-06-15T00:00:00+00:00</published>
     <updated>2026-06-15T00:00:00+00:00</updated>
+    <summary type="text">Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.</summary>
   </entry>
   <entry>
     <title>Use Grok in Warp</title>
@@ -43,6 +58,7 @@
     <id>c448ed6f724bd6ce3272f53d3f077310</id>
     <published>2026-06-15T00:00:00+00:00</published>
     <updated>2026-06-15T00:00:00+00:00</updated>
+    <summary type="text">Use your Grok and X Premium subscription inside Warp.</summary>
   </entry>
   <entry>
     <title>Grok Build Plugin Marketplace</title>

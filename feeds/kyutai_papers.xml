@@ -4,10 +4,18 @@
   <icon>https://kyutai.org/favicon.ico</icon>
   <link href="https://kyutai.org/papers"/>
   <id>https://kyutai.org/papers</id>
-  <updated>2026-06-09T17:46:55+00:00</updated>
+  <updated>2026-06-18T00:00:00+00:00</updated>
   <author>
     <name>Kyutai</name>
   </author>
+  <entry>
+    <title>The FID Lottery: Quantifying Hidden Randomness in Generative Model Evaluation</title>
+    <link href="https://arxiv.org/abs/2606.20536"/>
+    <id>7658cbfc560a6e22c25ba47c1ac84a6a</id>
+    <published>2026-06-18T00:00:00+00:00</published>
+    <updated>2026-06-18T00:00:00+00:00</updated>
+    <summary type="text">Open any recent image-generation paper and the central claim usually rests on a single number, the Fréchet Inception Distance (FID): a half-unit shift can reorder the leaderboard, and a decade of recipes have been justified by single-unit gains. But behind every reported FID sits a chain of pseudo-random draws (parameter initialisation, minibatch order, the per-step Gaussian noise injected by the training loss, hardware stochasticity, and the initial noise drawn at sampling time), any of which could have produced a different score had the seed been different. Conventional wisdom holds that this variance is negligible, especially for well-trained models. In this work we show that the FID reproducibility gap is real and is a serious concern. We distinguish two lotteries: a training lottery, run once during training, and a generation lottery, run on the trained network. Practitioners have learned to mitigate the generation lottery by resampling the initial noise across several seeds, but no amount of resampling on a single trained network says anything about where a re-trained network would have landed: the training lottery stays hidden behind the one ticket we actually drew. We quantify this hidden randomness and argue for treating FID as a measurement protocol: evaluate under per-cell optimal guidance, treat any gap below a roughly 1.3% coefficient of variation as inconclusive, and retrain across several seeds whenever the budget allows.</summary>
+  </entry>
   <entry>
     <title>Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models</title>
     <link href="https://arxiv.org/abs/2606.11167"/>

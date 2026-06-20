@@ -4,10 +4,20 @@
   <icon>https://docs.z.ai/favicon.ico</icon>
   <link href="https://docs.z.ai/release-notes/new-released"/>
   <id>https://docs.z.ai/release-notes/new-released</id>
-  <updated>2026-04-07T00:00:00+00:00</updated>
+  <updated>2026-06-16T00:00:00+00:00</updated>
   <author>
     <name>Z-AI</name>
   </author>
+  <entry>
+    <title>GLM-5.2</title>
+    <link href="https://docs.z.ai/release-notes/new-released"/>
+    <id>1737b8e6b93f33ee18da3fdf99ec0733</id>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
+    <summary type="text">Supports 1M lossless context, significantly improving long-horizon task capabilities and reducing context drift and goal forgetting in complex tasks Achieves open-source SOTA performance on coding and long-horizon task benchmarks, delivering more stable results in complex system engineering and deep debugging</summary>
+    <category term="Release Notes"/>
+    <category term="Models"/>
+  </entry>
   <entry>
     <title>GLM-5.1</title>
     <link href="https://docs.z.ai/release-notes/new-released"/>

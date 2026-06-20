@@ -9,6 +9,18 @@
     <name>LMSYS</name>
   </author>
   <entry>
+    <title>MOSS-TTS Local Transformer v1.5 on SGLang-Omni: Serving Native-Streaming 48 kHz Speech</title>
+    <link href="https://lmsys.org/blog/2026-06-17-moss-tts-local-v15"/>
+    <id>bf49f01f82016c9e8de5303e19f21182</id>
+    <published>2026-06-17T00:00:00+00:00</published>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <summary type="text">Today we are announcing end-to-end serving for MOSS-TTS-Local-Transformer-v1.5 on SGLang-Omni, together with MOSI and the OpenMOSS Team.
+
+MOSS-TTS-Local-Transformer-v1.5 is an open TTS model for 48 kH...</summary>
+    <category term="sglang"/>
+    <category term="technical"/>
+  </entry>
+  <entry>
     <title>Optimizing Ling-2.6-1T on TPU with SGLang-JAX: Hiding MoE Data Movement Behind Compute with One Pallas Kernel</title>
     <link href="https://lmsys.org/blog/2026-06-17-ling-2-6-tpu"/>
     <id>fb0d01b8eb072897627d255a880e319f</id>

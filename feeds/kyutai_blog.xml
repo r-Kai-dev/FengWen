@@ -4,10 +4,18 @@
   <icon>https://kyutai.org/favicon.ico</icon>
   <link href="https://kyutai.org/blog"/>
   <id>https://kyutai.org/blog</id>
-  <updated>2026-06-10T00:00:00+00:00</updated>
+  <updated>2026-06-18T00:00:00+00:00</updated>
   <author>
     <name>Kyutai</name>
   </author>
+  <entry>
+    <title>The FID Lottery</title>
+    <link href="https://kyutai.org/blog/2026-06-18-fid-lottery"/>
+    <id>36c51380f62c118fff4ec97b708955f8</id>
+    <published>2026-06-18T00:00:00+00:00</published>
+    <updated>2026-06-18T00:00:00+00:00</updated>
+    <summary type="text">Quantifying hidden randomness in generative-model evaluation. Every reported FID is the outcome of two lotteries.</summary>
+  </entry>
   <entry>
     <title>Post-training speech models for better interactivity</title>
     <link href="https://kyutai.org/blog/2026-06-10-interactivity"/>
