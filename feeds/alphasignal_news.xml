@@ -4,10 +4,20 @@
   <icon>https://alphasignal.ai/favicon.ico</icon>
   <link href="https://alphasignal.ai"/>
   <id>https://alphasignal.ai</id>
-  <updated>2026-06-19T19:48:10+00:00</updated>
+  <updated>2026-06-20T18:45:57+00:00</updated>
   <author>
-    <name>Exa</name>
+    <name>Nous Research</name>
   </author>
+  <entry>
+    <title>Nous Research's Hermes Agent Ships Blank Slate Mode for Full Custom Control</title>
+    <link href="https://hermes-agent.nousresearch.com/docs/getting-started/quickstart"/>
+    <id>c8b5b5b3960cfc1e4063f06080327f37</id>
+    <published>2026-06-20T18:45:57+00:00</published>
+    <updated>2026-06-20T18:45:57+00:00</updated>
+    <summary type="text">Hermes Agent adds Blank Slate setup mode, letting power users hand-pick every tool instead of accepting opinionated defaults</summary>
+    <category term="agents"/>
+    <category term="development"/>
+  </entry>
   <entry>
     <title>Exa Agent Brings $2.2B Semantic Search Directly Into Google Sheets</title>
     <link href="https://workspace.google.com/marketplace/app/exa_ai/465545439521"/>
@@ -117,15 +127,5 @@
     <summary type="text">OpenAI shows that RL-training beneficial traits in one domain generalizes alignment across unrelated tasks and resists adversarial fine-tuning</summary>
     <category term="post_training"/>
     <category term="security"/>
-  </entry>
-  <entry>
-    <title>Microsoft's MAI-Code-1-Flash Beats Claude Haiku 4.5 Using 60% Fewer Tokens</title>
-    <link href="https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces/"/>
-    <id>83a073ff10c58ab3c1d1c9e5cb6c8322</id>
-    <published>2026-06-18T20:21:49+00:00</published>
-    <updated>2026-06-18T20:21:49+00:00</updated>
-    <summary type="text">Microsoft's first in-house coding model now runs across VS Code, JetBrains, Xcode, Eclipse, Mobile, and Copilot CLI â no extra setup required.</summary>
-    <category term="development"/>
-    <category term="llms"/>
   </entry>
 </feed>
