@@ -10,17 +10,19 @@ that vary between collections, so we identify fields by their resolved
 value types (date strings, slug-format strings, etc.).
 """
 
+import asyncio
 import hashlib
 import json
 import logging
 import re
 from datetime import datetime, timezone
 
-from curl_cffi import requests as cffi_requests
+from curl_cffi.requests import AsyncSession
 
 from common import (
     PARSED_DIR,
     ensure_output_dir,
+    fetch_with_retry,
     load_api_config,
     setup_logging,
 )
@@ -34,11 +36,13 @@ PAGE_URL = "https://www.perplexity.ai/hub/blog"
 BLOG_BASE = "https://www.perplexity.ai/hub/blog"
 
 
-def fetch_page(url: str) -> str:
-    """Fetch a page using curl_cffi with Chrome impersonation."""
-    resp = cffi_requests.get(url, impersonate="chrome120", timeout=30)
-    resp.raise_for_status()
-    return resp.text
+async def fetch_page(url: str) -> str:
+    """Fetch a page using curl_cffi with Chrome impersonation and retry."""
+    async with AsyncSession() as session:
+        resp = await fetch_with_retry(
+            session, url, impersonate="chrome120", timeout=30
+        )
+        return resp.text
 
 
 def _is_date(value: str) -> bool:
@@ -166,13 +170,13 @@ def extract_entries(html: str) -> list[dict]:
     return entries
 
 
-def main() -> None:
+async def main() -> None:
     """Fetch Perplexity Hub Blog and write Atom XML feed."""
     config = load_api_config(ORG_KEY)
     page_config = config["pages"]["blog"]
 
     logging.info("Fetching Perplexity Blog from %s", PAGE_URL)
-    html = fetch_page(PAGE_URL)
+    html = await fetch_page(PAGE_URL)
 
     entries = extract_entries(html)
     if not entries:
@@ -191,4 +195,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
