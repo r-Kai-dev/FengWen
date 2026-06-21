@@ -1,78 +1,31 @@
 #!/usr/bin/env python3
-"""Generate README.md from feeds.opml (canonical source of truth).
+"""Generate README.md from config/feeds.json (canonical source of truth).
 
-Reads feeds.opml and replaces the marked section in README.md with
+Reads config/feeds.json and replaces the marked section in README.md with
 human-friendly markdown tables.
 
 Usage:
     python src/generate_readme.py
 """
 
-import xml.etree.ElementTree as ET
+import json
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-OPML_PATH = ROOT / "feeds.opml"
-README_PATH = ROOT / "README.md"
+SRC_DIR = Path(__file__).resolve().parent
+PROJECT_DIR = SRC_DIR.parent
+CONFIG_PATH = PROJECT_DIR / "config" / "feeds.json"
+README_PATH = PROJECT_DIR / "README.md"
 
-# Sentinel markers in README.md that bracket the auto-generated tables
 MARKER_START = "<!-- FEEDS_TABLE_START -->"
 MARKER_END = "<!-- FEEDS_TABLE_END -->"
-
-# OPML namespace
-NS = {"fw": "https://codeberg.org/r-Kai/FengWen"}
-
-
-def parse_opml(path: Path) -> list[dict]:
-    """Parse feeds.opml and return a list of category dicts.
-
-    Each category dict:
-        {
-            "title": "Lab/Company Feeds",
-            "feeds": [
-                {
-                    "text": "Anthropic News",
-                    "xmlUrl": "https://...",
-                    "htmlUrl": "https://...",
-                    "type": "created" | "official",
-                },
-                ...
-            ]
-        }
-    """
-    tree = ET.parse(path)
-    root = tree.getroot()
-    body = root.find("body")
-    if body is None:
-        raise ValueError("No <body> found in OPML")
-
-    categories = []
-    for cat_elem in body.findall("outline"):
-        title = cat_elem.get("text") or cat_elem.get("title", "")
-        feeds = []
-        for feed_elem in cat_elem.findall("outline"):
-            text = feed_elem.get("text") or feed_elem.get("title", "")
-            xml_url = feed_elem.get("xmlUrl", "")
-            html_url = feed_elem.get("htmlUrl", "")
-            fw_type = feed_elem.get("{%s}type" % NS["fw"], "created")
-            feeds.append({
-                "text": text,
-                "xmlUrl": xml_url,
-                "htmlUrl": html_url,
-                "type": fw_type,
-            })
-        categories.append({"title": title, "feeds": feeds})
-    return categories
+CODEBERG_BASE = "https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds"
 
 
 def feed_filename(xml_url: str) -> str:
-    """Extract the filename part from a feed URL."""
     return xml_url.rstrip("/").rsplit("/", 1)[-1]
 
 
 def format_feed_label(text: str, xml_url: str, fw_type: str) -> str:
-    """Format the feed link label. For created feeds, use the filename.
-    For official feeds, use the display text."""
     if fw_type == "created":
         label = feed_filename(xml_url)
     else:
@@ -80,52 +33,64 @@ def format_feed_label(text: str, xml_url: str, fw_type: str) -> str:
     return f"[{label}]({xml_url})"
 
 
-def build_tables(categories: list[dict]) -> str:
-    """Build markdown tables from the parsed OPML data."""
-    sections = []
+def build_tables(config):
+    cats = config.get("categories", {})
+    # Gather feeds by category
+    category_feeds = {cat_key: [] for cat_key in cats}
 
-    for cat in categories:
-        lines = []
-        lines.append(f"## {cat['title']}")
-        # Add a To-Do note for Academic Feeds if present
-        if cat["title"] == "Academic Feeds":
+    for entry in config.get("created", []):
+        cat_key = entry.get("category", "lab")
+        for page in entry.get("pages", []):
+            xml_url = f"{CODEBERG_BASE}/{page['output_file']}"
+            category_feeds.setdefault(cat_key, []).append({
+                "text": page["label"],
+                "xmlUrl": xml_url,
+                "htmlUrl": page["url"],
+                "type": "created",
+            })
+
+    for entry in config.get("official", []):
+        cat_key = entry.get("category", "lab")
+        category_feeds.setdefault(cat_key, []).append({
+            "text": entry["name"],
+            "xmlUrl": entry["xmlUrl"],
+            "htmlUrl": entry["htmlUrl"],
+            "type": "official",
+        })
+
+    sections = []
+    for cat_key, cat_name in cats.items():
+        feeds = category_feeds.get(cat_key, [])
+        if not feeds:
+            continue
+        lines = [f"## {cat_name}"]
+        if cat_name == "Academic Feeds":
             lines.append("To-Do: Appending logic with snapshot timestamps")
             lines.append("")
         lines.append("| Original Website | Feed | Type |")
         lines.append("|------------------|------|------|")
 
-        for feed in cat["feeds"]:
-            text = feed["text"]
-            xml_url = feed["xmlUrl"]
-            html_url = feed["htmlUrl"]
-            fw_type = feed["type"]
-
-            type_label = "Created" if fw_type == "created" else "Official"
-            site_link = f"[{text}]({html_url})"
-            feed_label = format_feed_label(text, xml_url, fw_type)
-
+        for feed in feeds:
+            type_label = "Created" if feed["type"] == "created" else "Official"
+            site_link = f"[{feed['text']}]({feed['htmlUrl']})"
+            feed_label = format_feed_label(feed["text"], feed["xmlUrl"], feed["type"])
             lines.append(f"| {site_link} | {feed_label} | {type_label} |")
 
-        lines.append("")  # blank line after table
+        lines.append("")
         sections.append("\n".join(lines))
 
     return "\n\n".join(sections)
 
 
-def update_readme(categories: list[dict]) -> None:
-    """Read README.md, find the marker section, and replace it with
-    generated tables."""
+def update_readme(config):
     raw = README_PATH.read_text(encoding="utf-8")
-
     if MARKER_START not in raw or MARKER_END not in raw:
-        raise SystemExit(
-            f"README.md missing markers: {MARKER_START} ... {MARKER_END}"
-        )
+        raise SystemExit(f"README.md missing markers: {MARKER_START} ... {MARKER_END}")
 
     before = raw.split(MARKER_START, 1)[0]
     after = raw.split(MARKER_END, 1)[1]
 
-    tables = build_tables(categories)
+    tables = build_tables(config)
     new_readme = (
         before.rstrip()
         + "\n\n"
@@ -136,16 +101,16 @@ def update_readme(categories: list[dict]) -> None:
         + MARKER_END
         + after
     )
-
     README_PATH.write_text(new_readme, encoding="utf-8")
     print(f"Updated {README_PATH}")
 
 
-def main() -> None:
-    if not OPML_PATH.exists():
-        raise SystemExit(f"OPML file not found: {OPML_PATH}")
-    categories = parse_opml(OPML_PATH)
-    update_readme(categories)
+def main():
+    if not CONFIG_PATH.exists():
+        raise SystemExit(f"Config not found: {CONFIG_PATH}")
+    with open(CONFIG_PATH, "r", encoding="utf-8") as f:
+        config = json.load(f)
+    update_readme(config)
 
 
 if __name__ == "__main__":

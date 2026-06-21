@@ -1,35 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>AI News Radar — Bole Picks 伯乐精选</title>
+  <title>AI News Radar (Bo Le Picks)</title>
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
-  <link href="https://learnprompt.github.io/ai-news-radar/"/>
-  <id>https://learnprompt.github.io/ai-news-radar/</id>
-  <updated>2026-06-20T18:05:31+00:00</updated>
+  <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
+  <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
+  <updated>2026-06-21T01:21:50+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
+  <entry>
+    <title>AI 时代的第一批鸡娃：我们仍旧热衷于制造神童</title>
+    <link href="https://www.huxiu.com/article/4868914.html?f=rss"/>
+    <id>e1b4f4929de89fc79c3e1d1fcb6d13bd</id>
+    <published>2026-06-21T01:21:50+00:00</published>
+    <updated>2026-06-21T01:21:50+00:00</updated>
+    <summary type="text">Score: 0.548\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>英国内政部斥资 7500 万英镑推出“PoliceAI”以利用人工智能 / UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence</title>
+    <link href="https://news.ycombinator.com/item?id=48612806"/>
+    <id>6db967382b622bb9cf87f0476b4dac8c</id>
+    <published>2026-06-20T20:41:06+00:00</published>
+    <updated>2026-06-20T20:41:06+00:00</updated>
+    <summary type="text">Score: 0.510\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
   <entry>
     <title>机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own</title>
     <link href="https://news.ycombinator.com/item?id=48611411"/>
     <id>7a81c903be72377e7d003d7e1f6f5439</id>
     <published>2026-06-20T18:05:31+00:00</published>
     <updated>2026-06-20T18:05:31+00:00</updated>
-    <summary type="text">Score: 0.587
-Sources: 4 (NewsNow)
-Importance: 多源热议</summary>
+    <summary type="text">Score: 0.539\nSources: 4 (NewsNow)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
     <title>点击这里进入 / Click here to enter</title>
-    <link href="http://ai.hubtoday.app/?tr_uuid=20260621-0614-54a2-8c59-8033b6969019&amp;fp=-3"/>
+    <link href="http://ai.hubtoday.app/?tr_uuid=20260621-1158-3323-8e8b-6150823e4fff&amp;fp=-3"/>
     <id>ac691b002c5214725c49c4af90dff4ff</id>
     <published>2026-06-20T17:00:47.411015+00:00</published>
     <updated>2026-06-20T17:00:47.411015+00:00</updated>
-    <summary type="text">Score: 0.862
-Sources: 3 (AI HubToday)
-Importance: 多源热议</summary>
+    <summary type="text">Score: 0.912\nSources: 6 (AI HubToday)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -42,9 +60,7 @@ Importance: 多源热议</summary>
     <id>4cb42400eb9d2a4e150dbf8a9ab05216</id>
     <published>2026-06-20T14:53:23+00:00</published>
     <updated>2026-06-20T14:53:23+00:00</updated>
-    <summary type="text">Score: 0.521
-Sources: 2 (TopHub)
-Importance: 值得关注</summary>
+    <summary type="text">Score: 0.473\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
@@ -55,9 +71,7 @@ Importance: 值得关注</summary>
     <id>a89fe05609a66665993cf969b988a9e0</id>
     <published>2026-06-20T14:41:51+00:00</published>
     <updated>2026-06-20T14:41:51+00:00</updated>
-    <summary type="text">Score: 0.521
-Sources: 2 (TopHub)
-Importance: 值得关注</summary>
+    <summary type="text">Score: 0.473\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
@@ -68,9 +82,18 @@ Importance: 值得关注</summary>
     <id>1ccd3778b1604047e20d06f39ac43ce4</id>
     <published>2026-06-20T14:36:02+00:00</published>
     <updated>2026-06-20T14:36:02+00:00</updated>
-    <summary type="text">Score: 0.501
-Sources: 2 (Info Flow)
-Importance: 值得关注</summary>
+    <summary type="text">Score: 0.453\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>美国科学家 John Jumper 离开 Google DeepMind 加入 Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic</title>
+    <link href="https://news.ycombinator.com/item?id=48609506"/>
+    <id>00c2474246c2b924c83969f606e70d27</id>
+    <published>2026-06-20T14:32:15+00:00</published>
+    <updated>2026-06-20T14:32:15+00:00</updated>
+    <summary type="text">Score: 0.472\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
@@ -81,38 +104,21 @@ Importance: 值得关注</summary>
     <id>de0268f8ebfbdd16b996f5ae4ab0a20a</id>
     <published>2026-06-20T14:12:50+00:00</published>
     <updated>2026-06-20T14:12:50+00:00</updated>
-    <summary type="text">Score: 0.520
-Sources: 2 (NewsNow)
-Importance: 值得关注</summary>
+    <summary type="text">Score: 0.472\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>开源教程《Deep Agents 实战》发布</title>
-    <link href="https://x.com/shao__meng/status/2068306942184034471"/>
-    <id>73afa474f43d544ee64534aaad72a81c</id>
-    <published>2026-06-20T12:16:16+00:00</published>
-    <updated>2026-06-20T12:16:16+00:00</updated>
-    <summary type="text">Score: 0.746
-Sources: 1 (AI HOT)
-Importance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare accounts for AI agents</title>
-    <link href="https://news.ycombinator.com/item?id=48608394"/>
+    <title>用于 AI 代理的临时 Cloudflare 账户</title>
+    <link href="https://blog.cloudflare.com/temporary-accounts"/>
     <id>105b16d803eedd806176a7703b701bd3</id>
     <published>2026-06-20T11:19:05+00:00</published>
     <updated>2026-06-20T11:19:05+00:00</updated>
-    <summary type="text">Score: 0.503
-Sources: 2 (NewsNow)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
+    <summary type="text">Score: 0.525\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
     <category term="multi_source"/>
-    <category term="watch"/>
+    <category term="multi_source"/>
   </entry>
   <entry>
     <title>LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型</title>
@@ -120,9 +126,7 @@ Importance: 值得关注</summary>
     <id>c0d705c6155b56aa6bd6a880586606c8</id>
     <published>2026-06-20T09:37:07+00:00</published>
     <updated>2026-06-20T09:37:07+00:00</updated>
-    <summary type="text">Score: 0.471
-Sources: 2 (TopHub)
-Importance: 值得关注</summary>
+    <summary type="text">Score: 0.423\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
@@ -133,9 +137,7 @@ Importance: 值得关注</summary>
     <id>48a403623f718a28ea4720fe8f9a1f95</id>
     <published>2026-06-20T08:42:24+00:00</published>
     <updated>2026-06-20T08:42:24+00:00</updated>
-    <summary type="text">Score: 0.452
-Sources: 2 (Buzzing)
-Importance: 值得关注</summary>
+    <summary type="text">Score: 0.405\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
@@ -146,100 +148,7 @@ Importance: 值得关注</summary>
     <id>31d579cabfdb355c304b85f65fb65178</id>
     <published>2026-06-20T04:16:18+00:00</published>
     <updated>2026-06-20T04:16:18+00:00</updated>
-    <summary type="text">Score: 0.420
-Sources: 2 (TopHub)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>如今，大型语言模型变得很复杂</title>
-    <link href="https://ianbarber.blog/2026/06/19/llms-are-complicated-now"/>
-    <id>2dcc586f979538dc2bea5d3cc93a11ff</id>
-    <published>2026-06-20T01:25:14+00:00</published>
-    <updated>2026-06-20T01:25:14+00:00</updated>
-    <summary type="text">Score: 0.508
-Sources: 2 (Buzzing)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗</title>
-    <link href="https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future"/>
-    <id>e1c153bddc46a93d26b2ff1f90fc0579</id>
-    <published>2026-06-20T00:51:33+00:00</published>
-    <updated>2026-06-20T00:51:33+00:00</updated>
-    <summary type="text">Score: 0.412
-Sources: 2 (Buzzing)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership</title>
-    <link href="https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership"/>
-    <id>c3b9bc4cd52ff0afb79c6c6e4e9e3a59</id>
-    <published>2026-06-19T21:44:11.716000+00:00</published>
-    <updated>2026-06-19T21:44:11.716000+00:00</updated>
-    <summary type="text">Score: 0.371
-Sources: 2 (TechURLs)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>挪威小学近乎禁止人工智能 / Norway Imposes Near Ban On AI In Elementary School</title>
-    <link href="https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school"/>
-    <id>c9843de5b2755e65c7ee5f08f0c38e55</id>
-    <published>2026-06-19T21:44:11.716000+00:00</published>
-    <updated>2026-06-19T21:44:11.716000+00:00</updated>
-    <summary type="text">Score: 0.363
-Sources: 2 (Info Flow)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>美国科学家约翰·詹珀将离开谷歌DeepMind，加入Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic</title>
-    <link href="https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19"/>
-    <id>00c2474246c2b924c83969f606e70d27</id>
-    <published>2026-06-19T20:45:28.300000+00:00</published>
-    <updated>2026-06-19T20:45:28.300000+00:00</updated>
-    <summary type="text">Score: 0.500
-Sources: 2 (TechURLs)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>使用 Airgap 隐藏 AI 代理和 NPM 安装的秘密 / Hide Secrets from AI Agents and NPM install using Airgap</title>
-    <link href="https://news.ycombinator.com/item?id=48602862"/>
-    <id>1d7c494d6e52a645917e1f6f53e0c6ca</id>
-    <published>2026-06-19T20:24:59+00:00</published>
-    <updated>2026-06-19T20:24:59+00:00</updated>
-    <summary type="text">Score: 0.368
-Sources: 2 (NewsNow)
-Importance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>约翰·詹珀 (John Jumper) 加盟 Anthropic / John Jumper to join Anthropic</title>
-    <link href="https://news.ycombinator.com/item?id=48601162"/>
-    <id>e85661aedbd59ace32d6014beea65d81</id>
-    <published>2026-06-19T20:15:00.054000+00:00</published>
-    <updated>2026-06-19T20:15:00.054000+00:00</updated>
-    <summary type="text">Score: 0.360
-Sources: 2 (NewsNow)
-Importance: 值得关注</summary>
+    <summary type="text">Score: 0.372\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>

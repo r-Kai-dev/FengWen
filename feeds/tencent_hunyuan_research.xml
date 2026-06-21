@@ -11,7 +11,7 @@
   <entry>
     <title>Hy-MT2：面向实际应用场景的高性能多语言翻译模型</title>
     <link href="https://hunyuan.tencent.com/research/100041"/>
-    <id>ec80b4167ce835c2ec288114f9c939f3</id>
+    <id>7c565d64fa07ac1265418592311b5966</id>
     <published>2026-05-21T00:00:00+00:00</published>
     <updated>2026-05-21T00:00:00+00:00</updated>
     <summary type="text">Hy-MT2 是支持 33 种语言互译的多语言模型，其中7B 和 30B-A3B模型在各类翻译任务上达到了开源模型最佳效果，超越了几十倍参数量的模型。轻量级的 1.8B 模型也超越了微软和豆包等主流商业 API，且得益于 AngelSlim 1.25-bit 极端量化，仅需 440MB 存储空间，可以轻松部署在苹果、高通、联发科等手机芯片上支持本地推理，相比Hy-MT1.5推理速度提升 1.5 倍。基于Hy-MT2模型的“腾讯Hy翻译”小程序已经上线，IOS和安卓APP即将上线（支持本地推理）。</summary>
@@ -22,7 +22,7 @@
   <entry>
     <title>Real life is where context gets hard</title>
     <link href="https://hunyuan.tencent.com/research/100039"/>
-    <id>48d9d81bc7c4ea927dd9cd18cbc4df9a</id>
+    <id>084e97c821a1a7afa103bcb35665d321</id>
     <published>2026-04-30T00:00:00+00:00</published>
     <updated>2026-04-30T00:00:00+00:00</updated>
     <summary type="text">此前，我们发布了 CL-bench，用来测试 AI 能否从 context 中掌握复杂的新知识，并将其有效运用。它关注的是专业场景中相对清晰、经过整理的 context。但现实生活中的 context 并不是一本提前梳理好的“说明书”。如果要成为真正好用的日常助理，AI 不能只停留于理解和运用新知识；它还必须能看懂复杂的人际关系，处理混乱、碎片化、不断变化的信息，并从这些线索中读懂我们真实的生活。</summary>
@@ -31,14 +31,14 @@
   <entry>
     <title>Hy3 preview : 混元大模型重建的第一步</title>
     <link href="https://hunyuan.tencent.com/research/583"/>
-    <id>e23b333c561b370e56ca90d4f8c04137</id>
+    <id>241af0e4b02c014d1da28e8ac663f90b</id>
     <published>2026-04-22T00:00:00+00:00</published>
     <updated>2026-04-22T00:00:00+00:00</updated>
   </entry>
   <entry>
     <title>Stabilizing RLVR via Token-level Gradient Diagnosis and Layerwise Clipping</title>
     <link href="https://hunyuan.tencent.com/research/100015"/>
-    <id>b65503970855f4b97cb5263068de3c85</id>
+    <id>f87c15c921953d1eefd54de5cc93ff9c</id>
     <published>2026-02-13T00:00:00+00:00</published>
     <updated>2026-02-13T00:00:00+00:00</updated>
     <category term="黄冠华,"/>
@@ -48,9 +48,9 @@
   <entry>
     <title>Learning from context is harder than we thought</title>
     <link href="https://hunyuan.tencent.com/research/100025"/>
-    <id>50a14f3c77f247df9411127cb2c93878</id>
-    <published>2026-02-03T00:00:00+00:00</published>
-    <updated>2026-02-03T00:00:00+00:00</updated>
+    <id>9e9cdf5f6c651210b29cc9adfb0390bc</id>
+    <published>2026-02-02T00:00:00+00:00</published>
+    <updated>2026-02-02T00:00:00+00:00</updated>
     <category term="Shihan Dou and Pluto Zhou"/>
   </entry>
 </feed>

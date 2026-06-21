@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>AlphaSignal AI News</title>
+  <title>AlphaSignal News</title>
   <icon>https://alphasignal.ai/favicon.ico</icon>
-  <link href="https://alphasignal.ai"/>
-  <id>https://alphasignal.ai</id>
-  <updated>2026-06-20T18:45:57+00:00</updated>
+  <link href="https://alphasignal.ai/"/>
+  <id>https://alphasignal.ai/</id>
+  <updated>2026-06-20T23:16:21+00:00</updated>
   <author>
-    <name>Nous Research</name>
+    <name>Datacurve</name>
   </author>
+  <entry>
+    <title>Zhipu AI's GLM 5.2 Tops Open-Source Coding at 44%, Beating Rivals for Less</title>
+    <link href="https://deepswe.datacurve.ai/"/>
+    <id>9b27cace4d40fb4661f27c39e2fc302a</id>
+    <published>2026-06-20T23:16:21+00:00</published>
+    <updated>2026-06-20T23:16:21+00:00</updated>
+    <summary type="text">GLM 5.2 claims the top open-source spot on DeepSWE with a 44% pass@1, beating Kimi K2.7 Code by 17 percentage points on a contamination-free coding benchmark.</summary>
+    <category term="development"/>
+    <category term="open_source"/>
+  </entry>
   <entry>
     <title>Nous Research's Hermes Agent Ships Blank Slate Mode for Full Custom Control</title>
     <link href="https://hermes-agent.nousresearch.com/docs/getting-started/quickstart"/>
@@ -117,15 +127,5 @@
     <summary type="text">Krea launches a structured Creator Program offering compute credits, early tool access, and a 25% affiliate cut to artists who apply</summary>
     <category term="image"/>
     <category term="business"/>
-  </entry>
-  <entry>
-    <title>OpenAI Finds Training Alignment in One Domain Fixes It Everywhere</title>
-    <link href="https://alignment.openai.com/beneficial-rl/"/>
-    <id>e5366aca56449bd2ede14c7a93c10193</id>
-    <published>2026-06-18T21:34:39+00:00</published>
-    <updated>2026-06-18T21:34:39+00:00</updated>
-    <summary type="text">OpenAI shows that RL-training beneficial traits in one domain generalizes alignment across unrelated tasks and resists adversarial fine-tuning</summary>
-    <category term="post_training"/>
-    <category term="security"/>
   </entry>
 </feed>

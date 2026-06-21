@@ -4,36 +4,41 @@ when:
   # - event: push
 
 steps:
-  - name: fetch-html
+  - name: scrape-request
     image: python:3.12
     commands:
       - pip install -q curl_cffi beautifulsoup4
-      - python3 src/fetch/fetch_html.py
+      - mkdir -p logs
+      - cd src
+      - export PYTHONPATH="$PWD"
+      - |
+        SUCCEEDED=0
+        FAILED=0
+        for s in scrape_*.py; do
+          name="$(basename "$s" .py)"
+          python3 "$s" > "../logs/${name}.log" 2>&1 &
+        done
+        for s in request_*.py; do
+          name="$(basename "$s" .py)"
+          python3 "$s" > "../logs/${name}.log" 2>&1 &
+        done
+        for job in $(jobs -p); do
+          wait "$job" && SUCCEEDED=$((SUCCEEDED + 1)) || FAILED=$((FAILED + 1))
+        done
+        echo "scrape-request: $SUCCEEDED succeeded, $FAILED failed"
+        [ "$SUCCEEDED" -gt 0 ] || exit 1
     depends_on: []
 
-  - name: fetch-js
+  - name: crawl
     image: python:3.12
     commands:
       - apt-get update -qq && apt-get install -y -qq chromium 2>/dev/null
       - pip install -q curl_cffi beautifulsoup4 DrissionPage
-      - python3 src/fetch/fetch_js.py
+      - mkdir -p logs
+      - cd src
+      - export PYTHONPATH="$PWD"
+      - python3 crawl_runner.py > ../logs/crawl_runner.log 2>&1
     depends_on: []
-
-  - name: request
-    image: python:3.12
-    commands:
-      - pip install -q curl_cffi
-      - bash src/request/run.sh
-    depends_on: []
-
-  - name: parse
-    image: python:3.12
-    commands:
-      - pip install -q beautifulsoup4
-      - bash src/parse/run.sh
-    depends_on:
-      - fetch-html
-      - fetch-js
 
   - name: update-feeds
     image: alpine/git
@@ -48,4 +53,5 @@ steps:
       - git remote set-url origin https://$CI_REPO_OWNER:$CODEBERG_TOKEN@codeberg.org/$CI_REPO.git
       - git push origin HEAD:main
     depends_on:
-      - parse
+      - scrape-request
+      - crawl
