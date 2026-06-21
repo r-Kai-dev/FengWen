@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vals AI News</title>
+  <icon>https://www.vals.ai/favicon-dark.svg</icon>
+  <link href="https://www.vals.ai/news"/>
+  <id>https://www.vals.ai/news</id>
+  <updated>2026-06-17T00:00:00+00:00</updated>
+  <author>
+    <name>Vals AI</name>
+  </author>
+  <entry>
+    <title>Harvey's Legal Agent Benchmark Released</title>
+    <link href="https://www.vals.ai/benchmarks/hlab"/>
+    <id>efb2f6631f7955074a8792bdcdf5c03e</id>
+    <published>2026-06-17T00:00:00+00:00</published>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <category term="Benchmark"/>
+  </entry>
+  <entry>
+    <title>z.AI's GLM 5.2 evaluated across our benchmark suite</title>
+    <link href="https://www.vals.ai/models/zai_glm-5.2"/>
+    <id>6751d9a32b74ead8cdcc60a4482465e4</id>
+    <published>2026-06-17T00:00:00+00:00</published>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <category term="Model"/>
+  </entry>
+  <entry>
+    <title>Code Migration Released</title>
+    <link href="https://www.vals.ai/benchmarks/code-migration"/>
+    <id>b585a7f922cb9528c67fe1d5746fa97e</id>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
+    <category term="Benchmark"/>
+  </entry>
+  <entry>
+    <title>Kimi K2.7 Code evaluated across our coding benchmarks</title>
+    <link href="https://www.vals.ai/models/kimi_kimi-k2.7-code"/>
+    <id>7f09a8e4f1a6c7484832a1e623a3be68</id>
+    <published>2026-06-13T00:00:00+00:00</published>
+    <updated>2026-06-13T00:00:00+00:00</updated>
+    <category term="Model"/>
+  </entry>
+  <entry>
+    <title>Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI</title>
+    <link href="https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/"/>
+    <id>9b9a44f05ea0be5ca5506820344f06e0</id>
+    <published>2026-06-12T00:00:00+00:00</published>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <category term="Media"/>
+  </entry>
+  <entry>
+    <title>SpaceX Has the Worst AI. But It’s Still Reaping the Benefits of Being the First Big AI Company to IPO</title>
+    <link href="https://www.inc.com/ben-sherry/spacex-has-the-worst-ai-but-its-still-reaping-the-benefits-of-being-the-first-big-ai-company-to-ipo/91360275"/>
+    <id>0d4f08c3831d6490ede594c2b533c79a</id>
+    <published>2026-06-12T00:00:00+00:00</published>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <category term="Media"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Fable 5 evaluated across our benchmark suite</title>
+    <link href="https://www.vals.ai/models/anthropic_claude-fable-5"/>
+    <id>851e9c77c554df5cb100915a49117ad1</id>
+    <published>2026-06-09T00:00:00+00:00</published>
+    <updated>2026-06-09T00:00:00+00:00</updated>
+    <category term="Model"/>
+  </entry>
+  <entry>
+    <title>Public Benefits Bench Released</title>
+    <link href="https://www.vals.ai/benchmarks/public-benefits-bench"/>
+    <id>2e929487843856a6d735b6b8fad4a511</id>
+    <published>2026-06-09T00:00:00+00:00</published>
+    <updated>2026-06-09T00:00:00+00:00</updated>
+    <category term="Benchmark"/>
+  </entry>
+  <entry>
+    <title>NVIDIA's Nemotron 3 Ultra evaluated across our benchmark suite</title>
+    <link href="https://www.vals.ai/models/nvidia_nemotron-3-ultra-550b-a55b"/>
+    <id>a0d05eeb309138c30c3d1ca7fe3df484</id>
+    <published>2026-06-04T00:00:00+00:00</published>
+    <updated>2026-06-04T00:00:00+00:00</updated>
+    <category term="Model"/>
+  </entry>
+  <entry>
+    <title>Alibaba's Qwen 3.7 Plus evaluated on the Vals Index</title>
+    <link href="https://www.vals.ai/models/alibaba_qwen3.7-plus"/>
+    <id>e1072351b39425a5f196d92adff939e8</id>
+    <published>2026-06-02T00:00:00+00:00</published>
+    <updated>2026-06-02T00:00:00+00:00</updated>
+    <category term="Model"/>
+  </entry>
+  <entry>
+    <title>MiniMax's MiniMax M3 evaluated across our benchmark suite</title>
+    <link href="https://www.vals.ai/models/minimax_MiniMax-M3"/>
+    <id>69b22bd34444d7f0bc0d95e751aff5e6</id>
+    <published>2026-06-02T00:00:00+00:00</published>
+    <updated>2026-06-02T00:00:00+00:00</updated>
+    <category term="Model"/>
+  </entry>
+  <entry>
+    <title>Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up</title>
+    <link href="https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html"/>
+    <id>bd44dab2d4e15c53f079992a5153d5f2</id>
+    <published>2026-05-28T00:00:00+00:00</published>
+    <updated>2026-05-28T00:00:00+00:00</updated>
+    <category term="Media"/>
+  </entry>
+  <entry>
+    <title>Anthropic deepens push into Wall Street with new AI agents, full Microsoft 365 integration, Moody's data partnership</title>
+    <link href="https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/"/>
+    <id>1666efe1209f218be806f3c511d01674</id>
+    <published>2026-05-05T00:00:00+00:00</published>
+    <updated>2026-05-05T00:00:00+00:00</updated>
+    <category term="Media"/>
+  </entry>
+</feed>

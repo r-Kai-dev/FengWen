@@ -779,6 +779,22 @@
       ]
     },
     {
+      "org_key": "vals",
+      "name": "Vals AI",
+      "strategy": "scrape",
+      "base_url": "https://www.vals.ai",
+      "favicon": "https://www.vals.ai/favicon-dark.svg",
+      "category": "Eval",
+      "pages": [
+        {
+          "key": "news",
+          "label": "Vals AI News",
+          "url": "https://www.vals.ai/news",
+          "output_file": "vals_news.xml"
+        }
+      ]
+    },
+    {
       "org_key": "higgsfield",
       "name": "Higgsfield",
       "strategy": "crawl",
