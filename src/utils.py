@@ -85,10 +85,11 @@ def fetch_page(
     *,
     impersonate: str = "chrome120",
     timeout: int = 30,
+    headers: dict[str, str] | None = None,
 ) -> str:
     """GET *url* synchronously with browser impersonation, return text."""
     with SyncSession() as s:
-        resp = s.get(url, impersonate=impersonate, timeout=timeout)
+        resp = s.get(url, impersonate=impersonate, timeout=timeout, headers=headers)
         resp.raise_for_status()
         return resp.text
 

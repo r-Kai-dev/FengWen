@@ -1,14 +1,16 @@
 """Scrape Udio blog page."""
 
+import asyncio
 import hashlib
 import logging
 from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
+from curl_cffi.requests import AsyncSession
 
 from utils import (
     FEEDS_DIR, setup_logging, ensure_output_dir,
-    load_feeds_config, fetch_page, compact, write_atom_feed,
+    load_feeds_config, fetch_with_retry, compact, write_atom_feed,
 )
 
 setup_logging()
@@ -63,12 +65,16 @@ def extract_posts(soup):
     return posts
 
 
-def main():
+async def main():
     config = load_feeds_config(ORG_KEY)
     page = config["pages"]["blog"]
     logging.info("Fetching %s: %s", page["label"], page["url"])
-    html = fetch_page(page["url"])
-    soup = BeautifulSoup(html, "html.parser")
+
+    async with AsyncSession() as session:
+        resp = await fetch_with_retry(session, page["url"],
+                                       impersonate="edge101", timeout=30)
+
+    soup = BeautifulSoup(resp.text, "html.parser")
     entries = extract_posts(soup)
     if not entries:
         logging.warning("No entries found")
@@ -79,4 +85,4 @@ def main():
                     feed_icon=config.get("favicon"))
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())

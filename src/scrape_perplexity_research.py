@@ -1,14 +1,17 @@
 """Scrape Perplexity Research blog from Framer handoverData."""
 
+import asyncio
 import hashlib
 import json
 import logging
 import re
 from datetime import datetime, timezone
 
+from curl_cffi.requests import AsyncSession
+
 from utils import (
     FEEDS_DIR, setup_logging, ensure_output_dir,
-    load_feeds_config, fetch_page, compact, write_atom_feed,
+    load_feeds_config, fetch_with_retry, compact, write_atom_feed,
 )
 
 setup_logging()
@@ -79,12 +82,16 @@ def extract(html):
     return entries
 
 
-def main():
+async def main():
     config = load_feeds_config(ORG_KEY)
     page = config["pages"]["research"]
     logging.info("Fetching %s: %s", page["label"], PAGE_URL)
-    html = fetch_page(PAGE_URL)
-    entries = extract(html)
+
+    async with AsyncSession() as session:
+        resp = await fetch_with_retry(session, PAGE_URL,
+                                       impersonate="chrome120", timeout=30)
+
+    entries = extract(resp.text)
     if not entries:
         logging.warning("No entries found")
         return
@@ -94,4 +101,4 @@ def main():
                     feed_icon=config.get("favicon"))
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
