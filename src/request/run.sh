@@ -22,6 +22,7 @@ if [ ${#SCRIPTS[@]} -eq 0 ]; then
 fi
 
 FAILED=0
+SUCCEEDED=0
 for script in "${SCRIPTS[@]}"; do
     name="${script%.py}"
     logfile="$LOGDIR/${name}.log"
@@ -32,8 +33,10 @@ for script in "${SCRIPTS[@]}"; do
 
     if python3 "$script" > "$logfile" 2>&1; then
         echo "[DONE] $script"
+        SUCCEEDED=$((SUCCEEDED + 1))
     else
-        echo "[FAIL] $script (exit code $? — see $logfile)"
+        rc=$?
+        echo "[FAIL] $script (exit code $rc — see $logfile)"
         FAILED=$((FAILED + 1))
     fi
 done
@@ -42,8 +45,15 @@ echo ""
 echo "========================================"
 if [ "$FAILED" -eq 0 ]; then
     echo "All request scripts completed successfully."
+elif [ "$SUCCEEDED" -eq 0 ]; then
+    echo "All $FAILED script(s) failed."
 else
-    echo "$FAILED script(s) failed."
+    echo "$SUCCEEDED script(s) succeeded, $FAILED script(s) failed."
 fi
 echo "========================================"
-exit "$FAILED"
+
+if [ "$SUCCEEDED" -gt 0 ] || [ ${#SCRIPTS[@]} -eq 0 ]; then
+    exit 0
+else
+    exit "$FAILED"
+fi
