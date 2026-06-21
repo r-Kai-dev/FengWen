@@ -4,153 +4,231 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-06-21T01:21:50+00:00</updated>
+  <updated>2026-06-21T19:57:17+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>AI 时代的第一批鸡娃：我们仍旧热衷于制造神童</title>
-    <link href="https://www.huxiu.com/article/4868914.html?f=rss"/>
-    <id>e1b4f4929de89fc79c3e1d1fcb6d13bd</id>
-    <published>2026-06-21T01:21:50+00:00</published>
-    <updated>2026-06-21T01:21:50+00:00</updated>
-    <summary type="text">Score: 0.548\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
+    <title>关于当前艺术作品中出现的LLM中毒现象，有什么建议吗？</title>
+    <link href="https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork"/>
+    <id>caaa5f263fdf0817b1efe6ac0723c6fd</id>
+    <published>2026-06-21T19:57:17+00:00</published>
+    <updated>2026-06-21T19:57:17+00:00</updated>
+    <summary type="text">Score: 0.542\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>英国内政部斥资 7500 万英镑推出“PoliceAI”以利用人工智能 / UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence</title>
-    <link href="https://news.ycombinator.com/item?id=48612806"/>
-    <id>6db967382b622bb9cf87f0476b4dac8c</id>
-    <published>2026-06-20T20:41:06+00:00</published>
-    <updated>2026-06-20T20:41:06+00:00</updated>
-    <summary type="text">Score: 0.510\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <title>什么是GLM-5.2？又一款开源的中国AI模型引起了硅谷的关注。</title>
+    <link href="https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6"/>
+    <id>1e2c9bb9167533408d13a1ed2791d7e3</id>
+    <published>2026-06-21T19:52:34+00:00</published>
+    <updated>2026-06-21T19:52:34+00:00</updated>
+    <summary type="text">Score: 0.542\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own</title>
-    <link href="https://news.ycombinator.com/item?id=48611411"/>
-    <id>7a81c903be72377e7d003d7e1f6f5439</id>
-    <published>2026-06-20T18:05:31+00:00</published>
-    <updated>2026-06-20T18:05:31+00:00</updated>
-    <summary type="text">Score: 0.539\nSources: 4 (NewsNow)\nImportance: 多源热议</summary>
+    <title>Lodash 的创建者 John-David Dalton 表示，OSS 世界中的倦怠是真实存在的 / Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash</title>
+    <link href="https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers"/>
+    <id>1da6fd7da0dabb0eaeed7f96a97a474c</id>
+    <published>2026-06-21T16:56:18+00:00</published>
+    <updated>2026-06-21T16:56:18+00:00</updated>
+    <summary type="text">Score: 0.515\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Show HN: 适用于Abaqus的Jacobi–IDE子程序，包含解析测试和AI诊断功能</title>
+    <link href="https://jacobee.netlify.app"/>
+    <id>b2712aa604756aefd08db7d8180c6f62</id>
+    <published>2026-06-21T16:20:46+00:00</published>
+    <updated>2026-06-21T16:20:46+00:00</updated>
+    <summary type="text">Score: 0.511\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>人工智能打破了招聘 / AI Has Broken Hiring</title>
+    <link href="https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it"/>
+    <id>601be8b43ebbef7facbfdd5bea4f36d5</id>
+    <published>2026-06-21T16:14:54+00:00</published>
+    <updated>2026-06-21T16:14:54+00:00</updated>
+    <summary type="text">Score: 0.509\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>代码重复远比错误的抽象更划算（2016） / Code duplication is far cheaper than the wrong abstraction</title>
+    <link href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction"/>
+    <id>8ca2cc21ecd833e07ed1797e996dfdfa</id>
+    <published>2026-06-21T16:08:23+00:00</published>
+    <updated>2026-06-21T16:08:23+00:00</updated>
+    <summary type="text">Score: 0.509\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>NSA局长：Mythos数小时内攻破其几乎所有机密系统</title>
+    <link href="https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u"/>
+    <id>f6ca6f63a5bb2ea3b206998a56898d74</id>
+    <published>2026-06-21T15:31:52+00:00</published>
+    <updated>2026-06-21T15:31:52+00:00</updated>
+    <summary type="text">Score: 0.767\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>人工智能是一种大众精神病错觉[视频] / AI is a mass psychotic delusion [video]</title>
+    <link href="https://www.youtube.com/watch?v=WNiSUGCC-gY"/>
+    <id>bb5c047326dd53484cdbfe5889abe03b</id>
+    <published>2026-06-21T15:12:22+00:00</published>
+    <updated>2026-06-21T15:12:22+00:00</updated>
+    <summary type="text">Score: 0.514\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>当 AI 可以造梦，电影工业回归「人」的壁垒</title>
+    <link href="https://www.huxiu.com/article/4869007.html?f=rss"/>
+    <id>b1d8431cf51c8f5cf54574eb3d837f28</id>
+    <published>2026-06-21T15:08:30+00:00</published>
+    <updated>2026-06-21T15:08:30+00:00</updated>
+    <summary type="text">Score: 0.516\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>不用怕：AI 学得会好品味，学不会坏品味</title>
+    <link href="https://www.huxiu.com/article/4869006.html?f=rss"/>
+    <id>a2cc627dd7d5f02b9c5785d3b1dce39e</id>
+    <published>2026-06-21T15:02:25+00:00</published>
+    <updated>2026-06-21T15:02:25+00:00</updated>
+    <summary type="text">Score: 0.516\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>我十几岁的儿子正在用人工智能完成数学作业。我现在正在协助他的学校起草首份人工智能政策。</title>
+    <link href="https://www.businessinsider.com/teenager-uses-ai-homework-mom-helped-school-write-ai-policy-2026-6"/>
+    <id>1e0c5406547ac88f290e17d026765ed4</id>
+    <published>2026-06-21T13:27:01+00:00</published>
+    <updated>2026-06-21T13:27:01+00:00</updated>
+    <summary type="text">Score: 0.487\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>asgeirtj / system_prompts_leaks</title>
+    <link href="https://github.com/asgeirtj/system_prompts_leaks"/>
+    <id>2c4b152e510a2898e0867f099ee37e24</id>
+    <published>2026-06-21T12:54:23.610000+00:00</published>
+    <updated>2026-06-21T12:54:23.610000+00:00</updated>
+    <summary type="text">Score: 0.483\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>mukul975 / 人类网络安全技能 / mukul975 / Anthropic-Cybersecurity-Skills</title>
+    <link href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills"/>
+    <id>1363cca33076e645feedc01cfff541dc</id>
+    <published>2026-06-21T12:54:23.610000+00:00</published>
+    <updated>2026-06-21T12:54:23.610000+00:00</updated>
+    <summary type="text">Score: 0.483\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>克劳德身份验证 / Identity verification on Claude</title>
+    <link href="https://news.ycombinator.com/item?id=48618455"/>
+    <id>c2fa9351ce0e98c351d0bbb89fe7132e</id>
+    <published>2026-06-21T12:44:13+00:00</published>
+    <updated>2026-06-21T12:44:13+00:00</updated>
+    <summary type="text">Score: 0.579\nSources: 4 (NewsNow)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>失控，AI的第一个泡沫，是程序员</title>
+    <link href="https://www.huxiu.com/article/4868994.html?f=rss"/>
+    <id>df9d3bdb97df2292b10681de6190664c</id>
+    <published>2026-06-21T12:40:00+00:00</published>
+    <updated>2026-06-21T12:40:00+00:00</updated>
+    <summary type="text">Score: 0.480\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>人工智能会毁掉我们的技能吗？初步结果已经出炉，情况并不乐观</title>
+    <link href="https://www.nature.com/articles/d41586-026-01947-1"/>
+    <id>7c3287cd149c534abd3fa9d91a5fa782</id>
+    <published>2026-06-21T10:41:47+00:00</published>
+    <updated>2026-06-21T10:41:47+00:00</updated>
+    <summary type="text">Score: 0.465\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型</title>
+    <link href="https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1"/>
+    <id>f1988d6637e6f98983486678730a054a</id>
+    <published>2026-06-21T10:11:21+00:00</published>
+    <updated>2026-06-21T10:11:21+00:00</updated>
+    <summary type="text">Score: 0.723\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>人工智能的10万个“为什么”</title>
+    <link href="https://lcamtuf.substack.com/p/the-100000-whys-of-ai"/>
+    <id>e95e8d08f8a51a9cd085dcd901611866</id>
+    <published>2026-06-21T05:45:21+00:00</published>
+    <updated>2026-06-21T05:45:21+00:00</updated>
+    <summary type="text">Score: 0.452\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>构建可靠的代理式人工智能系统</title>
+    <link href="https://martinfowler.com/articles/reliable-llm-bayer.html"/>
+    <id>7239217e75f8a11915811093a860a067</id>
+    <published>2026-06-21T04:28:39+00:00</published>
+    <updated>2026-06-21T04:28:39+00:00</updated>
+    <summary type="text">Score: 0.481\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
     <title>点击这里进入 / Click here to enter</title>
-    <link href="http://ai.hubtoday.app/?tr_uuid=20260621-1158-3323-8e8b-6150823e4fff&amp;fp=-3"/>
+    <link href="http://ai.hubtoday.app/?tr_uuid=20260622-0652-324c-8aa2-c9ddc7b0915d&amp;fp=-3"/>
     <id>ac691b002c5214725c49c4af90dff4ff</id>
-    <published>2026-06-20T17:00:47.411015+00:00</published>
-    <updated>2026-06-20T17:00:47.411015+00:00</updated>
-    <summary type="text">Score: 0.912\nSources: 6 (AI HubToday)\nImportance: 多源热议</summary>
+    <published>2026-06-20T21:47:03.453023+00:00</published>
+    <updated>2026-06-20T21:47:03.453023+00:00</updated>
+    <summary type="text">Score: 0.912\nSources: 10 (AI HubToday)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>和郭靖宇聊聊 AI 时代下的手搓志怪剧</title>
-    <link href="https://www.huxiu.com/article/4868899.html?f=rss"/>
-    <id>4cb42400eb9d2a4e150dbf8a9ab05216</id>
-    <published>2026-06-20T14:53:23+00:00</published>
-    <updated>2026-06-20T14:53:23+00:00</updated>
-    <summary type="text">Score: 0.473\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿</title>
-    <link href="https://www.huxiu.com/article/4868898.html?f=rss"/>
-    <id>a89fe05609a66665993cf969b988a9e0</id>
-    <published>2026-06-20T14:41:51+00:00</published>
-    <updated>2026-06-20T14:41:51+00:00</updated>
-    <summary type="text">Score: 0.473\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化学习系统，最高时速 1km/h 超出毅力号、好奇号一个数量级</title>
-    <link href="https://www.ithome.com/0/966/570.htm"/>
-    <id>1ccd3778b1604047e20d06f39ac43ce4</id>
-    <published>2026-06-20T14:36:02+00:00</published>
-    <updated>2026-06-20T14:36:02+00:00</updated>
-    <summary type="text">Score: 0.453\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>美国科学家 John Jumper 离开 Google DeepMind 加入 Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic</title>
-    <link href="https://news.ycombinator.com/item?id=48609506"/>
-    <id>00c2474246c2b924c83969f606e70d27</id>
-    <published>2026-06-20T14:32:15+00:00</published>
-    <updated>2026-06-20T14:32:15+00:00</updated>
-    <summary type="text">Score: 0.472\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事身亡 / Ubisoft co-founder Claude Guillemot has died in a plane crash</title>
-    <link href="https://news.ycombinator.com/item?id=48609373"/>
-    <id>de0268f8ebfbdd16b996f5ae4ab0a20a</id>
-    <published>2026-06-20T14:12:50+00:00</published>
-    <updated>2026-06-20T14:12:50+00:00</updated>
-    <summary type="text">Score: 0.472\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>用于 AI 代理的临时 Cloudflare 账户</title>
-    <link href="https://blog.cloudflare.com/temporary-accounts"/>
-    <id>105b16d803eedd806176a7703b701bd3</id>
-    <published>2026-06-20T11:19:05+00:00</published>
-    <updated>2026-06-20T11:19:05+00:00</updated>
-    <summary type="text">Score: 0.525\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型</title>
-    <link href="https://stock.jrj.com.cn/2026/06/20175957532728.shtml"/>
-    <id>c0d705c6155b56aa6bd6a880586606c8</id>
-    <published>2026-06-20T09:37:07+00:00</published>
-    <updated>2026-06-20T09:37:07+00:00</updated>
-    <summary type="text">Score: 0.423\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>让人工智能帮你选午餐的隐性成本</title>
-    <link href="https://www.businessinsider.com/ai-reliance-decision-making-life-advice-cognitive-surrender-2026-6"/>
-    <id>48a403623f718a28ea4720fe8f9a1f95</id>
-    <published>2026-06-20T08:42:24+00:00</published>
-    <updated>2026-06-20T08:42:24+00:00</updated>
-    <summary type="text">Score: 0.405\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>面对 AI，人类手里还有「什么牌」？</title>
-    <link href="https://www.huxiu.com/article/4868824.html?f=rss"/>
-    <id>31d579cabfdb355c304b85f65fb65178</id>
-    <published>2026-06-20T04:16:18+00:00</published>
-    <updated>2026-06-20T04:16:18+00:00</updated>
-    <summary type="text">Score: 0.372\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
   </entry>
 </feed>

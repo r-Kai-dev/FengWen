@@ -19,6 +19,16 @@
     <category term="open_source"/>
   </entry>
   <entry>
+    <title>GitHub Cuts Secret Scanning False Positives by 75% With AI Verification</title>
+    <link href="https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/"/>
+    <id>1feef24f7f8b0560787920cd53d9adc5</id>
+    <published>2026-06-20T19:20:01+00:00</published>
+    <updated>2026-06-20T19:20:01+00:00</updated>
+    <summary type="text">GitHub and Microsoft cut secret scanning false positives by 75.76% using an LLM that reads how code actually uses a detected value, not just what it looks like.</summary>
+    <category term="security"/>
+    <category term="development"/>
+  </entry>
+  <entry>
     <title>Nous Research's Hermes Agent Ships Blank Slate Mode for Full Custom Control</title>
     <link href="https://hermes-agent.nousresearch.com/docs/getting-started/quickstart"/>
     <id>c8b5b5b3960cfc1e4063f06080327f37</id>
@@ -117,15 +127,5 @@
     <summary type="text">Artificial Analysis launches AA-Briefcase, a new benchmark testing AI agents on real multi-week knowledge work projects with thousands of messy input files</summary>
     <category term="benchmarks"/>
     <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Krea Offers Artists 25% Affiliate Cuts and Free $70 Monthly Compute</title>
-    <link href="https://links.krea.ai/creators"/>
-    <id>497b2ee505ad45651da19d9ca19f15c5</id>
-    <published>2026-06-18T22:00:06+00:00</published>
-    <updated>2026-06-18T22:00:06+00:00</updated>
-    <summary type="text">Krea launches a structured Creator Program offering compute credits, early tool access, and a 25% affiliate cut to artists who apply</summary>
-    <category term="image"/>
-    <category term="business"/>
   </entry>
 </feed>
