@@ -9,22 +9,7 @@ steps:
     commands:
       - pip install -q curl_cffi beautifulsoup4
       - mkdir -p logs
-      - cd src
-      - export PYTHONPATH="$PWD"
-      - |
-        SUCCEEDED=0
-        FAILED=0
-        for s in scrape_*.py; do
-          python3 "$s" > "../logs/$(basename "$s" .py).log" 2>&1 &
-        done
-        for s in request_*.py; do
-          python3 "$s" > "../logs/$(basename "$s" .py).log" 2>&1 &
-        done
-        for job in $(jobs -p); do
-          wait "$job" && SUCCEEDED=$((SUCCEEDED + 1)) || FAILED=$((FAILED + 1))
-        done
-        echo "scrape-request: $SUCCEEDED succeeded, $FAILED failed"
-        [ "$SUCCEEDED" -gt 0 ] || exit 1
+      - bash src/run_scrape_request.sh
     depends_on: []
 
   - name: crawl
