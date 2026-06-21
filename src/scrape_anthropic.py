@@ -6,6 +6,7 @@ Fetches HTML pages directly and writes Atom XML feeds — no intermediate cachin
 import hashlib
 import json
 import logging
+import re
 from datetime import datetime, timedelta, timezone
 
 from bs4 import BeautifulSoup
@@ -164,9 +165,75 @@ def _extract_news(soup, base_url):
     return post_items
 
 
-def _extract_engineering(soup, base_url):
-    """Extract engineering blog articles from ArticleList."""
+def _parse_rsc_article_dates(html):
+    """Extract article publish dates from Next.js RSC payload.
+
+    The engineering page embeds a Sanity CMS articleList inside a
+    self.__next_f.push() call.  We extract each engineeringArticle's
+    slug.current → publishedOn mapping for date fallback.
+
+    Returns dict mapping slug → "YYYY-MM-DD" date string.
+    """
+    dates = {}
+    push_pattern = r'self\.__next_f\.push\(\[1,"(.*?)"\]\)'
+    for match in re.finditer(push_pattern, html, re.DOTALL):
+        chunk = match.group(1)
+        try:
+            decoded = chunk.encode("utf-8").decode("unicode_escape", errors="replace")
+        except Exception:
+            decoded = chunk
+
+        if "articleList" not in decoded or "engineeringArticle" not in decoded:
+            continue
+
+        # Brace-depth match around each engineeringArticle marker
+        for m in re.finditer(r'"_type":"engineeringArticle"', decoded):
+            marker = m.start()
+            # Walk backwards to opening brace
+            depth = 0
+            obj_start = marker
+            for j in range(marker, -1, -1):
+                if decoded[j] == "}":
+                    depth += 1
+                elif decoded[j] == "{":
+                    if depth == 0:
+                        obj_start = j
+                        break
+                    depth -= 1
+            # Walk forwards to closing brace
+            depth = 0
+            obj_end = marker
+            for j in range(obj_start, len(decoded)):
+                if decoded[j] == "{":
+                    depth += 1
+                elif decoded[j] == "}":
+                    depth -= 1
+                    if depth == 0:
+                        obj_end = j + 1
+                        break
+
+            try:
+                obj = json.loads(decoded[obj_start:obj_end])
+                slug = obj.get("slug", {}).get("current", "")
+                pub = obj.get("publishedOn", "")
+                if slug and pub:
+                    dates[slug] = pub
+            except (json.JSONDecodeError, KeyError):
+                pass
+
+        break  # only the first matching chunk matters
+
+    return dates
+
+
+def _extract_engineering(soup, base_url, html):
+    """Extract engineering blog articles from ArticleList.
+
+    Falls back to dates from the embedded RSC payload when an article
+    card (typically the featured / hero card) omits a visible date.
+    """
     post_items = []
+    rsc_dates = _parse_rsc_article_dates(html)
 
     article_items = soup.find_all(
         "article", class_=lambda x: x and "ArticleList-module" in x
@@ -185,17 +252,34 @@ def _extract_engineering(soup, base_url):
         if title_el:
             item = _create_post_item(card_link, title_el, date_el, base_url, "engineering")
             if item:
+                # If no date was found in the HTML card, try the RSC payload
+                if not date_el:
+                    href = card_link.get("href", "")
+                    slug = href.rstrip("/").split("/")[-1] if href else ""
+                    if slug in rsc_dates:
+                        try:
+                            item["published_date"] = (
+                                datetime.strptime(rsc_dates[slug], "%Y-%m-%d")
+                                .replace(tzinfo=timezone.utc)
+                                .isoformat()
+                            )
+                            logging.info(
+                                "Filled date from RSC for '%s': %s",
+                                slug, rsc_dates[slug],
+                            )
+                        except ValueError:
+                            pass
                 post_items.append(item)
 
     return post_items
 
 
-def extract_entries(soup, page_key, base_url):
+def extract_entries(soup, page_key, base_url, html=""):
     """Route to the correct extraction function based on page key."""
     if page_key == "research":
         return _extract_research(soup, base_url)
     elif page_key == "engineering":
-        return _extract_engineering(soup, base_url)
+        return _extract_engineering(soup, base_url, html)
     elif page_key == "news":
         return _extract_news(soup, base_url)
     else:
@@ -288,7 +372,7 @@ def main():
             continue
 
         soup = BeautifulSoup(html, "html.parser")
-        entries = extract_entries(soup, page_key, page["url"])
+        entries = extract_entries(soup, page_key, page["url"], html)
 
         if not entries:
             logging.warning("No entries found for %s", page_key)
