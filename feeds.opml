@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:fw="https://codeberg.org/r-Kai/FengWen">
   <head>
     <title>Feng Wen (风闻) — AI/Tech News Feeds</title>
-    <dateCreated>2026-06-21T20:53:00Z</dateCreated>
+    <dateCreated>2026-06-21T21:03:08Z</dateCreated>
     <ownerName>Feng Wen</ownerName>
   </head>
   <body>
@@ -146,7 +146,7 @@
     <outline text="Weekly" title="Weekly">
       <outline text="The Batch (DeepLearning.AI)" title="The Batch (DeepLearning.AI)" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/deeplearning_ai_the-batch.xml" htmlUrl="https://www.deeplearning.ai/the-batch" fw:type="created"/>
       <outline text="Deep Learning Weekly" title="Deep Learning Weekly" type="rss" xmlUrl="https://www.deeplearningweekly.com/feed" htmlUrl="https://www.deeplearningweekly.com/" fw:type="official"/>
-      <outline text="Last Week in AI" title="Last Week in AI" type="rss" xmlUrl="https://lastweek.in.ai/feed" htmlUrl="https://lastweek.in.ai/" fw:type="official"/>
+      <outline text="Last Week in AI" title="Last Week in AI" type="rss" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai/" fw:type="official"/>
       <outline text="科技爱好者周刊" title="科技爱好者周刊" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://www.ruanyifeng.com/blog/" fw:type="official"/>
     </outline>
   </body>

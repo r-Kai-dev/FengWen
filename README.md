@@ -175,7 +175,7 @@ The following tables include both the feeds created by this project and existing
 |------------------|------|------|
 | [The Batch (DeepLearning.AI)](https://www.deeplearning.ai/the-batch) | [deeplearning_ai_the-batch.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/deeplearning_ai_the-batch.xml) | Created |
 | [Deep Learning Weekly](https://www.deeplearningweekly.com/) | [Deep Learning Weekly Feed](https://www.deeplearningweekly.com/feed) | Official |
-| [Last Week in AI](https://lastweek.in.ai/) | [Last Week in AI Feed](https://lastweek.in.ai/feed) | Official |
+| [Last Week in AI](https://lastweekin.ai/) | [Last Week in AI Feed](https://lastweekin.ai/feed) | Official |
 | [科技爱好者周刊](https://www.ruanyifeng.com/blog/) | [科技爱好者周刊 Feed](https://feeds.feedburner.com/ruanyifeng) | Official |
 
 <!-- FEEDS_TABLE_END -->
