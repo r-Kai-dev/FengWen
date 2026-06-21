@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Agents' Last Exam Blog</title>
+  <icon>https://agents-last-exam.org/favicon.ico</icon>
+  <link href="https://agents-last-exam.org/blogs"/>
+  <id>https://agents-last-exam.org/blogs</id>
+  <updated>2026-06-14T00:00:00+00:00</updated>
+  <author>
+    <name>Agents' Last Exam</name>
+  </author>
+  <entry>
+    <title>Agents’ Last Exam</title>
+    <link href="https://agents-last-exam.org/blogs/job-ready-agents"/>
+    <id>e1209abc79954374df204e544bfa439d</id>
+    <published>2026-06-14T00:00:00+00:00</published>
+    <updated>2026-06-14T00:00:00+00:00</updated>
+    <summary type="text">We evaluated Fable 5, GPT-5.5, Composer 2.5, and other frontier systems on 1,500+ expert-sourced tasks spanning 55 occupations. Today’s agents solve a meaningful fraction of professional work, but on ALE’s hardest tier every frontier agent we tested, including Fable 5, scored 0%.</summary>
+    <category term="Announcement"/>
+  </entry>
+  <entry>
+    <title>Does the Harness Matter? Lessons from ALE-Claw on Agents’ Last Exam</title>
+    <link href="https://agents-last-exam.org/blogs/harness-matters"/>
+    <id>de8917018dba684c61db640deb6ad6e9</id>
+    <published>2026-06-11T00:00:00+00:00</published>
+    <updated>2026-06-11T00:00:00+00:00</updated>
+    <summary type="text">Swapping the model under a fixed harness moves ALE pass rate by 18 points; swapping the harness moves it by 5–6. ALE-Claw, a deliberately minimal harness, matches heavier ones at a fraction of the cost. Interactive: pick any agents to compare cost, time, and tool-call mix.</summary>
+    <category term="Analysis"/>
+  </entry>
+  <entry>
+    <title>Codex (GPT-5.5) vs. Claude Code (Fable 5) vs. Cursor (Composer 2.5): An Interactive Comparison</title>
+    <link href="https://agents-last-exam.org/blogs/agent-showdown"/>
+    <id>c2de91aae0329aeb89ba54b47b1c04d0</id>
+    <published>2026-06-09T00:00:00+00:00</published>
+    <updated>2026-06-09T00:00:00+00:00</updated>
+    <summary type="text">A live, interactive comparison of agentic coding harnesses on the agenthle benchmark. Toggle any model to compare performance, cost and time, per-domain strengths, and a unified failure-mode taxonomy built by analyzing run trajectories.</summary>
+    <category term="Analysis"/>
+  </entry>
+  <entry>
+    <title>The Benchmarks Keep Falling. The Economy Hasn’t Noticed.</title>
+    <link href="https://agents-last-exam.org/blogs/why-agents-last-exam"/>
+    <id>5947d327975b822b16cd3ece4f66bdf4</id>
+    <published>2026-03-04T00:00:00+00:00</published>
+    <updated>2026-03-04T00:00:00+00:00</updated>
+    <summary type="text">AI progress is shaped by what we choose to measure. We are building the instrument that measures what matters — real economic value, not proxy metrics.</summary>
+    <category term="Vision"/>
+  </entry>
+</feed>

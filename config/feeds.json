@@ -779,6 +779,22 @@
       ]
     },
     {
+      "org_key": "agentslastexam",
+      "name": "Agents' Last Exam",
+      "strategy": "scrape",
+      "base_url": "https://agents-last-exam.org",
+      "favicon": "https://agents-last-exam.org/favicon.ico",
+      "category": "Eval",
+      "pages": [
+        {
+          "key": "blogs",
+          "label": "Agents' Last Exam Blog",
+          "url": "https://agents-last-exam.org/blogs",
+          "output_file": "agentslastexam_blogs.xml"
+        }
+      ]
+    },
+    {
       "org_key": "vals",
       "name": "Vals AI",
       "strategy": "scrape",

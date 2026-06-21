@@ -56,6 +56,8 @@ The following tables include both the feeds created by this project and existing
 | Original Website | Feed | Type |
 |------------------|------|------|
 | [Artificial Analysis Articles](https://artificialanalysis.ai/articles) | [artificial_analysis_articles.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/artificial_analysis_articles.xml) | Created |
+| [Agents' Last Exam Blog](https://agents-last-exam.org/blogs) | [agentslastexam_blogs.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/agentslastexam_blogs.xml) | Created |
+| [Vals AI News](https://www.vals.ai/news) | [vals_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/vals_news.xml) | Created |
 | [Arc Prize Blog](https://arcprize.org/blog) | [Arc Prize Blog Feed](https://arcprize.org/feed.xml) | Official |
 | [Arena AI Blog](https://arena.ai/blog/) | [Arena AI Blog Feed](https://arena.ai/blog/rss/) | Official |
 

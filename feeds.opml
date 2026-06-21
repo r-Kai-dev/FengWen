@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:fw="https://codeberg.org/r-Kai/FengWen">
   <head>
     <title>Feng Wen (风闻) — AI/Tech News Feeds</title>
-    <dateCreated>2026-06-21T21:03:08Z</dateCreated>
+    <dateCreated>2026-06-21T22:27:06Z</dateCreated>
     <ownerName>Feng Wen</ownerName>
   </head>
   <body>
@@ -45,6 +45,8 @@
     </outline>
     <outline text="Eval" title="Eval">
       <outline text="Artificial Analysis Articles" title="Artificial Analysis Articles" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/artificial_analysis_articles.xml" htmlUrl="https://artificialanalysis.ai/articles" fw:type="created"/>
+      <outline text="Agents' Last Exam Blog" title="Agents' Last Exam Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/agentslastexam_blogs.xml" htmlUrl="https://agents-last-exam.org/blogs" fw:type="created"/>
+      <outline text="Vals AI News" title="Vals AI News" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/vals_news.xml" htmlUrl="https://www.vals.ai/news" fw:type="created"/>
       <outline text="Arc Prize Blog" title="Arc Prize Blog" type="rss" xmlUrl="https://arcprize.org/feed.xml" htmlUrl="https://arcprize.org/blog" fw:type="official"/>
       <outline text="Arena AI Blog" title="Arena AI Blog" type="rss" xmlUrl="https://arena.ai/blog/rss/" htmlUrl="https://arena.ai/blog/" fw:type="official"/>
     </outline>
