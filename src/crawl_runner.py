@@ -43,6 +43,7 @@ def main():
     page = _start_browser()
     succeeded = 0
     failed = 0
+    failed_names = []
 
     try:
         for crawler_path in crawlers:
@@ -54,6 +55,7 @@ def main():
                 logging.info("[OK] %s", name)
             except Exception as exc:
                 failed += 1
+                failed_names.append(name)
                 logging.error("[FAIL] %s: %s", name, exc)
                 import traceback
                 traceback.print_exc()
@@ -61,6 +63,8 @@ def main():
         page.quit()
 
     logging.info("Crawl complete: %d succeeded, %d failed", succeeded, failed)
+    if failed_names:
+        logging.error("Failed scripts: %s", ", ".join(failed_names))
     if failed > 0 and succeeded == 0:
         raise SystemExit(1)
 
