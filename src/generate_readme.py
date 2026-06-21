@@ -34,12 +34,11 @@ def format_feed_label(text: str, xml_url: str, fw_type: str) -> str:
 
 
 def build_tables(config):
-    cats = config.get("categories", {})
     # Gather feeds by category
-    category_feeds = {cat_key: [] for cat_key in cats}
+    category_feeds: dict[str, list[dict]] = {}
 
     for entry in config.get("created", []):
-        cat_key = entry.get("category", "lab")
+        cat_key = entry.get("category", "Uncategorized")
         for page in entry.get("pages", []):
             xml_url = f"{CODEBERG_BASE}/{page['output_file']}"
             category_feeds.setdefault(cat_key, []).append({
@@ -50,7 +49,7 @@ def build_tables(config):
             })
 
     for entry in config.get("official", []):
-        cat_key = entry.get("category", "lab")
+        cat_key = entry.get("category", "Uncategorized")
         category_feeds.setdefault(cat_key, []).append({
             "text": entry["name"],
             "xmlUrl": entry["xmlUrl"],
@@ -59,14 +58,11 @@ def build_tables(config):
         })
 
     sections = []
-    for cat_key, cat_name in cats.items():
-        feeds = category_feeds.get(cat_key, [])
+    for cat_key in sorted(category_feeds.keys()):
+        feeds = category_feeds[cat_key]
         if not feeds:
             continue
-        lines = [f"## {cat_name}"]
-        if cat_name == "Academic Feeds":
-            lines.append("To-Do: Appending logic with snapshot timestamps")
-            lines.append("")
+        lines = [f"## {cat_key}"]
         lines.append("| Original Website | Feed | Type |")
         lines.append("|------------------|------|------|")
 

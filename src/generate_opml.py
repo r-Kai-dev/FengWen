@@ -32,12 +32,11 @@ def build_opml(config):
         '    -->',
     ]
 
-    cats = config.get("categories", {})
-    category_feeds = {cat_key: [] for cat_key in cats}
+    category_feeds: dict[str, list[str]] = {}
 
     # Collect created feeds
     for entry in config.get("created", []):
-        cat_key = entry.get("category", "lab")
+        cat_key = entry.get("category", "Uncategorized")
         for page in entry.get("pages", []):
             xml_url = f"{CODEBERG_BASE}/{page['output_file']}"
             category_feeds.setdefault(cat_key, []).append(
@@ -47,16 +46,16 @@ def build_opml(config):
 
     # Collect official feeds
     for entry in config.get("official", []):
-        cat_key = entry.get("category", "lab")
+        cat_key = entry.get("category", "Uncategorized")
         category_feeds.setdefault(cat_key, []).append(
             f'      <outline text="{escape(entry["name"])}" title="{escape(entry["name"])}" type="rss" '
             f'xmlUrl="{escape(entry["xmlUrl"])}" htmlUrl="{escape(entry["htmlUrl"])}" fw:type="official"/>'
         )
 
-    # Emit categories in order
-    for cat_key, cat_name in cats.items():
-        lines.append(f'    <outline text="{escape(cat_name)}" title="{escape(cat_name)}">')
-        for feed_line in category_feeds.get(cat_key, []):
+    # Emit categories in alphabetical order
+    for cat_key in sorted(category_feeds.keys()):
+        lines.append(f'    <outline text="{escape(cat_key)}" title="{escape(cat_key)}">')
+        for feed_line in category_feeds[cat_key]:
             lines.append(feed_line)
         lines.append('    </outline>')
 

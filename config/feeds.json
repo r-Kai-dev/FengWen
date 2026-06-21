@@ -6,7 +6,7 @@
       "strategy": "scrape",
       "base_url": "https://www.anthropic.com",
       "favicon": "https://www.anthropic.com/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "news",
@@ -33,7 +33,7 @@
       "name": "xAI",
       "strategy": "scrape",
       "base_url": "https://x.ai",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "news",
@@ -49,7 +49,7 @@
       "name": "GitHub",
       "strategy": "scrape",
       "base_url": "https://github.com",
-      "category": "platform",
+      "category": "Platforms",
       "pages": [
         {
           "key": "trending_daily",
@@ -85,7 +85,7 @@
       "strategy": "scrape",
       "base_url": "https://ai.meta.com",
       "favicon": "https://static.xx.fbcdn.net/rsrc.php/yi/r/gbO80SSOuBU.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -100,7 +100,7 @@
       "name": "AIbase",
       "strategy": "scrape",
       "base_url": "https://news.aibase.com",
-      "category": "news",
+      "category": "Daily",
       "pages": [
         {
           "key": "daily",
@@ -116,7 +116,7 @@
       "name": "DeepLearning.AI",
       "strategy": "scrape",
       "base_url": "https://www.deeplearning.ai",
-      "category": "news",
+      "category": "Weekly",
       "pages": [
         {
           "key": "the_batch",
@@ -132,7 +132,7 @@
       "name": "Artificial Analysis",
       "strategy": "scrape",
       "base_url": "https://artificialanalysis.ai",
-      "category": "eval",
+      "category": "Eval",
       "pages": [
         {
           "key": "articles",
@@ -148,7 +148,7 @@
       "name": "Kimi (Moonshot AI)",
       "strategy": "scrape",
       "base_url": "https://www.kimi.com",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -164,7 +164,7 @@
       "name": "Moonshot AI",
       "strategy": "scrape",
       "base_url": "https://platform.moonshot.ai",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -181,7 +181,7 @@
       "strategy": "scrape",
       "base_url": "https://platform.minimax.io",
       "favicon": "https://platform.minimax.io/docs/_mintlify/favicons/minimax-cac98058/-WSO_KEoennf5XoM/_generated/favicon/apple-touch-icon.png",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "release_notes",
@@ -196,7 +196,7 @@
       "name": "Z.AI",
       "strategy": "scrape",
       "base_url": "https://docs.z.ai",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "release_notes",
@@ -213,7 +213,7 @@
       "strategy": "scrape",
       "base_url": "https://bfl.ai",
       "favicon": "https://bfl.ai/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -235,7 +235,7 @@
       "strategy": "scrape",
       "base_url": "https://lumalabs.ai",
       "favicon": "https://lumalabs.ai/favicons/favicon-black.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "news",
@@ -251,7 +251,7 @@
       "strategy": "scrape",
       "base_url": "https://thinkingmachines.ai",
       "favicon": "https://thinkingmachines.ai/images/favicon-32x32.png",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "news",
@@ -267,7 +267,7 @@
       "strategy": "scrape",
       "base_url": "https://www.udio.com",
       "favicon": "https://www.udio.com/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -283,7 +283,7 @@
       "strategy": "scrape",
       "base_url": "https://amilabs.xyz",
       "favicon": "https://amilabs.xyz/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "updates",
@@ -299,7 +299,7 @@
       "strategy": "scrape",
       "base_url": "https://www.resemble.ai",
       "favicon": "https://www.resemble.ai/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "resources",
@@ -315,7 +315,7 @@
       "strategy": "scrape",
       "base_url": "https://www.worldlabs.ai",
       "favicon": "https://www.worldlabs.ai/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -331,7 +331,7 @@
       "strategy": "scrape",
       "base_url": "https://allenai.org",
       "favicon": "https://allenai.org/favicon.svg",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "news",
@@ -353,7 +353,7 @@
       "strategy": "scrape",
       "base_url": "https://alphasignal.ai",
       "favicon": "https://alphasignal.ai/favicon.ico",
-      "category": "news",
+      "category": "Hourly",
       "pages": [
         {
           "key": "news",
@@ -369,7 +369,7 @@
       "strategy": "scrape",
       "base_url": "https://www.boson.ai",
       "favicon": "https://www.boson.ai/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -385,7 +385,7 @@
       "strategy": "scrape",
       "base_url": "https://elevenlabs.io",
       "favicon": "https://elevenlabs.io/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "research",
@@ -401,7 +401,7 @@
       "strategy": "scrape",
       "base_url": "https://www.hume.ai",
       "favicon": "https://www.hume.ai/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -417,7 +417,7 @@
       "strategy": "scrape",
       "base_url": "https://kyutai.org",
       "favicon": "https://kyutai.org/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -439,7 +439,7 @@
       "strategy": "scrape",
       "base_url": "https://lmsys.org",
       "favicon": "https://lmsys.org/favicon.ico",
-      "category": "platform",
+      "category": "Tools",
       "pages": [
         {
           "key": "blog",
@@ -455,7 +455,7 @@
       "strategy": "scrape",
       "base_url": "https://www.perplexity.ai/hub",
       "favicon": "https://www.perplexity.ai/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -471,7 +471,7 @@
       "strategy": "scrape",
       "base_url": "https://research.perplexity.ai",
       "favicon": "https://www.perplexity.ai/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "research",
@@ -487,7 +487,7 @@
       "strategy": "scrape",
       "base_url": "https://runwayml.com",
       "favicon": "https://runwayml.com/icon.png",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "news",
@@ -509,7 +509,7 @@
       "strategy": "scrape",
       "base_url": "https://www.sesame.com",
       "favicon": "https://www.sesame.com/favicon.svg",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -525,7 +525,7 @@
       "strategy": "scrape",
       "base_url": "https://suno.com",
       "favicon": "https://suno.com/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -541,7 +541,7 @@
       "strategy": "request",
       "base_url": "https://hacker-news.firebaseio.com/v0",
       "favicon": "https://news.ycombinator.com/favicon.ico",
-      "category": "news",
+      "category": "Hourly",
       "pages": [
         {
           "key": "best",
@@ -559,7 +559,7 @@
       "strategy": "request",
       "base_url": "https://huggingface.co/api",
       "favicon": "https://huggingface.co/favicon.ico",
-      "category": "academic",
+      "category": "Academics",
       "pages": [
         {
           "key": "trending_models",
@@ -590,7 +590,7 @@
       "strategy": "request",
       "base_url": "https://groq.com",
       "favicon": "https://groq.com/favicon.ico",
-      "category": "platform",
+      "category": "Platforms",
       "pages": [
         {
           "key": "blog",
@@ -612,7 +612,7 @@
       "strategy": "request",
       "base_url": "https://learnprompt.github.io/ai-news-radar",
       "favicon": "https://learnprompt.github.io/ai-news-radar/assets/logo.svg",
-      "category": "news",
+      "category": "Hourly",
       "pages": [
         {
           "key": "bole_picks",
@@ -628,7 +628,7 @@
       "strategy": "crawl",
       "base_url": "https://seed.bytedance.com/en",
       "favicon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -650,7 +650,7 @@
       "strategy": "crawl",
       "base_url": "https://api-docs.deepseek.com",
       "favicon": "https://www.deepseek.com/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "news",
@@ -666,7 +666,7 @@
       "strategy": "crawl",
       "base_url": "https://hunyuan.tencent.com",
       "favicon": "https://hunyuan-blog-web-prod-1258344703.cos.ap-guangzhou.myqcloud.com/favicon.png",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "research",
@@ -682,7 +682,7 @@
       "strategy": "crawl",
       "base_url": "https://aistudio.tencent.com",
       "favicon": "https://cdn-portal.hunyuan.tencent.com/public/static/logo/favicon.png",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "news",
@@ -698,7 +698,7 @@
       "strategy": "crawl",
       "base_url": "https://qwen.ai",
       "favicon": "https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "research",
@@ -714,7 +714,7 @@
       "strategy": "crawl",
       "base_url": "https://unsloth.ai",
       "favicon": "https://unsloth.ai/favicon.ico",
-      "category": "platform",
+      "category": "Tools",
       "pages": [
         {
           "key": "blog",
@@ -730,7 +730,7 @@
       "strategy": "crawl",
       "base_url": "https://www.alphaxiv.org",
       "favicon": "https://www.alphaxiv.org/favicon.ico",
-      "category": "academic",
+      "category": "Academics",
       "pages": [
         {
           "key": "hot_papers",
@@ -746,7 +746,7 @@
       "strategy": "crawl",
       "base_url": "https://epoch.ai",
       "favicon": "https://epoch.ai/favicon.ico",
-      "category": "blog",
+      "category": "Blogs",
       "pages": [
         {
           "key": "latest",
@@ -762,7 +762,7 @@
       "strategy": "crawl",
       "base_url": "https://ltx.io",
       "favicon": "https://ltx.io/favicon.ico",
-      "category": "lab",
+      "category": "Labs",
       "pages": [
         {
           "key": "blog",
@@ -784,7 +784,7 @@
       "strategy": "crawl",
       "base_url": "https://higgsfield.ai",
       "favicon": "https://higgsfield.ai/favicon.ico",
-      "category": "platform",
+      "category": "Platforms",
       "pages": [
         {
           "key": "blog",
@@ -800,377 +800,355 @@
       "name": "OpenAI News",
       "xmlUrl": "https://openai.com/news/rss.xml",
       "htmlUrl": "https://openai.com/news",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "Google Tech Blog",
       "xmlUrl": "https://blog.google/technology/rss/",
       "htmlUrl": "https://blog.google/technology/",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "DeepMind Blog",
       "xmlUrl": "https://deepmind.google/blog/rss.xml",
       "htmlUrl": "https://deepmind.google/discover/blog/",
-      "category": "lab"
-    },
-    {
-      "name": "DeepMind Research",
-      "xmlUrl": "https://deepmind.google/blog/rss.xml",
-      "htmlUrl": "https://deepmind.google/research/",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "Mistral AI News",
       "xmlUrl": "https://mistral.ai/news/rss.xml",
       "htmlUrl": "https://mistral.ai/news",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "Amazon Science Blog",
       "xmlUrl": "https://www.amazon.science/index.rss",
       "htmlUrl": "https://www.amazon.science/blog",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "AWS AI Blog",
       "xmlUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "htmlUrl": "https://aws.amazon.com/blogs/machine-learning/",
-      "category": "lab"
+      "category": "Platforms"
     },
     {
       "name": "AWS AI News",
       "xmlUrl": "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed/",
       "htmlUrl": "https://aws.amazon.com/blogs/aws/category/artificial-intelligence/",
-      "category": "lab"
+      "category": "Platforms"
     },
     {
       "name": "Microsoft AI Blog",
       "xmlUrl": "https://www.microsoft.com/en-us/ai/blog/feed/",
       "htmlUrl": "https://www.microsoft.com/en-us/ai/blog/",
-      "category": "lab"
+      "category": "Platforms"
     },
     {
       "name": "Microsoft Research Blog",
       "xmlUrl": "https://www.microsoft.com/en-us/research/feed/",
       "htmlUrl": "https://www.microsoft.com/en-us/research/blog/",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "NVIDIA Blog",
       "xmlUrl": "https://blogs.nvidia.com/feed/",
       "htmlUrl": "https://blogs.nvidia.com/",
-      "category": "lab"
+      "category": "Tools"
     },
     {
       "name": "Apple ML Blog",
       "xmlUrl": "https://machinelearning.apple.com/rss.xml",
       "htmlUrl": "https://machinelearning.apple.com/",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "Stability AI Research",
       "xmlUrl": "https://stability.ai/research?format=rss",
       "htmlUrl": "https://stability.ai/research",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "Stability AI News",
       "xmlUrl": "https://stability.ai/news?format=rss",
       "htmlUrl": "https://stability.ai/news",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "Midjourney News",
       "xmlUrl": "https://updates.midjourney.com/rss/",
       "htmlUrl": "https://www.midjourney.com/updates",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "Arc Prize Blog",
       "xmlUrl": "https://arcprize.org/feed.xml",
       "htmlUrl": "https://arcprize.org/blog",
-      "category": "eval"
+      "category": "Eval"
     },
     {
       "name": "Sakana AI Blog",
       "xmlUrl": "https://sakana.ai/feed.xml",
       "htmlUrl": "https://sakana.ai/blog/",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "Netflix Tech Blog",
       "xmlUrl": "https://netflixtechblog.com/feed",
       "htmlUrl": "https://netflixtechblog.com",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "Thinking Machines Lab Blog",
       "xmlUrl": "https://thinkingmachines.ai/blog/index.xml",
       "htmlUrl": "https://thinkingmachines.ai/blog/",
-      "category": "lab"
+      "category": "Labs"
     },
     {
       "name": "HuggingFace Blog",
       "xmlUrl": "https://huggingface.co/blog/feed.xml",
       "htmlUrl": "https://huggingface.co/blog",
-      "category": "platform"
+      "category": "Platforms"
     },
     {
       "name": "Ollama Blog",
       "xmlUrl": "https://ollama.com/blog/rss.xml",
       "htmlUrl": "https://ollama.com/blog",
-      "category": "platform"
+      "category": "Tools"
     },
     {
       "name": "vLLM Blog",
       "xmlUrl": "https://vllm.ai/blog/rss.xml",
       "htmlUrl": "https://vllm.ai/blog",
-      "category": "platform"
+      "category": "Tools"
     },
     {
       "name": "ComfyUI Blog",
       "xmlUrl": "https://blog.comfy.org/feed",
       "htmlUrl": "https://blog.comfy.org/",
-      "category": "platform"
+      "category": "Tools"
     },
     {
       "name": "Replicate Blog",
       "xmlUrl": "https://replicate.com/blog/atom",
       "htmlUrl": "https://replicate.com/blog",
-      "category": "platform"
+      "category": "Platforms"
     },
     {
       "name": "OpenRouter Blog",
       "xmlUrl": "https://openrouter.ai/blog/feed.xml",
       "htmlUrl": "https://openrouter.ai/blog/",
-      "category": "platform"
+      "category": "Platforms"
     },
     {
       "name": "Llama.cpp Announcements",
       "xmlUrl": "https://github.com/ggml-org/llama.cpp/discussions/categories/announcements.atom",
       "htmlUrl": "https://github.com/ggml-org/llama.cpp/discussions/categories/announcements",
-      "category": "platform"
+      "category": "Tools"
     },
     {
       "name": "Rust Blog",
       "xmlUrl": "https://blog.rust-lang.org/feed.xml",
       "htmlUrl": "https://blog.rust-lang.org/",
-      "category": "platform"
+      "category": "Tools"
     },
     {
       "name": "Cool Papers",
       "xmlUrl": "https://papers.cool/arxiv/cs.CL,cs.LG,cs.AI,cs.CV/feed",
       "htmlUrl": "https://papers.cool/",
-      "category": "academic"
+      "category": "Academics"
     },
     {
       "name": "Sebastian Raschka",
       "xmlUrl": "https://sebastianraschka.com/rss_feed.xml",
       "htmlUrl": "https://sebastianraschka.com/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "Deep Learning Weekly",
       "xmlUrl": "https://www.deeplearningweekly.com/feed",
       "htmlUrl": "https://www.deeplearningweekly.com/",
-      "category": "news"
+      "category": "Weekly"
     },
     {
       "name": "Deep (Learning) Focus",
       "xmlUrl": "https://cameronrwolfe.substack.com/feed",
       "htmlUrl": "https://cameronrwolfe.substack.com/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "Last Week in AI",
       "xmlUrl": "https://lastweek.in.ai/feed",
       "htmlUrl": "https://lastweek.in.ai/",
-      "category": "news"
+      "category": "Weekly"
     },
     {
       "name": "科技爱好者周刊",
       "xmlUrl": "https://feeds.feedburner.com/ruanyifeng",
       "htmlUrl": "https://www.ruanyifeng.com/blog/",
-      "category": "news"
+      "category": "Weekly"
     },
     {
       "name": "Turing Post",
       "xmlUrl": "https://rss.beehiiv.com/feeds/UJIoBuf5BX.xml",
       "htmlUrl": "https://www.turingpost.com/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "Latent Space",
       "xmlUrl": "https://www.latent.space/feed",
       "htmlUrl": "https://www.latent.space/",
-      "category": "news"
+      "category": "Daily"
     },
     {
       "name": "12 Grams of Carbon",
       "xmlUrl": "https://theahura.substack.com/feed",
       "htmlUrl": "https://theahura.substack.com/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "Quanta Magazine",
       "xmlUrl": "https://www.quantamagazine.org/feed",
       "htmlUrl": "https://www.quantamagazine.org/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "Epoch AI Substack",
       "xmlUrl": "https://epochai.substack.com/feed",
       "htmlUrl": "https://epochai.substack.com/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "Citrini Research",
       "xmlUrl": "https://www.citriniresearch.com/feed",
       "htmlUrl": "https://www.citriniresearch.com/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "IEEE Spectrum",
       "xmlUrl": "https://spectrum.ieee.org/customfeeds/feed/all-topics/rss",
       "htmlUrl": "https://spectrum.ieee.org/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "METR",
       "xmlUrl": "https://metr.substack.com/feed",
       "htmlUrl": "https://metr.org/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "LessWrong",
       "xmlUrl": "https://www.lesswrong.com/feed.xml?view=community-rss&karmaThreshold=125",
       "htmlUrl": "https://www.lesswrong.com/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "AlphaSignal Blog",
       "xmlUrl": "https://alphasignalai.substack.com/feed",
       "htmlUrl": "https://alphasignalai.substack.com/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "Interconnects AI",
       "xmlUrl": "https://www.interconnects.ai/feed",
       "htmlUrl": "https://www.interconnects.ai/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "Import AI",
       "xmlUrl": "https://importai.substack.com/feed",
       "htmlUrl": "https://importai.substack.com/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "lcamtuf's thing",
       "xmlUrl": "https://lcamtuf.substack.com/feed",
       "htmlUrl": "https://lcamtuf.substack.com/",
-      "category": "blog"
+      "category": "Blogs"
     },
     {
       "name": "YCombinator Hacker News",
       "xmlUrl": "https://news.ycombinator.com/rss",
       "htmlUrl": "https://news.ycombinator.com/",
-      "category": "news"
-    },
-    {
-      "name": "News Minimalist",
-      "xmlUrl": "https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml",
-      "htmlUrl": "https://www.newsminimalist.com/",
-      "category": "news"
+      "category": "Hourly"
     },
     {
       "name": "ReadHub 新闻",
       "xmlUrl": "https://readhub.cn/rss",
       "htmlUrl": "https://readhub.cn/",
-      "category": "news"
+      "category": "Hourly"
     },
     {
       "name": "ReadHub 每日早报",
       "xmlUrl": "https://readhub.cn/daily/rss",
       "htmlUrl": "https://readhub.cn/daily",
-      "category": "news"
+      "category": "Daily"
     },
     {
       "name": "喷嚏图卦",
       "xmlUrl": "https://rsshub.rssforever.com/dapenti/tugua",
       "htmlUrl": "https://www.dapenti.com/blog/blog.asp?name=xilei&subjectid=70",
-      "category": "news"
+      "category": "Daily"
     },
     {
       "name": "Slashdot",
       "xmlUrl": "https://rss.slashdot.org/Slashdot/slashdotMain",
       "htmlUrl": "https://slashdot.org/",
-      "category": "news"
+      "category": "Hourly"
     },
     {
       "name": "The Hacker News",
       "xmlUrl": "https://feeds.feedburner.com/TheHackersNews",
       "htmlUrl": "https://thehackernews.com/",
-      "category": "news"
+      "category": "Hourly"
     },
     {
       "name": "The Sequence",
       "xmlUrl": "https://thesequence.substack.com/feed",
       "htmlUrl": "https://thesequence.substack.com/",
-      "category": "news"
+      "category": "Blogs"
     },
     {
       "name": "AI Hot News",
       "xmlUrl": "https://aihot.virxact.com/feed.xml",
       "htmlUrl": "https://aihot.virxact.com/",
-      "category": "news"
+      "category": "Hourly"
     },
     {
       "name": "phys.org Quantum Physics",
       "xmlUrl": "https://phys.org/rss-feed/physics-news/quantum-physics/",
       "htmlUrl": "https://phys.org/physics-news/quantum-physics/",
-      "category": "quantum"
+      "category": "Quantum"
     },
     {
       "name": "Quantum Computing Report",
       "xmlUrl": "https://quantumcomputingreport.com/feed/",
       "htmlUrl": "https://quantumcomputingreport.com/news/",
-      "category": "quantum"
+      "category": "Quantum"
     },
     {
       "name": "Animation Obsessive Blog",
       "xmlUrl": "https://animationobsessive.substack.com/feed",
       "htmlUrl": "https://animationobsessive.substack.com/",
-      "category": "arts"
+      "category": "Blogs"
     },
     {
       "name": "Krita News",
       "xmlUrl": "https://krita.org/en/categories/news/index.xml",
       "htmlUrl": "https://krita.org/en/categories/news/",
-      "category": "arts"
+      "category": "Tools"
     },
     {
       "name": "Blender News",
       "xmlUrl": "https://www.blender.org/feed/",
       "htmlUrl": "https://www.blender.org/news/",
-      "category": "arts"
+      "category": "Tools"
     },
     {
       "name": "Unreal Engine News",
       "xmlUrl": "https://www.unrealengine.com/en-US/rss",
       "htmlUrl": "https://www.unrealengine.com/en-US/feed",
-      "category": "arts"
+      "category": "Tools"
     }
-  ],
-  "categories": {
-    "lab": "Labs/Companies Feeds",
-    "academic": "Academic Feeds",
-    "eval": "Model Evaluation Feeds",
-    "platform": "Tool/Platform Feeds",
-    "blog": "Blog Feeds",
-    "news": "News Feeds",
-    "quantum": "Quantum Feeds",
-    "arts": "Arts Feeds"
-  }
+  ]
 }
