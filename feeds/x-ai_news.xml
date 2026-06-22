@@ -4,17 +4,24 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-06-18T00:00:00+00:00</updated>
+  <updated>2026-06-22T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Introducing /goal</title>
+    <link href="https://x.ai/news/introducing-goal"/>
+    <id>84b0f0fb84959166da531a2c06f8ba23</id>
+    <published>2026-06-22T00:00:00+00:00</published>
+    <updated>2026-06-22T00:00:00+00:00</updated>
+    <summary type="text">Use /goal for long-running autonomous task execution in Grok Build.</summary>
+  </entry>
   <entry>
     <title>Grok for Word</title>
     <link href="https://x.ai/news/introducing-word-addin"/>
     <id>89ca4a265cb32cd4647e1d46e6c14144</id>
     <published>2026-06-18T00:00:00+00:00</published>
     <updated>2026-06-18T00:00:00+00:00</updated>
-    <summary type="text">Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.</summary>
   </entry>
   <entry>
     <title>Grok on Databricks</title>
@@ -43,6 +50,7 @@
     <id>29aba248627072d008562deef3fcf591</id>
     <published>2026-06-16T00:00:00+00:00</published>
     <updated>2026-06-16T00:00:00+00:00</updated>
+    <summary type="text">Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.</summary>
   </entry>
   <entry>
     <title>Agent Dashboard in Grok Build</title>

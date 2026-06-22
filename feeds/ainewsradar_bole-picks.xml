@@ -4,227 +4,239 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-06-21T19:57:17+00:00</updated>
+  <updated>2026-06-22T18:49:44+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>关于当前艺术作品中出现的LLM中毒现象，有什么建议吗？</title>
-    <link href="https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork"/>
-    <id>caaa5f263fdf0817b1efe6ac0723c6fd</id>
-    <published>2026-06-21T19:57:17+00:00</published>
-    <updated>2026-06-21T19:57:17+00:00</updated>
-    <summary type="text">Score: 0.542\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>什么是GLM-5.2？又一款开源的中国AI模型引起了硅谷的关注。</title>
-    <link href="https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6"/>
-    <id>1e2c9bb9167533408d13a1ed2791d7e3</id>
-    <published>2026-06-21T19:52:34+00:00</published>
-    <updated>2026-06-21T19:52:34+00:00</updated>
-    <summary type="text">Score: 0.542\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Lodash 的创建者 John-David Dalton 表示，OSS 世界中的倦怠是真实存在的 / Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash</title>
-    <link href="https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers"/>
-    <id>1da6fd7da0dabb0eaeed7f96a97a474c</id>
-    <published>2026-06-21T16:56:18+00:00</published>
-    <updated>2026-06-21T16:56:18+00:00</updated>
-    <summary type="text">Score: 0.515\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Show HN: 适用于Abaqus的Jacobi–IDE子程序，包含解析测试和AI诊断功能</title>
-    <link href="https://jacobee.netlify.app"/>
-    <id>b2712aa604756aefd08db7d8180c6f62</id>
-    <published>2026-06-21T16:20:46+00:00</published>
-    <updated>2026-06-21T16:20:46+00:00</updated>
-    <summary type="text">Score: 0.511\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>人工智能打破了招聘 / AI Has Broken Hiring</title>
-    <link href="https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it"/>
-    <id>601be8b43ebbef7facbfdd5bea4f36d5</id>
-    <published>2026-06-21T16:14:54+00:00</published>
-    <updated>2026-06-21T16:14:54+00:00</updated>
-    <summary type="text">Score: 0.509\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>代码重复远比错误的抽象更划算（2016） / Code duplication is far cheaper than the wrong abstraction</title>
-    <link href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction"/>
-    <id>8ca2cc21ecd833e07ed1797e996dfdfa</id>
-    <published>2026-06-21T16:08:23+00:00</published>
-    <updated>2026-06-21T16:08:23+00:00</updated>
-    <summary type="text">Score: 0.509\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>NSA局长：Mythos数小时内攻破其几乎所有机密系统</title>
-    <link href="https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u"/>
-    <id>f6ca6f63a5bb2ea3b206998a56898d74</id>
-    <published>2026-06-21T15:31:52+00:00</published>
-    <updated>2026-06-21T15:31:52+00:00</updated>
-    <summary type="text">Score: 0.767\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具</title>
+    <link href="https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn"/>
+    <id>a5310f307b015d2dbc697e7eef89447f</id>
+    <published>2026-06-22T18:49:44+00:00</published>
+    <updated>2026-06-22T18:49:44+00:00</updated>
+    <summary type="text">Score: 0.807\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>人工智能是一种大众精神病错觉[视频] / AI is a mass psychotic delusion [video]</title>
-    <link href="https://www.youtube.com/watch?v=WNiSUGCC-gY"/>
-    <id>bb5c047326dd53484cdbfe5889abe03b</id>
-    <published>2026-06-21T15:12:22+00:00</published>
-    <updated>2026-06-21T15:12:22+00:00</updated>
-    <summary type="text">Score: 0.514\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>Google ADK 与 A2A 协议：跨语言多智能体团队构建实战</title>
+    <link href="https://aihot.virxact.com/items/cmqpgzgfq00hislp5hwlbgz0h"/>
+    <id>512cd6cd5a142d58253ec8577dfa464f</id>
+    <published>2026-06-22T17:08:43+00:00</published>
+    <updated>2026-06-22T17:08:43+00:00</updated>
+    <summary type="text">Score: 0.793\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>当 AI 可以造梦，电影工业回归「人」的壁垒</title>
-    <link href="https://www.huxiu.com/article/4869007.html?f=rss"/>
-    <id>b1d8431cf51c8f5cf54574eb3d837f28</id>
-    <published>2026-06-21T15:08:30+00:00</published>
-    <updated>2026-06-21T15:08:30+00:00</updated>
-    <summary type="text">Score: 0.516\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>东京 AI 公司 Sakana AI 推出多智能体编排系统 Sakana Fugu</title>
+    <link href="https://aihot.virxact.com/items/cmqpez1uu001gslp5j4h23mih"/>
+    <id>a256188b20501fee9b5a08a18e82b3ce</id>
+    <published>2026-06-22T16:11:41+00:00</published>
+    <updated>2026-06-22T16:11:41+00:00</updated>
+    <summary type="text">Score: 0.785\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>不用怕：AI 学得会好品味，学不会坏品味</title>
-    <link href="https://www.huxiu.com/article/4869006.html?f=rss"/>
-    <id>a2cc627dd7d5f02b9c5785d3b1dce39e</id>
-    <published>2026-06-21T15:02:25+00:00</published>
-    <updated>2026-06-21T15:02:25+00:00</updated>
-    <summary type="text">Score: 0.516\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>Google Labs 提出用&quot;洞察策略&quot;评估 AI 编码智能体的主动性</title>
+    <link href="https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt"/>
+    <id>a4c461427bec731b06ca69f6c2f3a4ed</id>
+    <published>2026-06-22T16:08:41+00:00</published>
+    <updated>2026-06-22T16:08:41+00:00</updated>
+    <summary type="text">Score: 0.784\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>我十几岁的儿子正在用人工智能完成数学作业。我现在正在协助他的学校起草首份人工智能政策。</title>
-    <link href="https://www.businessinsider.com/teenager-uses-ai-homework-mom-helped-school-write-ai-policy-2026-6"/>
-    <id>1e0c5406547ac88f290e17d026765ed4</id>
-    <published>2026-06-21T13:27:01+00:00</published>
-    <updated>2026-06-21T13:27:01+00:00</updated>
-    <summary type="text">Score: 0.487\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>JetBrains IDE 中的新功能和 Claude 作为代理提供商预览 / New features and Claude as agent provider preview in JetBrains IDEs</title>
+    <link href="https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides"/>
+    <id>998fcf36245f4375da2ef9d0168b588d</id>
+    <published>2026-06-22T15:34:00+00:00</published>
+    <updated>2026-06-22T15:34:00+00:00</updated>
+    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>asgeirtj / system_prompts_leaks</title>
-    <link href="https://github.com/asgeirtj/system_prompts_leaks"/>
-    <id>2c4b152e510a2898e0867f099ee37e24</id>
-    <published>2026-06-21T12:54:23.610000+00:00</published>
-    <updated>2026-06-21T12:54:23.610000+00:00</updated>
-    <summary type="text">Score: 0.483\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>开辟新赛道：小米 YU7 GT 创全球首个纽北自动驾驶圈速纪录，官方圈速榜新增&quot;自动驾驶&quot;分类</title>
+    <link href="https://aihot.virxact.com/items/cmqpepyo500j1sldkfj5exgj8"/>
+    <id>1efe4f7daaa754cc8d7c0d046644ba80</id>
+    <published>2026-06-22T15:13:29+00:00</published>
+    <updated>2026-06-22T15:13:29+00:00</updated>
+    <summary type="text">Score: 0.777\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>mukul975 / 人类网络安全技能 / mukul975 / Anthropic-Cybersecurity-Skills</title>
-    <link href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills"/>
-    <id>1363cca33076e645feedc01cfff541dc</id>
-    <published>2026-06-21T12:54:23.610000+00:00</published>
-    <updated>2026-06-21T12:54:23.610000+00:00</updated>
-    <summary type="text">Score: 0.483\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>克劳德身份验证 / Identity verification on Claude</title>
-    <link href="https://news.ycombinator.com/item?id=48618455"/>
-    <id>c2fa9351ce0e98c351d0bbb89fe7132e</id>
-    <published>2026-06-21T12:44:13+00:00</published>
-    <updated>2026-06-21T12:44:13+00:00</updated>
-    <summary type="text">Score: 0.579\nSources: 4 (NewsNow)\nImportance: 多源热议</summary>
+    <title>克劳德·科德“扩展思维”输出中的文本 / The text in Claude Code’s “Extended Thinking” output</title>
+    <link href="https://news.ycombinator.com/item?id=48630535"/>
+    <id>5f1eb21da3fb3558c56b8190a471ac96</id>
+    <published>2026-06-22T14:22:46+00:00</published>
+    <updated>2026-06-22T14:22:46+00:00</updated>
+    <summary type="text">Score: 0.598\nSources: 4 (NewsNow)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>失控，AI的第一个泡沫，是程序员</title>
-    <link href="https://www.huxiu.com/article/4868994.html?f=rss"/>
-    <id>df9d3bdb97df2292b10681de6190664c</id>
-    <published>2026-06-21T12:40:00+00:00</published>
-    <updated>2026-06-21T12:40:00+00:00</updated>
-    <summary type="text">Score: 0.480\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录</title>
+    <link href="https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67"/>
+    <id>0eb9887836597aaa49b15903a253a6f3</id>
+    <published>2026-06-22T13:34:14+00:00</published>
+    <updated>2026-06-22T13:34:14+00:00</updated>
+    <summary type="text">Score: 0.763\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>人工智能会毁掉我们的技能吗？初步结果已经出炉，情况并不乐观</title>
-    <link href="https://www.nature.com/articles/d41586-026-01947-1"/>
-    <id>7c3287cd149c534abd3fa9d91a5fa782</id>
-    <published>2026-06-21T10:41:47+00:00</published>
-    <updated>2026-06-21T10:41:47+00:00</updated>
-    <summary type="text">Score: 0.465\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
+    <title>Anthropic 工程负责人：Claude Code 让程序员更孤独</title>
+    <link href="https://aihot.virxact.com/items/cmqpaflwr08cpslx6umzww19d"/>
+    <id>504eab71c23f7fae17d9bf6216696488</id>
+    <published>2026-06-22T13:25:46+00:00</published>
+    <updated>2026-06-22T13:25:46+00:00</updated>
+    <summary type="text">Score: 0.787\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="multi_source"/>
-    <category term="watch"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型</title>
-    <link href="https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1"/>
-    <id>f1988d6637e6f98983486678730a054a</id>
-    <published>2026-06-21T10:11:21+00:00</published>
-    <updated>2026-06-21T10:11:21+00:00</updated>
-    <summary type="text">Score: 0.723\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>PP-OCRv6 on Hugging Face：50 语言 OCR，参数规模 1.5M 至 34.5M</title>
+    <link href="https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9"/>
+    <id>207cd327e1a87e64534d807a4aaee78a</id>
+    <published>2026-06-22T13:18:56+00:00</published>
+    <updated>2026-06-22T13:18:56+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Cursor 审计发现奖励黑客行为淹没模型智能提升</title>
+    <link href="https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7"/>
+    <id>559fc741f66362c0fc3058ad2f221965</id>
+    <published>2026-06-22T12:00:00+00:00</published>
+    <updated>2026-06-22T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>人工智能的10万个“为什么”</title>
-    <link href="https://lcamtuf.substack.com/p/the-100000-whys-of-ai"/>
-    <id>e95e8d08f8a51a9cd085dcd901611866</id>
-    <published>2026-06-21T05:45:21+00:00</published>
-    <updated>2026-06-21T05:45:21+00:00</updated>
-    <summary type="text">Score: 0.452\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>AI 圈太“卷”：成本压力下，微软 Copilot 拟引入 DeepSeek 模型</title>
+    <link href="https://www.aibase.com/news/29046"/>
+    <id>2471675838cc568491c15f1c5dc21cf2</id>
+    <published>2026-06-22T10:21:01.885428+00:00</published>
+    <updated>2026-06-22T10:21:01.885428+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>构建可靠的代理式人工智能系统</title>
-    <link href="https://martinfowler.com/articles/reliable-llm-bayer.html"/>
-    <id>7239217e75f8a11915811093a860a067</id>
-    <published>2026-06-21T04:28:39+00:00</published>
-    <updated>2026-06-21T04:28:39+00:00</updated>
-    <summary type="text">Score: 0.481\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>Meta前高管：AI时代别做十年规划，把握这两件事就够了</title>
+    <link href="https://www.aibase.com/news/29051"/>
+    <id>d59dc8c2c79b24e9cdea3631f9577963</id>
+    <published>2026-06-22T10:21:01.885428+00:00</published>
+    <updated>2026-06-22T10:21:01.885428+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI拿下史上最大企业订单！三星 12 万员工全面接入ChatGPT</title>
+    <link href="https://www.aibase.com/news/29061"/>
+    <id>4f6fca41f4545c6bd652ac677b7b5e1b</id>
+    <published>2026-06-22T10:21:01.885428+00:00</published>
+    <updated>2026-06-22T10:21:01.885428+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI拿下史上最大订单：三星 12 万员工全面开启AI办公时代</title>
+    <link href="https://www.aibase.com/news/29056"/>
+    <id>71aca22205d9300f5ec08970bd09a903</id>
+    <published>2026-06-22T10:21:01.885428+00:00</published>
+    <updated>2026-06-22T10:21:01.885428+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>​亚马逊向外部出售自研 Trainium 芯片，AI 算市场前景广阔</title>
+    <link href="https://www.aibase.com/news/29045"/>
+    <id>7e2ef3f84e6af76b97ec1fc22489a03f</id>
+    <published>2026-06-22T10:21:01.885428+00:00</published>
+    <updated>2026-06-22T10:21:01.885428+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 发布 Daybreak 安全工具：Codex Security 与 GPT-5.5-Cyber</title>
+    <link href="https://aihot.virxact.com/items/cmqph7ap700n2slp5g4tfjs46"/>
+    <id>36b707a054cb96518366ef0e8400cd7b</id>
+    <published>2026-06-22T10:00:00+00:00</published>
+    <updated>2026-06-22T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.733\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Codex-maxxing 适用于长时间运行的工作 / Codex-maxxing for long-running work</title>
+    <link href="https://openai.com/index/codex-maxxing-long-running-work"/>
+    <id>47d0ef9561743cdb8ca53841015997dc</id>
+    <published>2026-06-22T00:00:00+00:00</published>
+    <updated>2026-06-22T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.723\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>三星电子为员工带来 ChatGPT 和 Codex / Samsung Electronics brings ChatGPT and Codex to employees</title>
+    <link href="https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"/>
+    <id>fa1d4d1068f010f28a25dc7afe5dea65</id>
+    <published>2026-06-21T23:00:00+00:00</published>
+    <updated>2026-06-21T23:00:00+00:00</updated>
+    <summary type="text">Score: 0.727\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="official"/>
   </entry>
   <entry>
     <title>点击这里进入 / Click here to enter</title>
-    <link href="http://ai.hubtoday.app/?tr_uuid=20260622-0652-324c-8aa2-c9ddc7b0915d&amp;fp=-3"/>
+    <link href="http://ai.hubtoday.app/?tr_uuid=20260623-0528-0203-93cf-8808f5434bcf&amp;fp=-3"/>
     <id>ac691b002c5214725c49c4af90dff4ff</id>
-    <published>2026-06-20T21:47:03.453023+00:00</published>
-    <updated>2026-06-20T21:47:03.453023+00:00</updated>
-    <summary type="text">Score: 0.912\nSources: 10 (AI HubToday)\nImportance: 多源热议</summary>
+    <published>2026-06-21T20:52:04.889603+00:00</published>
+    <updated>2026-06-21T20:52:04.889603+00:00</updated>
+    <summary type="text">Score: 0.912\nSources: 6 (AI HubToday)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>

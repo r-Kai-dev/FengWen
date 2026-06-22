@@ -4,128 +4,128 @@
   <icon>https://alphasignal.ai/favicon.ico</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-06-20T23:16:21+00:00</updated>
+  <updated>2026-06-22T19:38:51+00:00</updated>
   <author>
-    <name>Datacurve</name>
+    <name>Google Gemini</name>
   </author>
   <entry>
-    <title>Zhipu AI's GLM 5.2 Tops Open-Source Coding at 44%, Beating Rivals for Less</title>
-    <link href="https://deepswe.datacurve.ai/"/>
-    <id>9b27cace4d40fb4661f27c39e2fc302a</id>
-    <published>2026-06-20T23:16:21+00:00</published>
-    <updated>2026-06-20T23:16:21+00:00</updated>
-    <summary type="text">GLM 5.2 claims the top open-source spot on DeepSWE with a 44% pass@1, beating Kimi K2.7 Code by 17 percentage points on a contamination-free coding benchmark.</summary>
+    <title>Google's Gemini Spark Works 24/7 on Your Tasks While You Sleep</title>
+    <link href="https://gemini.google/overview/agent/spark/"/>
+    <id>da5431c13871a290da8043e5db51ddaf</id>
+    <published>2026-06-22T19:38:51+00:00</published>
+    <updated>2026-06-22T19:38:51+00:00</updated>
+    <summary type="text">Gemini Spark is Google's always-on AI agent that runs in the cloud 24/7, taking multi-step actions across your Google Workspace even when your devices are off â now in beta for US AI Ultra subscribers.</summary>
+    <category term="agents"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>OpenCode Fixes the Metric That Made Chatty AI Models Look Dominant</title>
+    <link href="https://opencode.ai/data"/>
+    <id>8388f504b6452dc3471585ddb3654fcd</id>
+    <published>2026-06-22T19:28:14+00:00</published>
+    <updated>2026-06-22T19:28:14+00:00</updated>
+    <summary type="text">OpenCode's public data dashboard now ranks models by unique users, fixing a bias where verbose models looked more popular than they actually were</summary>
+    <category term="benchmarks"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Z.ai's GLM-5.2 Beats Every Open-Weights Model to Match GPT-5.5</title>
+    <link href="https://artificialanalysis.ai/models/glm-5-2"/>
+    <id>4f2f0c30cc7ad108ec20aa1415c5d5d7</id>
+    <published>2026-06-22T18:13:14+00:00</published>
+    <updated>2026-06-22T18:13:14+00:00</updated>
+    <summary type="text">Artificial Analysis independently benchmarks Z.ai's GLM-5.2, finding it tops all open-weights models on real-world agentic work and matches GPT-5.5 at a fraction of the cost.</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>GitHub Bakes Impeccable Into Copilot to Fix AI's Generic UI Problem</title>
+    <link href="https://x.com/github/status/2069121028241174761"/>
+    <id>56d970c6c047a081458c374eebe57b99</id>
+    <published>2026-06-22T18:11:10+00:00</published>
+    <updated>2026-06-22T18:11:10+00:00</updated>
+    <summary type="text">GitHub bakes Impeccable's AI design skill directly into the Copilot app, giving every developer polished UI output without any manual setup</summary>
     <category term="development"/>
     <category term="open_source"/>
   </entry>
   <entry>
-    <title>GitHub Cuts Secret Scanning False Positives by 75% With AI Verification</title>
-    <link href="https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/"/>
-    <id>1feef24f7f8b0560787920cd53d9adc5</id>
-    <published>2026-06-20T19:20:01+00:00</published>
-    <updated>2026-06-20T19:20:01+00:00</updated>
-    <summary type="text">GitHub and Microsoft cut secret scanning false positives by 75.76% using an LLM that reads how code actually uses a detected value, not just what it looks like.</summary>
+    <title>NVIDIA's ArtiFixer Beats Prior 3D Scene Reconstruction by 3 dB</title>
+    <link href="https://www.nvidia.com/en-us/events/siggraph/?ncid=so-twit-584180&amp;linkId=100000427535353"/>
+    <id>08bbbef72fe8a008c54f80b5b94072a6</id>
+    <published>2026-06-22T18:00:00+00:00</published>
+    <updated>2026-06-22T18:00:00+00:00</updated>
+    <summary type="text">NVIDIA's ArtiFixer uses autoregressive diffusion to fill geometry gaps in 3D Gaussian Splatting scenes, beating prior SOTA by 1â3 dB PSNR</summary>
+    <category term="image"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Google's Interactions API Goes Live as the Primary Way to Build Gemini Agents</title>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/"/>
+    <id>5f3caca44c66082806962735ae850659</id>
+    <published>2026-06-22T17:22:02+00:00</published>
+    <updated>2026-06-22T17:22:02+00:00</updated>
+    <summary type="text">Google's Interactions API hits GA, becoming the primary way to build with Gemini â adding managed agents, background execution, and a new step-based schema</summary>
+    <category term="api"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>OpenAI's GPT-5.5-Cyber Launches to Patch the World's Open-Source Security Holes</title>
+    <link href="https://openai.com/index/daybreak-securing-the-world/"/>
+    <id>41a4faabf24a1fb9ff604582761e60d7</id>
+    <published>2026-06-22T17:04:38+00:00</published>
+    <updated>2026-06-22T17:04:38+00:00</updated>
+    <summary type="text">OpenAI expands Daybreak with a full GPT-5.5-Cyber release, Codex Security workflows, 30+ industry partners, and a Patch the Planet open-source initiative</summary>
     <category term="security"/>
     <category term="development"/>
   </entry>
   <entry>
-    <title>Nous Research's Hermes Agent Ships Blank Slate Mode for Full Custom Control</title>
-    <link href="https://hermes-agent.nousresearch.com/docs/getting-started/quickstart"/>
-    <id>c8b5b5b3960cfc1e4063f06080327f37</id>
-    <published>2026-06-20T18:45:57+00:00</published>
-    <updated>2026-06-20T18:45:57+00:00</updated>
-    <summary type="text">Hermes Agent adds Blank Slate setup mode, letting power users hand-pick every tool instead of accepting opinionated defaults</summary>
-    <category term="agents"/>
+    <title>Vercel's AI SDK 7 Rebuilds LLM Observability on Open-Source OpenTelemetry</title>
+    <link href="https://ai-sdk.dev/v7/docs/ai-sdk-core/telemetry#tracing-channel"/>
+    <id>dd30399d187384c35c70851d37b679f7</id>
+    <published>2026-06-22T16:13:46+00:00</published>
+    <updated>2026-06-22T16:13:46+00:00</updated>
+    <summary type="text">AI SDK 7 replaces per-call observability wiring with a pluggable TelemetryIntegration system, giving any provider a clean hook into every model call and tool execution.</summary>
     <category term="development"/>
+    <category term="infra"/>
   </entry>
   <entry>
-    <title>Exa Agent Brings $2.2B Semantic Search Directly Into Google Sheets</title>
-    <link href="https://workspace.google.com/marketplace/app/exa_ai/465545439521"/>
-    <id>78970df11bd7cb51370e5329c897c7b6</id>
-    <published>2026-06-19T19:48:10+00:00</published>
-    <updated>2026-06-19T19:48:10+00:00</updated>
-    <summary type="text">Exa brings its AI-powered web research agent directly into Google Sheets, letting anyone enrich data and build lists without writing a line of code</summary>
-    <category term="api"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Cerebras Runs Gemma 4 at 1,500 Tokens per Second, 15x Faster Than Haiku</title>
-    <link href="https://luma.com/cerebras-piwl?utm_source=linkedin"/>
-    <id>a9c543e7741e2bf8f43ea32ff061e152</id>
-    <published>2026-06-19T19:19:24+00:00</published>
-    <updated>2026-06-19T19:19:24+00:00</updated>
-    <summary type="text">Cerebras brings Google DeepMind's Gemma 4 to its wafer-scale hardware, hitting 1,500+ tokens per second â 15x faster than Claude Haiku â and launches a $5,000 hackathon to celebrate.</summary>
-    <category term="llms"/>
-    <category term="gpus"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot CLI's Rubber Duck Uses a Rival AI to Catch Your Bugs</title>
-    <link href="https://github.com/features/copilot/cli?utm_source=x-cli-motion-graphic&amp;utm_medium=social&amp;utm_campaign=dev-pod-copilot-cli-2026"/>
-    <id>d7e4ddba7f80fabe401108e2e49426b6</id>
-    <published>2026-06-19T19:03:26+00:00</published>
-    <updated>2026-06-19T19:03:26+00:00</updated>
-    <summary type="text">GitHub Copilot CLI goes GA with a cross-model Rubber Duck critic and on-device voice input that never leaves your machine</summary>
-    <category term="development"/>
-    <category term="audio"/>
-  </entry>
-  <entry>
-    <title>Zed Adds Ctrl+F Search to AI Agent Threads, Tested on 919k-Token Chats</title>
-    <link href="https://github.com/zed-industries/zed/pull/57231"/>
-    <id>7a17633468d7e12bd7e8af3006cfef73</id>
-    <published>2026-06-19T17:08:12+00:00</published>
-    <updated>2026-06-19T17:08:12+00:00</updated>
-    <summary type="text">Zed merges Ctrl+F search into its AI agent panel, letting you grep long conversations with regex, case, and whole-word toggles</summary>
-    <category term="development"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Fable 5 Tops the Hardest Coding Benchmark With 70% Score</title>
-    <link href="https://deepswe.datacurve.ai/"/>
-    <id>9b27cace4d40fb4661f27c39e2fc302a</id>
-    <published>2026-06-19T01:27:38+00:00</published>
-    <updated>2026-06-19T01:27:38+00:00</updated>
-    <summary type="text">Claude Fable 5 takes the top spot on DeepSWE's contamination-free, long-horizon coding benchmark, dethroning GPT-5.5 with a 70% pass@1 score on harder, more realistic tasks.</summary>
-    <category term="benchmarks"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Chrome's HTML-in-Canvas API Ends 20 Years of Web Graphics Tradeoffs</title>
-    <link href="https://www.youtube.com/watch?v=TUtKGTeFWjQ"/>
-    <id>8e4ac95b4e1826e533bd64c3d3fa4f9b</id>
-    <published>2026-06-19T01:00:00+00:00</published>
-    <updated>2026-06-19T01:00:00+00:00</updated>
-    <summary type="text">Chrome's HTML-in-Canvas API enters origin trial, letting live DOM elements render directly inside WebGL and WebGPU textures with full accessibility preserved</summary>
-    <category term="development"/>
+    <title>Remotion Ships 50+ Video Effects React Developers can Control With AI</title>
+    <link href="https://www.remotion.dev/docs/effects"/>
+    <id>dc27b8957800de76f282a92752a6a06b</id>
+    <published>2026-06-22T14:36:24+00:00</published>
+    <updated>2026-06-22T14:36:24+00:00</updated>
+    <summary type="text">Remotion ships 50+ canvas pixel effects with keyframing, visual editing, and AI agent support baked in from day one</summary>
     <category term="vibe_coding"/>
-  </entry>
-  <entry>
-    <title>GitHub Ships PR Limits to Fight the 3.6x AI-Driven Code Flood</title>
-    <link href="https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"/>
-    <id>59d8129aa2488f247b34d52fcd563468</id>
-    <published>2026-06-18T23:29:55+00:00</published>
-    <updated>2026-06-18T23:29:55+00:00</updated>
-    <summary type="text">GitHub now lets maintainers cap how many open PRs any outside contributor can hold at once, with a bypass list for trusted contributors â a direct response to AI-fueled PR spam.</summary>
-    <category term="development"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Factory's AutoWiki Turns Any Codebase Into Self-Updating Docs on Every Push</title>
-    <link href="https://factory.ai/open-source-wikis"/>
-    <id>657296636264a684d8a7c0c1c46b6fdd</id>
-    <published>2026-06-18T23:21:14+00:00</published>
-    <updated>2026-06-18T23:21:14+00:00</updated>
-    <summary type="text">Factory's AutoWiki generates living, narrated documentation for any codebase and keeps it in sync with every push</summary>
-    <category term="open_source"/>
     <category term="development"/>
   </entry>
   <entry>
-    <title>Artificial Analysis' AA-Briefcase Benchmark Exposes What AI Models Can't Actually Do</title>
-    <link href="https://artificialanalysis.ai/evaluations/aa-briefcase"/>
-    <id>8e82e7c2a7aff3d481e382a6fad8c461</id>
-    <published>2026-06-18T23:01:52+00:00</published>
-    <updated>2026-06-18T23:01:52+00:00</updated>
-    <summary type="text">Artificial Analysis launches AA-Briefcase, a new benchmark testing AI agents on real multi-week knowledge work projects with thousands of messy input files</summary>
+    <title>Google DeepMind Bets $75M on A24 to Build AI Filmmaking Tools</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
+    <id>b0c2d33ac9d77143c00fc03ebc93d0a3</id>
+    <published>2026-06-22T14:35:11+00:00</published>
+    <updated>2026-06-22T14:35:11+00:00</updated>
+    <summary type="text">Google DeepMind and A24 launch a research collaboration to build AI filmmaking tools with creators at the center, backed by a ~$75M Google investment in the studio</summary>
+    <category term="image"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>ByteDance's Seed 2.1 Pro Matches Claude Opus 4.6 on Frontend Code Before Launch</title>
+    <link href="https://arena.ai/leaderboard/code"/>
+    <id>6b3cdce721d12eee6b08574d9ec55bd8</id>
+    <published>2026-06-22T01:11:54+00:00</published>
+    <updated>2026-06-22T01:11:54+00:00</updated>
+    <summary type="text">ByteDance's Seed 2.1 Pro Preview debuts at #8 on Arena's frontend code leaderboard, matching Claude Opus 4.6 on React and UI tasks before public release.</summary>
+    <category term="development"/>
     <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Sakana AI's Fugu Ultra Beats GPT-5 by Orchestrating Rival Models</title>
+    <link href="https://sakana.ai/fugu-release/"/>
+    <id>447b9f0c48da1fe08151b0e2394363a2</id>
+    <published>2026-06-22T01:00:24+00:00</published>
+    <updated>2026-06-22T01:00:24+00:00</updated>
+    <summary type="text">Sakana AI's Fugu Ultra matches Fable 5 and Mythos Preview by orchestrating a swappable pool of frontier models through a single OpenAI-compatible API.</summary>
     <category term="agents"/>
+    <category term="llms"/>
   </entry>
 </feed>
