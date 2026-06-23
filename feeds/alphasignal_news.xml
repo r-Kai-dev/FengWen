@@ -4,128 +4,118 @@
   <icon>https://alphasignal.ai/favicon.ico</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-06-22T19:38:51+00:00</updated>
+  <updated>2026-06-23T20:07:06+00:00</updated>
   <author>
-    <name>Google Gemini</name>
+    <name>Cursor</name>
   </author>
   <entry>
-    <title>Google's Gemini Spark Works 24/7 on Your Tasks While You Sleep</title>
-    <link href="https://gemini.google/overview/agent/spark/"/>
-    <id>da5431c13871a290da8043e5db51ddaf</id>
-    <published>2026-06-22T19:38:51+00:00</published>
-    <updated>2026-06-22T19:38:51+00:00</updated>
-    <summary type="text">Gemini Spark is Google's always-on AI agent that runs in the cloud 24/7, taking multi-step actions across your Google Workspace even when your devices are off â now in beta for US AI Ultra subscribers.</summary>
-    <category term="agents"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>OpenCode Fixes the Metric That Made Chatty AI Models Look Dominant</title>
-    <link href="https://opencode.ai/data"/>
-    <id>8388f504b6452dc3471585ddb3654fcd</id>
-    <published>2026-06-22T19:28:14+00:00</published>
-    <updated>2026-06-22T19:28:14+00:00</updated>
-    <summary type="text">OpenCode's public data dashboard now ranks models by unique users, fixing a bias where verbose models looked more popular than they actually were</summary>
-    <category term="benchmarks"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Z.ai's GLM-5.2 Beats Every Open-Weights Model to Match GPT-5.5</title>
-    <link href="https://artificialanalysis.ai/models/glm-5-2"/>
-    <id>4f2f0c30cc7ad108ec20aa1415c5d5d7</id>
-    <published>2026-06-22T18:13:14+00:00</published>
-    <updated>2026-06-22T18:13:14+00:00</updated>
-    <summary type="text">Artificial Analysis independently benchmarks Z.ai's GLM-5.2, finding it tops all open-weights models on real-world agentic work and matches GPT-5.5 at a fraction of the cost.</summary>
-    <category term="llms"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>GitHub Bakes Impeccable Into Copilot to Fix AI's Generic UI Problem</title>
-    <link href="https://x.com/github/status/2069121028241174761"/>
-    <id>56d970c6c047a081458c374eebe57b99</id>
-    <published>2026-06-22T18:11:10+00:00</published>
-    <updated>2026-06-22T18:11:10+00:00</updated>
-    <summary type="text">GitHub bakes Impeccable's AI design skill directly into the Copilot app, giving every developer polished UI output without any manual setup</summary>
+    <title>Cursor 3.8 Ships a Team Leaderboard Showing What Plugins Your Colleagues Actually Use</title>
+    <link href="https://cursor.com/changelog/customize"/>
+    <id>2399a4eebba1d346bf93d746a0cc9a5f</id>
+    <published>2026-06-23T20:07:06+00:00</published>
+    <updated>2026-06-23T20:07:06+00:00</updated>
+    <summary type="text">Cursor 3.8 adds a team plugin leaderboard, one-click installs, prebuilt canvases, and GitLab/Bitbucket/Azure DevOps marketplace support</summary>
     <category term="development"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>NVIDIA's ArtiFixer Beats Prior 3D Scene Reconstruction by 3 dB</title>
-    <link href="https://www.nvidia.com/en-us/events/siggraph/?ncid=so-twit-584180&amp;linkId=100000427535353"/>
-    <id>08bbbef72fe8a008c54f80b5b94072a6</id>
-    <published>2026-06-22T18:00:00+00:00</published>
-    <updated>2026-06-22T18:00:00+00:00</updated>
-    <summary type="text">NVIDIA's ArtiFixer uses autoregressive diffusion to fill geometry gaps in 3D Gaussian Splatting scenes, beating prior SOTA by 1â3 dB PSNR</summary>
-    <category term="image"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Google's Interactions API Goes Live as the Primary Way to Build Gemini Agents</title>
-    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/"/>
-    <id>5f3caca44c66082806962735ae850659</id>
-    <published>2026-06-22T17:22:02+00:00</published>
-    <updated>2026-06-22T17:22:02+00:00</updated>
-    <summary type="text">Google's Interactions API hits GA, becoming the primary way to build with Gemini â adding managed agents, background execution, and a new step-based schema</summary>
     <category term="api"/>
-    <category term="agents"/>
   </entry>
   <entry>
-    <title>OpenAI's GPT-5.5-Cyber Launches to Patch the World's Open-Source Security Holes</title>
-    <link href="https://openai.com/index/daybreak-securing-the-world/"/>
-    <id>41a4faabf24a1fb9ff604582761e60d7</id>
-    <published>2026-06-22T17:04:38+00:00</published>
-    <updated>2026-06-22T17:04:38+00:00</updated>
-    <summary type="text">OpenAI expands Daybreak with a full GPT-5.5-Cyber release, Codex Security workflows, 30+ industry partners, and a Patch the Planet open-source initiative</summary>
-    <category term="security"/>
-    <category term="development"/>
+    <title>OpenAI's GPT-5.5 Hits 82.7% on Terminal-Bench and Rewires Its Agent Platform</title>
+    <link href="https://x.com/openaidevs/status/2069499656305090671"/>
+    <id>3c46c5ac138e4cf0b43127afd387d8bf</id>
+    <published>2026-06-23T19:15:42+00:00</published>
+    <updated>2026-06-23T19:15:42+00:00</updated>
+    <summary type="text">OpenAI shipped 30+ API updates in six months: new GPT-5.x models, a production-ready Agents SDK with sandboxing, and OpenAI models on Amazon Bedrock</summary>
+    <category term="api"/>
+    <category term="llms"/>
   </entry>
   <entry>
-    <title>Vercel's AI SDK 7 Rebuilds LLM Observability on Open-Source OpenTelemetry</title>
-    <link href="https://ai-sdk.dev/v7/docs/ai-sdk-core/telemetry#tracing-channel"/>
-    <id>dd30399d187384c35c70851d37b679f7</id>
-    <published>2026-06-22T16:13:46+00:00</published>
-    <updated>2026-06-22T16:13:46+00:00</updated>
-    <summary type="text">AI SDK 7 replaces per-call observability wiring with a pluggable TelemetryIntegration system, giving any provider a clean hook into every model call and tool execution.</summary>
+    <title>OpenAI Takes DevDay 2026 Global With 8-City Developer Tour</title>
+    <link href="https://devday.openai.com/"/>
+    <id>4497fe4e6128ef7cc8d5ab937ed7eac9</id>
+    <published>2026-06-23T18:10:24+00:00</published>
+    <updated>2026-06-23T18:10:24+00:00</updated>
+    <summary type="text">OpenAI opens applications for DevDay 2026, its fourth annual developer conference, expanding globally with satellite events across 8 cities worldwide</summary>
+    <category term="api"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Tag Joins Slack as a Teammate, Writing 65% of Code</title>
+    <link href="https://www.anthropic.com/news/introducing-claude-tag"/>
+    <id>f912381c1ebf378e3298e3a46b26d962</id>
+    <published>2026-06-23T17:12:39+00:00</published>
+    <updated>2026-06-23T17:12:39+00:00</updated>
+    <summary type="text">Anthropic's Claude Tag turns Slack into a multiplayer AI workspace where @Claude joins as a persistent team member, not just a chatbot</summary>
     <category term="development"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>NVIDIA Backs DFlash to Boost LLM Inference 15x on Blackwell</title>
+    <link href="https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/?ncid=so-twit-578984&amp;linkId=100000427691673"/>
+    <id>225ae4a3a3ebb17198a8bc94572a3cb9</id>
+    <published>2026-06-23T17:00:01+00:00</published>
+    <updated>2026-06-23T17:00:01+00:00</updated>
+    <summary type="text">NVIDIA's inference stack now supports DFlash, a block-diffusion speculative decoding method that delivers up to 15x throughput gains on Blackwell GPUs with zero code changes.</summary>
     <category term="infra"/>
+    <category term="open_source"/>
   </entry>
   <entry>
-    <title>Remotion Ships 50+ Video Effects React Developers can Control With AI</title>
-    <link href="https://www.remotion.dev/docs/effects"/>
-    <id>dc27b8957800de76f282a92752a6a06b</id>
-    <published>2026-06-22T14:36:24+00:00</published>
-    <updated>2026-06-22T14:36:24+00:00</updated>
-    <summary type="text">Remotion ships 50+ canvas pixel effects with keyframing, visual editing, and AI agent support baked in from day one</summary>
-    <category term="vibe_coding"/>
+    <title>Microsoft's MAI-Voice-2 Fools 45% of Listeners Into Thinking It's Human</title>
+    <link href="https://playground.microsoft.ai/chat?model=mai-voice-2"/>
+    <id>fba04a18ab02b9cb26bdeafa42e72e71</id>
+    <published>2026-06-23T16:30:08+00:00</published>
+    <updated>2026-06-23T16:30:08+00:00</updated>
+    <summary type="text">Microsoft's MAI-Voice-2 brings tag-level emotion control and zero-shot voice cloning to 15 languages, preferred over real human recordings nearly half the time</summary>
+    <category term="audio"/>
     <category term="development"/>
   </entry>
   <entry>
-    <title>Google DeepMind Bets $75M on A24 to Build AI Filmmaking Tools</title>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
-    <id>b0c2d33ac9d77143c00fc03ebc93d0a3</id>
-    <published>2026-06-22T14:35:11+00:00</published>
-    <updated>2026-06-22T14:35:11+00:00</updated>
-    <summary type="text">Google DeepMind and A24 launch a research collaboration to build AI filmmaking tools with creators at the center, backed by a ~$75M Google investment in the studio</summary>
+    <title>Manus Now Suggests Its Own Research Sources so You Don't Have To</title>
+    <link href="https://x.com/manusai/status/2069436049198076069"/>
+    <id>4cb1e59ce78d3fa893dfb245c07a1495</id>
+    <published>2026-06-23T15:02:57+00:00</published>
+    <updated>2026-06-23T15:02:57+00:00</updated>
+    <summary type="text">Manus adds smart source suggestions to projects, letting the agent learn which web pages to reference across future tasks â no URL hunting required.</summary>
+    <category term="development"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Krea Opens Krea 2's 12B Image Model So Anyone Can Train and Deploy</title>
+    <link href="https://huggingface.co/krea/Krea-2-Turbo"/>
+    <id>63a4a91f264a7d93c5a7c0005fe71b85</id>
+    <published>2026-06-23T15:01:07+00:00</published>
+    <updated>2026-06-23T15:01:07+00:00</updated>
+    <summary type="text">Krea open-sources its 12B aesthetic image model as two weights: a malleable mid-training checkpoint for fine-tuning and a distilled 8-step version for fast 2K generation</summary>
     <category term="image"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Mistral OCR 4 Beats Every Rival With 72% Human Win Rate</title>
+    <link href="https://mistral.ai/news/ocr-4/"/>
+    <id>6a1ada4eead194c79ea1ca40e5fe72ff</id>
+    <published>2026-06-23T14:00:13+00:00</published>
+    <updated>2026-06-23T14:00:13+00:00</updated>
+    <summary type="text">Mistral OCR 4 adds bounding boxes, block classification, and confidence scores, topping OlmOCRBench with a 72% average human-preference win rate across 12+ languages</summary>
+    <category term="image"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Prime Intellect Ships prime-rl to Train 744B Models on Just 28 GPUs</title>
+    <link href="https://www.primeintellect.ai/blog/rl-at-1t-scale"/>
+    <id>4a84a7cf2d4efe40548c69ca13249800</id>
+    <published>2026-06-23T02:15:59+00:00</published>
+    <updated>2026-06-23T02:15:59+00:00</updated>
+    <summary type="text">Prime Intellect's prime-rl v0.6.0 brings RL post-training to trillion-parameter MoE models with sub-5-minute step times on 28 H200 nodes</summary>
+    <category term="training_infra"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Anthropic Expands its Claude Ambassador Program to Japan</title>
+    <link href="https://claude.com/ja/community/ambassadors"/>
+    <id>e14d72b4957aff020a5ca9856946a447</id>
+    <published>2026-06-22T23:36:28+00:00</published>
+    <updated>2026-06-22T23:36:28+00:00</updated>
+    <summary type="text">Anthropic's Claude Community Ambassador program expands to Japan, joining a global network of 290+ meetups across 37 countries and 40,000+ attendees</summary>
     <category term="business"/>
-  </entry>
-  <entry>
-    <title>ByteDance's Seed 2.1 Pro Matches Claude Opus 4.6 on Frontend Code Before Launch</title>
-    <link href="https://arena.ai/leaderboard/code"/>
-    <id>6b3cdce721d12eee6b08574d9ec55bd8</id>
-    <published>2026-06-22T01:11:54+00:00</published>
-    <updated>2026-06-22T01:11:54+00:00</updated>
-    <summary type="text">ByteDance's Seed 2.1 Pro Preview debuts at #8 on Arena's frontend code leaderboard, matching Claude Opus 4.6 on React and UI tasks before public release.</summary>
-    <category term="development"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Sakana AI's Fugu Ultra Beats GPT-5 by Orchestrating Rival Models</title>
-    <link href="https://sakana.ai/fugu-release/"/>
-    <id>447b9f0c48da1fe08151b0e2394363a2</id>
-    <published>2026-06-22T01:00:24+00:00</published>
-    <updated>2026-06-22T01:00:24+00:00</updated>
-    <summary type="text">Sakana AI's Fugu Ultra matches Fable 5 and Mythos Preview by orchestrating a swappable pool of frontier models through a single OpenAI-compatible API.</summary>
-    <category term="agents"/>
     <category term="llms"/>
   </entry>
 </feed>

@@ -4,24 +4,32 @@
   <icon>https://www.alphaxiv.org/favicon.ico</icon>
   <link href="https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days"/>
   <id>https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days</id>
-  <updated>2026-06-18T00:00:00+00:00</updated>
+  <updated>2026-06-22T00:00:00+00:00</updated>
   <author>
     <name>alphaXiv</name>
   </author>
   <entry>
-    <title>Current World Models Lack a Persistent State Core</title>
-    <link href="https://arxiv.org/abs/2606.20545"/>
-    <id>5df83ac845a7e3121b89c20c0926bfc4</id>
-    <published>2026-06-18T00:00:00+00:00</published>
-    <updated>2026-06-18T00:00:00+00:00</updated>
+    <title>HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory</title>
+    <link href="https://arxiv.org/abs/2606.23565"/>
+    <id>57746d9af3ee2dbcf01216ec6b8384ce</id>
+    <published>2026-06-22T00:00:00+00:00</published>
+    <updated>2026-06-22T00:00:00+00:00</updated>
     <category term="hot"/>
   </entry>
   <entry>
-    <title>How Transparent is DiffusionGemma?</title>
-    <link href="https://arxiv.org/abs/2606.20560"/>
-    <id>0cde6c042dec7caee95a46609ed1b060</id>
-    <published>2026-06-18T00:00:00+00:00</published>
-    <updated>2026-06-18T00:00:00+00:00</updated>
+    <title>Tmax: A Simple Recipe for Terminal Agents</title>
+    <link href="https://arxiv.org/abs/tmax"/>
+    <id>f2de02b934f80905c960378e41c4dce0</id>
+    <published>2026-06-22T00:00:00+00:00</published>
+    <updated>2026-06-22T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>Unlimited OCR Works</title>
+    <link href="https://arxiv.org/abs/2606.23050"/>
+    <id>50df7abe3bad1dd92e3f482c43a40163</id>
+    <published>2026-06-22T00:00:00+00:00</published>
+    <updated>2026-06-22T00:00:00+00:00</updated>
     <category term="hot"/>
   </entry>
   <entry>
@@ -38,14 +46,6 @@
     <id>ec8723342fcd46102738ab9de6d3f624</id>
     <published>2026-06-18T00:00:00+00:00</published>
     <updated>2026-06-18T00:00:00+00:00</updated>
-    <category term="hot"/>
-  </entry>
-  <entry>
-    <title>Looped World Models</title>
-    <link href="https://arxiv.org/abs/2606.18208"/>
-    <id>7892628b93d7e8b8990db4306d72a043</id>
-    <published>2026-06-16T00:00:00+00:00</published>
-    <updated>2026-06-16T00:00:00+00:00</updated>
     <category term="hot"/>
   </entry>
 </feed>

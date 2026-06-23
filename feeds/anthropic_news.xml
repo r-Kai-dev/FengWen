@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-06-17T00:00:00+00:00</updated>
+  <updated>2026-06-23T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Introducing Claude Tag</title>
+    <link href="https://www.anthropic.com/news/introducing-claude-tag"/>
+    <id>f0a1bd64cd0165f00314df5d04b62fd5</id>
+    <published>2026-06-23T00:00:00+00:00</published>
+    <updated>2026-06-23T00:00:00+00:00</updated>
+    <category term="Product"/>
+  </entry>
   <entry>
     <title>Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</title>
     <link href="https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem"/>
@@ -103,13 +111,5 @@
     <published>2026-05-28T00:00:00+00:00</published>
     <updated>2026-05-28T00:00:00+00:00</updated>
     <category term="Product"/>
-  </entry>
-  <entry>
-    <title>Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical &quot;Magnifica humanitas&quot;</title>
-    <link href="https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"/>
-    <id>9e44e27acca9cb62398d148a7788412e</id>
-    <published>2026-05-25T00:00:00+00:00</published>
-    <updated>2026-05-25T00:00:00+00:00</updated>
-    <category term="Announcements"/>
   </entry>
 </feed>
