@@ -4,10 +4,19 @@
   <icon>https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico</icon>
   <link href="https://qwen.ai/research"/>
   <id>https://qwen.ai/research</id>
-  <updated>2026-06-16T00:00:00+00:00</updated>
+  <updated>2026-06-23T00:00:00+00:00</updated>
   <author>
     <name>Qwen (Alibaba)</name>
   </author>
+  <entry>
+    <title>Qwen-AgentWorld: Language World Models for General Agents</title>
+    <link href="https://qwen.ai/blog?id=qwen-agentworld"/>
+    <id>338924772472812ce526a9fcb61b8347</id>
+    <published>2026-06-23T00:00:00+00:00</published>
+    <updated>2026-06-23T00:00:00+00:00</updated>
+    <summary type="text">Today we release Qwen-AgentWorld, a native language world model that simulates agent environments across seven domains: Native world modeling: environment modeling is the training objective from continual pre-training onward (CPT → SFT → RL), not a post hoc adaptation on top of a general-purpose LLM. Seven domains, one model: a single model simulates text-based (MCP, Search, Terminal, SWE)...</summary>
+    <category term="Open-Source"/>
+  </entry>
   <entry>
     <title>Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence</title>
     <link href="https://qwen.ai/blog?id=qwen-robotsuite"/>
@@ -42,15 +51,6 @@
     <published>2026-06-16T00:00:00+00:00</published>
     <updated>2026-06-16T00:00:00+00:00</updated>
     <summary type="text">Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize...</summary>
-    <category term="Release"/>
-  </entry>
-  <entry>
-    <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
-    <link href="https://qwen.ai/blog?id=qwen3.7-plus"/>
-    <id>ef4a51f95af231d8bc3ac2a5b3ad3066</id>
-    <published>2026-06-01T00:00:00+00:00</published>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <summary type="text">Today we introduce Qwen3.7-Plus — a multimodal agent model that unifies vision and language into a single, versatile agent foundation. Building on Qwen3.7's strong text backbone, Qwen3.7-Plus delivers a comprehensive upgrade in vision-language...</summary>
     <category term="Release"/>
   </entry>
 </feed>

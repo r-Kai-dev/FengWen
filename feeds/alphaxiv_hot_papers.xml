@@ -4,22 +4,38 @@
   <icon>https://www.alphaxiv.org/favicon.ico</icon>
   <link href="https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days"/>
   <id>https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days</id>
-  <updated>2026-06-22T00:00:00+00:00</updated>
+  <updated>2026-06-23T00:00:00+00:00</updated>
   <author>
     <name>alphaXiv</name>
   </author>
   <entry>
-    <title>HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory</title>
-    <link href="https://arxiv.org/abs/2606.23565"/>
-    <id>57746d9af3ee2dbcf01216ec6b8384ce</id>
+    <title>ParallelKernelBench: Can LLMs Write Fast Multi-GPU Kernels?</title>
+    <link href="https://arxiv.org/abs/2606.parallel-kernel-bench"/>
+    <id>231a1881a7293b6691b9ed2f02a34c93</id>
+    <published>2026-06-23T00:00:00+00:00</published>
+    <updated>2026-06-23T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>Qwen-AgentWorld: Language World Models for General Agents</title>
+    <link href="https://arxiv.org/abs/2606.24597"/>
+    <id>dd8289485774470de98e0b9d89672fa3</id>
+    <published>2026-06-23T00:00:00+00:00</published>
+    <updated>2026-06-23T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>Tapered Language Models</title>
+    <link href="https://arxiv.org/abs/2606.23670"/>
+    <id>1e8cd55ce210af070e635ac1a7e2e928</id>
     <published>2026-06-22T00:00:00+00:00</published>
     <updated>2026-06-22T00:00:00+00:00</updated>
     <category term="hot"/>
   </entry>
   <entry>
-    <title>Tmax: A Simple Recipe for Terminal Agents</title>
-    <link href="https://arxiv.org/abs/tmax"/>
-    <id>f2de02b934f80905c960378e41c4dce0</id>
+    <title>Tmax: A simple recipe for terminal agents</title>
+    <link href="https://arxiv.org/abs/2606.23321"/>
+    <id>0d54462572ff2c44b5e1260ecf71ff59</id>
     <published>2026-06-22T00:00:00+00:00</published>
     <updated>2026-06-22T00:00:00+00:00</updated>
     <category term="hot"/>
@@ -30,22 +46,6 @@
     <id>50df7abe3bad1dd92e3f482c43a40163</id>
     <published>2026-06-22T00:00:00+00:00</published>
     <updated>2026-06-22T00:00:00+00:00</updated>
-    <category term="hot"/>
-  </entry>
-  <entry>
-    <title>MemoryWAM: Efficient World Action Modeling with Persistent Memory</title>
-    <link href="https://arxiv.org/abs/2606.20562"/>
-    <id>bdef65eab744630d3443b7c6337b41d0</id>
-    <published>2026-06-18T00:00:00+00:00</published>
-    <updated>2026-06-18T00:00:00+00:00</updated>
-    <category term="hot"/>
-  </entry>
-  <entry>
-    <title>S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence</title>
-    <link href="https://arxiv.org/abs/2606.20515"/>
-    <id>ec8723342fcd46102738ab9de6d3f624</id>
-    <published>2026-06-18T00:00:00+00:00</published>
-    <updated>2026-06-18T00:00:00+00:00</updated>
     <category term="hot"/>
   </entry>
 </feed>

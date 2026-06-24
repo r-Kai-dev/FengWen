@@ -4,10 +4,28 @@
   <icon>https://www.resemble.ai/favicon.ico</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-06-12T00:00:00+00:00</updated>
+  <updated>2026-06-24T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>How Deepfake Detection in Forensics Strengthens Case Review</title>
+    <link href="https://www.resemble.ai/resources/how-deepfake-detection-in-forensics-strengthens-case-review"/>
+    <id>1fc25055cef2e7f92d2a9a2910fb3e34</id>
+    <published>2026-06-24T00:00:00+00:00</published>
+    <updated>2026-06-24T00:00:00+00:00</updated>
+    <summary type="text">Explore how deepfake detection in forensics supports evidence review, case context, documentation, and risk-based decisions in 2026.</summary>
+    <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>PerTh Multimodal: Enterprise Multimodal Watermarking for Audio, Video, Image, and Text</title>
+    <link href="https://www.resemble.ai/resources/perth-multimodal-enterprise-multimodal-watermarking-for-audio-video-image-and-text"/>
+    <id>c6295ed68cc125bca759f694fba7245c</id>
+    <published>2026-06-24T00:00:00+00:00</published>
+    <updated>2026-06-24T00:00:00+00:00</updated>
+    <summary type="text">PerTh Multimodal extends Resemble Watermarker from audio-only to audio, video, image, and text — an imperceptible mark, compliance-oriented for EU AI Act Article 50.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>The Deepfake Watchlist: Week of June 5–11, 2026</title>
     <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-june-5-11-2026"/>
@@ -97,23 +115,5 @@
     <updated>2026-05-25T00:00:00+00:00</updated>
     <summary type="text">Without a solution, the game didn't ship. RED Games needed a way to narrate open player input, in real time, across 13 languages, without it sounding like a robot. Here's what they built on Resemble AI.</summary>
     <category term="Case study"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Watchlist: Week of May 15–21, 2026</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-may-15-21-2026"/>
-    <id>36192ee0bcaed82c25a62a730f2c90e1</id>
-    <published>2026-05-22T00:00:00+00:00</published>
-    <updated>2026-05-22T00:00:00+00:00</updated>
-    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
-    <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Watchlist: Week of May 8–14, 2026</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-may-8-14-2026"/>
-    <id>ebf7e949f052bdd658c7db6d93169d32</id>
-    <published>2026-05-15T00:00:00+00:00</published>
-    <updated>2026-05-15T00:00:00+00:00</updated>
-    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
-    <category term="Deepfake Watchlist"/>
   </entry>
 </feed>

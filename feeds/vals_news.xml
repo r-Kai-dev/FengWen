@@ -4,10 +4,18 @@
   <icon>https://www.vals.ai/favicon-dark.svg</icon>
   <link href="https://www.vals.ai/news"/>
   <id>https://www.vals.ai/news</id>
-  <updated>2026-06-17T00:00:00+00:00</updated>
+  <updated>2026-06-23T00:00:00+00:00</updated>
   <author>
     <name>Vals AI</name>
   </author>
+  <entry>
+    <title>Legal Research Bench Released</title>
+    <link href="https://www.vals.ai/benchmarks/legal_research"/>
+    <id>7a03512d32598b934ae7bfa2280c939b</id>
+    <published>2026-06-23T00:00:00+00:00</published>
+    <updated>2026-06-23T00:00:00+00:00</updated>
+    <category term="Benchmark"/>
+  </entry>
   <entry>
     <title>Harvey's Legal Agent Benchmark Released</title>
     <link href="https://www.vals.ai/benchmarks/hlab"/>
@@ -95,14 +103,6 @@
     <published>2026-06-02T00:00:00+00:00</published>
     <updated>2026-06-02T00:00:00+00:00</updated>
     <category term="Model"/>
-  </entry>
-  <entry>
-    <title>Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up</title>
-    <link href="https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html"/>
-    <id>bd44dab2d4e15c53f079992a5153d5f2</id>
-    <published>2026-05-28T00:00:00+00:00</published>
-    <updated>2026-05-28T00:00:00+00:00</updated>
-    <category term="Media"/>
   </entry>
   <entry>
     <title>Anthropic deepens push into Wall Street with new AI agents, full Microsoft 365 integration, Moody's data partnership</title>

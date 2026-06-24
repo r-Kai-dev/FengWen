@@ -4,118 +4,128 @@
   <icon>https://alphasignal.ai/favicon.ico</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-06-23T20:07:06+00:00</updated>
+  <updated>2026-06-24T19:57:18+00:00</updated>
   <author>
     <name>Cursor</name>
   </author>
   <entry>
-    <title>Cursor 3.8 Ships a Team Leaderboard Showing What Plugins Your Colleagues Actually Use</title>
-    <link href="https://cursor.com/changelog/customize"/>
-    <id>2399a4eebba1d346bf93d746a0cc9a5f</id>
-    <published>2026-06-23T20:07:06+00:00</published>
-    <updated>2026-06-23T20:07:06+00:00</updated>
-    <summary type="text">Cursor 3.8 adds a team plugin leaderboard, one-click installs, prebuilt canvases, and GitLab/Bitbucket/Azure DevOps marketplace support</summary>
+    <title>Cursor SDK Lets Notion Ship a Full Coding Agent in Weeks</title>
+    <link href="https://cursor.com/blog/notion"/>
+    <id>ab564bce6cdf924a62b3904b45f8cea6</id>
+    <published>2026-06-24T19:57:18+00:00</published>
+    <updated>2026-06-24T19:57:18+00:00</updated>
+    <summary type="text">Cursor's SDK lets any product embed full coding agents in weeks, with Notion as the first major proof of concept</summary>
     <category term="development"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>OpenAI's GPT-5.5 Hits 82.7% on Terminal-Bench and Rewires Its Agent Platform</title>
-    <link href="https://x.com/openaidevs/status/2069499656305090671"/>
-    <id>3c46c5ac138e4cf0b43127afd387d8bf</id>
-    <published>2026-06-23T19:15:42+00:00</published>
-    <updated>2026-06-23T19:15:42+00:00</updated>
-    <summary type="text">OpenAI shipped 30+ API updates in six months: new GPT-5.x models, a production-ready Agents SDK with sandboxing, and OpenAI models on Amazon Bedrock</summary>
-    <category term="api"/>
+    <title>Z.ai's Open-Weight GLM-5.2 Beats GPT-5.5 on Coding at 1/7 the Cost</title>
+    <link href="https://github.com/arcprize/arc-agi-benchmarking"/>
+    <id>8af476bcb6bcec04927234e37375cd86</id>
+    <published>2026-06-24T18:08:34+00:00</published>
+    <updated>2026-06-24T18:08:34+00:00</updated>
+    <summary type="text">Z.ai's open-weight GLM-5.2 scores 22.8% on ARC-AGI-2 at $0.25/task, matching GPT-5.4 and 5.5 at low reasoning effort â a first for an MIT-licensed model</summary>
     <category term="llms"/>
+    <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>OpenAI Takes DevDay 2026 Global With 8-City Developer Tour</title>
-    <link href="https://devday.openai.com/"/>
-    <id>4497fe4e6128ef7cc8d5ab937ed7eac9</id>
-    <published>2026-06-23T18:10:24+00:00</published>
-    <updated>2026-06-23T18:10:24+00:00</updated>
-    <summary type="text">OpenAI opens applications for DevDay 2026, its fourth annual developer conference, expanding globally with satellite events across 8 cities worldwide</summary>
-    <category term="api"/>
+    <title>OpenAI's GPT-5.5 Instant Gets Smarter at Reading Between the Lines</title>
+    <link href="https://openai.com/index/gpt-5-5-instant/"/>
+    <id>16dcd1643f20a4fe4426d572b9f435d7</id>
+    <published>2026-06-24T18:00:21+00:00</published>
+    <updated>2026-06-24T18:00:21+00:00</updated>
+    <summary type="text">OpenAI ships a new GPT-5.5 Instant with sharper intent understanding, fewer hallucinations, and smarter personalization for ChatGPT's most-used model</summary>
     <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Tag Joins Slack as a Teammate, Writing 65% of Code</title>
-    <link href="https://www.anthropic.com/news/introducing-claude-tag"/>
-    <id>f912381c1ebf378e3298e3a46b26d962</id>
-    <published>2026-06-23T17:12:39+00:00</published>
-    <updated>2026-06-23T17:12:39+00:00</updated>
-    <summary type="text">Anthropic's Claude Tag turns Slack into a multiplayer AI workspace where @Claude joins as a persistent team member, not just a chatbot</summary>
-    <category term="development"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>NVIDIA Backs DFlash to Boost LLM Inference 15x on Blackwell</title>
-    <link href="https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/?ncid=so-twit-578984&amp;linkId=100000427691673"/>
-    <id>225ae4a3a3ebb17198a8bc94572a3cb9</id>
-    <published>2026-06-23T17:00:01+00:00</published>
-    <updated>2026-06-23T17:00:01+00:00</updated>
-    <summary type="text">NVIDIA's inference stack now supports DFlash, a block-diffusion speculative decoding method that delivers up to 15x throughput gains on Blackwell GPUs with zero code changes.</summary>
-    <category term="infra"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Microsoft's MAI-Voice-2 Fools 45% of Listeners Into Thinking It's Human</title>
-    <link href="https://playground.microsoft.ai/chat?model=mai-voice-2"/>
-    <id>fba04a18ab02b9cb26bdeafa42e72e71</id>
-    <published>2026-06-23T16:30:08+00:00</published>
-    <updated>2026-06-23T16:30:08+00:00</updated>
-    <summary type="text">Microsoft's MAI-Voice-2 brings tag-level emotion control and zero-shot voice cloning to 15 languages, preferred over real human recordings nearly half the time</summary>
-    <category term="audio"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Manus Now Suggests Its Own Research Sources so You Don't Have To</title>
-    <link href="https://x.com/manusai/status/2069436049198076069"/>
-    <id>4cb1e59ce78d3fa893dfb245c07a1495</id>
-    <published>2026-06-23T15:02:57+00:00</published>
-    <updated>2026-06-23T15:02:57+00:00</updated>
-    <summary type="text">Manus adds smart source suggestions to projects, letting the agent learn which web pages to reference across future tasks â no URL hunting required.</summary>
-    <category term="development"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Krea Opens Krea 2's 12B Image Model So Anyone Can Train and Deploy</title>
-    <link href="https://huggingface.co/krea/Krea-2-Turbo"/>
-    <id>63a4a91f264a7d93c5a7c0005fe71b85</id>
-    <published>2026-06-23T15:01:07+00:00</published>
-    <updated>2026-06-23T15:01:07+00:00</updated>
-    <summary type="text">Krea open-sources its 12B aesthetic image model as two weights: a malleable mid-training checkpoint for fine-tuning and a distilled 8-step version for fast 2K generation</summary>
-    <category term="image"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Mistral OCR 4 Beats Every Rival With 72% Human Win Rate</title>
-    <link href="https://mistral.ai/news/ocr-4/"/>
-    <id>6a1ada4eead194c79ea1ca40e5fe72ff</id>
-    <published>2026-06-23T14:00:13+00:00</published>
-    <updated>2026-06-23T14:00:13+00:00</updated>
-    <summary type="text">Mistral OCR 4 adds bounding boxes, block classification, and confidence scores, topping OlmOCRBench with a 72% average human-preference win rate across 12+ languages</summary>
-    <category term="image"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Prime Intellect Ships prime-rl to Train 744B Models on Just 28 GPUs</title>
-    <link href="https://www.primeintellect.ai/blog/rl-at-1t-scale"/>
-    <id>4a84a7cf2d4efe40548c69ca13249800</id>
-    <published>2026-06-23T02:15:59+00:00</published>
-    <updated>2026-06-23T02:15:59+00:00</updated>
-    <summary type="text">Prime Intellect's prime-rl v0.6.0 brings RL post-training to trillion-parameter MoE models with sub-5-minute step times on 28 H200 nodes</summary>
-    <category term="training_infra"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Anthropic Expands its Claude Ambassador Program to Japan</title>
-    <link href="https://claude.com/ja/community/ambassadors"/>
-    <id>e14d72b4957aff020a5ca9856946a447</id>
-    <published>2026-06-22T23:36:28+00:00</published>
-    <updated>2026-06-22T23:36:28+00:00</updated>
-    <summary type="text">Anthropic's Claude Community Ambassador program expands to Japan, joining a global network of 290+ meetups across 37 countries and 40,000+ attendees</summary>
     <category term="business"/>
+  </entry>
+  <entry>
+    <title>Exa Connect Unlocks Private Commercial Data for AI Agents</title>
+    <link href="https://exa.ai/connect"/>
+    <id>53b3239929271164b154fcd8d468961b</id>
+    <published>2026-06-24T17:56:51+00:00</published>
+    <updated>2026-06-24T17:56:51+00:00</updated>
+    <summary type="text">Exa Connect lets AI agents tap ZoomInfo, Crunchbase, Similarweb, and a dozen more premium data providers through a single API call, moving beyond the public web.</summary>
+    <category term="agents"/>
+    <category term="retrieval"/>
+  </entry>
+  <entry>
+    <title>Zed v1.8 Ships a Bootstrap Hook That Automates AI Agent Environments</title>
+    <link href="https://zed.dev/releases/stable"/>
+    <id>edf09f7db05c3dbcee7e55b928485900</id>
+    <published>2026-06-24T17:13:21+00:00</published>
+    <updated>2026-06-24T17:13:21+00:00</updated>
+    <summary type="text">Zed v1.8 lands with a new agent terminal init hook, smarter Git internals, and two handy editor selection commands</summary>
+    <category term="development"/>
+    <category term="vibe_coding"/>
+  </entry>
+  <entry>
+    <title>NVIDIA's NeMo AutoModel Trains 550B MoE Models 3.7x Faster With One Import</title>
+    <link href="https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel?linkId=100000427835682"/>
+    <id>2579c690404396d61cb8680c5a35e82c</id>
+    <published>2026-06-24T16:03:08+00:00</published>
+    <updated>2026-06-24T16:03:08+00:00</updated>
+    <summary type="text">NeMo AutoModel layers Expert Parallelism and DeepEP on top of Transformers v5, delivering 3.4â3.7x faster MoE fine-tuning with a single import change</summary>
+    <category term="training_infra"/>
     <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Sakana AI's Fugu Ultra Beats Frontier Models by Coordinating Them</title>
+    <link href="https://openrouter.ai/sakana/fugu-ultra"/>
+    <id>ac64ca5b4dc500c17cae9b70a73d9eb5</id>
+    <published>2026-06-24T15:52:55+00:00</published>
+    <updated>2026-06-24T15:52:55+00:00</updated>
+    <summary type="text">Sakana AI's Fugu Ultra is now on OpenRouter â a 7B orchestrator that routes across frontier models to match Claude Fable 5 and Mythos on benchmarks, without training a single frontier model.</summary>
+    <category term="api"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>xAI Turns Grok Build Into a Full-Stack Platform With Plugin Marketplace</title>
+    <link href="https://x.com/xai/status/2069809728088350789"/>
+    <id>dd30b0eab340ea88aa2492f963b81f66</id>
+    <published>2026-06-24T15:47:49+00:00</published>
+    <updated>2026-06-24T15:47:49+00:00</updated>
+    <summary type="text">xAI launches the Grok Build Plugin Marketplace in beta, shipping six partner integrations including MongoDB, Vercel, Sentry, and Cloudflare from your terminal</summary>
+    <category term="vibe_coding"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>OpenAI's JalapeÃ±o Chip Hits Silicon 9 Months After Design Kickoff</title>
+    <link href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"/>
+    <id>4c8ce3e31e01efbf7f282a0b8993ff18</id>
+    <published>2026-06-24T13:10:38+00:00</published>
+    <updated>2026-06-24T13:10:38+00:00</updated>
+    <summary type="text">OpenAI's first custom silicon, JalapeÃ±o, goes from blank slate to running GPT-5.3 workloads in nine months â and it's just the start of a multi-generation compute platform targeting gigawatt-scale deployment.</summary>
+    <category term="gpus"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Qwen's AgentWorld Beats GPT-5 by Teaching AI to Simulate Environments</title>
+    <link href="https://huggingface.co/collections/Qwen/qwen-agentworld"/>
+    <id>6c1eda5d89cf3be27e89acf4c0fc8836</id>
+    <published>2026-06-24T09:52:43+00:00</published>
+    <updated>2026-06-24T09:52:43+00:00</updated>
+    <summary type="text">Qwen releases a language model trained to simulate agent environments, not just act in them â beating GPT-5.4 and Claude Opus 4.8 on a new 7-domain benchmark</summary>
+    <category term="agents"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Moonshot AI Brings Kimi K2.7 Code to AWS, Targeting Enterprise Budgets</title>
+    <link href="https://aws.amazon.com/marketplace/pp/prodview-rfjb2elzc5jp4"/>
+    <id>ba3eeba81784d3fb0af8148b33c3048e</id>
+    <published>2026-06-24T09:46:19+00:00</published>
+    <updated>2026-06-24T09:46:19+00:00</updated>
+    <summary type="text">Moonshot AI's Kimi K2.7 Code lands on AWS Marketplace with EDP billing support, giving enterprise AWS teams a frontier-grade open-weight coding model without a new vendor contract</summary>
+    <category term="api"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Nous Research's Hermes Agent Gets a Live Pixel-Art Pet Showing What AI Does</title>
+    <link href="https://x.com/nousresearch/status/2069577310055846267"/>
+    <id>137298f6178e87c47797186d92c354e8</id>
+    <published>2026-06-24T00:24:16+00:00</published>
+    <updated>2026-06-24T00:24:16+00:00</updated>
+    <summary type="text">Hermes Agent now supports animated pixel-art pets from the Petdex gallery that react live to agent state in both the GUI and terminal UI</summary>
+    <category term="agents"/>
+    <category term="development"/>
   </entry>
 </feed>
