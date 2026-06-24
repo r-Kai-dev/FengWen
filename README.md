@@ -129,6 +129,7 @@ The following tables include both the feeds created by this project and existing
 | [Sakana AI Blog](https://sakana.ai/blog/) | [Sakana AI Blog Feed](https://sakana.ai/feed.xml) | Official |
 | [Netflix Tech Blog](https://netflixtechblog.com) | [Netflix Tech Blog Feed](https://netflixtechblog.com/feed) | Official |
 | [Thinking Machines Lab Blog](https://thinkingmachines.ai/blog/) | [Thinking Machines Lab Blog Feed](https://thinkingmachines.ai/blog/index.xml) | Official |
+| [Krea AI Blog](https://www.krea.ai/blog) | [Krea AI Blog Feed](https://www.krea.ai/blog/feed/atom.xml) | Official |
 
 
 ## Platforms

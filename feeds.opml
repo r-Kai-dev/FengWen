@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:fw="https://codeberg.org/r-Kai/FengWen">
   <head>
     <title>Feng Wen (风闻) — AI/Tech News Feeds</title>
-    <dateCreated>2026-06-21T22:27:06Z</dateCreated>
+    <dateCreated>2026-06-24T00:08:50Z</dateCreated>
     <ownerName>Feng Wen</ownerName>
   </head>
   <body>
@@ -112,6 +112,7 @@
       <outline text="Sakana AI Blog" title="Sakana AI Blog" type="rss" xmlUrl="https://sakana.ai/feed.xml" htmlUrl="https://sakana.ai/blog/" fw:type="official"/>
       <outline text="Netflix Tech Blog" title="Netflix Tech Blog" type="rss" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com" fw:type="official"/>
       <outline text="Thinking Machines Lab Blog" title="Thinking Machines Lab Blog" type="rss" xmlUrl="https://thinkingmachines.ai/blog/index.xml" htmlUrl="https://thinkingmachines.ai/blog/" fw:type="official"/>
+      <outline text="Krea AI Blog" title="Krea AI Blog" type="rss" xmlUrl="https://www.krea.ai/blog/feed/atom.xml" htmlUrl="https://www.krea.ai/blog" fw:type="official"/>
     </outline>
     <outline text="Platforms" title="Platforms">
       <outline text="GitHub Trending (daily)" title="GitHub Trending (daily)" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-daily.xml" htmlUrl="https://github.com/trending?since=daily" fw:type="created"/>
