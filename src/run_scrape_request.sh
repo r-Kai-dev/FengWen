@@ -41,6 +41,9 @@ if [ "$FAILED" -gt 0 ]; then
     echo "Failed scripts:" >&2
     for name in "${FAILED_NAMES[@]}"; do
         echo "  - $name" >&2
+        echo "--- tail of $LOGS_DIR/${name}.log ---" >&2
+        tail -30 "$LOGS_DIR/${name}.log" >&2 || true
+        echo "--- end of $LOGS_DIR/${name}.log ---" >&2
     done
 fi
 

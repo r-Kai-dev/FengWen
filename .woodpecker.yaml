@@ -9,7 +9,7 @@ steps:
     commands:
       - pip install -q curl_cffi beautifulsoup4
       - mkdir -p logs
-      - bash src/run_scrape_request.sh
+      - set -o pipefail; bash src/run_scrape_request.sh 2>&1 | tee ../logs/scrape_request.log
     depends_on: []
 
   - name: crawl
@@ -20,7 +20,7 @@ steps:
       - mkdir -p logs
       - cd src
       - export PYTHONPATH="$PWD"
-      - python3 crawl_runner.py > ../logs/crawl_runner.log 2>&1
+      - set -o pipefail; python3 crawl_runner.py 2>&1 | tee ../logs/crawl_runner.log
     depends_on: []
 
   - name: update-feeds
