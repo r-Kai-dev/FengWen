@@ -73,6 +73,7 @@ def main():
     entries.sort(key=lambda x: x.get("published_date", ""), reverse=True)
     write_atom_feed(FEEDS_DIR / page["output_file"], entries,
                     feed_title=page["label"], feed_link=page["url"],
+                    feed_author="AlphaSignal",
                     feed_icon=config.get("favicon"))
 
 if __name__ == "__main__":

@@ -352,7 +352,7 @@
       "name": "AlphaSignal",
       "strategy": "scrape",
       "base_url": "https://alphasignal.ai",
-      "favicon": "https://alphasignal.ai/favicon.ico",
+      "favicon": "https://alphasignal.ai/images/favicon.png",
       "category": "Hourly",
       "pages": [
         {
@@ -438,7 +438,7 @@
       "name": "LMSYS",
       "strategy": "scrape",
       "base_url": "https://lmsys.org",
-      "favicon": "https://lmsys.org/favicon.ico",
+      "favicon": "https://www.lmsys.org/images/logo-v2.png",
       "category": "Tools",
       "pages": [
         {
@@ -713,7 +713,7 @@
       "name": "Unsloth",
       "strategy": "crawl",
       "base_url": "https://unsloth.ai",
-      "favicon": "https://unsloth.ai/favicon.ico",
+      "favicon": "https://unsloth.ai/cgi/image/unsloth_green_sticker_cME6ryC59BlZg-VtqGN4p.png?width=640&quality=80&format=auto",
       "category": "Tools",
       "pages": [
         {
@@ -745,7 +745,7 @@
       "name": "Epoch AI",
       "strategy": "crawl",
       "base_url": "https://epoch.ai",
-      "favicon": "https://epoch.ai/favicon.ico",
+      "favicon": "https://epoch.ai/assets/logo/logo.svg",
       "category": "Blogs",
       "pages": [
         {
