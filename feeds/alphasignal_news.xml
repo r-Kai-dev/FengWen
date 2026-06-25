@@ -89,6 +89,16 @@
     <category term="development"/>
   </entry>
   <entry>
+    <title>Hugging Face Absorbs llama.cpp Team to Make Local AI Effortless</title>
+    <link href="https://x.com/huggingface/status/2070160187751850242"/>
+    <id>fe0fff58ff2b31fb4542688672da7199</id>
+    <published>2026-06-25T15:00:25+00:00</published>
+    <updated>2026-06-25T15:00:25+00:00</updated>
+    <summary type="text">Hugging Face spotlights its Local Apps ecosystem, where 45K+ GGUF models can be run privately on your own hardware with one command.</summary>
+    <category term="open_source"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
     <title>Liquid AI's LFM2.5-230M Beats Models Twice Its Size Running on a Raspberry Pi</title>
     <link href="https://docs.liquid.ai/lfm/models/complete-library"/>
     <id>9928efcb98aa94a190cc35cf97cf6589</id>
@@ -116,16 +126,6 @@
     <updated>2026-06-24T22:43:55+00:00</updated>
     <summary type="text">AA-Briefcase reveals frontier agents take 10â25 minutes per task on realistic knowledge work, exposing a new speed-quality tradeoff that existing benchmarks miss entirely</summary>
     <category term="agents"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Higgsfield Pushes Seedance 2.0 to Native 4K for Full Film Production</title>
-    <link href="https://x.com/higgsfield_ai/status/2069908903383409003"/>
-    <id>bc26fb059869f8905482c84b4b68f32d</id>
-    <published>2026-06-24T22:21:54+00:00</published>
-    <updated>2026-06-24T22:21:54+00:00</updated>
-    <summary type="text">Higgsfield brings Seedance 2.0 to native 4K on its platform, covering pre-production, production, and post in a single AI pipeline.</summary>
-    <category term="video"/>
     <category term="benchmarks"/>
   </entry>
 </feed>
