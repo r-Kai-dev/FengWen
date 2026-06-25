@@ -9,7 +9,7 @@ steps:
     commands:
       - pip install -q curl_cffi beautifulsoup4
       - mkdir -p logs
-      - set -o pipefail; bash src/run_scrape_request.sh 2>&1 | tee ../logs/scrape_request.log
+      - set -o pipefail; bash src/run_scrape_request.sh 2>&1 | tee logs/scrape_request.log
     depends_on: []
 
   - name: crawl
