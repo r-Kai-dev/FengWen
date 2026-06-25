@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Epoch AI Latest</title>
-  <icon>https://epoch.ai/favicon.ico</icon>
+  <icon>https://epoch.ai/assets/logo/logo.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-06-17T00:00:00+00:00</updated>
+  <updated>2026-06-24T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>What we learned from 1,604 Chinese AI job postings</title>
+    <link href="https://epoch.ai/gradient-updates/what-we-learned-from-1604-chinese-ai-job-postings"/>
+    <id>f86ccf6aac92261839c9bd7274e299b0</id>
+    <published>2026-06-24T00:00:00+00:00</published>
+    <updated>2026-06-24T00:00:00+00:00</updated>
+    <summary type="text">Inferring Chinese AI labs’ strategies from their job descriptions</summary>
+    <category term="Newsletter"/>
+  </entry>
   <entry>
     <title>Toward an O*NET for AI R&amp;D</title>
     <link href="https://epoch.ai/gradient-updates/toward-an-onet-for-ai-rnd"/>
@@ -83,14 +92,5 @@
     <published>2026-05-21T00:00:00+00:00</published>
     <updated>2026-05-21T00:00:00+00:00</updated>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>Frontier labs don't use most AI compute (yet)</title>
-    <link href="https://epoch.ai/gradient-updates/frontier-labs-dont-use-most-ai-compute"/>
-    <id>440d5c5a0e905fb320347c95af3f3a7f</id>
-    <published>2026-05-20T00:00:00+00:00</published>
-    <updated>2026-05-20T00:00:00+00:00</updated>
-    <summary type="text">But Anthropic and OpenAI may rapidly grow their compute share in the next few years. After that, continued scaling would require an economic transformation.</summary>
-    <category term="Newsletter"/>
   </entry>
 </feed>

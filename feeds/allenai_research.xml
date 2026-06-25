@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-06-17T00:00:00+00:00</updated>
+  <updated>2026-06-25T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>Which tokens does a hybrid model predict better?</title>
+    <link href="https://allenai.org/blog/hybrid-token-prediction"/>
+    <id>f7593f8726361bdffc59aa235735e12a</id>
+    <published>2026-06-25T00:00:00+00:00</published>
+    <updated>2026-06-25T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>MolmoMotion: Language-guided 3D motion forecasting</title>
     <link href="https://allenai.org/blog/molmo-motion"/>
@@ -61,13 +68,6 @@
     <title>Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis</title>
     <link href="https://allenai.org/blog/olmoearth-embeddings"/>
     <id>8ac13cf4e21febb41cd4b065caf9c277</id>
-    <published>2026-04-23T00:00:00+00:00</published>
-    <updated>2026-04-23T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>OlmPool: How small architectural choices compound to undermine long context extension</title>
-    <link href="https://allenai.org/blog/olmpool"/>
-    <id>871621797386c8c928777ca927cedee2</id>
     <published>2026-04-23T00:00:00+00:00</published>
     <updated>2026-04-23T00:00:00+00:00</updated>
   </entry>

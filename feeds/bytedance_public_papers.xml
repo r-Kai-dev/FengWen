@@ -18,6 +18,51 @@
     <category term="Computer Vision and Pattern Recognition"/>
   </entry>
   <entry>
+    <title>Charon: A Unified and Fine-Grained Simulator for Large-Scale LLM Training and Inference</title>
+    <link href="https://seed.bytedance.com/en/publication/charon-a-unified-and-fine-grained-simulator-for-large-scale-llm-training-and-inference"/>
+    <id>1a4ea2cf1d4c577a947c9640024b5a21</id>
+    <published>2026-05-19T00:00:00+00:00</published>
+    <updated>2026-05-19T00:00:00+00:00</updated>
+    <summary type="text">Deploying large-scale LLM training and inference with optimal performance is exceptionally challenging due to a complex design space of parallelism strategies, system optimizations, and hardware configurations. Accurate and rapid performance simulation is critical for guiding optimization efforts and system studies by validating &quot;what-if&quot; Hooker Figure...</summary>
+    <category term="Distributed, Parallel, and Cluster Computing"/>
+  </entry>
+  <entry>
+    <title>THEMol dataset: Torsion, Hessian, and Energy of Molecules</title>
+    <link href="https://seed.bytedance.com/en/publication/themol-dataset-torsion-hessian-and-energy-of-molecules"/>
+    <id>d9bf6c0977e1403efc81aac603a19af8</id>
+    <published>2026-05-14T00:00:00+00:00</published>
+    <updated>2026-05-14T00:00:00+00:00</updated>
+    <summary type="text">We present THEMol (Torsion, Hessian, Energy of Molecules), a massive open-source collection of quantum mechanical properties tailored for closed-shell organic molecules, with up to 50 heavy atoms. THEMol includes a Hessian subset with more than 3 million relaxed geometries with Hessian matrices, a TorsionScan subset with nearly 100 million constrained rel...</summary>
+    <category term="Chemical Physics"/>
+  </entry>
+  <entry>
+    <title>Agentic Discovery of Exchange-Correlation Density Functionals</title>
+    <link href="https://seed.bytedance.com/en/publication/agentic-discovery-of-exchange-correlation-density-functionals"/>
+    <id>234dea71d3d2cb97a3680b6a3174c892</id>
+    <published>2026-05-06T00:00:00+00:00</published>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <summary type="text">The development of accurate exchange-correlation (XC) functionals remains a longstanding challenge in density functional theory (DFT). The vast majority of XC functionals have been hand designed by human researchers combining physical insight, exact constraints, and empirical fitting. Recent advances in large language models enable a systematic, automat...</summary>
+    <category term="Artificial Intelligence"/>
+  </entry>
+  <entry>
+    <title>MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production</title>
+    <link href="https://seed.bytedance.com/en/publication/megascale-omni-a-hyper-scale-workload-resilient-system-for-multimodal-llm-training-in-production"/>
+    <id>2acfa69b0241114eb2a874b2e26c3b1d</id>
+    <published>2026-04-26T00:00:00+00:00</published>
+    <updated>2026-04-26T00:00:00+00:00</updated>
+    <summary type="text">As the foundational component of versatile AI applications, training an multimodal large language model (MLLM) relies on multimodal datasets with dynamic modality mixture proportions and sample length distributions. However, existing MLLM systems remain inefficient under dynamic workloads, due to statically coupled decisions of resource allocation and model...</summary>
+    <category term="Distributed, Parallel, and Cluster Computing"/>
+  </entry>
+  <entry>
+    <title>Context Unrolling in Omni Models</title>
+    <link href="https://seed.bytedance.com/en/publication/context-unrolling-in-omni-models"/>
+    <id>814f00a9a8844b76f265a911a639ef41</id>
+    <published>2026-04-23T00:00:00+00:00</published>
+    <updated>2026-04-23T00:00:00+00:00</updated>
+    <summary type="text">We present Omni, a unified multimodal model natively trained on diverse modalities, including text, images, videos, 3D geometry, and hidden representations. We find that such training enables Context Unrolling, where the model explicitly reasons across multiple modal representations before producing predictions. This process enables the model to aggregate...</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
+  </entry>
+  <entry>
     <title>Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation</title>
     <link href="https://seed.bytedance.com/en/publication/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation"/>
     <id>4e4372a7baafd9e3a895afc801617026</id>
@@ -28,6 +73,33 @@ substantial improvements across generation fidelity, simulation-ready capabiliti
 coverage. For geometry, a coarse-to-fine two-stage pipeline decouples global structure learning from
 high-frequency detail recovery, while a locality-aware VAE achieve...</summary>
     <category term="Computer Vision"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.0: Advancing Video Generation for World Complexity</title>
+    <link href="https://seed.bytedance.com/en/publication/seedance-2-0-advancing-video-generation-for-world-complexity"/>
+    <id>ae64bc9a2a02678f6d7f42b5ecf05575</id>
+    <published>2026-04-15T00:00:00+00:00</published>
+    <updated>2026-04-15T00:00:00+00:00</updated>
+    <summary type="text">Seedance 2.0 is a new native multi-modal audio-video generation model, officially released in China in early February 2026. Compared with its predecessors, Seedance 1.0 and 1.5 Pro, Seedance 2.0 adopts a unified, highly efficient, and large-scale architecture for multi-modal audio-video joint generation. This allows it to support four input modalities: text, image, audi...</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
+  </entry>
+  <entry>
+    <title>Continuous Adversarial Flow Models</title>
+    <link href="https://seed.bytedance.com/en/publication/continuous-adversarial-flow-models"/>
+    <id>0eb450a9652cf98f76279765d278dd2c</id>
+    <published>2026-04-13T00:00:00+00:00</published>
+    <updated>2026-04-13T00:00:00+00:00</updated>
+    <summary type="text">We propose continuous adversarial flow models, a type of continuous-time flow model trained with an adversarial objective. Unlike flow matching, which uses a fixed mean-squared-error criterion, our approach introduces a learned discriminator to guide training. This change in objective induces a different generalized distribution, which empirically prod...</summary>
+    <category term="Machine Learning"/>
+  </entry>
+  <entry>
+    <title>Protenix-v2: Broadening the Reach of Structure Prediction and Biomolecular Design</title>
+    <link href="https://seed.bytedance.com/en/publication/protenix-v2-broadening-the-reach-of-structure-prediction-and-biomolecular-design"/>
+    <id>a81f44b3fedd6ea9853115084f6fa01e</id>
+    <published>2026-04-11T00:00:00+00:00</published>
+    <updated>2026-04-11T00:00:00+00:00</updated>
+    <summary type="text">Advances in biomolecular modeling have broadened the range of problems addressable by structure prediction and design models. Here, we present results from Protenix-v2, a system spanning high-accuracy structure prediction and biomolecular design. On the structure prediction side, Protenix-v2 achieves antibody-antigen success rates with up to 13-point gains ov...</summary>
+    <category term="Molecular Biology"/>
   </entry>
   <entry>
     <title>Not all tokens contribute equally to diffusion learning</title>
@@ -109,68 +181,5 @@ high-frequency detail recovery, while a locality-aware VAE achieve...</summary>
     <updated>2026-03-16T00:00:00+00:00</updated>
     <summary type="text">Scaling depth is a key driver for large language models (LLMs). Yet, as LLMs become deeper, they often suffer from signal degradation: informative features formed in shallow layers are gradually diluted by repeated residual updates, making them harder to recover in deeper layers. We introduce mixture-of-depths attention (MoDA), a mechanism that allows each...</summary>
     <category term="Computation and Language"/>
-  </entry>
-  <entry>
-    <title>Disentangling Tensor Network States with Deep Neural Network</title>
-    <link href="https://seed.bytedance.com/en/publication/disentangling-tensor-network-states-with-deep-neural-network"/>
-    <id>08530e19f1e15e7ee676f442457ede85</id>
-    <published>2026-03-15T00:00:00+00:00</published>
-    <updated>2026-03-15T00:00:00+00:00</updated>
-    <summary type="text">We introduce Neural Tensor Network States (νTNS), a variational many-body wave-function ansatz that integrates deep neural networks with tensor-network architectures. In the νTNS framework, a neural network serves as a disentangler of the wave-function, transforming the physical degrees of freedom into renormalized variables with much less entanglemen...</summary>
-    <category term="Strongly Correlated Electrons"/>
-  </entry>
-  <entry>
-    <title>Permutation invariant multi-scale full quantum neural network wavefunction</title>
-    <link href="https://seed.bytedance.com/en/publication/permutation-invariant-multi-scale-full-quantum-neural-network-wavefunction"/>
-    <id>38299edc4c6d2e6185e1aa11ff4b1f30</id>
-    <published>2026-03-12T00:00:00+00:00</published>
-    <updated>2026-03-12T00:00:00+00:00</updated>
-    <summary type="text">Solving the intricate quantum behavior of interacting particles is key to unlocking the mysteries of condensed matter, but capturing their complex correlations across different scales remains a monumental challenge. We introduce a neural network framework that overcomes this barrier by modeling the full quantum wavefunction of a system, including electron...</summary>
-    <category term="Chemical Physics"/>
-  </entry>
-  <entry>
-    <title>Learn Hard Problems During RL with Reference Guided Fine-tuning</title>
-    <link href="https://seed.bytedance.com/en/publication/learn-hard-problems-during-rl-with-reference-guided-fine-tuning"/>
-    <id>695241a1270aea32f9173dc741542ef4</id>
-    <published>2026-03-05T00:00:00+00:00</published>
-    <updated>2026-03-05T00:00:00+00:00</updated>
-    <summary type="text">Reinforcement learning (RL) for mathematical reasoning can suffer from reward sparsity: for challenging problems, LLM fails to sample any correct trajectories, preventing RL from receiving meaningful positive feedback. At the same time, there often exist human-written reference solutions along with the problem (e.g., problems from AoPS), but directly fine-tuning o...</summary>
-    <category term="Machine Learning"/>
-  </entry>
-  <entry>
-    <title>How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning</title>
-    <link href="https://seed.bytedance.com/en/publication/how-rl-unlocks-the-aha-moment-in-geometric-interleaved-reasoning"/>
-    <id>c8fef35fb6128c3f20302c1ffa3ae101</id>
-    <published>2026-03-01T00:00:00+00:00</published>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <summary type="text">Solving complex geometric problems inherently requires interleaved reasoning: a tight alternation between constructing diagrams and performing logical deductions. Although recent Multimodal Large Language Models (MLLMs) have demonstrated strong capabilities in visual generation and plotting, we identify a counter-intuitive and underexplored phen...</summary>
-    <category term="Computation and Language"/>
-  </entry>
-  <entry>
-    <title>CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation</title>
-    <link href="https://seed.bytedance.com/en/publication/cuda-agent-large-scale-agentic-rl-for-high-performance-cuda-kernel-generation"/>
-    <id>9f8e05e70e3eccccb486656a7cb2cf33</id>
-    <published>2026-02-27T00:00:00+00:00</published>
-    <updated>2026-02-27T00:00:00+00:00</updated>
-    <summary type="text">GPU kernel optimization is fundamental to modern deep learning but remains a highly specialized task requiring deep hardware expertise. Despite strong performance in general programming, large language models (LLMs) remain uncompetitive with compiler-based systems such as this http URL for CUDA kernel generation. Existing CUDA code genera...</summary>
-    <category term="Machine Learning"/>
-  </entry>
-  <entry>
-    <title>Does Your Reasoning Model Implicitly Know When to Stop Thinking?</title>
-    <link href="https://seed.bytedance.com/en/publication/does-your-reasoning-model-implicitly-know-when-to-stop-thinking"/>
-    <id>103e85de42ed6de1504bbff7757201d9</id>
-    <published>2026-02-27T00:00:00+00:00</published>
-    <updated>2026-02-27T00:00:00+00:00</updated>
-    <summary type="text">Recent advancements in large reasoning models (LRMs) have greatly improved their capabilities on complex reasoning tasks through Long Chains of Thought (CoTs). However, this approach often results in substantial redundancy, impairing computational efficiency and causing significant delays in real-time applications. Recent studies show that longer reasoni...</summary>
-    <category term="Artificial Intelligence"/>
-  </entry>
-  <entry>
-    <title>Steerable Instruction Following Coding Data Synthesis with Actor-Parametric Schema Co-Evolution</title>
-    <link href="https://seed.bytedance.com/en/publication/steerable-instruction-following-coding-data-synthesis-with-actor-parametric-schema-co-evolution"/>
-    <id>dcef8ba92b437a534ab4b1ea0046960b</id>
-    <published>2026-02-27T00:00:00+00:00</published>
-    <updated>2026-02-27T00:00:00+00:00</updated>
-    <summary type="text">Interpreting and following human instructions is a critical capability of large language models (LLMs) in automatic programming. However, synthesizing large-scale instruction-paired coding data remains largely unexplored and is particularly challenging when ensuring logical compatibility among multiple constraints. In this study, we propose IFCodeE...</summary>
-    <category term="Software Engineering"/>
   </entry>
 </feed>

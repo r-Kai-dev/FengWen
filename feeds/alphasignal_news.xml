@@ -1,131 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>AlphaSignal News</title>
-  <icon>https://alphasignal.ai/favicon.ico</icon>
+  <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-06-24T19:57:18+00:00</updated>
+  <updated>2026-06-25T20:00:35+00:00</updated>
   <author>
-    <name>Cursor</name>
+    <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Cursor SDK Lets Notion Ship a Full Coding Agent in Weeks</title>
-    <link href="https://cursor.com/blog/notion"/>
-    <id>ab564bce6cdf924a62b3904b45f8cea6</id>
-    <published>2026-06-24T19:57:18+00:00</published>
-    <updated>2026-06-24T19:57:18+00:00</updated>
-    <summary type="text">Cursor's SDK lets any product embed full coding agents in weeks, with Notion as the first major proof of concept</summary>
+    <title>Anthropic's Claude Tag Turns Slack Into a Shared AI Teammate With Memory</title>
+    <link href="https://x.com/claudedevs/status/2070235730295865661"/>
+    <id>8b90747d54f6e68fe7710fc23e46bde9</id>
+    <published>2026-06-25T20:00:35+00:00</published>
+    <updated>2026-06-25T20:00:35+00:00</updated>
+    <summary type="text">Anthropic launches Claude Tag, a persistent Slack agent with shared memory and proactive ambient mode, built on Claude Code and running on Opus 4.8</summary>
+    <category term="agents"/>
     <category term="development"/>
+  </entry>
+  <entry>
+    <title>xAI Plugs Grok Into Open-Source T3 Code Without Any API Key</title>
+    <link href="https://x.com/xai/status/2070195830192320600"/>
+    <id>86aa4053edaed53eab31219662362bce</id>
+    <published>2026-06-25T17:22:02+00:00</published>
+    <updated>2026-06-25T17:22:02+00:00</updated>
+    <summary type="text">xAI's SuperGrok and X Premium+ subscriptions now work inside T3 Code, letting developers use Grok models in a GUI coding agent without a separate API key.</summary>
+    <category term="vibe_coding"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>Z.ai's Open-Weight GLM-5.2 Beats GPT-5.5 on Coding at 1/7 the Cost</title>
-    <link href="https://github.com/arcprize/arc-agi-benchmarking"/>
-    <id>8af476bcb6bcec04927234e37375cd86</id>
-    <published>2026-06-24T18:08:34+00:00</published>
-    <updated>2026-06-24T18:08:34+00:00</updated>
-    <summary type="text">Z.ai's open-weight GLM-5.2 scores 22.8% on ARC-AGI-2 at $0.25/task, matching GPT-5.4 and 5.5 at low reasoning effort â a first for an MIT-licensed model</summary>
+    <title>Cursor Catches Composer 2.5 and Claude Opus Gaming Coding Benchmarks</title>
+    <link href="https://cursor.com/blog/reward-hacking-coding-benchmarks"/>
+    <id>93986d54027b47937db19c87231d66e6</id>
+    <published>2026-06-25T17:21:53+00:00</published>
+    <updated>2026-06-25T17:21:53+00:00</updated>
+    <summary type="text">Cursor's new research shows frontier models like Opus 4.8 and Composer 2.5 are gaming public coding benchmarks by fetching answers from the internet and git history â and stricter eval environments reveal the gap.</summary>
+    <category term="benchmarks"/>
     <category term="llms"/>
+  </entry>
+  <entry>
+    <title>v0's Design Systems 2.0 Stops Making Teams Re-explain Their Components Every Chat</title>
+    <link href="https://v0.app/docs/design-systems-2"/>
+    <id>b3c16e14b9d9999131cfda61ca7ccef3</id>
+    <published>2026-06-25T16:49:05+00:00</published>
+    <updated>2026-06-25T16:49:05+00:00</updated>
+    <summary type="text">v0 Design Systems 2.0 lets teams teach v0 their real component library once, then generate on-brand UIs from any chat</summary>
+    <category term="vibe_coding"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Goodfire's Silico Erases a Language From AI Using Just one Parameter</title>
+    <link href="https://www.lesswrong.com/posts/ieoWstubDQWLrMnhH/exploration-fine-tuning-with-parameter-decomposition"/>
+    <id>3a59c95fe6a7062718d013244b9c201b</id>
+    <published>2026-06-25T16:23:19+00:00</published>
+    <updated>2026-06-25T16:23:19+00:00</updated>
+    <summary type="text">Goodfire erased a language model's German ability by tuning a single number â and left French and Spanish almost completely intact</summary>
+    <category term="post_training"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Google DeepMind Folds Computer Use Directly Into Gemini 3.5 Flash</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
+    <id>44b69f9d0e38c4e206c5d927792522ee</id>
+    <published>2026-06-25T16:21:10+00:00</published>
+    <updated>2026-06-25T16:21:10+00:00</updated>
+    <summary type="text">Gemini 3.5 Flash now has computer use built in as a native tool, letting agents see and control browsers, mobile, and desktop interfaces alongside Search and Maps in a single model call.</summary>
+    <category term="llms"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>General Intuition Raises $320M Turning 2.5B Gaming Clips Into Robot Brains</title>
+    <link href="https://x.com/gen_intuition/status/2070177308539818005"/>
+    <id>c053120d8743994c785d2525d64dc1b7</id>
+    <published>2026-06-25T16:08:27+00:00</published>
+    <updated>2026-06-25T16:08:27+00:00</updated>
+    <summary type="text">General Intuition raises $320M Series A at a $2.3B valuation to train large action models on billions of ground-truth-labeled gameplay clips from Medal's 17M monthly users â and deploy them in robots, drones, and beyond.</summary>
+    <category term="business"/>
+    <category term="video"/>
+  </entry>
+  <entry>
+    <title>Google's Gemini Launches Study Notebooks to Tutor Students for Free</title>
+    <link href="https://gemini.google.com/"/>
+    <id>6398f24f11499b2ad9d1a15cb3bd53d0</id>
+    <published>2026-06-25T16:03:08+00:00</published>
+    <updated>2026-06-25T16:03:08+00:00</updated>
+    <summary type="text">Gemini's new Study notebooks add adaptive quizzes, personalized lesson plans, and NotebookLM sync â free for all users globally</summary>
+    <category term="llms"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Liquid AI's LFM2.5-230M Beats Models Twice Its Size Running on a Raspberry Pi</title>
+    <link href="https://docs.liquid.ai/lfm/models/complete-library"/>
+    <id>9928efcb98aa94a190cc35cf97cf6589</id>
+    <published>2026-06-25T14:12:32+00:00</published>
+    <updated>2026-06-25T14:12:32+00:00</updated>
+    <summary type="text">Liquid AI's 230M-parameter LFM2.5 runs at 213 tok/s on a Galaxy S25 Ultra and beats models twice its size on tool use and data extraction</summary>
+    <category term="llms"/>
+    <category term="robotics"/>
+  </entry>
+  <entry>
+    <title>Vercel's AI SDK 7 Turns Fragile Prototype Agents Into Production-Ready Systems</title>
+    <link href="https://vercel.com/blog/ai-sdk-7"/>
+    <id>22a1f40e5546ad4954baa75cdc50c716</id>
+    <published>2026-06-25T13:15:02+00:00</published>
+    <updated>2026-06-25T13:15:02+00:00</updated>
+    <summary type="text">Vercel's AI SDK 7 lands with durable agents, unified reasoning control, tool approvals, MCP Apps, and a new harness abstraction for Claude Code and Codex</summary>
+    <category term="agents"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis' AA-Briefcase Reveals Top AI Agents Fail 97% of Real Work Tasks</title>
+    <link href="https://artificialanalysis.ai/articles/aa-briefcase"/>
+    <id>aed1cf4f232519f2cca1fabb3709df5a</id>
+    <published>2026-06-24T22:43:55+00:00</published>
+    <updated>2026-06-24T22:43:55+00:00</updated>
+    <summary type="text">AA-Briefcase reveals frontier agents take 10â25 minutes per task on realistic knowledge work, exposing a new speed-quality tradeoff that existing benchmarks miss entirely</summary>
+    <category term="agents"/>
     <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>OpenAI's GPT-5.5 Instant Gets Smarter at Reading Between the Lines</title>
-    <link href="https://openai.com/index/gpt-5-5-instant/"/>
-    <id>16dcd1643f20a4fe4426d572b9f435d7</id>
-    <published>2026-06-24T18:00:21+00:00</published>
-    <updated>2026-06-24T18:00:21+00:00</updated>
-    <summary type="text">OpenAI ships a new GPT-5.5 Instant with sharper intent understanding, fewer hallucinations, and smarter personalization for ChatGPT's most-used model</summary>
-    <category term="llms"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Exa Connect Unlocks Private Commercial Data for AI Agents</title>
-    <link href="https://exa.ai/connect"/>
-    <id>53b3239929271164b154fcd8d468961b</id>
-    <published>2026-06-24T17:56:51+00:00</published>
-    <updated>2026-06-24T17:56:51+00:00</updated>
-    <summary type="text">Exa Connect lets AI agents tap ZoomInfo, Crunchbase, Similarweb, and a dozen more premium data providers through a single API call, moving beyond the public web.</summary>
-    <category term="agents"/>
-    <category term="retrieval"/>
-  </entry>
-  <entry>
-    <title>Zed v1.8 Ships a Bootstrap Hook That Automates AI Agent Environments</title>
-    <link href="https://zed.dev/releases/stable"/>
-    <id>edf09f7db05c3dbcee7e55b928485900</id>
-    <published>2026-06-24T17:13:21+00:00</published>
-    <updated>2026-06-24T17:13:21+00:00</updated>
-    <summary type="text">Zed v1.8 lands with a new agent terminal init hook, smarter Git internals, and two handy editor selection commands</summary>
-    <category term="development"/>
-    <category term="vibe_coding"/>
-  </entry>
-  <entry>
-    <title>NVIDIA's NeMo AutoModel Trains 550B MoE Models 3.7x Faster With One Import</title>
-    <link href="https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel?linkId=100000427835682"/>
-    <id>2579c690404396d61cb8680c5a35e82c</id>
-    <published>2026-06-24T16:03:08+00:00</published>
-    <updated>2026-06-24T16:03:08+00:00</updated>
-    <summary type="text">NeMo AutoModel layers Expert Parallelism and DeepEP on top of Transformers v5, delivering 3.4â3.7x faster MoE fine-tuning with a single import change</summary>
-    <category term="training_infra"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Sakana AI's Fugu Ultra Beats Frontier Models by Coordinating Them</title>
-    <link href="https://openrouter.ai/sakana/fugu-ultra"/>
-    <id>ac64ca5b4dc500c17cae9b70a73d9eb5</id>
-    <published>2026-06-24T15:52:55+00:00</published>
-    <updated>2026-06-24T15:52:55+00:00</updated>
-    <summary type="text">Sakana AI's Fugu Ultra is now on OpenRouter â a 7B orchestrator that routes across frontier models to match Claude Fable 5 and Mythos on benchmarks, without training a single frontier model.</summary>
-    <category term="api"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>xAI Turns Grok Build Into a Full-Stack Platform With Plugin Marketplace</title>
-    <link href="https://x.com/xai/status/2069809728088350789"/>
-    <id>dd30b0eab340ea88aa2492f963b81f66</id>
-    <published>2026-06-24T15:47:49+00:00</published>
-    <updated>2026-06-24T15:47:49+00:00</updated>
-    <summary type="text">xAI launches the Grok Build Plugin Marketplace in beta, shipping six partner integrations including MongoDB, Vercel, Sentry, and Cloudflare from your terminal</summary>
-    <category term="vibe_coding"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>OpenAI's JalapeÃ±o Chip Hits Silicon 9 Months After Design Kickoff</title>
-    <link href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"/>
-    <id>4c8ce3e31e01efbf7f282a0b8993ff18</id>
-    <published>2026-06-24T13:10:38+00:00</published>
-    <updated>2026-06-24T13:10:38+00:00</updated>
-    <summary type="text">OpenAI's first custom silicon, JalapeÃ±o, goes from blank slate to running GPT-5.3 workloads in nine months â and it's just the start of a multi-generation compute platform targeting gigawatt-scale deployment.</summary>
-    <category term="gpus"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Qwen's AgentWorld Beats GPT-5 by Teaching AI to Simulate Environments</title>
-    <link href="https://huggingface.co/collections/Qwen/qwen-agentworld"/>
-    <id>6c1eda5d89cf3be27e89acf4c0fc8836</id>
-    <published>2026-06-24T09:52:43+00:00</published>
-    <updated>2026-06-24T09:52:43+00:00</updated>
-    <summary type="text">Qwen releases a language model trained to simulate agent environments, not just act in them â beating GPT-5.4 and Claude Opus 4.8 on a new 7-domain benchmark</summary>
-    <category term="agents"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Moonshot AI Brings Kimi K2.7 Code to AWS, Targeting Enterprise Budgets</title>
-    <link href="https://aws.amazon.com/marketplace/pp/prodview-rfjb2elzc5jp4"/>
-    <id>ba3eeba81784d3fb0af8148b33c3048e</id>
-    <published>2026-06-24T09:46:19+00:00</published>
-    <updated>2026-06-24T09:46:19+00:00</updated>
-    <summary type="text">Moonshot AI's Kimi K2.7 Code lands on AWS Marketplace with EDP billing support, giving enterprise AWS teams a frontier-grade open-weight coding model without a new vendor contract</summary>
-    <category term="api"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Nous Research's Hermes Agent Gets a Live Pixel-Art Pet Showing What AI Does</title>
-    <link href="https://x.com/nousresearch/status/2069577310055846267"/>
-    <id>137298f6178e87c47797186d92c354e8</id>
-    <published>2026-06-24T00:24:16+00:00</published>
-    <updated>2026-06-24T00:24:16+00:00</updated>
-    <summary type="text">Hermes Agent now supports animated pixel-art pets from the Petdex gallery that react live to agent state in both the GUI and terminal UI</summary>
-    <category term="agents"/>
-    <category term="development"/>
+    <title>Higgsfield Pushes Seedance 2.0 to Native 4K for Full Film Production</title>
+    <link href="https://x.com/higgsfield_ai/status/2069908903383409003"/>
+    <id>bc26fb059869f8905482c84b4b68f32d</id>
+    <published>2026-06-24T22:21:54+00:00</published>
+    <updated>2026-06-24T22:21:54+00:00</updated>
+    <summary type="text">Higgsfield brings Seedance 2.0 to native 4K on its platform, covering pre-production, production, and post in a single AI pipeline.</summary>
+    <category term="video"/>
+    <category term="benchmarks"/>
   </entry>
 </feed>
