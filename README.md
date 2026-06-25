@@ -162,6 +162,7 @@ The following tables include both the feeds created by this project and existing
 |------------------|------|------|
 | [LMSYS Blog](https://lmsys.org/blog) | [lmsys_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/lmsys_blog.xml) | Created |
 | [Unsloth Blog](https://unsloth.ai/blog) | [unsloth_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/unsloth_blog.xml) | Created |
+| [Cursor Blog](https://cursor.com/blog) | [cursor_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/cursor_blog.xml) | Created |
 | [NVIDIA Blog](https://blogs.nvidia.com/) | [NVIDIA Blog Feed](https://blogs.nvidia.com/feed/) | Official |
 | [Ollama Blog](https://ollama.com/blog) | [Ollama Blog Feed](https://ollama.com/blog/rss.xml) | Official |
 | [vLLM Blog](https://vllm.ai/blog) | [vLLM Blog Feed](https://vllm.ai/blog/rss.xml) | Official |

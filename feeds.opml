@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:fw="https://codeberg.org/r-Kai/FengWen">
   <head>
     <title>Feng Wen (风闻) — AI/Tech News Feeds</title>
-    <dateCreated>2026-06-25T00:24:58Z</dateCreated>
+    <dateCreated>2026-06-25T22:27:44Z</dateCreated>
     <ownerName>Feng Wen</ownerName>
   </head>
   <body>
@@ -136,6 +136,7 @@
     <outline text="Tools" title="Tools">
       <outline text="LMSYS Blog" title="LMSYS Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/lmsys_blog.xml" htmlUrl="https://lmsys.org/blog" fw:type="created"/>
       <outline text="Unsloth Blog" title="Unsloth Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/unsloth_blog.xml" htmlUrl="https://unsloth.ai/blog" fw:type="created"/>
+      <outline text="Cursor Blog" title="Cursor Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/cursor_blog.xml" htmlUrl="https://cursor.com/blog" fw:type="created"/>
       <outline text="NVIDIA Blog" title="NVIDIA Blog" type="rss" xmlUrl="https://blogs.nvidia.com/feed/" htmlUrl="https://blogs.nvidia.com/" fw:type="official"/>
       <outline text="Ollama Blog" title="Ollama Blog" type="rss" xmlUrl="https://ollama.com/blog/rss.xml" htmlUrl="https://ollama.com/blog" fw:type="official"/>
       <outline text="vLLM Blog" title="vLLM Blog" type="rss" xmlUrl="https://vllm.ai/blog/rss.xml" htmlUrl="https://vllm.ai/blog" fw:type="official"/>

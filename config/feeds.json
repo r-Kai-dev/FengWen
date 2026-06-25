@@ -825,6 +825,22 @@
           "output_file": "higgsfield_blog.xml"
         }
       ]
+    },
+    {
+      "org_key": "cursor",
+      "name": "Cursor",
+      "strategy": "request",
+      "base_url": "https://cursor.com",
+      "favicon": "https://cursor.com/marketing-static/favicon.ico",
+      "category": "Tools",
+      "pages": [
+        {
+          "key": "blog",
+          "label": "Cursor Blog",
+          "url": "https://cursor.com/blog",
+          "output_file": "cursor_blog.xml"
+        }
+      ]
     }
   ],
   "official": [

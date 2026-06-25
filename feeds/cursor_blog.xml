@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cursor Blog</title>
+  <icon>https://cursor.com/marketing-static/favicon.ico</icon>
+  <link href="https://cursor.com/blog"/>
+  <id>https://cursor.com/blog</id>
+  <updated>2026-06-25T12:00:00.000Z</updated>
+  <author>
+    <name>Cursor</name>
+  </author>
+  <entry>
+    <title>How Notion used the Cursor SDK to embed coding agents</title>
+    <link href="https://cursor.com/blog/notion"/>
+    <id>0bfaed073c772c89f0c1283924e2bc76</id>
+    <published>2026-06-25T12:00:00.000Z</published>
+    <updated>2026-06-25T12:00:00.000Z</updated>
+    <summary type="text">By Roshan Sadanani · 3m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Reward hacking is swamping model intelligence gains</title>
+    <link href="https://cursor.com/blog/reward-hacking-coding-benchmarks"/>
+    <id>b6c0ab1f3737b47ff065cc0f302729cc</id>
+    <published>2026-06-25T12:00:00.000Z</published>
+    <updated>2026-06-25T12:00:00.000Z</updated>
+    <summary type="text">By Naman Jain · 7m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Governing agent autonomy with Auto-review</title>
+    <link href="https://cursor.com/blog/agent-autonomy-auto-review"/>
+    <id>20139eb791d3e06dadb9de4f72e84766</id>
+    <published>2026-06-11T12:00:00.000Z</published>
+    <updated>2026-06-11T12:00:00.000Z</updated>
+    <summary type="text">By David &amp; Travis · 8m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs</title>
+    <link href="https://cursor.com/blog/bugbot-updates-june-2026"/>
+    <id>aacdfc06a3d24a432a43c6e2ffd39fcb</id>
+    <published>2026-06-10T12:00:00.000Z</published>
+    <updated>2026-06-10T12:00:00.000Z</updated>
+    <summary type="text">By Jason, Yuri &amp; Michael · 4m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Direct agents with visual prompts in Design Mode</title>
+    <link href="https://cursor.com/blog/design-mode"/>
+    <id>f40f41a9850db920c62c27c2a10a727b</id>
+    <published>2026-06-05T00:00:00.000Z</published>
+    <updated>2026-06-05T00:00:00.000Z</updated>
+    <summary type="text">By Erik, Ian &amp; Ryo · 6m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Introducing organizations for Cursor Enterprise</title>
+    <link href="https://cursor.com/blog/organizations"/>
+    <id>750404539198e632275888ea4d48cc76</id>
+    <published>2026-06-03T12:00:00.000Z</published>
+    <updated>2026-06-03T12:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 5m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>What we’ve learned building cloud agents</title>
+    <link href="https://cursor.com/blog/cloud-agent-lessons"/>
+    <id>8d6bcc848a819bcb84c5021ab0ee021f</id>
+    <published>2026-06-02T12:00:00.000Z</published>
+    <updated>2026-06-02T12:00:00.000Z</updated>
+    <summary type="text">By Josh Ma · 9m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Improvements to Teams Pricing</title>
+    <link href="https://cursor.com/blog/teams-pricing-june-2026"/>
+    <id>3749054cad4fb7b866fa2c00351e70aa</id>
+    <published>2026-06-01T07:00:00.000Z</published>
+    <updated>2026-06-01T07:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 4m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Cursor named a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents</title>
+    <link href="https://cursor.com/blog/cursor-leads-gartner-mq-2026"/>
+    <id>91feb7b361b81ac9265bf974763ea215</id>
+    <published>2026-05-22T12:00:00.000Z</published>
+    <updated>2026-05-22T12:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 3m read</summary>
+    <category term="company"/>
+  </entry>
+  <entry>
+    <title>Introducing Composer 2.5</title>
+    <link href="https://cursor.com/blog/composer-2-5"/>
+    <id>55c60c4d086c794455111db47cf9c7b9</id>
+    <published>2026-05-18T00:00:00.000Z</published>
+    <updated>2026-05-18T00:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 7m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Development environments for your cloud agents</title>
+    <link href="https://cursor.com/blog/cloud-agent-development-environments"/>
+    <id>e588b75b7312b7b88c28645957495caf</id>
+    <published>2026-05-13T12:00:00.000Z</published>
+    <updated>2026-05-13T12:00:00.000Z</updated>
+    <summary type="text">By Samantha, David &amp; Nick · 7m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Updates to Bugbot for Teams and Individuals</title>
+    <link href="https://cursor.com/blog/may-2026-bugbot-changes"/>
+    <id>ee08785060c64869d0c996fc2ec78364</id>
+    <published>2026-05-11T12:00:00.000Z</published>
+    <updated>2026-05-11T12:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 2m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Bootstrapping Composer with autoinstall</title>
+    <link href="https://cursor.com/blog/bootstrapping-composer-with-autoinstall"/>
+    <id>10a079e0a4dfbcbb3ad58a2f77a27a83</id>
+    <published>2026-05-06T00:00:00.000Z</published>
+    <updated>2026-05-06T00:00:00.000Z</updated>
+    <summary type="text">By Shomil, Joshua &amp; Andrew · 6m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Continually improving our agent harness</title>
+    <link href="https://cursor.com/blog/continually-improving-agent-harness"/>
+    <id>ff8ae7db2219ef5c754a60cf52e987fc</id>
+    <published>2026-04-30T12:00:00.000Z</published>
+    <updated>2026-04-30T12:00:00.000Z</updated>
+    <summary type="text">By Stefan &amp; Jediah · 11m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Build programmatic agents with the Cursor SDK</title>
+    <link href="https://cursor.com/blog/typescript-sdk"/>
+    <id>84b9048ecaa1fef011ae37cb55457590</id>
+    <published>2026-04-29T12:00:00.000Z</published>
+    <updated>2026-04-29T12:00:00.000Z</updated>
+    <summary type="text">By Roshan Sadanani · 6m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Cursor partners with SpaceX on model training</title>
+    <link href="https://cursor.com/blog/spacex-model-training"/>
+    <id>d8a0a21d8fb4fea2591537690207fcb8</id>
+    <published>2026-04-21T22:17:00.000Z</published>
+    <updated>2026-04-21T22:17:00.000Z</updated>
+    <summary type="text">By Cursor Team · 1m read</summary>
+    <category term="company"/>
+  </entry>
+  <entry>
+    <title>Keeping the Cursor app stable</title>
+    <link href="https://cursor.com/blog/app-stability"/>
+    <id>d68bcaae6887209ea1461c41d674a2df</id>
+    <published>2026-04-21T12:00:00.000Z</published>
+    <updated>2026-04-21T12:00:00.000Z</updated>
+    <summary type="text">By Andrew &amp; Kevin · 8m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Better AI models enable more ambitious work</title>
+    <link href="https://cursor.com/blog/better-models-ambitious-work"/>
+    <id>0e60902fd568efe71e4bfc896a3ea726</id>
+    <published>2026-04-15T12:00:00.000Z</published>
+    <updated>2026-04-15T12:00:00.000Z</updated>
+    <summary type="text">By Luke Melas-Kyriazi · 4m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Interact with agent-created visualizations in canvases</title>
+    <link href="https://cursor.com/blog/canvas"/>
+    <id>c1d79b7b0562035c708a0fddec2fab9e</id>
+    <published>2026-04-15T00:00:00.000Z</published>
+    <updated>2026-04-15T00:00:00.000Z</updated>
+    <summary type="text">By Alex Vandak Maloney · 6m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Speeding up GPU kernels by 38% with a multi-agent system</title>
+    <link href="https://cursor.com/blog/multi-agent-kernels"/>
+    <id>98b1e4df949354f4568693b9b84b7b9b</id>
+    <published>2026-04-14T12:00:00.000Z</published>
+    <updated>2026-04-14T12:00:00.000Z</updated>
+    <summary type="text">By Wilson, Sahil, Yuan &amp; Edward · 10m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Bugbot now self-improves with learned rules</title>
+    <link href="https://cursor.com/blog/bugbot-learning"/>
+    <id>829f474d0ca79acdd723a363b87e9ee8</id>
+    <published>2026-04-08T12:00:00.000Z</published>
+    <updated>2026-04-08T12:00:00.000Z</updated>
+    <summary type="text">By Michael Zhao · 3m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Better MoE model inference with warp decode</title>
+    <link href="https://cursor.com/blog/warp-decode"/>
+    <id>e1cd3ed3a58555cf770097767ef856dd</id>
+    <published>2026-04-06T12:00:00.000Z</published>
+    <updated>2026-04-06T12:00:00.000Z</updated>
+    <summary type="text">By Less, Federico &amp; Zhiyuan · 10m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Meet the new Cursor</title>
+    <link href="https://cursor.com/blog/cursor-3"/>
+    <id>23221003c940afffe4abebf23dcf4e81</id>
+    <published>2026-04-02T00:00:00.000Z</published>
+    <updated>2026-04-02T00:00:00.000Z</updated>
+    <summary type="text">By Michael &amp; Sualeh · 10m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>A technical report on Composer 2</title>
+    <link href="https://cursor.com/blog/composer-2-technical-report"/>
+    <id>31cd9badd0c477db1c2e448425ba984f</id>
+    <published>2026-03-27T12:00:00.000Z</published>
+    <updated>2026-03-27T12:00:00.000Z</updated>
+    <summary type="text">By Sasha Rush · 3m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Improving Composer through real-time RL</title>
+    <link href="https://cursor.com/blog/real-time-rl-for-composer"/>
+    <id>c2d6f936862f1d9cb29fa7b3ac88ed6c</id>
+    <published>2026-03-26T00:00:00.000Z</published>
+    <updated>2026-03-26T00:00:00.000Z</updated>
+    <summary type="text">By Jacob, Ben, Nathan &amp; Wanqi · 7m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Run cloud agents in your own infrastructure</title>
+    <link href="https://cursor.com/blog/self-hosted-cloud-agents"/>
+    <id>6434872a33bbceed46828d0582cafcec</id>
+    <published>2026-03-25T12:00:00.000Z</published>
+    <updated>2026-03-25T12:00:00.000Z</updated>
+    <summary type="text">By Katia Bazzi · 4m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Fast regex search: indexing text for agent tools</title>
+    <link href="https://cursor.com/blog/fast-regex-search"/>
+    <id>cb8c4abb303f3878f331f0ffaeb88a3d</id>
+    <published>2026-03-23T12:00:00.000Z</published>
+    <updated>2026-03-23T12:00:00.000Z</updated>
+    <summary type="text">By Vicent Marti · 21m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Introducing Composer 2</title>
+    <link href="https://cursor.com/blog/composer-2"/>
+    <id>c61d9e07e02d0c7a5690f82426da5cb3</id>
+    <published>2026-03-19T00:00:00.000Z</published>
+    <updated>2026-03-19T00:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 3m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Training Composer for longer horizons</title>
+    <link href="https://cursor.com/blog/self-summarization"/>
+    <id>42d3fd5bac3001452eb243e35f6163b4</id>
+    <published>2026-03-17T12:00:00.000Z</published>
+    <updated>2026-03-17T12:00:00.000Z</updated>
+    <summary type="text">By Federico &amp; Sasha · 7m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Cursor built a fleet of security agents to solve a familiar frustration</title>
+    <link href="https://thenewstack.io/cursor-open-sources-security-agents/"/>
+    <id>f9b6a6115177380297337d087efcdeb4</id>
+    <published>2026-03-16T00:00:00.000Z</published>
+    <updated>2026-03-16T00:00:00.000Z</updated>
+    <summary type="text">Published on The New Stack</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>Securing our codebase with autonomous agents</title>
+    <link href="https://cursor.com/blog/security-agents"/>
+    <id>ef91479a53116ad6bc1893a726b320c0</id>
+    <published>2026-03-16T00:00:00.000Z</published>
+    <updated>2026-03-16T00:00:00.000Z</updated>
+    <summary type="text">By Travis McPeak · 5m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>How we compare model quality in Cursor</title>
+    <link href="https://cursor.com/blog/cursorbench"/>
+    <id>015dfb0851601c97d44fc17bb656a2db</id>
+    <published>2026-03-11T12:00:00.000Z</published>
+    <updated>2026-03-11T12:00:00.000Z</updated>
+    <summary type="text">By Naman Jain · 7m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Over 30 new plugins join the Cursor Marketplace</title>
+    <link href="https://cursor.com/blog/new-plugins"/>
+    <id>ca5e424b3291a2eba54c286697d768ed</id>
+    <published>2026-03-11T00:00:00.000Z</published>
+    <updated>2026-03-11T00:00:00.000Z</updated>
+    <summary type="text">By Kevin Niparko · 7m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Build agents that run automatically</title>
+    <link href="https://cursor.com/blog/automations"/>
+    <id>066910bf218976f8cf81474ecae75f8b</id>
+    <published>2026-03-05T12:00:00.000Z</published>
+    <updated>2026-03-05T12:00:00.000Z</updated>
+    <summary type="text">By Jack, Jon &amp; Josh · 8m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Cursor is rolling out a new kind of agentic coding tool</title>
+    <link href="https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/"/>
+    <id>f6d0ae92dfeb77aa1b104af38c36b771</id>
+    <published>2026-03-05T00:00:00.000Z</published>
+    <updated>2026-03-05T00:00:00.000Z</updated>
+    <summary type="text">Published on TechCrunch</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>Cursor is now available in JetBrains IDEs</title>
+    <link href="https://cursor.com/blog/jetbrains-acp"/>
+    <id>7a64a0b8b233314d5891e6bc8a08a1ea</id>
+    <published>2026-03-04T12:00:00.000Z</published>
+    <updated>2026-03-04T12:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 2m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>How technical support at Cursor uses Cursor</title>
+    <link href="https://cursor.com/blog/cursor-support"/>
+    <id>833baa92bf1dd06d7f5f8331658e5ef6</id>
+    <published>2026-03-03T12:00:00.000Z</published>
+    <updated>2026-03-03T12:00:00.000Z</updated>
+    <summary type="text">By Kody &amp; Zach · 5m read</summary>
+    <category term="company"/>
+  </entry>
+  <entry>
+    <title>Cursor Recurring Revenue Doubles in Three Months to $2 Billion</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-03-02/cursor-recurring-revenue-doubles-in-three-months-to-2-billion"/>
+    <id>53fd78f30f0b9e61c4acfa44de4c5777</id>
+    <published>2026-03-02T00:00:00.000Z</published>
+    <updated>2026-03-02T00:00:00.000Z</updated>
+    <summary type="text">Published on Bloomberg</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>The third era of AI software development</title>
+    <link href="https://cursor.com/blog/third-era"/>
+    <id>296202153d5b08c7828d7257c50aec81</id>
+    <published>2026-02-26T19:35:24.000Z</published>
+    <updated>2026-02-26T19:35:24.000Z</updated>
+    <summary type="text">By Michael Truell · 4m read</summary>
+    <category term="ideas"/>
+  </entry>
+  <entry>
+    <title>Closing the code review loop with Bugbot Autofix</title>
+    <link href="https://cursor.com/blog/bugbot-autofix"/>
+    <id>40f634b19f9d1a0d10ffa5f4bd4c6572</id>
+    <published>2026-02-26T12:00:00.000Z</published>
+    <updated>2026-02-26T12:00:00.000Z</updated>
+    <summary type="text">By Jon Kaplan · 3m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Cursor agents can now control their own computers</title>
+    <link href="https://cursor.com/blog/agent-computer-use"/>
+    <id>2e8875d8462330232a74af0baa316753</id>
+    <published>2026-02-24T00:00:00.000Z</published>
+    <updated>2026-02-24T00:00:00.000Z</updated>
+    <summary type="text">By Jonas &amp; Alexi · 10m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Cursor announces major update to AI agents as coding tool battle heats up</title>
+    <link href="https://www.cnbc.com/2026/02/24/cursor-announces-major-update-as-ai-coding-agent-battle-heats-up.html"/>
+    <id>fa3e1d0eaf030ec417b215e4b653aa6d</id>
+    <published>2026-02-24T00:00:00.000Z</published>
+    <updated>2026-02-24T00:00:00.000Z</updated>
+    <summary type="text">Published on CNBC</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>Implementing a secure sandbox for local agents</title>
+    <link href="https://cursor.com/blog/agent-sandboxing"/>
+    <id>6fd4b436326d34de86ef6104f1740d54</id>
+    <published>2026-02-18T12:00:00.000Z</published>
+    <updated>2026-02-18T12:00:00.000Z</updated>
+    <summary type="text">By Ani, Yash &amp; Alex · 6m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Extend Cursor with plugins</title>
+    <link href="https://cursor.com/blog/marketplace"/>
+    <id>a17121295d869fe9d37728dad62f362e</id>
+    <published>2026-02-17T00:00:00.000Z</published>
+    <updated>2026-02-17T00:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 6m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Expanding our long-running agents research preview</title>
+    <link href="https://cursor.com/blog/long-running-agents"/>
+    <id>1682cdd1362af2419097da8631375188</id>
+    <published>2026-02-12T00:00:00.000Z</published>
+    <updated>2026-02-12T00:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 5m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Increased usage for agents</title>
+    <link href="https://cursor.com/blog/increased-agent-usage"/>
+    <id>6f418f833bc0ff1173581ff34837268b</id>
+    <published>2026-02-11T00:00:00.000Z</published>
+    <updated>2026-02-11T00:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 3m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Introducing Composer 1.5</title>
+    <link href="https://cursor.com/blog/composer-1-5"/>
+    <id>3c31ee522ae2a1ffd36310947b44405f</id>
+    <published>2026-02-09T00:00:00.000Z</published>
+    <updated>2026-02-09T00:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 3m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Towards self-driving codebases</title>
+    <link href="https://cursor.com/blog/self-driving-codebases"/>
+    <id>67eb72755d26050b754cd4607e2a631f</id>
+    <published>2026-02-05T12:00:00.000Z</published>
+    <updated>2026-02-05T12:00:00.000Z</updated>
+    <summary type="text">By Wilson Lin · 19m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Securely indexing large codebases</title>
+    <link href="https://cursor.com/blog/secure-codebase-indexing"/>
+    <id>26f46aedaff74a7fe24c9404678588eb</id>
+    <published>2026-01-27T12:00:00.000Z</published>
+    <updated>2026-01-27T12:00:00.000Z</updated>
+    <summary type="text">By Jeremy Stribling · 6m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Cursor Built a Web Browser Using a Swarm of AI Agents</title>
+    <link href="https://fortune.com/2026/01/23/cursor-built-web-browser-with-swarm-ai-agents-powered-openai/"/>
+    <id>ec45f30a7d74f4e4a94b9d2037c689a8</id>
+    <published>2026-01-23T13:35:00.000Z</published>
+    <updated>2026-01-23T13:35:00.000Z</updated>
+    <summary type="text">Published on Fortune</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>Building a better Bugbot</title>
+    <link href="https://cursor.com/blog/building-bugbot"/>
+    <id>266a32088eb7085023ec689029809d2e</id>
+    <published>2026-01-15T12:00:00.000Z</published>
+    <updated>2026-01-15T12:00:00.000Z</updated>
+    <summary type="text">By Jon Kaplan · 7m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Scaling long-running autonomous coding</title>
+    <link href="https://cursor.com/blog/scaling-agents"/>
+    <id>e25536add254e30b953a8d130d4ba8c2</id>
+    <published>2026-01-14T12:00:00.000Z</published>
+    <updated>2026-01-14T12:00:00.000Z</updated>
+    <summary type="text">By Wilson Lin · 7m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Best practices for coding with agents</title>
+    <link href="https://cursor.com/blog/agent-best-practices"/>
+    <id>7ca1813dd2f07d38ef9d4d939c287887</id>
+    <published>2026-01-09T12:00:00.000Z</published>
+    <updated>2026-01-09T12:00:00.000Z</updated>
+    <summary type="text">By Lee Robinson · 17m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Dynamic context discovery</title>
+    <link href="https://cursor.com/blog/dynamic-context-discovery"/>
+    <id>73ad8b4a9c4e5f18ef572c3c0fe1a872</id>
+    <published>2026-01-06T12:00:00.000Z</published>
+    <updated>2026-01-06T12:00:00.000Z</updated>
+    <summary type="text">By Jediah Katz · 6m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Hooks for security and platform teams</title>
+    <link href="https://cursor.com/blog/hooks-partners"/>
+    <id>5dd2a99705a014a2f3a148d0e25336d0</id>
+    <published>2025-12-22T00:00:00.000Z</published>
+    <updated>2025-12-22T00:00:00.000Z</updated>
+    <summary type="text">By Michael, Michael &amp; Travis · 2m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Cursor Acquires Code Review Startup Graphite</title>
+    <link href="https://fortune.com/2025/12/19/cursor-ai-coding-startup-graphite-competition-heats-up/"/>
+    <id>992280535fb9f3b82520eb70bfdcb572</id>
+    <published>2025-12-19T10:30:00.000Z</published>
+    <updated>2025-12-19T10:30:00.000Z</updated>
+    <summary type="text">Published on Fortune</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>Graphite is joining Cursor</title>
+    <link href="https://cursor.com/blog/graphite"/>
+    <id>67196c6d940828ff4744ddcb4a506331</id>
+    <published>2025-12-19T00:00:00.000Z</published>
+    <updated>2025-12-19T00:00:00.000Z</updated>
+    <summary type="text">By Cursor Team · 1m read</summary>
+    <category term="company"/>
+  </entry>
+  <entry>
+    <title>Cursor Launches Visual Editor, an AI Coding Tool for Designers</title>
+    <link href="https://www.wired.com/story/cursor-launches-pro-design-tools-figma/"/>
+    <id>b60e64924400cab1da6dc8184cd4482d</id>
+    <published>2025-12-11T11:00:00.000Z</published>
+    <updated>2025-12-11T11:00:00.000Z</updated>
+    <summary type="text">Published on WIRED</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>A visual editor for the Cursor Browser</title>
+    <link href="https://cursor.com/blog/browser-visual-editor"/>
+    <id>6a7e6df91320efc64b6af77947be84b1</id>
+    <published>2025-12-11T00:00:00.000Z</published>
+    <updated>2025-12-11T00:00:00.000Z</updated>
+    <summary type="text">By Jason &amp; Ryo · 6m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Introducing Debug Mode: Agents with runtime logs</title>
+    <link href="https://cursor.com/blog/debug-mode"/>
+    <id>46af64f8a3f91374f232128281e49b47</id>
+    <published>2025-12-10T00:00:00.000Z</published>
+    <updated>2025-12-10T00:00:00.000Z</updated>
+    <summary type="text">By Alexey &amp; Albert · 6m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Improving Cursor’s agent for OpenAI Codex models</title>
+    <link href="https://cursor.com/blog/codex-model-harness"/>
+    <id>c31653e238aa4537c983b92cab1c8157</id>
+    <published>2025-12-04T16:02:50.287Z</published>
+    <updated>2025-12-04T16:02:50.287Z</updated>
+    <summary type="text">By Cursor Team · 6m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Past, Present, and Future</title>
+    <link href="https://cursor.com/blog/series-d"/>
+    <id>41abcf62ebb0e8b0a412d4ab14cad83d</id>
+    <published>2025-11-13T11:27:11.894Z</published>
+    <updated>2025-11-13T11:27:11.894Z</updated>
+    <summary type="text">By Cursor Team · 2m read</summary>
+    <category term="company"/>
+  </entry>
+  <entry>
+    <title>The productivity impact of coding agents</title>
+    <link href="https://cursor.com/blog/productivity"/>
+    <id>c1ff07ecf8c239e4397b03bc27e1c9de</id>
+    <published>2025-11-11T17:37:00.000Z</published>
+    <updated>2025-11-11T17:37:00.000Z</updated>
+    <summary type="text">By Oskar Schulz · 4m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Improving agent with semantic search</title>
+    <link href="https://cursor.com/blog/semsearch"/>
+    <id>9bd45877791b22a2066672dd668c67d5</id>
+    <published>2025-11-06T03:10:00.000Z</published>
+    <updated>2025-11-06T03:10:00.000Z</updated>
+    <summary type="text">By Stefan, Emily &amp; Naman · 4m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Inside Cursor: Sixty Days with the AI Coding Decacorn</title>
+    <link href="https://colossus.com/article/inside-cursor/"/>
+    <id>bf0e12eb4a426ab610353902cfecd677</id>
+    <published>2025-11-01T12:00:00.000Z</published>
+    <updated>2025-11-01T12:00:00.000Z</updated>
+    <summary type="text">Published on Colossus</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>Introducing Cursor for Enterprise</title>
+    <link href="https://cursor.com/blog/enterprise"/>
+    <id>20254b413dcfa093657ffdc7d6be9718</id>
+    <published>2025-10-31T19:23:00.000Z</published>
+    <updated>2025-10-31T19:23:00.000Z</updated>
+    <summary type="text">By Cursor Team · 5m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Cloud Agents</title>
+    <link href="https://cursor.com/blog/cloud-agents"/>
+    <id>1addd3e70b897e58d9bc47271f41e98d</id>
+    <published>2025-10-30T15:09:14.822Z</published>
+    <updated>2025-10-30T15:09:14.822Z</updated>
+    <summary type="text">By Cursor Team · 3m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Composer: Building a fast frontier model with RL</title>
+    <link href="https://cursor.com/blog/composer"/>
+    <id>72797f4bc29ce4fc8949fa57e44044d9</id>
+    <published>2025-10-29T06:49:00.000Z</published>
+    <updated>2025-10-29T06:49:00.000Z</updated>
+    <summary type="text">By Cursor Team · 5m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Introducing Cursor 2.0 and Composer</title>
+    <link href="https://cursor.com/blog/2-0"/>
+    <id>16ac91df57d399f53455bf80a67636b0</id>
+    <published>2025-10-29T04:54:48.600Z</published>
+    <updated>2025-10-29T04:54:48.600Z</updated>
+    <summary type="text">By Cursor Team · 3m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Introducing Plan Mode</title>
+    <link href="https://cursor.com/blog/plan-mode"/>
+    <id>0f6cad229df333ad601ec4c1bf363de4</id>
+    <published>2025-10-07T17:00:00.000Z</published>
+    <updated>2025-10-07T17:00:00.000Z</updated>
+    <summary type="text">By Jai Smith · 2m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Improving Java support in Cursor</title>
+    <link href="https://cursor.com/blog/java"/>
+    <id>1866979511cc6df42614f94170699026</id>
+    <published>2025-10-01T17:20:00.000Z</published>
+    <updated>2025-10-01T17:20:00.000Z</updated>
+    <summary type="text">By Cursor Team · 1m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Improving Cursor Tab with online RL</title>
+    <link href="https://cursor.com/blog/tab-rl"/>
+    <id>4eaac5f79b96da793ee14a0065eeac9a</id>
+    <published>2025-09-12T01:16:00.000Z</published>
+    <updated>2025-09-12T01:16:00.000Z</updated>
+    <summary type="text">By Jacob, Phillip &amp; Shomil · 6m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>1.5x faster MoE training with custom MXFP8 kernels</title>
+    <link href="https://cursor.com/blog/kernels"/>
+    <id>777f7c44f28e9709a2332664e6d163cf</id>
+    <published>2025-08-29T02:55:25.007Z</published>
+    <updated>2025-08-29T02:55:25.007Z</updated>
+    <summary type="text">By Stuart Sul · 22m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Bringing the Cursor Agent to Linear</title>
+    <link href="https://cursor.com/blog/linear"/>
+    <id>692cd668221e64873205434f24421d04</id>
+    <published>2025-08-21T07:00:00.000Z</published>
+    <updated>2025-08-21T07:00:00.000Z</updated>
+    <summary type="text">By Rohan Varma · 3m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Updates to Teams and Auto</title>
+    <link href="https://cursor.com/blog/aug-2025-pricing"/>
+    <id>ecdb82beb28fd0596a6a819c1ab4a47b</id>
+    <published>2025-08-12T07:00:00.000Z</published>
+    <updated>2025-08-12T07:00:00.000Z</updated>
+    <summary type="text">By Michael Truell · 2m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Cursor Agent CLI</title>
+    <link href="https://cursor.com/blog/cli"/>
+    <id>768ec8a0e70a33dbe8450fcd17788d16</id>
+    <published>2025-08-07T07:10:00.000Z</published>
+    <updated>2025-08-07T07:10:00.000Z</updated>
+    <summary type="text">By Lukas, Ian &amp; Balta · 2m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>GPT-5 is now available in Cursor</title>
+    <link href="https://cursor.com/blog/gpt-5"/>
+    <id>f2ab0f52f781357198c1913db54adc62</id>
+    <published>2025-08-07T07:00:00.000Z</published>
+    <updated>2025-08-07T07:00:00.000Z</updated>
+    <summary type="text">By Aman Sanger · 1m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Bugbot is out of beta</title>
+    <link href="https://cursor.com/blog/bugbot-out-of-beta"/>
+    <id>d58ca12c57c6a2c2517b17cf93743046</id>
+    <published>2025-07-24T07:00:00.000Z</published>
+    <updated>2025-07-24T07:00:00.000Z</updated>
+    <summary type="text">By Jon, Lee &amp; Rohan · 3m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Clarifying our pricing</title>
+    <link href="https://cursor.com/blog/june-2025-pricing"/>
+    <id>1b4ed78dfc182fa8ca7fa17547d3b071</id>
+    <published>2025-07-04T20:08:00.000Z</published>
+    <updated>2025-07-04T20:08:00.000Z</updated>
+    <summary type="text">By Michael Truell · 3m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Cursor on web and mobile</title>
+    <link href="https://cursor.com/blog/agent-web"/>
+    <id>9e2867da6c1b8dc807486cbcac937715</id>
+    <published>2025-06-30T23:09:00.000Z</published>
+    <updated>2025-06-30T23:09:00.000Z</updated>
+    <summary type="text">By Andrew &amp; Jason · 2m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Updates to Ultra and Pro</title>
+    <link href="https://cursor.com/blog/new-tier"/>
+    <id>1e8cf62be77e429b7eefba7a170bb216</id>
+    <published>2025-06-16T20:08:00.000Z</published>
+    <updated>2025-06-16T20:08:00.000Z</updated>
+    <summary type="text">By Michael Truell · 1m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Series C and Scale</title>
+    <link href="https://cursor.com/blog/series-c"/>
+    <id>66d8b54b6ac62bad514444e53d18ed1d</id>
+    <published>2025-06-06T20:08:00.000Z</published>
+    <updated>2025-06-06T20:08:00.000Z</updated>
+    <summary type="text">By Cursor Team · 1m read</summary>
+    <category term="company"/>
+  </entry>
+  <entry>
+    <title>Cursor, Hailed as Fastest Growing Startup Ever, Raises $900 Million</title>
+    <link href="https://www.bloomberg.com/news/articles/2025-06-05/anysphere-hailed-as-fastest-growing-startup-ever-raises-900-million"/>
+    <id>adad3f3394ebc700615c1d0525bcaef8</id>
+    <published>2025-06-05T20:47:00.000Z</published>
+    <updated>2025-06-05T20:47:00.000Z</updated>
+    <summary type="text">Published on Bloomberg</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>Early team</title>
+    <link href="https://cursor.com/blog/team"/>
+    <id>2f623600de4d210894d2c15ecf5213fd</id>
+    <published>2025-04-26T20:08:00.000Z</published>
+    <updated>2025-04-26T20:08:00.000Z</updated>
+    <summary type="text">By Sualeh Asif · 2m read</summary>
+    <category term="company"/>
+  </entry>
+  <entry>
+    <title>How AI Coding Tool Cursor is Changing the Way Developers Work</title>
+    <link href="https://www.fastcompany.com/91271112/anysphere-most-innovative-companies-2025"/>
+    <id>c7c5af6c02a975aa95f11f31c3757926</id>
+    <published>2025-03-18T20:52:00.000Z</published>
+    <updated>2025-03-18T20:52:00.000Z</updated>
+    <summary type="text">Published on Fast Company</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>Series B and Automating Code</title>
+    <link href="https://cursor.com/blog/series-b"/>
+    <id>6db471441f321741d3831bf83b94e420</id>
+    <published>2025-01-16T21:08:00.000Z</published>
+    <updated>2025-01-16T21:08:00.000Z</updated>
+    <summary type="text">By Cursor Team · 1m read</summary>
+    <category term="company"/>
+  </entry>
+  <entry>
+    <title>A new Tab model</title>
+    <link href="https://cursor.com/blog/tab-update"/>
+    <id>27e84c6452176351e906296fa588c084</id>
+    <published>2025-01-13T21:08:00.000Z</published>
+    <updated>2025-01-13T21:08:00.000Z</updated>
+    <summary type="text">By Phillip &amp; Jacob · 3m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Character Prefix Conditioning</title>
+    <link href="https://cursor.com/blog/cpc"/>
+    <id>d012cdef4c6c2df575007425339f1371</id>
+    <published>2025-01-06T21:08:00.000Z</published>
+    <updated>2025-01-06T21:08:00.000Z</updated>
+    <summary type="text">By Jacob Jackson · 2m read</summary>
+    <category term="product"/>
+  </entry>
+  <entry>
+    <title>Supermaven joins Cursor</title>
+    <link href="https://cursor.com/blog/supermaven"/>
+    <id>cebd22dd60ee53f810f8e113ede31765</id>
+    <published>2024-11-12T00:58:00.000Z</published>
+    <updated>2024-11-12T00:58:00.000Z</updated>
+    <summary type="text">By Michael Truell · 2m read</summary>
+    <category term="company"/>
+  </entry>
+  <entry>
+    <title>Iterating with shadow workspaces</title>
+    <link href="https://cursor.com/blog/shadow-workspace"/>
+    <id>0499bc58b7ab502a6c6d2c190caee25f</id>
+    <published>2024-09-01T23:58:00.000Z</published>
+    <updated>2024-09-01T23:58:00.000Z</updated>
+    <summary type="text">By Arvid Lunnemark · 20m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Series A and Magic</title>
+    <link href="https://cursor.com/blog/series-a"/>
+    <id>61ce35690d324a394f8c4113f219d165</id>
+    <published>2024-08-22T23:58:00.000Z</published>
+    <updated>2024-08-22T23:58:00.000Z</updated>
+    <summary type="text">By Cursor Team · 2m read</summary>
+    <category term="company"/>
+  </entry>
+  <entry>
+    <title>More problems</title>
+    <link href="https://cursor.com/blog/problems-2024"/>
+    <id>5f8a83e2a0f3ff3821bbb5e58adefb8a</id>
+    <published>2024-05-25T23:58:00.000Z</published>
+    <updated>2024-05-25T23:58:00.000Z</updated>
+    <summary type="text">By Aman Sanger · 7m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Editing Files at 1000 Tokens per Second</title>
+    <link href="https://cursor.com/blog/instant-apply"/>
+    <id>228a49b218a8a21105af460866349d22</id>
+    <published>2024-05-14T07:00:00.000Z</published>
+    <updated>2024-05-14T07:00:00.000Z</updated>
+    <summary type="text">By Aman Sanger · 9m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Our problems</title>
+    <link href="https://cursor.com/blog/problems-2023"/>
+    <id>cd9ec268db5cb6b9eb17ad0264e94c75</id>
+    <published>2023-10-12T23:58:00.000Z</published>
+    <updated>2023-10-12T23:58:00.000Z</updated>
+    <summary type="text">By Sualeh Asif · 5m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Inference characteristics of Llama</title>
+    <link href="https://cursor.com/blog/llama-inference"/>
+    <id>7725317106a212d5dccd2ac0956ff3bf</id>
+    <published>2023-07-20T16:11:00.000Z</published>
+    <updated>2023-07-20T16:11:00.000Z</updated>
+    <summary type="text">By Aman Sanger · 18m read</summary>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Prompt design</title>
+    <link href="https://cursor.com/blog/prompt-design"/>
+    <id>2c58bc0c8437b66f86b6cec32f8f284f</id>
+    <published>2023-06-11T23:58:00.000Z</published>
+    <updated>2023-06-11T23:58:00.000Z</updated>
+    <summary type="text">By Arvid Lunnemark · 6m read</summary>
+    <category term="ideas"/>
+  </entry>
+</feed>
