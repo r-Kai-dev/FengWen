@@ -4,29 +4,73 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-06-25T21:45:57+00:00</updated>
+  <updated>2026-06-26T18:23:14+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Claude Code v2.1.193 发布</title>
-    <link href="https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy"/>
-    <id>5b0b07c54e4d201f5c0dce4c406c2ff0</id>
-    <published>2026-06-25T21:45:57+00:00</published>
-    <updated>2026-06-25T21:45:57+00:00</updated>
-    <summary type="text">Score: 0.807\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>美国政府将决定谁可以使用GPT-5.6</title>
+    <link href="https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model"/>
+    <id>6b2d1beb66f1b24abe3ae141fadbd492</id>
+    <published>2026-06-26T18:23:14+00:00</published>
+    <updated>2026-06-26T18:23:14+00:00</updated>
+    <summary type="text">Score: 0.570\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制</title>
+    <link href="https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6"/>
+    <id>33ead445f18e0427c592cfdc9cb0118d</id>
+    <published>2026-06-26T18:08:58+00:00</published>
+    <updated>2026-06-26T18:08:58+00:00</updated>
+    <summary type="text">Score: 0.536\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring</title>
+    <link href="https://news.ycombinator.com/item?id=48688961"/>
+    <id>8ebd79716650fbc8f5c32f8acbfdf28a</id>
+    <published>2026-06-26T17:00:43+00:00</published>
+    <updated>2026-06-26T17:00:43+00:00</updated>
+    <summary type="text">Score: 0.529\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>华盛顿邮报报告：AI聊天机器人存在左翼偏见</title>
+    <link href="https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq"/>
+    <id>2e3847fe8491890c7635fbab872e6310</id>
+    <published>2026-06-26T16:51:17+00:00</published>
+    <updated>2026-06-26T16:51:17+00:00</updated>
+    <summary type="text">Score: 0.787\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates</title>
-    <link href="https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates"/>
-    <id>2acb3d641a17e5320f73400ba3613d33</id>
-    <published>2026-06-25T21:41:18+00:00</published>
-    <updated>2026-06-25T21:41:18+00:00</updated>
-    <summary type="text">Score: 0.867\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择</title>
+    <link href="https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox"/>
+    <id>3b9dc311a7f6b4fcce41ef62485d4255</id>
+    <published>2026-06-26T16:48:35+00:00</published>
+    <updated>2026-06-26T16:48:35+00:00</updated>
+    <summary type="text">Score: 0.527\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise</title>
+    <link href="https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise"/>
+    <id>d39e4f06f72507078043d7bdc430fc02</id>
+    <published>2026-06-26T16:35:06+00:00</published>
+    <updated>2026-06-26T16:35:06+00:00</updated>
+    <summary type="text">Score: 0.846\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -34,12 +78,113 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI</title>
-    <link href="https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli"/>
-    <id>2408f7cce89afe5c45098ae87a24d8c4</id>
-    <published>2026-06-25T21:30:42+00:00</published>
-    <updated>2026-06-25T21:30:42+00:00</updated>
-    <summary type="text">Score: 0.866\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Leaf 开源项目：将网红峰哥做成实时通话 AI 分身</title>
+    <link href="https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk"/>
+    <id>6ee5eccd29fffca419ecfcb83a002fb0</id>
+    <published>2026-06-26T15:37:43+00:00</published>
+    <updated>2026-06-26T15:37:43+00:00</updated>
+    <summary type="text">Score: 0.777\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic Economic Index 报告：使用节奏</title>
+    <link href="https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe"/>
+    <id>ba46156b46d1fc272d08e66fcfad9e2c</id>
+    <published>2026-06-26T15:18:56+00:00</published>
+    <updated>2026-06-26T15:18:56+00:00</updated>
+    <summary type="text">Score: 0.775\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>人工智能行业正向美国大选投入数百万美元</title>
+    <link href="https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds"/>
+    <id>614241b864f6e3ab4f89991684aff04a</id>
+    <published>2026-06-26T15:02:43+00:00</published>
+    <updated>2026-06-26T15:02:43+00:00</updated>
+    <summary type="text">Score: 0.563\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源</title>
+    <link href="https://www.aibase.com/news/29200"/>
+    <id>31c2a19222c45c762220cc4a93bb93f3</id>
+    <published>2026-06-26T10:51:21.158421+00:00</published>
+    <updated>2026-06-26T10:51:21.158421+00:00</updated>
+    <summary type="text">Score: 0.738\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜</title>
+    <link href="https://www.aibase.com/news/29203"/>
+    <id>898597251f336269b590a816eea17d76</id>
+    <published>2026-06-26T10:51:21.158421+00:00</published>
+    <updated>2026-06-26T10:51:21.158421+00:00</updated>
+    <summary type="text">Score: 0.738\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>扩产受限需求高涨，AI存储紧缺周期或将延续至明年末</title>
+    <link href="https://www.aibase.com/news/29199"/>
+    <id>073cfb14b673335ac58c97c71047e138</id>
+    <published>2026-06-26T10:51:21.158421+00:00</published>
+    <updated>2026-06-26T10:51:21.158421+00:00</updated>
+    <summary type="text">Score: 0.738\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品</title>
+    <link href="https://www.aibase.com/news/29205"/>
+    <id>2a11b0bc30bd0e5db9b9c6e422754cd4</id>
+    <published>2026-06-26T10:51:21.158421+00:00</published>
+    <updated>2026-06-26T10:51:21.158421+00:00</updated>
+    <summary type="text">Score: 0.738\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力</title>
+    <link href="https://www.aibase.com/news/29201"/>
+    <id>c222d51842b4d74030a328fb4bd27bf8</id>
+    <published>2026-06-26T10:51:21.158421+00:00</published>
+    <updated>2026-06-26T10:51:21.158421+00:00</updated>
+    <summary type="text">Score: 0.738\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段</title>
+    <link href="https://www.aibase.com/news/29204"/>
+    <id>9821f15d9544c5b938a5a552db206dd6</id>
+    <published>2026-06-26T10:51:21.158421+00:00</published>
+    <updated>2026-06-26T10:51:21.158421+00:00</updated>
+    <summary type="text">Score: 0.738\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration</title>
+    <link href="https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration"/>
+    <id>ab3053f050dd5b2809fe4606caadf641</id>
+    <published>2026-06-26T10:32:58+00:00</published>
+    <updated>2026-06-26T10:32:58+00:00</updated>
+    <summary type="text">Score: 0.796\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -47,194 +192,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Codex 在 ChatGPT 移动 App 正式可用</title>
-    <link href="https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u"/>
-    <id>33e63f6fed45e592578396b8ac4a5a3f</id>
-    <published>2026-06-25T21:15:18+00:00</published>
-    <updated>2026-06-25T21:15:18+00:00</updated>
-    <summary type="text">Score: 0.803\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>美国政府要求OpenAI暂缓GPT-5.6广泛发布</title>
-    <link href="https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny"/>
-    <id>5d50a293337fdc55b8fcb74684e909ac</id>
-    <published>2026-06-25T21:06:58+00:00</published>
-    <updated>2026-06-25T21:06:58+00:00</updated>
-    <summary type="text">Score: 0.801\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Midjourney 预览 V8.2 并加速草稿模式</title>
-    <link href="https://aihot.virxact.com/items/cmqtvqfrt07aksl0et0cawoue"/>
-    <id>08bfa4781b39eb2c6e54fa866cc41d50</id>
-    <published>2026-06-25T19:11:05+00:00</published>
-    <updated>2026-06-25T19:11:05+00:00</updated>
-    <summary type="text">Score: 0.785\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 内部论文：Codex 已占 99.8% 内部输出 tokens，智能体正向全部门扩散</title>
-    <link href="https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw"/>
-    <id>8a0e69a9b31a35e2895c103921e55d6f</id>
-    <published>2026-06-25T19:04:32+00:00</published>
-    <updated>2026-06-25T19:04:32+00:00</updated>
-    <summary type="text">Score: 0.784\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>IBM 首度推出亚纳米级芯片技术</title>
-    <link href="https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw"/>
-    <id>7cf86c625fa556af7baea2c7ae0c4378</id>
-    <published>2026-06-25T18:52:05+00:00</published>
-    <updated>2026-06-25T18:52:05+00:00</updated>
-    <summary type="text">Score: 0.783\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Midjourney V8.1 草稿模式新增随机风格功能</title>
-    <link href="https://aihot.virxact.com/items/cmqtv6jlv0766sl0eixynhk6m"/>
-    <id>0c66a82a2f97e9cfc22813a7ab13826a</id>
-    <published>2026-06-25T18:50:16+00:00</published>
-    <updated>2026-06-25T18:50:16+00:00</updated>
-    <summary type="text">Score: 0.782\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Runway发布Agent 2.0</title>
-    <link href="https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp"/>
-    <id>75497d9dedc58e218a8fb46b82bb1b19</id>
-    <published>2026-06-25T18:41:58+00:00</published>
-    <updated>2026-06-25T18:41:58+00:00</updated>
-    <summary type="text">Score: 0.781\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects</title>
-    <link href="https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects"/>
-    <id>515105c7f6c1cef66737e14173a2b14c</id>
-    <published>2026-06-25T18:29:01+00:00</published>
-    <updated>2026-06-25T18:29:01+00:00</updated>
-    <summary type="text">Score: 0.829\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OLMo Hybrid vs Transformer：混合模型在实义词上优势明显，但重复短语上几无优势</title>
-    <link href="https://aihot.virxact.com/items/cmqtpf8w405opsl0e2ldkd1q1"/>
-    <id>2a15694805c5b6a3a525476fcd9ee8f3</id>
-    <published>2026-06-25T16:11:42+00:00</published>
-    <updated>2026-06-25T16:11:42+00:00</updated>
-    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>多数主流AI聊天机器人政治立场偏左，&quot;反觉醒&quot;模型也不例外</title>
-    <link href="https://aihot.virxact.com/items/cmqtp5syl05k5sl0ec5cvuedt"/>
-    <id>bd06e13b32e40cad9d53a6d9616bc8ee</id>
-    <published>2026-06-25T16:04:32+00:00</published>
-    <updated>2026-06-25T16:04:32+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Gemini 3.5 Flash 的 Computer Use 工具正式可用</title>
-    <link href="https://aihot.virxact.com/items/cmqtpdugb05nnsl0e5e1zykrd"/>
-    <id>f80f0e31faa79fd02056138e1e521337</id>
-    <published>2026-06-25T16:00:25+00:00</published>
-    <updated>2026-06-25T16:00:25+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>General Intuition 完成 3.2 亿美元融资，用游戏数据训练通用 AI 智能体</title>
-    <link href="https://aihot.virxact.com/items/cmqtq76j105ubsl0e8j4fy8se"/>
-    <id>c7b79fe8ce538cd067cf264babc08d4e</id>
-    <published>2026-06-25T16:00:00+00:00</published>
-    <updated>2026-06-25T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google Finance 全新 Android 应用与投资组合功能上线</title>
-    <link href="https://aihot.virxact.com/items/cmqtp7ycw05lbsl0ei7dpsv19"/>
-    <id>f6cda9e9e8564f8fa387bf3e53e2ea5e</id>
-    <published>2026-06-25T16:00:00+00:00</published>
-    <updated>2026-06-25T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>我们最新的 Google 财经升级，包括新应用 / Our latest Google Finance upgrades, including a new app</title>
-    <link href="https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026"/>
-    <id>a68c3206437eea64fdb269537211b887</id>
-    <published>2026-06-25T16:00:00+00:00</published>
-    <updated>2026-06-25T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.808\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模</title>
-    <link href="https://aihot.virxact.com/items/cmqtpj36o05pusl0e9ingyoye"/>
-    <id>fd7858e2311bc9258554ed538d9bb979</id>
-    <published>2026-06-25T15:30:41+00:00</published>
-    <updated>2026-06-25T15:30:41+00:00</updated>
-    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>法典 CLI 0.142.1 / Codex CLI 0.142.1</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>06b27f46f7563065760e4e95cbbc7ca0</id>
-    <published>2026-06-25T00:00:00+00:00</published>
-    <updated>2026-06-25T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.757\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model</title>
+    <link href="https://openai.com/index/previewing-gpt-5-6-sol"/>
+    <id>4577cd74ec0b29867b479059b1f82903</id>
+    <published>2026-06-26T10:00:00+00:00</published>
+    <updated>2026-06-26T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.853\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="multi_source"/>
@@ -243,11 +206,34 @@
     <category term="official"/>
   </entry>
   <entry>
+    <title>OpenAI 预览新一代模型 GPT-5.6 Sol</title>
+    <link href="https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4"/>
+    <id>00a8b8132bd87c0415bd0676b03a0621</id>
+    <published>2026-06-26T10:00:00+00:00</published>
+    <updated>2026-06-26T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.730\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子</title>
+    <link href="https://www.aibase.com/news/29198"/>
+    <id>78a743662fd3e143248cc0586d6218b6</id>
+    <published>2026-06-26T07:52:52.355645+00:00</published>
+    <updated>2026-06-26T07:52:52.355645+00:00</updated>
+    <summary type="text">Score: 0.738\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
     <title>点击这里进入 / Click here to enter</title>
-    <link href="http://ai.hubtoday.app/?tr_uuid=20260626-0825-0457-a33e-4afa3725c7fe&amp;fp=-3"/>
+    <link href="http://ai.hubtoday.app/?tr_uuid=20260627-0548-275d-b9cd-e28e6aeed40b&amp;fp=-3"/>
     <id>ac691b002c5214725c49c4af90dff4ff</id>
-    <published>2026-06-24T22:46:55.478437+00:00</published>
-    <updated>2026-06-24T22:46:55.478437+00:00</updated>
+    <published>2026-06-25T20:56:55.009478+00:00</published>
+    <updated>2026-06-25T20:56:55.009478+00:00</updated>
     <summary type="text">Score: 0.912\nSources: 10 (AI HubToday)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>

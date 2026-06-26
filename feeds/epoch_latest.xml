@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/assets/logo/logo.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-06-24T00:00:00+00:00</updated>
+  <updated>2026-06-26T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>MirrorCode: What's the largest software project AI can complete on its own?</title>
+    <link href="https://epoch.ai/MirrorCode"/>
+    <id>3c542e87dc2fa51155301339509df5e3</id>
+    <published>2026-06-26T00:00:00+00:00</published>
+    <updated>2026-06-26T00:00:00+00:00</updated>
+    <summary type="text">MirrorCode is Epoch AI's benchmark for long-horizon coding: AI can reimplement entire programs end-to-end, with no access to the original source code.</summary>
+    <category term="Paper"/>
+  </entry>
   <entry>
     <title>What we learned from 1,604 Chinese AI job postings</title>
     <link href="https://epoch.ai/gradient-updates/what-we-learned-from-1604-chinese-ai-job-postings"/>
@@ -84,13 +93,5 @@
     <updated>2026-05-25T00:00:00+00:00</updated>
     <summary type="text">We estimated trends in global inference capacity and found that token demand appears to be growing much faster than supply.</summary>
     <category term="Newsletter"/>
-  </entry>
-  <entry>
-    <title>Memory has grown to nearly two-thirds of AI chip component costs</title>
-    <link href="https://epoch.ai/data-insights/ai-chip-component-cost-shares"/>
-    <id>01e851299cd80fd79b10171c716ff7e4</id>
-    <published>2026-05-21T00:00:00+00:00</published>
-    <updated>2026-05-21T00:00:00+00:00</updated>
-    <category term="Data Insight"/>
   </entry>
 </feed>

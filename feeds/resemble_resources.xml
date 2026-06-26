@@ -4,10 +4,19 @@
   <icon>https://www.resemble.ai/favicon.ico</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-06-24T00:00:00+00:00</updated>
+  <updated>2026-06-26T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>The Deepfake Watchlist: Week of June 19-25, 2026</title>
+    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-june-19-25-2026"/>
+    <id>8b1d1ed59a952a8e69469118733c23b6</id>
+    <published>2026-06-26T00:00:00+00:00</published>
+    <updated>2026-06-26T00:00:00+00:00</updated>
+    <summary type="text">‍The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
+    <category term="Deepfake Watchlist"/>
+  </entry>
   <entry>
     <title>How Deepfake Detection in Forensics Strengthens Case Review</title>
     <link href="https://www.resemble.ai/resources/how-deepfake-detection-in-forensics-strengthens-case-review"/>
@@ -106,14 +115,5 @@
     <updated>2026-05-27T00:00:00+00:00</updated>
     <summary type="text">Podonos ran a neutral benchmark across 8 audio deepfake detection systems. Resemble AI ranked #1 at 98.1%. Here's what the full results actually mean for buyers.</summary>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>The dragon said &quot;spaghetti.&quot; A six-year-old lost her mind. Inside the voice pipeline that made Crayola Adventures an Apple Design Award winner.</title>
-    <link href="https://www.resemble.ai/resources/the-dragon-said-spaghetti-a-six-year-old-lost-her-mind-inside-the-voice-pipeline-that-made-crayola-adventures-an-apple-design-award-winner"/>
-    <id>0877f9b78ce99fb45dcab0d29ba1bf49</id>
-    <published>2026-05-25T00:00:00+00:00</published>
-    <updated>2026-05-25T00:00:00+00:00</updated>
-    <summary type="text">Without a solution, the game didn't ship. RED Games needed a way to narrate open player input, in real time, across 13 languages, without it sounding like a robot. Here's what they built on Resemble AI.</summary>
-    <category term="Case study"/>
   </entry>
 </feed>

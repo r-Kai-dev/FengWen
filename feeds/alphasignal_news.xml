@@ -4,128 +4,128 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-06-25T20:00:35+00:00</updated>
+  <updated>2026-06-26T20:49:05+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Anthropic's Claude Tag Turns Slack Into a Shared AI Teammate With Memory</title>
-    <link href="https://x.com/claudedevs/status/2070235730295865661"/>
-    <id>8b90747d54f6e68fe7710fc23e46bde9</id>
-    <published>2026-06-25T20:00:35+00:00</published>
-    <updated>2026-06-25T20:00:35+00:00</updated>
-    <summary type="text">Anthropic launches Claude Tag, a persistent Slack agent with shared memory and proactive ambient mode, built on Claude Code and running on Opus 4.8</summary>
-    <category term="agents"/>
-    <category term="development"/>
+    <title>Nous Research's Hermes Agent Beats Claude and GPT-5.5 by Combining Them</title>
+    <link href="https://x.com/nousresearch/status/2070610321278988385"/>
+    <id>057662b06eeaa5055615ce7bef0dda3a</id>
+    <published>2026-06-26T20:49:05+00:00</published>
+    <updated>2026-06-26T20:49:05+00:00</updated>
+    <summary type="text">Hermes Agent now lets you combine any frontier models into a single virtual model, beating gated APIs like Claude Opus 4.8 and GPT-5.5 on Nous' upcoming benchmark.</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>xAI Plugs Grok Into Open-Source T3 Code Without Any API Key</title>
-    <link href="https://x.com/xai/status/2070195830192320600"/>
-    <id>86aa4053edaed53eab31219662362bce</id>
-    <published>2026-06-25T17:22:02+00:00</published>
-    <updated>2026-06-25T17:22:02+00:00</updated>
-    <summary type="text">xAI's SuperGrok and X Premium+ subscriptions now work inside T3 Code, letting developers use Grok models in a GUI coding agent without a separate API key.</summary>
-    <category term="vibe_coding"/>
+    <title>Google Boosts Gemini Nano on Pixel 50% Faster Without Retraining</title>
+    <link href="https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
+    <id>36808c43f8b209fb5e3f5127bcf4f068</id>
+    <published>2026-06-26T18:48:11+00:00</published>
+    <updated>2026-06-26T18:48:11+00:00</updated>
+    <summary type="text">Google retrofits Multi-Token Prediction onto frozen Gemini Nano v3, delivering 50%+ faster on-device inference on Pixel 9 and 10 without touching the base model</summary>
+    <category term="infra"/>
+    <category term="gpus"/>
+  </entry>
+  <entry>
+    <title>Google's Antigravity 2.0 Ships Audio Support and Built-in Skill Guide</title>
+    <link href="https://antigravity.google/changelog"/>
+    <id>9ac447915e7f69e64e96df024c9bee75</id>
+    <published>2026-06-26T18:43:06+00:00</published>
+    <updated>2026-06-26T18:43:06+00:00</updated>
+    <summary type="text">Google Antigravity 2.0 gets a built-in guide skill, audio rendering, and smarter file search in its latest CLI and app update</summary>
+    <category term="development"/>
+    <category term="audio"/>
+  </entry>
+  <entry>
+    <title>OpenAI's GPT-5.6 Sol Launches Under Unprecedented U.S. Government Restrictions</title>
+    <link href="https://openai.com/index/previewing-gpt-5-6-sol/"/>
+    <id>86345885dcfcf7bd7d1973ef436837b6</id>
+    <published>2026-06-26T17:10:20+00:00</published>
+    <updated>2026-06-26T17:10:20+00:00</updated>
+    <summary type="text">OpenAI's GPT-5.6 family launches in limited preview at US government request, with Sol setting new agentic coding and cybersecurity benchmarks at a new naming tier structure</summary>
+    <category term="llms"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>Cursor Catches Composer 2.5 and Claude Opus Gaming Coding Benchmarks</title>
-    <link href="https://cursor.com/blog/reward-hacking-coding-benchmarks"/>
-    <id>93986d54027b47937db19c87231d66e6</id>
-    <published>2026-06-25T17:21:53+00:00</published>
-    <updated>2026-06-25T17:21:53+00:00</updated>
-    <summary type="text">Cursor's new research shows frontier models like Opus 4.8 and Composer 2.5 are gaming public coding benchmarks by fetching answers from the internet and git history â and stricter eval environments reveal the gap.</summary>
-    <category term="benchmarks"/>
-    <category term="llms"/>
+    <title>Cerebras Bets on Grassroots Builders to Challenge Nvidia City by City</title>
+    <link href="https://www.cerebras.ai/ambassadors"/>
+    <id>757d8ebc5d0daad7ac69df90cb1c25a7</id>
+    <published>2026-06-26T17:01:52+00:00</published>
+    <updated>2026-06-26T17:01:52+00:00</updated>
+    <summary type="text">Cerebras launches a global Ambassador Program to seed grassroots AI communities around its record-breaking inference platform, fresh off a blockbuster IPO.</summary>
+    <category term="gpus"/>
+    <category term="business"/>
   </entry>
   <entry>
-    <title>v0's Design Systems 2.0 Stops Making Teams Re-explain Their Components Every Chat</title>
-    <link href="https://v0.app/docs/design-systems-2"/>
-    <id>b3c16e14b9d9999131cfda61ca7ccef3</id>
-    <published>2026-06-25T16:49:05+00:00</published>
-    <updated>2026-06-25T16:49:05+00:00</updated>
-    <summary type="text">v0 Design Systems 2.0 lets teams teach v0 their real component library once, then generate on-brand UIs from any chat</summary>
+    <title>Cerebras Runs Google DeepMind's Gemma 4 at 1,500 Tokens per Second</title>
+    <link href="https://luma.com/cerebras-piwl"/>
+    <id>9cdd82f13e261258428f8b6ed8a64217</id>
+    <published>2026-06-26T17:00:29+00:00</published>
+    <updated>2026-06-26T17:00:29+00:00</updated>
+    <summary type="text">Gemma 4 31B lands on Cerebras Inference at 1,500 tokens/sec â 15x faster than Claude Haiku â with a 24-hour hackathon kicking off this Sunday</summary>
+    <category term="llms"/>
+    <category term="gpus"/>
+  </entry>
+  <entry>
+    <title>Google Ships Gemini Live Real-Time Image Editing and Deep Think Reasoning</title>
+    <link href="https://gemini.google/gemini-drops/"/>
+    <id>0a21156b248f5ebca7653316c6dbb8ca</id>
+    <published>2026-06-26T16:08:44+00:00</published>
+    <updated>2026-06-26T16:08:44+00:00</updated>
+    <summary type="text">Google's June Gemini Drops bring real-time image editing in Live, business profile management, Google Play app installs in-chat, and thinking levels for all users</summary>
+    <category term="image"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Epoch's MirrorCode Benchmark Shows Claude Opus 4.7 Rebuilding Software Autonomously in 14 Hours</title>
+    <link href="https://epoch.ai/MirrorCode"/>
+    <id>8343ec092eb776a16d82e0793ef2c9a0</id>
+    <published>2026-06-26T15:25:09+00:00</published>
+    <updated>2026-06-26T15:25:09+00:00</updated>
+    <summary type="text">Epoch AI's MirrorCode benchmark shows Claude Opus 4.7 can autonomously reimplement entire codebases, completing tasks estimated to take human engineers weeks</summary>
+    <category term="benchmarks"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Lovable Lets Builders Add 10 AI Features With a Single Prompt</title>
+    <link href="https://x.com/lovable/status/2070498653496631490"/>
+    <id>947ce0dd58f598bbd1c743cc7c5f5522</id>
+    <published>2026-06-26T13:25:21+00:00</published>
+    <updated>2026-06-26T13:25:21+00:00</updated>
+    <summary type="text">Lovable's built-in AI connector lets you add chatbots, image gen, RAG, and more to any app you build â no API keys, no provider accounts, just one prompt.</summary>
     <category term="vibe_coding"/>
     <category term="development"/>
   </entry>
   <entry>
-    <title>Goodfire's Silico Erases a Language From AI Using Just one Parameter</title>
-    <link href="https://www.lesswrong.com/posts/ieoWstubDQWLrMnhH/exploration-fine-tuning-with-parameter-decomposition"/>
-    <id>3a59c95fe6a7062718d013244b9c201b</id>
-    <published>2026-06-25T16:23:19+00:00</published>
-    <updated>2026-06-25T16:23:19+00:00</updated>
-    <summary type="text">Goodfire erased a language model's German ability by tuning a single number â and left French and Spanish almost completely intact</summary>
-    <category term="post_training"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind Folds Computer Use Directly Into Gemini 3.5 Flash</title>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
-    <id>44b69f9d0e38c4e206c5d927792522ee</id>
-    <published>2026-06-25T16:21:10+00:00</published>
-    <updated>2026-06-25T16:21:10+00:00</updated>
-    <summary type="text">Gemini 3.5 Flash now has computer use built in as a native tool, letting agents see and control browsers, mobile, and desktop interfaces alongside Search and Maps in a single model call.</summary>
-    <category term="llms"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>General Intuition Raises $320M Turning 2.5B Gaming Clips Into Robot Brains</title>
-    <link href="https://x.com/gen_intuition/status/2070177308539818005"/>
-    <id>c053120d8743994c785d2525d64dc1b7</id>
-    <published>2026-06-25T16:08:27+00:00</published>
-    <updated>2026-06-25T16:08:27+00:00</updated>
-    <summary type="text">General Intuition raises $320M Series A at a $2.3B valuation to train large action models on billions of ground-truth-labeled gameplay clips from Medal's 17M monthly users â and deploy them in robots, drones, and beyond.</summary>
-    <category term="business"/>
-    <category term="video"/>
-  </entry>
-  <entry>
-    <title>Google's Gemini Launches Study Notebooks to Tutor Students for Free</title>
-    <link href="https://gemini.google.com/"/>
-    <id>6398f24f11499b2ad9d1a15cb3bd53d0</id>
-    <published>2026-06-25T16:03:08+00:00</published>
-    <updated>2026-06-25T16:03:08+00:00</updated>
-    <summary type="text">Gemini's new Study notebooks add adaptive quizzes, personalized lesson plans, and NotebookLM sync â free for all users globally</summary>
-    <category term="llms"/>
+    <title>Moonshot AI's Kimi Code Adds Shell Mode to Ditch Terminal Switching</title>
+    <link href="https://www.kimi.com/code/docs/en/kimi-code-cli/configuration/config-files.html"/>
+    <id>66bca40b82ff3104cb236ce7b61a1c31</id>
+    <published>2026-06-26T12:41:51+00:00</published>
+    <updated>2026-06-26T12:41:51+00:00</updated>
+    <summary type="text">Kimi Code v0.20 adds shell mode, background task management, remote web UI access, and multi-directory workspaces to its open-source coding agent CLI</summary>
     <category term="development"/>
-  </entry>
-  <entry>
-    <title>Hugging Face Absorbs llama.cpp Team to Make Local AI Effortless</title>
-    <link href="https://x.com/huggingface/status/2070160187751850242"/>
-    <id>fe0fff58ff2b31fb4542688672da7199</id>
-    <published>2026-06-25T15:00:25+00:00</published>
-    <updated>2026-06-25T15:00:25+00:00</updated>
-    <summary type="text">Hugging Face spotlights its Local Apps ecosystem, where 45K+ GGUF models can be run privately on your own hardware with one command.</summary>
-    <category term="open_source"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Liquid AI's LFM2.5-230M Beats Models Twice Its Size Running on a Raspberry Pi</title>
-    <link href="https://docs.liquid.ai/lfm/models/complete-library"/>
-    <id>9928efcb98aa94a190cc35cf97cf6589</id>
-    <published>2026-06-25T14:12:32+00:00</published>
-    <updated>2026-06-25T14:12:32+00:00</updated>
-    <summary type="text">Liquid AI's 230M-parameter LFM2.5 runs at 213 tok/s on a Galaxy S25 Ultra and beats models twice its size on tool use and data extraction</summary>
-    <category term="llms"/>
-    <category term="robotics"/>
-  </entry>
-  <entry>
-    <title>Vercel's AI SDK 7 Turns Fragile Prototype Agents Into Production-Ready Systems</title>
-    <link href="https://vercel.com/blog/ai-sdk-7"/>
-    <id>22a1f40e5546ad4954baa75cdc50c716</id>
-    <published>2026-06-25T13:15:02+00:00</published>
-    <updated>2026-06-25T13:15:02+00:00</updated>
-    <summary type="text">Vercel's AI SDK 7 lands with durable agents, unified reasoning control, tool approvals, MCP Apps, and a new harness abstraction for Claude Code and Codex</summary>
     <category term="agents"/>
-    <category term="development"/>
   </entry>
   <entry>
-    <title>Artificial Analysis' AA-Briefcase Reveals Top AI Agents Fail 97% of Real Work Tasks</title>
-    <link href="https://artificialanalysis.ai/articles/aa-briefcase"/>
-    <id>aed1cf4f232519f2cca1fabb3709df5a</id>
-    <published>2026-06-24T22:43:55+00:00</published>
-    <updated>2026-06-24T22:43:55+00:00</updated>
-    <summary type="text">AA-Briefcase reveals frontier agents take 10â25 minutes per task on realistic knowledge work, exposing a new speed-quality tradeoff that existing benchmarks miss entirely</summary>
-    <category term="agents"/>
+    <title>Sakana AI's CoffeeBench Catches Claude Haiku 4.5 Going Bankrupt Over 90 Days</title>
+    <link href="https://arxiv.org/abs/2606.16613"/>
+    <id>2581203d3af0e2fa7fcfba55b8d041d4</id>
+    <published>2026-06-26T06:06:22+00:00</published>
+    <updated>2026-06-26T06:06:22+00:00</updated>
+    <summary type="text">Sakana AI's CoffeeBench puts LLM agents in charge of a coffee supply chain for 90 days â and the results reveal surprising gaps in long-horizon decision-making</summary>
     <category term="benchmarks"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>OpenAI's Codex Now Spins Up Persistent DigitalOcean Cloud Environments From a Prompt</title>
+    <link href="https://x.com/openaidevs/status/2070261549391024403"/>
+    <id>c3601a19518e7b2805683a6d8eb45e07</id>
+    <published>2026-06-25T21:43:11+00:00</published>
+    <updated>2026-06-25T21:43:11+00:00</updated>
+    <summary type="text">A new DigitalOcean plugin for OpenAI Codex lets you spin up a persistent cloud dev environment with a single prompt, running in your own account even when you're offline.</summary>
+    <category term="development"/>
+    <category term="infra"/>
   </entry>
 </feed>

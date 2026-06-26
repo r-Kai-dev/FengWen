@@ -4,14 +4,30 @@
   <icon>https://www.alphaxiv.org/favicon.ico</icon>
   <link href="https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days"/>
   <id>https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days</id>
-  <updated>2026-06-23T00:00:00+00:00</updated>
+  <updated>2026-06-25T00:00:00+00:00</updated>
   <author>
     <name>alphaXiv</name>
   </author>
   <entry>
-    <title>OpenThoughts-Agent: Data Recipes for Agentic Models</title>
-    <link href="https://arxiv.org/abs/2606.24855"/>
-    <id>c78a306dfad485ef925c90d322c6dff4</id>
+    <title>Autodata: An agentic data scientist to create high quality synthetic data</title>
+    <link href="https://arxiv.org/abs/2606.25996"/>
+    <id>2b98dcaab461b9bff187f42b52aaff44</id>
+    <published>2026-06-25T00:00:00+00:00</published>
+    <updated>2026-06-25T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models</title>
+    <link href="https://arxiv.org/abs/2606.25041"/>
+    <id>daa976fdfc424cb4dc0d3d79877619aa</id>
+    <published>2026-06-25T00:00:00+00:00</published>
+    <updated>2026-06-25T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>Are We Ready For An Agent-Native Memory System?</title>
+    <link href="https://arxiv.org/abs/2606.24775"/>
+    <id>7807cc9540bbee06eccdb49e93511e2e</id>
     <published>2026-06-23T00:00:00+00:00</published>
     <updated>2026-06-23T00:00:00+00:00</updated>
     <category term="hot"/>
@@ -25,25 +41,9 @@
     <category term="hot"/>
   </entry>
   <entry>
-    <title>Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models</title>
-    <link href="https://arxiv.org/abs/2606.25041"/>
-    <id>daa976fdfc424cb4dc0d3d79877619aa</id>
-    <published>2026-06-23T00:00:00+00:00</published>
-    <updated>2026-06-23T00:00:00+00:00</updated>
-    <category term="hot"/>
-  </entry>
-  <entry>
-    <title>Tmax: A simple recipe for terminal agents</title>
-    <link href="https://arxiv.org/abs/2606.23321"/>
-    <id>0d54462572ff2c44b5e1260ecf71ff59</id>
-    <published>2026-06-22T00:00:00+00:00</published>
-    <updated>2026-06-22T00:00:00+00:00</updated>
-    <category term="hot"/>
-  </entry>
-  <entry>
-    <title>Unlimited OCR Works</title>
-    <link href="https://arxiv.org/abs/2606.23050"/>
-    <id>50df7abe3bad1dd92e3f482c43a40163</id>
+    <title>You Don't Need to Run Every Eval</title>
+    <link href="https://arxiv.org/abs/2606.24020"/>
+    <id>e28cb1688c76113d52fc8bbe76a00a6d</id>
     <published>2026-06-22T00:00:00+00:00</published>
     <updated>2026-06-22T00:00:00+00:00</updated>
     <category term="hot"/>
