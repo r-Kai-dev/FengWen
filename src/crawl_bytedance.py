@@ -81,7 +81,7 @@ def extract_papers(soup, base_url):
         cats = [cat_el.get_text(strip=True)] if cat_el else []
         pub = parse_date(date_str) or datetime.now(timezone.utc).isoformat()
         slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
-        url = f"{base_url.rstrip('/')}/publication/{slug}"
+        url = f"{base_url.rstrip('/')}/public_papers/{slug}"
         item_id = hashlib.md5(f"bytedance_papers_{title}".encode()).hexdigest()
         items.append(compact({
             "id": item_id, "source": "bytedance", "type": "public_papers",
