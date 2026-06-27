@@ -4,19 +4,69 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-06-26T20:49:05+00:00</updated>
+  <updated>2026-06-27T17:30:44+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Nous Research's Hermes Agent Beats Claude and GPT-5.5 by Combining Them</title>
-    <link href="https://x.com/nousresearch/status/2070610321278988385"/>
-    <id>057662b06eeaa5055615ce7bef0dda3a</id>
-    <published>2026-06-26T20:49:05+00:00</published>
-    <updated>2026-06-26T20:49:05+00:00</updated>
-    <summary type="text">Hermes Agent now lets you combine any frontier models into a single virtual model, beating gated APIs like Claude Opus 4.8 and GPT-5.5 on Nous' upcoming benchmark.</summary>
+    <title>OpenAI's Codex Desktop App Gets Smoother Navigation for Long AI Threads</title>
+    <link href="https://x.com/openaidevs/status/2070922791529091376"/>
+    <id>fbaa4caaf79ec5f13ddfe11551201026</id>
+    <published>2026-06-27T17:30:44+00:00</published>
+    <updated>2026-06-27T17:30:44+00:00</updated>
+    <summary type="text">OpenAI ships a batch of Codex app polish: smoother long-thread scrolling, a new navigation rail, better Settings search, and zoom-level UI fixes.</summary>
+    <category term="development"/>
+    <category term="vibe_coding"/>
+  </entry>
+  <entry>
+    <title>Sakana AI's Fugu-Ultra Hits Vercel by Orchestrating Frontier Models as One</title>
+    <link href="https://vercel.com/changelog/sakana-fugu-ultra-now-available-on-ai-gateway"/>
+    <id>cf500dabfc158360d4af23f5cc237d11</id>
+    <published>2026-06-27T11:47:19+00:00</published>
+    <updated>2026-06-27T11:47:19+00:00</updated>
+    <summary type="text">Sakana AI's Fugu-Ultra, a multi-agent orchestration system rivaling frontier models, is now one API call away on Vercel's AI Gateway with no markup pricing and BYOK support.</summary>
     <category term="llms"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Mythos 5 Returns After US Government Lifts Infrastructure Ban</title>
+    <link href="https://x.com/anthropicai/status/2070665903440871779"/>
+    <id>5c8ef46db0847a421c4ec7eac2311a8b</id>
+    <published>2026-06-27T00:29:57+00:00</published>
+    <updated>2026-06-27T00:29:57+00:00</updated>
+    <summary type="text">After a 15-day government-ordered freeze over jailbreak fears, Anthropic's most powerful cybersecurity AI is back online for critical infrastructure defenders</summary>
+    <category term="government"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Google AI Studio Ships Design Variations to Fix Vibe Coding's Biggest Flaw</title>
+    <link href="https://aistudio.google.com/welcome"/>
+    <id>d841fb1c9e2fc210493799c567aee981</id>
+    <published>2026-06-26T20:42:15+00:00</published>
+    <updated>2026-06-26T20:42:15+00:00</updated>
+    <summary type="text">Google AI Studio's new Design Variations button generates multiple UI layouts instantly, solving the hardest part of vibe coding: describing visual aesthetics</summary>
+    <category term="vibe_coding"/>
+    <category term="image"/>
+  </entry>
+  <entry>
+    <title>NVIDIA's Nemotron 3 Ultra Tops US Open-Weight AI on Brutal New Job Benchmark</title>
+    <link href="https://artificialanalysis.ai/evaluations/aa-briefcase?models=muse-spark,gemma-4-31b,mistral-medium-3-5,deepseek-v4-pro,deepseek-v4-flash,solar-pro-3,minimax-m3,nvidia-nemotron-3-ultra-550b-a55b,kimi-k2-6,mimo-v2-5-pro,k2-think-v2,glm-5-2,qwen3-7-max,qwen3-5-397b-a17b&amp;linkId=100000428178544"/>
+    <id>ab03fe20184afd651fe378e5f893eb4c</id>
+    <published>2026-06-26T20:19:11+00:00</published>
+    <updated>2026-06-26T20:19:11+00:00</updated>
+    <summary type="text">Artificial Analysis launches AA-Briefcase, a new agentic benchmark for long-horizon knowledge work, where NVIDIA's Nemotron 3 Ultra ranks among the top open models</summary>
     <category term="benchmarks"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis Ships Model Sets to Cut Repetitive Comparisons Across 542 Models</title>
+    <link href="https://x.com/artificialanlys/status/2070588196975784339"/>
+    <id>480bf6f1ee572e55face6fdb73d33d81</id>
+    <published>2026-06-26T19:21:10+00:00</published>
+    <updated>2026-06-26T19:21:10+00:00</updated>
+    <summary type="text">Artificial Analysis launches Model Sets, letting users save and instantly apply custom model groups across all benchmark charts on the platform.</summary>
+    <category term="benchmarks"/>
+    <category term="llms"/>
   </entry>
   <entry>
     <title>Google Boosts Gemini Nano on Pixel 50% Faster Without Retraining</title>
@@ -39,6 +89,26 @@
     <category term="audio"/>
   </entry>
   <entry>
+    <title>NVIDIA Shrinks GLM-5.2 Memory by 1.8x With NVFP4 Without Losing Accuracy</title>
+    <link href="https://huggingface.co/nvidia/GLM-5.2-NVFP4"/>
+    <id>c1016be5ac1f9a671d4de16a2cfb37f9</id>
+    <published>2026-06-26T18:08:05+00:00</published>
+    <updated>2026-06-26T18:08:05+00:00</updated>
+    <summary type="text">NVIDIA's official NVFP4 checkpoint of GLM-5.2 is now live on vLLM, cutting memory ~1.8x vs FP8 while matching accuracy on Blackwell GPUs.</summary>
+    <category term="llms"/>
+    <category term="infra"/>
+  </entry>
+  <entry>
+    <title>Microsoft's MAI-Code-1-Flash Beats Claude Haiku 4.5 by 16 Points at 60% Fewer Tokens</title>
+    <link href="https://www.youtube.com/watch?v=IZWTaKejlek"/>
+    <id>c34a8e4c3e178d20689a15994b4b99dc</id>
+    <published>2026-06-26T17:30:00+00:00</published>
+    <updated>2026-06-26T17:30:00+00:00</updated>
+    <summary type="text">Microsoft's first in-house coding model ships inside GitHub Copilot, beating Claude Haiku 4.5 by 16 points on SWE-Bench Pro while using 60% fewer tokens</summary>
+    <category term="development"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
     <title>OpenAI's GPT-5.6 Sol Launches Under Unprecedented U.S. Government Restrictions</title>
     <link href="https://openai.com/index/previewing-gpt-5-6-sol/"/>
     <id>86345885dcfcf7bd7d1973ef436837b6</id>
@@ -57,75 +127,5 @@
     <summary type="text">Cerebras launches a global Ambassador Program to seed grassroots AI communities around its record-breaking inference platform, fresh off a blockbuster IPO.</summary>
     <category term="gpus"/>
     <category term="business"/>
-  </entry>
-  <entry>
-    <title>Cerebras Runs Google DeepMind's Gemma 4 at 1,500 Tokens per Second</title>
-    <link href="https://luma.com/cerebras-piwl"/>
-    <id>9cdd82f13e261258428f8b6ed8a64217</id>
-    <published>2026-06-26T17:00:29+00:00</published>
-    <updated>2026-06-26T17:00:29+00:00</updated>
-    <summary type="text">Gemma 4 31B lands on Cerebras Inference at 1,500 tokens/sec â 15x faster than Claude Haiku â with a 24-hour hackathon kicking off this Sunday</summary>
-    <category term="llms"/>
-    <category term="gpus"/>
-  </entry>
-  <entry>
-    <title>Google Ships Gemini Live Real-Time Image Editing and Deep Think Reasoning</title>
-    <link href="https://gemini.google/gemini-drops/"/>
-    <id>0a21156b248f5ebca7653316c6dbb8ca</id>
-    <published>2026-06-26T16:08:44+00:00</published>
-    <updated>2026-06-26T16:08:44+00:00</updated>
-    <summary type="text">Google's June Gemini Drops bring real-time image editing in Live, business profile management, Google Play app installs in-chat, and thinking levels for all users</summary>
-    <category term="image"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Epoch's MirrorCode Benchmark Shows Claude Opus 4.7 Rebuilding Software Autonomously in 14 Hours</title>
-    <link href="https://epoch.ai/MirrorCode"/>
-    <id>8343ec092eb776a16d82e0793ef2c9a0</id>
-    <published>2026-06-26T15:25:09+00:00</published>
-    <updated>2026-06-26T15:25:09+00:00</updated>
-    <summary type="text">Epoch AI's MirrorCode benchmark shows Claude Opus 4.7 can autonomously reimplement entire codebases, completing tasks estimated to take human engineers weeks</summary>
-    <category term="benchmarks"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Lovable Lets Builders Add 10 AI Features With a Single Prompt</title>
-    <link href="https://x.com/lovable/status/2070498653496631490"/>
-    <id>947ce0dd58f598bbd1c743cc7c5f5522</id>
-    <published>2026-06-26T13:25:21+00:00</published>
-    <updated>2026-06-26T13:25:21+00:00</updated>
-    <summary type="text">Lovable's built-in AI connector lets you add chatbots, image gen, RAG, and more to any app you build â no API keys, no provider accounts, just one prompt.</summary>
-    <category term="vibe_coding"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Moonshot AI's Kimi Code Adds Shell Mode to Ditch Terminal Switching</title>
-    <link href="https://www.kimi.com/code/docs/en/kimi-code-cli/configuration/config-files.html"/>
-    <id>66bca40b82ff3104cb236ce7b61a1c31</id>
-    <published>2026-06-26T12:41:51+00:00</published>
-    <updated>2026-06-26T12:41:51+00:00</updated>
-    <summary type="text">Kimi Code v0.20 adds shell mode, background task management, remote web UI access, and multi-directory workspaces to its open-source coding agent CLI</summary>
-    <category term="development"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Sakana AI's CoffeeBench Catches Claude Haiku 4.5 Going Bankrupt Over 90 Days</title>
-    <link href="https://arxiv.org/abs/2606.16613"/>
-    <id>2581203d3af0e2fa7fcfba55b8d041d4</id>
-    <published>2026-06-26T06:06:22+00:00</published>
-    <updated>2026-06-26T06:06:22+00:00</updated>
-    <summary type="text">Sakana AI's CoffeeBench puts LLM agents in charge of a coffee supply chain for 90 days â and the results reveal surprising gaps in long-horizon decision-making</summary>
-    <category term="benchmarks"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>OpenAI's Codex Now Spins Up Persistent DigitalOcean Cloud Environments From a Prompt</title>
-    <link href="https://x.com/openaidevs/status/2070261549391024403"/>
-    <id>c3601a19518e7b2805683a6d8eb45e07</id>
-    <published>2026-06-25T21:43:11+00:00</published>
-    <updated>2026-06-25T21:43:11+00:00</updated>
-    <summary type="text">A new DigitalOcean plugin for OpenAI Codex lets you spin up a persistent cloud dev environment with a single prompt, running in your own account even when you're offline.</summary>
-    <category term="development"/>
-    <category term="infra"/>
   </entry>
 </feed>
