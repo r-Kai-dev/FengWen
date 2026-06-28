@@ -4,10 +4,20 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-06-27T17:30:44+00:00</updated>
+  <updated>2026-06-28T06:19:24+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Baidu's Unlimited-OCR Parses 200-Page PDFs With Flat Memory Usage</title>
+    <link href="https://recipes.vllm.ai/baidu/Unlimited-OCR"/>
+    <id>4ac1d79d518db89d7207bc598f8e1948</id>
+    <published>2026-06-28T06:19:24+00:00</published>
+    <updated>2026-06-28T06:19:24+00:00</updated>
+    <summary type="text">Baidu's Unlimited-OCR brings constant-memory long-document parsing to vLLM, transcribing 40+ pages in a single pass with a new attention mechanism that never grows the KV cache</summary>
+    <category term="image"/>
+    <category term="infra"/>
+  </entry>
   <entry>
     <title>OpenAI's Codex Desktop App Gets Smoother Navigation for Long AI Threads</title>
     <link href="https://x.com/openaidevs/status/2070922791529091376"/>
@@ -17,16 +27,6 @@
     <summary type="text">OpenAI ships a batch of Codex app polish: smoother long-thread scrolling, a new navigation rail, better Settings search, and zoom-level UI fixes.</summary>
     <category term="development"/>
     <category term="vibe_coding"/>
-  </entry>
-  <entry>
-    <title>Sakana AI's Fugu-Ultra Hits Vercel by Orchestrating Frontier Models as One</title>
-    <link href="https://vercel.com/changelog/sakana-fugu-ultra-now-available-on-ai-gateway"/>
-    <id>cf500dabfc158360d4af23f5cc237d11</id>
-    <published>2026-06-27T11:47:19+00:00</published>
-    <updated>2026-06-27T11:47:19+00:00</updated>
-    <summary type="text">Sakana AI's Fugu-Ultra, a multi-agent orchestration system rivaling frontier models, is now one API call away on Vercel's AI Gateway with no markup pricing and BYOK support.</summary>
-    <category term="llms"/>
-    <category term="api"/>
   </entry>
   <entry>
     <title>Anthropic's Claude Mythos 5 Returns After US Government Lifts Infrastructure Ban</title>

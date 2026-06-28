@@ -11,7 +11,17 @@
     <id>a7c689189eb7a6484ab2786a29a52d86</id>
     <published>2026-06-21T20:00:00.000Z</published>
     <updated>2026-06-21T20:00:00.000Z</updated>
-    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 37 \u00b7 GitHub Stars: 11011 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
+    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 38 \u00b7 GitHub Stars: 11452 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling</title>
+    <link href="https://arxiv.org/abs/2606.18023"/>
+    <id>7f4fff447854ae328983ddc30580e9e4</id>
+    <published>2026-06-15T20:00:00.000Z</published>
+    <updated>2026-06-15T20:00:00.000Z</updated>
+    <summary type="text">Looped Transformers scale latent computation by repeatedly applying shared blocks, but sequential looping increases latency and KV-cache memory with the loop count. Parallel loop Transformers (PLT) al... \u00b7 Upvotes: 207 \u00b7 Authors: Jian Yang, Shawn Guo, Wei Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +31,7 @@
     <id>604d653993105a86d19bbbb2bac22478</id>
     <published>2026-06-15T20:00:00.000Z</published>
     <updated>2026-06-15T20:00:00.000Z</updated>
-    <summary type="text">Current world models face a fundamental tension: faithful long-horizon simulation demands deep computation, but deeper models are expensive to deploy and prone to compounding errors. We resolve this b... \u00b7 Upvotes: 466 \u00b7 Authors: Hongyuan Adam Lu, Z. L. Victor Wei, Qun Zhang</summary>
+    <summary type="text">Current world models face a fundamental tension: faithful long-horizon simulation demands deep computation, but deeper models are expensive to deploy and prone to compounding errors. We resolve this b... \u00b7 Upvotes: 467 \u00b7 Authors: Hongyuan Adam Lu, Z. L. Victor Wei, Qun Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +41,7 @@
     <id>a41a5f642e1f28ae7bc4e3ad81159ddd</id>
     <published>2026-06-07T20:00:00.000Z</published>
     <updated>2026-06-07T20:00:00.000Z</updated>
-    <summary type="text">We present ABot-Earth 0.5, a generative 3D framework designed to synthesize vast, seamless 3D environments from ubiquitous, geospatially referenced satellite imagery. To achieve this, we propose a nov... \u00b7 Upvotes: 484 \u00b7 GitHub Stars: 172 \u00b7 Authors: Ming Qian, Tianjian Ouyang, Mingchao Sun</summary>
+    <summary type="text">We present ABot-Earth 0.5, a generative 3D framework designed to synthesize vast, seamless 3D environments from ubiquitous, geospatially referenced satellite imagery. To achieve this, we propose a nov... \u00b7 Upvotes: 484 \u00b7 GitHub Stars: 173 \u00b7 Authors: Ming Qian, Tianjian Ouyang, Mingchao Sun</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +61,7 @@
     <id>4880dc69bacd9ce7e16146a199375baa</id>
     <published>2026-06-01T20:00:00.000Z</published>
     <updated>2026-06-01T20:00:00.000Z</updated>
-    <summary type="text">We introduce PaddleOCR-VL-1.6, an upgraded compact document parsing model built upon PaddleOCR-VL-1.5. Although PaddleOCR-VL-1.5 establishes a strong 0.9B baseline, its remaining errors concentrate in... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 84033 \u00b7 Authors: Zelun Zhang, Hongen Liu, Suyin Liang</summary>
+    <summary type="text">We introduce PaddleOCR-VL-1.6, an upgraded compact document parsing model built upon PaddleOCR-VL-1.5. Although PaddleOCR-VL-1.5 establishes a strong 0.9B baseline, its remaining errors concentrate in... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 84094 \u00b7 Authors: Zelun Zhang, Hongen Liu, Suyin Liang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +71,7 @@
     <id>7c0a6dd37ea7c846935b31a1667af68d</id>
     <published>2026-06-01T20:00:00.000Z</published>
     <updated>2026-06-01T20:00:00.000Z</updated>
-    <summary type="text">Real-time vision demands models that are accurate, efficient, and simple to deploy across diverse hardware. The YOLO family has become widely deployed for this reason, yet most YOLO detectors still re... \u00b7 Upvotes: 15 \u00b7 GitHub Stars: 58869 \u00b7 Authors: Glenn Jocher, Jing Qiu, Mengyu Liu</summary>
+    <summary type="text">Real-time vision demands models that are accurate, efficient, and simple to deploy across diverse hardware. The YOLO family has become widely deployed for this reason, yet most YOLO detectors still re... \u00b7 Upvotes: 15 \u00b7 GitHub Stars: 58905 \u00b7 Authors: Glenn Jocher, Jing Qiu, Mengyu Liu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +81,7 @@
     <id>daf251a8f2baee3ca01adc98296543eb</id>
     <published>2026-05-31T20:00:00.000Z</published>
     <updated>2026-05-31T20:00:00.000Z</updated>
-    <summary type="text">We introduce Cosmos 3, a family of omnimodal world models designed to jointly process and generate language, image, video, audio, and action sequences within a unified mixture-of-transformers architec... \u00b7 Upvotes: 136 \u00b7 GitHub Stars: 10653 \u00b7 Authors: Aditi, Niket Agarwal, Arslan Ali</summary>
+    <summary type="text">We introduce Cosmos 3, a family of omnimodal world models designed to jointly process and generate language, image, video, audio, and action sequences within a unified mixture-of-transformers architec... \u00b7 Upvotes: 136 \u00b7 GitHub Stars: 10667 \u00b7 Authors: Aditi, Niket Agarwal, Arslan Ali</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,7 +101,7 @@
     <id>55e888d4bb41df6cdf77fbcfb2d71162</id>
     <published>2026-05-28T20:00:00.000Z</published>
     <updated>2026-05-28T20:00:00.000Z</updated>
-    <summary type="text">LLM agents are increasingly expected not only to complete isolated tasks, but also to carry bounded representations of human expertise, judgment, and interaction style. Building such person-grounded a... \u00b7 Upvotes: 120 \u00b7 GitHub Stars: 19849 \u00b7 Authors: Tianyi Zhou, Dongrui Liu, Leitao Yuan</summary>
+    <summary type="text">LLM agents are increasingly expected not only to complete isolated tasks, but also to carry bounded representations of human expertise, judgment, and interaction style. Building such person-grounded a... \u00b7 Upvotes: 120 \u00b7 GitHub Stars: 19873 \u00b7 Authors: Tianyi Zhou, Dongrui Liu, Leitao Yuan</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -106,22 +116,12 @@
     <category term="paper"/>
   </entry>
   <entry>
-    <title>Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players</title>
-    <link href="https://arxiv.org/abs/2605.28816"/>
-    <id>31d90a42baf5050501cbad0c5d62ffd6</id>
-    <published>2026-05-26T20:00:00.000Z</published>
-    <updated>2026-05-26T20:00:00.000Z</updated>
-    <summary type="text">World models for interactive video generation have largely focused on single-agent settings, where future observations are generated from a single control signal. However, many generated environments ... \u00b7 Upvotes: 431 \u00b7 Authors: Fangfu Liu, Kai He, Tianchang Shen</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
     <title>SIA: Self Improving AI with Harness &amp; Weight Updates</title>
     <link href="https://arxiv.org/abs/2605.27276"/>
     <id>0c3c3d80ab1252d2042e5881de1abad2</id>
     <published>2026-05-25T20:00:00.000Z</published>
     <updated>2026-05-25T20:00:00.000Z</updated>
-    <summary type="text">Humans are the bottleneck in building and improving AI. Both the models and the agents that wrap them are written, tuned, and corrected by people. The long-horizon goal of an AI that can figure out ho... \u00b7 Upvotes: 15 \u00b7 GitHub Stars: 1841 \u00b7 Authors: Prannay Hebbar, Yogendra Manawat, Samuel Verboomen</summary>
+    <summary type="text">Humans are the bottleneck in building and improving AI. Both the models and the agents that wrap them are written, tuned, and corrected by people. The long-horizon goal of an AI that can figure out ho... \u00b7 Upvotes: 15 \u00b7 GitHub Stars: 1858 \u00b7 Authors: Prannay Hebbar, Yogendra Manawat, Samuel Verboomen</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
