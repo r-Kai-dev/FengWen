@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Figma Blog</title>
+  <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
+  <link href="https://www.figma.com/blog/"/>
+  <id>https://www.figma.com/blog/</id>
+  <updated>2026-06-24T15:00:00.000Z</updated>
+  <author>
+    <name>Dylan Field</name>
+  </author>
+  <entry>
+    <title>Config 2026: New materials, new tools and a more expressive canvas</title>
+    <link href="https://www.figma.com/blog/config-2026-recap/"/>
+    <id>2abd62f945d282ed28de42348528f7a9</id>
+    <published>2026-06-24T15:00:00.000Z</published>
+    <updated>2026-06-24T15:00:00.000Z</updated>
+    <summary type="text">Push past what you thought was possible with code layers, Figma Motion, shaders, generative plugins and Weave tools, all on the canvas.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>Code on the Figma canvas</title>
+    <link href="https://www.figma.com/blog/code-on-the-figma-canvas/"/>
+    <id>3d2cf3ed32334c4e44a9cca986bcc6d1</id>
+    <published>2026-06-24T14:30:00.000Z</published>
+    <updated>2026-06-24T14:30:00.000Z</updated>
+    <summary type="text">With code layers in Figma Design, you can explore multiple directions with code, side by side with your team.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>Connecting Figma and Weave</title>
+    <link href="https://www.figma.com/blog/connecting-figma-and-weave/"/>
+    <id>ad790d763081a8a8700cb1b040c165c5</id>
+    <published>2026-06-24T14:00:00.000Z</published>
+    <updated>2026-06-24T14:00:00.000Z</updated>
+    <summary type="text">Today, we’re announcing new ways your Weave creative workflows can live alongside your Figma frames.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>Introducing Figma Motion: Your canvas now has a timeline</title>
+    <link href="https://www.figma.com/blog/introducing-figma-motion/"/>
+    <id>7519594d3c8af6a8903a7882f34e5f61</id>
+    <published>2026-06-24T13:30:00.000Z</published>
+    <updated>2026-06-24T13:30:00.000Z</updated>
+    <summary type="text">Motion now lives on the canvas—in the same file as your components, your variables, and your team—so your designs can come to life from day one.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>Figma’s design agent, now with custom tools and greater context</title>
+    <link href="https://www.figma.com/blog/agent-custom-tools-context-skills/"/>
+    <id>b3c144e9420fa585a937f777ea33254f</id>
+    <published>2026-06-24T13:00:00.000Z</published>
+    <updated>2026-06-24T13:00:00.000Z</updated>
+    <summary type="text">Prompting gets you started. Custom tools, real context, and skills take the design agent further—so what ends up on the canvas actually looks like you.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>Figma's 2026 AI report: Can AI help us collaborate better?</title>
+    <link href="https://www.figma.com/blog/2026-ai-report/"/>
+    <id>82f84be1c1a5cc02883557330707dedc</id>
+    <published>2026-06-24T12:45:00.000Z</published>
+    <updated>2026-06-24T12:45:00.000Z</updated>
+    <summary type="text">AI used to be a solo act. According to our research, it’s not anymore.</summary>
+    <category term="Insights"/>
+  </entry>
+  <entry>
+    <title>4 ways we’re using our MCP server at Figma</title>
+    <link href="https://www.figma.com/blog/4-ways-were-using-our-mcp-server-at-figma/"/>
+    <id>23d22de47f11e2cb041bc633a5065328</id>
+    <published>2026-06-16T12:00:00.000Z</published>
+    <updated>2026-06-16T12:00:00.000Z</updated>
+    <summary type="text">The Figma MCP server reaches further across the platform than it ever has. From updating a living deck to shipping a design to production—here's what that looks like in practice.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>Workflow lab: Expanding the canvas with Figma MCP</title>
+    <link href="https://www.figma.com/blog/workflow-lab-expanding-the-canvas-with-figma-mcp/"/>
+    <id>e8d1f26ba450116d02ca7c42b2c5bb47</id>
+    <published>2026-04-30T12:00:00.000Z</published>
+    <updated>2026-04-30T12:00:00.000Z</updated>
+    <summary type="text">As teams build faster, design and code can drift apart just as quickly. This workflow shows how to close that gap—bringing real product states onto the canvas so designers can shape what actually ships.</summary>
+    <category term="Working Well"/>
+  </entry>
+  <entry>
+    <title>FigJam is now your coding agent’s whiteboard too</title>
+    <link href="https://www.figma.com/blog/figjam-your-coding-agents-whiteboard/"/>
+    <id>58c8ac61e7896fbd3a3c200108309279</id>
+    <published>2026-04-28T12:00:00.000Z</published>
+    <updated>2026-04-28T12:00:00.000Z</updated>
+    <summary type="text">Agents are changing your code faster than your team can follow. Now you can close that gap with new MCP skills, architecture layouts, and more in FigJam.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>The TL;DR on MCP: Why context matters and how to put it to work</title>
+    <link href="https://www.figma.com/blog/the-tldr-on-mcp/"/>
+    <id>3034b78a6461d4e9fdaebe8ca4b38287</id>
+    <published>2026-04-15T21:57:00.000Z</published>
+    <updated>2026-04-15T21:57:00.000Z</updated>
+    <summary type="text">Figma’s MCP server brings your design decisions into the tools where code gets written—so what gets built actually matches what was designed. Here’s what that unlocks for everyone who builds products.</summary>
+    <category term="Insights"/>
+  </entry>
+  <entry>
+    <title>Agents, meet the Figma canvas</title>
+    <link href="https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/"/>
+    <id>e8a467e6f41d3108b86ce68d18b84068</id>
+    <published>2026-03-24T12:00:00.000Z</published>
+    <updated>2026-03-24T12:00:00.000Z</updated>
+    <summary type="text">Starting today, you can use AI agents to design directly on the Figma canvas. And with skills, you can guide agents with context about your team’s decisions and intent.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>Design’s influence is expanding, and here’s why that feels hard</title>
+    <link href="https://www.figma.com/blog/designs-influence-is-expanding-and-heres-why-that-feels-hard/"/>
+    <id>f084223171f769f02b1aff3f28f73f56</id>
+    <published>2026-03-17T19:30:00.000Z</published>
+    <updated>2026-03-17T19:30:00.000Z</updated>
+    <summary type="text">As AI accelerates creation and raises expectations, designers are navigating a field that’s bigger, faster, and more demanding than ever.</summary>
+    <category term="Insights"/>
+  </entry>
+  <entry>
+    <title>5 design skills to sharpen in the AI era</title>
+    <link href="https://www.figma.com/blog/skills-for-the-ai-era/"/>
+    <id>427b46f37f5a4be4710d373b23d65d53</id>
+    <published>2026-03-10T19:15:37.885Z</published>
+    <updated>2026-03-10T19:15:37.885Z</updated>
+    <summary type="text">Our latest research highlights the skills designers need to meet the moment.</summary>
+    <category term="Insights"/>
+  </entry>
+  <entry>
+    <title>Building frontend UIs with Codex and Figma</title>
+    <link href="https://www.figma.com/blog/introducing-codex-to-figma/"/>
+    <id>95ebaceb57e760e45f00a4374dcf5509</id>
+    <published>2026-02-26T14:00:00.000Z</published>
+    <updated>2026-02-26T14:00:00.000Z</updated>
+    <summary type="text">With Codex to Figma, teams can bring real, running interfaces into Figma to explore, refine, and make decisions together, then bring it back to Codex with design context intact.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>State of the Designer 2026: Designers are leaning into the messy middle</title>
+    <link href="https://www.figma.com/blog/state-of-the-designer-2026/"/>
+    <id>8d15d91525284bf172acd3621614777b</id>
+    <published>2026-02-12T17:00:00.000Z</published>
+    <updated>2026-02-12T17:00:00.000Z</updated>
+    <summary type="text">Our State of the Designer report explores how designers around the world are upleveling their skills, keeping craft high, and turning new pressures into creative momentum.</summary>
+    <category term="Insights"/>
+  </entry>
+</feed>

@@ -841,6 +841,54 @@
           "output_file": "cursor_blog.xml"
         }
       ]
+    },
+    {
+      "org_key": "figma",
+      "name": "Figma",
+      "strategy": "request",
+      "base_url": "https://www.figma.com",
+      "favicon": "https://static.figma.com/app/icon/2/favicon.svg",
+      "category": "Tools",
+      "pages": [
+        {
+          "key": "blog",
+          "label": "Figma Blog",
+          "url": "https://www.figma.com/blog/",
+          "output_file": "figma_blog.xml"
+        }
+      ]
+    },
+    {
+      "org_key": "lovable",
+      "name": "Lovable",
+      "strategy": "scrape",
+      "base_url": "https://lovable.dev",
+      "favicon": "https://lovable.dev/favicon.svg",
+      "category": "Tools",
+      "pages": [
+        {
+          "key": "blog",
+          "label": "Lovable Blog",
+          "url": "https://lovable.dev/blog",
+          "output_file": "lovable_blog.xml"
+        }
+      ]
+    },
+    {
+      "org_key": "microsoft_ai",
+      "name": "Microsoft AI",
+      "strategy": "scrape",
+      "base_url": "https://microsoft.ai",
+      "favicon": "https://microsoft.ai/wp-content/uploads/2025/10/cropped-image-5-32x32.png",
+      "category": "Labs",
+      "pages": [
+        {
+          "key": "blog",
+          "label": "Microsoft AI Blog",
+          "url": "https://microsoft.ai/blog/",
+          "output_file": "microsoft_ai_blog.xml"
+        }
+      ]
     }
   ],
   "official": [
