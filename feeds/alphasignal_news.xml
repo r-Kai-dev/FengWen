@@ -4,10 +4,100 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-06-28T06:19:24+00:00</updated>
+  <updated>2026-06-29T19:10:03+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Git 2.55 Ships Smarter Repacking That Makes Huge Repos 2x Faster</title>
+    <link href="https://github.blog/open-source/git/highlights-from-git-2-55/"/>
+    <id>977efd55ac459ad60c90fabd0ee1d5bf</id>
+    <published>2026-06-29T19:10:03+00:00</published>
+    <updated>2026-06-29T19:10:03+00:00</updated>
+    <summary type="text">Git 2.55 ships incremental MIDX repacking, a new git history fixup command, Linux fsmonitor support, and a raft of performance improvements</summary>
+    <category term="open_source"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Replit Desktop Escapes the Browser Tab on Mac and Windows</title>
+    <link href="https://replit.com/desktop"/>
+    <id>1ca99b0e581456da7d9770c6a9f6c925</id>
+    <published>2026-06-29T18:44:07+00:00</published>
+    <updated>2026-06-29T18:44:07+00:00</updated>
+    <summary type="text">Replit launches a native desktop app for Mac and Windows, bringing distraction-free AI-powered development outside the browser</summary>
+    <category term="vibe_coding"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Google AI Studio Ships Chat History Sharing for Vibe-Coded Apps</title>
+    <link href="https://x.com/googleaistudio/status/2071662183969153245"/>
+    <id>fbe4a14cc178b8005061381ec11689e7</id>
+    <published>2026-06-29T18:28:48+00:00</published>
+    <updated>2026-06-29T18:28:48+00:00</updated>
+    <summary type="text">Google AI Studio's Build mode now lets you bundle your full chat history when sharing an app, making prompt workflows instantly reproducible for anyone with the link.</summary>
+    <category term="vibe_coding"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Opus 4.8 Hits General Availability Inside Microsoft Foundry</title>
+    <link href="https://claude.com/blog/claude-in-microsoft-foundry"/>
+    <id>35e84b471f01e4f5657e9911d3dc4538</id>
+    <published>2026-06-29T17:56:07+00:00</published>
+    <updated>2026-06-29T17:56:07+00:00</updated>
+    <summary type="text">Claude Opus 4.8 and Haiku 4.5 graduate from preview to GA in Microsoft Foundry, unlocking Azure-native billing, MACC drawdown, and a new 'hosted on Azure' mode with US data residency</summary>
+    <category term="api"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Cursor Launches iOS App Turning Your Phone Into an AI Agent Command Center</title>
+    <link href="https://apps.apple.com/us/app/cursor/id6767085653"/>
+    <id>eb70fdd5943215ea583e747b65512e18</id>
+    <published>2026-06-29T17:05:02+00:00</published>
+    <updated>2026-06-29T17:05:02+00:00</updated>
+    <summary type="text">Cursor launches a native iOS app that lets developers spawn and supervise AI coding agents from anywhere, as the company prepares to close its $60B SpaceX acquisition</summary>
+    <category term="development"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Cognition's Devin Fusion Cuts Coding AI Costs 35% Without Losing Frontier Intelligence</title>
+    <link href="https://app.devin.ai/signup?source=fusion_socials"/>
+    <id>d1c2885a0a0a201bfcfe852b08f5814a</id>
+    <published>2026-06-29T15:59:20+00:00</published>
+    <updated>2026-06-29T15:59:20+00:00</updated>
+    <summary type="text">Cognition's Devin Fusion uses a parallel 'sidekick' agent and dynamic mid-session routing to cut frontier-model costs by 35% without sacrificing code quality.</summary>
+    <category term="development"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Meta's Brain2Qwerty v2 Decodes Thoughts Into Text Without Brain Surgery</title>
+    <link href="https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?utm_source=twitter&amp;utm_medium=organic_social&amp;utm_content=video&amp;utm_campaign=brain2qwertyv2"/>
+    <id>1013a89f764f1bdb4a3cccebad624736</id>
+    <published>2026-06-29T12:10:17+00:00</published>
+    <updated>2026-06-29T12:10:17+00:00</updated>
+    <summary type="text">Meta's Brain2Qwerty v2 decodes full sentences from brain waves without surgery, hitting 61% word accuracy and releasing all training code publicly</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>vLLM-Omni Squeezes 172% More Audio Out of Four Speech Models</title>
+    <link href="https://vllm.ai/blog/2026-06-23-vllm-omni-tts"/>
+    <id>0bc3f8c2ab2d76751a41b6014c8abedb</id>
+    <published>2026-06-29T02:55:04+00:00</published>
+    <updated>2026-06-29T02:55:04+00:00</updated>
+    <summary type="text">vLLM-Omni squeezes up to 172% more audio throughput from four TTS models by treating each pipeline stage as a separate optimization problem</summary>
+    <category term="audio"/>
+    <category term="infra"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot Matches Claude Code While Burning Fewer Tokens</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/?utm_source=social-x-copilot-agentic-harness-blog&amp;utm_medium=social&amp;utm_campaign=dev-pod-copilot-cli-2026"/>
+    <id>c2ff6dcb52616e57e84d8210cf8365a8</id>
+    <published>2026-06-28T22:14:09+00:00</published>
+    <updated>2026-06-28T22:14:09+00:00</updated>
+    <summary type="text">GitHub benchmarks its own agentic harness against Claude Code and Codex CLI, showing token efficiency gains without sacrificing task resolution across 20+ models.</summary>
+    <category term="development"/>
+    <category term="benchmarks"/>
+  </entry>
   <entry>
     <title>Baidu's Unlimited-OCR Parses 200-Page PDFs With Flat Memory Usage</title>
     <link href="https://recipes.vllm.ai/baidu/Unlimited-OCR"/>
@@ -37,95 +127,5 @@
     <summary type="text">After a 15-day government-ordered freeze over jailbreak fears, Anthropic's most powerful cybersecurity AI is back online for critical infrastructure defenders</summary>
     <category term="government"/>
     <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Google AI Studio Ships Design Variations to Fix Vibe Coding's Biggest Flaw</title>
-    <link href="https://aistudio.google.com/welcome"/>
-    <id>d841fb1c9e2fc210493799c567aee981</id>
-    <published>2026-06-26T20:42:15+00:00</published>
-    <updated>2026-06-26T20:42:15+00:00</updated>
-    <summary type="text">Google AI Studio's new Design Variations button generates multiple UI layouts instantly, solving the hardest part of vibe coding: describing visual aesthetics</summary>
-    <category term="vibe_coding"/>
-    <category term="image"/>
-  </entry>
-  <entry>
-    <title>NVIDIA's Nemotron 3 Ultra Tops US Open-Weight AI on Brutal New Job Benchmark</title>
-    <link href="https://artificialanalysis.ai/evaluations/aa-briefcase?models=muse-spark,gemma-4-31b,mistral-medium-3-5,deepseek-v4-pro,deepseek-v4-flash,solar-pro-3,minimax-m3,nvidia-nemotron-3-ultra-550b-a55b,kimi-k2-6,mimo-v2-5-pro,k2-think-v2,glm-5-2,qwen3-7-max,qwen3-5-397b-a17b&amp;linkId=100000428178544"/>
-    <id>ab03fe20184afd651fe378e5f893eb4c</id>
-    <published>2026-06-26T20:19:11+00:00</published>
-    <updated>2026-06-26T20:19:11+00:00</updated>
-    <summary type="text">Artificial Analysis launches AA-Briefcase, a new agentic benchmark for long-horizon knowledge work, where NVIDIA's Nemotron 3 Ultra ranks among the top open models</summary>
-    <category term="benchmarks"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Artificial Analysis Ships Model Sets to Cut Repetitive Comparisons Across 542 Models</title>
-    <link href="https://x.com/artificialanlys/status/2070588196975784339"/>
-    <id>480bf6f1ee572e55face6fdb73d33d81</id>
-    <published>2026-06-26T19:21:10+00:00</published>
-    <updated>2026-06-26T19:21:10+00:00</updated>
-    <summary type="text">Artificial Analysis launches Model Sets, letting users save and instantly apply custom model groups across all benchmark charts on the platform.</summary>
-    <category term="benchmarks"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Google Boosts Gemini Nano on Pixel 50% Faster Without Retraining</title>
-    <link href="https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
-    <id>36808c43f8b209fb5e3f5127bcf4f068</id>
-    <published>2026-06-26T18:48:11+00:00</published>
-    <updated>2026-06-26T18:48:11+00:00</updated>
-    <summary type="text">Google retrofits Multi-Token Prediction onto frozen Gemini Nano v3, delivering 50%+ faster on-device inference on Pixel 9 and 10 without touching the base model</summary>
-    <category term="infra"/>
-    <category term="gpus"/>
-  </entry>
-  <entry>
-    <title>Google's Antigravity 2.0 Ships Audio Support and Built-in Skill Guide</title>
-    <link href="https://antigravity.google/changelog"/>
-    <id>9ac447915e7f69e64e96df024c9bee75</id>
-    <published>2026-06-26T18:43:06+00:00</published>
-    <updated>2026-06-26T18:43:06+00:00</updated>
-    <summary type="text">Google Antigravity 2.0 gets a built-in guide skill, audio rendering, and smarter file search in its latest CLI and app update</summary>
-    <category term="development"/>
-    <category term="audio"/>
-  </entry>
-  <entry>
-    <title>NVIDIA Shrinks GLM-5.2 Memory by 1.8x With NVFP4 Without Losing Accuracy</title>
-    <link href="https://huggingface.co/nvidia/GLM-5.2-NVFP4"/>
-    <id>c1016be5ac1f9a671d4de16a2cfb37f9</id>
-    <published>2026-06-26T18:08:05+00:00</published>
-    <updated>2026-06-26T18:08:05+00:00</updated>
-    <summary type="text">NVIDIA's official NVFP4 checkpoint of GLM-5.2 is now live on vLLM, cutting memory ~1.8x vs FP8 while matching accuracy on Blackwell GPUs.</summary>
-    <category term="llms"/>
-    <category term="infra"/>
-  </entry>
-  <entry>
-    <title>Microsoft's MAI-Code-1-Flash Beats Claude Haiku 4.5 by 16 Points at 60% Fewer Tokens</title>
-    <link href="https://www.youtube.com/watch?v=IZWTaKejlek"/>
-    <id>c34a8e4c3e178d20689a15994b4b99dc</id>
-    <published>2026-06-26T17:30:00+00:00</published>
-    <updated>2026-06-26T17:30:00+00:00</updated>
-    <summary type="text">Microsoft's first in-house coding model ships inside GitHub Copilot, beating Claude Haiku 4.5 by 16 points on SWE-Bench Pro while using 60% fewer tokens</summary>
-    <category term="development"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>OpenAI's GPT-5.6 Sol Launches Under Unprecedented U.S. Government Restrictions</title>
-    <link href="https://openai.com/index/previewing-gpt-5-6-sol/"/>
-    <id>86345885dcfcf7bd7d1973ef436837b6</id>
-    <published>2026-06-26T17:10:20+00:00</published>
-    <updated>2026-06-26T17:10:20+00:00</updated>
-    <summary type="text">OpenAI's GPT-5.6 family launches in limited preview at US government request, with Sol setting new agentic coding and cybersecurity benchmarks at a new naming tier structure</summary>
-    <category term="llms"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Cerebras Bets on Grassroots Builders to Challenge Nvidia City by City</title>
-    <link href="https://www.cerebras.ai/ambassadors"/>
-    <id>757d8ebc5d0daad7ac69df90cb1c25a7</id>
-    <published>2026-06-26T17:01:52+00:00</published>
-    <updated>2026-06-26T17:01:52+00:00</updated>
-    <summary type="text">Cerebras launches a global Ambassador Program to seed grassroots AI communities around its record-breaking inference platform, fresh off a blockbuster IPO.</summary>
-    <category term="gpus"/>
-    <category term="business"/>
   </entry>
 </feed>

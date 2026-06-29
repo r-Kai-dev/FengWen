@@ -4,10 +4,19 @@
   <icon>https://www.resemble.ai/favicon.ico</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-06-26T00:00:00+00:00</updated>
+  <updated>2026-06-29T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Complete Guide to EU AI Act Watermarking Requirements for Generative AI</title>
+    <link href="https://www.resemble.ai/resources/complete-guide-to-eu-ai-act-watermarking-requirements-for-generative-ai"/>
+    <id>401be058ba1c4f87a7597eb7ed298017</id>
+    <published>2026-06-29T00:00:00+00:00</published>
+    <updated>2026-06-29T00:00:00+00:00</updated>
+    <summary type="text">Prepare for EU AI Act Watermarking Requirements for Generative AI with Article 50 checks for marking, disclosure, and 2026 readiness.</summary>
+    <category term="Guide"/>
+  </entry>
   <entry>
     <title>The Deepfake Watchlist: Week of June 19-25, 2026</title>
     <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-june-19-25-2026"/>
@@ -106,14 +115,5 @@
     <updated>2026-05-29T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>Audio Deepfake Detection Benchmark Results: How 8 Systems Performed in 2026</title>
-    <link href="https://www.resemble.ai/resources/audio-deepfake-detection-benchmark-results-how-8-systems-performed-in-2026"/>
-    <id>6a7bec2366a095a2a3a444348b94879d</id>
-    <published>2026-05-27T00:00:00+00:00</published>
-    <updated>2026-05-27T00:00:00+00:00</updated>
-    <summary type="text">Podonos ran a neutral benchmark across 8 audio deepfake detection systems. Resemble AI ranked #1 at 98.1%. Here's what the full results actually mean for buyers.</summary>
-    <category term="Blog"/>
   </entry>
 </feed>

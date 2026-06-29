@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-06-25T00:00:00+00:00</updated>
+  <updated>2026-06-29T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>DiScoFormer: One transformer for density and score, across distributions</title>
+    <link href="https://allenai.org/blog/discoformer"/>
+    <id>5069905e97558331323d917f0d48a7a8</id>
+    <published>2026-06-29T00:00:00+00:00</published>
+    <updated>2026-06-29T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Which tokens does a hybrid model predict better?</title>
     <link href="https://allenai.org/blog/hybrid-token-prediction"/>
@@ -63,12 +70,5 @@
     <id>d0191faae2f2a5c8492a3c1e506011b9</id>
     <published>2026-04-30T00:00:00+00:00</published>
     <updated>2026-04-30T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis</title>
-    <link href="https://allenai.org/blog/olmoearth-embeddings"/>
-    <id>8ac13cf4e21febb41cd4b065caf9c277</id>
-    <published>2026-04-23T00:00:00+00:00</published>
-    <updated>2026-04-23T00:00:00+00:00</updated>
   </entry>
 </feed>

@@ -4,138 +4,41 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-06-28T19:05:39+00:00</updated>
+  <updated>2026-06-29T18:22:20.720000+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>人工智能不足后，福特重新雇用“灰胡子”工程师 / Ford rehires ‘gray beard’ engineers after AI falls short</title>
-    <link href="https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short"/>
-    <id>c2361f659302c559f00fd9c92fd55e9f</id>
-    <published>2026-06-28T19:05:39+00:00</published>
-    <updated>2026-06-28T19:05:39+00:00</updated>
-    <summary type="text">Score: 0.670\nSources: 3 (Curated Media)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>很多搭建LLM智能体的团队都会卡在同一个问题：即便精细调试提示词，模型仍然频繁出错而且无法自主优化。传统监督微调只能复刻样本，很难适配多步骤工具调用任务。文章中介绍了一套低门槛强化微调组合方案：借助开源ART框架落地GRPO算法，搭配RULER免去标注数据与自定义奖励函数，依靠大模型评审给出相对排序完成训练。</title>
-    <link href="https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"/>
-    <id>f4151cd47e09d4c57e0c82deef23f134</id>
-    <published>2026-06-28T17:43:53.592161+00:00</published>
-    <updated>2026-06-28T17:43:53.592161+00:00</updated>
-    <summary type="text">Score: 0.687\nSources: 6 (WaytoAGI)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>致AI杂工们</title>
-    <link href="https://www.reddit.com/r/plan9/comments/1uhiwf9/attention_ai_slop_porters"/>
-    <id>e6377ee0571a58de4d52a78686659896</id>
-    <published>2026-06-28T17:06:40+00:00</published>
-    <updated>2026-06-28T17:06:40+00:00</updated>
-    <summary type="text">Score: 0.538\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度</title>
-    <link href="https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside"/>
-    <id>d1497338f697a3b4d7b041ddcc566e63</id>
-    <published>2026-06-28T17:03:07+00:00</published>
-    <updated>2026-06-28T17:03:07+00:00</updated>
-    <summary type="text">Score: 0.722\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Claude 在 Microsoft Foundry 正式可用</title>
+    <link href="https://claude.com/blog/claude-in-microsoft-foundry"/>
+    <id>943bfd283c00eec615f2400cc46d58f9</id>
+    <published>2026-06-29T18:22:20.720000+00:00</published>
+    <updated>2026-06-29T18:22:20.720000+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI</title>
-    <link href="https://news.ycombinator.com/item?id=48708941"/>
-    <id>1d650217ee204a2180157b8626d2d39f</id>
-    <published>2026-06-28T16:35:19+00:00</published>
-    <updated>2026-06-28T16:35:19+00:00</updated>
-    <summary type="text">Score: 0.566\nSources: 3 (NewsNow)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Daisugi 日本从树中取树的技术，制作精确的直木 (2020) / Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)</title>
-    <link href="https://www.openculture.com/2020/10/daisugi.html"/>
-    <id>6f9f0618ac9b830adef2d77452f5e1bc</id>
-    <published>2026-06-28T16:28:50+00:00</published>
-    <updated>2026-06-28T16:28:50+00:00</updated>
-    <summary type="text">Score: 0.535\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>OpenAi 研究员：未来最极度的稀缺是什么？</title>
-    <link href="https://www.huxiu.com/article/4871071.html?f=rss"/>
-    <id>17ece64d67419e2f4fc819f037e0a3a0</id>
-    <published>2026-06-28T16:06:01+00:00</published>
-    <updated>2026-06-28T16:06:01+00:00</updated>
-    <summary type="text">Score: 0.538\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks</title>
-    <link href="https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks"/>
-    <id>f0f69dc40b9044063077c4ce1c13ff99</id>
-    <published>2026-06-28T14:58:01+00:00</published>
-    <updated>2026-06-28T14:58:01+00:00</updated>
-    <summary type="text">Score: 0.564\nSources: 3 (TechURLs)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>谷歌限制Meta使用其Gemini人工智能模型</title>
-    <link href="https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"/>
-    <id>75ca9b3f49b25c78d12bd5bc46a6516d</id>
-    <published>2026-06-28T13:30:06+00:00</published>
-    <updated>2026-06-28T13:30:06+00:00</updated>
-    <summary type="text">Score: 0.562\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>OpenAI Codex中关于如何排除敏感文件的问题仍未解决</title>
-    <link href="https://github.com/openai/codex/issues/2847"/>
-    <id>bab96c978bb114c10a6984ae0041e4da</id>
-    <published>2026-06-28T12:27:33+00:00</published>
-    <updated>2026-06-28T12:27:33+00:00</updated>
-    <summary type="text">Score: 0.560\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus</title>
-    <link href="https://x.com/elonmusk/status/2071184354756477041"/>
-    <id>aa40d8697e5e2ad5f002bbb365fc43f9</id>
-    <published>2026-06-28T10:50:05+00:00</published>
-    <updated>2026-06-28T10:50:05+00:00</updated>
-    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions</title>
+    <link href="https://huggingface.co/blog/allenai/discoformer"/>
+    <id>9dea388b6f0776b6101cb2a4a682031c</id>
+    <published>2026-06-29T18:02:48+00:00</published>
+    <updated>2026-06-29T18:02:48+00:00</updated>
+    <summary type="text">Score: 0.865\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
-    <category term="industry"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>仅有三个AI模型在500天创业测试中盈利超过起始资本</title>
-    <link href="https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test"/>
-    <id>69245888af4a674d0bef918a1562c0d3</id>
-    <published>2026-06-28T10:16:13+00:00</published>
-    <updated>2026-06-28T10:16:13+00:00</updated>
-    <summary type="text">Score: 0.761\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Qwen 3.6 27B 是本地开发的理想选择</title>
+    <link href="https://quesma.com/blog/qwen-36-is-awesome"/>
+    <id>e8f11315db70e6be730e8a2c405c102c</id>
+    <published>2026-06-29T17:05:16+00:00</published>
+    <updated>2026-06-29T17:05:16+00:00</updated>
+    <summary type="text">Score: 0.799\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -143,12 +46,63 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>新浪开源VibeThinker-3B：推理可压缩，事实知识不能</title>
-    <link href="https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt"/>
-    <id>2717e9982cc872df896e96a9a20dcd78</id>
-    <published>2026-06-28T07:44:41+00:00</published>
-    <updated>2026-06-28T07:44:41+00:00</updated>
-    <summary type="text">Score: 0.756\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot"/>
+    <id>c91fd2e6fdf0658c31bdb5f053351722</id>
+    <published>2026-06-29T16:47:16+00:00</published>
+    <updated>2026-06-29T16:47:16+00:00</updated>
+    <summary type="text">Score: 0.854\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>仅限协作者创建问题 / Restrict issue creation to collaborators only</title>
+    <link href="https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only"/>
+    <id>6093c48e53a659581089f4f82e066dbb</id>
+    <published>2026-06-29T16:08:23+00:00</published>
+    <updated>2026-06-29T16:08:23+00:00</updated>
+    <summary type="text">Score: 0.837\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?</title>
+    <link href="https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer"/>
+    <id>1f577f84cf6d7bd96cc71cacce3657c4</id>
+    <published>2026-06-29T16:00:00+00:00</published>
+    <updated>2026-06-29T16:00:00+00:00</updated>
+    <summary type="text">Score: 0.836\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式</title>
+    <link href="https://x.com/berryxia/status/2071610700213191075"/>
+    <id>1b5c6697786e01f1ca5926434397314a</id>
+    <published>2026-06-29T15:04:14+00:00</published>
+    <updated>2026-06-29T15:04:14+00:00</updated>
+    <summary type="text">Score: 0.772\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标</title>
+    <link href="https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school"/>
+    <id>984551465a3aa0c96778f066bb4d73a5</id>
+    <published>2026-06-29T12:30:21+00:00</published>
+    <updated>2026-06-29T12:30:21+00:00</updated>
+    <summary type="text">Score: 0.785\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -156,82 +110,150 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由</title>
-    <link href="https://github.com/itsthelore/wayfinder-router"/>
-    <id>e976f5c7de2245ab5a207fc78de45a27</id>
-    <published>2026-06-28T04:31:18+00:00</published>
-    <updated>2026-06-28T04:31:18+00:00</updated>
-    <summary type="text">Score: 0.842\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具</title>
-    <link href="https://github.com/kageroumado/adrafinil"/>
-    <id>7d4eed4ed525fd3e58acbc3344b26ccd</id>
-    <published>2026-06-28T03:55:17.096000+00:00</published>
-    <updated>2026-06-28T03:55:17.096000+00:00</updated>
-    <summary type="text">Score: 0.729\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Meta发布Brain2Qwerty v2：非侵入式实时句子解码</title>
+    <link href="https://x.com/AIatMeta/status/2071566924803395741"/>
+    <id>0acf615414e4b58307881f905635d4b8</id>
+    <published>2026-06-29T12:10:17+00:00</published>
+    <updated>2026-06-29T12:10:17+00:00</updated>
+    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。</title>
-    <link href="https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"/>
-    <id>94ec68eb4a07a8979a56aa6c51218f92</id>
-    <published>2026-06-28T03:09:13+00:00</published>
-    <updated>2026-06-28T03:09:13+00:00</updated>
-    <summary type="text">Score: 0.537\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板</title>
-    <link href="https://www.ithome.com/0/969/570.htm"/>
-    <id>2ea1a46efbe80d52620cad06bb402df9</id>
-    <published>2026-06-28T02:45:16+00:00</published>
-    <updated>2026-06-28T02:45:16+00:00</updated>
-    <summary type="text">Score: 0.763\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Show HN: Bash4LLM——一个轻量级、无依赖的用于 LLM API 的 Bash 封装库 / Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs</title>
-    <link href="https://github.com/kamaludu/bash4llm"/>
-    <id>348d51f2018b6464133e42975e4c6a42</id>
-    <published>2026-06-28T01:30:56.174000+00:00</published>
-    <updated>2026-06-28T01:30:56.174000+00:00</updated>
-    <summary type="text">Score: 0.543\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>从任何地点构建--Cursor for iOS 公测版发布</title>
+    <link href="https://cursor.com/blog/ios-mobile-app"/>
+    <id>f46b134480da0bd453bafbbf0bb48ee4</id>
+    <published>2026-06-29T12:00:00+00:00</published>
+    <updated>2026-06-29T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>对 AI 废话和网络噪音的最佳回应来自 Robin Williams / The best response to AI slop and online noise is from Robin Williams</title>
-    <link href="https://news.ycombinator.com/item?id=48703452"/>
-    <id>4c8c3f0db1e6a6ab975542216a30392d</id>
-    <published>2026-06-28T01:28:10+00:00</published>
-    <updated>2026-06-28T01:28:10+00:00</updated>
-    <summary type="text">Score: 0.592\nSources: 5 (NewsNow)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>小红书 RedKnot 推理引擎：将 KV Cache 按注意力头拆解实现长文本加速</title>
+    <link href="https://mp.weixin.qq.com/s/qRrZvL0aZzYI82djFSrLug"/>
+    <id>c9cde2da8ba4110a5860b4b7ffc350b8</id>
+    <published>2026-06-29T11:00:07+00:00</published>
+    <updated>2026-06-29T11:00:07+00:00</updated>
+    <summary type="text">Score: 0.748\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>SpaceX 注册 SpaceXAI 商标，将合并 xAI</title>
-    <link href="https://x.com/cb_doge/status/2070973276562530507"/>
-    <id>fdcb8833caac1d6f42a8c16f682756d1</id>
-    <published>2026-06-27T20:51:20+00:00</published>
-    <updated>2026-06-27T20:51:20+00:00</updated>
-    <summary type="text">Score: 0.727\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能</title>
+    <link href="https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills"/>
+    <id>3c0021b6786b62453aec47f996532301</id>
+    <published>2026-06-29T10:42:47+00:00</published>
+    <updated>2026-06-29T10:42:47+00:00</updated>
+    <summary type="text">Score: 0.778\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制</title>
+    <link href="https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control"/>
+    <id>b8b72a5df8ea2b8c4645fefb3ee95eb9</id>
+    <published>2026-06-29T10:04:32+00:00</published>
+    <updated>2026-06-29T10:04:32+00:00</updated>
+    <summary type="text">Score: 0.774\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>国务院印发《教育发展&quot;十五五&quot;规划》，推进人工智能全学段教育</title>
+    <link href="https://www.ithome.com/0/970/097.htm"/>
+    <id>357123fffb3ea018c8fa41f4ef0b0988</id>
+    <published>2026-06-29T09:27:36+00:00</published>
+    <updated>2026-06-29T09:27:36+00:00</updated>
+    <summary type="text">Score: 0.793\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>模型变小，能力不减：新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路</title>
+    <link href="https://www.aibase.com/news/29236"/>
+    <id>a73c0319cf43309f42781102cdff1063</id>
+    <published>2026-06-29T09:01:44.281285+00:00</published>
+    <updated>2026-06-29T09:01:44.281285+00:00</updated>
+    <summary type="text">Score: 0.768\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 报告：绘制欧洲 AI 劳动力机遇版图 / Mapping Europe’s AI Workforce Opportunity</title>
+    <link href="https://openai.com/index/mapping-ai-jobs-transition-eu"/>
+    <id>c5ca6911def1dfb06fb496570483a2a8</id>
+    <published>2026-06-29T07:00:00+00:00</published>
+    <updated>2026-06-29T07:00:00+00:00</updated>
+    <summary type="text">Score: 0.848\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>何夕2077 AI 深度信号周报 (2026 W26)：安全合规门槛、模型军备竞赛与硬件成本转嫁</title>
+    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-06-29-hexi-ai-signal-weekly-2026-w26"/>
+    <id>735eb0627d615397c1e4c209e23fb7bf</id>
+    <published>2026-06-29T05:09:31+00:00</published>
+    <updated>2026-06-29T05:09:31+00:00</updated>
+    <summary type="text">Score: 0.735\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Herdr：驻留在终端中的AI智能体多路复用器</title>
+    <link href="https://github.com/ogulcancelik/herdr"/>
+    <id>cefaec61b5bb8bc42d43076d673a431b</id>
+    <published>2026-06-29T04:27:46+00:00</published>
+    <updated>2026-06-29T04:27:46+00:00</updated>
+    <summary type="text">Score: 0.777\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>农技服务“数字化”升级：农帮手 2.0 版上线，打造人人可用的 AI 专家</title>
+    <link href="https://www.aibase.com/news/29223"/>
+    <id>3498c46a8f277aeac2fa1bf654494576</id>
+    <published>2026-06-29T03:57:13.414687+00:00</published>
+    <updated>2026-06-29T03:57:13.414687+00:00</updated>
+    <summary type="text">Score: 0.757\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>分享两个Vibe Coding必备的实用Prompt：第一性原理与对抗式审查</title>
+    <link href="https://mp.weixin.qq.com/s/umPqTD_-IubbhXIgiS47eQ"/>
+    <id>fe96fe5b6d58b0233920cab963b01bc8</id>
+    <published>2026-06-29T02:08:00+00:00</published>
+    <updated>2026-06-29T02:08:00+00:00</updated>
+    <summary type="text">Score: 0.723\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
