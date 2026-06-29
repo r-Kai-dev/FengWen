@@ -143,9 +143,6 @@ The following tables include both the feeds created by this project and existing
 | [Groq Blog](https://groq.com/blog) | [groq_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/groq_blog.xml) | Created |
 | [Groq Newsroom](https://groq.com/newsroom) | [groq_newsroom.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/groq_newsroom.xml) | Created |
 | [Higgsfield Blog](https://higgsfield.ai/blog) | [higgsfield_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/higgsfield_blog.xml) | Created |
-| [AWS AI Blog](https://aws.amazon.com/blogs/machine-learning/) | [AWS AI Blog Feed](https://aws.amazon.com/blogs/machine-learning/feed/) | Official |
-| [AWS AI News](https://aws.amazon.com/blogs/aws/category/artificial-intelligence/) | [AWS AI News Feed](https://aws.amazon.com/blogs/aws/category/artificial-intelligence/feed/) | Official |
-| [Microsoft AI Blog](https://www.microsoft.com/en-us/ai/blog/) | [Microsoft AI Blog Feed](https://www.microsoft.com/en-us/ai/blog/feed/) | Official |
 | [HuggingFace Blog](https://huggingface.co/blog) | [HuggingFace Blog Feed](https://huggingface.co/blog/feed.xml) | Official |
 | [Replicate Blog](https://replicate.com/blog) | [Replicate Blog Feed](https://replicate.com/blog/atom) | Official |
 | [OpenRouter Blog](https://openrouter.ai/blog/) | [OpenRouter Blog Feed](https://openrouter.ai/blog/feed.xml) | Official |
