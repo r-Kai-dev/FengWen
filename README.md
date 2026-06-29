@@ -130,6 +130,7 @@ The following tables include both the feeds created by this project and existing
 | [Netflix Tech Blog](https://netflixtechblog.com) | [Netflix Tech Blog Feed](https://netflixtechblog.com/feed) | Official |
 | [Thinking Machines Lab Blog](https://thinkingmachines.ai/blog/) | [Thinking Machines Lab Blog Feed](https://thinkingmachines.ai/blog/index.xml) | Official |
 | [Krea AI Blog](https://www.krea.ai/blog) | [Krea AI Blog Feed](https://www.krea.ai/blog/feed/atom.xml) | Official |
+| [Canva Engineering Blog](https://www.canva.dev/blog/engineering/) | [Canva Engineering Blog Feed](https://www.canva.dev/blog/engineering/feed.xml) | Official |
 
 
 ## Platforms
