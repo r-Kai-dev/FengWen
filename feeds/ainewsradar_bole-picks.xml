@@ -4,28 +4,29 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-06-29T18:22:20.720000+00:00</updated>
+  <updated>2026-06-30T19:44:44+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Claude 在 Microsoft Foundry 正式可用</title>
-    <link href="https://claude.com/blog/claude-in-microsoft-foundry"/>
-    <id>943bfd283c00eec615f2400cc46d58f9</id>
-    <published>2026-06-29T18:22:20.720000+00:00</published>
-    <updated>2026-06-29T18:22:20.720000+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>NotebookLM Short Video Overviews 全量上线 Web 英文版</title>
+    <link href="https://x.com/NotebookLM/status/2072043680442245276"/>
+    <id>c20cc33a2d19772ade8e08ae31d0774d</id>
+    <published>2026-06-30T19:44:44+00:00</published>
+    <updated>2026-06-30T19:44:44+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions</title>
-    <link href="https://huggingface.co/blog/allenai/discoformer"/>
-    <id>9dea388b6f0776b6101cb2a4a682031c</id>
-    <published>2026-06-29T18:02:48+00:00</published>
-    <updated>2026-06-29T18:02:48+00:00</updated>
-    <summary type="text">Score: 0.865\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration</title>
+    <link href="https://huggingface.co/blog/ibm-research/scarfbench"/>
+    <id>d6116d9da9e7f90334d270707e1cf721</id>
+    <published>2026-06-30T18:32:50+00:00</published>
+    <updated>2026-06-30T18:32:50+00:00</updated>
+    <summary type="text">Score: 0.860\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -33,12 +34,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Qwen 3.6 27B 是本地开发的理想选择</title>
-    <link href="https://quesma.com/blog/qwen-36-is-awesome"/>
-    <id>e8f11315db70e6be730e8a2c405c102c</id>
-    <published>2026-06-29T17:05:16+00:00</published>
-    <updated>2026-06-29T17:05:16+00:00</updated>
-    <summary type="text">Score: 0.799\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Claude Code v2.1.197 发布：默认模型升级为 Claude Sonnet 5，支持原生 1M-token 上下文窗口</title>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.197"/>
+    <id>3ca43e56ad25ab7732c76c379064eea6</id>
+    <published>2026-06-30T17:56:37+00:00</published>
+    <updated>2026-06-30T17:56:37+00:00</updated>
+    <summary type="text">Score: 0.812\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -46,62 +47,11 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot</title>
-    <link href="https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot"/>
-    <id>c91fd2e6fdf0658c31bdb5f053351722</id>
-    <published>2026-06-29T16:47:16+00:00</published>
-    <updated>2026-06-29T16:47:16+00:00</updated>
-    <summary type="text">Score: 0.854\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>仅限协作者创建问题 / Restrict issue creation to collaborators only</title>
-    <link href="https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only"/>
-    <id>6093c48e53a659581089f4f82e066dbb</id>
-    <published>2026-06-29T16:08:23+00:00</published>
-    <updated>2026-06-29T16:08:23+00:00</updated>
-    <summary type="text">Score: 0.837\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?</title>
-    <link href="https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer"/>
-    <id>1f577f84cf6d7bd96cc71cacce3657c4</id>
-    <published>2026-06-29T16:00:00+00:00</published>
-    <updated>2026-06-29T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.836\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式</title>
-    <link href="https://x.com/berryxia/status/2071610700213191075"/>
-    <id>1b5c6697786e01f1ca5926434397314a</id>
-    <published>2026-06-29T15:04:14+00:00</published>
-    <updated>2026-06-29T15:04:14+00:00</updated>
-    <summary type="text">Score: 0.772\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标</title>
-    <link href="https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school"/>
-    <id>984551465a3aa0c96778f066bb4d73a5</id>
-    <published>2026-06-29T12:30:21+00:00</published>
-    <updated>2026-06-29T12:30:21+00:00</updated>
+    <title>Acti 将 AI 智能体直接放入手机键盘</title>
+    <link href="https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard"/>
+    <id>d9772902bdaf16a2ff06f4e2953638c4</id>
+    <published>2026-06-30T17:52:46+00:00</published>
+    <updated>2026-06-30T17:52:46+00:00</updated>
     <summary type="text">Score: 0.785\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
@@ -110,23 +60,11 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Meta发布Brain2Qwerty v2：非侵入式实时句子解码</title>
-    <link href="https://x.com/AIatMeta/status/2071566924803395741"/>
-    <id>0acf615414e4b58307881f905635d4b8</id>
-    <published>2026-06-29T12:10:17+00:00</published>
-    <updated>2026-06-29T12:10:17+00:00</updated>
-    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>从任何地点构建--Cursor for iOS 公测版发布</title>
-    <link href="https://cursor.com/blog/ios-mobile-app"/>
-    <id>f46b134480da0bd453bafbbf0bb48ee4</id>
-    <published>2026-06-29T12:00:00+00:00</published>
-    <updated>2026-06-29T12:00:00+00:00</updated>
+    <title>Claude Code 入门：智能体循环</title>
+    <link href="https://claude.com/blog/getting-started-with-loops"/>
+    <id>927d36c5d7bede5abbd7b8b5f34d37f1</id>
+    <published>2026-06-30T17:28:28.530000+00:00</published>
+    <updated>2026-06-30T17:28:28.530000+00:00</updated>
     <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
@@ -134,75 +72,50 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>小红书 RedKnot 推理引擎：将 KV Cache 按注意力头拆解实现长文本加速</title>
-    <link href="https://mp.weixin.qq.com/s/qRrZvL0aZzYI82djFSrLug"/>
-    <id>c9cde2da8ba4110a5860b4b7ffc350b8</id>
-    <published>2026-06-29T11:00:07+00:00</published>
-    <updated>2026-06-29T11:00:07+00:00</updated>
-    <summary type="text">Score: 0.748\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot"/>
+    <id>7e7931ba721b3bfad0720b924089615d</id>
+    <published>2026-06-30T17:25:51+00:00</published>
+    <updated>2026-06-30T17:25:51+00:00</updated>
+    <summary type="text">Score: 0.851\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
-    <category term="industry"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能</title>
-    <link href="https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills"/>
-    <id>3c0021b6786b62453aec47f996532301</id>
-    <published>2026-06-29T10:42:47+00:00</published>
-    <updated>2026-06-29T10:42:47+00:00</updated>
-    <summary type="text">Score: 0.778\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>用 shot-scraper video 让 AI 智能体录制工作演示视频</title>
+    <link href="https://simonwillison.net/2026/Jun/30/shot-scraper-video"/>
+    <id>568f4befda677fd3bb46801a50bfdac5</id>
+    <published>2026-06-30T16:54:26+00:00</published>
+    <updated>2026-06-30T16:54:26+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制</title>
-    <link href="https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control"/>
-    <id>b8b72a5df8ea2b8c4645fefb3ee95eb9</id>
-    <published>2026-06-29T10:04:32+00:00</published>
-    <updated>2026-06-29T10:04:32+00:00</updated>
-    <summary type="text">Score: 0.774\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
+    <title>GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests</title>
+    <link href="https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests"/>
+    <id>6b762444b4cdc46ab74439f7e101dd62</id>
+    <published>2026-06-30T16:42:21+00:00</published>
+    <updated>2026-06-30T16:42:21+00:00</updated>
+    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="industry"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>国务院印发《教育发展&quot;十五五&quot;规划》，推进人工智能全学段教育</title>
-    <link href="https://www.ithome.com/0/970/097.htm"/>
-    <id>357123fffb3ea018c8fa41f4ef0b0988</id>
-    <published>2026-06-29T09:27:36+00:00</published>
-    <updated>2026-06-29T09:27:36+00:00</updated>
-    <summary type="text">Score: 0.793\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>模型变小，能力不减：新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路</title>
-    <link href="https://www.aibase.com/news/29236"/>
-    <id>a73c0319cf43309f42781102cdff1063</id>
-    <published>2026-06-29T09:01:44.281285+00:00</published>
-    <updated>2026-06-29T09:01:44.281285+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 报告：绘制欧洲 AI 劳动力机遇版图 / Mapping Europe’s AI Workforce Opportunity</title>
-    <link href="https://openai.com/index/mapping-ai-jobs-transition-eu"/>
-    <id>c5ca6911def1dfb06fb496570483a2a8</id>
-    <published>2026-06-29T07:00:00+00:00</published>
-    <updated>2026-06-29T07:00:00+00:00</updated>
-    <summary type="text">Score: 0.848\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash</title>
+    <link href="https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash"/>
+    <id>3d3b13d176a3fb3c97676128f64f3ef6</id>
+    <published>2026-06-30T16:02:40+00:00</published>
+    <updated>2026-06-30T16:02:40+00:00</updated>
+    <summary type="text">Score: 0.865\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="multi_source"/>
@@ -211,23 +124,38 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>何夕2077 AI 深度信号周报 (2026 W26)：安全合规门槛、模型军备竞赛与硬件成本转嫁</title>
-    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-06-29-hexi-ai-signal-weekly-2026-w26"/>
-    <id>735eb0627d615397c1e4c209e23fb7bf</id>
-    <published>2026-06-29T05:09:31+00:00</published>
-    <updated>2026-06-29T05:09:31+00:00</updated>
-    <summary type="text">Score: 0.735\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant</title>
+    <link href="https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant"/>
+    <id>8fe1a42e5fe879ee07b692edf47673aa</id>
+    <published>2026-06-30T16:00:19+00:00</published>
+    <updated>2026-06-30T16:00:19+00:00</updated>
+    <summary type="text">Score: 0.840\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
-    <category term="industry"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>Herdr：驻留在终端中的AI智能体多路复用器</title>
-    <link href="https://github.com/ogulcancelik/herdr"/>
-    <id>cefaec61b5bb8bc42d43076d673a431b</id>
-    <published>2026-06-29T04:27:46+00:00</published>
-    <updated>2026-06-29T04:27:46+00:00</updated>
-    <summary type="text">Score: 0.777\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>为什么专业化是不可避免的 / Why Specialization Is Inevitable</title>
+    <link href="https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable"/>
+    <id>cd6a50501f480ca4b882fbce0d27259f</id>
+    <published>2026-06-30T14:39:11+00:00</published>
+    <updated>2026-06-30T14:39:11+00:00</updated>
+    <summary type="text">Score: 0.844\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示</title>
+    <link href="https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts"/>
+    <id>8893633db189bfa41ec3d199a081b2ea</id>
+    <published>2026-06-30T11:14:52+00:00</published>
+    <updated>2026-06-30T11:14:52+00:00</updated>
+    <summary type="text">Score: 0.763\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -235,12 +163,26 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>农技服务“数字化”升级：农帮手 2.0 版上线，打造人人可用的 AI 专家</title>
-    <link href="https://www.aibase.com/news/29223"/>
-    <id>3498c46a8f277aeac2fa1bf654494576</id>
-    <published>2026-06-29T03:57:13.414687+00:00</published>
-    <updated>2026-06-29T03:57:13.414687+00:00</updated>
-    <summary type="text">Score: 0.757\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
+    <title>OpenAI Signals 数据揭示 ChatGPT 全球采用趋势 / How ChatGPT adoption has expanded</title>
+    <link href="https://openai.com/index/how-chatgpt-adoption-has-expanded"/>
+    <id>f33b5afacfa72e127a5b8ac663bd6d80</id>
+    <published>2026-06-30T09:00:00+00:00</published>
+    <updated>2026-06-30T09:00:00+00:00</updated>
+    <summary type="text">Score: 0.857\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台</title>
+    <link href="https://www.ithome.com/0/970/583.htm"/>
+    <id>e2dc2157ed68f7cf003d65b1839ea997</id>
+    <published>2026-06-30T07:56:46+00:00</published>
+    <updated>2026-06-30T07:56:46+00:00</updated>
+    <summary type="text">Score: 0.756\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -248,14 +190,83 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>分享两个Vibe Coding必备的实用Prompt：第一性原理与对抗式审查</title>
-    <link href="https://mp.weixin.qq.com/s/umPqTD_-IubbhXIgiS47eQ"/>
-    <id>fe96fe5b6d58b0233920cab963b01bc8</id>
-    <published>2026-06-29T02:08:00+00:00</published>
-    <updated>2026-06-29T02:08:00+00:00</updated>
-    <summary type="text">Score: 0.723\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers</title>
+    <link href="https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers"/>
+    <id>c09c85ac57a89a7a2f3985c464cce93f</id>
+    <published>2026-06-30T06:00:00+00:00</published>
+    <updated>2026-06-30T06:00:00+00:00</updated>
+    <summary type="text">Score: 0.809\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>一个人管理5款产品，80%时间不写代码？Every的复利工程</title>
+    <link href="https://x.com/xiaohu/status/2071796715162857477"/>
+    <id>9681e6c3fc8dce9a1110d362306a2dad</id>
+    <published>2026-06-30T03:23:23+00:00</published>
+    <updated>2026-06-30T03:23:23+00:00</updated>
+    <summary type="text">Score: 0.754\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Science 科研工作台正式上线 / Claude Science, an AI workbench for scientists, is now available</title>
+    <link href="https://www.anthropic.com/news/claude-science-ai-workbench"/>
+    <id>af2ac3bb1681d08db63ec43c66c7319a</id>
+    <published>2026-06-30T00:00:00+00:00</published>
+    <updated>2026-06-30T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.838\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude Sonnet 5 发布 / Introducing Claude Sonnet 5</title>
+    <link href="https://www.anthropic.com/news/claude-sonnet-5"/>
+    <id>f4e0183e1404d4ba6282925bb94aadff</id>
+    <published>2026-06-30T00:00:00+00:00</published>
+    <updated>2026-06-30T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.888\nSources: 4 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 发布 GeneBench-Pro：计算生物学研究级基准测试 / Introducing GeneBench-Pro</title>
+    <link href="https://openai.com/index/introducing-genebench-pro"/>
+    <id>9e17e2314ab966f9dcdbc16eb04a587e</id>
+    <published>2026-06-30T00:00:00+00:00</published>
+    <updated>2026-06-30T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.830\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages</title>
+    <link href="https://huggingface.co/blog/eee-community-evals"/>
+    <id>5c91545730bc141a93001aa3d8a44b9f</id>
+    <published>2026-06-30T00:00:00+00:00</published>
+    <updated>2026-06-30T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
 </feed>

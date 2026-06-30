@@ -4,10 +4,19 @@
   <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
   <link href="https://www.figma.com/blog/"/>
   <id>https://www.figma.com/blog/</id>
-  <updated>2026-06-29T20:12:13.375Z</updated>
+  <updated>2026-06-29T21:22:00.000Z</updated>
   <author>
-    <name>Emma Webster</name>
+    <name>Amber Bravo</name>
   </author>
+  <entry>
+    <title>Start Anywhere, a magazine by Figma</title>
+    <link href="https://www.figma.com/blog/start-anywhere/"/>
+    <id>7bfda3486d72ac4e6c0d323b3138ce10</id>
+    <published>2026-06-29T21:22:00.000Z</published>
+    <updated>2026-06-29T21:22:00.000Z</updated>
+    <summary type="text">New tools and materials make it easier to build anything and start anywhere. The question now is, where do you want to go?</summary>
+    <category term="Inside Figma"/>
+  </entry>
   <entry>
     <title>Meet the artists behind Figma’s Season 5 collection</title>
     <link href="https://www.figma.com/blog/how-season-5-merch-came-to-life/"/>
@@ -72,6 +81,33 @@
     <category term="Insights"/>
   </entry>
   <entry>
+    <title>Principles in motion</title>
+    <link href="https://www.figma.com/blog/principles-in-motion/"/>
+    <id>51ed6c282896bc8dc368173e403fcf27</id>
+    <published>2026-06-24T12:30:00.000Z</published>
+    <updated>2026-06-24T12:30:00.000Z</updated>
+    <summary type="text">When you’re designing motion, you’re designing with time. Understanding the mechanics turns movement into meaning.</summary>
+    <category term="Working Well"/>
+  </entry>
+  <entry>
+    <title>What does the future of software look like?</title>
+    <link href="https://www.figma.com/blog/future-states/"/>
+    <id>a2bc13c736a991eb6575ba46e2913f64</id>
+    <published>2026-06-24T12:00:00.000Z</published>
+    <updated>2026-06-24T12:00:00.000Z</updated>
+    <summary type="text">Our community imagines how AI might bring about more human ways to interact with software.</summary>
+    <category term="Insights"/>
+  </entry>
+  <entry>
+    <title>Speaking the language of color</title>
+    <link href="https://www.figma.com/blog/pantone-speaking-the-language-of-color/"/>
+    <id>102db51b37435595774aba964905b2ea</id>
+    <published>2026-06-17T15:00:00.000Z</published>
+    <updated>2026-06-17T15:00:00.000Z</updated>
+    <summary type="text">The Pantone Color Institute explains how brands can use color to shape meaning and drive trends.</summary>
+    <category term="Maker Stories"/>
+  </entry>
+  <entry>
     <title>4 ways we’re using our MCP server at Figma</title>
     <link href="https://www.figma.com/blog/4-ways-were-using-our-mcp-server-at-figma/"/>
     <id>23d22de47f11e2cb041bc633a5065328</id>
@@ -81,6 +117,42 @@
     <category term="Inside Figma"/>
   </entry>
   <entry>
+    <title>You never stop cultivating taste</title>
+    <link href="https://www.figma.com/blog/you-never-stop-cultivating-taste/"/>
+    <id>4aad122c451b6909de964625d41402d1</id>
+    <published>2026-06-08T16:26:36.446Z</published>
+    <updated>2026-06-08T16:26:36.446Z</updated>
+    <summary type="text">Having the right tools can only take you so far. To become a master of your craft, you need to hone a point of view.</summary>
+    <category term="Insights"/>
+  </entry>
+  <entry>
+    <title>4 new ways to go from idea to product with AI tools</title>
+    <link href="https://www.figma.com/blog/4-new-ways-to-go-from-idea-to-product-with-ai-tools/"/>
+    <id>a2ca25e89de049fc17efebb3fb73a2b9</id>
+    <published>2026-05-28T19:52:00.000Z</published>
+    <updated>2026-05-28T19:52:00.000Z</updated>
+    <summary type="text">AI tools are changing how teams build products—from where they start to what carries through to production. Here's what that shift looks like across four organizations.</summary>
+    <category term="Working Well"/>
+  </entry>
+  <entry>
+    <title>What matters when anyone can build</title>
+    <link href="https://www.figma.com/blog/what-matters-when-anyone-can-build/"/>
+    <id>7437731bde6b83e0c32bdaf04089cdec</id>
+    <published>2026-05-22T16:30:00.000Z</published>
+    <updated>2026-05-22T16:30:00.000Z</updated>
+    <summary type="text">If AI can make anyone a product builder, the real edge is knowing what’s worth shipping.</summary>
+    <category term="Insights"/>
+  </entry>
+  <entry>
+    <title>What the design-to-code loop unlocks</title>
+    <link href="https://www.figma.com/blog/what-the-design-to-code-loop-unlocks/"/>
+    <id>e9138e3992cc3cb505b0fb2b36bd39c1</id>
+    <published>2026-05-12T15:30:00.000Z</published>
+    <updated>2026-05-12T15:30:00.000Z</updated>
+    <summary type="text">With work moving more fluidly between code and canvas, workflows aren’t just changing—they’re converging.</summary>
+    <category term="Working Well"/>
+  </entry>
+  <entry>
     <title>Workflow lab: Expanding the canvas with Figma MCP</title>
     <link href="https://www.figma.com/blog/workflow-lab-expanding-the-canvas-with-figma-mcp/"/>
     <id>e8d1f26ba450116d02ca7c42b2c5bb47</id>
@@ -88,6 +160,15 @@
     <updated>2026-04-30T12:00:00.000Z</updated>
     <summary type="text">As teams build faster, design and code can drift apart just as quickly. This workflow shows how to close that gap—bringing real product states onto the canvas so designers can shape what actually ships.</summary>
     <category term="Working Well"/>
+  </entry>
+  <entry>
+    <title>How to design agentic tools for work</title>
+    <link href="https://www.figma.com/blog/how-to-design-agentic-tools-for-work/"/>
+    <id>b0f7e1278576f9a8be7509db8ee03e87</id>
+    <published>2026-04-29T16:44:00.000Z</published>
+    <updated>2026-04-29T16:44:00.000Z</updated>
+    <summary type="text">The Gemini Enterprise team shares their approach to making complex, multi-agent workflows feel simple, intuitive, and trustworthy.</summary>
+    <category term="Maker Stories"/>
   </entry>
   <entry>
     <title>FigJam is now your coding agent’s whiteboard too</title>

@@ -4,128 +4,128 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-06-29T19:10:03+00:00</updated>
+  <updated>2026-06-30T18:00:31+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Git 2.55 Ships Smarter Repacking That Makes Huge Repos 2x Faster</title>
-    <link href="https://github.blog/open-source/git/highlights-from-git-2-55/"/>
-    <id>977efd55ac459ad60c90fabd0ee1d5bf</id>
-    <published>2026-06-29T19:10:03+00:00</published>
-    <updated>2026-06-29T19:10:03+00:00</updated>
-    <summary type="text">Git 2.55 ships incremental MIDX repacking, a new git history fixup command, Linux fsmonitor support, and a raft of performance improvements</summary>
-    <category term="open_source"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Replit Desktop Escapes the Browser Tab on Mac and Windows</title>
-    <link href="https://replit.com/desktop"/>
-    <id>1ca99b0e581456da7d9770c6a9f6c925</id>
-    <published>2026-06-29T18:44:07+00:00</published>
-    <updated>2026-06-29T18:44:07+00:00</updated>
-    <summary type="text">Replit launches a native desktop app for Mac and Windows, bringing distraction-free AI-powered development outside the browser</summary>
-    <category term="vibe_coding"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Google AI Studio Ships Chat History Sharing for Vibe-Coded Apps</title>
-    <link href="https://x.com/googleaistudio/status/2071662183969153245"/>
-    <id>fbe4a14cc178b8005061381ec11689e7</id>
-    <published>2026-06-29T18:28:48+00:00</published>
-    <updated>2026-06-29T18:28:48+00:00</updated>
-    <summary type="text">Google AI Studio's Build mode now lets you bundle your full chat history when sharing an app, making prompt workflows instantly reproducible for anyone with the link.</summary>
-    <category term="vibe_coding"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Opus 4.8 Hits General Availability Inside Microsoft Foundry</title>
-    <link href="https://claude.com/blog/claude-in-microsoft-foundry"/>
-    <id>35e84b471f01e4f5657e9911d3dc4538</id>
-    <published>2026-06-29T17:56:07+00:00</published>
-    <updated>2026-06-29T17:56:07+00:00</updated>
-    <summary type="text">Claude Opus 4.8 and Haiku 4.5 graduate from preview to GA in Microsoft Foundry, unlocking Azure-native billing, MACC drawdown, and a new 'hosted on Azure' mode with US data residency</summary>
-    <category term="api"/>
+    <title>Anthropic's Claude Sonnet 5 Matches Opus Performance at Half the Price</title>
+    <link href="https://www.anthropic.com/news/claude-sonnet-5"/>
+    <id>4a868ebd33853628a609b2384a15200b</id>
+    <published>2026-06-30T18:00:31+00:00</published>
+    <updated>2026-06-30T18:00:31+00:00</updated>
+    <summary type="text">Claude Sonnet 5 launches as the new default on Free and Pro plans, matching Opus 4.8 performance at Sonnet pricing with stronger agentic autonomy</summary>
     <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Cursor Launches iOS App Turning Your Phone Into an AI Agent Command Center</title>
-    <link href="https://apps.apple.com/us/app/cursor/id6767085653"/>
-    <id>eb70fdd5943215ea583e747b65512e18</id>
-    <published>2026-06-29T17:05:02+00:00</published>
-    <updated>2026-06-29T17:05:02+00:00</updated>
-    <summary type="text">Cursor launches a native iOS app that lets developers spawn and supervise AI coding agents from anywhere, as the company prepares to close its $60B SpaceX acquisition</summary>
-    <category term="development"/>
     <category term="agents"/>
   </entry>
   <entry>
-    <title>Cognition's Devin Fusion Cuts Coding AI Costs 35% Without Losing Frontier Intelligence</title>
-    <link href="https://app.devin.ai/signup?source=fusion_socials"/>
-    <id>d1c2885a0a0a201bfcfe852b08f5814a</id>
-    <published>2026-06-29T15:59:20+00:00</published>
-    <updated>2026-06-29T15:59:20+00:00</updated>
-    <summary type="text">Cognition's Devin Fusion uses a parallel 'sidekick' agent and dynamic mid-session routing to cut frontier-model costs by 35% without sacrificing code quality.</summary>
-    <category term="development"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Meta's Brain2Qwerty v2 Decodes Thoughts Into Text Without Brain Surgery</title>
-    <link href="https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?utm_source=twitter&amp;utm_medium=organic_social&amp;utm_content=video&amp;utm_campaign=brain2qwertyv2"/>
-    <id>1013a89f764f1bdb4a3cccebad624736</id>
-    <published>2026-06-29T12:10:17+00:00</published>
-    <updated>2026-06-29T12:10:17+00:00</updated>
-    <summary type="text">Meta's Brain2Qwerty v2 decodes full sentences from brain waves without surgery, hitting 61% word accuracy and releasing all training code publicly</summary>
-    <category term="llms"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>vLLM-Omni Squeezes 172% More Audio Out of Four Speech Models</title>
-    <link href="https://vllm.ai/blog/2026-06-23-vllm-omni-tts"/>
-    <id>0bc3f8c2ab2d76751a41b6014c8abedb</id>
-    <published>2026-06-29T02:55:04+00:00</published>
-    <updated>2026-06-29T02:55:04+00:00</updated>
-    <summary type="text">vLLM-Omni squeezes up to 172% more audio throughput from four TTS models by treating each pipeline stage as a separate optimization problem</summary>
-    <category term="audio"/>
+    <title>Lovable Ships Auto-Monitoring So Your App Stops Breaking Silently in Production</title>
+    <link href="https://x.com/lovable/status/2072011704318247364"/>
+    <id>53ca3660e200f1ab8d05d5ae23a076b6</id>
+    <published>2026-06-30T17:37:41+00:00</published>
+    <updated>2026-06-30T17:37:41+00:00</updated>
+    <summary type="text">Lovable adds scheduled app monitoring that alerts you when something breaks or fails silently, before your users notice</summary>
+    <category term="vibe_coding"/>
     <category term="infra"/>
   </entry>
   <entry>
-    <title>GitHub Copilot Matches Claude Code While Burning Fewer Tokens</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/?utm_source=social-x-copilot-agentic-harness-blog&amp;utm_medium=social&amp;utm_campaign=dev-pod-copilot-cli-2026"/>
-    <id>c2ff6dcb52616e57e84d8210cf8365a8</id>
-    <published>2026-06-28T22:14:09+00:00</published>
-    <updated>2026-06-28T22:14:09+00:00</updated>
-    <summary type="text">GitHub benchmarks its own agentic harness against Claude Code and Codex CLI, showing token efficiency gains without sacrificing task resolution across 20+ models.</summary>
-    <category term="development"/>
+    <title>OpenAI's GeneBench-Pro Exposes That Top AI Fails Real Biology 70% of the Time</title>
+    <link href="https://openai.com/index/introducing-genebench-pro/"/>
+    <id>c363751d05fde73acaac3f6d4355862a</id>
+    <published>2026-06-30T17:10:23+00:00</published>
+    <updated>2026-06-30T17:10:23+00:00</updated>
+    <summary type="text">OpenAI's new GeneBench-Pro tests whether AI agents can handle the messy judgment calls of real computational biology research â and current models solve fewer than a third of problems.</summary>
     <category term="benchmarks"/>
+    <category term="agents"/>
   </entry>
   <entry>
-    <title>Baidu's Unlimited-OCR Parses 200-Page PDFs With Flat Memory Usage</title>
-    <link href="https://recipes.vllm.ai/baidu/Unlimited-OCR"/>
-    <id>4ac1d79d518db89d7207bc598f8e1948</id>
-    <published>2026-06-28T06:19:24+00:00</published>
-    <updated>2026-06-28T06:19:24+00:00</updated>
-    <summary type="text">Baidu's Unlimited-OCR brings constant-memory long-document parsing to vLLM, transcribing 40+ pages in a single pass with a new attention mechanism that never grows the KV cache</summary>
-    <category term="image"/>
+    <title>Anthropic's Claude Science Collapses 60+ Research Tools Into One Desktop App</title>
+    <link href="https://claude.com/product/claude-science"/>
+    <id>bed344c20ad2d5a6fff8c6061c27f29e</id>
+    <published>2026-06-30T17:02:04+00:00</published>
+    <updated>2026-06-30T17:02:04+00:00</updated>
+    <summary type="text">Anthropic launches Claude Science, a dedicated AI research workbench with 60+ scientific databases, compute orchestration, and full reproducibility for every result</summary>
+    <category term="api"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>OpenAI Hunted a Rockset Bug and Found an 18-Year-Old Race Condition</title>
+    <link href="https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/"/>
+    <id>dd4c851f2f3ecd66f2d4a40b63069004</id>
+    <published>2026-06-30T16:33:51+00:00</published>
+    <updated>2026-06-30T16:33:51+00:00</updated>
+    <summary type="text">OpenAI engineers hunted mysterious C++ crashes for a year, uncovering a hardware fault and an 18-year-old race condition hiding in GNU libunwind.</summary>
+    <category term="training_infra"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Anthropic Finally Ships Claude Desktop for Linux, Ending Community Workarounds</title>
+    <link href="https://code.claude.com/docs/en/desktop-linux"/>
+    <id>1dbc9b4cc577d9fecbaa16f3c73cb379</id>
+    <published>2026-06-30T16:06:59+00:00</published>
+    <updated>2026-06-30T16:06:59+00:00</updated>
+    <summary type="text">Anthropic officially ships Claude Desktop for Ubuntu and Debian, closing a gap that had pushed Linux users toward unofficial community builds</summary>
+    <category term="development"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Google's NotebookLM Turns Any Document Into a 60-Second Vertical Video</title>
+    <link href="https://x.com/notebooklm/status/2071987494799716626"/>
+    <id>1cb98d09d0e0bb0429c57a9ff5769878</id>
+    <published>2026-06-30T16:01:29+00:00</published>
+    <updated>2026-06-30T16:01:29+00:00</updated>
+    <summary type="text">NotebookLM's new Short Video Overviews turn any document into a 60-second vertical explainer, powered by Google's fastest new image model.</summary>
+    <category term="development"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Nous Research's Hermes Agent Browses the Web 60x Faster and 49x Cheaper</title>
+    <link href="https://hermes-agent.nousresearch.com/docs/user-guide/features/web-search"/>
+    <id>2f4f43eaacf9d07367c972fe07d863ed</id>
+    <published>2026-06-30T15:10:13+00:00</published>
+    <updated>2026-06-30T15:10:13+00:00</updated>
+    <summary type="text">Hermes Agent's web extraction is now up to 60x faster and 49x cheaper, thanks to smarter scraping backends and on-demand page paging.</summary>
+    <category term="agents"/>
     <category term="infra"/>
   </entry>
   <entry>
-    <title>OpenAI's Codex Desktop App Gets Smoother Navigation for Long AI Threads</title>
-    <link href="https://x.com/openaidevs/status/2070922791529091376"/>
-    <id>fbaa4caaf79ec5f13ddfe11551201026</id>
-    <published>2026-06-27T17:30:44+00:00</published>
-    <updated>2026-06-27T17:30:44+00:00</updated>
-    <summary type="text">OpenAI ships a batch of Codex app polish: smoother long-thread scrolling, a new navigation rail, better Settings search, and zoom-level UI fixes.</summary>
-    <category term="development"/>
-    <category term="vibe_coding"/>
+    <title>Figure AI's Figure 03 Robot Starts Real BMW Factory Work With 99% Accuracy</title>
+    <link href="https://www.figure.ai/news/f-03-at-bmw"/>
+    <id>e29f66a3d3a878253e7550aabd0c8647</id>
+    <published>2026-06-30T15:05:05+00:00</published>
+    <updated>2026-06-30T15:05:05+00:00</updated>
+    <summary type="text">Figure 03 is now performing live logistics sequencing at BMW's Spartanburg plant, marking the next chapter in the most-watched humanoid robot deployment in manufacturing history.</summary>
+    <category term="robotics"/>
+    <category term="business"/>
   </entry>
   <entry>
-    <title>Anthropic's Claude Mythos 5 Returns After US Government Lifts Infrastructure Ban</title>
-    <link href="https://x.com/anthropicai/status/2070665903440871779"/>
-    <id>5c8ef46db0847a421c4ec7eac2311a8b</id>
-    <published>2026-06-27T00:29:57+00:00</published>
-    <updated>2026-06-27T00:29:57+00:00</updated>
-    <summary type="text">After a 15-day government-ordered freeze over jailbreak fears, Anthropic's most powerful cybersecurity AI is back online for critical infrastructure defenders</summary>
-    <category term="government"/>
+    <title>LiquidAI's IFStruct Trains a 350M Model to Beat 4B Rivals at Structured Output</title>
+    <link href="https://huggingface.co/datasets/LiquidAI/ifstruct-v1.0"/>
+    <id>4b6cf986d953733d269de1807725572a</id>
+    <published>2026-06-30T14:02:26+00:00</published>
+    <updated>2026-06-30T14:02:26+00:00</updated>
+    <summary type="text">Liquid AI's new open benchmark tests structured output compliance under realistic, messy prompts â and a 350M model trained on it beats models 10x its size</summary>
+    <category term="benchmarks"/>
     <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Alibaba's HydraHead Cuts Transformer Memory 65% by Mixing Attention Heads</title>
+    <link href="https://arxiv.org/abs/2606.20097"/>
+    <id>66dcdc697a3304a385f2b375748f0ea9</id>
+    <published>2026-06-30T10:55:16+00:00</published>
+    <updated>2026-06-30T10:55:16+00:00</updated>
+    <summary type="text">Researchers from Alibaba Group show that hybridizing attention at the head level â guided by mechanistic interpretability â unlocks 512K context with only 15B training tokens</summary>
+    <category term="llms"/>
+    <category term="reasoning"/>
+  </entry>
+  <entry>
+    <title>Runway Brings ByteDance's Seed Audio 1.0 to Generate Full Cinematic Soundscapes</title>
+    <link href="https://app.runwayml.com/video-tools/generate?tool=audio&amp;mode"/>
+    <id>35c5b39a9da9006d9aff5f26575b7e80</id>
+    <published>2026-06-29T21:54:42+00:00</published>
+    <updated>2026-06-29T21:54:42+00:00</updated>
+    <summary type="text">ByteDance's Seed Audio 1.0 lands on Runway, letting paid users generate up to 2 minutes of mixed dialogue, music, and sound effects from a single text prompt.</summary>
+    <category term="audio"/>
+    <category term="api"/>
   </entry>
 </feed>
