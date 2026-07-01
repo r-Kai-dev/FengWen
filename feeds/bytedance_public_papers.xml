@@ -4,10 +4,28 @@
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <link href="https://seed.bytedance.com/en/public_papers"/>
   <id>https://seed.bytedance.com/en/public_papers</id>
-  <updated>2026-05-29T00:00:00+00:00</updated>
+  <updated>2026-06-04T00:00:00+00:00</updated>
   <author>
     <name>ByteDance Seed</name>
   </author>
+  <entry>
+    <title>Towards stable and accurate electron dynamics via neural network based time-dependent variational Monte Carlo</title>
+    <link href="https://seed.bytedance.com/en/public_papers/towards-stable-and-accurate-electron-dynamics-via-neural-network-based-time-dependent-variational-monte-carlo"/>
+    <id>f14f565a84fa1ccb1209086eec0a519d</id>
+    <published>2026-06-04T00:00:00+00:00</published>
+    <updated>2026-06-04T00:00:00+00:00</updated>
+    <summary type="text">Real-time dynamics of interacting electrons lies at the interface between quantum mechanics and non-equilibrium physics, governing the microscopic origin of ultrafast phenomena of molecules and nano-materials. Though neural network variational Monte Carlo has achieved unprecedented accuracy for stationary state calculations, its extension to real-time...</summary>
+    <category term="Computational Physics"/>
+  </entry>
+  <entry>
+    <title>MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation</title>
+    <link href="https://seed.bytedance.com/en/public_papers/metapoint-unlocking-precise-spatial-control-in-agentic-visual-generation"/>
+    <id>db00bee1c654180d079794c8fb0d7ee4</id>
+    <published>2026-06-03T00:00:00+00:00</published>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+    <summary type="text">Generative visual models fundamentally struggle with precise spatial control. This arises from a core disconnect: models can process textual descriptions of space but cannot directly map numerical coordinates onto the 2D image canvas. We introduce MetaPoint, a method that bridges this gap by representing a continuous 2D coordinate as a single, special toke...</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
+  </entry>
   <entry>
     <title>Task-Focused Memorization for Multimodal Agents</title>
     <link href="https://seed.bytedance.com/en/public_papers/task-focused-memorization-for-multimodal-agents"/>
@@ -18,13 +36,40 @@
     <category term="Computer Vision and Pattern Recognition"/>
   </entry>
   <entry>
+    <title>More Expressive Feedforward Layers: Part I. Token-Adaptive Mixing of Activations</title>
+    <link href="https://seed.bytedance.com/en/public_papers/more-expressive-feedforward-layers-part-i-token-adaptive-mixing-of-activations"/>
+    <id>542574e1d542317930b8e694ee61abf8</id>
+    <published>2026-05-26T00:00:00+00:00</published>
+    <updated>2026-05-26T00:00:00+00:00</updated>
+    <summary type="text">Feedforward network (FFN) layers account for a large fraction of parameters and nonlinear expressivity in Transformer-based large language models (LLMs). Despite the evolution from ReLU and GELU to gated variants such as SwiGLU, most FFN designs still use a single fixed activation function, applying the same nonlinear transformation to all tokens. In this wor...</summary>
+    <category term="Machine Learning"/>
+  </entry>
+  <entry>
+    <title>Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models</title>
+    <link href="https://seed.bytedance.com/en/public_papers/negligible-in-size-significant-in-effect-on-scale-vectors-in-large-language-models"/>
+    <id>6485fe48282a0e012ef892ab2432f1be</id>
+    <published>2026-05-26T00:00:00+00:00</published>
+    <updated>2026-05-26T00:00:00+00:00</updated>
+    <summary type="text">Normalization layers in modern large language models (LLMs) consist of a deterministic normalization operation and a learnable scale vector. While the normalization operation has been extensively studied, the scale vector remains poorly understood despite its ubiquitous use. In this work, we present a systematic study of scale vectors in LLMs from the persp...</summary>
+    <category term="Machine Learning"/>
+  </entry>
+  <entry>
     <title>Charon: A Unified and Fine-Grained Simulator for Large-Scale LLM Training and Inference</title>
     <link href="https://seed.bytedance.com/en/public_papers/charon-a-unified-and-fine-grained-simulator-for-large-scale-llm-training-and-inference"/>
     <id>1a4ea2cf1d4c577a947c9640024b5a21</id>
-    <published>2026-05-19T00:00:00+00:00</published>
-    <updated>2026-05-19T00:00:00+00:00</updated>
+    <published>2026-05-16T00:00:00+00:00</published>
+    <updated>2026-05-16T00:00:00+00:00</updated>
     <summary type="text">Deploying large-scale LLM training and inference with optimal performance is exceptionally challenging due to a complex design space of parallelism strategies, system optimizations, and hardware configurations. Accurate and rapid performance simulation is critical for guiding optimization efforts and system studies by validating &quot;what-if&quot; Hooker Figure...</summary>
     <category term="Distributed, Parallel, and Cluster Computing"/>
+  </entry>
+  <entry>
+    <title>UAM: A Dual-Stream Perspective on Forgetting in VLA Training</title>
+    <link href="https://seed.bytedance.com/en/public_papers/uam-a-dual-stream-perspective-on-forgetting-in-vla-training"/>
+    <id>745d82a80e6527a726be875e7c029333</id>
+    <published>2026-05-15T00:00:00+00:00</published>
+    <updated>2026-05-15T00:00:00+00:00</updated>
+    <summary type="text">Vision--language--action (VLA) models are typically built by fine-tuning a pretrained vision--language model (VLM) on action data. However, we show that this standard recipe systematically erodes the VLM's multimodal competence, a side effect we call the embodiment tax. But do VLAs have to forget? Inspired by the two-stream organization of biological visio...</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
   </entry>
   <entry>
     <title>THEMol dataset: Torsion, Hessian, and Energy of Molecules</title>
@@ -33,6 +78,51 @@
     <published>2026-05-14T00:00:00+00:00</published>
     <updated>2026-05-14T00:00:00+00:00</updated>
     <summary type="text">We present THEMol (Torsion, Hessian, Energy of Molecules), a massive open-source collection of quantum mechanical properties tailored for closed-shell organic molecules, with up to 50 heavy atoms. THEMol includes a Hessian subset with more than 3 million relaxed geometries with Hessian matrices, a TorsionScan subset with nearly 100 million constrained rel...</summary>
+    <category term="Chemical Physics"/>
+  </entry>
+  <entry>
+    <title>Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context</title>
+    <link href="https://seed.bytedance.com/en/public_papers/training-long-context-vision-language-models-effectively-with-generalization-beyond-128k-context"/>
+    <id>23845dae138fda4b6bcb48c4c72222d4</id>
+    <published>2026-05-13T00:00:00+00:00</published>
+    <updated>2026-05-13T00:00:00+00:00</updated>
+    <summary type="text">Long-context modeling is becoming a core capability of modern large vision-language models (LVLMs), enabling sustained context management across long-document understanding, video analysis, and multi-turn tool use in agentic workflows. Yet practical training recipes remain insufficiently explored, particularly for designing and balancing long-context data mix...</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
+  </entry>
+  <entry>
+    <title>Images in Sentences: Scaling Interleaved Instructions for Unified Visual Generation</title>
+    <link href="https://seed.bytedance.com/en/public_papers/images-in-sentences-scaling-interleaved-instructions-for-unified-visual-generation"/>
+    <id>60aafec04ccf5fde6043a8acfbc57998</id>
+    <published>2026-05-12T00:00:00+00:00</published>
+    <updated>2026-05-12T00:00:00+00:00</updated>
+    <summary type="text">While recent advancements in multimodal language models have enabled image generation from expressive multi-image instructions, existing methods struggle to maintain performance under complex interleaved instructions. This limitation stems from the structural separation of images and text in current paradigms, which forces models to bridge difficult long...</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
+  </entry>
+  <entry>
+    <title>Towards Robust Sequential Decomposition for Complex Image Editing</title>
+    <link href="https://seed.bytedance.com/en/public_papers/towards-robust-sequential-decomposition-for-complex-image-editing"/>
+    <id>3cb031c71418f800395c7437398aa167</id>
+    <published>2026-05-10T00:00:00+00:00</published>
+    <updated>2026-05-10T00:00:00+00:00</updated>
+    <summary type="text">Recent advances in visual generative models have enabled high-fidelity image editing guided by human instructions. However, these models often struggle with complex instructions involving combinatorial editing operations or inter-step dependencies. This difficulty stems from the limitations of two canonical paradigms: (1) single-turn editing, which attempt...</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
+  </entry>
+  <entry>
+    <title>Continuous Latent Diffusion Language Model</title>
+    <link href="https://seed.bytedance.com/en/public_papers/continuous-latent-diffusion-language-model"/>
+    <id>17213cf261fc051267644708d3039368</id>
+    <published>2026-05-07T00:00:00+00:00</published>
+    <updated>2026-05-07T00:00:00+00:00</updated>
+    <summary type="text">Large language models have achieved remarkable success under the autoregressive paradigm, yet high-quality text generation need not be tied to a fixed left-to-right order. Existing alternatives still struggle to jointly achieve generation efficiency, scalable representation learning, and effective global semantic modeling. We propose Cola DLM, a hierarchical l...</summary>
+    <category term="Computation and Language"/>
+  </entry>
+  <entry>
+    <title>TDDFT Gradients and Nonadiabatic Couplings with Minimal Auxiliary Basis Set Approximation for Fewest-Switches Surface Hopping Dynamics</title>
+    <link href="https://seed.bytedance.com/en/public_papers/tddft-gradients-and-nonadiabatic-couplings-with-minimal-auxiliary-basis-set-approximation-for-fewest-switches-surface-hopping-dynamics"/>
+    <id>9a1c57639197e6dc923df563c859a080</id>
+    <published>2026-05-07T00:00:00+00:00</published>
+    <updated>2026-05-07T00:00:00+00:00</updated>
+    <summary type="text">The electronic structure calculations remain a major bottleneck in ab initio nonadiabatic molecular dynamics. We develop an efficient TDDFT-based FSSH implementation in the GPU4PySCF package for medium-sized molecular systems. Our approach combines density fitting, TDDFT with minimal auxiliary basis sets (TDDFT-ris), and an approximate Z-vector solv...</summary>
     <category term="Chemical Physics"/>
   </entry>
   <entry>
@@ -100,86 +190,5 @@ high-frequency detail recovery, while a locality-aware VAE achieve...</summary>
     <updated>2026-04-11T00:00:00+00:00</updated>
     <summary type="text">Advances in biomolecular modeling have broadened the range of problems addressable by structure prediction and design models. Here, we present results from Protenix-v2, a system spanning high-accuracy structure prediction and biomolecular design. On the structure prediction side, Protenix-v2 achieves antibody-antigen success rates with up to 13-point gains ov...</summary>
     <category term="Molecular Biology"/>
-  </entry>
-  <entry>
-    <title>Not all tokens contribute equally to diffusion learning</title>
-    <link href="https://seed.bytedance.com/en/public_papers/not-all-tokens-contribute-equally-to-diffusion-learning"/>
-    <id>8a7b097037f998e1f82a64a48de09445</id>
-    <published>2026-04-08T00:00:00+00:00</published>
-    <updated>2026-04-08T00:00:00+00:00</updated>
-    <summary type="text">With the rapid development of conditional diffusion models, significant progress has been made in text-to-video generation. However, we observe that these models often neglect semantically important tokens during inference, leading to biased or incomplete generations under classifier-free guidance. We attribute this issue to two key factors: distribution...</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>Hessian-informed machine learning interatomic potential towards bridging theory and experiments</title>
-    <link href="https://seed.bytedance.com/en/public_papers/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments"/>
-    <id>c4a6f7ec43d9811354bb21e754f099fc</id>
-    <published>2026-03-26T00:00:00+00:00</published>
-    <updated>2026-03-26T00:00:00+00:00</updated>
-    <summary type="text">Local curvature of potential energy surfaces is critical for predicting certain experimental observables of molecules and materials from first principles, yet it remains far beyond reach for complex systems. In this work, we introduce a Hessian-informed Machine Learning Interatomic Potential (Hi-MLIP) that captures such curvature reliably, thereby enabling accurat...</summary>
-    <category term="Machine Learning"/>
-  </entry>
-  <entry>
-    <title>TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification</title>
-    <link href="https://seed.bytedance.com/en/public_papers/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification"/>
-    <id>64e78a4b1a48c86217d30dae54094d79</id>
-    <published>2026-03-26T00:00:00+00:00</published>
-    <updated>2026-03-26T00:00:00+00:00</updated>
-    <summary type="text">The dominant paradigm for high-fidelity 3D generation relies on a VAE-Diffusion pipeline, where the VAE's reconstruction capability sets a firm upper bound on generation quality. A fundamental challenge limiting existing VAEs is the representation mismatch between ground-truth meshes and network predictions: GT meshes have arbitrary, variable top...</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition</title>
-    <link href="https://seed.bytedance.com/en/public_papers/towards-generalizable-robotic-data-flywheel-high-dimensional-factorization-and-composition"/>
-    <id>0936b2d68a8bb92d6dcacf0f8c9f9327</id>
-    <published>2026-03-26T00:00:00+00:00</published>
-    <updated>2026-03-26T00:00:00+00:00</updated>
-    <summary type="text">The lack of sufficiently diverse data, coupled with limited data efficiency, remains a major bottleneck for generalist robotic models, yet systematic strategies for collecting and curating such data are not fully explored. Task diversity arises from implicit factors that are sparsely distributed across multiple dimensions and are difficult to define explicitly. To address thi...</summary>
-    <category term="Robotics"/>
-  </entry>
-  <entry>
-    <title>SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM</title>
-    <link href="https://seed.bytedance.com/en/public_papers/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm"/>
-    <id>499bfa58dcf8fd2549793edc4022c78a</id>
-    <published>2026-03-24T00:00:00+00:00</published>
-    <updated>2026-03-24T00:00:00+00:00</updated>
-    <summary type="text">High-quality articulated 3D assets are indispensable for embodied AI and physical simulation, yet 3D generation still focuses on static meshes, leaving a gap in &quot;sim-ready&quot; interactive objects. Most recent articulated object creation methods rely on multi-stage pipelines that accumulate errors across decoupled modules. Alternatively, unified MLLMs offe...</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation</title>
-    <link href="https://seed.bytedance.com/en/public_papers/unigrpo-unified-policy-optimization-for-reasoning-driven-visual-generation"/>
-    <id>16e57d0078e7830deedcc632b8498878</id>
-    <published>2026-03-24T00:00:00+00:00</published>
-    <updated>2026-03-24T00:00:00+00:00</updated>
-    <summary type="text">Unified models capable of interleaved generation have emerged as a promising paradigm, with the community increasingly converging on autoregressive modeling for text and flow matching for image generation. To advance this direction, we propose a unified reinforcement learning framework tailored for interleaved generation. We validate our approach on its fu...</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit</title>
-    <link href="https://seed.bytedance.com/en/public_papers/development-and-large-scale-benchmarks-of-a-protein-ligand-absolute-binding-free-energy-toolkit"/>
-    <id>b4ebf0c6bb69972447998d70cfe313f5</id>
-    <published>2026-03-23T00:00:00+00:00</published>
-    <updated>2026-03-23T00:00:00+00:00</updated>
-    <summary type="text">Absolute binding free energy (ABFE) calculations offer a theoretically rigorous approach for predicting protein--ligand binding affinities without the scaffold constraints of relative binding free energy (RBFE) perturbations. However, broad adoption of ABFE in high-throughput hit discovery campaigns has been hindered by high computational costs and a lack...</summary>
-    <category term="Computational Physics"/>
-  </entry>
-  <entry>
-    <title>Beyond Token Eviction: Mixed-Dimension Budget Allocation for Efficient KV Cache Compression</title>
-    <link href="https://seed.bytedance.com/en/public_papers/beyond-token-eviction-mixed-dimension-budget-allocation-for-efficient-kv-cache-compression"/>
-    <id>05ba7afd8f569ed10590ac4b35200ce1</id>
-    <published>2026-03-21T00:00:00+00:00</published>
-    <updated>2026-03-21T00:00:00+00:00</updated>
-    <summary type="text">Key-value (KV) caching is widely used to accelerate transformer inference, but its memory cost grows linearly with input length, limiting long-context deployment. Existing token eviction methods reduce memory by discarding less important tokens, which can be viewed as a coarse form of dimensionality reduction that assigns each token either zero or full dimen...</summary>
-    <category term="Machine Learning"/>
-  </entry>
-  <entry>
-    <title>Mixture-of-Depths Attention</title>
-    <link href="https://seed.bytedance.com/en/public_papers/mixture-of-depths-attention"/>
-    <id>3386ae1dcf14372fb492bea4f44a66d2</id>
-    <published>2026-03-16T00:00:00+00:00</published>
-    <updated>2026-03-16T00:00:00+00:00</updated>
-    <summary type="text">Scaling depth is a key driver for large language models (LLMs). Yet, as LLMs become deeper, they often suffer from signal degradation: informative features formed in shallow layers are gradually diluted by repeated residual updates, making them harder to recover in deeper layers. We introduce mixture-of-depths attention (MoDA), a mechanism that allows each...</summary>
-    <category term="Computation and Language"/>
   </entry>
 </feed>

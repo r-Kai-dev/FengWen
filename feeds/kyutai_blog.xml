@@ -4,10 +4,18 @@
   <icon>https://kyutai.org/favicon.ico</icon>
   <link href="https://kyutai.org/blog"/>
   <id>https://kyutai.org/blog</id>
-  <updated>2026-06-18T00:00:00+00:00</updated>
+  <updated>2026-07-01T00:00:00+00:00</updated>
   <author>
     <name>Kyutai</name>
   </author>
+  <entry>
+    <title>Surflo: consistent 3D surfaces from a global state</title>
+    <link href="https://kyutai.org/blog/2026-07-01-surflo"/>
+    <id>fe69930a071cce03cabf8efd38f2c237</id>
+    <published>2026-07-01T00:00:00+00:00</published>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <summary type="text">A feed-forward model that compresses any number of views into a global 3D state, then decodes consistent surfaces at arbitrary resolution.</summary>
+  </entry>
   <entry>
     <title>The FID Lottery</title>
     <link href="https://kyutai.org/blog/2026-06-18-fid-lottery"/>

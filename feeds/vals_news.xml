@@ -4,10 +4,34 @@
   <icon>https://www.vals.ai/favicon-dark.svg</icon>
   <link href="https://www.vals.ai/news"/>
   <id>https://www.vals.ai/news</id>
-  <updated>2026-06-23T00:00:00+00:00</updated>
+  <updated>2026-07-01T00:00:00+00:00</updated>
   <author>
     <name>Vals AI</name>
   </author>
+  <entry>
+    <title>Excel Modeling Benchmark Released</title>
+    <link href="https://www.vals.ai/benchmarks/emb"/>
+    <id>ca95dd5f3e6af423c098bd09395e9fbd</id>
+    <published>2026-07-01T00:00:00+00:00</published>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <category term="Benchmark"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Sonnet 5 evaluated on the Vals Index</title>
+    <link href="https://www.vals.ai/models/anthropic_claude-sonnet-5"/>
+    <id>201d3f34857b1538ae236e5a7c125c2b</id>
+    <published>2026-06-30T00:00:00+00:00</published>
+    <updated>2026-06-30T00:00:00+00:00</updated>
+    <category term="Model"/>
+  </entry>
+  <entry>
+    <title>CyberBench Released</title>
+    <link href="https://www.vals.ai/benchmarks/cyber"/>
+    <id>ac9f9d7188cfdd84b2e1ecc32474a316</id>
+    <published>2026-06-30T00:00:00+00:00</published>
+    <updated>2026-06-30T00:00:00+00:00</updated>
+    <category term="Benchmark"/>
+  </entry>
   <entry>
     <title>Legal Research Bench Released</title>
     <link href="https://www.vals.ai/benchmarks/legal_research"/>
@@ -79,30 +103,6 @@
     <published>2026-06-09T00:00:00+00:00</published>
     <updated>2026-06-09T00:00:00+00:00</updated>
     <category term="Benchmark"/>
-  </entry>
-  <entry>
-    <title>NVIDIA's Nemotron 3 Ultra evaluated across our benchmark suite</title>
-    <link href="https://www.vals.ai/models/nvidia_nemotron-3-ultra-550b-a55b"/>
-    <id>a0d05eeb309138c30c3d1ca7fe3df484</id>
-    <published>2026-06-04T00:00:00+00:00</published>
-    <updated>2026-06-04T00:00:00+00:00</updated>
-    <category term="Model"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Qwen 3.7 Plus evaluated on the Vals Index</title>
-    <link href="https://www.vals.ai/models/alibaba_qwen3.7-plus"/>
-    <id>e1072351b39425a5f196d92adff939e8</id>
-    <published>2026-06-02T00:00:00+00:00</published>
-    <updated>2026-06-02T00:00:00+00:00</updated>
-    <category term="Model"/>
-  </entry>
-  <entry>
-    <title>MiniMax's MiniMax M3 evaluated across our benchmark suite</title>
-    <link href="https://www.vals.ai/models/minimax_MiniMax-M3"/>
-    <id>69b22bd34444d7f0bc0d95e751aff5e6</id>
-    <published>2026-06-02T00:00:00+00:00</published>
-    <updated>2026-06-02T00:00:00+00:00</updated>
-    <category term="Model"/>
   </entry>
   <entry>
     <title>Anthropic deepens push into Wall Street with new AI agents, full Microsoft 365 integration, Moody's data partnership</title>

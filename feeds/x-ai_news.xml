@@ -4,10 +4,18 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-06-25T00:00:00+00:00</updated>
+  <updated>2026-07-01T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Introducing the Voice Agent Builder</title>
+    <link href="https://x.ai/news/grok-voice-agent-builder"/>
+    <id>10c023b00d2375fba9731a31d521a069</id>
+    <published>2026-07-01T00:00:00+00:00</published>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <summary type="text">Create a personalized voice agent in under 2 minutes without a single line of code.</summary>
+  </entry>
   <entry>
     <title>Explore the markets with Interactive Brokers and Grok</title>
     <link href="https://x.ai/news/grok-interactive-brokers"/>
@@ -21,7 +29,6 @@
     <id>84b0f0fb84959166da531a2c06f8ba23</id>
     <published>2026-06-22T00:00:00+00:00</published>
     <updated>2026-06-22T00:00:00+00:00</updated>
-    <summary type="text">Use /goal for long-running autonomous task execution in Grok Build.</summary>
   </entry>
   <entry>
     <title>Grok for Word</title>
@@ -43,6 +50,7 @@
     <id>46dd7931eee1515e8c21c5316ac7a051</id>
     <published>2026-06-17T00:00:00+00:00</published>
     <updated>2026-06-17T00:00:00+00:00</updated>
+    <summary type="text">Grok models are now available via Amazon Bedrock.</summary>
   </entry>
   <entry>
     <title>Grok Imagine Video 1.5</title>

@@ -4,128 +4,128 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-06-30T18:00:31+00:00</updated>
+  <updated>2026-07-01T19:00:01+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Anthropic's Claude Sonnet 5 Matches Opus Performance at Half the Price</title>
-    <link href="https://www.anthropic.com/news/claude-sonnet-5"/>
-    <id>4a868ebd33853628a609b2384a15200b</id>
-    <published>2026-06-30T18:00:31+00:00</published>
-    <updated>2026-06-30T18:00:31+00:00</updated>
-    <summary type="text">Claude Sonnet 5 launches as the new default on Free and Pro plans, matching Opus 4.8 performance at Sonnet pricing with stronger agentic autonomy</summary>
-    <category term="llms"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Lovable Ships Auto-Monitoring So Your App Stops Breaking Silently in Production</title>
-    <link href="https://x.com/lovable/status/2072011704318247364"/>
-    <id>53ca3660e200f1ab8d05d5ae23a076b6</id>
-    <published>2026-06-30T17:37:41+00:00</published>
-    <updated>2026-06-30T17:37:41+00:00</updated>
-    <summary type="text">Lovable adds scheduled app monitoring that alerts you when something breaks or fails silently, before your users notice</summary>
-    <category term="vibe_coding"/>
+    <title>NVIDIA's Nemotron-TwoTower Hits 2.42x Faster Generation Without Retraining</title>
+    <link href="https://huggingface.co/nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16"/>
+    <id>a5f388af6f686583efba3a8d365b563b</id>
+    <published>2026-07-01T19:00:01+00:00</published>
+    <updated>2026-07-01T19:00:01+00:00</updated>
+    <summary type="text">NVIDIA splits a 30B model into two specialized towers to generate text 2.42x faster while keeping 98.7% of the original model's quality</summary>
     <category term="infra"/>
-  </entry>
-  <entry>
-    <title>OpenAI's GeneBench-Pro Exposes That Top AI Fails Real Biology 70% of the Time</title>
-    <link href="https://openai.com/index/introducing-genebench-pro/"/>
-    <id>c363751d05fde73acaac3f6d4355862a</id>
-    <published>2026-06-30T17:10:23+00:00</published>
-    <updated>2026-06-30T17:10:23+00:00</updated>
-    <summary type="text">OpenAI's new GeneBench-Pro tests whether AI agents can handle the messy judgment calls of real computational biology research â and current models solve fewer than a third of problems.</summary>
-    <category term="benchmarks"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Science Collapses 60+ Research Tools Into One Desktop App</title>
-    <link href="https://claude.com/product/claude-science"/>
-    <id>bed344c20ad2d5a6fff8c6061c27f29e</id>
-    <published>2026-06-30T17:02:04+00:00</published>
-    <updated>2026-06-30T17:02:04+00:00</updated>
-    <summary type="text">Anthropic launches Claude Science, a dedicated AI research workbench with 60+ scientific databases, compute orchestration, and full reproducibility for every result</summary>
-    <category term="api"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>OpenAI Hunted a Rockset Bug and Found an 18-Year-Old Race Condition</title>
-    <link href="https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/"/>
-    <id>dd4c851f2f3ecd66f2d4a40b63069004</id>
-    <published>2026-06-30T16:33:51+00:00</published>
-    <updated>2026-06-30T16:33:51+00:00</updated>
-    <summary type="text">OpenAI engineers hunted mysterious C++ crashes for a year, uncovering a hardware fault and an 18-year-old race condition hiding in GNU libunwind.</summary>
-    <category term="training_infra"/>
     <category term="open_source"/>
   </entry>
   <entry>
-    <title>Anthropic Finally Ships Claude Desktop for Linux, Ending Community Workarounds</title>
-    <link href="https://code.claude.com/docs/en/desktop-linux"/>
-    <id>1dbc9b4cc577d9fecbaa16f3c73cb379</id>
-    <published>2026-06-30T16:06:59+00:00</published>
-    <updated>2026-06-30T16:06:59+00:00</updated>
-    <summary type="text">Anthropic officially ships Claude Desktop for Ubuntu and Debian, closing a gap that had pushed Linux users toward unofficial community builds</summary>
+    <title>Cognition's Devin Security Swarm Finds 72% of Vulnerabilities for $90</title>
+    <link href="https://cognition.com/blog/introducing-devin-security-swarm"/>
+    <id>08791142851dc099879315184e83e658</id>
+    <published>2026-07-01T17:14:08+00:00</published>
+    <updated>2026-07-01T17:14:08+00:00</updated>
+    <summary type="text">Cognition's Devin Security Swarm uses a new Agentic MapReduce architecture to find real vulnerabilities across entire codebases, outperforming Claude and Codex at 30% lower cost.</summary>
+    <category term="development"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>Zed v1.9 Ships Telescope-Style Resizable Pickers After 860 Upvotes</title>
+    <link href="https://zed.dev/releases/stable"/>
+    <id>edf09f7db05c3dbcee7e55b928485900</id>
+    <published>2026-07-01T17:05:12+00:00</published>
+    <updated>2026-07-01T17:05:12+00:00</updated>
+    <summary type="text">Zed v1.9 ships Telescope-style resizable pickers with live preview, in-thread agent search, and a new text finder modal â resolving an 860-upvote community request</summary>
+    <category term="development"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Z.ai's ZCode Ships a Desktop Agent Built Around GLM-5.2's 1M-Token Window</title>
+    <link href="https://zcode.z.ai/en/changelog"/>
+    <id>89189a97eff467dbfeeed1fe757eb4df</id>
+    <published>2026-07-01T15:59:46+00:00</published>
+    <updated>2026-07-01T15:59:46+00:00</updated>
+    <summary type="text">Z.ai launches ZCode, a dedicated desktop IDE for GLM-5.2, with 1.5x quota for subscribers and BYOK support across all platforms</summary>
     <category term="development"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>Google's NotebookLM Turns Any Document Into a 60-Second Vertical Video</title>
-    <link href="https://x.com/notebooklm/status/2071987494799716626"/>
-    <id>1cb98d09d0e0bb0429c57a9ff5769878</id>
-    <published>2026-06-30T16:01:29+00:00</published>
-    <updated>2026-06-30T16:01:29+00:00</updated>
-    <summary type="text">NotebookLM's new Short Video Overviews turn any document into a 60-second vertical explainer, powered by Google's fastest new image model.</summary>
-    <category term="development"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Nous Research's Hermes Agent Browses the Web 60x Faster and 49x Cheaper</title>
-    <link href="https://hermes-agent.nousresearch.com/docs/user-guide/features/web-search"/>
-    <id>2f4f43eaacf9d07367c972fe07d863ed</id>
-    <published>2026-06-30T15:10:13+00:00</published>
-    <updated>2026-06-30T15:10:13+00:00</updated>
-    <summary type="text">Hermes Agent's web extraction is now up to 60x faster and 49x cheaper, thanks to smarter scraping backends and on-demand page paging.</summary>
+    <title>xAI's Grok Voice Agent Builder Undercuts Every Rival at $0.05 a Minute</title>
+    <link href="https://console.x.ai/login?return_to=%2Fvoice%2Fagents"/>
+    <id>2fccc51c0c5dbdac8cc2c2214e04e86b</id>
+    <published>2026-07-01T15:33:21+00:00</published>
+    <updated>2026-07-01T15:33:21+00:00</updated>
+    <summary type="text">xAI's no-code Voice Agent Builder lets anyone deploy a production phone agent in two minutes, powered by the #1-ranked Grok Voice model, at $0.05/min</summary>
     <category term="agents"/>
+    <category term="audio"/>
+  </entry>
+  <entry>
+    <title>Fish Audio Opens S2.1 Pro to Developers With Free Unlimited API Access</title>
+    <link href="https://x.com/fishaudio/status/2072319320386883690"/>
+    <id>fa8dcc0afc791d1ae4494b6e824cc0f0</id>
+    <published>2026-07-01T14:00:02+00:00</published>
+    <updated>2026-07-01T14:00:02+00:00</updated>
+    <summary type="text">Fish Audio opens its best TTS model, S2.1 Pro, to all developers for free â 83 languages, voice cloning, no hard usage cap</summary>
+    <category term="audio"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Together AI's ParallelKernelBench Reveals Top Models Fail 70% of Multi-GPU Tasks</title>
+    <link href="https://www.together.ai/blog/parallelkernelbench"/>
+    <id>6e30c288042224f640b929466eb9c72b</id>
+    <published>2026-07-01T05:38:12+00:00</published>
+    <updated>2026-07-01T05:38:12+00:00</updated>
+    <summary type="text">Together AI's ParallelKernelBench reveals frontier models solve under a third of 87 real multi-GPU kernel problems, exposing a critical blind spot in AI coding benchmarks.</summary>
+    <category term="benchmarks"/>
+    <category term="gpus"/>
+  </entry>
+  <entry>
+    <title>Higgsfield Brings ByteDance's Seedance 2.0 to 4K VFX Without Green Screens</title>
+    <link href="https://x.com/higgsfield_ai/status/2072141086609584280"/>
+    <id>ffd7b5e837b8126a8e977e5c7f0a6fe5</id>
+    <published>2026-07-01T02:11:48+00:00</published>
+    <updated>2026-07-01T02:11:48+00:00</updated>
+    <summary type="text">Higgsfield's Seedance 2.0 in native 4K lets anyone drop Hollywood-grade VFX onto real footage without compositing or green screens</summary>
+    <category term="video"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Fable 5 Ban Lifted After 18 Days of Global Chaos</title>
+    <link href="https://x.com/anthropicai/status/2072106151890809341"/>
+    <id>78942fba3c516e1d6fa037b19018c783</id>
+    <published>2026-06-30T23:52:59+00:00</published>
+    <updated>2026-06-30T23:52:59+00:00</updated>
+    <summary type="text">After 18 days of global shutdown, the Trump administration lifts export controls on Anthropic's two most powerful AI models, ending a standoff that reshaped how governments regulate frontier AI</summary>
+    <category term="government"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Microsoft's WSL Containers Kill Docker Desktop's Grip on Windows Dev</title>
+    <link href="https://devblogs.microsoft.com/commandline/wsl-container-is-now-available-for-public-preview/"/>
+    <id>597d01afc72e7772655e59f32e127242</id>
+    <published>2026-06-30T21:32:06+00:00</published>
+    <updated>2026-06-30T21:32:06+00:00</updated>
+    <summary type="text">WSL 2.9.3 ships wslc.exe, a Docker-compatible container CLI and Windows API baked directly into WSL â no third-party tooling required</summary>
+    <category term="development"/>
     <category term="infra"/>
   </entry>
   <entry>
-    <title>Figure AI's Figure 03 Robot Starts Real BMW Factory Work With 99% Accuracy</title>
-    <link href="https://www.figure.ai/news/f-03-at-bmw"/>
-    <id>e29f66a3d3a878253e7550aabd0c8647</id>
-    <published>2026-06-30T15:05:05+00:00</published>
-    <updated>2026-06-30T15:05:05+00:00</updated>
-    <summary type="text">Figure 03 is now performing live logistics sequencing at BMW's Spartanburg plant, marking the next chapter in the most-watched humanoid robot deployment in manufacturing history.</summary>
+    <title>NVIDIA's GPC Teaches Game Characters to Move Like GPT Thinks</title>
+    <link href="https://www.nvidia.com/en-us/events/siggraph/"/>
+    <id>a3b95d74c0ef51f0651e3078ac424627</id>
+    <published>2026-06-30T21:26:47+00:00</published>
+    <updated>2026-06-30T21:26:47+00:00</updated>
+    <summary type="text">NVIDIA's GPC treats motor skills like language tokens, training one physics controller that can be fine-tuned to any task</summary>
     <category term="robotics"/>
-    <category term="business"/>
+    <category term="post_training"/>
   </entry>
   <entry>
-    <title>LiquidAI's IFStruct Trains a 350M Model to Beat 4B Rivals at Structured Output</title>
-    <link href="https://huggingface.co/datasets/LiquidAI/ifstruct-v1.0"/>
-    <id>4b6cf986d953733d269de1807725572a</id>
-    <published>2026-06-30T14:02:26+00:00</published>
-    <updated>2026-06-30T14:02:26+00:00</updated>
-    <summary type="text">Liquid AI's new open benchmark tests structured output compliance under realistic, messy prompts â and a 350M model trained on it beats models 10x its size</summary>
-    <category term="benchmarks"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Alibaba's HydraHead Cuts Transformer Memory 65% by Mixing Attention Heads</title>
-    <link href="https://arxiv.org/abs/2606.20097"/>
-    <id>66dcdc697a3304a385f2b375748f0ea9</id>
-    <published>2026-06-30T10:55:16+00:00</published>
-    <updated>2026-06-30T10:55:16+00:00</updated>
-    <summary type="text">Researchers from Alibaba Group show that hybridizing attention at the head level â guided by mechanistic interpretability â unlocks 512K context with only 15B training tokens</summary>
-    <category term="llms"/>
-    <category term="reasoning"/>
-  </entry>
-  <entry>
-    <title>Runway Brings ByteDance's Seed Audio 1.0 to Generate Full Cinematic Soundscapes</title>
-    <link href="https://app.runwayml.com/video-tools/generate?tool=audio&amp;mode"/>
-    <id>35c5b39a9da9006d9aff5f26575b7e80</id>
-    <published>2026-06-29T21:54:42+00:00</published>
-    <updated>2026-06-29T21:54:42+00:00</updated>
-    <summary type="text">ByteDance's Seed Audio 1.0 lands on Runway, letting paid users generate up to 2 minutes of mixed dialogue, music, and sound effects from a single text prompt.</summary>
-    <category term="audio"/>
-    <category term="api"/>
+    <title>Google Rebuilds ADK Go 2.0 Around Graph-Based Agent Workflows</title>
+    <link href="https://github.com/google/adk-go/tree/main/examples/workflow"/>
+    <id>40d1a3f057c9e65829eba8d8f740f5a3</id>
+    <published>2026-06-30T21:05:18+00:00</published>
+    <updated>2026-06-30T21:05:18+00:00</updated>
+    <summary type="text">ADK Go 2.0 ships a graph-based workflow engine, native human-in-the-loop, and a unified runtime that makes multi-agent Go apps production-ready</summary>
+    <category term="agents"/>
+    <category term="development"/>
   </entry>
 </feed>
