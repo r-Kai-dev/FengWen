@@ -4,10 +4,19 @@
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <link href="https://seed.bytedance.com/en/public_papers"/>
   <id>https://seed.bytedance.com/en/public_papers</id>
-  <updated>2026-06-04T00:00:00+00:00</updated>
+  <updated>2026-06-16T00:00:00+00:00</updated>
   <author>
     <name>ByteDance Seed</name>
   </author>
+  <entry>
+    <title>On the Residual Scaling of Looped Transformers: Stability and Transferability</title>
+    <link href="https://seed.bytedance.com/en/public_papers/on-the-residual-scaling-of-looped-transformers-stability-and-transferability"/>
+    <id>db1c6eaa30eea434f6a0050c77a6b2df</id>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
+    <summary type="text">Looped (weight-tied) Transformers apply a shared residual blockNNNtimes (h←h+εf(h)h \leftarrow h + \varepsilon\,f(h)h←h+εf(h), samefffat each step), increasing effective depth without adding parameters. Prior depth-scaling analyses prescribeε=1/⁣L\varepsilon = 1/\!\sqrt{L}ε=1/L​for depth-LLLresidual networks. We show that this is insufficient for looped architectures: weight sharing makes residual updates correlated across iteratio...</summary>
+    <category term="Machine Learning"/>
+  </entry>
   <entry>
     <title>Towards stable and accurate electron dynamics via neural network based time-dependent variational Monte Carlo</title>
     <link href="https://seed.bytedance.com/en/public_papers/towards-stable-and-accurate-electron-dynamics-via-neural-network-based-time-dependent-variational-monte-carlo"/>
@@ -70,6 +79,15 @@
     <updated>2026-05-15T00:00:00+00:00</updated>
     <summary type="text">Vision--language--action (VLA) models are typically built by fine-tuning a pretrained vision--language model (VLM) on action data. However, we show that this standard recipe systematically erodes the VLM's multimodal competence, a side effect we call the embodiment tax. But do VLAs have to forget? Inspired by the two-stream organization of biological visio...</summary>
     <category term="Computer Vision and Pattern Recognition"/>
+  </entry>
+  <entry>
+    <title>Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation via Seamless Hand-Arm Intervention</title>
+    <link href="https://seed.bytedance.com/en/public_papers/hand-in-the-loop-improving-vla-policies-for-dexterous-manipulation-via-seamless-hand-arm-intervention"/>
+    <id>c63f6c405b998e71ad18550d042b7481</id>
+    <published>2026-05-14T00:00:00+00:00</published>
+    <updated>2026-05-14T00:00:00+00:00</updated>
+    <summary type="text">Vision-Language-Action (VLA) models are prone to compounding errors in dexterous manipulation, where high-dimensional action spaces and contact-rich dynamics amplify small policy deviations over long horizons. While Interactive Imitation Learning (IIL) can refine policies through human correction data, applying it to high-degree-of-freedom (DoF) robotic hands...</summary>
+    <category term="Robotics"/>
   </entry>
   <entry>
     <title>THEMol dataset: Torsion, Hessian, and Energy of Molecules</title>
@@ -135,60 +153,39 @@
     <category term="Artificial Intelligence"/>
   </entry>
   <entry>
-    <title>MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production</title>
-    <link href="https://seed.bytedance.com/en/public_papers/megascale-omni-a-hyper-scale-workload-resilient-system-for-multimodal-llm-training-in-production"/>
-    <id>2acfa69b0241114eb2a874b2e26c3b1d</id>
-    <published>2026-04-26T00:00:00+00:00</published>
-    <updated>2026-04-26T00:00:00+00:00</updated>
-    <summary type="text">As the foundational component of versatile AI applications, training an multimodal large language model (MLLM) relies on multimodal datasets with dynamic modality mixture proportions and sample length distributions. However, existing MLLM systems remain inefficient under dynamic workloads, due to statically coupled decisions of resource allocation and model...</summary>
-    <category term="Distributed, Parallel, and Cluster Computing"/>
-  </entry>
-  <entry>
-    <title>Context Unrolling in Omni Models</title>
-    <link href="https://seed.bytedance.com/en/public_papers/context-unrolling-in-omni-models"/>
-    <id>814f00a9a8844b76f265a911a639ef41</id>
-    <published>2026-04-23T00:00:00+00:00</published>
-    <updated>2026-04-23T00:00:00+00:00</updated>
-    <summary type="text">We present Omni, a unified multimodal model natively trained on diverse modalities, including text, images, videos, 3D geometry, and hidden representations. We find that such training enables Context Unrolling, where the model explicitly reasons across multiple modal representations before producing predictions. This process enables the model to aggregate...</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation</title>
-    <link href="https://seed.bytedance.com/en/public_papers/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation"/>
-    <id>4e4372a7baafd9e3a895afc801617026</id>
-    <published>2026-04-22T00:00:00+00:00</published>
-    <updated>2026-04-22T00:00:00+00:00</updated>
-    <summary type="text">We present Seed3D 2.0, an advanced 3D content generation system built on Seed3D 1.0 [16], with
-substantial improvements across generation fidelity, simulation-ready capabilities, and application
-coverage. For geometry, a coarse-to-fine two-stage pipeline decouples global structure learning from
-high-frequency detail recovery, while a locality-aware VAE achieve...</summary>
-    <category term="Computer Vision"/>
-  </entry>
-  <entry>
-    <title>Seedance 2.0: Advancing Video Generation for World Complexity</title>
-    <link href="https://seed.bytedance.com/en/public_papers/seedance-2-0-advancing-video-generation-for-world-complexity"/>
-    <id>ae64bc9a2a02678f6d7f42b5ecf05575</id>
-    <published>2026-04-15T00:00:00+00:00</published>
-    <updated>2026-04-15T00:00:00+00:00</updated>
-    <summary type="text">Seedance 2.0 is a new native multi-modal audio-video generation model, officially released in China in early February 2026. Compared with its predecessors, Seedance 1.0 and 1.5 Pro, Seedance 2.0 adopts a unified, highly efficient, and large-scale architecture for multi-modal audio-video joint generation. This allows it to support four input modalities: text, image, audi...</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>Continuous Adversarial Flow Models</title>
-    <link href="https://seed.bytedance.com/en/public_papers/continuous-adversarial-flow-models"/>
-    <id>0eb450a9652cf98f76279765d278dd2c</id>
-    <published>2026-04-13T00:00:00+00:00</published>
-    <updated>2026-04-13T00:00:00+00:00</updated>
-    <summary type="text">We propose continuous adversarial flow models, a type of continuous-time flow model trained with an adversarial objective. Unlike flow matching, which uses a fixed mean-squared-error criterion, our approach introduces a learned discriminator to guide training. This change in objective induces a different generalized distribution, which empirically prod...</summary>
+    <title>CARD: Coarse-to-fine Autoregressive Modeling with Radix-based Decomposition for Transferable Free Energy Estimation</title>
+    <link href="https://seed.bytedance.com/en/public_papers/card-coarse-to-fine-autoregressive-modeling-with-radix-based-decomposition-for-transferable-free-energy-estimation"/>
+    <id>5024ce1eb434fc2b23d1f7979b4f7680</id>
+    <published>2026-05-04T00:00:00+00:00</published>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <summary type="text">Estimating free energy differences quantifies thermodynamic preferences in molecular interactions, which is central to chemistry and drug discovery. Despite fruitful progress, existing methods still face key limitations: classical computational approaches remain prohibitively expensive due to their reliance on extensive molecular dynamics simulations, while deep l...</summary>
     <category term="Machine Learning"/>
   </entry>
   <entry>
-    <title>Protenix-v2: Broadening the Reach of Structure Prediction and Biomolecular Design</title>
-    <link href="https://seed.bytedance.com/en/public_papers/protenix-v2-broadening-the-reach-of-structure-prediction-and-biomolecular-design"/>
-    <id>a81f44b3fedd6ea9853115084f6fa01e</id>
-    <published>2026-04-11T00:00:00+00:00</published>
-    <updated>2026-04-11T00:00:00+00:00</updated>
-    <summary type="text">Advances in biomolecular modeling have broadened the range of problems addressable by structure prediction and design models. Here, we present results from Protenix-v2, a system spanning high-accuracy structure prediction and biomolecular design. On the structure prediction side, Protenix-v2 achieves antibody-antigen success rates with up to 13-point gains ov...</summary>
-    <category term="Molecular Biology"/>
+    <title>Video Generation with Predictive Latents</title>
+    <link href="https://seed.bytedance.com/en/public_papers/video-generation-with-predictive-latents"/>
+    <id>9d624909bc5da089b48d533bbe707806</id>
+    <published>2026-05-04T00:00:00+00:00</published>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <summary type="text">Video Variational Autoencoder (VAE) enables latent video generative modeling by mapping the visual world into compact spatiotemporal latent spaces, improving training efficiency and stability. While existing video VAEs achieve commendable reconstruction quality, continued optimization of reconstruction does not necessarily translate into improved generative p...</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
+  </entry>
+  <entry>
+    <title>End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer</title>
+    <link href="https://seed.bytedance.com/en/public_papers/end-to-end-autoregressive-image-generation-with-1d-semantic-tokenizer"/>
+    <id>47819616b35194fc1c63921bb5f60adc</id>
+    <published>2026-05-01T00:00:00+00:00</published>
+    <updated>2026-05-01T00:00:00+00:00</updated>
+    <summary type="text">Autoregressive image modeling relies on visual tokenizers to compress images into compact latent representations. We design an end-to-end training pipeline that jointly optimizes reconstruction and generation, enabling direct supervision from generation results to the tokenizer. This contrasts with prior two-stage approaches that train tokenizers and generati...</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
+  </entry>
+  <entry>
+    <title>Leveraging Verifier-Based Reinforcement Learning in Image Editing</title>
+    <link href="https://seed.bytedance.com/en/public_papers/leveraging-verifier-based-reinforcement-learning-in-image-editing"/>
+    <id>999c4e885c6e95635906d001d1c897a2</id>
+    <published>2026-04-30T00:00:00+00:00</published>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+    <summary type="text">While Reinforcement Learning from Human Feedback (RLHF) has become a pivotal paradigm for text-to-image generation, its application to image editing remains largely unexplored. A key bottleneck is the lack of a robust general reward model for all editing tasks. Existing edit reward models usually give overall scores without detailed checks, ignoring different instr...</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
   </entry>
 </feed>

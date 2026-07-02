@@ -4,10 +4,35 @@
   <icon>https://epoch.ai/assets/logo/logo.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-06-26T00:00:00+00:00</updated>
+  <updated>2026-07-02T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Disclosure of serious cyber vulnerabilities spiked around the release of Claude Mythos Preview</title>
+    <link href="https://epoch.ai/data-insights/cve-severity-spike"/>
+    <id>aef50681b836ffec561cbd30a667f4b0</id>
+    <published>2026-07-02T00:00:00+00:00</published>
+    <updated>2026-07-02T00:00:00+00:00</updated>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>GPT-4 led in ECI far longer than any other model</title>
+    <link href="https://epoch.ai/data-insights/gpt-4-longest-eci-lead"/>
+    <id>50929694b0255b1fff1e128a3454b688</id>
+    <published>2026-07-02T00:00:00+00:00</published>
+    <updated>2026-07-02T00:00:00+00:00</updated>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>AI doesn't get better at this board game with practice</title>
+    <link href="https://epoch.ai/publications/earthborne-rangers-benchmark"/>
+    <id>0334f0cf1d420d766f91f49ae6c2f8bc</id>
+    <published>2026-07-01T00:00:00+00:00</published>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <summary type="text">Our latest benchmark suggests AI struggles to learn from experience</summary>
+    <category term="Report"/>
+  </entry>
   <entry>
     <title>MirrorCode: What's the largest software project AI can complete on its own?</title>
     <link href="https://epoch.ai/MirrorCode"/>
@@ -67,31 +92,6 @@
     <published>2026-06-09T00:00:00+00:00</published>
     <updated>2026-06-09T00:00:00+00:00</updated>
     <summary type="text">A simple taxonomy of the main proposals for post-AGI universal redistribution.</summary>
-    <category term="Newsletter"/>
-  </entry>
-  <entry>
-    <title>The AI boom has doubled computing infrastructure's share of US GDP</title>
-    <link href="https://epoch.ai/data-insights/ai-datacenter-share-gdp"/>
-    <id>918d94620fb283667b143fd5bf007873</id>
-    <published>2026-06-05T00:00:00+00:00</published>
-    <updated>2026-06-05T00:00:00+00:00</updated>
-    <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>Open models lag state-of-the-art closed models by 4 months</title>
-    <link href="https://epoch.ai/data-insights/open-closed-eci-gap"/>
-    <id>138a364a7643041aab81efed4412948b</id>
-    <published>2026-05-29T00:00:00+00:00</published>
-    <updated>2026-05-29T00:00:00+00:00</updated>
-    <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>Is a compute crunch coming?</title>
-    <link href="https://epoch.ai/gradient-updates/is-a-compute-crunch-coming"/>
-    <id>e9045b68a3b870fb73b4f8cc1a966488</id>
-    <published>2026-05-25T00:00:00+00:00</published>
-    <updated>2026-05-25T00:00:00+00:00</updated>
-    <summary type="text">We estimated trends in global inference capacity and found that token demand appears to be growing much faster than supply.</summary>
     <category term="Newsletter"/>
   </entry>
 </feed>

@@ -4,10 +4,20 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-06-26T00:00:00+00:00</updated>
+  <updated>2026-07-02T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Agent-Assisted SGLang Development: An Initial Exploration</title>
+    <link href="https://lmsys.org/blog/2026-07-02-agent-assisted-sglang-development"/>
+    <id>2baa18aa9ac1aa9a1c6fcc1e169a3f0f</id>
+    <published>2026-07-02T00:00:00+00:00</published>
+    <updated>2026-07-02T00:00:00+00:00</updated>
+    <summary type="text">SGLang development increasingly goes beyond isolated code changes. The same repository now spans LLM serving, distributed runtime, GPU kernels, diffusion pipelines, model-specific execution paths, and...</summary>
+    <category term="sglang"/>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Improving DeepEP MoE Load Balance in SGLang with Waterfill and LPLB</title>
     <link href="https://lmsys.org/blog/2026-06-26-waterfill-lplb"/>
