@@ -4,6 +4,8 @@
 
 Please open issues and pull requests in the Codeberg repo above.
 
+You can also open Github issues, but pull requests are not available on Github.
+
 ## Introduction
 Feng Wen (风闻) provides **Atom/RSS feeds** for news sources focused on AI and technology. It periodically scrapes official blogs, release notes, trending repositories, and research publications from major AI companies and platforms, then converts them into standard XML feeds so they can be consumed by any feed reader directly.
 
@@ -13,6 +15,8 @@ You can subscribe to all feeds at once by importing the [feeds.opml](feeds.opml)
 # All Feeds
 
 The following tables include both the feeds created by this project and existing official feeds for ease of use and organization.
+
+Each created link is a Codeberg xml raw file URL. You can import them directly in your RSS reader. If you are on Github and prefer to use Github URLs, find the xml file in [feeds](feeds/) and use the raw file URL as the feed.
 
 <!-- FEEDS_TABLE_START -->
 
