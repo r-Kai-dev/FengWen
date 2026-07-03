@@ -4,10 +4,28 @@
   <icon>https://www.resemble.ai/favicon.ico</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-06-29T00:00:00+00:00</updated>
+  <updated>2026-07-03T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>The Deepfake Watchlist: Week of June 26 – July 2, 2026</title>
+    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-june-26---july-2-2026"/>
+    <id>22c41c4f68df26404846b0c279f9c59d</id>
+    <published>2026-07-03T00:00:00+00:00</published>
+    <updated>2026-07-03T00:00:00+00:00</updated>
+    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
+    <category term="Deepfake Watchlist"/>
+  </entry>
+  <entry>
+    <title>Deepfake fraud at work: video call scams, face swaps, and vishing</title>
+    <link href="https://www.resemble.ai/resources/deepfake-fraud-at-work-video-call-scams-face-swaps-and-vishing"/>
+    <id>7227eb392b12689ea40bf6a454cb8c53</id>
+    <published>2026-07-02T00:00:00+00:00</published>
+    <updated>2026-07-02T00:00:00+00:00</updated>
+    <summary type="text">‍A recording of the Resemble AI webinar on how synthetic media is being used to defraud finance and hiring teams, and the controls that hold up in the real world.Deepfake fraud has moved out of the research lab and into ordinary business workflows. The tools that clone a voice from a few seconds of audio or swap a face onto a live webcam feed are now cheap, fast, and good enough to pass a routine Zoom or Teams call. In this session, Zohaib Ahmed and Will Krispin walk through where this shows up most at work, the meeting, the phone call, the receipt or document, and the hiring pipeline, and what teams can actually do about it.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>Complete Guide to EU AI Act Watermarking Requirements for Generative AI</title>
     <link href="https://www.resemble.ai/resources/complete-guide-to-eu-ai-act-watermarking-requirements-for-generative-ai"/>
@@ -97,23 +115,5 @@
     <updated>2026-06-03T00:00:00+00:00</updated>
     <summary type="text">Compare Resemble AI vs Steg.ai to find the best watermarking solution for multimodal content. Explore features, pricing, and use cases for secure content.</summary>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>How to Detect Deepfake Interviews in Remote Hiring in 2026?</title>
-    <link href="https://www.resemble.ai/resources/how-to-detect-deepfake-interviews-in-remote-hiring-in-2026"/>
-    <id>fcfe869a848e213ee6e1624c6b60a4ba</id>
-    <published>2026-06-01T00:00:00+00:00</published>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <summary type="text">Explore how you can detect deepfake interviews in remote hiring before candidate fraud becomes an identity and access risk.</summary>
-    <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Watchlist: Week of May 22–28, 2026</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-may-22-28-2026"/>
-    <id>746e5811f06c21a80f6089811d8afdfc</id>
-    <published>2026-05-29T00:00:00+00:00</published>
-    <updated>2026-05-29T00:00:00+00:00</updated>
-    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
-    <category term="Deepfake Watchlist"/>
   </entry>
 </feed>

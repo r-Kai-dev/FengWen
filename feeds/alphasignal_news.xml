@@ -4,128 +4,128 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-02T16:27:26+00:00</updated>
+  <updated>2026-07-03T17:03:47+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Higgsfield AI Ships Explainer to Turn Any Topic Into a 10-Minute Documentary</title>
-    <link href="https://higgsfield.ai/supercomputer/marketplace/skills/higgsfield-explainer"/>
-    <id>4b168e8d5fa43a2a5a30cd84ca481d52</id>
-    <published>2026-07-02T16:27:26+00:00</published>
-    <updated>2026-07-02T16:27:26+00:00</updated>
-    <summary type="text">Higgsfield's new Explainer Skill uses Claude Fable 5 and Gemini Omni Flash to auto-research, narrate, and render up to 10-minute faceless documentary videos from a single prompt.</summary>
-    <category term="video"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Epoch's EBR-Bench Shows GPT-5.5 and Claude Can't Learn From Practice</title>
-    <link href="https://epoch.ai/publications/earthborne-rangers-benchmark"/>
-    <id>7bfeeee7fc30a9581cd9f53bb5159966</id>
-    <published>2026-07-02T16:09:50+00:00</published>
-    <updated>2026-07-02T16:09:50+00:00</updated>
-    <summary type="text">Epoch AI's EBR-bench puts frontier models through 30 rounds of a complex board game -- and finds zero evidence they learn from experience</summary>
-    <category term="benchmarks"/>
-    <category term="reasoning"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot Adds Moonshot AI's Kimi K2.7, Its First Open-Weight Model</title>
-    <link href="https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/"/>
-    <id>2f63ccac6fc79833019ac81e32900fb9</id>
-    <published>2026-07-02T16:03:40+00:00</published>
-    <updated>2026-07-02T16:03:40+00:00</updated>
-    <summary type="text">Kimi K2.7 Code becomes the first open-weight model selectable in Copilot's model picker, offering a lower-cost option for agentic coding workflows.</summary>
+    <title>GitHub Drops Moonshot AI's Open-Weight Kimi K2.7 Into Copilot's Model Picker</title>
+    <link href="https://x.com/github/status/2073090339020116476"/>
+    <id>b5f866c06a31b75a169d5255722e3cd0</id>
+    <published>2026-07-03T17:03:47+00:00</published>
+    <updated>2026-07-03T17:03:47+00:00</updated>
+    <summary type="text">Moonshot AI's Kimi K2.7 Code is the first open-weight model in GitHub Copilot's picker, bringing a 1T-parameter MoE coding model to millions of VS Code users at lower cost.</summary>
     <category term="development"/>
     <category term="open_source"/>
   </entry>
   <entry>
-    <title>Browser Use CLI 3.0 Cuts Agent Token Usage 6x With Direct Chrome Access</title>
-    <link href="https://docs.browser-use.com/open-source/browser-use-cli"/>
-    <id>50dfa59fb73c6c78fa1a91f5824cf932</id>
-    <published>2026-07-02T15:10:47+00:00</published>
-    <updated>2026-07-02T15:10:47+00:00</updated>
-    <summary type="text">Browser Use CLI 3.0 gives coding agents like Claude Code direct CDP browser control with 6x fewer tokens than alternatives</summary>
-    <category term="agents"/>
+    <title>Kilo Puts Z.ai's GLM-5.2 Against Real Bugs and Finds a Surprising Weakness</title>
+    <link href="https://blog.kilo.ai/p/glm-52s-code-reviews-are-only-as-424"/>
+    <id>d1c342203059ea3095cbf64eb686605c</id>
+    <published>2026-07-03T13:50:02+00:00</published>
+    <updated>2026-07-03T13:50:02+00:00</updated>
+    <summary type="text">Kilo ran a controlled code-review benchmark on GLM-5.2 and found prompt wording matters more than reasoning effort â with a clear local-vs-cross-file split</summary>
     <category term="development"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Science Hackathon Offers Researchers $100K to Reinvent Biomedicine</title>
-    <link href="https://cerebralvalley.ai/e/built-with-claude-life-sciences"/>
-    <id>b6efb9efc117d632a6b1126404b2b923</id>
-    <published>2026-07-02T14:00:37+00:00</published>
-    <updated>2026-07-02T14:00:37+00:00</updated>
-    <summary type="text">Anthropic and Gladstone Institutes launch a week-long virtual hackathon to push Claude Science into biomedical research, with $100K in credits on the line.</summary>
-    <category term="development"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Tufa Labs Wins $25K Beating Frontier AI on the World's Hardest Benchmark</title>
-    <link href="https://www.kaggle.com/code/mbmmurad/arc-agi-3-lb-0-86-3rd-place-candidate-milestone"/>
-    <id>5b81f5f3934ac50d841eede59fa64f6f</id>
-    <published>2026-07-02T13:26:28+00:00</published>
-    <updated>2026-07-02T13:26:28+00:00</updated>
-    <summary type="text">ARC Prize awards its first Milestone #1 prizes for ARC-AGI-3, with Tufa Labs, Reki, and Md Boktiar Mahbub Murad open-sourcing the top-scoring agents on the world's hardest agentic benchmark.</summary>
-    <category term="reasoning"/>
     <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>Sakana's Fugu Ultra Beats GPT-5.5 and Claude by Orchestrating Both</title>
-    <link href="https://models.dev/models/sakana/fugu-ultra/"/>
-    <id>efe8fb2e4bc0f88229cca4234e7ae162</id>
-    <published>2026-07-02T01:37:35+00:00</published>
-    <updated>2026-07-02T01:37:35+00:00</updated>
-    <summary type="text">Sakana AI's Fugu lands in OpenCode, the same tool used to build it â a multi-agent orchestration system that beats frontier models by coordinating them</summary>
+    <title>Sakana AI's Sheaf-ADMM Solves Multi-Agent Sudoku at 92.6% Where Rivals Hit 34%</title>
+    <link href="https://github.com/SakanaAI/sheaf-admm"/>
+    <id>792af0677322b41c56d335e10cbb1f3d</id>
+    <published>2026-07-03T13:38:26+00:00</published>
+    <updated>2026-07-03T13:38:26+00:00</updated>
+    <summary type="text">Sakana AI's Sheaf-ADMM fuses distributed optimization theory and algebraic topology to build transparent, coordination-native neural networks accepted at ICML 2026</summary>
     <category term="agents"/>
-    <category term="development"/>
+    <category term="reasoning"/>
   </entry>
   <entry>
-    <title>GitHub Copilot's Smarter Code Review Cuts Costs 20% While Catching Subtle Bugs</title>
-    <link href="https://x.com/github/status/2072480334327812378"/>
-    <id>125d43638ee1a7b81effeaa1f2f2591e</id>
-    <published>2026-07-02T00:39:51+00:00</published>
-    <updated>2026-07-02T00:39:51+00:00</updated>
-    <summary type="text">GitHub Copilot code review now routes complex PRs to a higher-reasoning model, giving teams a configurable depth dial for security-sensitive and cross-service changes.</summary>
+    <title>Jesse Vincent's Superpowers 6 Cuts AI Coding Costs 60% After Overnight Fable Experiments</title>
+    <link href="https://blog.fsck.com/2026/06/15/Superpowers-6/"/>
+    <id>c3bcd82ca76c8d90a9321cec1ad079bd</id>
+    <published>2026-07-03T10:58:34+00:00</published>
+    <updated>2026-07-03T10:58:34+00:00</updated>
+    <summary type="text">Superpowers 6 adds Kimi Code support and slashes build costs by 60% using Anthropic's Fable to optimize its own workflow overnight</summary>
     <category term="development"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>Reve AI's Reve 2.0 Hits #2 on Image Leaderboard Using 10x Fewer GPUs</title>
-    <link href="https://artificialanalysis.ai/image/leaderboard/text-to-image"/>
-    <id>c6b3eeca11522b3fc6c228d39eaf1bc6</id>
-    <published>2026-07-01T22:12:12+00:00</published>
-    <updated>2026-07-01T22:12:12+00:00</updated>
-    <summary type="text">Reve 2.0 debuts at #2 on the Artificial Analysis Image Arena, introducing a layout-first architecture that makes generated images editable like code</summary>
-    <category term="image"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Google Kills MusicFX to Go All-In on Flow Music</title>
-    <link href="https://www.flowmusic.app/"/>
-    <id>2c034ee68757771994db0074b066d664</id>
-    <published>2026-07-01T20:28:50+00:00</published>
-    <updated>2026-07-01T20:28:50+00:00</updated>
-    <summary type="text">Google shuts down MusicFX and MusicFX DJ on July 31, consolidating its AI music experiments into the more capable Google Flow Music platform.</summary>
+    <title>Ant Group Pushes Qwen3-Omni to 5.4x Faster With 0.6s Audio Response</title>
+    <link href="https://vllm.ai/blog/2026-07-01-qwen3-omni-optimization"/>
+    <id>8f275607b9ac1e4ff82a8764d52dbacb</id>
+    <published>2026-07-03T07:15:09+00:00</published>
+    <updated>2026-07-03T07:15:09+00:00</updated>
+    <summary type="text">vLLM-Omni's staged pipeline engineering cuts Qwen3-Omni's first audio latency from 6s to 0.6s and boosts throughput 5.4x on the same GPUs</summary>
+    <category term="infra"/>
     <category term="audio"/>
+  </entry>
+  <entry>
+    <title>Sakana AI Unifies Two Rival AI Optimization Camps to Slash LLM Merging Costs</title>
+    <link href="https://arxiv.org/abs/2606.25761"/>
+    <id>3c46d22aed546699e148b51112427373</id>
+    <published>2026-07-03T06:27:22+00:00</published>
+    <updated>2026-07-03T06:27:22+00:00</updated>
+    <summary type="text">Sakana AI unifies two competing families of gradient-free optimizers into one framework, then uses the insight to merge LLMs cheaper and better.</summary>
+    <category term="llms"/>
+    <category term="training_infra"/>
+  </entry>
+  <entry>
+    <title>Alibaba's Wan Video Turns Any Photo Into a Music-Synced Dance Clip</title>
+    <link href="https://create.wan.video/generate/avatar/music-to-dance"/>
+    <id>f394ab133dca22b26fc622814f9cfd99</id>
+    <published>2026-07-03T06:07:44+00:00</published>
+    <updated>2026-07-03T06:07:44+00:00</updated>
+    <summary type="text">Alibaba's Wan Video adds music-driven dance generation: upload a character image, pick a style, and get a beat-synced video in seconds</summary>
+    <category term="video"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>UN and ITU Pull Jensen Huang, Andy Jassy Into One AI Governance Body</title>
+    <link href="https://sakana.ai/ai-for-good-commission/"/>
+    <id>346a1d6bdf40b1779f5b537f22cb0c06</id>
+    <published>2026-07-03T01:34:16+00:00</published>
+    <updated>2026-07-03T01:34:16+00:00</updated>
+    <summary type="text">Sakana AI's Ren Ito joins 40+ global tech and government leaders on the newly formed UN-ITU AI for Good Global Commission</summary>
+    <category term="government"/>
     <category term="business"/>
   </entry>
   <entry>
-    <title>Vercel Brings Claude Fable 5 Back to v0 After US Export Ban</title>
-    <link href="https://v0.app/?fable5"/>
-    <id>98478cbe2cb4f6d7457c34e0fb8b892a</id>
-    <published>2026-07-01T20:27:05+00:00</published>
-    <updated>2026-07-01T20:27:05+00:00</updated>
-    <summary type="text">Vercel's v0 AI app builder re-enables Claude Fable 5 as a selectable model after a brief US government-ordered suspension</summary>
+    <title>Anthropic Gives Claude API Builders 5x More Room to Scale</title>
+    <link href="https://platform.claude.com/docs/en/api/rate-limits"/>
+    <id>e80085fd1884993847d49b188af047e3</id>
+    <published>2026-07-02T23:02:48+00:00</published>
+    <updated>2026-07-02T23:02:48+00:00</updated>
+    <summary type="text">Anthropic raises Claude API rate limits across all tiers and drops spend-based tier progression, giving Sonnet and Haiku users up to 5x more throughput</summary>
+    <category term="api"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Mythos Triggers a 3.5x Record CVE Spike</title>
+    <link href="https://epoch.ai/data-insights/cve-severity-spike"/>
+    <id>1ed66e9dc04fd3c0507da4faef9985cf</id>
+    <published>2026-07-02T20:17:52+00:00</published>
+    <updated>2026-07-02T20:17:52+00:00</updated>
+    <summary type="text">AI-powered vulnerability hunting by Anthropic and OpenAI triggered a 3.5x spike in high-severity CVE disclosures, reshaping the entire cybersecurity landscape</summary>
+    <category term="security"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Runway Ships Agent Skills to Run Full Ad Campaigns With One Command</title>
+    <link href="https://app.runwayml.com/agent"/>
+    <id>5f8a75a7c61edc89417e1e2c86acddff</id>
+    <published>2026-07-02T20:02:11+00:00</published>
+    <updated>2026-07-02T20:02:11+00:00</updated>
+    <summary type="text">Runway adds slash-command Skills to its AI Agent, letting marketers build full ad campaigns, commercials, and localized assets in a single command</summary>
+    <category term="agents"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>Pika Labs Ships MCP to Bring Its Full Creative Engine Into Claude</title>
+    <link href="https://experiment.pika.art/MCP"/>
+    <id>7654de1bc99b692ab788756cfece828f</id>
+    <published>2026-07-02T19:40:31+00:00</published>
+    <updated>2026-07-02T19:40:31+00:00</updated>
+    <summary type="text">Pika's new Voxel-It Skill turns any photo into a Minecraft-style world, while its MCP server brings the full creative suite into Claude, Codex, and more</summary>
+    <category term="image"/>
     <category term="vibe_coding"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Manus Targets Small Businesses With Shopify and HubSpot Connectors Amid $1B Chaos</title>
-    <link href="https://smb.manus.space/"/>
-    <id>375c00a58b07cc27e7b6f48aa4ec647c</id>
-    <published>2026-07-01T20:02:58+00:00</published>
-    <updated>2026-07-01T20:02:58+00:00</updated>
-    <summary type="text">Manus launches a small business toolkit with 20+ connectors, free webinars, and a use-case competition â all while navigating a blocked $2B Meta acquisition</summary>
-    <category term="development"/>
-    <category term="business"/>
   </entry>
 </feed>
