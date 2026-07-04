@@ -11,7 +11,7 @@
     <id>a1a5ef7332b51401fccc656e1093bcc6</id>
     <published>2026-06-28T20:00:00.000Z</published>
     <updated>2026-06-28T20:00:00.000Z</updated>
-    <summary type="text">We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf... \u00b7 Upvotes: 199 \u00b7 Authors: Yihao Wang, Yuheng Ji, Mingyu Cao</summary>
+    <summary type="text">We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf... \u00b7 Upvotes: 230 \u00b7 Authors: Yihao Wang, Yuheng Ji, Mingyu Cao</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +31,17 @@
     <id>a7c689189eb7a6484ab2786a29a52d86</id>
     <published>2026-06-21T20:00:00.000Z</published>
     <updated>2026-06-21T20:00:00.000Z</updated>
-    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 48 \u00b7 GitHub Stars: 13163 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
+    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 49 \u00b7 GitHub Stars: 13250 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Kairos: A Native World Model Stack for Physical AI</title>
+    <link href="https://arxiv.org/abs/2606.16533"/>
+    <id>e23ec17cd41a38ea7dcd13bbf914e395</id>
+    <published>2026-06-15T20:00:00.000Z</published>
+    <updated>2026-06-15T20:00:00.000Z</updated>
+    <summary type="text">World models are transitioning from passive visual generators to foundational, operational infrastructure for Physical AI: they must natively acquire world knowledge from heterogeneous experience, mai... \u00b7 Upvotes: 38 \u00b7 GitHub Stars: 1303 \u00b7 Authors: Kairos Team, Fei Wang, Shan You</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -56,12 +66,22 @@
     <category term="paper"/>
   </entry>
   <entry>
+    <title>VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models</title>
+    <link href="https://arxiv.org/abs/2606.16140"/>
+    <id>fc9a07a4b30c1ddcdc766ecbb8431a6b</id>
+    <published>2026-06-14T20:00:00.000Z</published>
+    <updated>2026-06-14T20:00:00.000Z</updated>
+    <summary type="text">This technical report introduces VibeThinker-3B, a compact dense model with 3B parameters developed to investigate how far verifiable reasoning can be pushed within a strictly small-model regime. Buil... \u00b7 Upvotes: 121 \u00b7 GitHub Stars: 1452 \u00b7 Authors: Sen Xu, Shixi Liu, Wei Wang</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
     <title>JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence</title>
     <link href="https://arxiv.org/abs/2606.14777"/>
     <id>d366d28708fe887c9ce865e915f32a2f</id>
     <published>2026-06-09T20:00:00.000Z</published>
     <updated>2026-06-09T20:00:00.000Z</updated>
-    <summary type="text">Many moments in the real world do not wait for a user to ask. A fire starts on a security monitor, an expression flickers across a video call, or a product a viewer wants flashes by in a livestream. Y... \u00b7 Upvotes: 208 \u00b7 GitHub Stars: 944 \u00b7 Authors: Dingyu Yao, Junhao Zhou, Chenxu Yang</summary>
+    <summary type="text">Many moments in the real world do not wait for a user to ask. A fire starts on a security monitor, an expression flickers across a video call, or a product a viewer wants flashes by in a livestream. Y... \u00b7 Upvotes: 208 \u00b7 GitHub Stars: 966 \u00b7 Authors: Dingyu Yao, Junhao Zhou, Chenxu Yang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,27 +101,7 @@
     <id>2d7612d3c938c9e51b341aead3ae0c2a</id>
     <published>2026-06-02T20:00:00.000Z</published>
     <updated>2026-06-02T20:00:00.000Z</updated>
-    <summary type="text">Recent AI systems have achieved strong results on a wide range of benchmarks, yet these gains have not translated into economically meaningful deployment across many professional domains. We argue tha... \u00b7 Upvotes: 372 \u00b7 GitHub Stars: 774 \u00b7 Authors: Yiyou Sun, Xinyang Han, Weichen Zhang</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training</title>
-    <link href="https://arxiv.org/abs/2606.03264"/>
-    <id>4880dc69bacd9ce7e16146a199375baa</id>
-    <published>2026-06-01T20:00:00.000Z</published>
-    <updated>2026-06-01T20:00:00.000Z</updated>
-    <summary type="text">We introduce PaddleOCR-VL-1.6, an upgraded compact document parsing model built upon PaddleOCR-VL-1.5. Although PaddleOCR-VL-1.5 establishes a strong 0.9B baseline, its remaining errors concentrate in... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 84618 \u00b7 Authors: Zelun Zhang, Hongen Liu, Suyin Liang</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models</title>
-    <link href="https://arxiv.org/abs/2606.03748"/>
-    <id>7c0a6dd37ea7c846935b31a1667af68d</id>
-    <published>2026-06-01T20:00:00.000Z</published>
-    <updated>2026-06-01T20:00:00.000Z</updated>
-    <summary type="text">Real-time vision demands models that are accurate, efficient, and simple to deploy across diverse hardware. The YOLO family has become widely deployed for this reason, yet most YOLO detectors still re... \u00b7 Upvotes: 16 \u00b7 GitHub Stars: 59079 \u00b7 Authors: Glenn Jocher, Jing Qiu, Mengyu Liu</summary>
+    <summary type="text">Recent AI systems have achieved strong results on a wide range of benchmarks, yet these gains have not translated into economically meaningful deployment across many professional domains. We argue tha... \u00b7 Upvotes: 372 \u00b7 GitHub Stars: 780 \u00b7 Authors: Yiyou Sun, Xinyang Han, Weichen Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -111,7 +111,7 @@
     <id>daf251a8f2baee3ca01adc98296543eb</id>
     <published>2026-05-31T20:00:00.000Z</published>
     <updated>2026-05-31T20:00:00.000Z</updated>
-    <summary type="text">We introduce Cosmos 3, a family of omnimodal world models designed to jointly process and generate language, image, video, audio, and action sequences within a unified mixture-of-transformers architec... \u00b7 Upvotes: 138 \u00b7 GitHub Stars: 10847 \u00b7 Authors: Aditi, Niket Agarwal, Arslan Ali</summary>
+    <summary type="text">We introduce Cosmos 3, a family of omnimodal world models designed to jointly process and generate language, image, video, audio, and action sequences within a unified mixture-of-transformers architec... \u00b7 Upvotes: 138 \u00b7 GitHub Stars: 10866 \u00b7 Authors: Aditi, Niket Agarwal, Arslan Ali</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -121,7 +121,7 @@
     <id>0c3c3d80ab1252d2042e5881de1abad2</id>
     <published>2026-05-25T20:00:00.000Z</published>
     <updated>2026-05-25T20:00:00.000Z</updated>
-    <summary type="text">Humans are the bottleneck in building and improving AI. Both the models and the agents that wrap them are written, tuned, and corrected by people. The long-horizon goal of an AI that can figure out ho... \u00b7 Upvotes: 15 \u00b7 GitHub Stars: 1955 \u00b7 Authors: Prannay Hebbar, Yogendra Manawat, Samuel Verboomen</summary>
+    <summary type="text">Humans are the bottleneck in building and improving AI. Both the models and the agents that wrap them are written, tuned, and corrected by people. The long-horizon goal of an AI that can figure out ho... \u00b7 Upvotes: 16 \u00b7 GitHub Stars: 1956 \u00b7 Authors: Prannay Hebbar, Yogendra Manawat, Samuel Verboomen</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

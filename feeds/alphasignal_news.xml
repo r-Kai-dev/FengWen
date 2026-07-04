@@ -19,6 +19,16 @@
     <category term="open_source"/>
   </entry>
   <entry>
+    <title>Remotion Now Lets Developers Write GPU Shaders as React Video Transitions</title>
+    <link href="https://www.remotion.dev/docs/transitioning"/>
+    <id>bc6c77cc6acb81f2d4a103321c98465d</id>
+    <published>2026-07-03T16:20:52+00:00</published>
+    <updated>2026-07-03T16:20:52+00:00</updated>
+    <summary type="text">Remotion's @remotion/transitions now supports GPU-powered WebGL shader transitions between HTML scenes, with ported gl-transitions presets included out of the box</summary>
+    <category term="vibe_coding"/>
+    <category term="video"/>
+  </entry>
+  <entry>
     <title>Kilo Puts Z.ai's GLM-5.2 Against Real Bugs and Finds a Surprising Weakness</title>
     <link href="https://blog.kilo.ai/p/glm-52s-code-reviews-are-only-as-424"/>
     <id>d1c342203059ea3095cbf64eb686605c</id>
@@ -117,15 +127,5 @@
     <summary type="text">Runway adds slash-command Skills to its AI Agent, letting marketers build full ad campaigns, commercials, and localized assets in a single command</summary>
     <category term="agents"/>
     <category term="business"/>
-  </entry>
-  <entry>
-    <title>Pika Labs Ships MCP to Bring Its Full Creative Engine Into Claude</title>
-    <link href="https://experiment.pika.art/MCP"/>
-    <id>7654de1bc99b692ab788756cfece828f</id>
-    <published>2026-07-02T19:40:31+00:00</published>
-    <updated>2026-07-02T19:40:31+00:00</updated>
-    <summary type="text">Pika's new Voxel-It Skill turns any photo into a Minecraft-style world, while its MCP server brings the full creative suite into Claude, Codex, and more</summary>
-    <category term="image"/>
-    <category term="vibe_coding"/>
   </entry>
 </feed>
