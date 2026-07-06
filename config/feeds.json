@@ -1244,7 +1244,19 @@
       "name": "Canva Engineering Blog",
       "xmlUrl": "https://www.canva.dev/blog/engineering/feed.xml",
       "htmlUrl": "https://www.canva.dev/blog/engineering/",
-      "category": "Labs"
+      "category": "Tools"
+    },
+    {
+      "name": "Kilo Code Blog",
+      "xmlUrl": "https://blog.kilo.ai/feed",
+      "htmlUrl": "https://blog.kilo.ai/",
+      "category": "Tools"
+    },
+    {
+      "name": "Zed Editor Blog",
+      "xmlUrl": "https://zed.dev/blog.rss",
+      "htmlUrl": "https://zed.dev/blog",
+      "category": "Tools"
     }
   ]
 }

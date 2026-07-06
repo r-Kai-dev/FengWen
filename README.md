@@ -140,7 +140,6 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 | [Netflix Tech Blog](https://netflixtechblog.com) | [Netflix Tech Blog Feed](https://netflixtechblog.com/feed) | Official |
 | [Thinking Machines Lab Blog](https://thinkingmachines.ai/blog/) | [Thinking Machines Lab Blog Feed](https://thinkingmachines.ai/blog/index.xml) | Official |
 | [Krea AI Blog](https://www.krea.ai/blog) | [Krea AI Blog Feed](https://www.krea.ai/blog/feed/atom.xml) | Official |
-| [Canva Engineering Blog](https://www.canva.dev/blog/engineering/) | [Canva Engineering Blog Feed](https://www.canva.dev/blog/engineering/feed.xml) | Official |
 
 
 ## Platforms
@@ -182,6 +181,9 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 | [Krita News](https://krita.org/en/categories/news/) | [Krita News Feed](https://krita.org/en/categories/news/index.xml) | Official |
 | [Blender News](https://www.blender.org/news/) | [Blender News Feed](https://www.blender.org/feed/) | Official |
 | [Unreal Engine News](https://www.unrealengine.com/en-US/feed) | [Unreal Engine News Feed](https://www.unrealengine.com/en-US/rss) | Official |
+| [Canva Engineering Blog](https://www.canva.dev/blog/engineering/) | [Canva Engineering Blog Feed](https://www.canva.dev/blog/engineering/feed.xml) | Official |
+| [Kilo Code Blog](https://blog.kilo.ai/) | [Kilo Code Blog Feed](https://blog.kilo.ai/feed) | Official |
+| [Zed Editor Blog](https://zed.dev/blog) | [Zed Editor Blog Feed](https://zed.dev/blog.rss) | Official |
 
 
 ## Weekly

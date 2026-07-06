@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:fw="https://codeberg.org/r-Kai/FengWen">
   <head>
     <title>Feng Wen (风闻) — AI/Tech News Feeds</title>
-    <dateCreated>2026-07-06T17:49:56Z</dateCreated>
+    <dateCreated>2026-07-06T18:17:39Z</dateCreated>
     <ownerName>Feng Wen</ownerName>
   </head>
   <body>
@@ -114,7 +114,6 @@
       <outline text="Netflix Tech Blog" title="Netflix Tech Blog" type="rss" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com" fw:type="official"/>
       <outline text="Thinking Machines Lab Blog" title="Thinking Machines Lab Blog" type="rss" xmlUrl="https://thinkingmachines.ai/blog/index.xml" htmlUrl="https://thinkingmachines.ai/blog/" fw:type="official"/>
       <outline text="Krea AI Blog" title="Krea AI Blog" type="rss" xmlUrl="https://www.krea.ai/blog/feed/atom.xml" htmlUrl="https://www.krea.ai/blog" fw:type="official"/>
-      <outline text="Canva Engineering Blog" title="Canva Engineering Blog" type="rss" xmlUrl="https://www.canva.dev/blog/engineering/feed.xml" htmlUrl="https://www.canva.dev/blog/engineering/" fw:type="official"/>
     </outline>
     <outline text="Platforms" title="Platforms">
       <outline text="GitHub Trending (daily)" title="GitHub Trending (daily)" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-daily.xml" htmlUrl="https://github.com/trending?since=daily" fw:type="created"/>
@@ -147,6 +146,9 @@
       <outline text="Krita News" title="Krita News" type="rss" xmlUrl="https://krita.org/en/categories/news/index.xml" htmlUrl="https://krita.org/en/categories/news/" fw:type="official"/>
       <outline text="Blender News" title="Blender News" type="rss" xmlUrl="https://www.blender.org/feed/" htmlUrl="https://www.blender.org/news/" fw:type="official"/>
       <outline text="Unreal Engine News" title="Unreal Engine News" type="rss" xmlUrl="https://www.unrealengine.com/en-US/rss" htmlUrl="https://www.unrealengine.com/en-US/feed" fw:type="official"/>
+      <outline text="Canva Engineering Blog" title="Canva Engineering Blog" type="rss" xmlUrl="https://www.canva.dev/blog/engineering/feed.xml" htmlUrl="https://www.canva.dev/blog/engineering/" fw:type="official"/>
+      <outline text="Kilo Code Blog" title="Kilo Code Blog" type="rss" xmlUrl="https://blog.kilo.ai/feed" htmlUrl="https://blog.kilo.ai/" fw:type="official"/>
+      <outline text="Zed Editor Blog" title="Zed Editor Blog" type="rss" xmlUrl="https://zed.dev/blog.rss" htmlUrl="https://zed.dev/blog" fw:type="official"/>
     </outline>
     <outline text="Weekly" title="Weekly">
       <outline text="The Batch (DeepLearning.AI)" title="The Batch (DeepLearning.AI)" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/deeplearning_ai_the-batch.xml" htmlUrl="https://www.deeplearning.ai/the-batch" fw:type="created"/>
