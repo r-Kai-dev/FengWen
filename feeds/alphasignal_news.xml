@@ -4,10 +4,20 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-06T19:21:24+00:00</updated>
+  <updated>2026-07-06T22:13:21+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>OpenAI's gpt-realtime-2.1-mini Brings Reasoning and Tool Use at 6x Lower Cost</title>
+    <link href="https://developers.openai.com/api/docs/guides/realtime"/>
+    <id>9f3d134e87ceda204df23d8513d594ab</id>
+    <published>2026-07-06T22:13:21+00:00</published>
+    <updated>2026-07-06T22:13:21+00:00</updated>
+    <summary type="text">GPT-Realtime-2.1-mini brings reasoning and tool use to the budget voice tier, plus a 25%+ p95 latency cut across all Realtime voice models</summary>
+    <category term="api"/>
+    <category term="audio"/>
+  </entry>
   <entry>
     <title>Prime Intellect's prime-rl Ships Six RL Algorithms With Per-Environment Control</title>
     <link href="https://www.primeintellect.ai/blog/algorithms-layer"/>
@@ -107,25 +117,5 @@
     <summary type="text">Sakana AI launches a free Japanese translation tool powered by Namazu, its Japan-adapted model, with translate, proofread, and Q&amp;A modes</summary>
     <category term="llms"/>
     <category term="api"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot CLI Lets Teams Build Custom AI Agents From Markdown Files</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=dev-pod-copilot-cli-2026"/>
-    <id>8289aa7fb4d73f0efa498f631be84642</id>
-    <published>2026-07-04T19:40:00+00:00</published>
-    <updated>2026-07-04T19:40:00+00:00</updated>
-    <summary type="text">GitHub Copilot CLI now supports custom agents defined in Markdown, turning one-off terminal prompts into repeatable, team-shareable workflows for security, releases, and more.</summary>
-    <category term="development"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>GitHub Drops Moonshot AI's Open-Weight Kimi K2.7 Into Copilot's Model Picker</title>
-    <link href="https://x.com/github/status/2073090339020116476"/>
-    <id>b5f866c06a31b75a169d5255722e3cd0</id>
-    <published>2026-07-03T17:03:47+00:00</published>
-    <updated>2026-07-03T17:03:47+00:00</updated>
-    <summary type="text">Moonshot AI's Kimi K2.7 Code is the first open-weight model in GitHub Copilot's picker, bringing a 1T-parameter MoE coding model to millions of VS Code users at lower cost.</summary>
-    <category term="development"/>
-    <category term="open_source"/>
   </entry>
 </feed>
