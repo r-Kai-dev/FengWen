@@ -891,6 +891,22 @@
       ]
     },
     {
+      "org_key": "cognition",
+      "name": "Cognition",
+      "strategy": "request",
+      "base_url": "https://cognition.com",
+      "favicon": "https://cognition.com/favicon.ico",
+      "category": "Labs",
+      "pages": [
+        {
+          "key": "blog",
+          "label": "Cognition Blog",
+          "url": "https://cognition.com/blog",
+          "output_file": "cognition_blog.xml"
+        }
+      ]
+    },
+    {
       "org_key": "krea",
       "name": "Krea",
       "strategy": "enhance",

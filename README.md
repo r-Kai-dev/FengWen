@@ -126,6 +126,7 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 | [LTX Blog](https://ltx.io/blog) | [ltx_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ltx_blog.xml) | Created |
 | [LTX Newsroom](https://ltx.io/newsroom) | [ltx_newsroom.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ltx_newsroom.xml) | Created |
 | [Microsoft AI Blog](https://microsoft.ai/blog/) | [microsoft_ai_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/microsoft_ai_blog.xml) | Created |
+| [Cognition Blog](https://cognition.com/blog) | [cognition_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/cognition_blog.xml) | Created |
 | [Krea Blog](https://www.krea.ai/blog/feed/atom.xml) | [krea_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/krea_blog.xml) | Created |
 | [OpenAI News](https://openai.com/news) | [OpenAI News Feed](https://openai.com/news/rss.xml) | Official |
 | [Google Tech Blog](https://blog.google/technology/) | [Google Tech Blog Feed](https://blog.google/technology/rss/) | Official |
