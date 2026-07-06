@@ -10,7 +10,6 @@ steps:
       - pip install -q curl_cffi beautifulsoup4
       - mkdir -p logs
       - bash src/run_scrape_request.sh
-    depends_on: []
 
   - name: crawl
     image: python:3.12
@@ -21,15 +20,11 @@ steps:
       - cd src
       - export PYTHONPATH="$PWD"
       - python3 crawl_runner.py
-    depends_on: []
 
   - name: audit
     image: python:3.12
     commands:
       - python src/audit_report.py
-    depends_on:
-      - scrape-request
-      - crawl
 
   - name: update-feeds
     image: alpine/git
@@ -43,5 +38,3 @@ steps:
       - "git diff --cached --quiet || git commit -m 'ci: update results [SKIP CI]'"
       - git remote set-url origin https://$CI_REPO_OWNER:$CODEBERG_TOKEN@codeberg.org/$CI_REPO.git
       - git push origin HEAD:main
-    depends_on:
-      - audit

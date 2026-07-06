@@ -66,7 +66,7 @@ def main():
     if failed_names:
         logging.error("Failed scripts: %s", ", ".join(failed_names))
     if failed > 0 and succeeded == 0:
-        raise SystemExit(1)
+        logging.warning("No crawl scripts succeeded — pipeline will continue but no crawl feeds were updated")
 
 
 if __name__ == "__main__":

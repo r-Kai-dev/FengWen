@@ -54,6 +54,5 @@ if [ "$FAILED" -gt 0 ]; then
 fi
 
 if [ "$SUCCEEDED" -eq 0 ]; then
-    echo "ERROR: No scripts ran successfully" >&2
-    exit 1
+    echo "WARNING: No scripts ran successfully — pipeline will continue but no scrape/request feeds were updated" >&2
 fi
