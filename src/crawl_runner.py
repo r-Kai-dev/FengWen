@@ -25,6 +25,7 @@ def _start_browser():
     co.set_argument("--disable-gpu")
     co.set_argument("--disable-dev-shm-usage")
     co.set_argument("--window-size", "1920,1080")
+    co.auto_port()
     co.new_env(on_off=True)
     co.headless(on_off=True)
     page = ChromiumPage(addr_or_opts=co)
@@ -35,7 +36,7 @@ def _start_browser():
 
 
 def main():
-    crawlers = sorted(SRC_DIR.glob("crawl_*.py"))
+    crawlers = sorted(p for p in SRC_DIR.glob("crawl_*.py") if p.name != "crawl_runner.py")
     if not crawlers:
         logging.info("No crawl scripts found.")
         return
