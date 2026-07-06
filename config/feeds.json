@@ -889,6 +889,22 @@
           "output_file": "microsoft_ai_blog.xml"
         }
       ]
+    },
+    {
+      "org_key": "krea",
+      "name": "Krea",
+      "strategy": "enhance",
+      "base_url": "https://www.krea.ai",
+      "favicon": "https://www.krea.ai/favicon.ico",
+      "category": "Labs",
+      "pages": [
+        {
+          "key": "blog",
+          "label": "Krea Blog",
+          "url": "https://www.krea.ai/blog/feed/atom.xml",
+          "output_file": "krea_blog.xml"
+        }
+      ]
     }
   ],
   "official": [
@@ -1233,12 +1249,6 @@
       "xmlUrl": "https://arena.ai/blog/rss/",
       "htmlUrl": "https://arena.ai/blog/",
       "category": "Eval"
-    },
-    {
-      "name": "Krea AI Blog",
-      "xmlUrl": "https://www.krea.ai/blog/feed/atom.xml",
-      "htmlUrl": "https://www.krea.ai/blog",
-      "category": "Labs"
     },
     {
       "name": "Canva Engineering Blog",

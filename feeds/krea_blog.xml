@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Krea Blog</title>
+  <subtitle>Product announcements, research launches, tutorials, and stories from the Krea team.</subtitle>
+  <link href="https://www.krea.ai/blog"/>
+  <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
+  <id>https://www.krea.ai/blog/feed/atom.xml</id>
+  <updated>2026-06-23T15:00:00.000Z</updated>
+  <author><name>The Krea Team</name></author>
+  <entry>
+    <title>Krea 2 Technical Report</title>
+    <link href="https://www.krea.ai/blog/krea-2-technical-report"/>
+    <id>https://www.krea.ai/blog/krea-2-technical-report</id>
+    <updated>2026-06-23T15:00:00.000Z</updated>
+    <published>2026-06-23T15:00:00.000Z</published>
+    <author><name>Sangwu Lee</name></author>
+    <category term="research"/>
+    <summary>Technical report for Krea 2 (K2), our open-weights text-to-image foundation models for creative exploration. Release includes K2 Raw and K2 Turbo open weights.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-technical-report/agent/1782227962641-krea2-hero-new.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Introducing Generative Sliders</title>
+    <link href="https://www.krea.ai/blog/generative-sliders"/>
+    <id>https://www.krea.ai/blog/generative-sliders</id>
+    <updated>2026-06-11T00:00:00.000Z</updated>
+    <published>2026-06-11T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Krea 2 now includes Generative Sliders for shaping intensity, complexity, movement, and prompt creativity while generating images.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/hensliders.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Enhance Images with Magnific in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-enhance-images-with-magnific"/>
+    <id>https://www.krea.ai/blog/how-to-enhance-images-with-magnific</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Magnific is useful when an image needs more resolution and more believable detail, not just a sharper resize.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-enhance-images-with-magnific/agent/1780612664216-08-magnific-done.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Enhance Images with Magnific Precise in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-enhance-images-with-magnific-precise"/>
+    <id>https://www.krea.ai/blog/how-to-enhance-images-with-magnific-precise</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>A simple guide to enhancing recent Assets images with Magnific Precise in Krea, including default settings and a real 2x result.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-enhance-images-with-magnific-precise/agent/1780613906662-f05755ad-429b-4450-8e5a-fc3d18b57eef.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Enhance Images with Topaz Generative in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-enhance-images-with-topaz-generative"/>
+    <id>https://www.krea.ai/blog/how-to-enhance-images-with-topaz-generative</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>A simple guide to enhancing images with Topaz Generative in Krea, using a recent Assets image and a real 2x result.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-enhance-images-with-topaz-generative/agent/1780614248046-67f738b4-87bb-43dd-bcde-13415e9b0949.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Generate Images With Style References in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-generate-images-with-style-references-in-krea"/>
+    <id>https://www.krea.ai/blog/how-to-generate-images-with-style-references-in-krea</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Learn how to use Style transfer presets with Krea 2 Large to generate images guided by a visual style reference.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-generate-images-with-style-references-in-krea/agent/1780615689298-a1e6e221-2775-4558-93ad-d0485a0069ac.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Quickly Upscale Images in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-quick-upscale-images-in-krea"/>
+    <id>https://www.krea.ai/blog/how-to-quick-upscale-images-in-krea</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Learn how to use Quick Upscale from a Krea Image session.</summary>
+    <link rel="enclosure" href="https://optim-images.krea.ai/https---gen-krea-ai-images-00878e15-ecab-57ed-80b4-b749b205cc84-png-1024.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Remove an Image Background in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-remove-background-in-krea"/>
+    <id>https://www.krea.ai/blog/how-to-remove-background-in-krea</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Learn how to remove an image background in Krea Edit by selecting an asset, right-clicking it, and downloading a clean cutout.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-remove-background-in-krea/agent/1780614644162-11-cube-background-removed-final.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>AI in architecture studios – Krea Podcast with Nitsan Bartov</title>
+    <link href="https://www.krea.ai/blog/krea-podcast-episode-2"/>
+    <id>https://www.krea.ai/blog/krea-podcast-episode-2</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="podcast"/>
+    <summary>Krea Podcast episode two with Nitsan Bartov on AI in architecture studios, visual communication, video, and design culture.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-podcast-episode-2/agent/1780952000354-maxresdefault.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Create an API Token in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-create-api-token-in-krea"/>
+    <id>https://www.krea.ai/blog/how-to-create-api-token-in-krea</id>
+    <updated>2026-06-05T00:00:00.000Z</updated>
+    <published>2026-06-05T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Learn how to switch to Krea API mode, create an API token, name it, and store it safely after creation.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-create-api-token-in-krea/agent/1780617924953-06-token-name-ready-redacted.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Introducing Krea 2 Turbo</title>
+    <link href="https://www.krea.ai/blog/krea-2-turbo"/>
+    <id>https://www.krea.ai/blog/krea-2-turbo</id>
+    <updated>2026-06-03T00:00:00.000Z</updated>
+    <published>2026-06-03T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Generate high-quality images in just 2 seconds with a faster Krea 2 experience, compatible with style references, moodboards, and LoRAs.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/dynamic_vibrant_minimal_illustration_of_a_rabbit_riding_a_motocross_bike_mid-air_extreme_wide_angle_i3dghnrmc0189glbqpgq_2.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Create a Moodboard in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-create-a-moodboard"/>
+    <id>https://www.krea.ai/blog/how-to-create-a-moodboard</id>
+    <updated>2026-06-02T00:00:00.000Z</updated>
+    <published>2026-06-02T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Create a Krea moodboard from Favorites, analyze the style, and generate images with the finished visual direction.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-create-a-moodboard/agent/1780431833339-0c3431a3-abdf-4b51-9d77-050ebc43f497.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>&quot;Reality is so boring&quot; – Krea Podcast with Boldtron, Serialcut, and Remembering_orion</title>
+    <link href="https://www.krea.ai/blog/krea-podcast-episode-1"/>
+    <id>https://www.krea.ai/blog/krea-podcast-episode-1</id>
+    <updated>2026-06-02T00:00:00.000Z</updated>
+    <published>2026-06-02T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="podcast"/>
+    <summary>A short Krea podcast interview with Boldtron on AI, creative confidence, surreal image-making and creating the things you wish existed.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/gYL2cYou2X0-HD.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>AI Tools for Generating Lifestyle Product Shots</title>
+    <link href="https://www.krea.ai/blog/ai-tools-lifestyle-product-shots"/>
+    <id>https://www.krea.ai/blog/ai-tools-lifestyle-product-shots</id>
+    <updated>2026-05-29T00:00:00.000Z</updated>
+    <published>2026-05-29T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>If you are short on time: Krea 2 inside Krea is the best fit when you want flexible lifestyle product shots, campaign concepts, and editable product scenes in</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/ai-tools-lifestyle-product-shots/1780079378980-0-c43b7911-4a8d-4c95-8564-3c5bd32bae46.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>AI Tools for Creating Product Mockups and Packaging Renders</title>
+    <link href="https://www.krea.ai/blog/ai-tools-product-mockups-packaging-renders"/>
+    <id>https://www.krea.ai/blog/ai-tools-product-mockups-packaging-renders</id>
+    <updated>2026-05-29T00:00:00.000Z</updated>
+    <published>2026-05-29T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>If you are short on time: Krea 2 is the best fit when you want fast creative directions for product mockups, packaging concepts, and launch visuals. Use a</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/ai-tools-product-mockups-packaging-renders/1780080664910-0-d0f91406-7650-4425-b690-2b6c259ecd83.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>LoRAs for Krea 2 Are Coming to Train Tool</title>
+    <link href="https://www.krea.ai/blog/public-loras-krea-2-train"/>
+    <id>https://www.krea.ai/blog/public-loras-krea-2-train</id>
+    <updated>2026-05-29T00:00:00.000Z</updated>
+    <published>2026-05-29T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>A preview of Krea 2 LoRA training in Krea Train, where creators can train styles, characters, and objects, then keep them private or share them publicly.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-loras-available-to-everyone/1780351035099-hjwbbgjawaanilq.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>We are partnering with Henning Larsen</title>
+    <link href="https://www.krea.ai/blog/we-are-partnering-with-henning-larsen"/>
+    <id>https://www.krea.ai/blog/we-are-partnering-with-henning-larsen</id>
+    <updated>2026-05-29T00:00:00.000Z</updated>
+    <published>2026-05-29T00:00:00.000Z</published>
+    <author><name>Diego Rodriguez</name></author>
+    <category term="company"/>
+    <summary>Krea partners with Henning Larsen Architects to integrate AI-powered design tools into their architectural workflow.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/215829f9-2115-4344-924b-56f1a0607808/1780008721866-henninglarsen-x-krea-header.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>AI Tools That Generate Floor Plans and Building Concepts</title>
+    <link href="https://www.krea.ai/blog/ai-tools-generate-floor-plans-building-concepts"/>
+    <id>https://www.krea.ai/blog/ai-tools-generate-floor-plans-building-concepts</id>
+    <updated>2026-05-28T00:00:00.000Z</updated>
+    <published>2026-05-28T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>Compare AI floor plan tools for layouts, building concepts, interiors, pricing, and sketch-to-plan workflows, with examples generated in Krea.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/ai-tools-generate-floor-plans-building-concepts/1779926559757-0-774457b1-298c-4ab0-862f-20aa4a83c1ec.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Best AI for Generating Photorealistic Architectural Renders</title>
+    <link href="https://www.krea.ai/blog/best-ai-photorealistic-architectural-renders"/>
+    <id>https://www.krea.ai/blog/best-ai-photorealistic-architectural-renders</id>
+    <updated>2026-05-28T00:00:00.000Z</updated>
+    <published>2026-05-28T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>Photorealistic architectural rendering is one of the clearest places where AI can save time, but the phrase can mean a few different things. Sometimes you</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-ai-photorealistic-architectural-renders/agent/1779934122013-8c199f1b-69a1-4ac3-abd5-85a4c1e43955.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>K2 Studio: Taste-Driven AI Image Generation in Krea</title>
+    <link href="https://www.krea.ai/blog/k2-studio"/>
+    <id>https://www.krea.ai/blog/k2-studio</id>
+    <updated>2026-05-28T00:00:00.000Z</updated>
+    <published>2026-05-28T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>A preview of K2 Studio, Krea’s taste-driven image generation workspace for building reusable aesthetic direction with Krea 2.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/k2-studio/1780007801827-0-k2-onboarding-bg.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea Agent Beta: A Workspace Agent for Creative Teams</title>
+    <link href="https://www.krea.ai/blog/krea-agent-beta"/>
+    <id>https://www.krea.ai/blog/krea-agent-beta</id>
+    <updated>2026-05-28T00:00:00.000Z</updated>
+    <published>2026-05-28T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Krea Agent is entering beta: a workspace-aware AI agent designed to help creative teams move faster inside Krea.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/KreaOpenGraph2.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Moodboard Gallery in Krea 2 + Preview of Random and Auto</title>
+    <link href="https://www.krea.ai/blog/moodboard-gallery-krea-2-random-auto"/>
+    <id>https://www.krea.ai/blog/moodboard-gallery-krea-2-random-auto</id>
+    <updated>2026-05-28T00:00:00.000Z</updated>
+    <published>2026-05-28T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Moodboard Gallery now includes thousands of moodboards in Krea 2, with new Random and Auto moodboard selection modes in preview.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/moodboard-gallery-krea-2-random-auto/1779981485417-0-aiflnhrhnjj4wvfl.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 API</title>
+    <link href="https://www.krea.ai/blog/krea-2-api-launch"/>
+    <id>https://www.krea.ai/blog/krea-2-api-launch</id>
+    <updated>2026-05-27T00:00:00.000Z</updated>
+    <published>2026-05-27T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Krea 2 is our first foundation image model, trained completely from scratch to give users full control over the look, feel, and creative direction.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/Screenshot 2026-05-27 at 08.02.32.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Animate Krea 2 illustrations with Seedance 2.0</title>
+    <link href="https://www.krea.ai/blog/krea-2-seedance-animation"/>
+    <id>https://www.krea.ai/blog/krea-2-seedance-animation</id>
+    <updated>2026-05-25T00:00:00.000Z</updated>
+    <published>2026-05-25T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Turn Krea 2 stills into fluid animations with Seedance 2.0 — all inside a single Krea workflow.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/mood-boards-krea-2-v2/1778873199624-2-e0314215-b6e7-485d-b50f-9d1842bf3667.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Anime backgrounds with Krea 2</title>
+    <link href="https://www.krea.ai/blog/anime-backgrounds-with-krea-2"/>
+    <id>https://www.krea.ai/blog/anime-backgrounds-with-krea-2</id>
+    <updated>2026-05-24T00:00:00.000Z</updated>
+    <published>2026-05-24T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>Make anime-style scenic backgrounds with Krea 2 — Shinkai skies, school hallways, train platforms, isekai landscapes for indie creators.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/anime-backgrounds-with-krea-2/1779148644958-0-30c6c21e-a488-48d7-b9dd-2f5200366594.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Architectural styles with Krea 2</title>
+    <link href="https://www.krea.ai/blog/architectural-styles-with-krea-2"/>
+    <id>https://www.krea.ai/blog/architectural-styles-with-krea-2</id>
+    <updated>2026-05-23T00:00:00.000Z</updated>
+    <published>2026-05-23T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>Render any architectural style in Krea 2 — modernist, brutalist, Japandi, Mediterranean, mass timber, mid-century, postmodern.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/architectural-styles-with-krea-2/1779150033504-0-992a5414-c833-4eba-ad42-13579c607531.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Character design with Krea 2</title>
+    <link href="https://www.krea.ai/blog/character-design-with-krea-2"/>
+    <id>https://www.krea.ai/blog/character-design-with-krea-2</id>
+    <updated>2026-05-23T00:00:00.000Z</updated>
+    <published>2026-05-23T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>Character design is the foundation of every anime project. Krea 2 is built for this kind of pipeline work.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/character-design-with-krea-2/1779149286567-0-8384eed6-59c0-47ea-86a6-563fb4951304.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Interior design with Krea 2</title>
+    <link href="https://www.krea.ai/blog/interior-design-with-krea-2"/>
+    <id>https://www.krea.ai/blog/interior-design-with-krea-2</id>
+    <updated>2026-05-23T00:00:00.000Z</updated>
+    <published>2026-05-23T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>Krea 2 renders interiors with material accuracy that holds up to design-publication scrutiny.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/interior-design-with-krea-2/1779150037166-0-a3876a06-2404-434d-bb82-9114d0f089c4.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 vs NijiJourney for anime</title>
+    <link href="https://www.krea.ai/blog/krea-2-vs-nijijourney"/>
+    <id>https://www.krea.ai/blog/krea-2-vs-nijijourney</id>
+    <updated>2026-05-23T00:00:00.000Z</updated>
+    <published>2026-05-23T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>If you make anime art with AI, you are choosing between a handful of models. NijiJourney is the established name. Krea 2 is the new one. This article is an hone</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-vs-nijijourney/1779149293372-0-8209a4d2-20d0-46b7-aeab-a9e06420ceb5.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 and Nano Banana 2, side by side</title>
+    <link href="https://www.krea.ai/blog/krea-2-and-nano-banana-2-side-by-side"/>
+    <id>https://www.krea.ai/blog/krea-2-and-nano-banana-2-side-by-side</id>
+    <updated>2026-05-22T00:00:00.000Z</updated>
+    <published>2026-05-22T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>In 2026, you can finally stop asking which image model is the best one . The interesting question is which two you should keep open at the same time. Inside Kre</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-and-nano-banana-2-side-by-side/agent/1779757477498-8fcdecdf-4ba5-4e99-b36c-6e07ff62baed.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Made with Krea 2 moodboards</title>
+    <link href="https://www.krea.ai/blog/made-with-krea-2-moodboards"/>
+    <id>https://www.krea.ai/blog/made-with-krea-2-moodboards</id>
+    <updated>2026-05-22T00:00:00.000Z</updated>
+    <published>2026-05-22T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>A moodboard, in Krea 2, is a way to encode taste into the model. You drop in a curated set of and the system reads the whole set as a single creative direction.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/made-with-krea-2-moodboards/agent/1779484661235-03-horned-girl-lamb-a.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Creators react to Krea 2 LoRAs</title>
+    <link href="https://www.krea.ai/blog/creators-react-krea-2-loras"/>
+    <id>https://www.krea.ai/blog/creators-react-krea-2-loras</id>
+    <updated>2026-05-21T00:00:00.000Z</updated>
+    <published>2026-05-21T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="community"/>
+    <summary>First reactions to the Krea 2 LoRA beta — from day-one experiments to a film-work take on consistency.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/creators-react-krea-2-loras/1779390784465-0-hi3lde3waaanz-7.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 deep dive: exploration, style references, and moodboards</title>
+    <link href="https://www.krea.ai/blog/krea-2-deep-dive-walkthrough"/>
+    <id>https://www.krea.ai/blog/krea-2-deep-dive-walkthrough</id>
+    <updated>2026-05-21T00:00:00.000Z</updated>
+    <published>2026-05-21T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Krea 2 is our first foundation model, built completely from scratch and focused on aesthetics and creative control.  When you make an image with AI there are</summary>
+    <link rel="enclosure" href="https://s.krea.ai/moodboards-test.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 LoRA training is now available</title>
+    <link href="https://www.krea.ai/blog/krea-2-lora-training"/>
+    <id>https://www.krea.ai/blog/krea-2-lora-training</id>
+    <updated>2026-05-21T00:00:00.000Z</updated>
+    <published>2026-05-21T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Train custom Krea 2 LoRAs — styles, characters, or objects — and use them in the Image tool. In beta for Max and Business subscribers.</summary>
+    <link rel="enclosure" href="https://optim-images.krea.ai/https---s-krea-ai-animehorse-png-1024.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>One day instead of five</title>
+    <link href="https://www.krea.ai/blog/superside-one-day-instead-of-five"/>
+    <id>https://www.krea.ai/blog/superside-one-day-instead-of-five</id>
+    <updated>2026-05-21T00:00:00.000Z</updated>
+    <published>2026-05-21T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="customer-stories"/>
+    <summary>How Superside scales creative production with Krea — turning five-day workflows into one.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/superside/Hero.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Concept and massing studies with Krea 2</title>
+    <link href="https://www.krea.ai/blog/concept-and-massing-studies-with-krea-2"/>
+    <id>https://www.krea.ai/blog/concept-and-massing-studies-with-krea-2</id>
+    <updated>2026-05-19T00:00:00.000Z</updated>
+    <published>2026-05-19T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>Massing is the moment in a project when the only thing that matters is form. No materials. No windows. No landscape. Just volumes, in space, in relationship to</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/concept-and-massing-studies-with-krea-2/1779150141175-0-52741a26-cf45-4175-ad48-93ab9af0dc66.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>From sketch to anime panel with Krea 2</title>
+    <link href="https://www.krea.ai/blog/from-sketch-to-anime-panel-with-krea-2"/>
+    <id>https://www.krea.ai/blog/from-sketch-to-anime-panel-with-krea-2</id>
+    <updated>2026-05-19T00:00:00.000Z</updated>
+    <published>2026-05-19T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>The bottleneck in indie manga and comic work is not the idea. It is not the storyboard. It is finishing — taking a rough panel sketch and turning it into a poli</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/from-sketch-to-anime-panel-with-krea-2/1779149290040-0-2df4fa47-3d7a-4a6c-9774-8af37be7f6b5.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 sketch to render — architecture</title>
+    <link href="https://www.krea.ai/blog/krea-2-sketch-to-render-architecture"/>
+    <id>https://www.krea.ai/blog/krea-2-sketch-to-render-architecture</id>
+    <updated>2026-05-19T00:00:00.000Z</updated>
+    <published>2026-05-19T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>The fastest distance between an architect's idea and a client's &quot;yes&quot; is a render. The slowest distance is the days of CAD, material assignment, lighting, and p</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-sketch-to-render-architecture/1779150029700-0-e2d23e01-4817-4bb9-b9ba-866abbf54033.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 vs Lumion, Enscape, D5 Render</title>
+    <link href="https://www.krea.ai/blog/krea-2-vs-lumion-enscape-d5-render"/>
+    <id>https://www.krea.ai/blog/krea-2-vs-lumion-enscape-d5-render</id>
+    <updated>2026-05-19T00:00:00.000Z</updated>
+    <published>2026-05-19T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>If you produce architectural renders, you have probably evaluated Lumion, Enscape, D5 Render, or Twinmotion at some point. These are excellent tools — built spe</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-vs-lumion-enscape-d5-render/1779150245016-0-75466a54-63c7-4d80-858e-707b5b66e244.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Materials and lighting studies with Krea 2</title>
+    <link href="https://www.krea.ai/blog/materials-and-lighting-studies-with-krea-2"/>
+    <id>https://www.krea.ai/blog/materials-and-lighting-studies-with-krea-2</id>
+    <updated>2026-05-19T00:00:00.000Z</updated>
+    <published>2026-05-19T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>How to use Krea 2 for rapid material and lighting studies — stone, concrete, timber, glass — without re-rendering your entire scene.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/materials-and-lighting-studies-with-krea-2/1779150044179-0-8f134505-50ec-4994-8cd6-8794889b7a58.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Pitching architecture projects with Krea 2</title>
+    <link href="https://www.krea.ai/blog/pitching-architecture-projects-with-krea-2"/>
+    <id>https://www.krea.ai/blog/pitching-architecture-projects-with-krea-2</id>
+    <updated>2026-05-19T00:00:00.000Z</updated>
+    <published>2026-05-19T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>The thing nobody tells you about running a small architecture studio most of the work is not architecture. It is pitching — taking an idea from a one line brief</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/pitching-architecture-projects-with-krea-2/1779150275819-0-f34c1db8-9f00-4c35-9ec1-98c4dba3a62c.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Site context renders with Krea 2</title>
+    <link href="https://www.krea.ai/blog/site-context-renders-with-krea-2"/>
+    <id>https://www.krea.ai/blog/site-context-renders-with-krea-2</id>
+    <updated>2026-05-19T00:00:00.000Z</updated>
+    <published>2026-05-19T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>The hardest render in architecture is the one with neighbours. A standalone building on a clean lot is easy. The same building between two existing facades, wit</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/site-context-renders-with-krea-2/1779150040625-0-94e57e66-c757-472c-8201-086d24d03669.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Studio anime aesthetics with Krea 2</title>
+    <link href="https://www.krea.ai/blog/studio-anime-aesthetics-with-krea-2"/>
+    <id>https://www.krea.ai/blog/studio-anime-aesthetics-with-krea-2</id>
+    <updated>2026-05-19T00:00:00.000Z</updated>
+    <published>2026-05-19T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>Anime is not one look — each studio has its own palette, line weight, and emotional register. See how Krea 2 reproduces Ghibli, Trigger, MAPPA, and more.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/studio-anime-aesthetics-with-krea-2/1779149282866-0-5620cfb9-e53f-4d2d-8d5d-ad3bfd0dc331.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Exploratory prompting in Krea 2</title>
+    <link href="https://www.krea.ai/blog/explorative-prompting-krea-2"/>
+    <id>https://www.krea.ai/blog/explorative-prompting-krea-2</id>
+    <updated>2026-05-18T00:00:00.000Z</updated>
+    <published>2026-05-18T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Krea 2 rewards curiosity — start vague, see what comes back, and follow the threads you like.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/explorative-prompting-krea-2/1778873494818-0-cda411ac-421e-4d9c-b956-b32486f9e8b9.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 in the wild: community standouts</title>
+    <link href="https://www.krea.ai/blog/krea-2-community-spotlight-may-2026"/>
+    <id>https://www.krea.ai/blog/krea-2-community-spotlight-may-2026</id>
+    <updated>2026-05-18T00:00:00.000Z</updated>
+    <published>2026-05-18T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="community"/>
+    <summary>This week the Krea 2 community pushed the model in three directions — minimal prompts, mood-driven moodboards, and Krea 2 to Seedance 2.0 pipelines.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/d9ed6676-9f8a-4369-977e-e45db838d21f/1779132370747-krea-2-image-01.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>More early Krea 2 community work</title>
+    <link href="https://www.krea.ai/blog/krea-2-community-week-2"/>
+    <id>https://www.krea.ai/blog/krea-2-community-week-2</id>
+    <updated>2026-05-18T00:00:00.000Z</updated>
+    <published>2026-05-18T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="community"/>
+    <summary>Four more pieces from the Krea 2 community: cowboys via swapped srefs, a Kling 3.0 video loop, painterly portraits, and cinematic seaside frames.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-community-week-2/1778881206784-0-hiqu7gvw8aadiax.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 community week 3</title>
+    <link href="https://www.krea.ai/blog/krea-2-community-week-3"/>
+    <id>https://www.krea.ai/blog/krea-2-community-week-3</id>
+    <updated>2026-05-18T00:00:00.000Z</updated>
+    <published>2026-05-18T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="community"/>
+    <summary>Tanzim benchmarks Krea 2, Lloyd Creates explores ethereal moods, and AIdriving pushes style transfer past 80%.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-community-week-3/1778881548664-0-himkzsgwaaaed6t.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 for architecture studios</title>
+    <link href="https://www.krea.ai/blog/krea-2-for-architecture-studios"/>
+    <id>https://www.krea.ai/blog/krea-2-for-architecture-studios</id>
+    <updated>2026-05-18T00:00:00.000Z</updated>
+    <published>2026-05-18T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>How architecture studios use Krea 2 for rapid concept iteration — massing studies, material explorations, and client-ready renders in minutes.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-for-architecture-studios/1779147008084-0-8a80a099-d5da-47fe-9710-62f4911e94e5.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Style references in Krea 2</title>
+    <link href="https://www.krea.ai/blog/style-references-krea-2"/>
+    <id>https://www.krea.ai/blog/style-references-krea-2</id>
+    <updated>2026-05-16T00:00:00.000Z</updated>
+    <published>2026-05-16T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>How S-Refs work in Krea 2 — extracting style from a single image and applying it to any new prompt, with control over strength.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/style-references-krea-2/1778873496553-0-8dd450bd-a14c-4403-af84-9bb9adf882d5.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>A London noir, shot in Krea 2</title>
+    <link href="https://www.krea.ai/blog/victor-in-focus-krea-2-london-noir"/>
+    <id>https://www.krea.ai/blog/victor-in-focus-krea-2-london-noir</id>
+    <updated>2026-05-16T00:00:00.000Z</updated>
+    <published>2026-05-16T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="community"/>
+    <summary>Filmmaker VictorInFocus pasted a Seedance video prompt into Krea 2 and got back a contact sheet of cinematic stills. Here's what happened, and the moodboard.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/victor-in-focus-krea-2-london-noir-v2/1778890000934-0-hitkeiywoaawznj.jpg" type="image/webp"/>
+  </entry>
+</feed>

@@ -22,6 +22,12 @@ for s in request_*.py; do
     JOB_NAMES[$!]="$name"
 done
 
+for s in enhance_*.py; do
+    name="$(basename "$s" .py)"
+    python3 "$s" > "$LOGS_DIR/${name}.log" 2>&1 &
+    JOB_NAMES[$!]="$name"
+done
+
 SUCCEEDED=0
 FAILED=0
 FAILED_NAMES=()

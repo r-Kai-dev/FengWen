@@ -127,6 +127,42 @@ async def main():
     # process and write
 ```
 
+### `enhance_*.py` — Official feed enhancement
+
+For sites that publish an official RSS/Atom feed but with known issues (broken URLs, missing fields, bad formatting). Instead of scraping the site from scratch, this strategy fetches the official feed XML, applies targeted fixes, and writes the corrected output.
+
+**Pattern:**
+- Imports `fetch_page`, `load_feeds_config`, `write_atom_feed` from `utils`
+- Sync `main()` function (no async)
+- Fetches the official feed XML via `fetch_page(url)`
+- Applies fix logic (string replacements, XML parsing, etc.)
+- Writes the corrected XML directly or rebuilds via `write_atom_feed`
+- Reference: `enhance_krea.py`
+
+```python
+import logging
+from utils import (
+    FEEDS_DIR, setup_logging, ensure_output_dir,
+    load_feeds_config, fetch_page,
+)
+
+setup_logging()
+ensure_output_dir()
+ORG_KEY = "example"
+
+def main():
+    config = load_feeds_config(ORG_KEY)
+    for page_key, page in config["pages"].items():
+        logging.info("Enhancing %s: %s", page["label"], page["url"])
+        xml_text = fetch_page(page["url"])
+        # ← apply fixes here (e.g., xml_text.replace(...))
+        output_path = FEEDS_DIR / page["output_file"]
+        output_path.write_text(xml_text, encoding="utf-8")
+
+if __name__ == "__main__":
+    main()
+```
+
 ### `crawl_*.py` — Browser-based crawling
 
 For SPA pages that require JavaScript execution (client-rendered content).
@@ -193,7 +229,7 @@ Two phases:
 
 | Phase | Scripts | Mode |
 |-------|---------|------|
-| 1 | `scrape_*.py` + `request_*.py` | All launched in **parallel** with `&` |
+| 1 | `scrape_*.py` + `request_*.py` + `enhance_*.py` | All launched in **parallel** with `&` |
 | 2 | `crawl_runner.py` (→ `crawl_*.py`) | **Sequential** (single shared browser) |
 
 Scripts are auto-discovered via glob (`for s in scrape_*.py`) — no manual registration needed. Each script logs to `logs/{script_name}.log`.
@@ -231,15 +267,52 @@ Both derive categories alphabetically from the `category` field on each entry.
 
 ## Adding a New Feed
 
-### 1. Determine the strategy
+When asked to add a feed, always work from simplest to most complex:
 
-Check the target page in browser DevTools (Network tab):
+```
+Official feed exists & works?  ──→  Add to "official" array
+    ↓ no / has issues
+Official feed exists but broken?  ──→  enhance_*.py (fix and republish)
+    ↓ no
+Content in initial HTML?  ──→  scrape_*.py or request_*.py (lightweight HTTP)
+    ↓ no (requires JS)
+Last resort  ──→  crawl_*.py (heavyweight, shared browser)
+```
 
-| Strategy | When to use | Script prefix |
-|----------|-------------|---------------|
-| `scrape` | Content is in the initial HTML (view-source shows data) | `scrape_*.py` |
-| `request` | Data comes from JSON API / RSC payloads | `request_*.py` |
-| `crawl` | Content requires JavaScript execution (SPA, lazy-loaded) | `crawl_*.py` |
+### 0. Check for existing RSS/Atom feeds first
+
+Before building a feed pipeline, check whether the site already publishes an RSS or Atom feed. Look for:
+
+- **Feed autodiscovery** `<link>` tags in the page source (e.g., `<link rel="alternate" type="application/rss+xml" ...>` or `application/atom+xml`).
+- **Common URL patterns**: `/rss.xml`, `/feed.xml`, `/atom.xml`, `/rss`, `/feed`, `/news/rss`, `/blog/rss`, `/index.xml`.
+- **Platform conventions**: WordPress (`/feed/`), Ghost (`/rss/`), Medium (`/feed/`), Substack (`/feed`), Hugo (`/index.xml`).
+- **API-based feeds**: Check the Network tab for JSON endpoints that mirror feed data.
+
+If an official feed exists **and its content is correct** (valid URLs, complete dates, reasonable summaries), add it to the `"official"` array in `config/feeds.json` — no pipeline script is needed:
+
+```json
+{
+  "name": "Site Name",
+  "xmlUrl": "https://example.com/feed.xml",
+  "htmlUrl": "https://example.com/blog",
+  "category": "Blogs"
+}
+```
+
+If the official feed exists but has issues (broken URLs, missing fields, bad dates), proceed to the `enhance_` path below.
+
+If no official feed exists at all, skip to step 1.
+
+### 1. Determine the strategy (simplest first)
+
+Check the target page in browser DevTools (Network tab), in priority order:
+
+| Priority | Strategy | When to use | Script prefix |
+|----------|----------|-------------|---------------|
+| 1 (simplest) | `enhance` | Official RSS/Atom feed exists but has fixable issues | `enhance_*.py` |
+| 2 | `scrape` | Content is in the initial HTML (view-source shows data) | `scrape_*.py` |
+| 2 | `request` | Data comes from JSON API / RSC payloads | `request_*.py` |
+| 3 (last resort) | `crawl` | Content requires JavaScript execution (SPA, lazy-loaded) | `crawl_*.py` |
 
 ### 2. Add the config entry
 
@@ -363,11 +436,11 @@ The CI pipeline mirrors `run_all.sh` but runs in two isolated steps **without** 
 
 | Step | Installed deps | Scripts |
 |------|---------------|---------|
-| `scrape-request` | `curl_cffi`, `beautifulsoup4` | `scrape_*.py`, `request_*.py` |
+| `scrape-request` | `curl_cffi`, `beautifulsoup4` | `scrape_*.py`, `request_*.py`, `enhance_*.py` |
 | `crawl` | `curl_cffi`, `beautifulsoup4`, `DrissionPage` + Chromium | `crawl_runner.py` → `crawl_*.py` |
 
 **Critical rules:**
-- `scrape_*.py` and `request_*.py` must **never** import `DrissionPage` — it's not available in that CI step.
+- `scrape_*.py`, `request_*.py`, and `enhance_*.py` must **never** import `DrissionPage` — it's not available in that CI step.
 - `crawl_*.py` can import `DrissionPage` freely.
 - All three types can import `curl_cffi` and `beautifulsoup4`.
 - Scripts are auto-discovered via glob — no CI config changes needed for new/removed scripts.

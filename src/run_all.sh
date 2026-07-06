@@ -20,6 +20,10 @@ for s in request_*.py; do
     name="$(basename "$s" .py)"
     python3 "$s" > "../logs/${name}.log" 2>&1 &
 done
+for s in enhance_*.py; do
+    name="$(basename "$s" .py)"
+    python3 "$s" > "../logs/${name}.log" 2>&1 &
+done
 wait
 
 echo ""
