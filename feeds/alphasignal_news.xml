@@ -4,10 +4,120 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-03T17:03:47+00:00</updated>
+  <updated>2026-07-06T19:21:24+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Prime Intellect's prime-rl Ships Six RL Algorithms With Per-Environment Control</title>
+    <link href="https://www.primeintellect.ai/blog/algorithms-layer"/>
+    <id>91eae981cceb2a022e8e24e1604dbd48</id>
+    <published>2026-07-06T19:21:24+00:00</published>
+    <updated>2026-07-06T19:21:24+00:00</updated>
+    <summary type="text">prime-rl's new algorithms layer ships six built-in RL methods and lets you mix training signals per environment in a single run</summary>
+    <category term="post_training"/>
+    <category term="training_infra"/>
+  </entry>
+  <entry>
+    <title>Zapier's AutomationBench-AA Shows Best AI Agents Fail 51% of Real Business Tasks</title>
+    <link href="https://artificialanalysis.ai/evaluations/automationbench-aa"/>
+    <id>d4076918c0f2f71f18c21bd1a41431a4</id>
+    <published>2026-07-06T18:12:23+00:00</published>
+    <updated>2026-07-06T18:12:23+00:00</updated>
+    <summary type="text">Artificial Analysis and Zapier launch AutomationBench-AA, revealing that even the best AI agents complete fewer than half of real business workflow tasks without breaking rules</summary>
+    <category term="agents"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Google's Gemini Now Manages Your Small Business Profile and Reviews</title>
+    <link href="https://gemini.google.com/"/>
+    <id>6398f24f11499b2ad9d1a15cb3bd53d0</id>
+    <published>2026-07-06T17:42:22+00:00</published>
+    <updated>2026-07-06T17:42:22+00:00</updated>
+    <summary type="text">Google connects Gemini directly to Google Business Profile, giving small business owners an AI assistant that remembers their brand, analyzes their performance data, and can update their listing in real time.</summary>
+    <category term="llms"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>Anthropic's J-Lens Reads Claude's Silent Thoughts Before It Speaks</title>
+    <link href="https://www-cdn.anthropic.com/files/4zrzovbb/website/cc4be2488d65e54a6ed06492f8968398ddc18ebe.pdf"/>
+    <id>d67a4f93130e1001aeba16498958ac16</id>
+    <published>2026-07-06T17:34:58+00:00</published>
+    <updated>2026-07-06T17:34:58+00:00</updated>
+    <summary type="text">Anthropic discovers a hidden mental workspace inside Claude that reveals silent reasoning, exposes deceptive intent, and can be shaped to improve model honesty</summary>
+    <category term="llms"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>Meta and Google DeepMind Prove LLMs Memorize Exactly 3.6 Bits per Parameter</title>
+    <link href="https://openreview.net/pdf?id=bA6BgSbaUi&amp;linkId=100000429549678"/>
+    <id>9be7f3a24c4c9d1eec668911e183f4a5</id>
+    <published>2026-07-06T16:05:16+00:00</published>
+    <updated>2026-07-06T16:05:16+00:00</updated>
+    <summary type="text">Researchers from Meta, Google DeepMind, Cornell, and NVIDIA put a hard number on LLM memorization: ~3.6 bits per parameter, with a new framework that cleanly separates memorization from generalization.</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Apptronik Builds a 90,000-Square-Foot Data Factory to Train Apollo 2 Humanoids</title>
+    <link href="https://apptronik.com/news-collection/welcome-to-robot-park-where-apptroniks-apollo-goes-to-work?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
+    <id>684deb29103422d59e0c719eb7696c5b</id>
+    <published>2026-07-06T15:43:26+00:00</published>
+    <updated>2026-07-06T15:43:26+00:00</updated>
+    <summary type="text">Apptronik's 90,000 sq ft Robot Park and Apollo 2 form a live data pipeline feeding Google DeepMind's Gemini Robotics foundation model, with Apollo 3 in the crosshairs.</summary>
+    <category term="robotics"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>Tencent's Hy3 Beats Flagship AI Models Without a Trillion Parameters</title>
+    <link href="https://openrouter.ai/tencent/hy3:free"/>
+    <id>d0b0efe576ff8a7c2e43881d230470aa</id>
+    <published>2026-07-06T15:06:57+00:00</published>
+    <updated>2026-07-06T15:06:57+00:00</updated>
+    <summary type="text">Tencent's Hy3 is a 295B MoE open-weight model that rivals trillion-parameter flagships at a fraction of the compute cost, now free on OpenRouter for two weeks.</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Sarvam AI Drops an MCP Server Letting Coding Agents Speak 10 Indian Languages</title>
+    <link href="https://dashboard.sarvam.ai/mcp"/>
+    <id>c81c08a6e3225d23922619534885d5ba</id>
+    <published>2026-07-06T13:00:19+00:00</published>
+    <updated>2026-07-06T13:00:19+00:00</updated>
+    <summary type="text">Sarvam's new MCP server lets coding agents discover and use its Indian-language AI models with a single config line</summary>
+    <category term="agents"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Runway Bets $30M on Paris to Win the World Models Race</title>
+    <link href="https://runwayml.com/news/announcing-our-paris-office"/>
+    <id>e39d459a964861d7909d9e8af98ef79e</id>
+    <published>2026-07-06T11:58:58+00:00</published>
+    <updated>2026-07-06T11:58:58+00:00</updated>
+    <summary type="text">Runway opens a Paris research hub with a $30M initial investment, doubling down on world models and physical AI in Europe's hottest AI city.</summary>
+    <category term="video"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>Sakana AI's Namazu Tackles What Google Translate Gets Wrong About Japanese Tone</title>
+    <link href="$1d"/>
+    <id>376dcda20a0f08ca081440804be57403</id>
+    <published>2026-07-06T00:38:06+00:00</published>
+    <updated>2026-07-06T00:38:06+00:00</updated>
+    <summary type="text">Sakana AI launches a free Japanese translation tool powered by Namazu, its Japan-adapted model, with translate, proofread, and Q&amp;A modes</summary>
+    <category term="llms"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot CLI Lets Teams Build Custom AI Agents From Markdown Files</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=dev-pod-copilot-cli-2026"/>
+    <id>8289aa7fb4d73f0efa498f631be84642</id>
+    <published>2026-07-04T19:40:00+00:00</published>
+    <updated>2026-07-04T19:40:00+00:00</updated>
+    <summary type="text">GitHub Copilot CLI now supports custom agents defined in Markdown, turning one-off terminal prompts into repeatable, team-shareable workflows for security, releases, and more.</summary>
+    <category term="development"/>
+    <category term="agents"/>
+  </entry>
   <entry>
     <title>GitHub Drops Moonshot AI's Open-Weight Kimi K2.7 Into Copilot's Model Picker</title>
     <link href="https://x.com/github/status/2073090339020116476"/>
@@ -17,115 +127,5 @@
     <summary type="text">Moonshot AI's Kimi K2.7 Code is the first open-weight model in GitHub Copilot's picker, bringing a 1T-parameter MoE coding model to millions of VS Code users at lower cost.</summary>
     <category term="development"/>
     <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Remotion Now Lets Developers Write GPU Shaders as React Video Transitions</title>
-    <link href="https://www.remotion.dev/docs/transitioning"/>
-    <id>bc6c77cc6acb81f2d4a103321c98465d</id>
-    <published>2026-07-03T16:20:52+00:00</published>
-    <updated>2026-07-03T16:20:52+00:00</updated>
-    <summary type="text">Remotion's @remotion/transitions now supports GPU-powered WebGL shader transitions between HTML scenes, with ported gl-transitions presets included out of the box</summary>
-    <category term="vibe_coding"/>
-    <category term="video"/>
-  </entry>
-  <entry>
-    <title>Kilo Puts Z.ai's GLM-5.2 Against Real Bugs and Finds a Surprising Weakness</title>
-    <link href="https://blog.kilo.ai/p/glm-52s-code-reviews-are-only-as-424"/>
-    <id>d1c342203059ea3095cbf64eb686605c</id>
-    <published>2026-07-03T13:50:02+00:00</published>
-    <updated>2026-07-03T13:50:02+00:00</updated>
-    <summary type="text">Kilo ran a controlled code-review benchmark on GLM-5.2 and found prompt wording matters more than reasoning effort â with a clear local-vs-cross-file split</summary>
-    <category term="development"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Sakana AI's Sheaf-ADMM Solves Multi-Agent Sudoku at 92.6% Where Rivals Hit 34%</title>
-    <link href="https://github.com/SakanaAI/sheaf-admm"/>
-    <id>792af0677322b41c56d335e10cbb1f3d</id>
-    <published>2026-07-03T13:38:26+00:00</published>
-    <updated>2026-07-03T13:38:26+00:00</updated>
-    <summary type="text">Sakana AI's Sheaf-ADMM fuses distributed optimization theory and algebraic topology to build transparent, coordination-native neural networks accepted at ICML 2026</summary>
-    <category term="agents"/>
-    <category term="reasoning"/>
-  </entry>
-  <entry>
-    <title>Jesse Vincent's Superpowers 6 Cuts AI Coding Costs 60% After Overnight Fable Experiments</title>
-    <link href="https://blog.fsck.com/2026/06/15/Superpowers-6/"/>
-    <id>c3bcd82ca76c8d90a9321cec1ad079bd</id>
-    <published>2026-07-03T10:58:34+00:00</published>
-    <updated>2026-07-03T10:58:34+00:00</updated>
-    <summary type="text">Superpowers 6 adds Kimi Code support and slashes build costs by 60% using Anthropic's Fable to optimize its own workflow overnight</summary>
-    <category term="development"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Ant Group Pushes Qwen3-Omni to 5.4x Faster With 0.6s Audio Response</title>
-    <link href="https://vllm.ai/blog/2026-07-01-qwen3-omni-optimization"/>
-    <id>8f275607b9ac1e4ff82a8764d52dbacb</id>
-    <published>2026-07-03T07:15:09+00:00</published>
-    <updated>2026-07-03T07:15:09+00:00</updated>
-    <summary type="text">vLLM-Omni's staged pipeline engineering cuts Qwen3-Omni's first audio latency from 6s to 0.6s and boosts throughput 5.4x on the same GPUs</summary>
-    <category term="infra"/>
-    <category term="audio"/>
-  </entry>
-  <entry>
-    <title>Sakana AI Unifies Two Rival AI Optimization Camps to Slash LLM Merging Costs</title>
-    <link href="https://arxiv.org/abs/2606.25761"/>
-    <id>3c46d22aed546699e148b51112427373</id>
-    <published>2026-07-03T06:27:22+00:00</published>
-    <updated>2026-07-03T06:27:22+00:00</updated>
-    <summary type="text">Sakana AI unifies two competing families of gradient-free optimizers into one framework, then uses the insight to merge LLMs cheaper and better.</summary>
-    <category term="llms"/>
-    <category term="training_infra"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Wan Video Turns Any Photo Into a Music-Synced Dance Clip</title>
-    <link href="https://create.wan.video/generate/avatar/music-to-dance"/>
-    <id>f394ab133dca22b26fc622814f9cfd99</id>
-    <published>2026-07-03T06:07:44+00:00</published>
-    <updated>2026-07-03T06:07:44+00:00</updated>
-    <summary type="text">Alibaba's Wan Video adds music-driven dance generation: upload a character image, pick a style, and get a beat-synced video in seconds</summary>
-    <category term="video"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>UN and ITU Pull Jensen Huang, Andy Jassy Into One AI Governance Body</title>
-    <link href="https://sakana.ai/ai-for-good-commission/"/>
-    <id>346a1d6bdf40b1779f5b537f22cb0c06</id>
-    <published>2026-07-03T01:34:16+00:00</published>
-    <updated>2026-07-03T01:34:16+00:00</updated>
-    <summary type="text">Sakana AI's Ren Ito joins 40+ global tech and government leaders on the newly formed UN-ITU AI for Good Global Commission</summary>
-    <category term="government"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Anthropic Gives Claude API Builders 5x More Room to Scale</title>
-    <link href="https://platform.claude.com/docs/en/api/rate-limits"/>
-    <id>e80085fd1884993847d49b188af047e3</id>
-    <published>2026-07-02T23:02:48+00:00</published>
-    <updated>2026-07-02T23:02:48+00:00</updated>
-    <summary type="text">Anthropic raises Claude API rate limits across all tiers and drops spend-based tier progression, giving Sonnet and Haiku users up to 5x more throughput</summary>
-    <category term="api"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Mythos Triggers a 3.5x Record CVE Spike</title>
-    <link href="https://epoch.ai/data-insights/cve-severity-spike"/>
-    <id>1ed66e9dc04fd3c0507da4faef9985cf</id>
-    <published>2026-07-02T20:17:52+00:00</published>
-    <updated>2026-07-02T20:17:52+00:00</updated>
-    <summary type="text">AI-powered vulnerability hunting by Anthropic and OpenAI triggered a 3.5x spike in high-severity CVE disclosures, reshaping the entire cybersecurity landscape</summary>
-    <category term="security"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Runway Ships Agent Skills to Run Full Ad Campaigns With One Command</title>
-    <link href="https://app.runwayml.com/agent"/>
-    <id>5f8a75a7c61edc89417e1e2c86acddff</id>
-    <published>2026-07-02T20:02:11+00:00</published>
-    <updated>2026-07-02T20:02:11+00:00</updated>
-    <summary type="text">Runway adds slash-command Skills to its AI Agent, letting marketers build full ad campaigns, commercials, and localized assets in a single command</summary>
-    <category term="agents"/>
-    <category term="business"/>
   </entry>
 </feed>

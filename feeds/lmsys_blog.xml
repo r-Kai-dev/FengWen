@@ -4,10 +4,22 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-07-02T00:00:00+00:00</updated>
+  <updated>2026-07-06T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>DSpark in SGLang: Speculative Decoding with Confidence-Driven, Variable-Length Verification</title>
+    <link href="https://lmsys.org/blog/2026-07-06-dspark-sglang"/>
+    <id>196aab498da11713e7ef3d82200cccd2</id>
+    <published>2026-07-06T00:00:00+00:00</published>
+    <updated>2026-07-06T00:00:00+00:00</updated>
+    <summary type="text">Speculative decoding trades extra compute for fewer decode steps, and the trade
+sours as load grows: at batch size B with K speculative tokens the target
+verifies B  K tokens every step, and past a po...</summary>
+    <category term="sglang"/>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Agent-Assisted SGLang Development: An Initial Exploration</title>
     <link href="https://lmsys.org/blog/2026-07-02-agent-assisted-sglang-development"/>
