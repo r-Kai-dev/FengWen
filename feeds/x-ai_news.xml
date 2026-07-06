@@ -4,24 +4,17 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-07-06T00:00:00+00:00</updated>
+  <updated>2026-07-01T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
-  <entry>
-    <title>21 New Flagship Grok Voices</title>
-    <link href="https://x.ai/news/new-flagship-voices"/>
-    <id>c32d138fc6f49ed1524d74cab479fcea</id>
-    <published>2026-07-06T00:00:00+00:00</published>
-    <updated>2026-07-06T00:00:00+00:00</updated>
-    <summary type="text">New multilingual voices for Grok Voice, plus improved naturalness for the original five.</summary>
-  </entry>
   <entry>
     <title>Introducing the Voice Agent Builder</title>
     <link href="https://x.ai/news/grok-voice-agent-builder"/>
     <id>10c023b00d2375fba9731a31d521a069</id>
     <published>2026-07-01T00:00:00+00:00</published>
     <updated>2026-07-01T00:00:00+00:00</updated>
+    <summary type="text">Create a personalized voice agent in under 2 minutes without a single line of code.</summary>
   </entry>
   <entry>
     <title>Explore the markets with Interactive Brokers and Grok</title>
@@ -43,7 +36,6 @@
     <id>89ca4a265cb32cd4647e1d46e6c14144</id>
     <published>2026-06-18T00:00:00+00:00</published>
     <updated>2026-06-18T00:00:00+00:00</updated>
-    <summary type="text">Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.</summary>
   </entry>
   <entry>
     <title>Grok on Databricks</title>
@@ -221,12 +213,12 @@
     <summary type="text">SpaceXAI has signed an agreement with Anthropic to provide access to Colossus 1.</summary>
   </entry>
   <entry>
-    <title>Custom Voices</title>
+    <title>Custom Voices and Voice Library</title>
     <link href="https://x.ai/news/grok-custom-voices"/>
-    <id>8e4bb0077bac488480b2c4c07797bd3b</id>
+    <id>1d4341d109a9aada46bfd9a4efe96682</id>
     <published>2026-04-30T00:00:00+00:00</published>
     <updated>2026-04-30T00:00:00+00:00</updated>
-    <summary type="text">Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Voice Agent APIs.</summary>
+    <summary type="text">Your voice. Your brand. Clone a voice from a short recording and manage your entire voice catalog from the xAI console.</summary>
   </entry>
   <entry>
     <title>Grok Voice Think Fast 1.0</title>

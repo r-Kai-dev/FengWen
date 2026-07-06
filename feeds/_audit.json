@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T22:54:47.179154+00:00",
+  "generated_at": "2026-07-06T23:06:30.468130+00:00",
   "feeds": {
     "anthropic_news.xml": {
       "output_file": "anthropic_news.xml",
@@ -53,10 +53,10 @@
     },
     "x-ai_news.xml": {
       "output_file": "x-ai_news.xml",
-      "entry_count": 58,
-      "newest_date": "2026-07-06",
+      "entry_count": 57,
+      "newest_date": "2026-07-01",
       "oldest_date": "2023-11-03",
-      "age_days": 0,
+      "age_days": 5,
       "issues": [],
       "status": "healthy",
       "name": "xAI",
@@ -846,9 +846,9 @@
     "qwen_research.xml": {
       "output_file": "qwen_research.xml",
       "entry_count": 5,
-      "newest_date": "2026-06-22",
-      "oldest_date": "2026-06-15",
-      "age_days": 14,
+      "newest_date": "2026-06-23",
+      "oldest_date": "2026-06-16",
+      "age_days": 13,
       "issues": [],
       "status": "healthy",
       "name": "Qwen (Alibaba)",

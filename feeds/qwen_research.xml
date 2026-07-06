@@ -4,7 +4,7 @@
   <icon>https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico</icon>
   <link href="https://qwen.ai/research"/>
   <id>https://qwen.ai/research</id>
-  <updated>2026-06-22T00:00:00+00:00</updated>
+  <updated>2026-06-23T00:00:00+00:00</updated>
   <author>
     <name>Qwen (Alibaba)</name>
   </author>
@@ -12,8 +12,8 @@
     <title>Qwen-AgentWorld: Language World Models for General Agents</title>
     <link href="https://qwen.ai/blog?id=qwen-agentworld"/>
     <id>338924772472812ce526a9fcb61b8347</id>
-    <published>2026-06-22T00:00:00+00:00</published>
-    <updated>2026-06-22T00:00:00+00:00</updated>
+    <published>2026-06-23T00:00:00+00:00</published>
+    <updated>2026-06-23T00:00:00+00:00</updated>
     <summary type="text">Today we release Qwen-AgentWorld, a native language world model that simulates agent environments across seven domains: Native world modeling: environment modeling is the training objective from continual pre-training onward (CPT → SFT → RL), not a post hoc adaptation on top of a general-purpose LLM. Seven domains, one model: a single model simulates text-based (MCP, Search, Terminal, SWE)...</summary>
     <category term="Open-Source"/>
   </entry>
@@ -21,8 +21,8 @@
     <title>Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence</title>
     <link href="https://qwen.ai/blog?id=qwen-robotsuite"/>
     <id>a7ad18e9319b9fea9d3dd0457b328e67</id>
-    <published>2026-06-15T00:00:00+00:00</published>
-    <updated>2026-06-15T00:00:00+00:00</updated>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
     <summary type="text">The Qwen family of foundation models already gives strong perception and reasoning about the physical world. But seeing is not acting: the gap between vision and language understanding and physical control remains the central bottleneck for embodied intelligence. The Qwen-Robot Suite bridges this gap with three foundation models — Qwen-RobotNav, Qwen-RobotManip, and Qwen-RobotWorld. Nav unifies...</summary>
     <category term="Release"/>
   </entry>
@@ -30,8 +30,8 @@
     <title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
     <link href="https://qwen.ai/blog?id=qwen-robotmanip"/>
     <id>b70cc8b20d69d715b808dc87d99ac499</id>
-    <published>2026-06-15T00:00:00+00:00</published>
-    <updated>2026-06-15T00:00:00+00:00</updated>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
     <summary type="text">Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing  tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating...</summary>
     <category term="Release"/>
   </entry>
@@ -39,8 +39,8 @@
     <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
     <link href="https://qwen.ai/blog?id=qwen-robotnav"/>
     <id>86da19abd19f5862f69006826f51a800</id>
-    <published>2026-06-15T00:00:00+00:00</published>
-    <updated>2026-06-15T00:00:00+00:00</updated>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
     <summary type="text">Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a...</summary>
     <category term="Release"/>
   </entry>
@@ -48,8 +48,8 @@
     <title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
     <link href="https://qwen.ai/blog?id=qwen-robotworld"/>
     <id>049eafb833bd389d3c27e86b244941c0</id>
-    <published>2026-06-15T00:00:00+00:00</published>
-    <updated>2026-06-15T00:00:00+00:00</updated>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
     <summary type="text">Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize...</summary>
     <category term="Release"/>
   </entry>
