@@ -759,7 +759,7 @@
     {
       "org_key": "ltx",
       "name": "LTX Studio",
-      "strategy": "crawl",
+      "strategy": "scrape",
       "base_url": "https://ltx.io",
       "favicon": "https://ltx.io/favicon.ico",
       "category": "Labs",
@@ -813,7 +813,7 @@
     {
       "org_key": "higgsfield",
       "name": "Higgsfield",
-      "strategy": "crawl",
+      "strategy": "scrape",
       "base_url": "https://higgsfield.ai",
       "favicon": "https://higgsfield.ai/favicon.ico",
       "category": "Platforms",

@@ -1,4 +1,4 @@
-"""Crawl Higgsfield blog (SPA with scroll + JSON-LD extraction)."""
+"""Scrape Higgsfield blog via JSON-LD in SSR HTML."""
 
 import hashlib
 import json
@@ -7,24 +7,25 @@ import re
 from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
-from DrissionPage import ChromiumPage
 
 from utils import (
     FEEDS_DIR, setup_logging, ensure_output_dir,
-    load_feeds_config, compact, write_atom_feed,
+    load_feeds_config, fetch_page, compact, write_atom_feed,
 )
 
 setup_logging()
 ensure_output_dir()
 ORG_KEY = "higgsfield"
-BASE_URL = "https://higgsfield.ai"
 
 
 def parse_date(date_str):
     if not date_str:
         return ""
-    date_str = re.sub(r'(\d)(st|nd|rd|th)', r'\1', date_str)
-    for fmt in ("%Y-%m-%dT%H:%M:%S.%f%z", "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%d", "%B %d, %Y", "%b %d, %Y", "%b. %d, %Y"):
+    date_str = re.sub(r"(\d)(st|nd|rd|th)", r"\1", date_str)
+    for fmt in (
+        "%Y-%m-%dT%H:%M:%S.%f%z", "%Y-%m-%dT%H:%M:%S%z",
+        "%Y-%m-%d", "%B %d, %Y", "%b %d, %Y", "%b. %d, %Y",
+    ):
         try:
             dt = datetime.strptime(date_str, fmt)
             if dt.tzinfo is None:
@@ -72,34 +73,21 @@ def extract_posts(soup):
     return posts
 
 
-def run(page: ChromiumPage):
+def main():
     config = load_feeds_config(ORG_KEY)
-    p = config["pages"]["blog"]
-    logging.info("Navigating to %s", p["url"])
-    page.get(p["url"])
-    page.wait.doc_loaded()
-    page.wait(3)
-    for _ in range(5):
-        page.run_js("window.scrollTo(0, document.body.scrollHeight)")
-        page.wait(2)
-    page.run_js("window.scrollTo(0, 0)")
-    page.wait(1)
-    soup = BeautifulSoup(page.html, "html.parser")
+    page = config["pages"]["blog"]
+    logging.info("Fetching %s: %s", page["label"], page["url"])
+    html = fetch_page(page["url"])
+    soup = BeautifulSoup(html, "html.parser")
     entries = extract_posts(soup)
     if not entries:
         logging.warning("No entries found")
         return
     entries.sort(key=lambda x: x.get("published_date", ""), reverse=True)
-    write_atom_feed(FEEDS_DIR / p["output_file"], entries,
-                    feed_title=p["label"], feed_link=p["url"],
+    write_atom_feed(FEEDS_DIR / page["output_file"], entries,
+                    feed_title=page["label"], feed_link=page["url"],
                     feed_icon=config.get("favicon"))
 
+
 if __name__ == "__main__":
-    from DrissionPage import ChromiumOptions
-    co = ChromiumOptions()
-    co.set_browser_path("/usr/bin/chromium")
-    co.headless(on_off=True); co.new_env(on_off=True)
-    co.set_argument("--no-sandbox"); co.set_argument("--disable-gpu")
-    pg = ChromiumPage(addr_or_opts=co)
-    try: run(pg)
-    finally: pg.quit()
+    main()
