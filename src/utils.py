@@ -19,7 +19,8 @@ from typing import Any
 from xml.dom import minidom
 import xml.etree.ElementTree as ET
 
-from curl_cffi.requests import AsyncSession, Session as SyncSession
+# curl_cffi is imported lazily inside fetch_page / fetch_with_retry
+# so that crawl scripts (which don't use HTTP) can import utils without it.
 
 # ── Paths ──────────────────────────────────────────────────────────
 SRC_DIR = Path(__file__).resolve().parent
@@ -88,6 +89,7 @@ def fetch_page(
     headers: dict[str, str] | None = None,
 ) -> str:
     """GET *url* synchronously with browser impersonation, return text."""
+    from curl_cffi.requests import Session as SyncSession  # lazy import
     with SyncSession() as s:
         resp = s.get(url, impersonate=impersonate, timeout=timeout, headers=headers)
         resp.raise_for_status()
@@ -99,7 +101,7 @@ def fetch_page(
 # ═══════════════════════════════════════════════════════════════════
 
 async def fetch_with_retry(
-    session: AsyncSession,
+    session,  # AsyncSession from curl_cffi.requests
     url: str,
     *,
     max_retries: int = 3,
