@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Resemble AI Resources</title>
-  <icon>https://www.resemble.ai/favicon.ico</icon>
+  <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-07-03T00:00:00+00:00</updated>
+  <updated>2026-07-06T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Chatterbox Nano and Flash: Speed at the edge, throughput at scale</title>
+    <link href="https://www.resemble.ai/resources/chatterbox-nano-and-flash-speed-at-the-edge-throughput-at-scale"/>
+    <id>ecdf3898c8f276a88f176050de0cf876</id>
+    <published>2026-07-06T00:00:00+00:00</published>
+    <updated>2026-07-06T00:00:00+00:00</updated>
+    <summary type="text">Meet the fraternal twins of TTS. Chatterbox Nano is 110M parameters built for the edge. Chatterbox Flash is diffusion-LLM architecture built for scale. Both open source, both watermarked by default from Resemble AI.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>The Deepfake Watchlist: Week of June 26 – July 2, 2026</title>
     <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-june-26---july-2-2026"/>
@@ -105,15 +114,6 @@
     <published>2026-06-04T00:00:00+00:00</published>
     <updated>2026-06-04T00:00:00+00:00</updated>
     <summary type="text">This post explains how the TrueFoundry AI Gateway exposes TTS providers and how Resemble's native API surface is preserved through the pass-through layer and how failover across multiple TTS providers works through Virtual Models.</summary>
-    <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>Resemble AI vs. Steg.ai: Comparing AI Watermarking Solutions (2026)</title>
-    <link href="https://www.resemble.ai/resources/resemble-ai-vs-steg-ai-comparing-ai-watermarking-solutions-2026"/>
-    <id>fb260c97dd63534682a6027022cac0c7</id>
-    <published>2026-06-03T00:00:00+00:00</published>
-    <updated>2026-06-03T00:00:00+00:00</updated>
-    <summary type="text">Compare Resemble AI vs Steg.ai to find the best watermarking solution for multimodal content. Explore features, pricing, and use cases for secure content.</summary>
     <category term="Blog"/>
   </entry>
 </feed>

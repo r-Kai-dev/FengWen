@@ -4,10 +4,19 @@
   <icon>https://runwayml.com/icon.png</icon>
   <link href="https://runwayml.com/news"/>
   <id>https://runwayml.com/news</id>
-  <updated>2026-07-02T00:00:00</updated>
+  <updated>2026-07-06T12:00:00+00:00</updated>
   <author>
     <name>Runway</name>
   </author>
+  <entry>
+    <title>Announcing our Paris Office</title>
+    <link href="https://runwayml.com/news/announcing-our-paris-office"/>
+    <id>08767f91d968d504a07e7eefa1284f60</id>
+    <published>2026-07-06T12:00:00+00:00</published>
+    <updated>2026-07-06T12:00:00+00:00</updated>
+    <summary type="text">We're establishing a research hub in France to advance our work on world models and physical AI.</summary>
+    <category term="Company News"/>
+  </entry>
   <entry>
     <title>Borrowing the Night: Reclaiming Idle Inference GPUs for Research</title>
     <link href="https://runwayml.com/news/borrowing-the-night-reclaiming-idle-inference-gpus-for-research"/>
