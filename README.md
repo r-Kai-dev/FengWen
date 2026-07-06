@@ -120,8 +120,7 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 | [ByteDance Seed Blog](https://seed.bytedance.com/en/blog) | [bytedance_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/bytedance_blog.xml) | Created |
 | [ByteDance Seed Research](https://seed.bytedance.com/en/public_papers) | [bytedance_public_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/bytedance_public_papers.xml) | Created |
 | [DeepSeek News](https://api-docs.deepseek.com/) | [deepseek_index.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/deepseek_index.xml) | Created |
-| [Tencent Hunyuan Research](https://hunyuan.tencent.com/research) | [tencent_hunyuan_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/tencent_hunyuan_research.xml) | Created |
-| [Tencent Hunyuan News](https://aistudio.tencent.com/news/blog) | [tencent_aistudio_news-blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/tencent_aistudio_news-blog.xml) | Created |
+| [Tencent Hunyuan](https://hunyuan.tencent.com/research) | [tencent_hunyuan_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/tencent_hunyuan_research.xml) | Created |
 | [Qwen Research](https://qwen.ai/research) | [qwen_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/qwen_research.xml) | Created |
 | [LTX Blog](https://ltx.io/blog) | [ltx_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ltx_blog.xml) | Created |
 | [LTX Newsroom](https://ltx.io/newsroom) | [ltx_newsroom.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ltx_newsroom.xml) | Created |

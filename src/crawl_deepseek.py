@@ -34,13 +34,18 @@ def _fetch_deepseek_news(page: ChromiumPage):
     page.get(BASE_URL)
     page.wait.doc_loaded()
     page.wait(2)
-    news_link = page.ele("tx:News", timeout=5)
-    if news_link:
-        collapsible = news_link.parent("tag:div")
-        if collapsible:
-            logging.info("Clicking News sidebar dropdown…")
-            collapsible.click()
-            page.wait(0.5)
+    # Click the News sidebar dropdown via JS to avoid DrissionPage
+    # tx-matching ambiguity with the mobile "Languages" toggle.
+    clicked = page.run_js('''
+        const links = document.querySelectorAll('a.menu__link--sublist-caret');
+        for (const l of links) {
+            if (l.textContent.trim() === 'News') { l.click(); return true; }
+        }
+        return false;
+    ''')
+    if clicked:
+        logging.info("Clicked News sidebar dropdown")
+        page.wait(1)
     return page.html
 
 

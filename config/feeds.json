@@ -661,8 +661,8 @@
       ]
     },
     {
-      "org_key": "hunyuan_research",
-      "name": "Tencent Hunyuan Research",
+      "org_key": "hunyuan",
+      "name": "Tencent Hunyuan",
       "strategy": "crawl",
       "base_url": "https://hunyuan.tencent.com",
       "favicon": "https://hunyuan-blog-web-prod-1258344703.cos.ap-guangzhou.myqcloud.com/favicon.png",
@@ -670,25 +670,9 @@
       "pages": [
         {
           "key": "research",
-          "label": "Tencent Hunyuan Research",
+          "label": "Tencent Hunyuan",
           "url": "https://hunyuan.tencent.com/research",
           "output_file": "tencent_hunyuan_research.xml"
-        }
-      ]
-    },
-    {
-      "org_key": "hunyuan_news",
-      "name": "Tencent Hunyuan News",
-      "strategy": "crawl",
-      "base_url": "https://aistudio.tencent.com",
-      "favicon": "https://cdn-portal.hunyuan.tencent.com/public/static/logo/favicon.png",
-      "category": "Labs",
-      "pages": [
-        {
-          "key": "news",
-          "label": "Tencent Hunyuan News",
-          "url": "https://aistudio.tencent.com/news/blog",
-          "output_file": "tencent_aistudio_news-blog.xml"
         }
       ]
     },

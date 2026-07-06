@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:fw="https://codeberg.org/r-Kai/FengWen">
   <head>
     <title>Feng Wen (风闻) — AI/Tech News Feeds</title>
-    <dateCreated>2026-07-06T19:47:59Z</dateCreated>
+    <dateCreated>2026-07-06T20:53:25Z</dateCreated>
     <ownerName>Feng Wen</ownerName>
   </head>
   <body>
@@ -94,8 +94,7 @@
       <outline text="ByteDance Seed Blog" title="ByteDance Seed Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/bytedance_blog.xml" htmlUrl="https://seed.bytedance.com/en/blog" fw:type="created"/>
       <outline text="ByteDance Seed Research" title="ByteDance Seed Research" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/bytedance_public_papers.xml" htmlUrl="https://seed.bytedance.com/en/public_papers" fw:type="created"/>
       <outline text="DeepSeek News" title="DeepSeek News" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/deepseek_index.xml" htmlUrl="https://api-docs.deepseek.com/" fw:type="created"/>
-      <outline text="Tencent Hunyuan Research" title="Tencent Hunyuan Research" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/tencent_hunyuan_research.xml" htmlUrl="https://hunyuan.tencent.com/research" fw:type="created"/>
-      <outline text="Tencent Hunyuan News" title="Tencent Hunyuan News" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/tencent_aistudio_news-blog.xml" htmlUrl="https://aistudio.tencent.com/news/blog" fw:type="created"/>
+      <outline text="Tencent Hunyuan" title="Tencent Hunyuan" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/tencent_hunyuan_research.xml" htmlUrl="https://hunyuan.tencent.com/research" fw:type="created"/>
       <outline text="Qwen Research" title="Qwen Research" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/qwen_research.xml" htmlUrl="https://qwen.ai/research" fw:type="created"/>
       <outline text="LTX Blog" title="LTX Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ltx_blog.xml" htmlUrl="https://ltx.io/blog" fw:type="created"/>
       <outline text="LTX Newsroom" title="LTX Newsroom" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ltx_newsroom.xml" htmlUrl="https://ltx.io/newsroom" fw:type="created"/>
