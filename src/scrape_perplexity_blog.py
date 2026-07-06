@@ -4,6 +4,7 @@ import asyncio
 import hashlib
 import json
 import logging
+import random
 import re
 from datetime import datetime, timezone
 
@@ -13,6 +14,20 @@ from utils import (
     FEEDS_DIR, setup_logging, ensure_output_dir,
     load_feeds_config, fetch_with_retry, compact, write_atom_feed,
 )
+
+HEADERS = {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Cache-Control": "no-cache",
+    "Sec-Ch-Ua": '"Chromium";v="146", "Google Chrome";v="146", "Not?A_Brand";v="99"',
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": '"Linux"',
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
+}
 
 setup_logging()
 ensure_output_dir()
@@ -88,7 +103,9 @@ async def main():
     logging.info("Fetching %s: %s", page["label"], PAGE_URL)
 
     async with AsyncSession() as session:
-        resp = await fetch_with_retry(session, PAGE_URL, impersonate="chrome120", timeout=30)
+        resp = await fetch_with_retry(session, PAGE_URL,
+                                      impersonate="chrome146", timeout=30,
+                                      headers=HEADERS, base_delay=random.uniform(1.5, 3.0))
 
     entries = extract(resp.text)
     if not entries:
