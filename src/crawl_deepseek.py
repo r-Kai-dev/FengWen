@@ -32,8 +32,8 @@ def _fetch_deepseek_news(page):
     logging.info("Navigating to %s", BASE_URL)
     page.goto(BASE_URL)
     page.wait_for_timeout(2000)
-    # Click the News sidebar dropdown via JS to avoid DrissionPage
-    # tx-matching ambiguity with the mobile "Languages" toggle.
+    # Click the News sidebar dropdown via JS to avoid Playwright selector
+    # ambiguity between desktop "News" and mobile "Languages" toggle.
     clicked = page.evaluate('''() => {
         const links = document.querySelectorAll('a.menu__link--sublist-caret');
         for (const l of links) {

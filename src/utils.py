@@ -3,7 +3,7 @@
 Consolidates what was previously spread across:
   - feed_util.py   (Atom XML writing)
   - common.py      (logging, output dirs, API config loading, async fetch)
-  - config_util.py (site config loading from html.json / js.json)
+  - config_util.py (site config loading — now unified in config/feeds.json)
 
 All scripts in src/ import this as a sibling module:
     from utils import load_feeds_config, write_atom_feed, fetch_page, ...

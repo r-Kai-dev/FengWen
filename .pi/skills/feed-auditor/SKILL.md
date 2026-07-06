@@ -85,22 +85,25 @@ print(resp.text[:2000])
 
 Check: did the API change format?  New fields?  Pagination changes?  401/auth errors?
 
-#### `crawl` feeds (browser-based with DrissionPage)
+#### `crawl` feeds (browser-based with Playwright)
 
 These are the hardest to debug — they require a real browser:
 
 ```bash
 cd /workspace/src && python3 -c "
-from DrissionPage import ChromiumPage
-page = ChromiumPage()
-page.get('PAGE_URL_HERE')
-page.wait(3)
-print(len(page.html), 'bytes')
-# Check if expected elements exist
-import re
-matches = re.findall(r'EXPECTED_PATTERN', page.html)
-print(f'Found {len(matches)} matches')
-page.quit()
+from playwright.sync_api import sync_playwright
+with sync_playwright() as p:
+    browser = p.chromium.launch()
+    page = browser.new_page()
+    page.goto('PAGE_URL_HERE')
+    page.wait_for_timeout(3000)
+    html = page.content()
+    print(len(html), 'bytes')
+    # Check if expected elements exist
+    import re
+    matches = re.findall(r'EXPECTED_PATTERN', html)
+    print(f'Found {len(matches)} matches')
+    browser.close()
 "
 ```
 
@@ -163,5 +166,5 @@ detailed catalog.
 ## Prerequisites
 
 - Python 3.12+ with `curl_cffi`, `beautifulsoup4` installed
-- For crawl feeds: `DrissionPage` and Chromium at `/usr/bin/chromium`
+- For crawl feeds: `playwright` with bundled Chromium (install via `playwright install chromium`)
 - Run from `/workspace` with `PYTHONPATH` set to `src/`

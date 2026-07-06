@@ -116,7 +116,7 @@ count suddenly dropped to near-zero when it was previously healthy.
 2. Try different `impersonate` values (chrome120, chrome110, edge101)
 3. Check if the site now uses Cloudflare Turnstile or similar
 
-**Fix:** Escalate to `crawl` strategy (DrissionPage uses real Chromium).
+**Fix:** Escalate to `crawl` strategy (Playwright uses real Chromium).
 
 ## Partial Extraction (Low Signal)
 
