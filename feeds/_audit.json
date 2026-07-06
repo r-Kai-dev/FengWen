@@ -1,0 +1,1982 @@
+{
+  "generated_at": "2026-07-06T20:54:16.560094+00:00",
+  "feeds": {
+    "anthropic_news.xml": {
+      "output_file": "anthropic_news.xml",
+      "entry_count": 11,
+      "newest_date": "2026-07-02",
+      "oldest_date": "2026-06-10",
+      "age_days": 4,
+      "issues": [],
+      "status": "healthy",
+      "name": "Anthropic",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "news",
+      "page_label": "Anthropic News",
+      "page_url": "https://www.anthropic.com/news",
+      "org_key": "anthropic"
+    },
+    "anthropic_research.xml": {
+      "output_file": "anthropic_research.xml",
+      "entry_count": 13,
+      "newest_date": "2026-06-26",
+      "oldest_date": "2026-03-18",
+      "age_days": 10,
+      "issues": [],
+      "status": "healthy",
+      "name": "Anthropic",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "research",
+      "page_label": "Anthropic Research",
+      "page_url": "https://www.anthropic.com/research",
+      "org_key": "anthropic"
+    },
+    "anthropic_engineering.xml": {
+      "output_file": "anthropic_engineering.xml",
+      "entry_count": 25,
+      "newest_date": "2026-05-25",
+      "oldest_date": "2024-09-19",
+      "age_days": 42,
+      "issues": [
+        "stale_42d"
+      ],
+      "status": "warning",
+      "name": "Anthropic",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "engineering",
+      "page_label": "Anthropic Engineering Blog",
+      "page_url": "https://www.anthropic.com/engineering",
+      "org_key": "anthropic"
+    },
+    "x-ai_news.xml": {
+      "output_file": "x-ai_news.xml",
+      "entry_count": 57,
+      "newest_date": "2026-07-01",
+      "oldest_date": "2023-11-03",
+      "age_days": 5,
+      "issues": [],
+      "status": "healthy",
+      "name": "xAI",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "news",
+      "page_label": "xAI News",
+      "page_url": "https://x.ai/news",
+      "org_key": "xai"
+    },
+    "github_trending-since-daily.xml": {
+      "output_file": "github_trending-since-daily.xml",
+      "entry_count": 18,
+      "newest_date": "2026-07-04",
+      "oldest_date": "2026-07-04",
+      "age_days": 1,
+      "issues": [],
+      "status": "healthy",
+      "name": "GitHub",
+      "strategy": "scrape",
+      "category": "Platforms",
+      "page_key": "trending_daily",
+      "page_label": "GitHub Trending (daily)",
+      "page_url": "https://github.com/trending?since=daily",
+      "org_key": "github"
+    },
+    "github_trending-since-weekly.xml": {
+      "output_file": "github_trending-since-weekly.xml",
+      "entry_count": 22,
+      "newest_date": "2026-07-04",
+      "oldest_date": "2026-07-04",
+      "age_days": 1,
+      "issues": [],
+      "status": "healthy",
+      "name": "GitHub",
+      "strategy": "scrape",
+      "category": "Platforms",
+      "page_key": "trending_weekly",
+      "page_label": "GitHub Trending (weekly)",
+      "page_url": "https://github.com/trending?since=weekly",
+      "org_key": "github"
+    },
+    "github_trending-since-monthly.xml": {
+      "output_file": "github_trending-since-monthly.xml",
+      "entry_count": 20,
+      "newest_date": "2026-07-04",
+      "oldest_date": "2026-07-04",
+      "age_days": 1,
+      "issues": [],
+      "status": "healthy",
+      "name": "GitHub",
+      "strategy": "scrape",
+      "category": "Platforms",
+      "page_key": "trending_monthly",
+      "page_label": "GitHub Trending (monthly)",
+      "page_url": "https://github.com/trending?since=monthly",
+      "org_key": "github"
+    },
+    "github_trends.xml": {
+      "output_file": "github_trends.xml",
+      "entry_count": 48,
+      "newest_date": "2026-07-04",
+      "oldest_date": "2026-07-04",
+      "age_days": 1,
+      "issues": [],
+      "status": "healthy",
+      "name": "GitHub",
+      "strategy": "scrape",
+      "category": "Platforms",
+      "page_key": "trending_combined",
+      "page_label": "GitHub Trending (combined)",
+      "page_url": "https://github.com/trending",
+      "org_key": "github"
+    },
+    "meta_blog.xml": {
+      "output_file": "meta_blog.xml",
+      "entry_count": 5,
+      "newest_date": "2026-06-29",
+      "oldest_date": "2026-03-27",
+      "age_days": 7,
+      "issues": [],
+      "status": "healthy",
+      "name": "Meta AI",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Meta AI Blog",
+      "page_url": "https://ai.meta.com/blog",
+      "org_key": "meta"
+    },
+    "aibase_zh-daily.xml": {
+      "output_file": "aibase_zh-daily.xml",
+      "entry_count": 20,
+      "newest_date": "2026-07-03",
+      "oldest_date": "2026-06-05",
+      "age_days": 2,
+      "issues": [],
+      "status": "healthy",
+      "name": "AIbase",
+      "strategy": "scrape",
+      "category": "Daily",
+      "page_key": "daily",
+      "page_label": "AIbase Daily (中文)",
+      "page_url": "https://news.aibase.com/zh/daily",
+      "org_key": "aibase"
+    },
+    "deeplearning_ai_the-batch.xml": {
+      "output_file": "deeplearning_ai_the-batch.xml",
+      "entry_count": 19,
+      "newest_date": "2026-07-03",
+      "oldest_date": "2025-01-22",
+      "age_days": 3,
+      "issues": [],
+      "status": "healthy",
+      "name": "DeepLearning.AI",
+      "strategy": "scrape",
+      "category": "Weekly",
+      "page_key": "the_batch",
+      "page_label": "The Batch (DeepLearning.AI)",
+      "page_url": "https://www.deeplearning.ai/the-batch",
+      "org_key": "deeplearning_ai"
+    },
+    "artificial_analysis_articles.xml": {
+      "output_file": "artificial_analysis_articles.xml",
+      "entry_count": 12,
+      "newest_date": "2026-06-30",
+      "oldest_date": "2026-06-08",
+      "age_days": 6,
+      "issues": [],
+      "status": "healthy",
+      "name": "Artificial Analysis",
+      "strategy": "scrape",
+      "category": "Eval",
+      "page_key": "articles",
+      "page_label": "Artificial Analysis Articles",
+      "page_url": "https://artificialanalysis.ai/articles",
+      "org_key": "artificial_analysis"
+    },
+    "kimi_blog.xml": {
+      "output_file": "kimi_blog.xml",
+      "entry_count": 8,
+      "newest_date": "2026-04-20",
+      "oldest_date": "2025-07-11",
+      "age_days": 77,
+      "issues": [
+        "stale_77d"
+      ],
+      "status": "warning",
+      "name": "Kimi (Moonshot AI)",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Kimi Blog",
+      "page_url": "https://www.kimi.com/blog",
+      "org_key": "kimi"
+    },
+    "moonshot_blog.xml": {
+      "output_file": "moonshot_blog.xml",
+      "entry_count": 9,
+      "newest_date": "2026-02-25",
+      "oldest_date": "2025-07-11",
+      "age_days": 131,
+      "issues": [
+        "stale_131d"
+      ],
+      "status": "warning",
+      "name": "Moonshot AI",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Moonshot AI Blog",
+      "page_url": "https://platform.moonshot.ai/blog",
+      "org_key": "moonshot"
+    },
+    "minimax_docs-release-notes-models.xml": {
+      "output_file": "minimax_docs-release-notes-models.xml",
+      "entry_count": 20,
+      "newest_date": "2026-06-01",
+      "oldest_date": "2025-01-15",
+      "age_days": 35,
+      "issues": [
+        "stale_35d"
+      ],
+      "status": "warning",
+      "name": "MiniMax",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "release_notes",
+      "page_label": "MiniMax Release Notes",
+      "page_url": "https://platform.minimax.io/docs/release-notes/models",
+      "org_key": "minimax"
+    },
+    "z-ai_release-notes-new-released.xml": {
+      "output_file": "z-ai_release-notes-new-released.xml",
+      "entry_count": 17,
+      "newest_date": "2026-06-16",
+      "oldest_date": "2025-07-15",
+      "age_days": 20,
+      "issues": [],
+      "status": "healthy",
+      "name": "Z.AI",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "release_notes",
+      "page_label": "Z.AI Release Notes",
+      "page_url": "https://docs.z.ai/release-notes/new-released",
+      "org_key": "zai"
+    },
+    "bfl_blog.xml": {
+      "output_file": "bfl_blog.xml",
+      "entry_count": 23,
+      "newest_date": "2026-06-17",
+      "oldest_date": "2024-08-01",
+      "age_days": 19,
+      "issues": [],
+      "status": "healthy",
+      "name": "Black Forest Labs",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Black Forest Labs Blog",
+      "page_url": "https://bfl.ai/blog",
+      "org_key": "bfl"
+    },
+    "bfl_research.xml": {
+      "output_file": "bfl_research.xml",
+      "entry_count": 3,
+      "newest_date": "2026-03-03",
+      "oldest_date": "2025-05-29",
+      "age_days": 125,
+      "issues": [
+        "stale_125d"
+      ],
+      "status": "warning",
+      "name": "Black Forest Labs",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "research",
+      "page_label": "Black Forest Labs Research",
+      "page_url": "https://bfl.ai/research",
+      "org_key": "bfl"
+    },
+    "luma_news.xml": {
+      "output_file": "luma_news.xml",
+      "entry_count": 32,
+      "newest_date": "2026-06-16",
+      "oldest_date": "2025-03-11",
+      "age_days": 20,
+      "issues": [],
+      "status": "healthy",
+      "name": "Luma AI",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "news",
+      "page_label": "Luma AI News",
+      "page_url": "https://lumalabs.ai/news",
+      "org_key": "luma"
+    },
+    "thinkingmachines_news.xml": {
+      "output_file": "thinkingmachines_news.xml",
+      "entry_count": 8,
+      "newest_date": "2026-06-30",
+      "oldest_date": "2025-10-01",
+      "age_days": 6,
+      "issues": [],
+      "status": "healthy",
+      "name": "Thinking Machines Lab",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "news",
+      "page_label": "Thinking Machines Lab News",
+      "page_url": "https://thinkingmachines.ai/news",
+      "org_key": "thinkingmachines"
+    },
+    "udio_blog.xml": {
+      "output_file": "udio_blog.xml",
+      "entry_count": 6,
+      "newest_date": "2025-11-19",
+      "oldest_date": "2025-02-07",
+      "age_days": 229,
+      "issues": [
+        "stale_229d"
+      ],
+      "status": "warning",
+      "name": "Udio",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Udio Blog",
+      "page_url": "https://www.udio.com/blog",
+      "org_key": "udio"
+    },
+    "ami_updates.xml": {
+      "output_file": "ami_updates.xml",
+      "entry_count": 1,
+      "newest_date": "2026-03-10",
+      "oldest_date": "2026-03-10",
+      "age_days": 118,
+      "issues": [
+        "stale_118d"
+      ],
+      "status": "warning",
+      "name": "AMI Lab",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "updates",
+      "page_label": "AMI Lab Updates",
+      "page_url": "https://amilabs.xyz/updates",
+      "org_key": "ami"
+    },
+    "resemble_resources.xml": {
+      "output_file": "resemble_resources.xml",
+      "entry_count": 12,
+      "newest_date": "2026-07-03",
+      "oldest_date": "2026-06-03",
+      "age_days": 3,
+      "issues": [],
+      "status": "healthy",
+      "name": "Resemble AI",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "resources",
+      "page_label": "Resemble AI Resources",
+      "page_url": "https://www.resemble.ai/resources",
+      "org_key": "resemble"
+    },
+    "worldlabs_blog.xml": {
+      "output_file": "worldlabs_blog.xml",
+      "entry_count": 9,
+      "newest_date": "2026-06-03",
+      "oldest_date": "2024-12-02",
+      "age_days": 33,
+      "issues": [
+        "stale_33d"
+      ],
+      "status": "warning",
+      "name": "World Labs",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "World Labs Blog",
+      "page_url": "https://www.worldlabs.ai/blog",
+      "org_key": "worldlabs"
+    },
+    "allenai_news.xml": {
+      "output_file": "allenai_news.xml",
+      "entry_count": 9,
+      "newest_date": "2026-07-01",
+      "oldest_date": "2026-04-01",
+      "age_days": 5,
+      "issues": [],
+      "status": "healthy",
+      "name": "Ai2",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "news",
+      "page_label": "Ai2 News",
+      "page_url": "https://allenai.org/news",
+      "org_key": "allenai"
+    },
+    "allenai_research.xml": {
+      "output_file": "allenai_research.xml",
+      "entry_count": 9,
+      "newest_date": "2026-06-29",
+      "oldest_date": "2026-04-30",
+      "age_days": 7,
+      "issues": [],
+      "status": "healthy",
+      "name": "Ai2",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "research",
+      "page_label": "Ai2 Research",
+      "page_url": "https://allenai.org/research",
+      "org_key": "allenai"
+    },
+    "alphasignal_news.xml": {
+      "output_file": "alphasignal_news.xml",
+      "entry_count": 12,
+      "newest_date": "2026-07-03",
+      "oldest_date": "2026-07-02",
+      "age_days": 3,
+      "issues": [],
+      "status": "healthy",
+      "name": "AlphaSignal",
+      "strategy": "scrape",
+      "category": "Hourly",
+      "page_key": "news",
+      "page_label": "AlphaSignal News",
+      "page_url": "https://alphasignal.ai/",
+      "org_key": "alphasignal"
+    },
+    "boson_blog.xml": {
+      "output_file": "boson_blog.xml",
+      "entry_count": 6,
+      "newest_date": "2026-06-29",
+      "oldest_date": "2026-03-18",
+      "age_days": 7,
+      "issues": [],
+      "status": "healthy",
+      "name": "Boson AI",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Boson AI Blog",
+      "page_url": "https://www.boson.ai/blog",
+      "org_key": "boson"
+    },
+    "elevenlabs_research.xml": {
+      "output_file": "elevenlabs_research.xml",
+      "entry_count": 17,
+      "newest_date": "2026-05-28",
+      "oldest_date": "2022-09-06",
+      "age_days": 39,
+      "issues": [
+        "stale_39d"
+      ],
+      "status": "warning",
+      "name": "ElevenLabs",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "research",
+      "page_label": "ElevenLabs Research",
+      "page_url": "https://elevenlabs.io/blog/category/research",
+      "org_key": "elevenlabs"
+    },
+    "hume_blog.xml": {
+      "output_file": "hume_blog.xml",
+      "entry_count": 117,
+      "newest_date": "2026-05-27",
+      "oldest_date": "2021-09-26",
+      "age_days": 40,
+      "issues": [
+        "stale_40d"
+      ],
+      "status": "warning",
+      "name": "Hume AI",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Hume AI Blog",
+      "page_url": "https://www.hume.ai/blog",
+      "org_key": "hume"
+    },
+    "kyutai_blog.xml": {
+      "output_file": "kyutai_blog.xml",
+      "entry_count": 24,
+      "newest_date": "2026-07-01",
+      "oldest_date": "2023-11-17",
+      "age_days": 5,
+      "issues": [],
+      "status": "healthy",
+      "name": "Kyutai",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Kyutai Blog",
+      "page_url": "https://kyutai.org/blog",
+      "org_key": "kyutai"
+    },
+    "kyutai_papers.xml": {
+      "output_file": "kyutai_papers.xml",
+      "entry_count": 17,
+      "newest_date": "2026-06-18",
+      "oldest_date": "2024-09-17",
+      "age_days": 18,
+      "issues": [],
+      "status": "healthy",
+      "name": "Kyutai",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "papers",
+      "page_label": "Kyutai Papers",
+      "page_url": "https://kyutai.org/papers",
+      "org_key": "kyutai"
+    },
+    "lmsys_blog.xml": {
+      "output_file": "lmsys_blog.xml",
+      "entry_count": 94,
+      "newest_date": "2026-07-02",
+      "oldest_date": "2023-03-30",
+      "age_days": 4,
+      "issues": [],
+      "status": "healthy",
+      "name": "LMSYS",
+      "strategy": "scrape",
+      "category": "Tools",
+      "page_key": "blog",
+      "page_label": "LMSYS Blog",
+      "page_url": "https://lmsys.org/blog",
+      "org_key": "lmsys"
+    },
+    "perplexity_blog.xml": {
+      "output_file": "perplexity_blog.xml",
+      "entry_count": 122,
+      "newest_date": "2026-06-24",
+      "oldest_date": "2023-03-28",
+      "age_days": 12,
+      "issues": [],
+      "status": "healthy",
+      "name": "Perplexity",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Perplexity Hub Blog",
+      "page_url": "https://www.perplexity.ai/hub/blog",
+      "org_key": "perplexity_blog"
+    },
+    "perplexity_research.xml": {
+      "output_file": "perplexity_research.xml",
+      "entry_count": 5,
+      "newest_date": "2026-06-08",
+      "oldest_date": "2026-05-12",
+      "age_days": 28,
+      "issues": [],
+      "status": "healthy",
+      "name": "Perplexity Research",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "research",
+      "page_label": "Perplexity Research",
+      "page_url": "https://research.perplexity.ai/",
+      "org_key": "perplexity_research"
+    },
+    "runway_news.xml": {
+      "output_file": "runway_news.xml",
+      "entry_count": 56,
+      "newest_date": "2026-07-02",
+      "oldest_date": "2018-05-28",
+      "age_days": 4,
+      "issues": [],
+      "status": "healthy",
+      "name": "Runway",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "news",
+      "page_label": "Runway News",
+      "page_url": "https://runwayml.com/news",
+      "org_key": "runway"
+    },
+    "runway_research.xml": {
+      "output_file": "runway_research.xml",
+      "entry_count": 11,
+      "newest_date": "2025-09-24",
+      "oldest_date": "2021-12-17",
+      "age_days": 285,
+      "issues": [
+        "stale_285d"
+      ],
+      "status": "warning",
+      "name": "Runway",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "research",
+      "page_label": "Runway Research",
+      "page_url": "https://runwayml.com/research/publications",
+      "org_key": "runway"
+    },
+    "sesame_blog.xml": {
+      "output_file": "sesame_blog.xml",
+      "entry_count": 3,
+      "newest_date": "2026-05-27",
+      "oldest_date": "2025-02-27",
+      "age_days": 40,
+      "issues": [
+        "stale_40d"
+      ],
+      "status": "warning",
+      "name": "Sesame AI",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Sesame AI Blog",
+      "page_url": "https://www.sesame.com/blog",
+      "org_key": "sesame"
+    },
+    "suno_blog.xml": {
+      "output_file": "suno_blog.xml",
+      "entry_count": 35,
+      "newest_date": "2026-07-01",
+      "oldest_date": "2024-02-08",
+      "age_days": 5,
+      "issues": [],
+      "status": "healthy",
+      "name": "Suno",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Suno Blog",
+      "page_url": "https://suno.com/blog",
+      "org_key": "suno"
+    },
+    "hackernews_best.xml": {
+      "output_file": "hackernews_best.xml",
+      "entry_count": 50,
+      "newest_date": "2026-07-04",
+      "oldest_date": "2026-07-02",
+      "age_days": 2,
+      "issues": [],
+      "status": "healthy",
+      "name": "Hacker News",
+      "strategy": "request",
+      "category": "Hourly",
+      "page_key": "best",
+      "page_label": "Hacker News Best",
+      "page_url": "https://hacker-news.firebaseio.com/v0/beststories.json",
+      "org_key": "hackernews"
+    },
+    "huggingface_trending_models.xml": {
+      "output_file": "huggingface_trending_models.xml",
+      "entry_count": 20,
+      "newest_date": "2026-07-04",
+      "oldest_date": "2026-07-04",
+      "age_days": 1,
+      "issues": [],
+      "status": "healthy",
+      "name": "Hugging Face",
+      "strategy": "request",
+      "category": "Academics",
+      "page_key": "trending_models",
+      "page_label": "Models Huggingface Trending",
+      "page_url": "https://huggingface.co/api/trending?type=model&limit=20",
+      "org_key": "huggingface"
+    },
+    "huggingface_trending_datasets.xml": {
+      "output_file": "huggingface_trending_datasets.xml",
+      "entry_count": 20,
+      "newest_date": "2026-07-04",
+      "oldest_date": "2026-07-04",
+      "age_days": 1,
+      "issues": [],
+      "status": "healthy",
+      "name": "Hugging Face",
+      "strategy": "request",
+      "category": "Academics",
+      "page_key": "trending_datasets",
+      "page_label": "Datasets Huggingface Trending",
+      "page_url": "https://huggingface.co/api/trending?type=dataset&limit=20",
+      "org_key": "huggingface"
+    },
+    "huggingface_daily_papers.xml": {
+      "output_file": "huggingface_daily_papers.xml",
+      "entry_count": 12,
+      "newest_date": "2026-06-28",
+      "oldest_date": "2026-05-25",
+      "age_days": 8,
+      "issues": [],
+      "status": "healthy",
+      "name": "Hugging Face",
+      "strategy": "request",
+      "category": "Academics",
+      "page_key": "daily_papers",
+      "page_label": "Daily Papers Huggingface",
+      "page_url": "https://huggingface.co/api/daily_papers",
+      "org_key": "huggingface"
+    },
+    "groq_blog.xml": {
+      "output_file": "groq_blog.xml",
+      "entry_count": 98,
+      "newest_date": "2026-06-22",
+      "oldest_date": "2025-05-14",
+      "age_days": 14,
+      "issues": [],
+      "status": "healthy",
+      "name": "Groq",
+      "strategy": "request",
+      "category": "Platforms",
+      "page_key": "blog",
+      "page_label": "Groq Blog",
+      "page_url": "https://groq.com/blog",
+      "org_key": "groq"
+    },
+    "groq_newsroom.xml": {
+      "output_file": "groq_newsroom.xml",
+      "entry_count": 21,
+      "newest_date": "2026-06-22",
+      "oldest_date": "2025-05-15",
+      "age_days": 14,
+      "issues": [],
+      "status": "healthy",
+      "name": "Groq",
+      "strategy": "request",
+      "category": "Platforms",
+      "page_key": "newsroom",
+      "page_label": "Groq Newsroom",
+      "page_url": "https://groq.com/newsroom",
+      "org_key": "groq"
+    },
+    "ainewsradar_bole-picks.xml": {
+      "output_file": "ainewsradar_bole-picks.xml",
+      "entry_count": 20,
+      "newest_date": "2026-07-04",
+      "oldest_date": "2026-07-03",
+      "age_days": 2,
+      "issues": [],
+      "status": "healthy",
+      "name": "AI News Radar",
+      "strategy": "request",
+      "category": "Hourly",
+      "page_key": "bole_picks",
+      "page_label": "AI News Radar (Bo Le Picks)",
+      "page_url": "https://learnprompt.github.io/ai-news-radar/data/daily-brief.json",
+      "org_key": "ainewsradar"
+    },
+    "bytedance_blog.xml": {
+      "output_file": "bytedance_blog.xml",
+      "entry_count": 8,
+      "newest_date": "2026-06-23",
+      "oldest_date": "2026-02-12",
+      "age_days": 13,
+      "issues": [],
+      "status": "healthy",
+      "name": "ByteDance Seed",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "ByteDance Seed Blog",
+      "page_url": "https://seed.bytedance.com/en/blog",
+      "org_key": "bytedance"
+    },
+    "bytedance_public_papers.xml": {
+      "output_file": "bytedance_public_papers.xml",
+      "entry_count": 20,
+      "newest_date": "2026-06-03",
+      "oldest_date": "2026-04-25",
+      "age_days": 33,
+      "issues": [
+        "stale_33d"
+      ],
+      "status": "warning",
+      "name": "ByteDance Seed",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "public_papers",
+      "page_label": "ByteDance Seed Research",
+      "page_url": "https://seed.bytedance.com/en/public_papers",
+      "org_key": "bytedance"
+    },
+    "deepseek_index.xml": {
+      "output_file": "deepseek_index.xml",
+      "entry_count": 15,
+      "newest_date": "2026-04-24",
+      "oldest_date": "2024-07-25",
+      "age_days": 73,
+      "issues": [
+        "stale_73d"
+      ],
+      "status": "warning",
+      "name": "DeepSeek",
+      "strategy": "crawl",
+      "category": "Labs",
+      "page_key": "news",
+      "page_label": "DeepSeek News",
+      "page_url": "https://api-docs.deepseek.com/",
+      "org_key": "deepseek"
+    },
+    "tencent_hunyuan_research.xml": {
+      "output_file": "tencent_hunyuan_research.xml",
+      "entry_count": 4,
+      "newest_date": "2026-07-06",
+      "oldest_date": "2026-04-22",
+      "age_days": 0,
+      "issues": [],
+      "status": "healthy",
+      "name": "Tencent Hunyuan",
+      "strategy": "crawl",
+      "category": "Labs",
+      "page_key": "research",
+      "page_label": "Tencent Hunyuan",
+      "page_url": "https://hunyuan.tencent.com/research",
+      "org_key": "hunyuan"
+    },
+    "qwen_research.xml": {
+      "output_file": "qwen_research.xml",
+      "entry_count": 5,
+      "newest_date": "2026-06-22",
+      "oldest_date": "2026-06-15",
+      "age_days": 14,
+      "issues": [],
+      "status": "healthy",
+      "name": "Qwen (Alibaba)",
+      "strategy": "crawl",
+      "category": "Labs",
+      "page_key": "research",
+      "page_label": "Qwen Research",
+      "page_url": "https://qwen.ai/research",
+      "org_key": "qwen"
+    },
+    "unsloth_blog.xml": {
+      "output_file": "unsloth_blog.xml",
+      "entry_count": 44,
+      "newest_date": "2026-06-11",
+      "oldest_date": "2023-12-14",
+      "age_days": 25,
+      "issues": [],
+      "status": "healthy",
+      "name": "Unsloth",
+      "strategy": "crawl",
+      "category": "Tools",
+      "page_key": "blog",
+      "page_label": "Unsloth Blog",
+      "page_url": "https://unsloth.ai/blog",
+      "org_key": "unsloth"
+    },
+    "alphaxiv_hot_papers.xml": {
+      "output_file": "alphaxiv_hot_papers.xml",
+      "entry_count": 5,
+      "newest_date": "2026-06-25",
+      "oldest_date": "2026-06-22",
+      "age_days": 11,
+      "issues": [],
+      "status": "healthy",
+      "name": "alphaXiv",
+      "strategy": "crawl",
+      "category": "Academics",
+      "page_key": "hot_papers",
+      "page_label": "alphaXiv Hot Papers (Top 5)",
+      "page_url": "https://www.alphaxiv.org/?sort=Hot&interval=90+Days",
+      "org_key": "alphaxiv"
+    },
+    "epoch_latest.xml": {
+      "output_file": "epoch_latest.xml",
+      "entry_count": 10,
+      "newest_date": "2026-07-02",
+      "oldest_date": "2026-06-09",
+      "age_days": 4,
+      "issues": [],
+      "status": "healthy",
+      "name": "Epoch AI",
+      "strategy": "crawl",
+      "category": "Blogs",
+      "page_key": "latest",
+      "page_label": "Epoch AI Latest",
+      "page_url": "https://epoch.ai/latest",
+      "org_key": "epoch"
+    },
+    "ltx_blog.xml": {
+      "output_file": "ltx_blog.xml",
+      "entry_count": 48,
+      "newest_date": "2026-07-05",
+      "oldest_date": "2026-05-13",
+      "age_days": 1,
+      "issues": [],
+      "status": "healthy",
+      "name": "LTX Studio",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "LTX Blog",
+      "page_url": "https://ltx.io/blog",
+      "org_key": "ltx"
+    },
+    "ltx_newsroom.xml": {
+      "output_file": "ltx_newsroom.xml",
+      "entry_count": 8,
+      "newest_date": "2026-06-17",
+      "oldest_date": "2025-05-06",
+      "age_days": 19,
+      "issues": [],
+      "status": "healthy",
+      "name": "LTX Studio",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "newsroom",
+      "page_label": "LTX Newsroom",
+      "page_url": "https://ltx.io/newsroom",
+      "org_key": "ltx"
+    },
+    "agentslastexam_blogs.xml": {
+      "output_file": "agentslastexam_blogs.xml",
+      "entry_count": 4,
+      "newest_date": "2026-06-14",
+      "oldest_date": "2026-03-04",
+      "age_days": 22,
+      "issues": [],
+      "status": "healthy",
+      "name": "Agents' Last Exam",
+      "strategy": "scrape",
+      "category": "Eval",
+      "page_key": "blogs",
+      "page_label": "Agents' Last Exam Blog",
+      "page_url": "https://agents-last-exam.org/blogs",
+      "org_key": "agentslastexam"
+    },
+    "vals_news.xml": {
+      "output_file": "vals_news.xml",
+      "entry_count": 13,
+      "newest_date": "2026-07-04",
+      "oldest_date": "2026-05-05",
+      "age_days": 1,
+      "issues": [],
+      "status": "healthy",
+      "name": "Vals AI",
+      "strategy": "scrape",
+      "category": "Eval",
+      "page_key": "news",
+      "page_label": "Vals AI News",
+      "page_url": "https://www.vals.ai/news",
+      "org_key": "vals"
+    },
+    "higgsfield_blog.xml": {
+      "output_file": "higgsfield_blog.xml",
+      "entry_count": 23,
+      "newest_date": "2026-07-04",
+      "oldest_date": "2025-10-16",
+      "age_days": 2,
+      "issues": [],
+      "status": "healthy",
+      "name": "Higgsfield",
+      "strategy": "scrape",
+      "category": "Platforms",
+      "page_key": "blog",
+      "page_label": "Higgsfield Blog",
+      "page_url": "https://higgsfield.ai/blog",
+      "org_key": "higgsfield"
+    },
+    "cursor_blog.xml": {
+      "output_file": "cursor_blog.xml",
+      "entry_count": 97,
+      "newest_date": "2026-06-29",
+      "oldest_date": "2023-06-11",
+      "age_days": 7,
+      "issues": [],
+      "status": "healthy",
+      "name": "Cursor",
+      "strategy": "request",
+      "category": "Tools",
+      "page_key": "blog",
+      "page_label": "Cursor Blog",
+      "page_url": "https://cursor.com/blog",
+      "org_key": "cursor"
+    },
+    "figma_blog.xml": {
+      "output_file": "figma_blog.xml",
+      "entry_count": 27,
+      "newest_date": "2026-07-03",
+      "oldest_date": "2026-02-12",
+      "age_days": 3,
+      "issues": [],
+      "status": "healthy",
+      "name": "Figma",
+      "strategy": "request",
+      "category": "Tools",
+      "page_key": "blog",
+      "page_label": "Figma Blog",
+      "page_url": "https://www.figma.com/blog/",
+      "org_key": "figma"
+    },
+    "lovable_blog.xml": {
+      "output_file": "lovable_blog.xml",
+      "entry_count": 136,
+      "newest_date": "2026-07-03",
+      "oldest_date": "2024-01-09",
+      "age_days": 3,
+      "issues": [],
+      "status": "healthy",
+      "name": "Lovable",
+      "strategy": "scrape",
+      "category": "Tools",
+      "page_key": "blog",
+      "page_label": "Lovable Blog",
+      "page_url": "https://lovable.dev/blog",
+      "org_key": "lovable"
+    },
+    "microsoft_ai_blog.xml": {
+      "output_file": "microsoft_ai_blog.xml",
+      "entry_count": 23,
+      "newest_date": "2026-06-02",
+      "oldest_date": "2024-04-22",
+      "age_days": 34,
+      "issues": [
+        "stale_34d"
+      ],
+      "status": "warning",
+      "name": "Microsoft AI",
+      "strategy": "scrape",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Microsoft AI Blog",
+      "page_url": "https://microsoft.ai/blog/",
+      "org_key": "microsoft_ai"
+    },
+    "cognition_blog.xml": {
+      "output_file": "cognition_blog.xml",
+      "entry_count": 72,
+      "newest_date": "2026-07-02",
+      "oldest_date": "2024-03-12",
+      "age_days": 4,
+      "issues": [],
+      "status": "healthy",
+      "name": "Cognition",
+      "strategy": "request",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Cognition Blog",
+      "page_url": "https://cognition.com/blog",
+      "org_key": "cognition"
+    },
+    "krea_blog.xml": {
+      "output_file": "krea_blog.xml",
+      "entry_count": 50,
+      "newest_date": "2026-06-23",
+      "oldest_date": "2026-05-16",
+      "age_days": 13,
+      "issues": [],
+      "status": "healthy",
+      "name": "Krea",
+      "strategy": "enhance",
+      "category": "Labs",
+      "page_key": "blog",
+      "page_label": "Krea Blog",
+      "page_url": "https://www.krea.ai/blog/feed/atom.xml",
+      "org_key": "krea"
+    },
+    "OpenAI News": {
+      "output_file": null,
+      "name": "OpenAI News",
+      "xml_url": "https://openai.com/news/rss.xml",
+      "html_url": "https://openai.com/news",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Google Tech Blog": {
+      "output_file": null,
+      "name": "Google Tech Blog",
+      "xml_url": "https://blog.google/technology/rss/",
+      "html_url": "https://blog.google/technology/",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "DeepMind Blog": {
+      "output_file": null,
+      "name": "DeepMind Blog",
+      "xml_url": "https://deepmind.google/blog/rss.xml",
+      "html_url": "https://deepmind.google/discover/blog/",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Mistral AI News": {
+      "output_file": null,
+      "name": "Mistral AI News",
+      "xml_url": "https://mistral.ai/news/rss.xml",
+      "html_url": "https://mistral.ai/news",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Amazon Science Blog": {
+      "output_file": null,
+      "name": "Amazon Science Blog",
+      "xml_url": "https://www.amazon.science/index.rss",
+      "html_url": "https://www.amazon.science/blog",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Microsoft Research Blog": {
+      "output_file": null,
+      "name": "Microsoft Research Blog",
+      "xml_url": "https://www.microsoft.com/en-us/research/feed/",
+      "html_url": "https://www.microsoft.com/en-us/research/blog/",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "NVIDIA Blog": {
+      "output_file": null,
+      "name": "NVIDIA Blog",
+      "xml_url": "https://blogs.nvidia.com/feed/",
+      "html_url": "https://blogs.nvidia.com/",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Apple ML Blog": {
+      "output_file": null,
+      "name": "Apple ML Blog",
+      "xml_url": "https://machinelearning.apple.com/rss.xml",
+      "html_url": "https://machinelearning.apple.com/",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Stability AI Research": {
+      "output_file": null,
+      "name": "Stability AI Research",
+      "xml_url": "https://stability.ai/research?format=rss",
+      "html_url": "https://stability.ai/research",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Stability AI News": {
+      "output_file": null,
+      "name": "Stability AI News",
+      "xml_url": "https://stability.ai/news?format=rss",
+      "html_url": "https://stability.ai/news",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Midjourney News": {
+      "output_file": null,
+      "name": "Midjourney News",
+      "xml_url": "https://updates.midjourney.com/rss/",
+      "html_url": "https://www.midjourney.com/updates",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Arc Prize Blog": {
+      "output_file": null,
+      "name": "Arc Prize Blog",
+      "xml_url": "https://arcprize.org/feed.xml",
+      "html_url": "https://arcprize.org/blog",
+      "category": "Eval",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Sakana AI Blog": {
+      "output_file": null,
+      "name": "Sakana AI Blog",
+      "xml_url": "https://sakana.ai/feed.xml",
+      "html_url": "https://sakana.ai/blog/",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Netflix Tech Blog": {
+      "output_file": null,
+      "name": "Netflix Tech Blog",
+      "xml_url": "https://netflixtechblog.com/feed",
+      "html_url": "https://netflixtechblog.com",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Thinking Machines Lab Blog": {
+      "output_file": null,
+      "name": "Thinking Machines Lab Blog",
+      "xml_url": "https://thinkingmachines.ai/blog/index.xml",
+      "html_url": "https://thinkingmachines.ai/blog/",
+      "category": "Labs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "HuggingFace Blog": {
+      "output_file": null,
+      "name": "HuggingFace Blog",
+      "xml_url": "https://huggingface.co/blog/feed.xml",
+      "html_url": "https://huggingface.co/blog",
+      "category": "Platforms",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Ollama Blog": {
+      "output_file": null,
+      "name": "Ollama Blog",
+      "xml_url": "https://ollama.com/blog/rss.xml",
+      "html_url": "https://ollama.com/blog",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "vLLM Blog": {
+      "output_file": null,
+      "name": "vLLM Blog",
+      "xml_url": "https://vllm.ai/blog/rss.xml",
+      "html_url": "https://vllm.ai/blog",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "ComfyUI Blog": {
+      "output_file": null,
+      "name": "ComfyUI Blog",
+      "xml_url": "https://blog.comfy.org/feed",
+      "html_url": "https://blog.comfy.org/",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Replicate Blog": {
+      "output_file": null,
+      "name": "Replicate Blog",
+      "xml_url": "https://replicate.com/blog/atom",
+      "html_url": "https://replicate.com/blog",
+      "category": "Platforms",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "OpenRouter Blog": {
+      "output_file": null,
+      "name": "OpenRouter Blog",
+      "xml_url": "https://openrouter.ai/blog/feed.xml",
+      "html_url": "https://openrouter.ai/blog/",
+      "category": "Platforms",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Llama.cpp Announcements": {
+      "output_file": null,
+      "name": "Llama.cpp Announcements",
+      "xml_url": "https://github.com/ggml-org/llama.cpp/discussions/categories/announcements.atom",
+      "html_url": "https://github.com/ggml-org/llama.cpp/discussions/categories/announcements",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Rust Blog": {
+      "output_file": null,
+      "name": "Rust Blog",
+      "xml_url": "https://blog.rust-lang.org/feed.xml",
+      "html_url": "https://blog.rust-lang.org/",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Cool Papers": {
+      "output_file": null,
+      "name": "Cool Papers",
+      "xml_url": "https://papers.cool/arxiv/cs.CL,cs.LG,cs.AI,cs.CV/feed",
+      "html_url": "https://papers.cool/",
+      "category": "Academics",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Sebastian Raschka": {
+      "output_file": null,
+      "name": "Sebastian Raschka",
+      "xml_url": "https://sebastianraschka.com/rss_feed.xml",
+      "html_url": "https://sebastianraschka.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Deep Learning Weekly": {
+      "output_file": null,
+      "name": "Deep Learning Weekly",
+      "xml_url": "https://www.deeplearningweekly.com/feed",
+      "html_url": "https://www.deeplearningweekly.com/",
+      "category": "Weekly",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Deep (Learning) Focus": {
+      "output_file": null,
+      "name": "Deep (Learning) Focus",
+      "xml_url": "https://cameronrwolfe.substack.com/feed",
+      "html_url": "https://cameronrwolfe.substack.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Last Week in AI": {
+      "output_file": null,
+      "name": "Last Week in AI",
+      "xml_url": "https://lastweekin.ai/feed",
+      "html_url": "https://lastweekin.ai/",
+      "category": "Weekly",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "科技爱好者周刊": {
+      "output_file": null,
+      "name": "科技爱好者周刊",
+      "xml_url": "https://feeds.feedburner.com/ruanyifeng",
+      "html_url": "https://www.ruanyifeng.com/blog/",
+      "category": "Weekly",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Turing Post": {
+      "output_file": null,
+      "name": "Turing Post",
+      "xml_url": "https://rss.beehiiv.com/feeds/UJIoBuf5BX.xml",
+      "html_url": "https://www.turingpost.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Latent Space": {
+      "output_file": null,
+      "name": "Latent Space",
+      "xml_url": "https://www.latent.space/feed",
+      "html_url": "https://www.latent.space/",
+      "category": "Daily",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "12 Grams of Carbon": {
+      "output_file": null,
+      "name": "12 Grams of Carbon",
+      "xml_url": "https://theahura.substack.com/feed",
+      "html_url": "https://theahura.substack.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Quanta Magazine": {
+      "output_file": null,
+      "name": "Quanta Magazine",
+      "xml_url": "https://www.quantamagazine.org/feed",
+      "html_url": "https://www.quantamagazine.org/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Epoch AI Substack": {
+      "output_file": null,
+      "name": "Epoch AI Substack",
+      "xml_url": "https://epochai.substack.com/feed",
+      "html_url": "https://epochai.substack.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Citrini Research": {
+      "output_file": null,
+      "name": "Citrini Research",
+      "xml_url": "https://www.citriniresearch.com/feed",
+      "html_url": "https://www.citriniresearch.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "IEEE Spectrum": {
+      "output_file": null,
+      "name": "IEEE Spectrum",
+      "xml_url": "https://spectrum.ieee.org/customfeeds/feed/all-topics/rss",
+      "html_url": "https://spectrum.ieee.org/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "METR": {
+      "output_file": null,
+      "name": "METR",
+      "xml_url": "https://metr.substack.com/feed",
+      "html_url": "https://metr.org/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "LessWrong": {
+      "output_file": null,
+      "name": "LessWrong",
+      "xml_url": "https://www.lesswrong.com/feed.xml?view=community-rss&karmaThreshold=125",
+      "html_url": "https://www.lesswrong.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "AlphaSignal Blog": {
+      "output_file": null,
+      "name": "AlphaSignal Blog",
+      "xml_url": "https://alphasignalai.substack.com/feed",
+      "html_url": "https://alphasignalai.substack.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Interconnects AI": {
+      "output_file": null,
+      "name": "Interconnects AI",
+      "xml_url": "https://www.interconnects.ai/feed",
+      "html_url": "https://www.interconnects.ai/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Import AI": {
+      "output_file": null,
+      "name": "Import AI",
+      "xml_url": "https://importai.substack.com/feed",
+      "html_url": "https://importai.substack.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "lcamtuf's thing": {
+      "output_file": null,
+      "name": "lcamtuf's thing",
+      "xml_url": "https://lcamtuf.substack.com/feed",
+      "html_url": "https://lcamtuf.substack.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "YCombinator Hacker News": {
+      "output_file": null,
+      "name": "YCombinator Hacker News",
+      "xml_url": "https://news.ycombinator.com/rss",
+      "html_url": "https://news.ycombinator.com/",
+      "category": "Hourly",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "ReadHub 新闻": {
+      "output_file": null,
+      "name": "ReadHub 新闻",
+      "xml_url": "https://readhub.cn/rss",
+      "html_url": "https://readhub.cn/",
+      "category": "Hourly",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "ReadHub 每日早报": {
+      "output_file": null,
+      "name": "ReadHub 每日早报",
+      "xml_url": "https://readhub.cn/daily/rss",
+      "html_url": "https://readhub.cn/daily",
+      "category": "Daily",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "喷嚏图卦": {
+      "output_file": null,
+      "name": "喷嚏图卦",
+      "xml_url": "https://rsshub.rssforever.com/dapenti/tugua",
+      "html_url": "https://www.dapenti.com/blog/blog.asp?name=xilei&subjectid=70",
+      "category": "Daily",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Slashdot": {
+      "output_file": null,
+      "name": "Slashdot",
+      "xml_url": "https://rss.slashdot.org/Slashdot/slashdotMain",
+      "html_url": "https://slashdot.org/",
+      "category": "Hourly",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "The Hacker News": {
+      "output_file": null,
+      "name": "The Hacker News",
+      "xml_url": "https://feeds.feedburner.com/TheHackersNews",
+      "html_url": "https://thehackernews.com/",
+      "category": "Hourly",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "The Sequence": {
+      "output_file": null,
+      "name": "The Sequence",
+      "xml_url": "https://thesequence.substack.com/feed",
+      "html_url": "https://thesequence.substack.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "AI Hot News": {
+      "output_file": null,
+      "name": "AI Hot News",
+      "xml_url": "https://aihot.virxact.com/feed.xml",
+      "html_url": "https://aihot.virxact.com/",
+      "category": "Hourly",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "phys.org Quantum Physics": {
+      "output_file": null,
+      "name": "phys.org Quantum Physics",
+      "xml_url": "https://phys.org/rss-feed/physics-news/quantum-physics/",
+      "html_url": "https://phys.org/physics-news/quantum-physics/",
+      "category": "Quantum",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Quantum Computing Report": {
+      "output_file": null,
+      "name": "Quantum Computing Report",
+      "xml_url": "https://quantumcomputingreport.com/feed/",
+      "html_url": "https://quantumcomputingreport.com/news/",
+      "category": "Quantum",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Animation Obsessive Blog": {
+      "output_file": null,
+      "name": "Animation Obsessive Blog",
+      "xml_url": "https://animationobsessive.substack.com/feed",
+      "html_url": "https://animationobsessive.substack.com/",
+      "category": "Blogs",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Krita News": {
+      "output_file": null,
+      "name": "Krita News",
+      "xml_url": "https://krita.org/en/categories/news/index.xml",
+      "html_url": "https://krita.org/en/categories/news/",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Blender News": {
+      "output_file": null,
+      "name": "Blender News",
+      "xml_url": "https://www.blender.org/feed/",
+      "html_url": "https://www.blender.org/news/",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Unreal Engine News": {
+      "output_file": null,
+      "name": "Unreal Engine News",
+      "xml_url": "https://www.unrealengine.com/en-US/rss",
+      "html_url": "https://www.unrealengine.com/en-US/feed",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Arena AI Blog": {
+      "output_file": null,
+      "name": "Arena AI Blog",
+      "xml_url": "https://arena.ai/blog/rss/",
+      "html_url": "https://arena.ai/blog/",
+      "category": "Eval",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Canva Engineering Blog": {
+      "output_file": null,
+      "name": "Canva Engineering Blog",
+      "xml_url": "https://www.canva.dev/blog/engineering/feed.xml",
+      "html_url": "https://www.canva.dev/blog/engineering/",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Kilo Code Blog": {
+      "output_file": null,
+      "name": "Kilo Code Blog",
+      "xml_url": "https://blog.kilo.ai/feed",
+      "html_url": "https://blog.kilo.ai/",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    },
+    "Zed Editor Blog": {
+      "output_file": null,
+      "name": "Zed Editor Blog",
+      "xml_url": "https://zed.dev/blog.rss",
+      "html_url": "https://zed.dev/blog",
+      "category": "Tools",
+      "status": "unchecked",
+      "entry_count": null,
+      "newest_date": null,
+      "oldest_date": null,
+      "age_days": null,
+      "issues": [
+        "unchecked_official"
+      ]
+    }
+  },
+  "summary": {
+    "total": 125,
+    "healthy": 50,
+    "warning": 15,
+    "error": 0,
+    "unchecked": 60
+  }
+}

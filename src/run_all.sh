@@ -41,6 +41,13 @@ fi
 
 echo ""
 echo "========================================"
+echo "[PHASE 3] Audit report"
+echo "========================================"
+
+python3 audit_report.py > ../logs/audit_report.log 2>&1 || FAILED=$((FAILED + 1))
+
+echo ""
+echo "========================================"
 echo "All phases completed."
 echo "========================================"
 
