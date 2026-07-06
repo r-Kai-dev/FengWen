@@ -6,6 +6,7 @@ when:
 steps:
   - name: scrape-request
     image: python:3.12
+    failure: ignore
     commands:
       - pip install -q curl_cffi beautifulsoup4
       - mkdir -p logs
@@ -13,6 +14,7 @@ steps:
 
   - name: crawl
     image: python:3.12
+    failure: ignore
     commands:
       - apt-get update -qq && apt-get install -y -qq chromium 2>/dev/null
       - pip install -q 'curl_cffi>=0.7,<1' 'beautifulsoup4>=4.12,<5' 'DrissionPage>=4.0,<5'
