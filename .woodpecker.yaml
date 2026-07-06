@@ -17,6 +17,7 @@ steps:
     failure: ignore
     commands:
       - pip install -q beautifulsoup4 playwright
+      - python3 -m playwright install-deps chromium
       - python3 -m playwright install chromium
       - mkdir -p logs
       - cd src

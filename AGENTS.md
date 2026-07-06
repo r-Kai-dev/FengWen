@@ -14,7 +14,7 @@ src/                ← All scripts (flat, no subdirectories)
   crawl_runner.py   ← Single-browser runner for crawl_*.py scripts
   scrape_*.py       ← HTTP scraping with curl_cffi
   request_*.py      ← Async API / JSON / RSC fetching
-  crawl_*.py        ← Browser-based crawling with DrissionPage
+  crawl_*.py        ← Browser-based crawling with Playwright
   generate_*.py     ← Generate feeds.opml, README.md, and run both
 feeds/              ← Output Atom XML files
 logs/               ← Per-script log files
@@ -168,32 +168,29 @@ if __name__ == "__main__":
 For SPA pages that require JavaScript execution (client-rendered content).
 
 **Pattern:**
-- Imports `ChromiumPage` from `DrissionPage`
-- Exposes `def run(page: ChromiumPage)` — **not** `main()`
-- `page.get(url)` + `page.wait.doc_loaded()` + `page.wait(seconds)` for navigation
-- Parses HTML from `page.html` with BeautifulSoup
-- Reference: `crawl_bytedance.py`, `crawl_unsloth.py`, `crawl_deepseek.py`
+- Receives a Playwright `Page` object from `crawl_runner.py`
+- Exposes `def run(page)` — **not** `main()`
+- `page.goto(url)` + `page.wait_for_timeout(ms)` for navigation
+- Parses HTML from `page.content()` with BeautifulSoup
+- Reference: `crawl_deepseek.py`, `crawl_hunyuan.py`, `crawl_unsloth.py`
 
 ```python
-from DrissionPage import ChromiumPage
-
-def run(page: ChromiumPage):
+def run(page):
     config = load_feeds_config(ORG_KEY)
-    page.get(url)
-    page.wait.doc_loaded()
-    page.wait(3)
-    soup = BeautifulSoup(page.html, "html.parser")
+    page.goto(url)
+    page.wait_for_timeout(3000)
+    soup = BeautifulSoup(page.content(), "html.parser")
     # extract and write
 ```
 
-**Critical:** Crawl scripts are run by `crawl_runner.py`, which launches **one** ChromiumPage instance and passes it to each crawl script sequentially. Each script should clean up after itself (clear cookies if needed) but must **not** call `page.quit()`.
+**Critical:** Crawl scripts are run by `crawl_runner.py`, which launches **one** shared Playwright browser instance and passes a `Page` to each crawl script sequentially. Each script should clean up after itself (clear cookies if needed) but must **not** close the browser or page.
 
 ## Shared Utilities (`src/utils.py`)
 
 | Function | Signature | Purpose |
 |----------|-----------|---------|
 | `load_feeds_config(org_key)` | `→ dict` | Load `created` entry by `org_key`. Returns entry with `pages` as dict `{key: page}`. Raises `ValueError` if not found. |
-| `fetch_page(url, *, impersonate, timeout)` | `→ str` | Sync GET with browser impersonation via curl_cffi. |
+| `fetch_page(url, *, impersonate, timeout)` | `→ str` | Sync GET with browser impersonation via curl_cffi (used by scrape/enhance scripts). |
 | `fetch_with_retry(session, url, *, max_retries, base_delay, **kwargs)` | `→ response` | Async GET with exponential backoff (3 retries). |
 | `write_atom_feed(path, entries, feed_title, feed_link, *, feed_author, feed_icon)` | `→ None` | Write Atom XML to `path`. Sorts by `published_date` desc, then `title` asc. |
 | `compact(dict)` | `→ dict` | Strip falsy keys (None, "", [], {}). |
@@ -409,7 +406,7 @@ If pages require **different fetch strategies** (e.g., one scrape, one crawl), t
 
 ### Cloudflare / bot protection
 
-If a site returns 403 with `fetch_page()`, switch to `curl_cffi` with browser impersonation (already the default in `fetch_page`). If that still fails, use the crawl strategy with DrissionPage.
+If a site returns 403 with `fetch_page()`, switch to `curl_cffi` with browser impersonation (already the default in `fetch_page`). If that still fails, use the crawl strategy with Playwright (real Chromium browser).
 
 ### Date parsing
 
@@ -424,7 +421,7 @@ entries = [json.loads(s) for s in {json.dumps(d) for d in entries}]
 
 ### Browser in crawl scripts
 
-DrissionPage requires Chromium installed at `/usr/bin/chromium`. Each crawl script must expose `def run(page: ChromiumPage)` — the runner manages the browser lifecycle. For standalone testing, each script includes an `if __name__ == "__main__":` block that launches its own browser.
+Crawl scripts receive a Playwright `Page` from `crawl_runner.py` and must expose `def run(page)`. The runner manages the browser lifecycle — scripts must not close the browser. For standalone testing, each script includes an `if __name__ == "__main__":` block that launches its own Playwright browser.
 
 ### Async in request scripts
 
@@ -437,12 +434,11 @@ The CI pipeline mirrors `run_all.sh` but runs in two isolated steps **without** 
 | Step | Installed deps | Scripts |
 |------|---------------|---------|
 | `scrape-request` | `curl_cffi`, `beautifulsoup4` | `scrape_*.py`, `request_*.py`, `enhance_*.py` |
-| `crawl` | `curl_cffi`, `beautifulsoup4`, `DrissionPage` + Chromium | `crawl_runner.py` → `crawl_*.py` |
+| `crawl` | `beautifulsoup4`, `playwright` | `crawl_runner.py` → `crawl_*.py` |
 
 **Critical rules:**
-- `scrape_*.py`, `request_*.py`, and `enhance_*.py` must **never** import `DrissionPage` — it's not available in that CI step.
-- `crawl_*.py` can import `DrissionPage` freely.
-- All three types can import `curl_cffi` and `beautifulsoup4`.
+- `scrape_*.py`, `request_*.py`, and `enhance_*.py` use `curl_cffi` for HTTP — no browser needed.
+- `crawl_*.py` use Playwright (bundled Chromium) — no system chromium or DrissionPage needed.
 - Scripts are auto-discovered via glob — no CI config changes needed for new/removed scripts.
 - The `update-feeds` step commits only `feeds/*.xml` (not `feeds.opml` or `README.md`), so regenerating those is a local-only task.
 

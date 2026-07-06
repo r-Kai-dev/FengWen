@@ -204,7 +204,7 @@ See [`AGENTS.md`](./AGENTS.md) for the full technical architecture, pipeline det
 - All feed sources are configured in `config/feeds.json` (canonical source of truth).
 - **`scrape_*.py`** — HTTP scraping with browser impersonation (curl_cffi)
 - **`request_*.py`** — API / JSON / RSC payload fetching
-- **`crawl_*.py`** — Browser-based crawling (DrissionPage/Chromium), invoked via `crawl_runner.py`
+- **`crawl_*.py`** — Browser-based crawling (Playwright/Chromium), invoked via `crawl_runner.py`
 - Pipeline orchestrated by `src/run_all.sh` (scrape + request in parallel, then sequential crawl).
 
 ## Dependencies
@@ -212,7 +212,6 @@ See [`AGENTS.md`](./AGENTS.md) for the full technical architecture, pipeline det
 - Python ≥ 3.12
 - `curl_cffi` — async HTTP with TLS fingerprint impersonation
 - `beautifulsoup4` — HTML parsing / XML generation
-- `DrissionPage` — headless Chromium automation for JS-rendered pages
-- Chromium (or Chrome) installed for DrissionPage
+- `playwright` — headless Chromium automation for JS-rendered pages (bundles its own Chromium)
 
 All Python dependencies are declared in `pyproject.toml`.
