@@ -20,7 +20,7 @@ logging.basicConfig(
 def _start_browser():
     co = ChromiumOptions()
     co.set_browser_path("/usr/bin/chromium")
-    co.set_argument("--headless=new")
+    co.headless(on_off=True)
     co.set_argument("--no-sandbox")
     co.set_argument("--disable-gpu")
     co.set_argument("--disable-dev-shm-usage")
