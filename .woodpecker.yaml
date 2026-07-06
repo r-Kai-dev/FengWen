@@ -5,7 +5,7 @@ when:
 
 steps:
   - name: scrape-request
-    image: python:3.12
+    image: python:3.12-bookworm
     failure: ignore
     commands:
       - pip install -q curl_cffi beautifulsoup4
@@ -13,7 +13,7 @@ steps:
       - bash src/run_scrape_request.sh
 
   - name: crawl
-    image: python:3.12
+    image: python:3.12-bookworm
     failure: ignore
     commands:
       - apt-get update -qq && apt-get install -y -qq chromium 2>/dev/null
