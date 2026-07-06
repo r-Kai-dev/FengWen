@@ -5,7 +5,6 @@ import logging
 from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
-from DrissionPage import ChromiumPage
 
 from utils import (
     FEEDS_DIR, setup_logging, ensure_output_dir,
@@ -64,14 +63,13 @@ def extract_posts(soup):
     return posts
 
 
-def run(page: ChromiumPage):
+def run(page):
     config = load_feeds_config(ORG_KEY)
     p = config["pages"]["latest"]
     logging.info("Navigating to %s", p["url"])
-    page.get(p["url"])
-    page.wait.doc_loaded()
-    page.wait(8)
-    soup = BeautifulSoup(page.html, "html.parser")
+    page.goto(p["url"])
+    page.wait_for_timeout(8000)
+    soup = BeautifulSoup(page.content(), "html.parser")
     entries = extract_posts(soup)
     if not entries:
         logging.warning("No entries found")
@@ -82,11 +80,12 @@ def run(page: ChromiumPage):
                     feed_icon=config.get("favicon"))
 
 if __name__ == "__main__":
-    from DrissionPage import ChromiumOptions
-    co = ChromiumOptions()
-    co.set_browser_path("/usr/bin/chromium")
-    co.headless(on_off=True); co.new_env(on_off=True)
-    co.set_argument("--no-sandbox"); co.set_argument("--disable-gpu")
-    pg = ChromiumPage(addr_or_opts=co)
-    try: run(pg)
-    finally: pg.quit()
+    from playwright.sync_api import sync_playwright
+    pw = sync_playwright().start()
+    browser = pw.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
+    page = browser.new_page()
+    try:
+        run(page)
+    finally:
+        browser.close()
+        pw.stop()

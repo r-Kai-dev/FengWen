@@ -12,7 +12,6 @@ import time
 from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
-from DrissionPage import ChromiumPage
 
 from utils import (
     FEEDS_DIR, setup_logging, ensure_output_dir,
@@ -41,38 +40,37 @@ def parse_date(date_str: str) -> str | None:
     return None
 
 
-def _fetch_page(page: ChromiumPage, url: str) -> str:
+def _fetch_page(page, url: str) -> str:
     """Navigate to the Hunyuan research page, switch to Chinese, wait for render."""
     logging.info("Navigating to %s", url)
-    page.get(url)
-    page.wait.doc_loaded()
+    page.goto(url)
 
     # Wait for skeleton to hide and cards to appear
     deadline = time.time() + 15
     while time.time() < deadline:
         try:
-            skel = page.ele("#app-skeleton", timeout=1)
-            skel_cls = (skel.attr("class") or "") if skel else ""
+            skel = page.wait_for_selector("#app-skeleton", timeout=1000)
+            skel_cls = (skel.get_attribute("class") or "") if skel else ""
             hidden = "hidden" in skel_cls.split()
         except Exception:
             hidden = True
-        cards = page.eles("article.research-mobile-list__card")
+        cards = page.query_selector_all("article.research-mobile-list__card")
         if hidden and len(cards) >= 1:
             logging.info("Content rendered (%d cards)", len(cards))
             break
-        page.wait(0.5)
-    page.wait(3)
+        page.wait_for_timeout(500)
+    page.wait_for_timeout(3000)
 
     # Switch to Chinese for full content (English page has fewer posts)
     logging.info("Switching to Chinese…")
-    page.run_js("""
+    page.evaluate("""() => {
         const items = document.querySelectorAll('.header__lang-switch-text-item');
         for (const item of items) {
             if (item.textContent.trim() === '中文') { item.click(); break; }
         }
-    """)
-    page.wait(4)
-    return page.html
+    }""")
+    page.wait_for_timeout(4000)
+    return page.content()
 
 
 def extract_cards(soup: BeautifulSoup) -> list[dict]:
@@ -121,7 +119,7 @@ def extract_cards(soup: BeautifulSoup) -> list[dict]:
     return entries
 
 
-def run(page: ChromiumPage) -> None:
+def run(page) -> None:
     config = load_feeds_config(ORG_KEY)
     favicon = config.get("favicon")
 
@@ -148,15 +146,12 @@ def run(page: ChromiumPage) -> None:
 
 
 if __name__ == "__main__":
-    from DrissionPage import ChromiumOptions
-    co = ChromiumOptions()
-    co.set_browser_path("/usr/bin/chromium")
-    co.headless(on_off=True)
-    co.new_env(on_off=True)
-    co.set_argument("--no-sandbox")
-    co.set_argument("--disable-gpu")
-    pg = ChromiumPage(addr_or_opts=co)
+    from playwright.sync_api import sync_playwright
+    pw = sync_playwright().start()
+    browser = pw.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
+    page = browser.new_page()
     try:
-        run(pg)
+        run(page)
     finally:
-        pg.quit()
+        browser.close()
+        pw.stop()

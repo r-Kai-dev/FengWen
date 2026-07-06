@@ -7,7 +7,6 @@ import re
 from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
-from DrissionPage import ChromiumPage
 
 from utils import (
     FEEDS_DIR, setup_logging, ensure_output_dir,
@@ -29,24 +28,23 @@ def parse_date(date_str):
         return None
 
 
-def _fetch_deepseek_news(page: ChromiumPage):
+def _fetch_deepseek_news(page):
     logging.info("Navigating to %s", BASE_URL)
-    page.get(BASE_URL)
-    page.wait.doc_loaded()
-    page.wait(2)
+    page.goto(BASE_URL)
+    page.wait_for_timeout(2000)
     # Click the News sidebar dropdown via JS to avoid DrissionPage
     # tx-matching ambiguity with the mobile "Languages" toggle.
-    clicked = page.run_js('''
+    clicked = page.evaluate('''() => {
         const links = document.querySelectorAll('a.menu__link--sublist-caret');
         for (const l of links) {
             if (l.textContent.trim() === 'News') { l.click(); return true; }
         }
         return false;
-    ''')
+    }''')
     if clicked:
         logging.info("Clicked News sidebar dropdown")
-        page.wait(1)
-    return page.html
+        page.wait_for_timeout(1000)
+    return page.content()
 
 
 def extract_news(soup):
@@ -81,7 +79,7 @@ def extract_news(soup):
     return items
 
 
-def run(page: ChromiumPage):
+def run(page):
     config = load_feeds_config(ORG_KEY)
     html = _fetch_deepseek_news(page)
     soup = BeautifulSoup(html, "html.parser")
@@ -97,11 +95,12 @@ def run(page: ChromiumPage):
                     feed_icon=config.get("favicon"))
 
 if __name__ == "__main__":
-    from DrissionPage import ChromiumOptions
-    co = ChromiumOptions()
-    co.set_browser_path("/usr/bin/chromium")
-    co.headless(on_off=True); co.new_env(on_off=True)
-    co.set_argument("--no-sandbox"); co.set_argument("--disable-gpu")
-    pg = ChromiumPage(addr_or_opts=co)
-    try: run(pg)
-    finally: pg.quit()
+    from playwright.sync_api import sync_playwright
+    pw = sync_playwright().start()
+    browser = pw.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
+    page = browser.new_page()
+    try:
+        run(page)
+    finally:
+        browser.close()
+        pw.stop()

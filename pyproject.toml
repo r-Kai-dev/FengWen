@@ -7,5 +7,4 @@ requires-python = ">=3.12"
 dependencies = [
     "curl_cffi",
     "beautifulsoup4",
-    "DrissionPage",
 ]

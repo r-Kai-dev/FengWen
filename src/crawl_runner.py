@@ -1,6 +1,6 @@
-"""Launch one headless Chromium instance, run all crawl_*.py scripts sequentially.
+"""Launch one headless Chromium instance via Playwright, run all crawl_*.py scripts sequentially.
 
-Each crawl script exposes ``def run(page: ChromiumPage)``.
+Each crawl script exposes ``def run(page)`` where page is a Playwright Page.
 Auto-discovered via ``importlib`` — no manual registration needed.
 """
 
@@ -8,7 +8,7 @@ import importlib
 import logging
 from pathlib import Path
 
-from DrissionPage import ChromiumOptions, ChromiumPage
+from playwright.sync_api import sync_playwright
 
 SRC_DIR = Path(__file__).resolve().parent
 
@@ -18,20 +18,22 @@ logging.basicConfig(
 
 
 def _start_browser():
-    co = ChromiumOptions()
-    co.set_browser_path("/usr/bin/chromium")
-    co.headless(on_off=True)
-    co.set_argument("--no-sandbox")
-    co.set_argument("--disable-gpu")
-    co.set_argument("--disable-dev-shm-usage")
-    co.set_argument("--window-size=1920,1080")
-    co.auto_port()
-    co.new_env(on_off=True)
-    page = ChromiumPage(addr_or_opts=co)
-    page.set.timeouts(page_load=30)
-    page.set.window.size(1920, 1080)
-    logging.info("Browser launched: %s", page.browser_version)
-    return page
+    pw = sync_playwright().start()
+    browser = pw.chromium.launch(
+        headless=True,
+        args=[
+            "--disable-blink-features=AutomationControlled",
+            "--no-sandbox",
+            "--disable-dev-shm-usage",
+            "--disable-gpu",
+        ],
+    )
+    context = browser.new_context(
+        viewport={"width": 1920, "height": 1080},
+    )
+    page = context.new_page()
+    logging.info("Browser launched: %s", browser.version)
+    return pw, page
 
 
 def main():
@@ -40,7 +42,7 @@ def main():
         logging.info("No crawl scripts found.")
         return
 
-    page = _start_browser()
+    pw, page = _start_browser()
     succeeded = 0
     failed = 0
     failed_names = []
@@ -60,7 +62,8 @@ def main():
                 import traceback
                 traceback.print_exc()
     finally:
-        page.quit()
+        page.context.browser.close()
+        pw.stop()
 
     logging.info("Crawl complete: %d succeeded, %d failed", succeeded, failed)
     if failed_names:
