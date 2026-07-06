@@ -625,7 +625,7 @@
     {
       "org_key": "bytedance",
       "name": "ByteDance Seed",
-      "strategy": "crawl",
+      "strategy": "scrape",
       "base_url": "https://seed.bytedance.com/en",
       "favicon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico",
       "category": "Labs",
