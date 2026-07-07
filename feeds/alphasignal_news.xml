@@ -4,10 +4,120 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-06T22:13:21+00:00</updated>
+  <updated>2026-07-07T19:33:53+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Meta's Muse Image Beats Google but Trails OpenAI in AI Image Generation</title>
+    <link href="https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/?utm_source=twitter&amp;utm_medium=organic_social&amp;utm_content=video&amp;utm_campaign=museimage"/>
+    <id>b87fcc47acb4c91073f3016a313fb42c</id>
+    <published>2026-07-07T19:33:53+00:00</published>
+    <updated>2026-07-07T19:33:53+00:00</updated>
+    <summary type="text">Meta Superintelligence Labs ships its first image model with agentic tool use, emergent self-refinement, and deep social context from Instagram</summary>
+    <category term="image"/>
+    <category term="video"/>
+  </entry>
+  <entry>
+    <title>Tencent Drops Hy3, a 295B Open-Weight Coding Agent Slashing Hallucinations in Half</title>
+    <link href="https://huggingface.co/tencent/Hy3"/>
+    <id>fd102ceac2e2869eec88f8fea709a0fb</id>
+    <published>2026-07-07T19:20:53+00:00</published>
+    <updated>2026-07-07T19:20:53+00:00</updated>
+    <summary type="text">Tencent's Hy3 is a fully open-source 295B MoE coding model with 256K context, now free on OpenCode and OpenRouter</summary>
+    <category term="open_source"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Anthropic Gives 10,000 Open Source Maintainers $1,200 of Free Claude Max</title>
+    <link href="https://claude.com/contact-sales/claude-for-oss"/>
+    <id>43b4c1cf096694861100841341105575</id>
+    <published>2026-07-07T19:05:02+00:00</published>
+    <updated>2026-07-07T19:05:02+00:00</updated>
+    <summary type="text">Anthropic is expanding its Claude for Open Source program, giving qualifying maintainers 6 months of its $200/month Claude Max 20x plan for free.</summary>
+    <category term="open_source"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Cowork Breaks Free of the Open-Laptop Trap</title>
+    <link href="https://claude.com/blog/cowork-web-mobile/"/>
+    <id>558018d1c6d975adc09ec2a46233bba1</id>
+    <published>2026-07-07T16:07:51+00:00</published>
+    <updated>2026-07-07T16:07:51+00:00</updated>
+    <summary type="text">Claude Cowork breaks free from the desktop â tasks now run in the cloud, and you can manage everything from your phone or browser</summary>
+    <category term="api"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Google DeepMind's Aeneas Lets Historians Decode Ancient Rome Without Writing Code</title>
+    <link href="https://deepmind.google/science/workflows/conversing-with-antiquity/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
+    <id>13e6a5380e808abb874d6b07729837a4</id>
+    <published>2026-07-07T15:19:34+00:00</published>
+    <updated>2026-07-07T15:19:34+00:00</updated>
+    <summary type="text">Google DeepMind's Predicting the Past Skill wraps Aeneas and Ithaca into a plain-English interface inside Google Antigravity, letting historians analyze ancient inscriptions without writing code.</summary>
+    <category term="llms"/>
+    <category term="vibe_coding"/>
+  </entry>
+  <entry>
+    <title>Nous Research's Hermes Agent Now Pulls Secrets From Multiple Vaults Safely</title>
+    <link href="https://hermes-agent.nousresearch.com/docs/developer-guide/secret-source-plugin"/>
+    <id>dd4bb612c7db7607c79bb51c05db1ae0</id>
+    <published>2026-07-07T14:33:28+00:00</published>
+    <updated>2026-07-07T14:33:28+00:00</updated>
+    <summary type="text">Hermes Agent adds 1Password support and a plugin API so any secret vault can feed credentials into the agent at startup</summary>
+    <category term="agents"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Cohere's Cohere Transcribe Arabic Beats Meta's 7B Model at 2B Parameters</title>
+    <link href="https://huggingface.co/spaces/elmresearchcenter/open_universal_arabic_asr_leaderboard"/>
+    <id>ce97ed3f3ba852d450fd5104a0385e18</id>
+    <published>2026-07-07T14:24:19+00:00</published>
+    <updated>2026-07-07T14:24:19+00:00</updated>
+    <summary type="text">Cohere releases a 2B-parameter open-source Arabic ASR model that beats Whisper Large v3 by 11 WER points and runs at 3.5x the throughput</summary>
+    <category term="audio"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>LiquidAI's Antidoom Slashes AI Reasoning Doom Loops by 95% in Hours</title>
+    <link href="https://github.com/Liquid4All/antidoom"/>
+    <id>3f4204b47e2b8192201025b7e70d558c</id>
+    <published>2026-07-07T14:01:57+00:00</published>
+    <updated>2026-07-07T14:01:57+00:00</updated>
+    <summary type="text">Liquid AI's open-source Antidoom surgically removes doom loops from reasoning models, cutting loop rates by up to 95% without RL or quality loss.</summary>
+    <category term="post_training"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Google Cloud's ScientistOne Writes AI Research Papers With Zero Hallucinated References</title>
+    <link href="https://x.com/googleresearch/status/2074384746076135575"/>
+    <id>31129239fcc84b1d64084db0affd9ee5</id>
+    <published>2026-07-07T06:47:18+00:00</published>
+    <updated>2026-07-07T06:47:18+00:00</updated>
+    <summary type="text">Google's ScientistOne automates the full research pipeline â literature review, experimentation, and paper writing â while being the only system to achieve zero hallucinated references across a 75-paper audit.</summary>
+    <category term="agents"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis Releases 6 Industry Indices That Reshape How Developers Pick AI Models</title>
+    <link href="https://artificialanalysis.ai/models/capabilities/finance-and-accounting"/>
+    <id>c274ef18d4f07ad493970f9b5485f593</id>
+    <published>2026-07-07T01:09:25+00:00</published>
+    <updated>2026-07-07T01:09:25+00:00</updated>
+    <summary type="text">Artificial Analysis launches six domain-specific AI benchmarks grounded in real job tasks, revealing sharp tradeoffs between frontier performance and cost.</summary>
+    <category term="benchmarks"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Google's Gemini Spark Now Watches the Web and Acts Without Being Asked</title>
+    <link href="https://gemini.google/overview/agent/spark/"/>
+    <id>da5431c13871a290da8043e5db51ddaf</id>
+    <published>2026-07-06T23:52:57+00:00</published>
+    <updated>2026-07-06T23:52:57+00:00</updated>
+    <summary type="text">Gemini Spark gains real-time event tracking, macOS support, MCP integration, and new third-party app connections in a major update to Google's 24/7 AI agent</summary>
+    <category term="llms"/>
+    <category term="api"/>
+  </entry>
   <entry>
     <title>OpenAI's gpt-realtime-2.1-mini Brings Reasoning and Tool Use at 6x Lower Cost</title>
     <link href="https://developers.openai.com/api/docs/guides/realtime"/>
@@ -17,105 +127,5 @@
     <summary type="text">GPT-Realtime-2.1-mini brings reasoning and tool use to the budget voice tier, plus a 25%+ p95 latency cut across all Realtime voice models</summary>
     <category term="api"/>
     <category term="audio"/>
-  </entry>
-  <entry>
-    <title>Prime Intellect's prime-rl Ships Six RL Algorithms With Per-Environment Control</title>
-    <link href="https://www.primeintellect.ai/blog/algorithms-layer"/>
-    <id>91eae981cceb2a022e8e24e1604dbd48</id>
-    <published>2026-07-06T19:21:24+00:00</published>
-    <updated>2026-07-06T19:21:24+00:00</updated>
-    <summary type="text">prime-rl's new algorithms layer ships six built-in RL methods and lets you mix training signals per environment in a single run</summary>
-    <category term="post_training"/>
-    <category term="training_infra"/>
-  </entry>
-  <entry>
-    <title>Zapier's AutomationBench-AA Shows Best AI Agents Fail 51% of Real Business Tasks</title>
-    <link href="https://artificialanalysis.ai/evaluations/automationbench-aa"/>
-    <id>d4076918c0f2f71f18c21bd1a41431a4</id>
-    <published>2026-07-06T18:12:23+00:00</published>
-    <updated>2026-07-06T18:12:23+00:00</updated>
-    <summary type="text">Artificial Analysis and Zapier launch AutomationBench-AA, revealing that even the best AI agents complete fewer than half of real business workflow tasks without breaking rules</summary>
-    <category term="agents"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Google's Gemini Now Manages Your Small Business Profile and Reviews</title>
-    <link href="https://gemini.google.com/"/>
-    <id>6398f24f11499b2ad9d1a15cb3bd53d0</id>
-    <published>2026-07-06T17:42:22+00:00</published>
-    <updated>2026-07-06T17:42:22+00:00</updated>
-    <summary type="text">Google connects Gemini directly to Google Business Profile, giving small business owners an AI assistant that remembers their brand, analyzes their performance data, and can update their listing in real time.</summary>
-    <category term="llms"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Anthropic's J-Lens Reads Claude's Silent Thoughts Before It Speaks</title>
-    <link href="https://www-cdn.anthropic.com/files/4zrzovbb/website/cc4be2488d65e54a6ed06492f8968398ddc18ebe.pdf"/>
-    <id>d67a4f93130e1001aeba16498958ac16</id>
-    <published>2026-07-06T17:34:58+00:00</published>
-    <updated>2026-07-06T17:34:58+00:00</updated>
-    <summary type="text">Anthropic discovers a hidden mental workspace inside Claude that reveals silent reasoning, exposes deceptive intent, and can be shaped to improve model honesty</summary>
-    <category term="llms"/>
-    <category term="security"/>
-  </entry>
-  <entry>
-    <title>Meta and Google DeepMind Prove LLMs Memorize Exactly 3.6 Bits per Parameter</title>
-    <link href="https://openreview.net/pdf?id=bA6BgSbaUi&amp;linkId=100000429549678"/>
-    <id>9be7f3a24c4c9d1eec668911e183f4a5</id>
-    <published>2026-07-06T16:05:16+00:00</published>
-    <updated>2026-07-06T16:05:16+00:00</updated>
-    <summary type="text">Researchers from Meta, Google DeepMind, Cornell, and NVIDIA put a hard number on LLM memorization: ~3.6 bits per parameter, with a new framework that cleanly separates memorization from generalization.</summary>
-    <category term="llms"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Apptronik Builds a 90,000-Square-Foot Data Factory to Train Apollo 2 Humanoids</title>
-    <link href="https://apptronik.com/news-collection/welcome-to-robot-park-where-apptroniks-apollo-goes-to-work?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
-    <id>684deb29103422d59e0c719eb7696c5b</id>
-    <published>2026-07-06T15:43:26+00:00</published>
-    <updated>2026-07-06T15:43:26+00:00</updated>
-    <summary type="text">Apptronik's 90,000 sq ft Robot Park and Apollo 2 form a live data pipeline feeding Google DeepMind's Gemini Robotics foundation model, with Apollo 3 in the crosshairs.</summary>
-    <category term="robotics"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Tencent's Hy3 Beats Flagship AI Models Without a Trillion Parameters</title>
-    <link href="https://openrouter.ai/tencent/hy3:free"/>
-    <id>d0b0efe576ff8a7c2e43881d230470aa</id>
-    <published>2026-07-06T15:06:57+00:00</published>
-    <updated>2026-07-06T15:06:57+00:00</updated>
-    <summary type="text">Tencent's Hy3 is a 295B MoE open-weight model that rivals trillion-parameter flagships at a fraction of the compute cost, now free on OpenRouter for two weeks.</summary>
-    <category term="llms"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Sarvam AI Drops an MCP Server Letting Coding Agents Speak 10 Indian Languages</title>
-    <link href="https://dashboard.sarvam.ai/mcp"/>
-    <id>c81c08a6e3225d23922619534885d5ba</id>
-    <published>2026-07-06T13:00:19+00:00</published>
-    <updated>2026-07-06T13:00:19+00:00</updated>
-    <summary type="text">Sarvam's new MCP server lets coding agents discover and use its Indian-language AI models with a single config line</summary>
-    <category term="agents"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Runway Bets $30M on Paris to Win the World Models Race</title>
-    <link href="https://runwayml.com/news/announcing-our-paris-office"/>
-    <id>e39d459a964861d7909d9e8af98ef79e</id>
-    <published>2026-07-06T11:58:58+00:00</published>
-    <updated>2026-07-06T11:58:58+00:00</updated>
-    <summary type="text">Runway opens a Paris research hub with a $30M initial investment, doubling down on world models and physical AI in Europe's hottest AI city.</summary>
-    <category term="video"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Sakana AI's Namazu Tackles What Google Translate Gets Wrong About Japanese Tone</title>
-    <link href="$1d"/>
-    <id>376dcda20a0f08ca081440804be57403</id>
-    <published>2026-07-06T00:38:06+00:00</published>
-    <updated>2026-07-06T00:38:06+00:00</updated>
-    <summary type="text">Sakana AI launches a free Japanese translation tool powered by Namazu, its Japan-adapted model, with translate, proofread, and Q&amp;A modes</summary>
-    <category term="llms"/>
-    <category term="api"/>
   </entry>
 </feed>

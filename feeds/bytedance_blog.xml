@@ -4,10 +4,19 @@
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <link href="https://seed.bytedance.com/en/blog"/>
   <id>https://seed.bytedance.com/en/blog</id>
-  <updated>2026-06-23T00:02:42+00:00</updated>
+  <updated>2026-07-06T16:00:00+00:00</updated>
   <author>
     <name>ByteDance Seed</name>
   </author>
+  <entry>
+    <title>EdgeBench: Measuring Real-World Environment Learning and Discovering a New Scaling Law</title>
+    <link href="https://seed.bytedance.com/en/blog/edgebench-measuring-real-world-environment-learning-and-discovering-a-new-scaling-law"/>
+    <id>988ea612ead5994084c50e78f7a7c48a</id>
+    <published>2026-07-06T16:00:00+00:00</published>
+    <updated>2026-07-06T16:00:00+00:00</updated>
+    <summary type="text">Agents exhibit a clear log-sigmoid pattern in environment learning.</summary>
+    <category term="Research"/>
+  </entry>
   <entry>
     <title>Seed2.1 Officially Released: Advancing AI Productivity</title>
     <link href="https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity"/>
@@ -57,24 +66,6 @@
     <id>6f5972445b343f7473cd6887b8ad4337</id>
     <published>2026-02-15T16:00:00+00:00</published>
     <updated>2026-02-15T16:00:00+00:00</updated>
-    <category term="Models"/>
-  </entry>
-  <entry>
-    <title>Seed 2.0 Official Launch</title>
-    <link href="https://seed.bytedance.com/en/blog/seed-2-0-official-launch"/>
-    <id>250801bd62e06ea28509d167090e2e0c</id>
-    <published>2026-02-13T16:00:00+00:00</published>
-    <updated>2026-02-13T16:00:00+00:00</updated>
-    <summary type="text">A breakthrough in real-world complex task execution.</summary>
-    <category term="Models"/>
-  </entry>
-  <entry>
-    <title>Deeper Thinking, More Accurate Generation | Introducing Seedream 5.0 Lite</title>
-    <link href="https://seed.bytedance.com/en/blog/deeper-thinking-more-accurate-generation-introducing-seedream-5-0-lite"/>
-    <id>74fe27c1aa66da61d4913c7e54bdb104</id>
-    <published>2026-02-12T16:00:00+00:00</published>
-    <updated>2026-02-12T16:00:00+00:00</updated>
-    <summary type="text">Significant improvements in understanding, reasoning, and generation.</summary>
     <category term="Models"/>
   </entry>
 </feed>

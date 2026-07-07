@@ -4,10 +4,19 @@
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <link href="https://seed.bytedance.com/en/public_papers"/>
   <id>https://seed.bytedance.com/en/public_papers</id>
-  <updated>2026-06-03T16:00:00+00:00</updated>
+  <updated>2026-07-05T16:00:00+00:00</updated>
   <author>
     <name>ByteDance Seed</name>
   </author>
+  <entry>
+    <title>EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments</title>
+    <link href="https://seed.bytedance.com/en/public_papers/edgebench-unveiling-scaling-laws-of-learning-from-real-world-environments"/>
+    <id>888eb33aa0493a65deb10e74af5d0a7b</id>
+    <published>2026-07-05T16:00:00+00:00</published>
+    <updated>2026-07-05T16:00:00+00:00</updated>
+    <summary type="text">Pretraining scaling laws reveal that model capability improves predictably with data and compute. But learning from real world environments after deployment remains far less understood. Analyzing roughly 38,000 hours of agent interaction with the environment across 134 real world tasks, we find, to the best of our knowledge, the first evidence that overall performance during environment learning follows a log-sigmoid scaling law with remarkably high precision, reaching R^2 = 0.998. Across model </summary>
+    <category term="Computation and Language"/>
+  </entry>
   <entry>
     <title>Towards stable and accurate electron dynamics via neural network based time-dependent variational Monte Carlo</title>
     <link href="https://seed.bytedance.com/en/public_papers/towards-stable-and-accurate-electron-dynamics-via-neural-network-based-time-dependent-variational-monte-carlo"/>
@@ -178,14 +187,5 @@
     <updated>2026-04-29T16:00:00+00:00</updated>
     <summary type="text">While Reinforcement Learning from Human Feedback (RLHF) has become a pivotal paradigm for text-to-image generation, its application to image editing remains largely unexplored. A key bottleneck is the lack of a robust general reward model for all editing tasks. Existing edit reward models usually give overall scores without detailed checks, ignoring different instruction requirements and causing biased rewards. To address this, we argue that the key is to move from a simple scorer to a reasoning</summary>
     <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production</title>
-    <link href="https://seed.bytedance.com/en/public_papers/megascale-omni-a-hyper-scale-workload-resilient-system-for-multimodal-llm-training-in-production"/>
-    <id>2acfa69b0241114eb2a874b2e26c3b1d</id>
-    <published>2026-04-25T16:00:00+00:00</published>
-    <updated>2026-04-25T16:00:00+00:00</updated>
-    <summary type="text">As the foundational component of versatile AI applications, training an multimodal large language model (MLLM) relies on multimodal datasets with dynamic modality mixture proportions and sample length distributions. However, existing MLLM systems remain inefficient under dynamic workloads, due to statically coupled decisions of resource allocation and model parallelization between encoders and the LLM backbone. This paper presents MegaScale-Omni, an industrial-grade MLLM training system tailored</summary>
-    <category term="Distributed, Parallel, and Cluster Computing "/>
   </entry>
 </feed>

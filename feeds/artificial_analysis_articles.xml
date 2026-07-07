@@ -4,10 +4,17 @@
   <icon>https://artificialanalysis.ai/favicon.ico</icon>
   <link href="https://artificialanalysis.ai/articles"/>
   <id>https://artificialanalysis.ai/articles</id>
-  <updated>2026-06-30T00:00:00+00:00</updated>
+  <updated>2026-07-06T00:00:00+00:00</updated>
   <author>
     <name>Artificial Analysis</name>
   </author>
+  <entry>
+    <title>Announcing AutomationBench-AA</title>
+    <link href="https://artificialanalysis.ai/articles/announcing-zapier-automationbench-aa"/>
+    <id>feabe45b264242ade904aa9e448d6f1b</id>
+    <published>2026-07-06T00:00:00+00:00</published>
+    <updated>2026-07-06T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Claude Sonnet 5: strong agentic performance at a higher cost per task</title>
     <link href="https://artificialanalysis.ai/articles/claude-sonnet-5-agentic-cost"/>
@@ -84,12 +91,5 @@
     <id>f033e153e67067a0bd59e1d71fbca6e2</id>
     <published>2026-06-09T00:00:00+00:00</published>
     <updated>2026-06-09T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>MiniMax-M3: Leading open weights model, once the weights are released</title>
-    <link href="https://artificialanalysis.ai/articles/minimax-m3"/>
-    <id>42307d8fca81cc04c5e9e38bfd8e4cef</id>
-    <published>2026-06-08T00:00:00+00:00</published>
-    <updated>2026-06-08T00:00:00+00:00</updated>
   </entry>
 </feed>

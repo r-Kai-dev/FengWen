@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-07-06T00:00:00+00:00</updated>
+  <updated>2026-07-07T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>The Deepfake Detection Guide (Deepfake 101): Threat Vectors and Four Defense Layers</title>
+    <link href="https://www.resemble.ai/resources/the-deepfake-detection-guide-deepfake-101-threat-vectors-and-four-defense-layers"/>
+    <id>fbf48b71d2ac6366660b879af800ba17</id>
+    <published>2026-07-07T00:00:00+00:00</published>
+    <updated>2026-07-07T00:00:00+00:00</updated>
+    <summary type="text">Deepfakes now cost businesses millions. Learn what they are, where they strike, why your stack misses them, and the four layers of defense every company needs. This practical guide to deepfakes for security and fraud teams breaks down core concepts, how AI deepfakes are built and how to detect deepfakes with and without automation.</summary>
+    <category term="Guide"/>
+  </entry>
   <entry>
     <title>Chatterbox Nano and Flash: Speed at the edge, throughput at scale</title>
     <link href="https://www.resemble.ai/resources/chatterbox-nano-and-flash-speed-at-the-edge-throughput-at-scale"/>
@@ -106,14 +115,5 @@
     <updated>2026-06-05T00:00:00+00:00</updated>
     <summary type="text">‍The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>How to integrate TrueFoundry with Resemble AI</title>
-    <link href="https://www.resemble.ai/resources/how-to-integrate-truefoundry-with-resemble-ai"/>
-    <id>dc7dd216a5f3f96dee9402504cbe7e15</id>
-    <published>2026-06-04T00:00:00+00:00</published>
-    <updated>2026-06-04T00:00:00+00:00</updated>
-    <summary type="text">This post explains how the TrueFoundry AI Gateway exposes TTS providers and how Resemble's native API surface is preserved through the pass-through layer and how failover across multiple TTS providers works through Virtual Models.</summary>
-    <category term="Blog"/>
   </entry>
 </feed>
