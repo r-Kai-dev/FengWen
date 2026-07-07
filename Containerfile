@@ -18,7 +18,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     ca-certificates \
     fd-find \
     ripgrep \
-    chromium \
     && rm -rf /var/lib/apt/lists/*
 
 # Install the agent globally using npm
@@ -34,6 +33,11 @@ RUN mkdir -p /tmp
 COPY pyproject.toml /tmp/pyproject.toml
 RUN uv pip install --system --no-cache-dir -r /tmp/pyproject.toml
 RUN rm /tmp/pyproject.toml
+RUN python -m playwright install-deps chromium && \
+    python -m playwright install chromium && \
+    mkdir -p /home/node/.cache && \
+    cp -r /root/.cache/ms-playwright /home/node/.cache/ms-playwright && \
+    chown -R node:node /home/node/.cache/ms-playwright
 
 # Switch to the non-root user
 USER node
