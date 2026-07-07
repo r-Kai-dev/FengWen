@@ -2,29 +2,11 @@
 # Pi Agent - Launch a containerized Pi coding agent
 # Usage: ./run-pi.sh
 
-# 1. Paths
-# Use realpath to handle relative paths and symlinks correctly
+# Paths
 PROJ_PATH=$(realpath "$(pwd)")
 
-# Load PI_CONFIG_PATH (and any other vars) from .env next to this script
-ENV_FILE="$PROJ_PATH/.env"
-
-if [ -f "$ENV_FILE" ]; then
-    set -a
-    source "$ENV_FILE"
-    set +a
-else
-    echo "Error: .env file not found at $ENV_FILE" >&2
-    exit 1
-fi
-
-if [ -z "$PI_CONFIG_PATH" ]; then
-    echo "Error: PI_CONFIG_PATH is not set in $ENV_FILE" >&2
-    exit 1
-fi
-
-# Ensure the config path exists on the host
-mkdir -p "$PI_CONFIG_PATH"
+# Resolve the config symlink at $HOME
+PI_CONFIG_PATH=$(dirname "$(readlink -f "$HOME/.pi/agent")")
 
 echo "--- Pi Agent Persistent Session ---"
 echo "Project: $PROJ_PATH"
@@ -32,7 +14,6 @@ echo "Config:  $PI_CONFIG_PATH"
 echo "-----------------------------------"
 
 CONTAINER_NAME="pi-agent-fengwen"
-
 podman run -it --rm \
     --name "$CONTAINER_NAME" \
     --add-host=host.containers.internal:host-gateway \
