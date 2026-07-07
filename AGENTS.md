@@ -107,6 +107,9 @@ For sites with an official RSS/Atom feed that needs targeted fixes (broken URLs,
 missing fields, bad formatting). Sync `main()`, fetches the upstream XML via
 `fetch_page()`, applies fixes, writes corrected output.
 
+Also check whether the upstream feed is missing a favicon — if a `favicon` is
+set in `config/feeds.json`, inject an `<icon>` element into the Atom output.
+
 Reference: `enhance_krea.py`
 
 ### `crawl_*.py` — Browser-based crawling

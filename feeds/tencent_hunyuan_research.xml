@@ -4,42 +4,49 @@
   <icon>https://hunyuan-blog-web-prod-1258344703.cos.ap-guangzhou.myqcloud.com/favicon.png</icon>
   <link href="https://hunyuan.tencent.com/research"/>
   <id>https://hunyuan.tencent.com/research</id>
-  <updated>2026-07-06T00:00:00+00:00</updated>
+  <updated>2026-07-07T16:00:00+00:00</updated>
   <author>
     <name>Tencent Hunyuan</name>
   </author>
   <entry>
-    <title>Hy3 正式发布</title>
-    <link href="https://hunyuan.tencent.com/research"/>
-    <id>9e8b8d1fcbbd587cb41de27c6a0dd279</id>
-    <published>2026-07-06T00:00:00+00:00</published>
-    <updated>2026-07-06T00:00:00+00:00</updated>
+    <title>Introducing Hy3</title>
+    <link href="https://hunyuan.tencent.com/research/hy3"/>
+    <id>88ba83daaf21f38da216d51ad5a65983</id>
+    <published>2026-07-07T16:00:00+00:00</published>
+    <updated>2026-07-07T16:00:00+00:00</updated>
     <category term="Hy LLM"/>
-  </entry>
-  <entry>
-    <title>Hy-MT2：面向实际应用场景的高性能多语言翻译模型</title>
-    <link href="https://hunyuan.tencent.com/research"/>
-    <id>3686d314db04eabab40ece1aac363fb7</id>
-    <published>2026-05-21T00:00:00+00:00</published>
-    <updated>2026-05-21T00:00:00+00:00</updated>
-    <summary type="text">Hy-MT2 是支持 33 种语言互译的多语言模型，其中7B 和 30B-A3B模型在各类翻译任务上达到了开源模型最佳效果，超越了几十倍参数量的模型。轻量级的 1.8B 模型也超越了微软和豆包等主流商业 API，且得益于 AngelSlim 1.25-bit 极端量化，仅需 440MB 存储空间，可以轻松部署在苹果、高通、联发科等手机芯片上支持本地推理，相比Hy-MT1.5推理速度提升 1.5 倍。基于Hy-MT2模型的“腾讯Hy翻译”小程序已经上线，IOS和安卓APP即将上线（支持本地推理）。</summary>
-    <category term="pokolv  moonzheng  jasonzli"/>
   </entry>
   <entry>
     <title>Real life is where context gets hard</title>
-    <link href="https://hunyuan.tencent.com/research"/>
-    <id>b84fdbf8816e30ac46a416ba87f7fb4c</id>
-    <published>2026-04-30T00:00:00+00:00</published>
-    <updated>2026-04-30T00:00:00+00:00</updated>
-    <summary type="text">此前，我们发布了 CL-bench，用来测试 AI 能否从 context 中掌握复杂的新知识，并将其有效运用。它关注的是专业场景中相对清晰、经过整理的 context。但现实生活中的 context 并不是一本提前梳理好的“说明书”。如果要成为真正好用的日常助理，AI 不能只停留于理解和运用新知识；它还必须能看懂复杂的人际关系，处理混乱、碎片化、不断变化的信息，并从这些线索中读懂我们真实的生活。</summary>
+    <link href="https://hunyuan.tencent.com/research/100039"/>
+    <id>ecc7d798389ec84432cdd0535851d1f9</id>
+    <published>2026-04-30T07:00:00+00:00</published>
+    <updated>2026-04-30T07:00:00+00:00</updated>
+    <summary type="text">Previously, we built CL-Bench to test whether AI could learn complex new knowledge, such as rules, and use it effectively. But real life doesn't come with a rulebook. To be a helpful everyday assistant, an AI must do more than just understand complex rules; it should also understand complex human relationships and piece together clues from messy, scattered context.</summary>
     <category term="Shihan Dou and Pluto Zhou"/>
   </entry>
   <entry>
-    <title>Hy3 preview : 混元大模型重建的第一步</title>
-    <link href="https://hunyuan.tencent.com/research"/>
-    <id>586e6ffff32bddf368cea15ccc9c1dc6</id>
-    <published>2026-04-22T00:00:00+00:00</published>
-    <updated>2026-04-22T00:00:00+00:00</updated>
+    <title>Hy3 preview: The First Step in Rebuilding the Hy model</title>
+    <link href="https://hunyuan.tencent.com/research/hy3-preview"/>
+    <id>337d9dc6d74db5a75132da7687e1f61a</id>
+    <published>2026-04-22T16:00:00+00:00</published>
+    <updated>2026-04-22T16:00:00+00:00</updated>
     <category term="Hy LLM"/>
+  </entry>
+  <entry>
+    <title>Stabilizing RLVR via Token-level Gradient Diagnosis and Layerwise Clipping</title>
+    <link href="https://hunyuan.tencent.com/research/100015"/>
+    <id>ce069468ec7e5fe7cbcfafd459521d16</id>
+    <published>2026-02-13T08:36:03+00:00</published>
+    <updated>2026-02-13T08:36:03+00:00</updated>
+    <category term="Guanhua Huang;Tingqiang Xu;Jinbo Wang"/>
+  </entry>
+  <entry>
+    <title>Learning from context is harder than we thought</title>
+    <link href="https://hunyuan.tencent.com/research/100025"/>
+    <id>0d425a679fd9d8b1216ea6bdfa54d86f</id>
+    <published>2026-02-03T03:54:58+00:00</published>
+    <updated>2026-02-03T03:54:58+00:00</updated>
+    <category term="Shihan Dou and Pluto Zhou"/>
   </entry>
 </feed>

@@ -663,7 +663,7 @@
     {
       "org_key": "hunyuan",
       "name": "Tencent Hunyuan",
-      "strategy": "crawl",
+      "strategy": "request",
       "base_url": "https://hunyuan.tencent.com",
       "favicon": "https://hunyuan-blog-web-prod-1258344703.cos.ap-guangzhou.myqcloud.com/favicon.png",
       "category": "Labs",
@@ -895,7 +895,7 @@
       "name": "Krea",
       "strategy": "enhance",
       "base_url": "https://www.krea.ai",
-      "favicon": "https://www.krea.ai/favicon.ico",
+      "favicon": "https://www.krea.ai/favicon/favicon-32.png",
       "category": "Labs",
       "pages": [
         {
