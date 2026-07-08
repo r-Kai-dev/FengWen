@@ -4,10 +4,26 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-07-06T00:00:00+00:00</updated>
+  <updated>2026-07-08T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Accelerating SGLang HiCache with Netpreme X-Memâ¢ MPU</title>
+    <link href="https://lmsys.org/blog/2026-06-27-netpreme-xmem"/>
+    <id>43b6fd7814c2bfa61dcb8d97ccb86627</id>
+    <published>2026-07-08T00:00:00+00:00</published>
+    <updated>2026-07-08T00:00:00+00:00</updated>
+    <summary type="text">Netpreme X-Memâ¢ Memory Processing Unit (MPU) makes SGLang HiCache faster and more scalable by augmenting the slower Host DRAM offload tier with a purpose-built high-bandwidth KV memory tier.
+
+
+
+
+
+- Pr...</summary>
+    <category term="sglang"/>
+    <category term="technical"/>
+  </entry>
   <entry>
     <title>DSpark in SGLang: Speculative Decoding with Confidence-Driven, Variable-Length Verification</title>
     <link href="https://lmsys.org/blog/2026-07-06-dspark-sglang"/>

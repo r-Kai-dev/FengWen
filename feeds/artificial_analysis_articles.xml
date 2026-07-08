@@ -4,10 +4,17 @@
   <icon>https://artificialanalysis.ai/favicon.ico</icon>
   <link href="https://artificialanalysis.ai/articles"/>
   <id>https://artificialanalysis.ai/articles</id>
-  <updated>2026-07-06T00:00:00+00:00</updated>
+  <updated>2026-07-07T00:00:00+00:00</updated>
   <author>
     <name>Artificial Analysis</name>
   </author>
+  <entry>
+    <title>Announcing Harvey LAB-AA: evaluating AI agents on real-world legal work</title>
+    <link href="https://artificialanalysis.ai/articles/harvey-lab-aa"/>
+    <id>3bed17d2aea873befac9736b494a3289</id>
+    <published>2026-07-07T00:00:00+00:00</published>
+    <updated>2026-07-07T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Announcing AutomationBench-AA</title>
     <link href="https://artificialanalysis.ai/articles/announcing-zapier-automationbench-aa"/>
@@ -82,13 +89,6 @@
     <title>Claude Fable 5: the first public Mythos-class model</title>
     <link href="https://artificialanalysis.ai/articles/claude-fable-5-mythos"/>
     <id>f306140d815978f84b1b56f65be3ca5a</id>
-    <published>2026-06-09T00:00:00+00:00</published>
-    <updated>2026-06-09T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>North Mini Code: Cohere's small coding-focused MoE model</title>
-    <link href="https://artificialanalysis.ai/articles/north-mini-code-cohere-s-small-coding-focused-moe-model"/>
-    <id>f033e153e67067a0bd59e1d71fbca6e2</id>
     <published>2026-06-09T00:00:00+00:00</published>
     <updated>2026-06-09T00:00:00+00:00</updated>
   </entry>

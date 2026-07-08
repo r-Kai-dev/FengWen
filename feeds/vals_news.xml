@@ -4,7 +4,7 @@
   <icon>https://codeberg.org/r-Kai/FengWen/raw/branch/main/assets/vals_favicon.png</icon>
   <link href="https://www.vals.ai/news"/>
   <id>https://www.vals.ai/news</id>
-  <updated>2026-07-07T21:01:31.039035+00:00</updated>
+  <updated>2026-07-08T21:01:37.002961+00:00</updated>
   <author>
     <name>Vals AI</name>
   </author>
@@ -12,9 +12,25 @@
     <title>Vals Public Sector Memo</title>
     <link href="https://www.vals.ai/blogs/vals-public-sector-memo"/>
     <id>1be8654429483836f97b259049b9a2ea</id>
-    <published>2026-07-07T21:01:31.039035+00:00</published>
-    <updated>2026-07-07T21:01:31.039035+00:00</updated>
+    <published>2026-07-08T21:01:37.002961+00:00</published>
+    <updated>2026-07-08T21:01:37.002961+00:00</updated>
     <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>xAI's Grok 4.5 evaluated across our benchmark suite</title>
+    <link href="https://www.vals.ai/models/grok_grok-4.5"/>
+    <id>a4bc18cce0e77612796c857f7541449d</id>
+    <published>2026-07-08T00:00:00+00:00</published>
+    <updated>2026-07-08T00:00:00+00:00</updated>
+    <category term="Model"/>
+  </entry>
+  <entry>
+    <title>Vals AI Launches Excel Modeling Benchmark For Finance Agents</title>
+    <link href="https://letsdatascience.com/news/vals-ai-launches-excel-modeling-benchmark-for-finance-agents-6a2d5a85"/>
+    <id>6b368eb402843844e02289033658ab25</id>
+    <published>2026-07-03T00:00:00+00:00</published>
+    <updated>2026-07-03T00:00:00+00:00</updated>
+    <category term="Media"/>
   </entry>
   <entry>
     <title>Excel Modeling Benchmark Released</title>
@@ -94,22 +110,6 @@
     <id>0d4f08c3831d6490ede594c2b533c79a</id>
     <published>2026-06-12T00:00:00+00:00</published>
     <updated>2026-06-12T00:00:00+00:00</updated>
-    <category term="Media"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Fable 5 evaluated across our benchmark suite</title>
-    <link href="https://www.vals.ai/models/anthropic_claude-fable-5"/>
-    <id>851e9c77c554df5cb100915a49117ad1</id>
-    <published>2026-06-09T00:00:00+00:00</published>
-    <updated>2026-06-09T00:00:00+00:00</updated>
-    <category term="Model"/>
-  </entry>
-  <entry>
-    <title>Anthropic deepens push into Wall Street with new AI agents, full Microsoft 365 integration, Moody's data partnership</title>
-    <link href="https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/"/>
-    <id>1666efe1209f218be806f3c511d01674</id>
-    <published>2026-05-05T00:00:00+00:00</published>
-    <updated>2026-05-05T00:00:00+00:00</updated>
     <category term="Media"/>
   </entry>
 </feed>

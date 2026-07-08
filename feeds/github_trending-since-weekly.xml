@@ -4,258 +4,247 @@
   <icon>https://github.com/favicon.ico</icon>
   <link href="https://github.com/trending?since=weekly"/>
   <id>https://github.com/trending?since=weekly</id>
-  <updated>2026-07-07T21:01:33.537595+00:00</updated>
+  <updated>2026-07-08T21:01:39.350974+00:00</updated>
   <entry>
-    <title>DeusData / codebase-memory-mcp</title>
-    <link href="https://github.com/DeusData/codebase-memory-mcp"/>
-    <id>392dea10faf9f41c7127aa1ccef3e0ce</id>
-    <published>2026-07-07T21:01:33.537595+00:00</published>
-    <updated>2026-07-07T21:01:33.537595+00:00</updated>
-    <summary type="text">High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</summary>
-    <content type="html">&lt;p&gt;High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;27.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;6.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="C"/>
+    <title>browser-use / video-use</title>
+    <link href="https://github.com/browser-use/video-use"/>
+    <id>8482b480e2aa1ec390150f6e14676adf</id>
+    <published>2026-07-08T21:01:39.350974+00:00</published>
+    <updated>2026-07-08T21:01:39.350974+00:00</updated>
+    <summary type="text">Edit videos with coding agents</summary>
+    <content type="html">&lt;p&gt;Edit videos with coding agents&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;16.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;3.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>alirezarezvani / claude-skills</title>
+    <link href="https://github.com/alirezarezvani/claude-skills"/>
+    <id>e76db9172cfdffa9fba76ba1320770f4</id>
+    <published>2026-07-08T21:01:39.350612+00:00</published>
+    <updated>2026-07-08T21:01:39.350612+00:00</updated>
+    <summary type="text">345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.</summary>
+    <content type="html">&lt;p&gt;345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;21.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
   </entry>
   <entry>
     <title>ChromeDevTools / chrome-devtools-mcp</title>
     <link href="https://github.com/ChromeDevTools/chrome-devtools-mcp"/>
     <id>4dda401a226dd799cc596fb428a1e884</id>
-    <published>2026-07-07T21:01:33.536688+00:00</published>
-    <updated>2026-07-07T21:01:33.536688+00:00</updated>
+    <published>2026-07-08T21:01:39.350131+00:00</published>
+    <updated>2026-07-08T21:01:39.350131+00:00</updated>
     <summary type="text">Chrome DevTools for coding agents</summary>
     <content type="html">&lt;p&gt;Chrome DevTools for coding agents&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;46.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;46.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>asgeirtj / system_prompts_leaks</title>
-    <link href="https://github.com/asgeirtj/system_prompts_leaks"/>
-    <id>e1ace7016c8132e98ca76280a42a5030</id>
-    <published>2026-07-07T21:01:33.535786+00:00</published>
-    <updated>2026-07-07T21:01:33.535786+00:00</updated>
-    <summary type="text">Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.</summary>
-    <content type="html">&lt;p&gt;Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;52.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;8.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="JavaScript"/>
-  </entry>
-  <entry>
-    <title>Robbyant / lingbot-map</title>
-    <link href="https://github.com/Robbyant/lingbot-map"/>
-    <id>eb44d4554545a8fdc69817c6e44f6a2c</id>
-    <published>2026-07-07T21:01:33.534776+00:00</published>
-    <updated>2026-07-07T21:01:33.534776+00:00</updated>
-    <summary type="text">A feed-forward 3D foundation model for reconstructing scenes from streaming data</summary>
-    <content type="html">&lt;p&gt;A feed-forward 3D foundation model for reconstructing scenes from streaming data&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;10.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
   </entry>
   <entry>
     <title>stablyai / orca</title>
     <link href="https://github.com/stablyai/orca"/>
     <id>d3c2f73110a2e3748e9b02d3333b021b</id>
-    <published>2026-07-07T21:01:33.533922+00:00</published>
-    <updated>2026-07-07T21:01:33.533922+00:00</updated>
+    <published>2026-07-08T21:01:39.349795+00:00</published>
+    <updated>2026-07-08T21:01:39.349795+00:00</updated>
     <summary type="text">Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.</summary>
     <content type="html">&lt;p&gt;Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;13.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;905&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;3.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;14.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;954&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;3.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>JuliusBrussee / caveman</title>
-    <link href="https://github.com/JuliusBrussee/caveman"/>
-    <id>894dc68f7c2f26f65d646d647628a1dd</id>
-    <published>2026-07-07T21:01:33.533029+00:00</published>
-    <updated>2026-07-07T21:01:33.533029+00:00</updated>
-    <summary type="text">🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman</summary>
-    <content type="html">&lt;p&gt;🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;86.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;7.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="JavaScript"/>
-  </entry>
-  <entry>
-    <title>dotnet / skills</title>
-    <link href="https://github.com/dotnet/skills"/>
-    <id>528515f636a06378a5b1862a496949c4</id>
-    <published>2026-07-07T21:01:33.532068+00:00</published>
-    <updated>2026-07-07T21:01:33.532068+00:00</updated>
-    <summary type="text">Repository for skills to assist AI coding agents with .NET and C#</summary>
-    <content type="html">&lt;p&gt;Repository for skills to assist AI coding agents with .NET and C#&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;4.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;322&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;627&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C#&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="C#"/>
-  </entry>
-  <entry>
-    <title>browser-use / video-use</title>
-    <link href="https://github.com/browser-use/video-use"/>
-    <id>8482b480e2aa1ec390150f6e14676adf</id>
-    <published>2026-07-07T21:01:33.531275+00:00</published>
-    <updated>2026-07-07T21:01:33.531275+00:00</updated>
-    <summary type="text">Edit videos with coding agents</summary>
-    <content type="html">&lt;p&gt;Edit videos with coding agents&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;15.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;3.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>allenai / olmocr</title>
-    <link href="https://github.com/allenai/olmocr"/>
-    <id>cbb214568ebf64504a58168be1eb5c44</id>
-    <published>2026-07-07T21:01:33.530424+00:00</published>
-    <updated>2026-07-07T21:01:33.530424+00:00</updated>
-    <summary type="text">Toolkit for linearizing PDFs for LLM datasets/training</summary>
-    <content type="html">&lt;p&gt;Toolkit for linearizing PDFs for LLM datasets/training&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;18.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>huggingface / speech-to-speech</title>
-    <link href="https://github.com/huggingface/speech-to-speech"/>
-    <id>355425db9eaccbc7b1343ca6d99b62e4</id>
-    <published>2026-07-07T21:01:33.529613+00:00</published>
-    <updated>2026-07-07T21:01:33.529613+00:00</updated>
-    <summary type="text">Build local voice agents with open-source models</summary>
-    <content type="html">&lt;p&gt;Build local voice agents with open-source models&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;5.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;677&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;533&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>immich-app / immich</title>
-    <link href="https://github.com/immich-app/immich"/>
-    <id>cf71e5524feb98cc3b98659507ed89ca</id>
-    <published>2026-07-07T21:01:33.528865+00:00</published>
-    <updated>2026-07-07T21:01:33.528865+00:00</updated>
-    <summary type="text">High performance self-hosted photo and video management solution.</summary>
-    <content type="html">&lt;p&gt;High performance self-hosted photo and video management solution.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;106.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;6.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>msitarzewski / agency-agents</title>
-    <link href="https://github.com/msitarzewski/agency-agents"/>
-    <id>79496b68085dd34bc9545b3f228e2a03</id>
-    <published>2026-07-07T21:01:33.528024+00:00</published>
-    <updated>2026-07-07T21:01:33.528024+00:00</updated>
-    <summary type="text">A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</summary>
-    <content type="html">&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;128.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;20.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;9.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Shell"/>
   </entry>
   <entry>
     <title>xbtlin / ai-berkshire</title>
     <link href="https://github.com/xbtlin/ai-berkshire"/>
     <id>32b984ad2f77a2db42fbe7f754ee1270</id>
-    <published>2026-07-07T21:01:33.526915+00:00</published>
-    <updated>2026-07-07T21:01:33.526915+00:00</updated>
+    <published>2026-07-08T21:01:39.349439+00:00</published>
+    <updated>2026-07-08T21:01:39.349439+00:00</updated>
     <summary type="text">AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.</summary>
     <content type="html">&lt;p&gt;AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;11.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;12.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>msitarzewski / agency-agents</title>
+    <link href="https://github.com/msitarzewski/agency-agents"/>
+    <id>79496b68085dd34bc9545b3f228e2a03</id>
+    <published>2026-07-08T21:01:39.349083+00:00</published>
+    <updated>2026-07-08T21:01:39.349083+00:00</updated>
+    <summary type="text">A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</summary>
+    <content type="html">&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;129.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;21.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;8.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Shell"/>
+  </entry>
+  <entry>
+    <title>JuliusBrussee / caveman</title>
+    <link href="https://github.com/JuliusBrussee/caveman"/>
+    <id>894dc68f7c2f26f65d646d647628a1dd</id>
+    <published>2026-07-08T21:01:39.348531+00:00</published>
+    <updated>2026-07-08T21:01:39.348531+00:00</updated>
+    <summary type="text">🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman</summary>
+    <content type="html">&lt;p&gt;🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;86.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;8.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="JavaScript"/>
+  </entry>
+  <entry>
+    <title>altic-dev / FluidVoice</title>
+    <link href="https://github.com/altic-dev/FluidVoice"/>
+    <id>2c2fc0257b9d14e4f5ac2ea1c81e12bd</id>
+    <published>2026-07-08T21:01:39.348102+00:00</published>
+    <updated>2026-07-08T21:01:39.348102+00:00</updated>
+    <summary type="text">Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.</summary>
+    <content type="html">&lt;p&gt;Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;6.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;430&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Swift&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Swift"/>
+  </entry>
+  <entry>
+    <title>immich-app / immich</title>
+    <link href="https://github.com/immich-app/immich"/>
+    <id>cf71e5524feb98cc3b98659507ed89ca</id>
+    <published>2026-07-08T21:01:39.347701+00:00</published>
+    <updated>2026-07-08T21:01:39.347701+00:00</updated>
+    <summary type="text">High performance self-hosted photo and video management solution.</summary>
+    <content type="html">&lt;p&gt;High performance self-hosted photo and video management solution.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;106.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;6.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
+  </entry>
+  <entry>
+    <title>hasaneyldrm / exercises-dataset</title>
+    <link href="https://github.com/hasaneyldrm/exercises-dataset"/>
+    <id>35fbffb179e37a667429a57e1bf84036</id>
+    <published>2026-07-08T21:01:39.347337+00:00</published>
+    <updated>2026-07-08T21:01:39.347337+00:00</updated>
+    <summary type="text">1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.</summary>
+    <content type="html">&lt;p&gt;1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;11.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;HTML&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="HTML"/>
+  </entry>
+  <entry>
+    <title>bradautomates / claude-video</title>
+    <link href="https://github.com/bradautomates/claude-video"/>
+    <id>c0d997c036a07dabcfe66792923137aa</id>
+    <published>2026-07-08T21:01:39.346514+00:00</published>
+    <updated>2026-07-08T21:01:39.346514+00:00</updated>
+    <summary type="text">Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</summary>
+    <content type="html">&lt;p&gt;Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;6.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;713&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>dotnet / skills</title>
+    <link href="https://github.com/dotnet/skills"/>
+    <id>528515f636a06378a5b1862a496949c4</id>
+    <published>2026-07-08T21:01:39.345821+00:00</published>
+    <updated>2026-07-08T21:01:39.345821+00:00</updated>
+    <summary type="text">Repository for skills to assist AI coding agents with .NET and C#</summary>
+    <content type="html">&lt;p&gt;Repository for skills to assist AI coding agents with .NET and C#&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;4.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;328&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;687&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C#&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="C#"/>
+  </entry>
+  <entry>
+    <title>huggingface / speech-to-speech</title>
+    <link href="https://github.com/huggingface/speech-to-speech"/>
+    <id>355425db9eaccbc7b1343ca6d99b62e4</id>
+    <published>2026-07-08T21:01:39.345439+00:00</published>
+    <updated>2026-07-08T21:01:39.345439+00:00</updated>
+    <summary type="text">Build local voice agents with open-source models</summary>
+    <content type="html">&lt;p&gt;Build local voice agents with open-source models&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;5.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;686&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;645&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
     <title>TencentCloud / CubeSandbox</title>
     <link href="https://github.com/TencentCloud/CubeSandbox"/>
     <id>01b84ee1da79d560222753fb5780d496</id>
-    <published>2026-07-07T21:01:33.525998+00:00</published>
-    <updated>2026-07-07T21:01:33.525998+00:00</updated>
+    <published>2026-07-08T21:01:39.345107+00:00</published>
+    <updated>2026-07-08T21:01:39.345107+00:00</updated>
     <summary type="text">Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</summary>
     <content type="html">&lt;p&gt;Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;8.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;708&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;8.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;736&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Rust"/>
   </entry>
   <entry>
-    <title>altic-dev / FluidVoice</title>
-    <link href="https://github.com/altic-dev/FluidVoice"/>
-    <id>2c2fc0257b9d14e4f5ac2ea1c81e12bd</id>
-    <published>2026-07-07T21:01:33.525254+00:00</published>
-    <updated>2026-07-07T21:01:33.525254+00:00</updated>
-    <summary type="text">Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.</summary>
-    <content type="html">&lt;p&gt;Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;6.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;417&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Swift&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Swift"/>
-  </entry>
-  <entry>
-    <title>MadsLorentzen / ai-job-search</title>
-    <link href="https://github.com/MadsLorentzen/ai-job-search"/>
-    <id>1014fedd0bd6fe008e01d2e3e7322df6</id>
-    <published>2026-07-07T21:01:33.524408+00:00</published>
-    <updated>2026-07-07T21:01:33.524408+00:00</updated>
-    <summary type="text">AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.</summary>
-    <content type="html">&lt;p&gt;AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;10.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>openai / codex-plugin-cc</title>
-    <link href="https://github.com/openai/codex-plugin-cc"/>
-    <id>61fe081623cfb32d3c908871b44431c4</id>
-    <published>2026-07-07T21:01:33.523650+00:00</published>
-    <updated>2026-07-07T21:01:33.523650+00:00</updated>
-    <summary type="text">Use Codex from Claude Code to review code or delegate tasks.</summary>
-    <content type="html">&lt;p&gt;Use Codex from Claude Code to review code or delegate tasks.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;26.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>asgeirtj / system_prompts_leaks</title>
+    <link href="https://github.com/asgeirtj/system_prompts_leaks"/>
+    <id>e1ace7016c8132e98ca76280a42a5030</id>
+    <published>2026-07-08T21:01:39.344775+00:00</published>
+    <updated>2026-07-08T21:01:39.344775+00:00</updated>
+    <summary type="text">Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.</summary>
+    <content type="html">&lt;p&gt;Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;54.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;8.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="JavaScript"/>
-  </entry>
-  <entry>
-    <title>alibaba / page-agent</title>
-    <link href="https://github.com/alibaba/page-agent"/>
-    <id>ad986171782c24af858217658b3baf59</id>
-    <published>2026-07-07T21:01:33.523294+00:00</published>
-    <updated>2026-07-07T21:01:33.523294+00:00</updated>
-    <summary type="text">JavaScript in-page GUI agent. Control web interfaces with natural language.</summary>
-    <content type="html">&lt;p&gt;JavaScript in-page GUI agent. Control web interfaces with natural language.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;24.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
   </entry>
   <entry>
     <title>diegosouzapw / OmniRoute</title>
     <link href="https://github.com/diegosouzapw/OmniRoute"/>
     <id>f3e959c6b6ce15e1d29cb1fad543dcde</id>
-    <published>2026-07-07T21:01:33.522927+00:00</published>
-    <updated>2026-07-07T21:01:33.522927+00:00</updated>
+    <published>2026-07-08T21:01:39.344383+00:00</published>
+    <updated>2026-07-08T21:01:39.344383+00:00</updated>
     <summary type="text">Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.</summary>
     <content type="html">&lt;p&gt;Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;13.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;13.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
   <entry>
     <title>ogulcancelik / herdr</title>
     <link href="https://github.com/ogulcancelik/herdr"/>
     <id>aa4b4d38700cc25bbdc35a51a0325498</id>
-    <published>2026-07-07T21:01:33.522475+00:00</published>
-    <updated>2026-07-07T21:01:33.522475+00:00</updated>
+    <published>2026-07-08T21:01:39.343977+00:00</published>
+    <updated>2026-07-08T21:01:39.343977+00:00</updated>
     <summary type="text">agent multiplexer that lives in your terminal.</summary>
     <content type="html">&lt;p&gt;agent multiplexer that lives in your terminal.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;13.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;782&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;14.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;820&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Rust"/>
   </entry>
   <entry>
-    <title>hasaneyldrm / exercises-dataset</title>
-    <link href="https://github.com/hasaneyldrm/exercises-dataset"/>
-    <id>35fbffb179e37a667429a57e1bf84036</id>
-    <published>2026-07-07T21:01:33.521605+00:00</published>
-    <updated>2026-07-07T21:01:33.521605+00:00</updated>
-    <summary type="text">A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.</summary>
-    <content type="html">&lt;p&gt;A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;10.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;HTML&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="HTML"/>
+    <title>alibaba / page-agent</title>
+    <link href="https://github.com/alibaba/page-agent"/>
+    <id>ad986171782c24af858217658b3baf59</id>
+    <published>2026-07-08T21:01:39.343571+00:00</published>
+    <updated>2026-07-08T21:01:39.343571+00:00</updated>
+    <summary type="text">JavaScript in-page GUI agent. Control web interfaces with natural language.</summary>
+    <content type="html">&lt;p&gt;JavaScript in-page GUI agent. Control web interfaces with natural language.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;25.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
   </entry>
   <entry>
-    <title>Zackriya-Solutions / meetily</title>
-    <link href="https://github.com/Zackriya-Solutions/meetily"/>
-    <id>e059e8bc32b72750a212ff02926c51b0</id>
-    <published>2026-07-07T21:01:33.520648+00:00</published>
-    <updated>2026-07-07T21:01:33.520648+00:00</updated>
-    <summary type="text">Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.</summary>
-    <content type="html">&lt;p&gt;Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;20.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
+    <title>openai / codex-plugin-cc</title>
+    <link href="https://github.com/openai/codex-plugin-cc"/>
+    <id>61fe081623cfb32d3c908871b44431c4</id>
+    <published>2026-07-08T21:01:39.343225+00:00</published>
+    <updated>2026-07-08T21:01:39.343225+00:00</updated>
+    <summary type="text">Use Codex from Claude Code to review code or delegate tasks.</summary>
+    <content type="html">&lt;p&gt;Use Codex from Claude Code to review code or delegate tasks.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;26.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="JavaScript"/>
+  </entry>
+  <entry>
+    <title>facebook / astryx</title>
+    <link href="https://github.com/facebook/astryx"/>
+    <id>7257850672e1227ebb0149f9f87d9051</id>
+    <published>2026-07-08T21:01:39.342887+00:00</published>
+    <updated>2026-07-08T21:01:39.342887+00:00</updated>
+    <summary type="text">An open source design system that's fully customizable and agent ready</summary>
+    <content type="html">&lt;p&gt;An open source design system that's fully customizable and agent ready&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;7.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;469&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
   </entry>
   <entry>
     <title>usestrix / strix</title>
     <link href="https://github.com/usestrix/strix"/>
     <id>4f58f29a8c345f1ad220df2a6e77b5b4</id>
-    <published>2026-07-07T21:01:33.519651+00:00</published>
-    <updated>2026-07-07T21:01:33.519651+00:00</updated>
+    <published>2026-07-08T21:01:39.342525+00:00</published>
+    <updated>2026-07-08T21:01:39.342525+00:00</updated>
     <summary type="text">Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</summary>
     <content type="html">&lt;p&gt;Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;38.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;10.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;39.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;10.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
+  </entry>
+  <entry>
+    <title>Zackriya-Solutions / meetily</title>
+    <link href="https://github.com/Zackriya-Solutions/meetily"/>
+    <id>e059e8bc32b72750a212ff02926c51b0</id>
+    <published>2026-07-08T21:01:39.342111+00:00</published>
+    <updated>2026-07-08T21:01:39.342111+00:00</updated>
+    <summary type="text">Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.</summary>
+    <content type="html">&lt;p&gt;Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;21.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;7.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Rust"/>
   </entry>
 </feed>

@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-07-02T00:00:00+00:00</updated>
+  <updated>2026-07-07T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>The missing half of AI futurism debates</title>
+    <link href="https://epoch.ai/gradient-updates/the-missing-half-of-ai-futurism-debates"/>
+    <id>63054f8151b24bd112f8d72f724eb8a8</id>
+    <published>2026-07-07T00:00:00+00:00</published>
+    <updated>2026-07-07T00:00:00+00:00</updated>
+    <summary type="text">Why we should think a little harder about what it takes to build a Dyson Sphere</summary>
+    <category term="Newsletter"/>
+  </entry>
   <entry>
     <title>Disclosure of serious cyber vulnerabilities spiked around the release of Claude Mythos Preview</title>
     <link href="https://epoch.ai/data-insights/cve-severity-spike"/>
@@ -84,14 +93,5 @@
     <published>2026-06-11T00:00:00+00:00</published>
     <updated>2026-06-11T00:00:00+00:00</updated>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>Controlling the capital after AGI</title>
-    <link href="https://epoch.ai/gradient-updates/controlling-the-capital-after-agi"/>
-    <id>4ab4c332df72449f80d8aa68c6be1013</id>
-    <published>2026-06-09T00:00:00+00:00</published>
-    <updated>2026-06-09T00:00:00+00:00</updated>
-    <summary type="text">A simple taxonomy of the main proposals for post-AGI universal redistribution.</summary>
-    <category term="Newsletter"/>
   </entry>
 </feed>

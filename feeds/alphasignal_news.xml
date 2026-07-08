@@ -4,128 +4,128 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-07T19:33:53+00:00</updated>
+  <updated>2026-07-08T18:03:33+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Meta's Muse Image Beats Google but Trails OpenAI in AI Image Generation</title>
-    <link href="https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/?utm_source=twitter&amp;utm_medium=organic_social&amp;utm_content=video&amp;utm_campaign=museimage"/>
-    <id>b87fcc47acb4c91073f3016a313fb42c</id>
-    <published>2026-07-07T19:33:53+00:00</published>
-    <updated>2026-07-07T19:33:53+00:00</updated>
-    <summary type="text">Meta Superintelligence Labs ships its first image model with agentic tool use, emergent self-refinement, and deep social context from Instagram</summary>
+    <title>Google DeepMind's Gemini 3.1 Flash Lite Image Generates Photos 2.7x Faster</title>
+    <link href="https://artificialanalysis.ai/image/leaderboard/text-to-image"/>
+    <id>c6b3eeca11522b3fc6c228d39eaf1bc6</id>
+    <published>2026-07-08T18:03:33+00:00</published>
+    <updated>2026-07-08T18:03:33+00:00</updated>
+    <summary type="text">Google's Gemini 3.1 Flash Lite Image ranks #5 in text-to-image quality at half the price of its predecessor, but stumbles on editing tasks</summary>
     <category term="image"/>
-    <category term="video"/>
+    <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>Tencent Drops Hy3, a 295B Open-Weight Coding Agent Slashing Hallucinations in Half</title>
-    <link href="https://huggingface.co/tencent/Hy3"/>
-    <id>fd102ceac2e2869eec88f8fea709a0fb</id>
-    <published>2026-07-07T19:20:53+00:00</published>
-    <updated>2026-07-07T19:20:53+00:00</updated>
-    <summary type="text">Tencent's Hy3 is a fully open-source 295B MoE coding model with 256K context, now free on OpenCode and OpenRouter</summary>
-    <category term="open_source"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Anthropic Gives 10,000 Open Source Maintainers $1,200 of Free Claude Max</title>
-    <link href="https://claude.com/contact-sales/claude-for-oss"/>
-    <id>43b4c1cf096694861100841341105575</id>
-    <published>2026-07-07T19:05:02+00:00</published>
-    <updated>2026-07-07T19:05:02+00:00</updated>
-    <summary type="text">Anthropic is expanding its Claude for Open Source program, giving qualifying maintainers 6 months of its $200/month Claude Max 20x plan for free.</summary>
-    <category term="open_source"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Cowork Breaks Free of the Open-Laptop Trap</title>
-    <link href="https://claude.com/blog/cowork-web-mobile/"/>
-    <id>558018d1c6d975adc09ec2a46233bba1</id>
-    <published>2026-07-07T16:07:51+00:00</published>
-    <updated>2026-07-07T16:07:51+00:00</updated>
-    <summary type="text">Claude Cowork breaks free from the desktop â tasks now run in the cloud, and you can manage everything from your phone or browser</summary>
-    <category term="api"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind's Aeneas Lets Historians Decode Ancient Rome Without Writing Code</title>
-    <link href="https://deepmind.google/science/workflows/conversing-with-antiquity/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
-    <id>13e6a5380e808abb874d6b07729837a4</id>
-    <published>2026-07-07T15:19:34+00:00</published>
-    <updated>2026-07-07T15:19:34+00:00</updated>
-    <summary type="text">Google DeepMind's Predicting the Past Skill wraps Aeneas and Ithaca into a plain-English interface inside Google Antigravity, letting historians analyze ancient inscriptions without writing code.</summary>
-    <category term="llms"/>
-    <category term="vibe_coding"/>
-  </entry>
-  <entry>
-    <title>Nous Research's Hermes Agent Now Pulls Secrets From Multiple Vaults Safely</title>
-    <link href="https://hermes-agent.nousresearch.com/docs/developer-guide/secret-source-plugin"/>
-    <id>dd4bb612c7db7607c79bb51c05db1ae0</id>
-    <published>2026-07-07T14:33:28+00:00</published>
-    <updated>2026-07-07T14:33:28+00:00</updated>
-    <summary type="text">Hermes Agent adds 1Password support and a plugin API so any secret vault can feed credentials into the agent at startup</summary>
-    <category term="agents"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Cohere's Cohere Transcribe Arabic Beats Meta's 7B Model at 2B Parameters</title>
-    <link href="https://huggingface.co/spaces/elmresearchcenter/open_universal_arabic_asr_leaderboard"/>
-    <id>ce97ed3f3ba852d450fd5104a0385e18</id>
-    <published>2026-07-07T14:24:19+00:00</published>
-    <updated>2026-07-07T14:24:19+00:00</updated>
-    <summary type="text">Cohere releases a 2B-parameter open-source Arabic ASR model that beats Whisper Large v3 by 11 WER points and runs at 3.5x the throughput</summary>
+    <title>OpenAI's GPT-Live Ditches Turn-Based Voice for Real-Time Two-Way Conversations</title>
+    <link href="https://openai.com/index/introducing-gpt-live/"/>
+    <id>34c05182b3ad843e1d76e4d892aab87e</id>
+    <published>2026-07-08T17:22:39+00:00</published>
+    <updated>2026-07-08T17:22:39+00:00</updated>
+    <summary type="text">OpenAI launches GPT-Live, a full-duplex voice model that listens and speaks simultaneously, backed by GPT-5.5 reasoning for complex queries.</summary>
     <category term="audio"/>
-    <category term="open_source"/>
+    <category term="api"/>
   </entry>
   <entry>
-    <title>LiquidAI's Antidoom Slashes AI Reasoning Doom Loops by 95% in Hours</title>
-    <link href="https://github.com/Liquid4All/antidoom"/>
-    <id>3f4204b47e2b8192201025b7e70d558c</id>
-    <published>2026-07-07T14:01:57+00:00</published>
-    <updated>2026-07-07T14:01:57+00:00</updated>
-    <summary type="text">Liquid AI's open-source Antidoom surgically removes doom loops from reasoning models, cutting loop rates by up to 95% without RL or quality loss.</summary>
-    <category term="post_training"/>
-    <category term="open_source"/>
+    <title>Prime Intellect Raises $130M to Open RL Training Labs Once Locked Inside OpenAI</title>
+    <link href="https://www.primeintellect.ai/blog/series-a"/>
+    <id>df068fcf79272a4d21b7da7213e74684</id>
+    <published>2026-07-08T16:52:42+00:00</published>
+    <updated>2026-07-08T16:52:42+00:00</updated>
+    <summary type="text">Prime Intellect raises $130M led by Radical Ventures to give any company the same RL training infrastructure used by frontier AI labs</summary>
+    <category term="training_infra"/>
+    <category term="business"/>
   </entry>
   <entry>
-    <title>Google Cloud's ScientistOne Writes AI Research Papers With Zero Hallucinated References</title>
-    <link href="https://x.com/googleresearch/status/2074384746076135575"/>
-    <id>31129239fcc84b1d64084db0affd9ee5</id>
-    <published>2026-07-07T06:47:18+00:00</published>
-    <updated>2026-07-07T06:47:18+00:00</updated>
-    <summary type="text">Google's ScientistOne automates the full research pipeline â literature review, experimentation, and paper writing â while being the only system to achieve zero hallucinated references across a 75-paper audit.</summary>
-    <category term="agents"/>
-    <category term="development"/>
+    <title>Z.ai's GLM-5.2 Beats Every Open-Weight Model at a Sixth the Cost</title>
+    <link href="https://epoch.ai/benchmarks"/>
+    <id>02e2914e1340a6b56ecf98cbbadb30bb</id>
+    <published>2026-07-08T16:33:01+00:00</published>
+    <updated>2026-07-08T16:33:01+00:00</updated>
+    <summary type="text">Z.ai's GLM-5.2 tops Epoch AI's open-weight rankings with an ECI of 152, rivaling GPT-5.5 on coding at one-sixth the price</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>Artificial Analysis Releases 6 Industry Indices That Reshape How Developers Pick AI Models</title>
-    <link href="https://artificialanalysis.ai/models/capabilities/finance-and-accounting"/>
-    <id>c274ef18d4f07ad493970f9b5485f593</id>
-    <published>2026-07-07T01:09:25+00:00</published>
-    <updated>2026-07-07T01:09:25+00:00</updated>
-    <summary type="text">Artificial Analysis launches six domain-specific AI benchmarks grounded in real job tasks, revealing sharp tradeoffs between frontier performance and cost.</summary>
+    <title>Krea Adds ByteDance's Seedream 5.0 Pro With Pixel-Level Editing and 15-Language Support</title>
+    <link href="https://www.krea.ai/image/seedream5pro?utm_source=x&amp;utm_medium=organic_social&amp;dub_id=jBiNoXEqSGOds4Jn"/>
+    <id>273799700dde2a01917be60720fc5cd9</id>
+    <published>2026-07-08T16:20:53+00:00</published>
+    <updated>2026-07-08T16:20:53+00:00</updated>
+    <summary type="text">Krea adds Seedream 5.0 Pro to its platform, bringing pixel-level editing, multi-layer separation, and 10-reference image fusion to designers and developers</summary>
+    <category term="image"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Google's Android Bench Crowns Claude Fable 5 Top AI Coding Assistant at 84.5</title>
+    <link href="https://android-developers.googleblog.com/2026/07/android-bench-llm-measurement.html"/>
+    <id>87a8c05471bb4bd31347fff4102abd1d</id>
+    <published>2026-07-08T16:10:16+00:00</published>
+    <updated>2026-07-08T16:10:16+00:00</updated>
+    <summary type="text">Android Bench adds 8 new models led by Claude Fable 5 at 84.5%, switches to Harbor Framework, and opens community contributions</summary>
     <category term="benchmarks"/>
     <category term="llms"/>
   </entry>
   <entry>
-    <title>Google's Gemini Spark Now Watches the Web and Acts Without Being Asked</title>
-    <link href="https://gemini.google/overview/agent/spark/"/>
-    <id>da5431c13871a290da8043e5db51ddaf</id>
-    <published>2026-07-06T23:52:57+00:00</published>
-    <updated>2026-07-06T23:52:57+00:00</updated>
-    <summary type="text">Gemini Spark gains real-time event tracking, macOS support, MCP integration, and new third-party app connections in a major update to Google's 24/7 AI agent</summary>
-    <category term="llms"/>
+    <title>Cognition's SWE-1.7 Matches GPT-5.5 on Coding Tasks at $1.97 Each</title>
+    <link href="https://cognition.com/blog/swe-1-7"/>
+    <id>8e887cb30008dd245b149179a360b89c</id>
+    <published>2026-07-08T15:47:03+00:00</published>
+    <updated>2026-07-08T15:47:03+00:00</updated>
+    <summary type="text">Cognition's SWE-1.7 matches frontier models at $1.97 per task, running at 1000 tokens/second inside Devin â powered by a novel multi-continent RL training pipeline.</summary>
+    <category term="development"/>
+    <category term="post_training"/>
+  </entry>
+  <entry>
+    <title>Manus Turns Into a Document Surgeon With Full Google Workspace Control</title>
+    <link href="https://x.com/manusai/status/2074871873683243465"/>
+    <id>1d07996ed880b8a9929169cc591c14ef</id>
+    <published>2026-07-08T15:02:58+00:00</published>
+    <updated>2026-07-08T15:02:58+00:00</updated>
+    <summary type="text">Manus upgrades its Google Drive connector to cover all of Google Workspace, adding granular in-document editing to Docs, Sheets, Slides, and Forms for free</summary>
+    <category term="retrieval"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>OpenAI's gpt-realtime-2.1-mini Brings Reasoning and Tool Use at 6x Lower Cost</title>
-    <link href="https://developers.openai.com/api/docs/guides/realtime"/>
-    <id>9f3d134e87ceda204df23d8513d594ab</id>
-    <published>2026-07-06T22:13:21+00:00</published>
-    <updated>2026-07-06T22:13:21+00:00</updated>
-    <summary type="text">GPT-Realtime-2.1-mini brings reasoning and tool use to the budget voice tier, plus a 25%+ p95 latency cut across all Realtime voice models</summary>
+    <title>Mistral's Robostral Navigate Beats Sensor-Heavy Robots With Just One Camera</title>
+    <link href="https://mistral.ai/news/robostral-navigate/"/>
+    <id>b91cbde188bf4ad98ba6eef5a519971b</id>
+    <published>2026-07-08T14:01:07+00:00</published>
+    <updated>2026-07-08T14:01:07+00:00</updated>
+    <summary type="text">Mistral's 8B robotics model navigates real environments from a single RGB camera, beating depth-sensor-equipped systems by 4.5 points on the leading benchmark.</summary>
+    <category term="robotics"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Runway Dev Collapses Video, Image, and Avatar AI Into One API</title>
+    <link href="https://runwayml.com/news/introducing-runway-dev"/>
+    <id>e3f7ac3a74fa4ddd57965920b4d25bc3</id>
+    <published>2026-07-08T13:59:15+00:00</published>
+    <updated>2026-07-08T13:59:15+00:00</updated>
+    <summary type="text">Runway launches a unified developer platform that bundles its frontier video, image, audio, and avatar models under one API for enterprise teams</summary>
+    <category term="video"/>
     <category term="api"/>
-    <category term="audio"/>
+  </entry>
+  <entry>
+    <title>Cognition's FrontierCode 1.1 Asks If AI Code Is Actually Mergeable</title>
+    <link href="https://cognition.com/blog/frontier-code-1.1"/>
+    <id>a335a8adb679a3566110ff90a2618ab7</id>
+    <published>2026-07-08T11:10:23+00:00</published>
+    <updated>2026-07-08T11:10:23+00:00</updated>
+    <summary type="text">Cognition updates its production-code benchmark with fairer grading, a principled internet-use policy, and new scores for Sonnet 5 and Fable 5</summary>
+    <category term="benchmarks"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Google DeepMind's Gemma 4 Beats Models 10x Its Size on Math and Coding</title>
+    <link href="https://arxiv.org/abs/2607.02770"/>
+    <id>142e68d936a8c98a94b98883f007a920</id>
+    <published>2026-07-07T21:03:25+00:00</published>
+    <updated>2026-07-07T21:03:25+00:00</updated>
+    <summary type="text">Google DeepMind's Gemma 4 technical report reveals how a 31B open-weight model rivals frontier giants through encoder-free multimodality, MoE efficiency, and speculative decoding.</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
   </entry>
 </feed>

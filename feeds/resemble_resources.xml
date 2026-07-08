@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-07-07T00:00:00+00:00</updated>
+  <updated>2026-07-08T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Real-Time Liveness Detection Solutions for Deepfake Fraud</title>
+    <link href="https://www.resemble.ai/resources/real-time-liveness-detection-solutions-for-deepfake-fraud"/>
+    <id>3979cbb73a546fe8943b806c54047fcc</id>
+    <published>2026-07-08T00:00:00+00:00</published>
+    <updated>2026-07-08T00:00:00+00:00</updated>
+    <summary type="text">Face liveness won't stop a cloned voice from bypassing your IVR. See how real-time liveness detection solutions address deepfake fraud across both channels.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>The Deepfake Detection Guide (Deepfake 101): Threat Vectors and Four Defense Layers</title>
     <link href="https://www.resemble.ai/resources/the-deepfake-detection-guide-deepfake-101-threat-vectors-and-four-defense-layers"/>
@@ -106,14 +115,5 @@
     <updated>2026-06-08T00:00:00+00:00</updated>
     <summary type="text">Learn best practices for detecting candidate fraud in remote hiring with funnel checks, interview red flags, identity review, and live deepfake detection.</summary>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Watchlist: Week of May 29 – June 4, 2026</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-may-29-june-4-2026"/>
-    <id>eac832a9355bd285ccfaf4fd3629fab3</id>
-    <published>2026-06-05T00:00:00+00:00</published>
-    <updated>2026-06-05T00:00:00+00:00</updated>
-    <summary type="text">‍The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
-    <category term="Deepfake Watchlist"/>
   </entry>
 </feed>

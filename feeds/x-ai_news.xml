@@ -4,17 +4,24 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-07-06T00:00:00+00:00</updated>
+  <updated>2026-07-08T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Introducing Grok 4.5</title>
+    <link href="https://x.ai/news/grok-4-5"/>
+    <id>44f6900e464a47cfd5ec04d496f513c2</id>
+    <published>2026-07-08T00:00:00+00:00</published>
+    <updated>2026-07-08T00:00:00+00:00</updated>
+    <summary type="text">Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.</summary>
+  </entry>
   <entry>
     <title>21 New Flagship Grok Voices</title>
     <link href="https://x.ai/news/new-flagship-voices"/>
     <id>c32d138fc6f49ed1524d74cab479fcea</id>
     <published>2026-07-06T00:00:00+00:00</published>
     <updated>2026-07-06T00:00:00+00:00</updated>
-    <summary type="text">New multilingual voices for Grok Voice, plus improved naturalness for the original five.</summary>
   </entry>
   <entry>
     <title>Introducing the Voice Agent Builder</title>
@@ -51,6 +58,7 @@
     <id>fab18ef709b826a2b4a67dd01173b86d</id>
     <published>2026-06-18T00:00:00+00:00</published>
     <updated>2026-06-18T00:00:00+00:00</updated>
+    <summary type="text">Grok models are now available on Databricks Agent Bricks.</summary>
   </entry>
   <entry>
     <title>Grok on Amazon Bedrock</title>
