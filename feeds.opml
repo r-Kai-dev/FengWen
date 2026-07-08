@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:fw="https://codeberg.org/r-Kai/FengWen">
   <head>
     <title>Feng Wen (风闻) — AI/Tech News Feeds</title>
-    <dateCreated>2026-07-07T00:18:34Z</dateCreated>
+    <dateCreated>2026-07-08T21:56:30Z</dateCreated>
     <ownerName>Feng Wen</ownerName>
   </head>
   <body>
@@ -36,6 +36,7 @@
       <outline text="lcamtuf's thing" title="lcamtuf's thing" type="rss" xmlUrl="https://lcamtuf.substack.com/feed" htmlUrl="https://lcamtuf.substack.com/" fw:type="official"/>
       <outline text="The Sequence" title="The Sequence" type="rss" xmlUrl="https://thesequence.substack.com/feed" htmlUrl="https://thesequence.substack.com/" fw:type="official"/>
       <outline text="Animation Obsessive Blog" title="Animation Obsessive Blog" type="rss" xmlUrl="https://animationobsessive.substack.com/feed" htmlUrl="https://animationobsessive.substack.com/" fw:type="official"/>
+      <outline text="DigitalApplied Blog" title="DigitalApplied Blog" type="rss" xmlUrl="https://www.digitalapplied.com/feed.xml" htmlUrl="https://www.digitalapplied.com/blog" fw:type="official"/>
     </outline>
     <outline text="Daily" title="Daily">
       <outline text="AIbase Daily (中文)" title="AIbase Daily (中文)" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/aibase_zh-daily.xml" htmlUrl="https://news.aibase.com/zh/daily" fw:type="created"/>
@@ -47,6 +48,8 @@
       <outline text="Artificial Analysis Articles" title="Artificial Analysis Articles" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/artificial_analysis_articles.xml" htmlUrl="https://artificialanalysis.ai/articles" fw:type="created"/>
       <outline text="Agents' Last Exam Blog" title="Agents' Last Exam Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/agentslastexam_blogs.xml" htmlUrl="https://agents-last-exam.org/blogs" fw:type="created"/>
       <outline text="Vals AI News" title="Vals AI News" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/vals_news.xml" htmlUrl="https://www.vals.ai/news" fw:type="created"/>
+      <outline text="Scale Labs Blog" title="Scale Labs Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/scalelabs_blog.xml" htmlUrl="https://labs.scale.com/blog" fw:type="created"/>
+      <outline text="Scale Labs Papers" title="Scale Labs Papers" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/scalelabs_papers.xml" htmlUrl="https://labs.scale.com/papers" fw:type="created"/>
       <outline text="Arc Prize Blog" title="Arc Prize Blog" type="rss" xmlUrl="https://arcprize.org/feed.xml" htmlUrl="https://arcprize.org/blog" fw:type="official"/>
       <outline text="Arena AI Blog" title="Arena AI Blog" type="rss" xmlUrl="https://arena.ai/blog/rss/" htmlUrl="https://arena.ai/blog/" fw:type="official"/>
     </outline>

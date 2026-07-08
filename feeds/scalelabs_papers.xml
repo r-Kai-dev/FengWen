@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Scale Labs Papers</title>
+  <icon>https://labs.scale.com/images/favicon.svg</icon>
+  <link href="https://labs.scale.com/papers"/>
+  <id>https://labs.scale.com/papers</id>
+  <updated>2026-06-30T20:49:00.000Z</updated>
+  <author>
+    <name>Scale Labs</name>
+  </author>
+  <entry>
+    <title>DrugDiscoveryBench: Can Coding Agents Assist Early-Stage Drug Discovery?</title>
+    <link href="https://labs.scale.com/papers/drugdiscoverybench"/>
+    <id>eb779e35c0ab64364f51b757edda8059</id>
+    <published>2026-06-30T20:49:00.000Z</published>
+    <updated>2026-06-30T20:49:00.000Z</updated>
+    <summary type="text">By Afra Feyza AkyÃ¼rekâ , Xinming Tuâ , Alec Gutmanstein, Jason Qin, Sofia Monasdotter, Sergey Chekhov, Brenda Hernandez Villegas, Kirill Chugunov, Judah Engel, Veronica Chatrath, Divyansh Agarwal, Geobio Boo, Ernesto Hernandez, Ying Liu, Yuan (Emily) Xue, Aakash Sabharwal, Daniel Yue Zhang, Zainab Doctor, Yuanhao Qu, Yunzhong He, Sami Hassaan</summary>
+    <category term="Enterprise"/>
+  </entry>
+  <entry>
+    <title>SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions</title>
+    <link href="https://labs.scale.com/papers/swe-interact"/>
+    <id>9f5e46ba24fe754b55b0b12bf53dd084</id>
+    <published>2026-06-29T15:04:00.000Z</published>
+    <updated>2026-06-29T15:04:00.000Z</updated>
+    <summary type="text">By Mohit Raghavendra, Anisha Gunjal, Aakash Sabharwal, Yunzhong He</summary>
+    <category term="Agents"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>ChainWorld: Composing Long-Horizon Desktop Workloads from Atomic OSWorld Tasks</title>
+    <link href="https://labs.scale.com/papers/chainworld"/>
+    <id>f031d82c9743097e80adf02e6ddedc1f</id>
+    <published>2026-06-19T15:23:00.000Z</published>
+    <updated>2026-06-19T15:23:00.000Z</updated>
+    <summary type="text">By Vincent Siu, Manasi Sharma, Dawn Song, Daniel Yue Zhang, Chenguang Wang</summary>
+    <category term="Agents"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Rubric-Guided Self-Distillation: Post-Training Without Rubric Verifiers</title>
+    <link href="https://labs.scale.com/papers/rgsd"/>
+    <id>3442cd8da8efca6688a9f06f8b1f75d3</id>
+    <published>2026-06-10T18:18:00.000Z</published>
+    <updated>2026-06-10T18:18:00.000Z</updated>
+    <summary type="text">By MohammadHossein Rezaei, Anas Mahmoud, Zihao Wang, Utkarsh Tyagi, Advait Gosai, Razvan-Gabriel Dumitru, Aakash Sabharwal, Bing Liu, Yunzhong He</summary>
+    <category term="Post-Training"/>
+  </entry>
+  <entry>
+    <title>PSEBench: A Controllable and Verifiable Benchmark for Evaluating LLMs in Patient Safety Event Triage</title>
+    <link href="https://labs.scale.com/papers/psebench"/>
+    <id>ee6aaf12c293f9fe963890010150f609</id>
+    <published>2026-06-09T21:00:00.000Z</published>
+    <updated>2026-06-09T21:00:00.000Z</updated>
+    <summary type="text">By Keqi Hanâ , Ryan Youngâ , Annabel Strauss, Lindsey Hughes, Katharine M. Nesbitt, Nicole Schueler, Che Ngufor, Carl Yang, Yuan (Emily) Xue, Zhijun Yin</summary>
+    <category term="Evaluation and Alignment"/>
+    <category term="Agents"/>
+    <category term="Enterprise"/>
+  </entry>
+  <entry>
+    <title>Insights Generator: Systematic Corpus-Level Trace Diagnostics for LLM Agents</title>
+    <link href="https://labs.scale.com/papers/insights-generator"/>
+    <id>cf0cfa6c0e258661267da033fb5de9ce</id>
+    <published>2026-06-04T19:17:00.000Z</published>
+    <updated>2026-06-04T19:17:00.000Z</updated>
+    <summary type="text">By Akshay Manglik, Apaar Shanker, Kaustubh Deshpande, Jason Qin, Yash Maurya, Veronica Chatrath, Vijay Kalmath, Levi Lentz, Yuan (Emily) Xue</summary>
+    <category term="Agents"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Enterprise"/>
+  </entry>
+  <entry>
+    <title>ARCA: Adapter-Residual Credit Assignment When Token Signals Degenerate</title>
+    <link href="https://labs.scale.com/papers/arca"/>
+    <id>39d476d591b3d41d7d4505dc4557270c</id>
+    <published>2026-05-29T15:27:00.000Z</published>
+    <updated>2026-05-29T15:27:00.000Z</updated>
+    <summary type="text">By Rodney Lafuente-Mercado</summary>
+    <category term="Post-Training"/>
+    <category term="Reasoning"/>
+  </entry>
+  <entry>
+    <title>Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR</title>
+    <link href="https://labs.scale.com/papers/not-every-rubric-teaches-equally"/>
+    <id>407562653104b595ce3c146f31aedb70</id>
+    <published>2026-05-19T19:48:00.000Z</published>
+    <updated>2026-05-19T19:48:00.000Z</updated>
+    <summary type="text">By Utkarsh Tyagi, Xingang Guo, MohammadHossein Rezaei, Daniel George, Anas Mahmoud, Jackson Lee, Bing Liu, Yunzhong He</summary>
+    <category term="Post-Training"/>
+    <category term="Reasoning"/>
+  </entry>
+  <entry>
+    <title>ASPI: Seeking Ambiguity Clarification Amplifies Prompt Injection Vulnerability in LLM Agents</title>
+    <link href="https://labs.scale.com/papers/aspi"/>
+    <id>03c3a61b7c3be344a499b45a9dc4c198</id>
+    <published>2026-05-17T18:08:00.000Z</published>
+    <updated>2026-05-17T18:08:00.000Z</updated>
+    <summary type="text">By Udari Madhushani Sehwag, Zhengyang Shan, Heming Liu, Dileepa Lakshan, Joseph Brandifino, Max Fenkell</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Agents"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>ROK-FORTRESS: Measuring the Effect of Geopolitical Transcreation for National Security and Public Safety</title>
+    <link href="https://labs.scale.com/papers/rok-fortress"/>
+    <id>32f0a69ed91940a990369feeaa6114b0</id>
+    <published>2026-05-13T15:44:00.000Z</published>
+    <updated>2026-05-13T15:44:00.000Z</updated>
+    <summary type="text">By Michael S. Leeâ , Yash Mauryaâ , Drew Rein, Bert Herring, Jonathan Nguyen, Kyungho Song, Udari Madhushani Sehwag,  Jiyeon Cho, Kaustubh Deshpande, Yeongkyun Jang, Joo Jiyeon, Minn Seok Choi, Evi Fuelle, Christina Q. Knight, Joseph Brandifino, Max Fenkell</summary>
+  </entry>
+  <entry>
+    <title>Reward Hacking in Rubric-Based Reinforcement Learning</title>
+    <link href="https://labs.scale.com/papers/reward-hacking-rubric-based-rl"/>
+    <id>aa9cf7cc58783a29e107161dce2f1d8e</id>
+    <published>2026-05-12T19:15:00.000Z</published>
+    <updated>2026-05-12T19:15:00.000Z</updated>
+    <summary type="text">By Anas Mahmoud, MohammadHossein Rezaei, Zihao Wang, Anisha Gunjal, Bing Liu, Yunzhong He</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Post-Training"/>
+  </entry>
+  <entry>
+    <title>SWE Atlas: Benchmarking Coding Agents Beyond Issue Resolution</title>
+    <link href="https://labs.scale.com/papers/sweatlas"/>
+    <id>2868efe19167ffd445d0f7010f25b908</id>
+    <published>2026-05-07T16:32:00.000Z</published>
+    <updated>2026-05-07T16:32:00.000Z</updated>
+    <summary type="text">By Mohit Raghavendra, Soham Danâ , Miguel Romero Calvoâ , Yannis Yiming He, Johannes Mols, Gautam Anand, Cole McCollum, Edgar Arakelyan, Vijay Bharadwaj, Andrew Park, Jeff Da, MohammadHossein Rezaei, Bing Liu, Brad Kenstler, Yunzhong He</summary>
+    <category term="Evaluation and Alignment"/>
+    <category term="Agents"/>
+  </entry>
+  <entry>
+    <title>Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation</title>
+    <link href="https://labs.scale.com/papers/coverage-not-averages"/>
+    <id>2a33c8445ff4581b4064c26b7bcf8698</id>
+    <published>2026-04-22T20:01:00.000Z</published>
+    <updated>2026-04-22T20:01:00.000Z</updated>
+    <summary type="text">By Andrew Klearman, Radu Revutchi, Rohin Garg, Rishav Chakravarti, Sam Denton, Yuan (Emily) Xue</summary>
+    <category term="Evaluation and Alignment"/>
+    <category term="Science of Data"/>
+    <category term="Enterprise"/>
+  </entry>
+  <entry>
+    <title>HiL-BENCH (Human-in-Loop Benchmark)</title>
+    <link href="https://labs.scale.com/papers/hil"/>
+    <id>f3b376a80b63680d3e78c1ae41e081f0</id>
+    <published>2026-04-13T20:09:00.000Z</published>
+    <updated>2026-04-13T20:09:00.000Z</updated>
+    <summary type="text">By Mohamed Elfeki, Tu Trinh, Kelvin Luu, Guangze Luo, Nathan Hunt, Ernesto Hernandez, Nandan Marwaha, Yannis Yiming He, Charles Wang, Fernando Carabedo, Alessa Castillo, Bing Liu</summary>
+    <category term="Evaluation and Alignment"/>
+    <category term="Safety &amp; Oversight"/>
+  </entry>
+  <entry>
+    <title>Defensive Refusal Bias: How Safety Alignment Fails Cyber Defenders</title>
+    <link href="https://labs.scale.com/papers/defensive-refusal-bias"/>
+    <id>1576fe48d6a652f6b6579d634840b424</id>
+    <published>2026-03-12T02:35:00.000Z</published>
+    <updated>2026-03-12T02:35:00.000Z</updated>
+    <summary type="text">By David Campbell, Neil Kale, Udari Madhushani Sehwag, Bert Herring, Nick Price, Dan Borges, Alex Levinson, Christina Q. Knight</summary>
+    <category term="Safety &amp; Oversight"/>
+  </entry>
+  <entry>
+    <title>LLM Novice Uplift on Dual-Use, In Silico Biology Tasks</title>
+    <link href="https://labs.scale.com/papers/llm-novice-uplift-on-dual-use-in-silico-biology-tasks"/>
+    <id>e7870422cc1a088a4b5bf6253f6a6e47</id>
+    <published>2026-02-26T14:25:00.000Z</published>
+    <updated>2026-02-26T14:25:00.000Z</updated>
+    <summary type="text">By Chen Bo Calvin Zhang, Christina Q. Knight, Nicholas Kruus, Jason Hausenloy, Pedro Medeiros, Nathaniel Li, Aiden Kim, Yury Orlovskiy, Coleman Breen, Bryce Cai, Jasper GÃ¶tting, Andrew Bo Liu, Samira Nedungadi, Paula Rodriguez, Yannis Yiming He, Mohamed Shaaban, Zifan Wang, Seth Donoughe, Julian Michael</summary>
+    <category term="Safety &amp; Oversight"/>
+  </entry>
+  <entry>
+    <title>VeRO: An Evaluation Harness for Agents to Optimize Agents</title>
+    <link href="https://labs.scale.com/papers/vero"/>
+    <id>a7752b512e495d087c897379cded5801</id>
+    <published>2026-02-25T18:00:00.000Z</published>
+    <updated>2026-02-25T18:00:00.000Z</updated>
+    <summary type="text">By Varun Ursekar, Apaar Shanker, Veronica Chatrath, Yuan (Emily) Xue, Sam Denton</summary>
+    <category term="Agents"/>
+    <category term="Post-Training"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>LHAW: Controllable Underspecification for Long-Horizon Tasks</title>
+    <link href="https://labs.scale.com/papers/lhaw"/>
+    <id>f00505525dd0a3caf4dbfcfa3d62dadf</id>
+    <published>2026-02-12T20:23:04.000Z</published>
+    <updated>2026-02-12T20:23:04.000Z</updated>
+    <summary type="text">By George Pu, Michael S. Lee, Udari Madhushani Sehwag, David Lee, Bryan Zhu, Yash Maurya, Mohit Raghavendra, Yuan (Emily) Xue, Sam Denton</summary>
+    <category term="Agents"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>SciPredict: Can LLMs Predict the Outcomes of Research Experiments in Natural Sciences?</title>
+    <link href="https://labs.scale.com/papers/scipredict"/>
+    <id>c9dfb940a7fe86cb7955935be6f5196c</id>
+    <published>2026-01-15T21:20:54.000Z</published>
+    <updated>2026-01-15T21:20:54.000Z</updated>
+    <summary type="text">By Udari Madhushani Sehwag, Elaine Lau, Haniyeh Ehsani Oskouie, Shayan Shabihi, Erich Liang, Andrea Toledo, Guillermo Mangialardi, Sergio Fonrouge, Ed-Yeremai HernÃ¡ndez Cardona, Paula Vergara, Utkarsh Tyagi, Chen Bo Calvin Zhang, Pavi Bhatter, Nicholas Johnson, Furong Huang, Ernesto Gabriel HernÃ¡ndez Montoya, Bing Liu</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Agentic Rubrics as Contextual Verifiers for SWE Agents</title>
+    <link href="https://labs.scale.com/papers/agenticrubrics"/>
+    <id>8dc0fd2f40f6439055e3e45501fa4da3</id>
+    <published>2026-01-06T21:24:35.000Z</published>
+    <updated>2026-01-06T21:24:35.000Z</updated>
+    <summary type="text">By Mohit Raghavendra, Anisha Gunjal, Bing Liu, Yunzhong He</summary>
+    <category term="Agents"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Language Models, More than Outcomes</title>
+    <link href="https://labs.scale.com/papers/morebench"/>
+    <id>664308196d4c31c0a55bcf8d984788ec</id>
+    <published>2025-12-22T17:08:50.000Z</published>
+    <updated>2025-12-22T17:08:50.000Z</updated>
+    <summary type="text">By Yu Ying Chiu, Michael S. Lee, Rachel Calcott,  Brandon Handoko, Paul de Font-Reaulx, Paula Rodriguez, Chen Bo Calvin Zhang, Ziwen Han, Udari Madhushani Sehwag, Yash Maurya, Christina Q. Knight, Harry R. Lloyd, Florence Bacus, Mantas Mazeika, Bing Liu, Yejin Choi, Mitchell L Gordon, Sydney Levine</summary>
+    <category term="Reasoning"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>MCP-Atlas: A Large-Scale Benchmark for Tool-Use Competency with Real MCP Servers</title>
+    <link href="https://labs.scale.com/papers/mcpatlas"/>
+    <id>e8e3e9179bcaf2a5d301fda440c14579</id>
+    <published>2025-12-18T17:58:33.000Z</published>
+    <updated>2025-12-18T17:58:33.000Z</updated>
+    <summary type="text">By Chaithanya Bandi, Razvan-Gabriel Dumitru, Ben Hertzberg, Divyansh Agarwal, Geobio Boo, Tejas Polakam, Sami Hassaan, Jeff Da, HiJae Kim, Vipul Gupta, Manasi Sharma, Andrew Park, Martin Dimakis, Ernesto Gabriel HernÃ¡ndez Montoya, Dan Rambado, Ivan Salazar, Rafael Cruz, MohammadHossein Rezaei, Chetan Rane, Ben Levin, Daniel Yue Zhang, Brad Kenstler, Bing Liu</summary>
+    <category term="Agents"/>
+    <category term="Reasoning"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Audio MultiChallenge</title>
+    <link href="https://labs.scale.com/papers/audiomc"/>
+    <id>11735ed58563fc9c7dc598249aff9056</id>
+    <published>2025-12-17T18:07:23.000Z</published>
+    <updated>2025-12-17T18:07:23.000Z</updated>
+    <summary type="text">By Advait Gosai, Tyler Vuong, Utkarsh Tyagi, Steven Li, Wenjia You, Miheer Bavare, Arda UÃ§ar, Zhongwang Fang, Brian Jang, Bing Liu, Yunzhong He</summary>
+    <category term="Multimodal"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Imitation Learning for Multi-turn LM Agents via On-Policy Expert Corrections</title>
+    <link href="https://labs.scale.com/papers/imitation-learning-for-multi-turn-lm-agents"/>
+    <id>0ee65058703089a9b1d3655dafc59834</id>
+    <published>2025-12-16T16:13:00.000Z</published>
+    <updated>2025-12-16T16:13:00.000Z</updated>
+    <summary type="text">By Niklas Lauffer, Xiang Deng, Srivatsa Kundurthy, Brad Kenstler, Jeff Da</summary>
+    <category term="Post-Training"/>
+    <category term="Agents"/>
+  </entry>
+  <entry>
+    <title>PropensityBench: Evaluating Latent Safety Risks in Large Language Models via an Agentic Approach</title>
+    <link href="https://labs.scale.com/papers/propensitybench"/>
+    <id>98e3afc9aa0488de4ba5e86cd57567f5</id>
+    <published>2025-11-25T15:39:17.000Z</published>
+    <updated>2025-11-25T15:39:17.000Z</updated>
+    <summary type="text">By Udari Madhushani Sehwag, Shayan Shabihi, Alex McAvoy, Vikash Sehwag, Yuancheng Xu, Dalton Towers, Furong Huang</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Professional Reasoning Bench</title>
+    <link href="https://labs.scale.com/papers/prbench"/>
+    <id>f05fadfe064c9468ccb78b7038164b43</id>
+    <published>2025-11-13T15:51:09.000Z</published>
+    <updated>2025-11-13T15:51:09.000Z</updated>
+    <summary type="text">By Afra Feyza AkyÃ¼rek, Advait Gosai, Chen Bo Calvin Zhang, Vipul Gupta, Jaehwan Jeong, Anisha Gunjal, Tahseen Rabbani, Maria Mazzone, David Randolph, Mohammad Mahmoudi Meymand, Gurshaan Chattha, Paula Rodriguez, Diego Mares, Pavit Singh, Michael Liu, Subodh Chawla, Pete Cline, Lucy Ogaz, Ernesto Hernandez, Zihao Wang, Pavi Bhatter, Marcos Ayestaran, Bing Liu, Yunzhong He</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Reasoning"/>
+  </entry>
+  <entry>
+    <title>ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents</title>
+    <link href="https://labs.scale.com/papers/researchrubrics"/>
+    <id>1b8a3cae1a8215f8b403c70e85a5de98</id>
+    <published>2025-11-10T21:14:40.000Z</published>
+    <updated>2025-11-10T21:14:40.000Z</updated>
+    <summary type="text">By Manasi Sharma, Chen Bo Calvin Zhang, Chaithanya Bandi, Clinton J. Wang, Ankit Aich, Huy Nghiem, Tahseen Rabbani, Ye Htet, Brian Jang, Sumana Basu, Aishwarya Balwani, Denis Peskoff, Marcos Ayestaran, Sean M. Hendryx, Brad Kenstler, Bing Liu</summary>
+    <category term="Reasoning"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Best Practices for Biorisk Evaluations on Open-Weight Bio-Foundation Models</title>
+    <link href="https://labs.scale.com/papers/bioriskeval"/>
+    <id>0f4b882fab17b97f3f8e6d2cf06b0841</id>
+    <published>2025-11-05T02:03:36.000Z</published>
+    <updated>2025-11-05T02:03:36.000Z</updated>
+    <summary type="text">By Boyi Wei, Zora Che, Nathaniel Li, Udari Madhushani Sehwag, Jasper GÃ¶tting, Samira Nedungadi, Julian Michael, Summer Yue, Dan Hendrycks, Peter Henderson, Zifan Wang, Seth Donoughe, Mantas Mazeika</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Remote Labor Index: Measuring AI Automation of Remote Work</title>
+    <link href="https://labs.scale.com/papers/rli"/>
+    <id>c24977588abcfe32b023cb687b01a0f6</id>
+    <published>2025-10-28T15:08:08.000Z</published>
+    <updated>2025-10-28T15:08:08.000Z</updated>
+    <summary type="text">By Mantas Mazeika, Alice Gatti, Cristina Menghini, Udari Madhushani Sehwag, Shivam Singhal, Yury Orlovskiy, Steven Basart, Manasi Sharma, Denis Peskoff, Elaine Lau, Sumana Basu, Jaehyuk Lim, Lachlan Carroll, Alice Blair, Vinaya Sivakumar, Brad Kenstler, Yuntao Ma, Julian Michael, Xiaoke Li, Oliver Ingebretsen, Aditya Mehta, Jean Mottola, John Teichmann, Kevin Yu, Zaina Shaik, Adam Khoja, Richard Ren, Jason Hausenloy, Long Phan, Connor Smith, Ye Htet, Ankit Aich, Tahseen Rabbani, Vivswan Shah, Andriy Novykov, Felix Binder, Kirill Chugunov, Luis Ramirez, Matias Geralnik, HernÃ¡n Mesura, Dean Lee, Ed-Yeremai HernÃ¡ndez Cardona, Annette Diamond</summary>
+    <category term="Agents"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Reasoning"/>
+  </entry>
+  <entry>
+    <title>REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards</title>
+    <link href="https://labs.scale.com/papers/reasoning_gym"/>
+    <id>8c7bf0672ac23ae2bf1c3cb149abe0b6</id>
+    <published>2025-10-20T16:16:42.000Z</published>
+    <updated>2025-10-20T16:16:42.000Z</updated>
+    <summary type="text">By Zafir Stojanovski, Oliver Stanley, Joe Sharratt, Richard Jones, Abdulhakeem Adefioye, Jean Kaddour, Andreas KÃ¶pf</summary>
+    <category term="Reasoning"/>
+    <category term="Agents"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Beyond Seeing: Evaluating Multimodal LLMs On Tool-enabled Image Perception, Transformation, and Reasoning</title>
+    <link href="https://labs.scale.com/papers/vtb"/>
+    <id>1fcf2e56bec7a6ed068ec4acc14dec6d</id>
+    <published>2025-10-15T15:29:41.000Z</published>
+    <updated>2025-10-15T15:29:41.000Z</updated>
+    <summary type="text">By Xingang Guo, Utkarsh Tyagi, Advait Gosai, Paula Vergara, Ernesto Gabriel HernÃ¡ndez Montoya, Chen Bo Calvin Zhang, Bin Hu, Yunzhong He, Bing Liu, Rakshith Sharma Srinivasa</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Reasoning"/>
+    <category term="Multimodal"/>
+  </entry>
+  <entry>
+    <title>Online Rubrics Elicitation from Pairwise Comparisons</title>
+    <link href="https://labs.scale.com/papers/onlinerubrics"/>
+    <id>6b3764dea57e3fd5df092e89cdfc947c</id>
+    <published>2025-10-08T18:36:27.000Z</published>
+    <updated>2025-10-08T18:36:27.000Z</updated>
+    <summary type="text">By MohammadHossein Rezaei, Robert Vacareanu, Zihao Wang, Clinton J. Wang, Bing Liu, Yunzhong He, Afra Feyza AkyÃ¼rek</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Post-Training"/>
+  </entry>
+  <entry>
+    <title>Chasing the Tail: Effective Rubric-based Reward Modeling for Large Language Model Post-Training</title>
+    <link href="https://labs.scale.com/papers/rubric_reward_modeling"/>
+    <id>22fd72bfc35d65291d3e07d3e2ca32f4</id>
+    <published>2025-09-25T17:47:31.000Z</published>
+    <updated>2025-09-25T17:47:31.000Z</updated>
+    <summary type="text">By Junkai Zhang, Zihao Wang, Lin Gui, Swarnashree Mysore Sathyendra, Jaehwan Jeong, Victor Veitch, Wei Wang, Yunzhong He, Bing Liu, Lifeng Jin</summary>
+    <category term="Post-Training"/>
+    <category term="Science of Data"/>
+  </entry>
+  <entry>
+    <title>Progress over Points: Reframing LM Benchmarks Around Scientific Objectives</title>
+    <link href="https://labs.scale.com/papers/progres_over_points"/>
+    <id>dbb2f867e625321bef44db85258e5020</id>
+    <published>2025-09-23T16:20:16.000Z</published>
+    <updated>2025-09-23T16:20:16.000Z</updated>
+    <summary type="text">By Alwin Jin, Sean M. Hendryx, Vaskar Nath</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?</title>
+    <link href="https://labs.scale.com/papers/swe_bench_pro"/>
+    <id>a3e84b81716ab4eac7ff001d5380424b</id>
+    <published>2025-09-19T21:43:03.000Z</published>
+    <updated>2025-09-19T21:43:03.000Z</updated>
+    <summary type="text">By Xiang Deng, Jeff Da, Edwin Pan, Yannis Yiming He, Charles Ide, Kanak Garg, Niklas Lauffer, Andrew Park, Nitin Pasari, Chetan Rane, Karmini Sampath, Maya Krishnan, Srivatsa Kundurthy, Sean M. Hendryx, Zifan Wang, Chen Bo Calvin Zhang, Noah Jacobson, Bing Liu, Brad Kenstler</summary>
+    <category term="Agents"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>TutorBench: A Benchmark To Assess Tutoring Capabilities Of Large Language Models</title>
+    <link href="https://labs.scale.com/papers/tutorbench"/>
+    <id>16e575752a7ffc695c0d51c0604fb6bd</id>
+    <published>2025-09-11T18:46:28.000Z</published>
+    <updated>2025-09-11T18:46:28.000Z</updated>
+    <summary type="text">By Rakshith Sharma Srinivasa, Zora Che, Chen Bo Calvin Zhang, Diego Mares, Ernesto Hernandez, Jayeon Park, Dean Lee, Guillermo Mangialardi, Charmaine Ng, Ed-Yeremai HernÃ¡ndez Cardona, Anisha Gunjal, Yunzhong He, Bing Liu, Chen Xing</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Reliable Weak-to-Strong Monitoring of LLM Agents</title>
+    <link href="https://labs.scale.com/papers/mrt"/>
+    <id>e8d8a2241ffee782fc8a9dd5493cfd33</id>
+    <published>2025-08-26T13:33:41.000Z</published>
+    <updated>2025-08-26T13:33:41.000Z</updated>
+    <summary type="text">By Neil Kale, Chen Bo Calvin Zhang, Kevin Zhu, Ankit Aich, Paula Rodriguez, Scale Red Team, Christina Q. Knight, Zifan Wang</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Search-Time Data Contamination</title>
+    <link href="https://labs.scale.com/papers/stc"/>
+    <id>dc73ad2103ec6cc8c6f1d04c6d71cb69</id>
+    <published>2025-08-13T16:02:22.000Z</published>
+    <updated>2025-08-13T16:02:22.000Z</updated>
+    <summary type="text">By Ziwen Han, Meher Mankikar, Julian Michael, Zifan Wang</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>MultiNRC: A Challenging and Native Multilingual Reasoning Evaluation Benchmark for LLMs</title>
+    <link href="https://labs.scale.com/papers/multinrc"/>
+    <id>5fc1c237379624a2dc734c7df340bda1</id>
+    <published>2025-07-23T22:26:15.000Z</published>
+    <updated>2025-07-23T22:26:15.000Z</updated>
+    <summary type="text">By Alexander R. Fabbri, Diego Mares, Jorge Flores, Meher Mankikar, Ernesto Hernandez, Dean Lee, Bing Liu, Chen Xing</summary>
+    <category term="Reasoning"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains</title>
+    <link href="https://labs.scale.com/papers/rubrics_as_rewards"/>
+    <id>d1337582075cfdb100f91535614b5d02</id>
+    <published>2025-07-23T15:47:27.000Z</published>
+    <updated>2025-07-23T15:47:27.000Z</updated>
+    <summary type="text">By Anisha Gunjal, Anthony Wang, Elaine Lau, Vaskar Nath, Bing Liu, Sean M. Hendryx</summary>
+    <category term="Science of Data"/>
+    <category term="Post-Training"/>
+  </entry>
+  <entry>
+    <title>WebGuard: Building a Generalizable Guardrail for Web Agents</title>
+    <link href="https://labs.scale.com/papers/webguard"/>
+    <id>73cc391217922dab580ef78afdfba1c4</id>
+    <published>2025-07-21T17:43:39.000Z</published>
+    <updated>2025-07-21T17:43:39.000Z</updated>
+    <summary type="text">By Boyuan Zheng, Zeyi Liao, Scott Salisbury, Zeyuan Liu, Michael Lin, Qinyuan Zheng, Zifan Wang, Xiang Deng, Dawn Song, Huan Sun, Yu Su</summary>
+    <category term="Agents"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety</title>
+    <link href="https://labs.scale.com/papers/cotm"/>
+    <id>09485007a4f399f80dcd47d2aa082aac</id>
+    <published>2025-07-15T20:37:46.000Z</published>
+    <updated>2025-07-15T20:37:46.000Z</updated>
+    <summary type="text">By Tomek Korbak, Mikita Balesni, Elizabeth Barnes, Yoshua Bengio, Joe Benton, Joseph Bloom, Mark Chen, Alan Cooney, Allan Dafoe, Anca Dragan, Scott Emmons, Owain Evans, David Farhi, Ryan Greenblatt, Dan Hendrycks, Marius Hobbhahn, Evan Hubinger, Geoffrey Irving, Erik Jenner, Daniel Kokotajlo, Victoria Krakovna, Shane Legg, David Lindner, David Luan, Aleksander MÄdry, Julian Michael, Neel Nanda, Dave Orr, Jakub Pachocki, Ethan Perez, Mary Phuong, Fabien Roger, Joshua Saxe, Buck Shlegeris, MartÃ­n Soto, Eric Steinberger, Jasmine Wang, Wojciech Zaremba, Bowen Baker, Rohin Shah, Vlad Mikulik</summary>
+    <category term="Reasoning"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Teaching Models to Verbalize Reward Hacking in Chain-of-Thought Reasoning</title>
+    <link href="https://labs.scale.com/papers/verbalize_cot_reasoning"/>
+    <id>7a75953eabf21b46a55d69e9f3caa81e</id>
+    <published>2025-06-28T18:58:49.000Z</published>
+    <updated>2025-06-28T18:58:49.000Z</updated>
+    <summary type="text">By Miles Turpin, Andy Arditi, Marvin Li, Joe Benton, Julian Michael</summary>
+    <category term="Post-Training"/>
+    <category term="Reasoning"/>
+  </entry>
+  <entry>
+    <title>FORTRESS: Frontier Risk Evaluation for National Security and Public Safety</title>
+    <link href="https://labs.scale.com/papers/fortress"/>
+    <id>87b1437304e362ba0b9d70f742fea4af</id>
+    <published>2025-06-18T15:26:23.000Z</published>
+    <updated>2025-06-18T15:26:23.000Z</updated>
+    <summary type="text">By Christina Q. Knight, Kaustubh Deshpande, Ved Sirdeshmukh, Meher Mankikar, Scale Red Team, SEAL Research Team, Julian Michael</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Adaptive Guidance Accelerates Reinforcement Learning of Reasoning Models</title>
+    <link href="https://labs.scale.com/papers/guide"/>
+    <id>146875ac378fa8785aaf77cf8a2281fd</id>
+    <published>2025-06-16T16:50:55.000Z</published>
+    <updated>2025-06-16T16:50:55.000Z</updated>
+    <summary type="text">By Vaskar Nath, Elaine Lau, Anisha Gunjal, Manasi Sharma, Nikhil Baharte, Sean M. Hendryx</summary>
+    <category term="Reasoning"/>
+  </entry>
+  <entry>
+    <title>Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards</title>
+    <link href="https://labs.scale.com/papers/agent_rlvr"/>
+    <id>91808701b2aff77a1c0b4d78c32b8c63</id>
+    <published>2025-06-13T15:44:21.000Z</published>
+    <updated>2025-06-13T15:44:21.000Z</updated>
+    <summary type="text">By Jeff Da, Clinton J. Wang, Xiang Deng, Yuntao Ma, Nikhil Barhate, Sean M. Hendryx</summary>
+    <category term="Agents"/>
+    <category term="Post-Training"/>
+    <category term="Reasoning"/>
+  </entry>
+  <entry>
+    <title>A Red Teaming Roadmap Towards System-Level Safety</title>
+    <link href="https://labs.scale.com/papers/red_teaming_roadmap"/>
+    <id>1d78ed75f0a0a7d2e445e0085c7827d3</id>
+    <published>2025-06-05T15:41:49.000Z</published>
+    <updated>2025-06-05T15:41:49.000Z</updated>
+    <summary type="text">By Zifan Wang, Christina Q. Knight, Jeremy Kritz, Willow E. Primack, Julian Michael</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Assessing Robustness to Spurious Correlations in Post-Training Language Models</title>
+    <link href="https://labs.scale.com/papers/robustness_spurious_correlations"/>
+    <id>a61e49b77259cf4fc6395b419dcbd0c6</id>
+    <published>2025-05-09T15:15:04.000Z</published>
+    <updated>2025-05-09T15:15:04.000Z</updated>
+    <summary type="text">By Julia Shuieh, Prasann Singhal, Apaar Shanker, John Heyer, George Pu, Sam Denton</summary>
+    <category term="Post-Training"/>
+    <category term="Science of Data"/>
+  </entry>
+  <entry>
+    <title>Relevance Isn't All You Need: Scaling RAG Systems With Inference-Time Compute Via Multi-Criteria Reranking</title>
+    <link href="https://labs.scale.com/papers/rerank_beyond_relevance"/>
+    <id>78105f29155f46d8fdb8abc631cb1b0f</id>
+    <published>2025-03-14T18:34:53.000Z</published>
+    <updated>2025-03-14T18:34:53.000Z</updated>
+    <summary type="text">By Will LeVine, Bijan Varjavand</summary>
+    <category term="Reasoning"/>
+  </entry>
+  <entry>
+    <title>Critical Foreign Policy Decisions (CFPD)-Benchmark: Measuring Diplomatic Preferences in Large Language Models</title>
+    <link href="https://labs.scale.com/papers/cfpd"/>
+    <id>31c89e5812525330b76c65e8c080bf2b</id>
+    <published>2025-03-08T15:32:42.000Z</published>
+    <updated>2025-03-08T15:32:42.000Z</updated>
+    <summary type="text">By Benjamin Jensen, Ian Reynolds, Yasir Atalan, Michael Garcia, Austin Woo, Anthony Chen, Trevor Howarth</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems</title>
+    <link href="https://labs.scale.com/papers/mask"/>
+    <id>9f8df169e366ccfda71ff7edfb17b266</id>
+    <published>2025-03-05T17:38:32.000Z</published>
+    <updated>2025-03-05T17:38:32.000Z</updated>
+    <summary type="text">By Richard Ren, Arunim Agarwal, Mantas Mazeika, Cristina Menghini</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>ENIGMAEVAL: A Benchmark of Long Multimodal Reasoning Challenges</title>
+    <link href="https://labs.scale.com/papers/enigma_eval"/>
+    <id>d56433519b7c71f73af1d1ffabe99bb5</id>
+    <published>2025-02-13T15:22:49.000Z</published>
+    <updated>2025-02-13T15:22:49.000Z</updated>
+    <summary type="text">By Clinton J. Wang, Dean Lee, Cristina Menghini, Johannes Mols, Jack Doughty, Adam Khoja, Jayson Lynch, Sean M. Hendryx, Summer Yue, Dan Hendrycks</summary>
+    <category term="Reasoning"/>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>J2: Jailbreaking to Jailbreak</title>
+    <link href="https://labs.scale.com/papers/j2"/>
+    <id>d6de72d917df16a1ee635ffada07fb23</id>
+    <published>2025-02-11T01:51:06.000Z</published>
+    <updated>2025-02-11T01:51:06.000Z</updated>
+    <summary type="text">By Jeremy Kritz, Vaughn Robinson, Robert Vacareanu, Bijan Varjavand, Michael Choi, Bobby Gogov, Scale Red Team, Summer Yue, Willow E. Primack, Zifan Wang</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>ProjectTest: A Project-level LLM Unit Test Generation Benchmark and Impact of Error Fixing Mechanisms</title>
+    <link href="https://labs.scale.com/papers/projecttest"/>
+    <id>001ceda5a49672775dc9ee503c8fffeb</id>
+    <published>2025-02-10T20:07:01.000Z</published>
+    <updated>2025-02-10T20:07:01.000Z</updated>
+    <summary type="text">By Yibo Wang, Congying Xia, Wenting Zhao, Jiangshu Du, Chunyu Miao, Zhongfen Deng, Philip S. Yu, Chen Xing</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>MultiChallenge: A Realistic Multi-Turn Conversation Evaluation Benchmark Challenging to Frontier LLMs</title>
+    <link href="https://labs.scale.com/papers/multichallenge"/>
+    <id>c325a838fd1a09780146874341df06f6</id>
+    <published>2025-01-29T18:41:05.000Z</published>
+    <updated>2025-01-29T18:41:05.000Z</updated>
+    <summary type="text">By Ved Sirdeshmukh, Kaustubh Deshpande, Johannes Mols, Lifeng Jin, Ed-Yeremai HernÃ¡ndez Cardona, Dean Lee, Jeremy Kritz, Willow E. Primack, Summer Yue, Chen Xing</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Reasoning"/>
+  </entry>
+  <entry>
+    <title>Humanity's Last Exam</title>
+    <link href="https://labs.scale.com/papers/humanitys-last-exam"/>
+    <id>f0afc44ba9b9e371f081b73d288230f0</id>
+    <published>2025-01-23T21:50:12.000Z</published>
+    <updated>2025-01-23T21:50:12.000Z</updated>
+    <summary type="text">By Long Phan, Alice Gatti, Ziwen Han, Nathaniel Li, Josephina Hu, Hugh Zhang, Sean Shi, Michael Choi, Anish Agrawal, Arnav Chopra, Adam Khoja, Ryan Kim, Richard Ren, Jason Hausenloy, Oliver Zhang, Mantas Mazeika, Summer Yue, Alexandr Wang, Dan Hendrycks</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Reasoning"/>
+  </entry>
+  <entry>
+    <title>ToolComp: A Multi-Tool Reasoning &amp; Process Supervision Benchmark</title>
+    <link href="https://labs.scale.com/papers/toolcomp-a-multi-tool-reasoning-and-process-supervision-benchmark"/>
+    <id>6f376f066a96ff4acd605031fa597c2e</id>
+    <published>2025-01-02T19:39:22.000Z</published>
+    <updated>2025-01-02T19:39:22.000Z</updated>
+    <summary type="text">By Vaskar Nath, Pranav Raja, Claire Yoon, Sean M. Hendryx</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Reasoning"/>
+  </entry>
+  <entry>
+    <title>Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents</title>
+    <link href="https://labs.scale.com/papers/browser-art"/>
+    <id>e7a942a1d5ac23a1e04b1ba02eadb655</id>
+    <published>2024-10-11T20:53:09.000Z</published>
+    <updated>2024-10-11T20:53:09.000Z</updated>
+    <summary type="text">By Priyanshu Kumar, Elaine Lau, Saranya Vijayakumar, Tu Trinh, Scale Red Team, Elaine Chang, Vaughn Robinson, Sean M. Hendryx, Shuyan Zhou, Matt Fredrikson, Summer Yue, Zifan Wang</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Balancing Cost and Effectiveness of Synthetic Data Generation Strategies for LLMs</title>
+    <link href="https://labs.scale.com/papers/balancing-cost-and-effectiveness-of-synthetic-data-generation-strategies-for-fine-tuning-llms"/>
+    <id>1fdaf974e16bd74e6ca257132fec29e4</id>
+    <published>2024-09-29T20:50:44.000Z</published>
+    <updated>2024-09-29T20:50:44.000Z</updated>
+    <summary type="text">By Yung-Chieh Chan, George Pu, Apaar Shanker, Parth Suresh, Penn Jenks, John Heyer, Sam Denton</summary>
+    <category term="Post-Training"/>
+    <category term="Science of Data"/>
+  </entry>
+  <entry>
+    <title>Revisiting the Superficial Alignment Hypothesis</title>
+    <link href="https://labs.scale.com/papers/revisiting-the-superficial-alignment-hypothesis"/>
+    <id>6051ea9c0c13c8b3af89d62d579f7d58</id>
+    <published>2024-09-27T20:51:15.000Z</published>
+    <updated>2024-09-27T20:51:15.000Z</updated>
+    <summary type="text">By Mohit Raghavendra, Vaskar Nath, Sean M. Hendryx</summary>
+    <category term="Post-Training"/>
+  </entry>
+  <entry>
+    <title>Planning In Natural Language Improves LLM Search For Code Generation</title>
+    <link href="https://labs.scale.com/papers/planning-natural-language-llm-search-code-generation"/>
+    <id>e9722d0220dbcbd28ce59f456c582c16</id>
+    <published>2024-09-05T20:52:01.000Z</published>
+    <updated>2024-09-05T20:52:01.000Z</updated>
+    <summary type="text">By Evan Wang, Federico Cassano, Catherine Wu, Yunfeng Bai, Will Song, Vaskar Nath, Ziwen Han, Sean M. Hendryx, Summer Yue, Hugh Zhang</summary>
+    <category term="Post-Training"/>
+  </entry>
+  <entry>
+    <title>Pre-Training Multimodal Hallucination Detectors with Corrupted Grounding Data</title>
+    <link href="https://labs.scale.com/papers/pre-training-multimodal-hallucination-detectors-with-corrupted-grounding-data"/>
+    <id>192ff47719df368b6c2b34c519a820f0</id>
+    <published>2024-08-30T18:19:02.000Z</published>
+    <updated>2024-08-30T18:19:02.000Z</updated>
+    <summary type="text">By Spencer Whitehead, Jacob Phillips, Sean M. Hendryx</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Multimodal"/>
+    <category term="Science of Data"/>
+  </entry>
+  <entry>
+    <title>LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet</title>
+    <link href="https://labs.scale.com/papers/mhj"/>
+    <id>41e729a06aad54f79921cc826a813ac2</id>
+    <published>2024-08-27T20:52:45.000Z</published>
+    <updated>2024-08-27T20:52:45.000Z</updated>
+    <summary type="text">By Nathaniel Li, Ziwen Han, Ian Steneker, Willow E. Primack, Riley Goodside, Hugh Zhang, Zifan Wang, Cristina Menghini, Summer Yue</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Learning Goal-Conditioned Representations for Language Reward Models</title>
+    <link href="https://labs.scale.com/papers/learning-goalconditioned-representations-large-rewards-models"/>
+    <id>b8d3da1e0cc8e476e6f3eb0efc549610</id>
+    <published>2024-07-18T20:51:39.000Z</published>
+    <updated>2024-07-18T20:51:39.000Z</updated>
+    <summary type="text">By Vaskar Nath, Dylan Slack, Jeff Da, Yuntao Ma, Hugh Zhang, Spencer Whitehead, Sean M. Hendryx</summary>
+    <category term="Post-Training"/>
+  </entry>
+  <entry>
+    <title>A Careful Examination of Large Language Model Performance on Grade School Arithmetic</title>
+    <link href="https://labs.scale.com/papers/llm-performance-grade-school-arithmetic"/>
+    <id>10ac679fd30d0d5e97f3477d40081576</id>
+    <published>2024-05-01T20:52:23.000Z</published>
+    <updated>2024-05-01T20:52:23.000Z</updated>
+    <summary type="text">By Hugh Zhang, Jeff Da, Dean Lee, Vaughn Robinson, Catherine Wu, Will Song, Tiffany Zhao, Pranav Raja, Dylan Slack, Qin Lyu, Sean M. Hendryx, Russell Kaplan, Michele (Mike) Lunati, Summer Yue</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning</title>
+    <link href="https://labs.scale.com/papers/the-wmdp-benchmark-measuring-and-reducing-malicious-use-with-unlearning"/>
+    <id>ff761caa4ab2d922799e356a5aacea2d</id>
+    <published>2024-03-05T19:39:05.000Z</published>
+    <updated>2024-03-05T19:39:05.000Z</updated>
+    <summary type="text">By Nathaniel Li, Alexander Pan, Anjali Gopal, Summer Yue, Daniel Berrios, Alice Gatti, Justin D. Li, Ann-Kathrin Dombrowski, Shashwat Goel, Long Phan, Gabriel Mukobi, Nathan Helm-Burger, Rassin Lababidi, Lennart Justen, Andrew B. Liu, Michael Chen, Isabelle Barrass, Oliver Zhang, Xiaoyuan Zhu, Rishub Tamirisa, Bhrugu Bharathi, Adam Khoja, Zhenqi Zhao, Ariel Herbert-Voss, Cort B. Breuer, Samuel Marks, Oam Patel, Andy Zou, Mantas Mazeika, Zifan Wang, Palash Oswal, Weiran Lin, Adam A. Hunt, Justin Tienken-Harder, Kevin Y. Shih, Kemper Talley, John Guan, Russell Kaplan, Ian Steneker, David Campbell, Brad Jokubaitis, Alex Levinson, Jean Wang, William Qian, Kallol Krishna Karmakar, Steven Basart, Stephen Fitz, Mindy Levine, Ponnurangam Kumaraguru, Uday Tupakula, Vijay Varadharajan, Ruoyu Wang, Yan Shoshitaishvili, Jimmy Ba, Kevin M. Esvelt, Alexandr Wang, Dan Hendrycks</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Post-Training"/>
+  </entry>
+  <entry>
+    <title>Out-of-Distribution Detection &amp; Applications With Ablated Learned Temperature Energy</title>
+    <link href="https://labs.scale.com/papers/out-of-distribution-detection-&amp;-applications-with-ablated-learned-temperature-energy"/>
+    <id>26c2743f0ec4f8cc42cea7fa7acdeea4</id>
+    <published>2024-01-22T19:36:54.000Z</published>
+    <updated>2024-01-22T19:36:54.000Z</updated>
+    <summary type="text">By Will LeVine, Benjamin Pikus, Jacob Phillips, Berk Norman, Fernando Amat Gil, Sean M. Hendryx</summary>
+    <category term="Computer Vision"/>
+  </entry>
+  <entry>
+    <title>A Baseline Analysis of Reward Modelsâ Ability To Accurately Analyze Foundation Models Under Distribution Shift</title>
+    <link href="https://labs.scale.com/papers/a-baseline-analysis-of-reward-models-ability-to-accurately-analyze-foundation-models-under-distribution-shift"/>
+    <id>4d7911793b47e7c8ea3ef78b1b9f577d</id>
+    <published>2023-11-21T19:37:07.000Z</published>
+    <updated>2023-11-21T19:37:07.000Z</updated>
+    <summary type="text">By Will LeVine, Benjamin Pikus, Anthony Chen, Sean M. Hendryx</summary>
+    <category term="Post-Training"/>
+  </entry>
+  <entry>
+    <title>A Holistic Approach For Test And Evaluation Of Large Language Models</title>
+    <link href="https://labs.scale.com/papers/a-holistic-approach-for-test-and-evaluation-of-large-language-models"/>
+    <id>e4c7cff4ac1b6956d2cad1018bed48b1</id>
+    <published>2023-10-05T18:38:16.000Z</published>
+    <updated>2023-10-05T18:38:16.000Z</updated>
+    <summary type="text">By Dylan Slack, Jean Wang, Denis Semenenko, Kate Park, Sean M. Hendryx</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>On the Performance of Multimodal Language Models</title>
+    <link href="https://labs.scale.com/papers/on-the-performance-of-multimodal-language-models"/>
+    <id>43c14759886ba2ca8295cf7b9b6f75ec</id>
+    <published>2023-10-04T18:36:32.000Z</published>
+    <updated>2023-10-04T18:36:32.000Z</updated>
+    <summary type="text">By Utsav Garg, Erhan Bas</summary>
+    <category term="Multimodal"/>
+    <category term="Post-Training"/>
+  </entry>
+  <entry>
+    <title>Empirical Analysis of the Strengths and Weaknesses of PEFT Techniques for LLMs</title>
+    <link href="https://labs.scale.com/papers/empirical-analysis-of-the-strengths-and-weaknesses-of-peft-techniques-for-llms"/>
+    <id>c7b9953c06f2c1bdec1354de58ea030d</id>
+    <published>2023-04-28T18:34:53.000Z</published>
+    <updated>2023-04-28T18:34:53.000Z</updated>
+    <summary type="text">By George Pu, Anirudh Jain, Jihan Yin, Russell Kaplan</summary>
+    <category term="Post-Training"/>
+  </entry>
+  <entry>
+    <title>Detecting and Preventing Hallucinations in Large Vision Language Models</title>
+    <link href="https://labs.scale.com/papers/detecting-and-preventing-hallucinations-in-large-vision-language-models"/>
+    <id>746f2b5cff4de82be47009bff5873119</id>
+    <published>2023-04-11T18:35:40.000Z</published>
+    <updated>2023-04-11T18:35:40.000Z</updated>
+    <summary type="text">By Anisha Gunjal, Jihan Yin, Erhan Bas</summary>
+    <category term="Computer Vision"/>
+  </entry>
+  <entry>
+    <title>Enabling Calibration In The Zero-shot Inference Of Large Vision-Language Models</title>
+    <link href="https://labs.scale.com/papers/enabling-calibration-in-the-zero-shot-inference-of-large-vision-language-models"/>
+    <id>57192e2805532b8791a4b74bfd147223</id>
+    <published>2023-03-11T19:35:24.000Z</published>
+    <updated>2023-03-11T19:35:24.000Z</updated>
+    <summary type="text">By Will LeVine, Benjamin Pikus, Pranav Raja, Fernando Amat Gil</summary>
+    <category term="Computer Vision"/>
+  </entry>
+  <entry>
+    <title>Improving the Accuracy-Robustness Trade-Off of Classifiers via Adaptive Smoothing</title>
+    <link href="https://labs.scale.com/papers/improving-the-accuracy-robustness-trade-off-of-classifiers-via-adaptive-smoothing"/>
+    <id>66eaef7f864c93acf80a88e6c97c54a0</id>
+    <published>2023-01-29T19:34:15.000Z</published>
+    <updated>2023-01-29T19:34:15.000Z</updated>
+    <summary type="text">By Yatong Bai, Brendon G. Anderson, Aerin Kim, Somayeh Sojoudi</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>GlideNet: Global, Local and Intrinsic based Dense Embedding NETwork for Multi-category Attributes Prediction</title>
+    <link href="https://labs.scale.com/papers/glidenet-global-local-and-intrinsic-based-dense-embedding-network-for-multi-category-attributes-prediction"/>
+    <id>a533af8cbb4f4d8a187f731ca1fc7f5c</id>
+    <published>2022-03-07T19:29:50.000Z</published>
+    <updated>2022-03-07T19:29:50.000Z</updated>
+    <summary type="text">By Kareem Metwaly, Aerin Kim, Elliot Branson, Vishal Monga</summary>
+    <category term="Computer Vision"/>
+  </entry>
+  <entry>
+    <title>CAR â Cityscapes Attributes Recognition A Multi-category Attributes Dataset for Autonomous Vehicles</title>
+    <link href="https://labs.scale.com/papers/car-cityscapes-attributes-recognition-a-multi-category-attributes-dataset-for-autonomous-vehicles"/>
+    <id>78355645d7e41cf1213f99a2ac8b1e19</id>
+    <published>2021-11-16T19:29:31.000Z</published>
+    <updated>2021-11-16T19:29:31.000Z</updated>
+    <summary type="text">By Kareem Metwaly, Aerin Kim, Elliot Branson, Vishal Monga</summary>
+    <category term="Computer Vision"/>
+  </entry>
+  <entry>
+    <title>Natural Adversarial Objects</title>
+    <link href="https://labs.scale.com/papers/natural-adversarial-objects"/>
+    <id>ce44053a39bf818195ca0cd4dea6303e</id>
+    <published>2021-11-07T19:32:46.000Z</published>
+    <updated>2021-11-07T19:32:46.000Z</updated>
+    <summary type="text">By Felix Lau, Nishant Subramani, Sasha Harrison, Aerin Kim, Elliot Branson, Rosanne Liu</summary>
+    <category term="Computer Vision"/>
+  </entry>
+  <entry>
+    <title>DEBAGREEMENT: A comment-reply dataset for (dis)agreement detection in online debates</title>
+    <link href="https://labs.scale.com/papers/debagreement-a-comment-reply-dataset-for-disagreement-detection-in-online-debates"/>
+    <id>72d374e80ae8deb33ee4a2fee715eae9</id>
+    <published>2021-10-11T18:33:31.000Z</published>
+    <updated>2021-10-11T18:33:31.000Z</updated>
+    <summary type="text">By John PouguÃ©-Biyong, Valentina Semenova, Alexandre Matton, Rachel Han, Aerin Kim, Renaud Lambiotte, J. Doyne Farmer</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>On The State of Data In Computer Vision: Human Annotations Remain Indispensable for Developing Deep Learning Models</title>
+    <link href="https://labs.scale.com/papers/on-the-state-of-data-in-computer-vision-human-annotations-remain-indispensable-for-developing-deep-learning-models"/>
+    <id>a8cf2f1576fce829a8beca3c95de5e21</id>
+    <published>2021-07-31T18:23:36.000Z</published>
+    <updated>2021-07-31T18:23:36.000Z</updated>
+    <summary type="text">By Zeyad Emam, Andrew Kondrich, Sasha Harrison, Felix Lau, Yushi Wang, Aerin Kim, Elliot Branson</summary>
+    <category term="Computer Vision"/>
+    <category term="Science of Data"/>
+  </entry>
+  <entry>
+    <title>Evaluating Deep Neural Networks Trained on Clinical Images in Dermatology with the Fitzpatrick 17k Dataset</title>
+    <link href="https://labs.scale.com/papers/evaluating-deep-neural-networks-trained-on-clinical-images-in-dermatology-with-the-fitzpatrick-17k-dataset"/>
+    <id>c449a95e352e302983e991eeaa431f7e</id>
+    <published>2021-04-20T18:31:01.000Z</published>
+    <updated>2021-04-20T18:31:01.000Z</updated>
+    <summary type="text">By Matthew Groh, Caleb Harris, Luis Soenksen, Felix Lau, Rachel Han, Aerin Kim, Arash Koochek, Omar Badri</summary>
+    <category term="Computer Vision"/>
+  </entry>
+  <entry>
+    <title>A Survey of Deep Learning Approaches for OCR and Document Understanding</title>
+    <link href="https://labs.scale.com/papers/a-survey-of-deep-learning-approaches-for-ocr-and-document-understanding"/>
+    <id>a3cbf2b61b42a0046413d0ca5b0e11e4</id>
+    <published>2020-11-27T19:22:44.000Z</published>
+    <updated>2020-11-27T19:22:44.000Z</updated>
+    <summary type="text">By Nishant Subramani, Alexandre Matton, Malcolm Greaves, Adrian Lam</summary>
+    <category term="Computer Vision"/>
+  </entry>
+</feed>

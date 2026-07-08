@@ -905,6 +905,28 @@
           "output_file": "krea_blog.xml"
         }
       ]
+    },
+    {
+      "org_key": "scalelabs",
+      "name": "Scale Labs",
+      "strategy": "request",
+      "base_url": "https://labs.scale.com",
+      "favicon": "https://labs.scale.com/images/favicon.svg",
+      "category": "Eval",
+      "pages": [
+        {
+          "key": "blog",
+          "label": "Scale Labs Blog",
+          "url": "https://labs.scale.com/blog",
+          "output_file": "scalelabs_blog.xml"
+        },
+        {
+          "key": "papers",
+          "label": "Scale Labs Papers",
+          "url": "https://labs.scale.com/papers",
+          "output_file": "scalelabs_papers.xml"
+        }
+      ]
     }
   ],
   "official": [
@@ -1267,6 +1289,12 @@
       "xmlUrl": "https://zed.dev/blog.rss",
       "htmlUrl": "https://zed.dev/blog",
       "category": "Tools"
+    },
+    {
+      "name": "DigitalApplied Blog",
+      "xmlUrl": "https://www.digitalapplied.com/feed.xml",
+      "htmlUrl": "https://www.digitalapplied.com/blog",
+      "category": "Blogs"
     }
   ]
 }

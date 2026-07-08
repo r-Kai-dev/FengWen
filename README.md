@@ -50,6 +50,7 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 | [lcamtuf's thing](https://lcamtuf.substack.com/) | [lcamtuf's thing Feed](https://lcamtuf.substack.com/feed) | Official |
 | [The Sequence](https://thesequence.substack.com/) | [The Sequence Feed](https://thesequence.substack.com/feed) | Official |
 | [Animation Obsessive Blog](https://animationobsessive.substack.com/) | [Animation Obsessive Blog Feed](https://animationobsessive.substack.com/feed) | Official |
+| [DigitalApplied Blog](https://www.digitalapplied.com/blog) | [DigitalApplied Blog Feed](https://www.digitalapplied.com/feed.xml) | Official |
 
 
 ## Daily
@@ -67,6 +68,8 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 | [Artificial Analysis Articles](https://artificialanalysis.ai/articles) | [artificial_analysis_articles.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/artificial_analysis_articles.xml) | Created |
 | [Agents' Last Exam Blog](https://agents-last-exam.org/blogs) | [agentslastexam_blogs.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/agentslastexam_blogs.xml) | Created |
 | [Vals AI News](https://www.vals.ai/news) | [vals_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/vals_news.xml) | Created |
+| [Scale Labs Blog](https://labs.scale.com/blog) | [scalelabs_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/scalelabs_blog.xml) | Created |
+| [Scale Labs Papers](https://labs.scale.com/papers) | [scalelabs_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/scalelabs_papers.xml) | Created |
 | [Arc Prize Blog](https://arcprize.org/blog) | [Arc Prize Blog Feed](https://arcprize.org/feed.xml) | Official |
 | [Arena AI Blog](https://arena.ai/blog/) | [Arena AI Blog Feed](https://arena.ai/blog/rss/) | Official |
 

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Scale Labs Blog</title>
+  <icon>https://labs.scale.com/images/favicon.svg</icon>
+  <link href="https://labs.scale.com/blog"/>
+  <id>https://labs.scale.com/blog</id>
+  <updated>2026-07-08</updated>
+  <author>
+    <name>Scale Labs</name>
+  </author>
+  <entry>
+    <title>MCP vs. CLI: Does an AI Agentâs Tool Interface Still Matter?</title>
+    <link href="https://labs.scale.com/blog/mcp-vs-cli"/>
+    <id>f00a0714e78143aea8afca0fb5bec264</id>
+    <published>2026-07-08</published>
+    <updated>2026-07-08</updated>
+    <summary type="text">CLI isn't a better default than MCP for AI agents. We ran a controlled 50-task comparison on identical backends across four frontier models. Interface choice matters, but less than you'd think, and the gap closes fast as models improve. — By Sunjie Hou, Razvan-Gabriel Dumitru, Edgar Arakelyan, Daniel Yue Zhang, Helen Li, Chetan Rane</summary>
+    <category term="Agents"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Enterprise"/>
+  </entry>
+  <entry>
+    <title>Insights Generator: Automated Failure Mode Analysis for Agents</title>
+    <link href="https://labs.scale.com/blog/insights-generator"/>
+    <id>1c3331edd4fc2a688501570558ec7020</id>
+    <published>2026-06-16</published>
+    <updated>2026-06-16</updated>
+    <summary type="text">Insights Generator (IG) analyzes thousands of agent execution traces at once and surfaces the behavioral patterns behind agent failures, with grounded evidence and prevalence estimates for each finding. — By Akshay Manglik, Veronica Chatrath, Yuan (Emily) Xue</summary>
+    <category term="Agents"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Can Coding Agents Tackle Early-Stage Drug Discovery?</title>
+    <link href="https://labs.scale.com/blog/coding-agents-drug-discovery"/>
+    <id>085be289710a62fab1b646119f35e738</id>
+    <published>2026-06-04</published>
+    <updated>2026-06-04</updated>
+    <summary type="text">Across 66 expert-curated drug-discovery tasks, three frontier coding agents each show distinct strengths but share one weakness: the long, multi-step pipelines that demand high-level planning rather than scientific knowledge. — By Afra Feyza AkyÃ¼rek, Xinming Tu, Sofia Monasdotter, Yuanhao Qu, Sergey Chekhov, Sami Hassaan</summary>
+    <category term="Agents"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Reasoning"/>
+    <category term="Enterprise"/>
+  </entry>
+  <entry>
+    <title>HiL-Dynamics: Understanding Agents That Donât Know What They Donât Know</title>
+    <link href="https://labs.scale.com/blog/hil-dynamics"/>
+    <id>8ff9a1fc7e1e1361aa8d58017be3906f</id>
+    <published>2026-05-27</published>
+    <updated>2026-05-27</updated>
+    <summary type="text">HiL-Dynamics is our new diagnostic tool for studying how coding agents handle underspecified tasks. Across four modern harnesses, the verdict is the same: agents have learned to ask well, but not when to ask. — By Tu Trinh, Kelvin Luu, Weijun Luo, Matthew Siegel, Mohamed Elfeki</summary>
+    <category term="Agents"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>The Path to Large Scale Dense Video Captioning</title>
+    <link href="https://labs.scale.com/blog/path-to-large-scale-dense-video-captioning"/>
+    <id>8a9aab88f3948403c22cc29ed44b7145</id>
+    <published>2026-05-19</published>
+    <updated>2026-05-19</updated>
+    <summary type="text">We ran dozens of experiments on dense captioning for robot manipulation video. The biggest lever turned out to be how we represented the video to the model. Most techniques from the literature added noise on smaller models. — By Jade Choghari, Agustin Sansone, Nicolas Pasqualis, Conrado Mader, Aleks Tiupikov, Mouli Sivapurapu</summary>
+    <category term="Multimodal"/>
+    <category term="Physical AI"/>
+    <category term="Science of Data"/>
+  </entry>
+  <entry>
+    <title>57 Healthcare Professionals Told Us What They Need from AI</title>
+    <link href="https://labs.scale.com/blog/healthcare-survey"/>
+    <id>08b4d2909f46d4b9549519c68380cf21</id>
+    <published>2026-05-11</published>
+    <updated>2026-05-11</updated>
+    <summary type="text">We surveyed 57 healthcare professionals about what they actually want from AI. Their answers point to three capability gaps that current evaluations miss. — By Sami Hassaan, Oscar Kavanagh, Matthew Siegel</summary>
+    <category term="Evaluation and Alignment"/>
+    <category term="Enterprise"/>
+  </entry>
+  <entry>
+    <title>Coverage Not Averages: Rethinking Retrieval Evaluation</title>
+    <link href="https://labs.scale.com/blog/coverage-not-averages"/>
+    <id>ea886be2f4a57c6a14e52a279ea0c0ea</id>
+    <published>2026-05-06</published>
+    <updated>2026-05-06</updated>
+    <summary type="text">A single benchmark score suggests stability and completeness. In reality, it may reflect performance on a narrow and biased slice of the problem. — By Andrew Klearman, Radu Revutchi, Rohin Garg</summary>
+    <category term="Evaluation and Alignment"/>
+    <category term="Enterprise"/>
+  </entry>
+  <entry>
+    <title>Improving Multi-Turn Tool Use with GRPO: Results and Insights</title>
+    <link href="https://labs.scale.com/blog/improving-multi-turn-tool-use-with-grpo"/>
+    <id>274378d39f7638ee0553be1201ab008d</id>
+    <published>2026-04-06</published>
+    <updated>2026-04-06</updated>
+    <summary type="text">Weâre sharing early insights from applying GRPO reinforcement learning to multi-turn tool-use tasks using our MCP Tool Use dataset. In a controlled experiment with 3,000 samples, we fine-tuned Qwen2.5-14B using LoRA (rank 32) and evaluated it on MCP Atlas. We observed significant improvement in both coverage rate and pass rate. In this article, we share observations on how data quality, reward design, and training constraints interact in agentic training settings.  — By Razvan Dumitru, Chetan Rane, Sami Hassaan, Divyansh Agarwal</summary>
+    <category term="Post-Training"/>
+    <category term="Agents"/>
+  </entry>
+  <entry>
+    <title>MultiChallenge Update: A More Reliable Multi-Turn Benchmark</title>
+    <link href="https://labs.scale.com/blog/multichallenge-update"/>
+    <id>d5c942ff64c2101164f73abf09d589e0</id>
+    <published>2026-03-23</published>
+    <updated>2026-03-23</updated>
+    <summary type="text">Weâve updated the MultiChallenge benchmark to improve evaluation reliability and reduce subjectivity, and re-evaluated frontier models under the new setup. — By Vipul Gupta, Matthew Siegel, Marcos Ayestaran</summary>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>Voice Showdown: An In-the-Wild Preference Arena for Voice AI</title>
+    <link href="https://labs.scale.com/blog/voice-showdown"/>
+    <id>0b1ea3aea669c3eae0f33bd490438196</id>
+    <published>2026-03-20</published>
+    <updated>2026-03-20</updated>
+    <summary type="text">Voice Showdown is the first large-scale preference arena for voice AI, ranking models through blind comparisons embedded in real user conversations across 60+ languages. — By Advait Gosai, Janie Gu, Bing Liu, Mohamed Elfeki</summary>
+    <category term="Evaluation and Alignment"/>
+    <category term="Multimodal"/>
+  </entry>
+  <entry>
+    <title>Agentic Rubrics: Teaching AI to Verify Code the Way Developers Do</title>
+    <link href="https://labs.scale.com/blog/agentic-rubrics"/>
+    <id>0f6ddf0346a95ec90bb183ee4f3f7d2b</id>
+    <published>2026-03-11</published>
+    <updated>2026-03-11</updated>
+    <summary type="text">Agentic Rubrics is a method for verifying AI-generated code fixes. An agent explores the repo, writes a checklist for what a correct patch should do, and uses that rubric to score candidate fixes. — By Mohit Raghavendra, Anisha Gunjal, Bing Liu, Yunzhong He</summary>
+    <category term="Agents"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>VeRO: Can AI Agents Build Better AI Agents?</title>
+    <link href="https://labs.scale.com/blog/vero"/>
+    <id>0a0ad094ab5d5d0fed0d21dbe910afcb</id>
+    <published>2026-03-05</published>
+    <updated>2026-03-05</updated>
+    <summary type="text">VeRO benchmarks whether coding agents can improve other AI agents by modifying their prompts, tools, and control logic. Across 105 optimization runs, results show modest gains on tool-use tasks but persistent limits in exploration, cross-model generalization, and deeper architectural changes. — By Varun Ursekar, Apaar Shanker, Veronica Chatrath, Sam Denton</summary>
+    <category term="Agents"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
+  <entry>
+    <title>When AI Safety Becomes a DenialâofâService for Defenders</title>
+    <link href="https://labs.scale.com/blog/drb"/>
+    <id>1e565833c632840a6c52b91432be9fce</id>
+    <published>2026-03-04</published>
+    <updated>2026-03-04</updated>
+    <summary type="text">Most AI safety benchmarks measure whether models help when they shouldnât. But what happens when they refuse when they shouldnât? An analysis of real-world defender interactions reveals how alignment systems can block legitimate cybersecurity workâexposing a blind spot in how AI safety is currently evaluated. — By David Campbell</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Enterprise"/>
+  </entry>
+  <entry>
+    <title>Introducing Long Horizon Augmented Workflows: Controllable Underspecification for Long-Horizon Tasks</title>
+    <link href="https://labs.scale.com/blog/LHAW"/>
+    <id>096b6a77c4dac41c55db84a6feee158f</id>
+    <published>2026-02-17</published>
+    <updated>2026-02-17</updated>
+    <summary type="text">LHAW is a dataset-agnostic pipeline for generating underspecified long-horizon tasks and evaluating strategic clarification. Across MCP-Atlas, TAC, and SWE-Bench Pro, we find large differences in how frontier models detect missing information and recover performance under ambiguity. — By George Pu, Mike Lee, Sam Denton</summary>
+    <category term="Agents"/>
+    <category term="Evaluation and Alignment"/>
+    <category term="Science of Data"/>
+  </entry>
+  <entry>
+    <title>How Profession Shapes LLM Usage: Insights from Scale Showdown</title>
+    <link href="https://labs.scale.com/blog/showdown-insights"/>
+    <id>6f1141fa386e7c992a4b56ef74d9cc12</id>
+    <published>2026-01-28</published>
+    <updated>2026-01-28</updated>
+    <summary type="text">We analyze 580k+ production prompts and 100k+ preference battles from Scale Showdown to study how profession shapes LLM usage. We find that professional backgroundâindependent of topicâpredicts prompt difficulty, task type, and model preference, with domain experts asking harder in-domain questions and ranking models differently. These results motivate profession-aware evaluation of LLMs in expert workflows. — By Janie Gu, Jaehwan Jeong, David Lee, Bing Liu, Zihao Wang</summary>
+    <category term="Evaluation and Alignment"/>
+    <category term="Enterprise"/>
+  </entry>
+  <entry>
+    <title>MoReBench: Evaluating the Process of AI Moral Reasoning</title>
+    <link href="https://labs.scale.com/blog/morebench"/>
+    <id>1e3bd80f9a9c1020ff3ca498a5ce27b2</id>
+    <published>2026-01-23</published>
+    <updated>2026-01-23</updated>
+    <summary type="text">MoReBench is a benchmark designed to evaluate the procedural moral reasoning of large language models. Using expert-authored rubrics across diverse ethical scenarios, it scores models on the structure and coherence of their reasoning rather than task outcomes. Our findings show that moral reasoning remains weakly correlated with established benchmarks and warrants targeted evaluation and training. — By  Brandon Handoko, Matthew Siegel, Mike Lee</summary>
+    <category term="Evaluation and Alignment"/>
+    <category term="Reasoning"/>
+    <category term="Safety &amp; Oversight"/>
+  </entry>
+  <entry>
+    <title>Training Robust Multi-Turn LM Agents with On-Policy Expert Corrections</title>
+    <link href="https://labs.scale.com/blog/training-robust-multi-turn-lm-agents-with-on-policy-expert-corrections"/>
+    <id>2532c2d2ee6a8d5c7955b91857bbaf5b</id>
+    <published>2026-01-12</published>
+    <updated>2026-01-12</updated>
+    <summary type="text">In our recent work, Imitation Learning for Multi-Turn LM Agents via On-Policy Expert Corrections, we expose the problem of covariate shift in SWE LM agents and propose a simple, practical fix that significantly improves training efficiency and agent robustness. — By Niklas Lauffer</summary>
+    <category term="Post-Training"/>
+    <category term="Agents"/>
+  </entry>
+  <entry>
+    <title>Scaling Enterprise Agent Performance with Reinforcement Learning via Verifiable Feedback Loops</title>
+    <link href="https://labs.scale.com/blog/scaling-enterprise-agent-performance-with-reinforcement-learning-via-verifiable-feedback-loops"/>
+    <id>752b6de12e1727016f08add127af2a5a</id>
+    <published>2025-11-17</published>
+    <updated>2025-11-17</updated>
+    <summary type="text">We demonstrate that reinforcement learning can be used to fine-tune agents within realistic enterprise environments, leveraging task-specific feedback and structured rewards to substantially improve performance metrics compared to baseline models.  — By Jerry Chan, Vijay Kalmath, George Pu, Sam Denton</summary>
+    <category term="Post-Training"/>
+    <category term="Agents"/>
+    <category term="Enterprise"/>
+  </entry>
+</feed>
