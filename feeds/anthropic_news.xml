@@ -4,10 +4,34 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-07-06T00:00:00+00:00</updated>
+  <updated>2026-07-09T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</title>
+    <link href="https://www.anthropic.com/news/ben-bernanke"/>
+    <id>361409cf8b2d992576ada81da469ffe0</id>
+    <published>2026-07-09T00:00:00+00:00</published>
+    <updated>2026-07-09T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
+  <entry>
+    <title>Introducing a way to reflect on how you use Claude</title>
+    <link href="https://www.anthropic.com/news/reflect-with-claude"/>
+    <id>1c0e51e59a8275b802c3444328fc83e6</id>
+    <published>2026-07-09T00:00:00+00:00</published>
+    <updated>2026-07-09T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
+  <entry>
+    <title>Inviting hard questions</title>
+    <link href="https://www.anthropic.com/news/hard-questions"/>
+    <id>508b9ce6d119c16c86ca248af42665a2</id>
+    <published>2026-07-09T00:00:00+00:00</published>
+    <updated>2026-07-09T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
   <entry>
     <title>Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</title>
     <link href="https://www.anthropic.com/news/alberta-government-claude-cybersecurity"/>
@@ -15,6 +39,14 @@
     <published>2026-07-06T00:00:00+00:00</published>
     <updated>2026-07-06T00:00:00+00:00</updated>
     <category term="Case Study"/>
+  </entry>
+  <entry>
+    <title>The Making of Claude Code</title>
+    <link href="https://www.anthropic.com/news/making-of-claude-code"/>
+    <id>6bd67bd55a090b3e377ce9da32514401</id>
+    <published>2026-07-06T00:00:00+00:00</published>
+    <updated>2026-07-06T00:00:00+00:00</updated>
+    <category term="Features"/>
   </entry>
   <entry>
     <title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
@@ -62,30 +94,6 @@
     <id>b517949b3906c23def840a912f313467</id>
     <published>2026-06-17T00:00:00+00:00</published>
     <updated>2026-06-17T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-  </entry>
-  <entry>
-    <title>Results from the first Anthropic Public Record</title>
-    <link href="https://www.anthropic.com/news/anthropic-public-record"/>
-    <id>ef39059b189429c38416ae3a8b4d10db</id>
-    <published>2026-06-12T00:00:00+00:00</published>
-    <updated>2026-06-12T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-  </entry>
-  <entry>
-    <title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
-    <link href="https://www.anthropic.com/news/fable-mythos-access"/>
-    <id>a68f354d38a31d7f865dae2f4721c32b</id>
-    <published>2026-06-12T00:00:00+00:00</published>
-    <updated>2026-06-12T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-  </entry>
-  <entry>
-    <title>TCS and Anthropic partner to bring Claude to regulated industries</title>
-    <link href="https://www.anthropic.com/news/tcs-anthropic-partnership"/>
-    <id>652f6cdc62ee95b1fdcb08c26f22dbe2</id>
-    <published>2026-06-12T00:00:00+00:00</published>
-    <updated>2026-06-12T00:00:00+00:00</updated>
     <category term="Announcements"/>
   </entry>
 </feed>

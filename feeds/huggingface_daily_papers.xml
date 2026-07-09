@@ -11,7 +11,7 @@
     <id>a1a5ef7332b51401fccc656e1093bcc6</id>
     <published>2026-06-28T20:00:00.000Z</published>
     <updated>2026-06-28T20:00:00.000Z</updated>
-    <summary type="text">We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf... \u00b7 Upvotes: 306 \u00b7 GitHub Stars: 21 \u00b7 Authors: Yihao Wang, Yuheng Ji, Mingyu Cao</summary>
+    <summary type="text">We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf... \u00b7 Upvotes: 308 \u00b7 GitHub Stars: 29 \u00b7 Authors: Yihao Wang, Yuheng Ji, Mingyu Cao</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +21,7 @@
     <id>f4599f386c59bd87cf56161e26854819</id>
     <published>2026-06-21T20:00:00.000Z</published>
     <updated>2026-06-21T20:00:00.000Z</updated>
-    <summary type="text">Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constrai... \u00b7 Upvotes: 7 \u00b7 GitHub Stars: 1645 \u00b7 Authors: Yujia Zheng, Vishal Verma, Mantej Gill</summary>
+    <summary type="text">Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constrai... \u00b7 Upvotes: 7 \u00b7 GitHub Stars: 1646 \u00b7 Authors: Yujia Zheng, Vishal Verma, Mantej Gill</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +31,17 @@
     <id>a7c689189eb7a6484ab2786a29a52d86</id>
     <published>2026-06-21T20:00:00.000Z</published>
     <updated>2026-06-21T20:00:00.000Z</updated>
-    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 51 \u00b7 GitHub Stars: 13675 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
+    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 52 \u00b7 GitHub Stars: 13810 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>OpenRath: Session-Centered Runtime State for Agent Systems</title>
+    <link href="https://arxiv.org/abs/2606.19409"/>
+    <id>84d3f303c945ebb7c18c4b4ecb4ad4d7</id>
+    <published>2026-06-16T20:00:00.000Z</published>
+    <updated>2026-06-16T20:00:00.000Z</updated>
+    <summary type="text">Modern agent systems often suffer from fragmented runtime state: transcripts, tool effects, memory events, workspace placement, branch provenance, and replay evidence are recorded separately and becom... \u00b7 Upvotes: 77 \u00b7 GitHub Stars: 1079 \u00b7 Authors: Fukang Wen, Zhijie Wang, Ruilin Xu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +51,7 @@
     <id>e23ec17cd41a38ea7dcd13bbf914e395</id>
     <published>2026-06-15T20:00:00.000Z</published>
     <updated>2026-06-15T20:00:00.000Z</updated>
-    <summary type="text">World models are transitioning from passive visual generators to foundational, operational infrastructure for Physical AI: they must natively acquire world knowledge from heterogeneous experience, mai... \u00b7 Upvotes: 38 \u00b7 GitHub Stars: 1403 \u00b7 Authors: Kairos Team, Fei Wang, Shan You</summary>
+    <summary type="text">World models are transitioning from passive visual generators to foundational, operational infrastructure for Physical AI: they must natively acquire world knowledge from heterogeneous experience, mai... \u00b7 Upvotes: 38 \u00b7 GitHub Stars: 1425 \u00b7 Authors: Kairos Team, Fei Wang, Shan You</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +81,7 @@
     <id>fc9a07a4b30c1ddcdc766ecbb8431a6b</id>
     <published>2026-06-14T20:00:00.000Z</published>
     <updated>2026-06-14T20:00:00.000Z</updated>
-    <summary type="text">This technical report introduces VibeThinker-3B, a compact dense model with 3B parameters developed to investigate how far verifiable reasoning can be pushed within a strictly small-model regime. Buil... \u00b7 Upvotes: 122 \u00b7 GitHub Stars: 1463 \u00b7 Authors: Sen Xu, Shixi Liu, Wei Wang</summary>
+    <summary type="text">This technical report introduces VibeThinker-3B, a compact dense model with 3B parameters developed to investigate how far verifiable reasoning can be pushed within a strictly small-model regime. Buil... \u00b7 Upvotes: 122 \u00b7 GitHub Stars: 1465 \u00b7 Authors: Sen Xu, Shixi Liu, Wei Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +91,7 @@
     <id>d366d28708fe887c9ce865e915f32a2f</id>
     <published>2026-06-09T20:00:00.000Z</published>
     <updated>2026-06-09T20:00:00.000Z</updated>
-    <summary type="text">Many moments in the real world do not wait for a user to ask. A fire starts on a security monitor, an expression flickers across a video call, or a product a viewer wants flashes by in a livestream. Y... \u00b7 Upvotes: 209 \u00b7 GitHub Stars: 1178 \u00b7 Authors: Dingyu Yao, Junhao Zhou, Chenxu Yang</summary>
+    <summary type="text">Many moments in the real world do not wait for a user to ask. A fire starts on a security monitor, an expression flickers across a video call, or a product a viewer wants flashes by in a livestream. Y... \u00b7 Upvotes: 210 \u00b7 GitHub Stars: 1205 \u00b7 Authors: Dingyu Yao, Junhao Zhou, Chenxu Yang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,7 +101,7 @@
     <id>a41a5f642e1f28ae7bc4e3ad81159ddd</id>
     <published>2026-06-07T20:00:00.000Z</published>
     <updated>2026-06-07T20:00:00.000Z</updated>
-    <summary type="text">We present ABot-Earth 0.5, a generative 3D framework designed to synthesize vast, seamless 3D environments from ubiquitous, geospatially referenced satellite imagery. To achieve this, we propose a nov... \u00b7 Upvotes: 486 \u00b7 GitHub Stars: 177 \u00b7 Authors: Ming Qian, Tianjian Ouyang, Mingchao Sun</summary>
+    <summary type="text">We present ABot-Earth 0.5, a generative 3D framework designed to synthesize vast, seamless 3D environments from ubiquitous, geospatially referenced satellite imagery. To achieve this, we propose a nov... \u00b7 Upvotes: 486 \u00b7 GitHub Stars: 179 \u00b7 Authors: Ming Qian, Tianjian Ouyang, Mingchao Sun</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -101,17 +111,7 @@
     <id>2d7612d3c938c9e51b341aead3ae0c2a</id>
     <published>2026-06-02T20:00:00.000Z</published>
     <updated>2026-06-02T20:00:00.000Z</updated>
-    <summary type="text">Recent AI systems have achieved strong results on a wide range of benchmarks, yet these gains have not translated into economically meaningful deployment across many professional domains. We argue tha... \u00b7 Upvotes: 374 \u00b7 GitHub Stars: 799 \u00b7 Authors: Yiyou Sun, Xinyang Han, Weichen Zhang</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>SIA: Self Improving AI with Harness &amp; Weight Updates</title>
-    <link href="https://arxiv.org/abs/2605.27276"/>
-    <id>0c3c3d80ab1252d2042e5881de1abad2</id>
-    <published>2026-05-25T20:00:00.000Z</published>
-    <updated>2026-05-25T20:00:00.000Z</updated>
-    <summary type="text">Humans are the bottleneck in building and improving AI. Both the models and the agents that wrap them are written, tuned, and corrected by people. The long-horizon goal of an AI that can figure out ho... \u00b7 Upvotes: 16 \u00b7 GitHub Stars: 1969 \u00b7 Authors: Prannay Hebbar, Yogendra Manawat, Samuel Verboomen</summary>
+    <summary type="text">Recent AI systems have achieved strong results on a wide range of benchmarks, yet these gains have not translated into economically meaningful deployment across many professional domains. We argue tha... \u00b7 Upvotes: 376 \u00b7 GitHub Stars: 804 \u00b7 Authors: Yiyou Sun, Xinyang Han, Weichen Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

@@ -4,16 +4,24 @@
   <icon>https://static.xx.fbcdn.net/rsrc.php/yi/r/gbO80SSOuBU.ico</icon>
   <link href="https://ai.meta.com/blog"/>
   <id>https://ai.meta.com/blog</id>
-  <updated>2026-07-07T00:00:00+00:00</updated>
+  <updated>2026-07-09T00:00:00+00:00</updated>
   <author>
     <name>Meta AI</name>
   </author>
+  <entry>
+    <title>Introducing Muse Spark 1.1</title>
+    <link href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/"/>
+    <id>8d621e3e4514f86f925c9f8163ae1b6f</id>
+    <published>2026-07-09T00:00:00+00:00</published>
+    <updated>2026-07-09T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Introducing Muse Image and Muse Video</title>
     <link href="https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"/>
     <id>5e9a9359f3f166d61509813f0abada16</id>
     <published>2026-07-07T00:00:00+00:00</published>
     <updated>2026-07-07T00:00:00+00:00</updated>
+    <category term="Research"/>
   </entry>
   <entry>
     <title>From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery</title>
@@ -37,13 +45,5 @@
     <published>2026-04-08T00:00:00+00:00</published>
     <updated>2026-04-08T00:00:00+00:00</updated>
     <category term="Research"/>
-  </entry>
-  <entry>
-    <title>How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet</title>
-    <link href="https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/"/>
-    <id>51315f4d82a721d1c993142e43ce9e94</id>
-    <published>2026-04-06T00:00:00+00:00</published>
-    <updated>2026-04-06T00:00:00+00:00</updated>
-    <category term="Computer Vision"/>
   </entry>
 </feed>

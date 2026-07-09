@@ -4,29 +4,53 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-07-08T18:24:55+00:00</updated>
+  <updated>2026-07-09T17:59:22+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases</title>
-    <link href="https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases"/>
-    <id>3def289cbed8e7e2f8fcd994703edc64</id>
-    <published>2026-07-08T18:24:55+00:00</published>
-    <updated>2026-07-08T18:24:55+00:00</updated>
-    <summary type="text">Score: 0.846\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体</title>
+    <link href="https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows"/>
+    <id>3a83e44cadbdc91418850299d29c0bd0</id>
+    <published>2026-07-09T17:59:22+00:00</published>
+    <updated>2026-07-09T17:59:22+00:00</updated>
+    <summary type="text">Score: 0.787\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>代理商数据 / Data for Agents</title>
-    <link href="https://huggingface.co/blog/nvidia/open-data-for-agents"/>
-    <id>a5a7189f65dd7817d061ed84e27069bc</id>
-    <published>2026-07-08T17:16:05+00:00</published>
-    <updated>2026-07-08T17:16:05+00:00</updated>
+    <title>OpenAI推出ChatGPT Work智能体</title>
+    <link href="https://x.com/OpenAI/status/2075274271845404744"/>
+    <id>08ea2f7b617ed37622f9cb868e91f19b</id>
+    <published>2026-07-09T17:41:57+00:00</published>
+    <updated>2026-07-09T17:41:57+00:00</updated>
+    <summary type="text">Score: 0.767\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 发布最强模型与最佳博文</title>
+    <link href="https://x.com/sama/status/2075266471316615436"/>
+    <id>b6a8bf7bd4dea414a8e3a9d0e1c17a8c</id>
+    <published>2026-07-09T17:10:58+00:00</published>
+    <updated>2026-07-09T17:10:58+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot"/>
+    <id>948d83865ad5cbd0fa6c8a3e3cee4a42</id>
+    <published>2026-07-09T16:41:29+00:00</published>
+    <updated>2026-07-09T16:41:29+00:00</updated>
     <summary type="text">Score: 0.859\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -35,23 +59,74 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>ChatGPT Voice：口述文章的新体验</title>
-    <link href="https://x.com/jxnlco/status/2074905289237942512"/>
-    <id>f91abfa86c533a98ba90f6d1bc2e732b</id>
-    <published>2026-07-08T17:15:45+00:00</published>
-    <updated>2026-07-08T17:15:45+00:00</updated>
-    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality</title>
+    <link href="https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality"/>
+    <id>07793df707140b5a48b91c032799a02f</id>
+    <published>2026-07-09T15:54:01+00:00</published>
+    <updated>2026-07-09T15:54:01+00:00</updated>
+    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>向 Copilot 询问存储库概述 / Ask Copilot for a repository overview</title>
+    <link href="https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview"/>
+    <id>10e39f264c0460094262e162583084d3</id>
+    <published>2026-07-09T14:25:33+00:00</published>
+    <updated>2026-07-09T14:25:33+00:00</updated>
+    <summary type="text">Score: 0.837\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>TeXada：基于MiniCPM的本地数学Agent发布</title>
+    <link href="https://x.com/OpenBMB/status/2075218678027850154"/>
+    <id>3cc21cc9660b9f24373e2f9cffab1939</id>
+    <published>2026-07-09T14:01:03+00:00</published>
+    <updated>2026-07-09T14:01:03+00:00</updated>
+    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude 推出反思功能（Beta）</title>
+    <link href="https://www.anthropic.com/news/reflect-with-claude"/>
+    <id>8e3cf9bf24420533d1ceadef7d3a1429</id>
+    <published>2026-07-09T13:30:33+00:00</published>
+    <updated>2026-07-09T13:30:33+00:00</updated>
+    <summary type="text">Score: 0.779\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes</title>
-    <link href="https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes"/>
-    <id>56a0a55b568575953e4b71acc4877a85</id>
-    <published>2026-07-08T17:05:06+00:00</published>
-    <updated>2026-07-08T17:05:06+00:00</updated>
+    <title>GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot</title>
+    <link href="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"/>
+    <id>ab7bcbee78da0e288f05f5d743ccead3</id>
+    <published>2026-07-09T13:00:00+00:00</published>
+    <updated>2026-07-09T13:00:00+00:00</updated>
+    <summary type="text">Score: 0.850\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty</title>
+    <link href="https://openai.com/index/bio-bug-bounty"/>
+    <id>02bbc7bf1fa3da24b0d2b58ffa549b56</id>
+    <published>2026-07-09T10:00:00+00:00</published>
+    <updated>2026-07-09T10:00:00+00:00</updated>
     <summary type="text">Score: 0.835\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -60,51 +135,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages"/>
-    <id>14094630f2c0401b23d8cfafe24cbbb0</id>
-    <published>2026-07-08T16:00:00+00:00</published>
-    <updated>2026-07-08T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.840\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Robostral Navigate：Mistral AI 首个具身导航模型</title>
-    <link href="https://mistral.ai/news/robostral-navigate"/>
-    <id>a923ab01b89573143b47b137a8bdb245</id>
-    <published>2026-07-08T14:09:17+00:00</published>
-    <updated>2026-07-08T14:09:17+00:00</updated>
-    <summary type="text">Score: 0.821\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships</title>
-    <link href="https://openai.com/index/government-national-security-partnerships"/>
-    <id>e76966fffd3fbb2ec6992b6a58e30196</id>
-    <published>2026-07-08T13:30:00+00:00</published>
-    <updated>2026-07-08T13:30:00+00:00</updated>
-    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations</title>
-    <link href="https://openai.com/index/separating-signal-from-noise-coding-evaluations"/>
-    <id>f953b8cfa814adb359574ca3f38107d6</id>
-    <published>2026-07-08T13:00:00+00:00</published>
-    <updated>2026-07-08T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.870\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GPT-5.6：前沿智能，随您的雄心壮志而扩展 / GPT-5.6: Frontier intelligence that scales with your ambition</title>
+    <link href="https://openai.com/index/gpt-5-6"/>
+    <id>be056aa663abb0d298ba3f34c810ea0c</id>
+    <published>2026-07-09T10:00:00+00:00</published>
+    <updated>2026-07-09T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.860\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="multi_source"/>
@@ -113,75 +149,26 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>在校研究生Kunkun开源管理相互调用Skill的方法</title>
-    <link href="https://x.com/berryxia/status/2074827915779580055"/>
-    <id>5d1111290a4001b65a68611f6ae5bec3</id>
-    <published>2026-07-08T12:08:18+00:00</published>
-    <updated>2026-07-08T12:08:18+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent</title>
-    <link href="https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent"/>
-    <id>c8f5305eb8927088f13c80c2efff143f</id>
-    <published>2026-07-08T09:45:22+00:00</published>
-    <updated>2026-07-08T09:45:22+00:00</updated>
-    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>OpenAI 推出 ChatGPT Work：可跨应用自主工作的 AI 智能体 / ChatGPT is now a partner for your most ambitious work</title>
+    <link href="https://openai.com/index/chatgpt-for-your-most-ambitious-work"/>
+    <id>9e1750f65ddd2b8caed37925e83aa163</id>
+    <published>2026-07-09T10:00:00+00:00</published>
+    <updated>2026-07-09T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.885\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
   </entry>
   <entry>
-    <title>黑客可利用9款最流行的AI工具组装大规模僵尸网络</title>
-    <link href="https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets"/>
-    <id>55391d6a7bd12795c4e16faafa71adbf</id>
-    <published>2026-07-08T07:00:51+00:00</published>
-    <updated>2026-07-08T07:00:51+00:00</updated>
-    <summary type="text">Score: 0.803\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>工信部发布Claude Code后门安全风险提示</title>
-    <link href="https://x.com/xiaohu/status/2074736623284256881"/>
-    <id>b9f84175f3e106d22240ec2e77e96022</id>
-    <published>2026-07-08T06:05:32+00:00</published>
-    <updated>2026-07-08T06:05:32+00:00</updated>
-    <summary type="text">Score: 0.754\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞</title>
-    <link href="https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos"/>
-    <id>a502bb633ff1367a0cd66b9614806a20</id>
-    <published>2026-07-08T05:25:35+00:00</published>
-    <updated>2026-07-08T05:25:35+00:00</updated>
-    <summary type="text">Score: 0.866\nSources: 6 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相</title>
-    <link href="https://www.ithome.com/0/973/922.htm"/>
-    <id>ea181f6e82ad8e5b2be7b35fd881c4c2</id>
-    <published>2026-07-08T03:30:52+00:00</published>
-    <updated>2026-07-08T03:30:52+00:00</updated>
-    <summary type="text">Score: 0.777\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍</title>
+    <link href="https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput"/>
+    <id>67f89839a81b2e30906546cd78ce1c68</id>
+    <published>2026-07-09T08:47:37+00:00</published>
+    <updated>2026-07-09T08:47:37+00:00</updated>
+    <summary type="text">Score: 0.759\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -189,12 +176,12 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI 前研究员田永龙被曝加入腾讯混元多模态团队</title>
-    <link href="https://www.aibase.com/news/29456"/>
-    <id>11adefebd883053098290ebd9ba7fdf6</id>
-    <published>2026-07-08T03:23:54.553436+00:00</published>
-    <updated>2026-07-08T03:23:54.553436+00:00</updated>
-    <summary type="text">Score: 0.765\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
+    <title>蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video</title>
+    <link href="https://www.ithome.com/0/974/517.htm"/>
+    <id>1dabe6e2685b57ac220f08c5b7a1a525</id>
+    <published>2026-07-09T07:06:00+00:00</published>
+    <updated>2026-07-09T07:06:00+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -202,52 +189,65 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知</title>
-    <link href="https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception"/>
-    <id>b1ac32d12053a5fc9b135ee838d28c4b</id>
-    <published>2026-07-08T03:03:22+00:00</published>
-    <updated>2026-07-08T03:03:22+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Meta被曝研发全天候AI眼镜：支持超级感知与无感音视频捕捉</title>
+    <link href="https://www.aibase.com/news/29496"/>
+    <id>9794c9628bb35c0c63652b3504ba1bbf</id>
+    <published>2026-07-09T07:00:26.011092+00:00</published>
+    <updated>2026-07-09T07:00:26.011092+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI 发布 GPT-Live 新一代全双工语音模型 / Introducing GPT-Live</title>
-    <link href="https://openai.com/index/introducing-gpt-live"/>
-    <id>d9aaf2409186cecf678f850620c7cb21</id>
-    <published>2026-07-08T00:00:00+00:00</published>
-    <updated>2026-07-08T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.864\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>全球首部AI女演员主演电影开机：没有身体没有童年，却能调取全人类记忆</title>
+    <link href="https://www.aibase.com/news/29495"/>
+    <id>54f430ab6f910508572a3ebcb67c59d1</id>
+    <published>2026-07-09T07:00:26.011092+00:00</published>
+    <updated>2026-07-09T07:00:26.011092+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend</title>
-    <link href="https://huggingface.co/blog/native-speed-vllm-transformers-backend"/>
-    <id>a5809ba89852be310794e2093909565c</id>
-    <published>2026-07-08T00:00:00+00:00</published>
-    <updated>2026-07-08T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.874\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0</title>
+    <link href="https://www.ithome.com/0/974/508.htm"/>
+    <id>e7c30a30520573f6792855a822a7c7be</id>
+    <published>2026-07-09T06:53:40+00:00</published>
+    <updated>2026-07-09T06:53:40+00:00</updated>
+    <summary type="text">Score: 0.764\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>法典 CLI 0.143.0 / Codex CLI 0.143.0</title>
+    <title>Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app</title>
     <link href="https://developers.openai.com/codex/changelog"/>
     <id>06b27f46f7563065760e4e95cbbc7ca0</id>
-    <published>2026-07-08T00:00:00+00:00</published>
-    <updated>2026-07-08T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <published>2026-07-09T00:00:00+00:00</published>
+    <updated>2026-07-09T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.849\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>提出尖锐的问题 / Inviting hard questions</title>
+    <link href="https://www.anthropic.com/news/hard-questions"/>
+    <id>66e98bf2e927053022a3b36f430bf05d</id>
+    <published>2026-07-09T00:00:00+00:00</published>
+    <updated>2026-07-09T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.806\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -255,12 +255,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click</title>
-    <link href="https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"/>
-    <id>caf85812a37506e1002f130338148213</id>
-    <published>2026-07-07T21:15:33+00:00</published>
-    <updated>2026-07-07T21:15:33+00:00</updated>
-    <summary type="text">Score: 0.808\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows"/>
+    <id>829c0d2cd3f9b3a34fee18e2ce71c376</id>
+    <published>2026-07-08T21:11:56+00:00</published>
+    <updated>2026-07-08T21:11:56+00:00</updated>
+    <summary type="text">Score: 0.793\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>

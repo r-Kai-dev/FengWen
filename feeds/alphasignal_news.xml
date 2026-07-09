@@ -4,128 +4,128 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-08T18:03:33+00:00</updated>
+  <updated>2026-07-09T19:59:38+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Google DeepMind's Gemini 3.1 Flash Lite Image Generates Photos 2.7x Faster</title>
-    <link href="https://artificialanalysis.ai/image/leaderboard/text-to-image"/>
-    <id>c6b3eeca11522b3fc6c228d39eaf1bc6</id>
-    <published>2026-07-08T18:03:33+00:00</published>
-    <updated>2026-07-08T18:03:33+00:00</updated>
-    <summary type="text">Google's Gemini 3.1 Flash Lite Image ranks #5 in text-to-image quality at half the price of its predecessor, but stumbles on editing tasks</summary>
-    <category term="image"/>
+    <title>Cognition's SWE-1.7 Strips Chinese AI Bias From Open-Source Code Models</title>
+    <link href="https://cognition.com/blog/measuring-open-source-model-trustworthiness"/>
+    <id>b2d6885a058e1c9faa22364a64f06074</id>
+    <published>2026-07-09T19:59:38+00:00</published>
+    <updated>2026-07-09T19:59:38+00:00</updated>
+    <summary type="text">Cognition's SWE-1.7 strips CCP bias from a Chinese open-source base model and matches US frontier labs on trustworthiness evals, at a fraction of the cost.</summary>
+    <category term="development"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Google's SensorFM Beats 34 of 35 Health Tasks Trained on a Trillion Minutes</title>
+    <link href="https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
+    <id>4d5aca38be512e279f0ecd28843a5925</id>
+    <published>2026-07-09T18:20:02+00:00</published>
+    <updated>2026-07-09T18:20:02+00:00</updated>
+    <summary type="text">Google's SensorFM is trained on 1 trillion minutes of Fitbit and Pixel Watch data from 5 million people, transferring across 35 health prediction tasks with no task-specific architecture</summary>
+    <category term="llms"/>
+    <category term="data"/>
+  </entry>
+  <entry>
+    <title>OpenAI's ChatGPT Work and GPT-5.6 Turn AI Into a Full-Time Employee</title>
+    <link href="https://openai.com/index/chatgpt-for-your-most-ambitious-work/"/>
+    <id>18ec6f9dbd776607e639acbf874f2216</id>
+    <published>2026-07-09T17:41:57+00:00</published>
+    <updated>2026-07-09T17:41:57+00:00</updated>
+    <summary type="text">OpenAI's ChatGPT Work agent, powered by GPT-5.6, can run multi-hour workflows across Slack, Drive, and Salesforce â turning a single prompt into finished deliverables</summary>
+    <category term="agents"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>OpenAI's GPT-5.6 Splits Into Three Models and Beats Every Rival</title>
+    <link href="https://openai.com/index/gpt-5-6/"/>
+    <id>a847870dddc47f60df43ffb91364862f</id>
+    <published>2026-07-09T17:30:38+00:00</published>
+    <updated>2026-07-09T17:30:38+00:00</updated>
+    <summary type="text">OpenAI's GPT-5.6 family â Sol, Terra, and Luna â launches publicly with a new multi-agent Ultra mode, a 1.5M-token context window, and frontier benchmarks at lower cost than Claude Fable 5.</summary>
+    <category term="llms"/>
     <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>OpenAI's GPT-Live Ditches Turn-Based Voice for Real-Time Two-Way Conversations</title>
-    <link href="https://openai.com/index/introducing-gpt-live/"/>
-    <id>34c05182b3ad843e1d76e4d892aab87e</id>
-    <published>2026-07-08T17:22:39+00:00</published>
-    <updated>2026-07-08T17:22:39+00:00</updated>
-    <summary type="text">OpenAI launches GPT-Live, a full-duplex voice model that listens and speaks simultaneously, backed by GPT-5.5 reasoning for complex queries.</summary>
-    <category term="audio"/>
+    <title>OpenAI's GPT-5.6 Sol Beats the AI Benchmark Every Other Model Scored Zero On</title>
+    <link href="https://arcprize.org/replay/e7269903-8865-4616-a0ee-ab6f99e328d7"/>
+    <id>cddf660b82692d785e5b75fd521559f2</id>
+    <published>2026-07-09T17:28:26+00:00</published>
+    <updated>2026-07-09T17:28:26+00:00</updated>
+    <summary type="text">GPT-5.6 Sol becomes the first frontier model to beat an ARC-AGI-3 game, cracking a benchmark that had every AI at 0%</summary>
+    <category term="benchmarks"/>
+    <category term="reasoning"/>
+  </entry>
+  <entry>
+    <title>xAI's Grok 4.5 Hits Frontier-Level Agent Work at 86% Less Cost</title>
+    <link href="https://artificialanalysis.ai/evaluations/aa-briefcase"/>
+    <id>8e82e7c2a7aff3d481e382a6fad8c461</id>
+    <published>2026-07-09T17:01:45+00:00</published>
+    <updated>2026-07-09T17:01:45+00:00</updated>
+    <summary type="text">Grok 4.5 tops the AA-Briefcase agentic benchmark among non-Anthropic models, delivering near-Opus performance at 86% lower cost and half the time</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis Reveals Top AI Agents Fail Half of Real Office Tasks</title>
+    <link href="https://artificialanalysis.ai/evaluations/enterprise-ops-gym-aa"/>
+    <id>22e2262a3ec917c5e77110189e18062a</id>
+    <published>2026-07-09T16:05:11+00:00</published>
+    <updated>2026-07-09T16:05:11+00:00</updated>
+    <summary type="text">Artificial Analysis launches an independent leaderboard for ServiceNow's enterprise agent benchmark, where even the best model only clears 51% of tasks</summary>
+    <category term="agents"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Manus Ships Branch to Let AI Agents Fork Sessions Without Losing Context</title>
+    <link href="https://manus.im/blog/manus-branch"/>
+    <id>4d6bad937844c97ea268d700b439a6bd</id>
+    <published>2026-07-09T15:11:14+00:00</published>
+    <updated>2026-07-09T15:11:14+00:00</updated>
+    <summary type="text">Manus's new Branch feature lets you fork any agent session mid-task, preserving full context so one research thread can become many parallel deliverables.</summary>
+    <category term="development"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>Prime Intellect Raises $130M to Open RL Training Labs Once Locked Inside OpenAI</title>
-    <link href="https://www.primeintellect.ai/blog/series-a"/>
-    <id>df068fcf79272a4d21b7da7213e74684</id>
-    <published>2026-07-08T16:52:42+00:00</published>
-    <updated>2026-07-08T16:52:42+00:00</updated>
-    <summary type="text">Prime Intellect raises $130M led by Radical Ventures to give any company the same RL training infrastructure used by frontier AI labs</summary>
-    <category term="training_infra"/>
+    <title>Anthropic Ships Reflect, a Dashboard That Coaches You on Smarter Claude Usage</title>
+    <link href="https://www.anthropic.com/news/reflect-with-claude"/>
+    <id>d2d724a73d0039c9f997526aac2f6df9</id>
+    <published>2026-07-09T14:29:58+00:00</published>
+    <updated>2026-07-09T14:29:58+00:00</updated>
+    <summary type="text">Anthropic launches Reflect, a Spotify Wrapped-style dashboard that shows how you use Claude and nudges you to log off</summary>
+    <category term="development"/>
     <category term="business"/>
   </entry>
   <entry>
-    <title>Z.ai's GLM-5.2 Beats Every Open-Weight Model at a Sixth the Cost</title>
-    <link href="https://epoch.ai/benchmarks"/>
-    <id>02e2914e1340a6b56ecf98cbbadb30bb</id>
-    <published>2026-07-08T16:33:01+00:00</published>
-    <updated>2026-07-08T16:33:01+00:00</updated>
-    <summary type="text">Z.ai's GLM-5.2 tops Epoch AI's open-weight rankings with an ECI of 152, rivaling GPT-5.5 on coding at one-sixth the price</summary>
+    <title>Perplexity Ships GLM 5.2 Orchestrator That Matches Claude Opus at One-Third the Cost</title>
+    <link href="https://x.com/perplexity_ai/status/2075224548476440779"/>
+    <id>68c4e31cdb12cd408ea6920f259d6f71</id>
+    <published>2026-07-09T14:24:22+00:00</published>
+    <updated>2026-07-09T14:24:22+00:00</updated>
+    <summary type="text">Perplexity post-trains GLM 5.2 as a cheaper orchestrator for Computer, hitting near-frontier performance at 34% of Claude Opus cost</summary>
     <category term="llms"/>
     <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>Krea Adds ByteDance's Seedream 5.0 Pro With Pixel-Level Editing and 15-Language Support</title>
-    <link href="https://www.krea.ai/image/seedream5pro?utm_source=x&amp;utm_medium=organic_social&amp;dub_id=jBiNoXEqSGOds4Jn"/>
-    <id>273799700dde2a01917be60720fc5cd9</id>
-    <published>2026-07-08T16:20:53+00:00</published>
-    <updated>2026-07-08T16:20:53+00:00</updated>
-    <summary type="text">Krea adds Seedream 5.0 Pro to its platform, bringing pixel-level editing, multi-layer separation, and 10-reference image fusion to designers and developers</summary>
-    <category term="image"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Google's Android Bench Crowns Claude Fable 5 Top AI Coding Assistant at 84.5</title>
-    <link href="https://android-developers.googleblog.com/2026/07/android-bench-llm-measurement.html"/>
-    <id>87a8c05471bb4bd31347fff4102abd1d</id>
-    <published>2026-07-08T16:10:16+00:00</published>
-    <updated>2026-07-08T16:10:16+00:00</updated>
-    <summary type="text">Android Bench adds 8 new models led by Claude Fable 5 at 84.5%, switches to Harbor Framework, and opens community contributions</summary>
-    <category term="benchmarks"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Cognition's SWE-1.7 Matches GPT-5.5 on Coding Tasks at $1.97 Each</title>
-    <link href="https://cognition.com/blog/swe-1-7"/>
-    <id>8e887cb30008dd245b149179a360b89c</id>
-    <published>2026-07-08T15:47:03+00:00</published>
-    <updated>2026-07-08T15:47:03+00:00</updated>
-    <summary type="text">Cognition's SWE-1.7 matches frontier models at $1.97 per task, running at 1000 tokens/second inside Devin â powered by a novel multi-continent RL training pipeline.</summary>
-    <category term="development"/>
-    <category term="post_training"/>
-  </entry>
-  <entry>
-    <title>Manus Turns Into a Document Surgeon With Full Google Workspace Control</title>
-    <link href="https://x.com/manusai/status/2074871873683243465"/>
-    <id>1d07996ed880b8a9929169cc591c14ef</id>
-    <published>2026-07-08T15:02:58+00:00</published>
-    <updated>2026-07-08T15:02:58+00:00</updated>
-    <summary type="text">Manus upgrades its Google Drive connector to cover all of Google Workspace, adding granular in-document editing to Docs, Sheets, Slides, and Forms for free</summary>
-    <category term="retrieval"/>
+    <title>Meta's Muse Spark 1.1 Opens a Public API to Challenge OpenAI and Anthropic</title>
+    <link href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?utm_source=twitter&amp;utm_medium=organic_social&amp;utm_content=image&amp;utm_campaign=spark11"/>
+    <id>4acd6e7e2bec4b622b669f1d1c2dc39e</id>
+    <published>2026-07-09T14:10:37+00:00</published>
+    <updated>2026-07-09T14:10:37+00:00</updated>
+    <summary type="text">Meta Superintelligence Labs releases Muse Spark 1.1, a multimodal agentic model with a 1M-token context, now accessible via the new Meta Model API at $1.25/$4.25 per million tokens.</summary>
+    <category term="agents"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>Mistral's Robostral Navigate Beats Sensor-Heavy Robots With Just One Camera</title>
-    <link href="https://mistral.ai/news/robostral-navigate/"/>
-    <id>b91cbde188bf4ad98ba6eef5a519971b</id>
-    <published>2026-07-08T14:01:07+00:00</published>
-    <updated>2026-07-08T14:01:07+00:00</updated>
-    <summary type="text">Mistral's 8B robotics model navigates real environments from a single RGB camera, beating depth-sensor-equipped systems by 4.5 points on the leading benchmark.</summary>
-    <category term="robotics"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Runway Dev Collapses Video, Image, and Avatar AI Into One API</title>
-    <link href="https://runwayml.com/news/introducing-runway-dev"/>
-    <id>e3f7ac3a74fa4ddd57965920b4d25bc3</id>
-    <published>2026-07-08T13:59:15+00:00</published>
-    <updated>2026-07-08T13:59:15+00:00</updated>
-    <summary type="text">Runway launches a unified developer platform that bundles its frontier video, image, audio, and avatar models under one API for enterprise teams</summary>
-    <category term="video"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Cognition's FrontierCode 1.1 Asks If AI Code Is Actually Mergeable</title>
-    <link href="https://cognition.com/blog/frontier-code-1.1"/>
-    <id>a335a8adb679a3566110ff90a2618ab7</id>
-    <published>2026-07-08T11:10:23+00:00</published>
-    <updated>2026-07-08T11:10:23+00:00</updated>
-    <summary type="text">Cognition updates its production-code benchmark with fairer grading, a principled internet-use policy, and new scores for Sonnet 5 and Fable 5</summary>
+    <title>xAI's Grok 4.5 Tops SaaS Automation Benchmark at a Quarter the Cost</title>
+    <link href="https://artificialanalysis.ai/evaluations/automationbench-aa"/>
+    <id>d4076918c0f2f71f18c21bd1a41431a4</id>
+    <published>2026-07-09T02:39:36+00:00</published>
+    <updated>2026-07-09T02:39:36+00:00</updated>
+    <summary type="text">Grok 4.5 tops Artificial Analysis's AutomationBench-AA with a 51% score, completing more SaaS workflow objectives than any rival at one-quarter the cost per task.</summary>
+    <category term="agents"/>
     <category term="benchmarks"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind's Gemma 4 Beats Models 10x Its Size on Math and Coding</title>
-    <link href="https://arxiv.org/abs/2607.02770"/>
-    <id>142e68d936a8c98a94b98883f007a920</id>
-    <published>2026-07-07T21:03:25+00:00</published>
-    <updated>2026-07-07T21:03:25+00:00</updated>
-    <summary type="text">Google DeepMind's Gemma 4 technical report reveals how a 31B open-weight model rivals frontier giants through encoder-free multimodality, MoE efficiency, and speculative decoding.</summary>
-    <category term="llms"/>
-    <category term="open_source"/>
   </entry>
 </feed>
