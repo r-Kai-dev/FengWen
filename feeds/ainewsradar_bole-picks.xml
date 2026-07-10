@@ -4,54 +4,100 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-07-09T17:59:22+00:00</updated>
+  <updated>2026-07-10T20:23:54+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体</title>
-    <link href="https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows"/>
-    <id>3a83e44cadbdc91418850299d29c0bd0</id>
-    <published>2026-07-09T17:59:22+00:00</published>
-    <updated>2026-07-09T17:59:22+00:00</updated>
-    <summary type="text">Score: 0.787\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI推出ChatGPT Work智能体</title>
-    <link href="https://x.com/OpenAI/status/2075274271845404744"/>
-    <id>08ea2f7b617ed37622f9cb868e91f19b</id>
-    <published>2026-07-09T17:41:57+00:00</published>
-    <updated>2026-07-09T17:41:57+00:00</updated>
-    <summary type="text">Score: 0.767\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Meta Muse Spark 1.1 在 Artificial Analysis 智能指数中得分 51，兼具成本与 token 效率优势 / Meta's Muse Spark 1.1 scores 51 on the Artificial Analysis Intelligence Index and is cost and token …</title>
+    <link href="https://x.com/ArtificialAnlys/status/2075677416295739660"/>
+    <id>5012240675b29bd2096b7e34f634b425</id>
+    <published>2026-07-10T20:23:54+00:00</published>
+    <updated>2026-07-10T20:23:54+00:00</updated>
+    <summary type="text">Score: 0.775\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI 发布最强模型与最佳博文</title>
-    <link href="https://x.com/sama/status/2075266471316615436"/>
-    <id>b6a8bf7bd4dea414a8e3a9d0e1c17a8c</id>
-    <published>2026-07-09T17:10:58+00:00</published>
-    <updated>2026-07-09T17:10:58+00:00</updated>
-    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 推出 ChatGPT Work 与 Codex 两款智能体</title>
+    <link href="https://x.com/dotey/status/2075652538058109385"/>
+    <id>ae09344c428c830e4af2f2b348f05a56</id>
+    <published>2026-07-10T18:45:03+00:00</published>
+    <updated>2026-07-10T18:45:03+00:00</updated>
+    <summary type="text">Score: 0.798\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot</title>
-    <link href="https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot"/>
-    <id>948d83865ad5cbd0fa6c8a3e3cee4a42</id>
-    <published>2026-07-09T16:41:29+00:00</published>
-    <updated>2026-07-09T16:41:29+00:00</updated>
-    <summary type="text">Score: 0.859\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna / OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a &quot;fairly underspecified prompt&quot;</title>
+    <link href="https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt"/>
+    <id>126749557a1cff4670782a9c540d915e</id>
+    <published>2026-07-10T18:43:47+00:00</published>
+    <updated>2026-07-10T18:43:47+00:00</updated>
+    <summary type="text">Score: 0.768\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GPT-5.6 Sol Ultra 用 64 子智能体一小时破解 50 年数学难题 / More test-time compute leads to greater intelligence. But as we push ttc from seconds to weeks， late…</title>
+    <link href="https://x.com/polynoamial/status/2075647948906533297"/>
+    <id>0c75f9620ff79b1f7c6a87bfe7d4b8c2</id>
+    <published>2026-07-10T18:26:49+00:00</published>
+    <updated>2026-07-10T18:26:49+00:00</updated>
+    <summary type="text">Score: 0.773\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>宇树G1人形机器人完成首例活体微创手术 / A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…</title>
+    <link href="https://x.com/thexpin/status/2075640168896516139"/>
+    <id>247f36f230e7fc38a4bf42dfefbdc737</id>
+    <published>2026-07-10T17:55:54+00:00</published>
+    <updated>2026-07-10T17:55:54+00:00</updated>
+    <summary type="text">Score: 0.781\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Code桌面版新增应用内浏览器 / Claude Code on desktop now has an in-app browser. Claude can pull up docs， designs， or any other si…</title>
+    <link href="https://x.com/ClaudeDevs/status/2075635283211772279"/>
+    <id>9d3fb6744a8ae6dab08ef97648ce09c4</id>
+    <published>2026-07-10T17:36:29+00:00</published>
+    <updated>2026-07-10T17:36:29+00:00</updated>
+    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>DeepSeek-V4 Flash 强化学习训练登陆 AMD Instinct MI355X GPU，由 Miles 框架支持 / News Bringing DeepSeek-V4 Flash RL Training to AMD Instinct MI355X GPUs with Miles DeepSeek-V4 RL is now supported in Miles on AMD InstinctTM MI355X GPUs with ROCmTM！ RL requires SGLang rollout and Megatron training to implement the same policy closely enough that token probabilities … AMD &amp; Miles Team</title>
+    <link href="https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4"/>
+    <id>5fa15e1a8d64c6918d35e3e7be9850ea</id>
+    <published>2026-07-10T17:19:11.037000+00:00</published>
+    <updated>2026-07-10T17:19:11.037000+00:00</updated>
+    <summary type="text">Score: 0.726\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it"/>
+    <id>e6606b97f0599377d94a919f5295cd7e</id>
+    <published>2026-07-10T15:57:47+00:00</published>
+    <updated>2026-07-10T15:57:47+00:00</updated>
+    <summary type="text">Score: 0.840\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -59,62 +105,58 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality</title>
-    <link href="https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality"/>
-    <id>07793df707140b5a48b91c032799a02f</id>
-    <published>2026-07-09T15:54:01+00:00</published>
-    <updated>2026-07-09T15:54:01+00:00</updated>
-    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>向 Copilot 询问存储库概述 / Ask Copilot for a repository overview</title>
-    <link href="https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview"/>
-    <id>10e39f264c0460094262e162583084d3</id>
-    <published>2026-07-09T14:25:33+00:00</published>
-    <updated>2026-07-09T14:25:33+00:00</updated>
-    <summary type="text">Score: 0.837\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>TeXada：基于MiniCPM的本地数学Agent发布</title>
-    <link href="https://x.com/OpenBMB/status/2075218678027850154"/>
-    <id>3cc21cc9660b9f24373e2f9cffab1939</id>
-    <published>2026-07-09T14:01:03+00:00</published>
-    <updated>2026-07-09T14:01:03+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Perplexity 推出跨模型信用额度分析功能 / Introducing Computer Analytics： You can now track credit spend across models. Available now under A…</title>
+    <link href="https://x.com/perplexity_ai/status/2075599540640714863"/>
+    <id>5986b31c0c185908e168605b28098af8</id>
+    <published>2026-07-10T15:14:27+00:00</published>
+    <updated>2026-07-10T15:14:27+00:00</updated>
+    <summary type="text">Score: 0.733\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Claude 推出反思功能（Beta）</title>
-    <link href="https://www.anthropic.com/news/reflect-with-claude"/>
-    <id>8e3cf9bf24420533d1ceadef7d3a1429</id>
-    <published>2026-07-09T13:30:33+00:00</published>
-    <updated>2026-07-09T13:30:33+00:00</updated>
-    <summary type="text">Score: 0.779\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
+    <title>REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API</title>
+    <link href="https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api"/>
+    <id>0018a7a3cc20aadf1a0756010b33f119</id>
+    <published>2026-07-10T15:07:23+00:00</published>
+    <updated>2026-07-10T15:07:23+00:00</updated>
+    <summary type="text">Score: 0.830\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟</title>
+    <link href="https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA"/>
+    <id>affd0901d4a7192e64b6d6e055877ba7</id>
+    <published>2026-07-10T13:58:07+00:00</published>
+    <updated>2026-07-10T13:58:07+00:00</updated>
+    <summary type="text">Score: 0.748\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot</title>
-    <link href="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"/>
-    <id>ab7bcbee78da0e288f05f5d743ccead3</id>
-    <published>2026-07-09T13:00:00+00:00</published>
-    <updated>2026-07-09T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.850\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>小红书发布大模型新架构 PIPO</title>
+    <link href="https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg"/>
+    <id>7b46d845b3de06a0cdd5ed65bd98dbb3</id>
+    <published>2026-07-10T09:59:00+00:00</published>
+    <updated>2026-07-10T09:59:00+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions</title>
+    <link href="https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions"/>
+    <id>3df8cb749ab02525eb825424403a9327</id>
+    <published>2026-07-10T09:45:30+00:00</published>
+    <updated>2026-07-10T09:45:30+00:00</updated>
+    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -122,53 +164,23 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty</title>
-    <link href="https://openai.com/index/bio-bug-bounty"/>
-    <id>02bbc7bf1fa3da24b0d2b58ffa549b56</id>
-    <published>2026-07-09T10:00:00+00:00</published>
-    <updated>2026-07-09T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.835\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI</title>
+    <link href="https://www.aibase.com/news/29529"/>
+    <id>606dc42bc2a9da3d3fdaf8ef39aa0782</id>
+    <published>2026-07-10T09:35:00.128733+00:00</published>
+    <updated>2026-07-10T09:35:00.128733+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>GPT-5.6：前沿智能，随您的雄心壮志而扩展 / GPT-5.6: Frontier intelligence that scales with your ambition</title>
-    <link href="https://openai.com/index/gpt-5-6"/>
-    <id>be056aa663abb0d298ba3f34c810ea0c</id>
-    <published>2026-07-09T10:00:00+00:00</published>
-    <updated>2026-07-09T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.860\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 推出 ChatGPT Work：可跨应用自主工作的 AI 智能体 / ChatGPT is now a partner for your most ambitious work</title>
-    <link href="https://openai.com/index/chatgpt-for-your-most-ambitious-work"/>
-    <id>9e1750f65ddd2b8caed37925e83aa163</id>
-    <published>2026-07-09T10:00:00+00:00</published>
-    <updated>2026-07-09T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.885\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍</title>
-    <link href="https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput"/>
-    <id>67f89839a81b2e30906546cd78ce1c68</id>
-    <published>2026-07-09T08:47:37+00:00</published>
-    <updated>2026-07-09T08:47:37+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>扎克伯格首度回应 Meta&quot;算力过剩&quot;：没人会嫌算力太多，但租出去更赚钱</title>
+    <link href="https://www.ithome.com/0/975/078.htm"/>
+    <id>10ad2241341da8a59b1db9e1b0a899c0</id>
+    <published>2026-07-10T07:26:10+00:00</published>
+    <updated>2026-07-10T07:26:10+00:00</updated>
+    <summary type="text">Score: 0.770\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -176,78 +188,23 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video</title>
-    <link href="https://www.ithome.com/0/974/517.htm"/>
-    <id>1dabe6e2685b57ac220f08c5b7a1a525</id>
-    <published>2026-07-09T07:06:00+00:00</published>
-    <updated>2026-07-09T07:06:00+00:00</updated>
-    <summary type="text">Score: 0.761\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>马斯克承认Anthropic是当前AI领导者 / This is Anthropic's strongest flex</title>
+    <link href="https://x.com/rohanpaul_ai/status/2075480331600417141"/>
+    <id>84c864897d4da1891dc40f4c2c0a3711</id>
+    <published>2026-07-10T07:20:46+00:00</published>
+    <updated>2026-07-10T07:20:46+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Meta被曝研发全天候AI眼镜：支持超级感知与无感音视频捕捉</title>
-    <link href="https://www.aibase.com/news/29496"/>
-    <id>9794c9628bb35c0c63652b3504ba1bbf</id>
-    <published>2026-07-09T07:00:26.011092+00:00</published>
-    <updated>2026-07-09T07:00:26.011092+00:00</updated>
-    <summary type="text">Score: 0.761\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>全球首部AI女演员主演电影开机：没有身体没有童年，却能调取全人类记忆</title>
-    <link href="https://www.aibase.com/news/29495"/>
-    <id>54f430ab6f910508572a3ebcb67c59d1</id>
-    <published>2026-07-09T07:00:26.011092+00:00</published>
-    <updated>2026-07-09T07:00:26.011092+00:00</updated>
-    <summary type="text">Score: 0.761\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0</title>
-    <link href="https://www.ithome.com/0/974/508.htm"/>
-    <id>e7c30a30520573f6792855a822a7c7be</id>
-    <published>2026-07-09T06:53:40+00:00</published>
-    <updated>2026-07-09T06:53:40+00:00</updated>
-    <summary type="text">Score: 0.764\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Codex 加入 ChatGPT 桌面应用程序 / Codex joins the ChatGPT desktop app</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>06b27f46f7563065760e4e95cbbc7ca0</id>
-    <published>2026-07-09T00:00:00+00:00</published>
-    <updated>2026-07-09T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.849\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>提出尖锐的问题 / Inviting hard questions</title>
-    <link href="https://www.anthropic.com/news/hard-questions"/>
-    <id>66e98bf2e927053022a3b36f430bf05d</id>
-    <published>2026-07-09T00:00:00+00:00</published>
-    <updated>2026-07-09T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.806\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI</title>
+    <link href="https://openai.com/index/deutsche-telekom"/>
+    <id>552a342b1bfb3076bc6e5fd03a2fd5c3</id>
+    <published>2026-07-10T07:00:00+00:00</published>
+    <updated>2026-07-10T07:00:00+00:00</updated>
+    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -255,16 +212,40 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows"/>
-    <id>829c0d2cd3f9b3a34fee18e2ce71c376</id>
-    <published>2026-07-08T21:11:56+00:00</published>
-    <updated>2026-07-08T21:11:56+00:00</updated>
-    <summary type="text">Score: 0.793\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile</title>
+    <link href="https://huggingface.co/blog/torch-attention-profile"/>
+    <id>a6f8ec5f6a0760dfc92098fed82e1543</id>
+    <published>2026-07-10T00:00:00+00:00</published>
+    <updated>2026-07-10T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.813\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
+  </entry>
+  <entry>
+    <title>Elon Musk称赞Anthropic并承诺不切断其算力</title>
+    <link href="https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic"/>
+    <id>600f48ba0538fb3d845d06120e1e5241</id>
+    <published>2026-07-09T21:57:42+00:00</published>
+    <updated>2026-07-09T21:57:42+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作</title>
+    <link href="https://www.pangram.com/blog/ai-in-your-feed"/>
+    <id>44f63c2d6629149355271ed5ef909827</id>
+    <published>2026-07-09T21:46:29.789000+00:00</published>
+    <updated>2026-07-09T21:46:29.789000+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
 </feed>

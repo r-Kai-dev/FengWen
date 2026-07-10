@@ -4,10 +4,18 @@
   <icon>https://runwayml.com/icon.png</icon>
   <link href="https://runwayml.com/news"/>
   <id>https://runwayml.com/news</id>
-  <updated>2026-07-08T10:00:00+00:00</updated>
+  <updated>2026-07-10T00:00:00</updated>
   <author>
     <name>Runway</name>
   </author>
+  <entry>
+    <title>AVTensor: A High-Performance Rust Media Decoder for Training Pipelines</title>
+    <link href="https://runwayml.com/news/avtensor-a-high-performance-rust-media-decoder-for-training-pipelines"/>
+    <id>9e76ce45a46bf46509ab197aa5adce24</id>
+    <published>2026-07-10T00:00:00</published>
+    <updated>2026-07-10T00:00:00</updated>
+    <category term="Engineering"/>
+  </entry>
   <entry>
     <title>Introducing Runway Dev</title>
     <link href="https://runwayml.com/news/introducing-runway-dev"/>

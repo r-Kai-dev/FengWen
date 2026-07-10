@@ -14,7 +14,7 @@
     <id>f00a0714e78143aea8afca0fb5bec264</id>
     <published>2026-07-08</published>
     <updated>2026-07-08</updated>
-    <summary type="text">CLI isn't a better default than MCP for AI agents. We ran a controlled 50-task comparison on identical backends across four frontier models. Interface choice matters, but less than you'd think, and the gap closes fast as models improve. — By Sunjie Hou, Razvan-Gabriel Dumitru, Edgar Arakelyan, Daniel Yue Zhang, Helen Li, Chetan Rane</summary>
+    <summary type="text">CLI isn't a better default than MCP for AI agents. We ran a controlled 50-task comparison on identical backends across four frontier models. Interface choice matters, but less than you'd think, and the gap closes fast as models improve. — By Sunjie Hou, Razvan-Gabriel Dumitru, Edgar Arakelyan, Daniel Yue Zhang, Chenguang Wang, Helen Li, Chetan Rane</summary>
     <category term="Agents"/>
     <category term="Evaluation and Alignment"/>
     <category term="Enterprise"/>
@@ -38,7 +38,6 @@
     <summary type="text">Across 66 expert-curated drug-discovery tasks, three frontier coding agents each show distinct strengths but share one weakness: the long, multi-step pipelines that demand high-level planning rather than scientific knowledge. — By Afra Feyza AkyÃ¼rek, Xinming Tu, Sofia Monasdotter, Yuanhao Qu, Sergey Chekhov, Sami Hassaan</summary>
     <category term="Agents"/>
     <category term="Evaluation and Alignment"/>
-    <category term="Reasoning"/>
     <category term="Enterprise"/>
   </entry>
   <entry>

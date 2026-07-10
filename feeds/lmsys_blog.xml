@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-07-08T00:00:00+00:00</updated>
+  <updated>2026-07-10T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Bringing DeepSeek-V4 Flash RL Training to AMD Instinct MI355X GPUs with Miles</title>
+    <link href="https://lmsys.org/blog/2026-07-10-rocm-miles-dsv4"/>
+    <id>cd1c6ab8911107fab6ea910daa279a09</id>
+    <published>2026-07-10T00:00:00+00:00</published>
+    <updated>2026-07-10T00:00:00+00:00</updated>
+    <summary type="text">DeepSeek-V4 RL is now supported in Miles on AMD Instinctâ¢ MI355X GPUs with ROCmâ¢! RL requires SGLang rollout and Megatron training to implement the same policy closely enough that token probabilities ...</summary>
+    <category term="news"/>
+  </entry>
   <entry>
     <title>Accelerating SGLang HiCache with Netpreme X-Memâ¢ MPU</title>
     <link href="https://lmsys.org/blog/2026-06-27-netpreme-xmem"/>

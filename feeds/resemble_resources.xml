@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-07-08T00:00:00+00:00</updated>
+  <updated>2026-07-10T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>The Deepfake Watchlist: Week of July 3-9, 2026</title>
+    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-july-3-9-2026"/>
+    <id>28d7b94ae31c5e6027b1fed3a50fbc79</id>
+    <published>2026-07-10T00:00:00+00:00</published>
+    <updated>2026-07-10T00:00:00+00:00</updated>
+    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
+    <category term="Deepfake Watchlist"/>
+  </entry>
   <entry>
     <title>Real-Time Liveness Detection Solutions for Deepfake Fraud</title>
     <link href="https://www.resemble.ai/resources/real-time-liveness-detection-solutions-for-deepfake-fraud"/>
@@ -33,6 +42,16 @@
     <published>2026-07-06T00:00:00+00:00</published>
     <updated>2026-07-06T00:00:00+00:00</updated>
     <summary type="text">Meet the fraternal twins of TTS. Chatterbox Nano is 110M parameters built for the edge. Chatterbox Flash is diffusion-LLM architecture built for scale. Both open source, both watermarked by default from Resemble AI.</summary>
+    <category term="Research"/>
+  </entry>
+  <entry>
+    <title>DETECT-3B-Omni is Agnostic of Content and Demographics</title>
+    <link href="https://www.resemble.ai/resources/detect-3b-omni-is-agnostic-of-content-and-demographics"/>
+    <id>20e3977feda407b0868ae81e0a57d8ba</id>
+    <published>2026-07-03T00:00:00+00:00</published>
+    <updated>2026-07-03T00:00:00+00:00</updated>
+    <summary type="text">A large-scale study showing that Resemble's audio deepfake detector reaches the same accuracy no matter what's being said or who's speaking, a requirement for GDPR-compliant call monitoring.</summary>
+    <category term="Research"/>
   </entry>
   <entry>
     <title>The Deepfake Watchlist: Week of June 26 – July 2, 2026</title>
@@ -86,6 +105,7 @@
     <published>2026-06-24T00:00:00+00:00</published>
     <updated>2026-06-24T00:00:00+00:00</updated>
     <summary type="text">PerTh Multimodal extends Resemble Watermarker from audio-only to audio, video, image, and text — an imperceptible mark, compliance-oriented for EU AI Act Article 50.</summary>
+    <category term="Research"/>
   </entry>
   <entry>
     <title>The Deepfake Watchlist: Week of June 5–11, 2026</title>
@@ -95,22 +115,5 @@
     <updated>2026-06-12T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>Chatterbox Multilingual v3: TTS with embedded watermarking for 25 languages</title>
-    <link href="https://www.resemble.ai/resources/chatterbox-multilingual-v3-tts-with-embedded-watermarking-for-25-languages"/>
-    <id>4154cbee4ab653ed3c30a4630b90f598</id>
-    <published>2026-06-10T00:00:00+00:00</published>
-    <updated>2026-06-10T00:00:00+00:00</updated>
-    <summary type="text">Chatterbox Multilingual v3 open source ships with PerTh watermarking embedded by default on every self-hosted audio output, across every supported language. Provenance and the ability to automatically watermark outputs is a major component of this release as regulation like the EU AI Act Article 50 loom, and as voice AI and text-to-speech models strive to be more trustworthy and verifiable at generation time.</summary>
-  </entry>
-  <entry>
-    <title>Detect Candidate Fraud In Remote Hiring: Red Flags, Funnel Checks, And Access Risk</title>
-    <link href="https://www.resemble.ai/resources/detect-candidate-fraud-in-remote-hiring-red-flags-funnel-checks-and-access-risk"/>
-    <id>2939df9ea500df59426456babec55d19</id>
-    <published>2026-06-08T00:00:00+00:00</published>
-    <updated>2026-06-08T00:00:00+00:00</updated>
-    <summary type="text">Learn best practices for detecting candidate fraud in remote hiring with funnel checks, interview red flags, identity review, and live deepfake detection.</summary>
-    <category term="Blog"/>
   </entry>
 </feed>
