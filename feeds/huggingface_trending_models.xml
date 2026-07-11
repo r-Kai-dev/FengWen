@@ -4,180 +4,181 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/models"/>
   <id>https://huggingface.co/models</id>
-  <updated>2026-07-10T21:01:34.718418+00:00</updated>
+  <updated>2026-07-11T21:01:36.269904+00:00</updated>
   <entry>
-    <title>deepseek-ai/DeepSeek-V4-Pro-DSpark</title>
-    <link href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark"/>
-    <id>97bdb889acf076d96ed6083c0741be22</id>
-    <published>2026-07-10T21:01:34.718418+00:00</published>
-    <updated>2026-07-10T21:01:34.718418+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 33,088 \u00b7 Likes: 463</summary>
+    <title>SupraLabs/Supra-Router-51M</title>
+    <link href="https://huggingface.co/SupraLabs/Supra-Router-51M"/>
+    <id>01978fd7058adfde43cbc6620af88680</id>
+    <published>2026-07-11T21:01:36.269904+00:00</published>
+    <updated>2026-07-11T21:01:36.269904+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 1,275 \u00b7 Likes: 98</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
-    <title>nvidia/LocateAnything-3B</title>
-    <link href="https://huggingface.co/nvidia/LocateAnything-3B"/>
-    <id>38460ca66b8b561dfc73ac8d0577add2</id>
-    <published>2026-07-10T21:01:34.718382+00:00</published>
-    <updated>2026-07-10T21:01:34.718382+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 1,456,269 \u00b7 Likes: 2697</summary>
-    <category term="image-text-to-text"/>
+    <title>nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4</title>
+    <link href="https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4"/>
+    <id>1c2ac17a9c761cb5a7f6c360c5825b80</id>
+    <published>2026-07-11T21:01:36.269888+00:00</published>
+    <updated>2026-07-11T21:01:36.269888+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 30,418 \u00b7 Likes: 104</summary>
+    <category term="text-generation"/>
+  </entry>
+  <entry>
+    <title>OpenMOSS-Team/MOSS-Transcribe-Diarize</title>
+    <link href="https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize"/>
+    <id>d7f48e80aaf48b0d11da6997a4b4c1b8</id>
+    <published>2026-07-11T21:01:36.269874+00:00</published>
+    <updated>2026-07-11T21:01:36.269874+00:00</updated>
+    <summary type="text">Type: audio-text-to-text \u00b7 Downloads: 12,817 \u00b7 Likes: 108</summary>
+    <category term="audio-text-to-text"/>
+  </entry>
+  <entry>
+    <title>nvidia/Nemotron-Labs-Audex-30B-A3B</title>
+    <link href="https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B"/>
+    <id>8b15b93fe8752043c3221a44ced47968</id>
+    <published>2026-07-11T21:01:36.269858+00:00</published>
+    <updated>2026-07-11T21:01:36.269858+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 743 \u00b7 Likes: 117</summary>
+    <category term="text-generation"/>
   </entry>
   <entry>
     <title>open-gigaai/Giga-World-1</title>
     <link href="https://huggingface.co/open-gigaai/Giga-World-1"/>
     <id>41ffee75ce4ff464db57a9a7dbe8ac0b</id>
-    <published>2026-07-10T21:01:34.718341+00:00</published>
-    <updated>2026-07-10T21:01:34.718341+00:00</updated>
-    <summary type="text">Likes: 118</summary>
-  </entry>
-  <entry>
-    <title>unsloth/DeepSeek-V4-Flash-GGUF</title>
-    <link href="https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF"/>
-    <id>76052cf98f350f974d4b85e6f2d4a0d8</id>
-    <published>2026-07-10T21:01:34.718309+00:00</published>
-    <updated>2026-07-10T21:01:34.718309+00:00</updated>
-    <summary type="text">Downloads: 31,895 \u00b7 Likes: 124</summary>
+    <published>2026-07-11T21:01:36.269846+00:00</published>
+    <updated>2026-07-11T21:01:36.269846+00:00</updated>
+    <summary type="text">Likes: 121</summary>
   </entry>
   <entry>
     <title>yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF</title>
     <link href="https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF"/>
     <id>403440b14154ca28df89285c1364541b</id>
-    <published>2026-07-10T21:01:34.718274+00:00</published>
-    <updated>2026-07-10T21:01:34.718274+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 427,668 \u00b7 Likes: 1133</summary>
-    <category term="text-generation"/>
-  </entry>
-  <entry>
-    <title>GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF</title>
-    <link href="https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF"/>
-    <id>0083d223d69c44036de979074d19dde4</id>
-    <published>2026-07-10T21:01:34.718199+00:00</published>
-    <updated>2026-07-10T21:01:34.718199+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 9,029 \u00b7 Likes: 156</summary>
+    <published>2026-07-11T21:01:36.269836+00:00</published>
+    <updated>2026-07-11T21:01:36.269836+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 436,530 \u00b7 Likes: 1148</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>deepreinforce-ai/Ornith-1.0-35B-GGUF</title>
     <link href="https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF"/>
     <id>61751a4af19768df84df96fc8069417c</id>
-    <published>2026-07-10T21:01:34.718165+00:00</published>
-    <updated>2026-07-10T21:01:34.718165+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 1,085,554 \u00b7 Likes: 835</summary>
+    <published>2026-07-11T21:01:36.269823+00:00</published>
+    <updated>2026-07-11T21:01:36.269823+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 1,216,495 \u00b7 Likes: 848</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
-    <title>mistralai/Leanstral-1.5-119B-A6B</title>
-    <link href="https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B"/>
-    <id>75afbfb450d5a7ea7694ededf1c3afb0</id>
-    <published>2026-07-10T21:01:34.718130+00:00</published>
-    <updated>2026-07-10T21:01:34.718130+00:00</updated>
-    <summary type="text">Downloads: 315 \u00b7 Likes: 184</summary>
+    <title>unsloth/DeepSeek-V4-Flash-GGUF</title>
+    <link href="https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF"/>
+    <id>76052cf98f350f974d4b85e6f2d4a0d8</id>
+    <published>2026-07-11T21:01:36.269811+00:00</published>
+    <updated>2026-07-11T21:01:36.269811+00:00</updated>
+    <summary type="text">Downloads: 38,922 \u00b7 Likes: 140</summary>
+  </entry>
+  <entry>
+    <title>GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF</title>
+    <link href="https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF"/>
+    <id>0083d223d69c44036de979074d19dde4</id>
+    <published>2026-07-11T21:01:36.269799+00:00</published>
+    <updated>2026-07-11T21:01:36.269799+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 29,887 \u00b7 Likes: 190</summary>
+    <category term="text-generation"/>
   </entry>
   <entry>
     <title>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive</title>
     <link href="https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"/>
     <id>1be4f6cf5ae949e75b8d38253a49093c</id>
-    <published>2026-07-10T21:01:34.718096+00:00</published>
-    <updated>2026-07-10T21:01:34.718096+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 2,660,170 \u00b7 Likes: 2619</summary>
+    <published>2026-07-11T21:01:36.269786+00:00</published>
+    <updated>2026-07-11T21:01:36.269786+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 2,641,936 \u00b7 Likes: 2648</summary>
     <category term="image-text-to-text"/>
-  </entry>
-  <entry>
-    <title>conradlocke/krea2-identity-edit</title>
-    <link href="https://huggingface.co/conradlocke/krea2-identity-edit"/>
-    <id>d08a973b5940e11ce8201435787f63e0</id>
-    <published>2026-07-10T21:01:34.718059+00:00</published>
-    <updated>2026-07-10T21:01:34.718059+00:00</updated>
-    <summary type="text">Likes: 157</summary>
-  </entry>
-  <entry>
-    <title>meituan-longcat/LongCat-2.0</title>
-    <link href="https://huggingface.co/meituan-longcat/LongCat-2.0"/>
-    <id>07362420e1ffd2d0c863354e042951d7</id>
-    <published>2026-07-10T21:01:34.718028+00:00</published>
-    <updated>2026-07-10T21:01:34.718028+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 1,308 \u00b7 Likes: 170</summary>
-    <category term="text-generation"/>
-  </entry>
-  <entry>
-    <title>froggeric/Qwen-Fixed-Chat-Templates</title>
-    <link href="https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates"/>
-    <id>0b6cff179ad3b2d01a696f01e868e46c</id>
-    <published>2026-07-10T21:01:34.717993+00:00</published>
-    <updated>2026-07-10T21:01:34.717993+00:00</updated>
-    <summary type="text">Likes: 831</summary>
   </entry>
   <entry>
     <title>google/tabfm-1.0.0-pytorch</title>
     <link href="https://huggingface.co/google/tabfm-1.0.0-pytorch"/>
     <id>17a1c14a03c2528da4698cdad6e63e44</id>
-    <published>2026-07-10T21:01:34.717954+00:00</published>
-    <updated>2026-07-10T21:01:34.717954+00:00</updated>
-    <summary type="text">Type: tabular-classification \u00b7 Downloads: 18,626 \u00b7 Likes: 344</summary>
+    <published>2026-07-11T21:01:36.269773+00:00</published>
+    <updated>2026-07-11T21:01:36.269773+00:00</updated>
+    <summary type="text">Type: tabular-classification \u00b7 Downloads: 20,110 \u00b7 Likes: 348</summary>
     <category term="tabular-classification"/>
   </entry>
   <entry>
-    <title>AliesTaha/fable-traces</title>
-    <link href="https://huggingface.co/AliesTaha/fable-traces"/>
-    <id>6ccc856e94c4ed56ad74439a214dc28b</id>
-    <published>2026-07-10T21:01:34.717919+00:00</published>
-    <updated>2026-07-10T21:01:34.717919+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 4,875 \u00b7 Likes: 197</summary>
+    <title>meituan-longcat/LongCat-2.0</title>
+    <link href="https://huggingface.co/meituan-longcat/LongCat-2.0"/>
+    <id>07362420e1ffd2d0c863354e042951d7</id>
+    <published>2026-07-11T21:01:36.269760+00:00</published>
+    <updated>2026-07-11T21:01:36.269760+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 1,572 \u00b7 Likes: 176</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
-    <title>bottlecapai/ThinkingCap-Qwen3.6-27B</title>
-    <link href="https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B"/>
-    <id>54993d2bc01cd30ca414d3eb80bace73</id>
-    <published>2026-07-10T21:01:34.717885+00:00</published>
-    <updated>2026-07-10T21:01:34.717885+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 3,699 \u00b7 Likes: 209</summary>
-    <category term="image-text-to-text"/>
+    <title>conradlocke/krea2-identity-edit</title>
+    <link href="https://huggingface.co/conradlocke/krea2-identity-edit"/>
+    <id>d08a973b5940e11ce8201435787f63e0</id>
+    <published>2026-07-11T21:01:36.269735+00:00</published>
+    <updated>2026-07-11T21:01:36.269735+00:00</updated>
+    <summary type="text">Likes: 180</summary>
+  </entry>
+  <entry>
+    <title>froggeric/Qwen-Fixed-Chat-Templates</title>
+    <link href="https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates"/>
+    <id>0b6cff179ad3b2d01a696f01e868e46c</id>
+    <published>2026-07-11T21:01:36.269724+00:00</published>
+    <updated>2026-07-11T21:01:36.269724+00:00</updated>
+    <summary type="text">Likes: 851</summary>
   </entry>
   <entry>
     <title>baidu/Unlimited-OCR</title>
     <link href="https://huggingface.co/baidu/Unlimited-OCR"/>
     <id>ec553a6f3c22333369799627b1a52a67</id>
-    <published>2026-07-10T21:01:34.717849+00:00</published>
-    <updated>2026-07-10T21:01:34.717849+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 1,319,683 \u00b7 Likes: 1921</summary>
+    <published>2026-07-11T21:01:36.269712+00:00</published>
+    <updated>2026-07-11T21:01:36.269712+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 1,380,690 \u00b7 Likes: 1929</summary>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>bottlecapai/ThinkingCap-Qwen3.6-27B</title>
+    <link href="https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B"/>
+    <id>54993d2bc01cd30ca414d3eb80bace73</id>
+    <published>2026-07-11T21:01:36.269692+00:00</published>
+    <updated>2026-07-11T21:01:36.269692+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 4,128 \u00b7 Likes: 233</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>InternScience/Agents-A1</title>
     <link href="https://huggingface.co/InternScience/Agents-A1"/>
     <id>24d13d735ff5d5da8ddacd1b681ee7ba</id>
-    <published>2026-07-10T21:01:34.717814+00:00</published>
-    <updated>2026-07-10T21:01:34.717814+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 25,772 \u00b7 Likes: 464</summary>
+    <published>2026-07-11T21:01:36.269677+00:00</published>
+    <updated>2026-07-11T21:01:36.269677+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 28,141 \u00b7 Likes: 491</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>zai-org/GLM-5.2</title>
     <link href="https://huggingface.co/zai-org/GLM-5.2"/>
     <id>5815ea401405be9c46d387b1dbf05351</id>
-    <published>2026-07-10T21:01:34.717777+00:00</published>
-    <updated>2026-07-10T21:01:34.717777+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 392,655 \u00b7 Likes: 3775</summary>
+    <published>2026-07-11T21:01:36.269642+00:00</published>
+    <updated>2026-07-11T21:01:36.269642+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 421,270 \u00b7 Likes: 3828</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
     <link href="https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF"/>
     <id>f5a229985bb27755556ac239cafc8b27</id>
-    <published>2026-07-10T21:01:34.717737+00:00</published>
-    <updated>2026-07-10T21:01:34.717737+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 1,909,705 \u00b7 Likes: 1966</summary>
+    <published>2026-07-11T21:01:36.269626+00:00</published>
+    <updated>2026-07-11T21:01:36.269626+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 1,944,961 \u00b7 Likes: 2006</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>tencent/Hy3</title>
     <link href="https://huggingface.co/tencent/Hy3"/>
     <id>52b580bd168c61516f143f086e9b0ef7</id>
-    <published>2026-07-10T21:01:34.717663+00:00</published>
-    <updated>2026-07-10T21:01:34.717663+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 6,923 \u00b7 Likes: 659</summary>
+    <published>2026-07-11T21:01:36.269584+00:00</published>
+    <updated>2026-07-11T21:01:36.269584+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 8,210 \u00b7 Likes: 696</summary>
     <category term="text-generation"/>
   </entry>
 </feed>

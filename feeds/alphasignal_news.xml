@@ -4,10 +4,50 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-10T19:14:56+00:00</updated>
+  <updated>2026-07-11T00:13:42+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>China Mobile's JT-4.1 Flash Challenges DeepSeek With a Free 236B Model</title>
+    <link href="https://artificialanalysis.ai/models/jt-4-1-flash-236b-a21b"/>
+    <id>3bc3517080128d4fc4de8100f0393b39</id>
+    <published>2026-07-11T00:13:42+00:00</published>
+    <updated>2026-07-11T00:13:42+00:00</updated>
+    <summary type="text">China Mobile's JT-4.1 Flash 236B A21B scores 39 on the AA Intelligence Index, closing the gap to China's AI frontier with a massive leap from its predecessor.</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Cursor 3.11 Lets Developers Run Parallel AI Chats Without Stopping Their Agent</title>
+    <link href="https://cursor.com/changelog/side-chat"/>
+    <id>d8417a42bd16d68a9abe209d121fd857</id>
+    <published>2026-07-10T20:59:05+00:00</published>
+    <updated>2026-07-10T20:59:05+00:00</updated>
+    <summary type="text">Cursor 3.11 adds side chats for parallel exploration, full-text transcript search, and new cloud agent hooks for self-correcting loops</summary>
+    <category term="development"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Epoch Finds OpenAI's Codex Engineers Now Ship 4x More Superhuman Workdays</title>
+    <link href="https://metr.org/blog/2026-05-08-task-substitution-and-uplift/"/>
+    <id>48b36c0632f800a68959bdb9417e82cb</id>
+    <published>2026-07-10T20:24:51+00:00</published>
+    <updated>2026-07-10T20:24:51+00:00</updated>
+    <summary type="text">Epoch AI analyzed OpenAI's Codex repo and found 8% of engineer workdays in Q2 2026 exceeded 24 hours of estimated human effort, up from 2% a year ago.</summary>
+    <category term="development"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Google's Willow Chip Beats Supercomputers by 13,000x With Quantum Echoes</title>
+    <link href="https://www.youtube.com/shorts/AFhuNsebOpA"/>
+    <id>b76d0367f775166a971d322481243f82</id>
+    <published>2026-07-10T20:06:51+00:00</published>
+    <updated>2026-07-10T20:06:51+00:00</updated>
+    <summary type="text">Google's Willow chip runs Quantum Echoes 13,000x faster than supercomputers, producing the first verifiable quantum advantage with real molecular applications</summary>
+    <category term="gpus"/>
+    <category term="benchmarks"/>
+  </entry>
   <entry>
     <title>Perplexity Swaps Claude for Grok 4.5 at Half the Cost</title>
     <link href="https://x.com/perplexity_ai/status/2075660058625790159"/>
@@ -29,14 +69,14 @@
     <category term="government"/>
   </entry>
   <entry>
-    <title>OpenAI's GPT-5.6 Sol Dominates Real Business Work With Best-Ever Presentation Score</title>
-    <link href="https://artificialanalysis.ai/evaluations/aa-briefcase"/>
-    <id>8e82e7c2a7aff3d481e382a6fad8c461</id>
-    <published>2026-07-10T17:51:49+00:00</published>
-    <updated>2026-07-10T17:51:49+00:00</updated>
-    <summary type="text">GPT-5.6 Sol tops AA-Briefcase's Presentation Elo with a ~500-point jump over its predecessor, while Artificial Analysis's new agentic benchmark reveals how far frontier models still are from reliable knowledge work.</summary>
-    <category term="benchmarks"/>
-    <category term="llms"/>
+    <title>GitHub's Copilot Code Review Got 20% Cheaper by Rewriting Instructions, Not Tools</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/"/>
+    <id>87be8bf4f9ab037d3c2642ac2cd879cb</id>
+    <published>2026-07-10T17:14:17+00:00</published>
+    <updated>2026-07-10T17:14:17+00:00</updated>
+    <summary type="text">GitHub's Copilot code review got worse after a tool upgrade â until they rewrote the instructions, cutting costs 20% with no quality loss</summary>
+    <category term="development"/>
+    <category term="agents"/>
   </entry>
   <entry>
     <title>Upstage's Solar 31B Hits 2,000 Tokens per Second on Cerebras Hardware</title>
@@ -59,6 +99,16 @@
     <category term="open_source"/>
   </entry>
   <entry>
+    <title>Meta's FlashNormAttention Hides 90% of Transformer Normalization Costs</title>
+    <link href="https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels/"/>
+    <id>1f7b3614f6f7bb037a08a4c2b0114385</id>
+    <published>2026-07-10T16:05:32+00:00</published>
+    <updated>2026-07-10T16:05:32+00:00</updated>
+    <summary type="text">Meta's new kernel fusion techniques hide up to 90% of LayerNorm/RMSNorm latency inside GEMM and Attention kernels, cutting full Attention block latency by 35%</summary>
+    <category term="gpus"/>
+    <category term="infra"/>
+  </entry>
+  <entry>
     <title>Google DeepMind's Genie Now Turns Real Street View Into Interactive AI Worlds</title>
     <link href="https://x.com/googleai/status/2075609303029776872"/>
     <id>d2d3848e40d992366dd223d3af188989</id>
@@ -69,63 +119,13 @@
     <category term="llms"/>
   </entry>
   <entry>
-    <title>Google AI Studio Finally Gives Deployed Apps Clean, Shareable URLs</title>
-    <link href="https://aistudio.google.com/welcome"/>
-    <id>d841fb1c9e2fc210493799c567aee981</id>
-    <published>2026-07-10T15:00:22+00:00</published>
-    <updated>2026-07-10T15:00:22+00:00</updated>
-    <summary type="text">Google AI Studio now lets you give deployed apps a clean atelier.ai.studio URL instead of a random Cloud Run slug</summary>
-    <category term="vibe_coding"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Unsloth's Qwen3.6 NVFP4 Hits 17,561 Tokens per Second on a Single GPU</title>
-    <link href="https://huggingface.co/collections/unsloth/nvfp4"/>
-    <id>caf76e24963730908edb8ee5be731da5</id>
-    <published>2026-07-10T13:01:40+00:00</published>
-    <updated>2026-07-10T13:01:40+00:00</updated>
-    <summary type="text">Unsloth's NVFP4 quants run Qwen3.6-27B on a 24GB GPU at 2.5x the speed, with MTP speculative decoding baked in</summary>
-    <category term="gpus"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Kyutai's MuScriptor Turns Any Band Recording Into Clean Per-Instrument MIDI</title>
-    <link href="https://github.com/muscriptor/muscriptor"/>
-    <id>1ba9821d5659da31e54925cd22e939c0</id>
-    <published>2026-07-10T11:18:03+00:00</published>
-    <updated>2026-07-10T11:18:03+00:00</updated>
-    <summary type="text">Kyutai and Mirelo release MuScriptor, an open-weight model that converts any multi-instrument recording into per-instrument MIDI using a novel three-stage training pipeline.</summary>
-    <category term="audio"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Wan-Streamer v0.2 Triples Video Resolution Without Adding Latency</title>
-    <link href="https://tongyilab.substack.com/p/wan-streamer-a-native-streaming-model"/>
-    <id>ae28a122a750c967e7f088a5dda00d54</id>
-    <published>2026-07-10T06:13:02+00:00</published>
-    <updated>2026-07-10T06:13:02+00:00</updated>
-    <summary type="text">Alibaba's Wan-Streamer v0.2 runs full-duplex video conversations at 640Ã368 and 25 FPS with ~550ms total latency, all inside a single Transformer</summary>
-    <category term="video"/>
-    <category term="audio"/>
-  </entry>
-  <entry>
-    <title>Moonshot AI's Kimi K2.7 Code HighSpeed Hits 260 Tokens per Second</title>
-    <link href="https://www.kimi.com/code/docs/en/#switch-model"/>
-    <id>80bdcd5b7d1cea91a47283efa093c56b</id>
-    <published>2026-07-10T02:00:17+00:00</published>
-    <updated>2026-07-10T02:00:17+00:00</updated>
-    <summary type="text">K2.7 Code HighSpeed exits beta and opens to all Allegretto+ subscribers, hitting 180â260 tok/s at 3x the credit cost</summary>
-    <category term="development"/>
+    <title>Perplexity Ships Computer Analytics so You Stop Losing Hundreds in Mystery Credits</title>
+    <link href="https://x.com/perplexity_ai/status/2075599540640714863"/>
+    <id>5f46511d8ff91f72fe583d5784de4e80</id>
+    <published>2026-07-10T15:14:27+00:00</published>
+    <updated>2026-07-10T15:14:27+00:00</updated>
+    <summary type="text">Perplexity Computer now shows credit spend broken down by model, available to all consumer and enterprise users in Account Settings.</summary>
     <category term="infra"/>
-  </entry>
-  <entry>
-    <title>Google's LiteRT.js Runs AI Models in Browsers up to 60x Faster</title>
-    <link href="https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/"/>
-    <id>b3ca5ec33f0aaa1f57b572828d6fe2c6</id>
-    <published>2026-07-09T21:05:02+00:00</published>
-    <updated>2026-07-09T21:05:02+00:00</updated>
-    <summary type="text">Google's LiteRT.js brings native on-device AI inference to the browser via WebGPU and WebAssembly, outperforming existing web runtimes by up to 3x</summary>
-    <category term="gpus"/>
-    <category term="development"/>
+    <category term="api"/>
   </entry>
 </feed>
