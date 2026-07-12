@@ -4,38 +4,95 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-07-11T18:04:01+00:00</updated>
+  <updated>2026-07-12T19:56:07+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>《AI 2040》与“智能崇拜”</title>
-    <link href="https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"/>
-    <id>f4ed84882146fcb109959b5ac9c62352</id>
-    <published>2026-07-11T18:04:01+00:00</published>
-    <updated>2026-07-11T18:04:01+00:00</updated>
-    <summary type="text">Score: 0.568\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox</title>
-    <link href="https://news.ycombinator.com/item?id=48873855"/>
-    <id>f8df002547b3f770acb62ec0740448ef</id>
-    <published>2026-07-11T17:23:52+00:00</published>
-    <updated>2026-07-11T17:23:52+00:00</updated>
-    <summary type="text">Score: 0.543\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <title>InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合</title>
+    <link href="https://xandergos.github.io/terrain-diffusion"/>
+    <id>d46398577cccd043a87268456297b7d4</id>
+    <published>2026-07-12T19:56:07+00:00</published>
+    <updated>2026-07-12T19:56:07+00:00</updated>
+    <summary type="text">Score: 0.544\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development</title>
-    <link href="https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development"/>
-    <id>c67c0927f08dcbaed8a4deef4aa2abbf</id>
-    <published>2026-07-11T17:04:28+00:00</published>
-    <updated>2026-07-11T17:04:28+00:00</updated>
+    <title>我喜欢大型语言模型，讨厌炒作</title>
+    <link href="https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html"/>
+    <id>6b9b61d3c9f0f5b3ebc63ad217154783</id>
+    <published>2026-07-12T18:31:56+00:00</published>
+    <updated>2026-07-12T18:31:56+00:00</updated>
+    <summary type="text">Score: 0.569\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Codex 移除5小时限制，GPT 5.6 Sol 效率提升</title>
+    <link href="https://x.com/dotey/status/2076372677577576864"/>
+    <id>a74619ac858f2a741c805227d0a96699</id>
+    <published>2026-07-12T18:26:38+00:00</published>
+    <updated>2026-07-12T18:26:38+00:00</updated>
+    <summary type="text">Score: 0.777\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个</title>
+    <link href="https://systima.ai/blog/claude-code-vs-opencode-token-overhead"/>
+    <id>47a61854b5e27e02fcec3c6e3898ac12</id>
+    <published>2026-07-12T18:25:51+00:00</published>
+    <updated>2026-07-12T18:25:51+00:00</updated>
+    <summary type="text">Score: 0.567\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户</title>
+    <link href="https://x.com/AYi_AInotes/status/2076341952023310580"/>
+    <id>60ad1d64a19ff4f74b103436b0935fc0</id>
+    <published>2026-07-12T16:24:32+00:00</published>
+    <updated>2026-07-12T16:24:32+00:00</updated>
+    <summary type="text">Score: 0.765\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。</title>
+    <link href="https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"/>
+    <id>f4151cd47e09d4c57e0c82deef23f134</id>
+    <published>2026-07-12T15:32:56.938982+00:00</published>
+    <updated>2026-07-12T15:32:56.938982+00:00</updated>
+    <summary type="text">Score: 0.679\nSources: 6 (WaytoAGI)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>带状疱疹疫苗可能降低患痴呆症的风险 / A no-brainer for protecting your brain</title>
+    <link href="https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain"/>
+    <id>935ac61ed8353171c4400caea5063901</id>
+    <published>2026-07-12T15:23:59+00:00</published>
+    <updated>2026-07-12T15:23:59+00:00</updated>
+    <summary type="text">Score: 0.532\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>纳德拉提出&quot;反向信息悖论&quot;：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753</title>
+    <link href="https://x.com/satyanadella/status/2076323181154230284"/>
+    <id>9e1f02c0f5d3feaf824e6b99ec209de1</id>
+    <published>2026-07-12T15:09:57+00:00</published>
+    <updated>2026-07-12T15:09:57+00:00</updated>
     <summary type="text">Score: 0.762\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
@@ -43,150 +100,93 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。</title>
-    <link href="https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"/>
-    <id>f4151cd47e09d4c57e0c82deef23f134</id>
-    <published>2026-07-11T16:58:14.203553+00:00</published>
-    <updated>2026-07-11T16:58:14.203553+00:00</updated>
-    <summary type="text">Score: 0.648\nSources: 4 (WaytoAGI)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>OpenAI 发布 GPT-5.6 系列医疗评估结果 / &quot;physicians found fewer flaws in GPT-5.6 responses than physician-written responses.&quot;</title>
-    <link href="https://x.com/sama/status/2075985056846451123"/>
-    <id>098930060ad5afe1eb13f00a3b9c6157</id>
-    <published>2026-07-11T16:46:22+00:00</published>
-    <updated>2026-07-11T16:46:22+00:00</updated>
-    <summary type="text">Score: 0.747\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Instagram的最新AI工具没能撑过这一周</title>
-    <link href="https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7"/>
-    <id>cc52d7bee9588cab56a7ee9581b1a714</id>
-    <published>2026-07-11T16:40:51+00:00</published>
-    <updated>2026-07-11T16:40:51+00:00</updated>
-    <summary type="text">Score: 0.537\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实</title>
+    <link href="https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7"/>
+    <id>ed7bc7456860b789b761c511191a1863</id>
+    <published>2026-07-12T14:02:01+00:00</published>
+    <updated>2026-07-12T14:02:01+00:00</updated>
+    <summary type="text">Score: 0.530\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>[OpenAI] 网页的 GPT 的回答开始加入广告投流了</title>
-    <link href="https://www.v2ex.com/t/1226598"/>
-    <id>b7724dc2fb7f7c96993e425f75bf8695</id>
-    <published>2026-07-11T12:30:42+00:00</published>
-    <updated>2026-07-11T12:30:42+00:00</updated>
-    <summary type="text">Score: 0.526\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Ghost Font：一种人类能读懂但AI无法识别的反AI字体</title>
-    <link href="https://www.mixfont.com/ghost-font"/>
-    <id>2ca3de098121d8eeeacd2592ede9ab93</id>
-    <published>2026-07-11T09:36:53+00:00</published>
-    <updated>2026-07-11T09:36:53+00:00</updated>
-    <summary type="text">Score: 0.842\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI</title>
-    <link href="https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0"/>
-    <id>84f4d350ef9f2026a93548804e0918d1</id>
-    <published>2026-07-11T07:56:11+00:00</published>
-    <updated>2026-07-11T07:56:11+00:00</updated>
-    <summary type="text">Score: 0.769\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun</title>
-    <link href="https://www.ithome.com/0/975/469.htm"/>
-    <id>c3e0b514a486c0c0b775142c584e8906</id>
-    <published>2026-07-11T07:33:08+00:00</published>
-    <updated>2026-07-11T07:33:08+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘</title>
-    <link href="https://x.com/AYi_AInotes/status/2075761215251312722"/>
-    <id>0a293d351d621dc3f6a69463a60c2a4f</id>
-    <published>2026-07-11T01:56:54+00:00</published>
-    <updated>2026-07-11T01:56:54+00:00</updated>
-    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>恐怖组织如何利用人工智能在战场上获得优势</title>
-    <link href="https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share"/>
-    <id>bf5e88654a4f6b79bd4c87b54be0b8a5</id>
-    <published>2026-07-11T01:03:10.067000+00:00</published>
-    <updated>2026-07-11T01:03:10.067000+00:00</updated>
-    <summary type="text">Score: 0.535\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash</title>
-    <link href="https://www.bbc.com/news/articles/c2dy6e8klw0o"/>
-    <id>fce705c99cd930498a7b96938942dd8e</id>
-    <published>2026-07-11T00:17:54+00:00</published>
-    <updated>2026-07-11T00:17:54+00:00</updated>
-    <summary type="text">Score: 0.526\nSources: 3 (Zeli)\nImportance: 多源热议</summary>
+    <title>人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study</title>
+    <link href="https://news.ycombinator.com/item?id=48881043"/>
+    <id>b588c48e22c9ad03e3c39b51816a013b</id>
+    <published>2026-07-12T13:26:13+00:00</published>
+    <updated>2026-07-12T13:26:13+00:00</updated>
+    <summary type="text">Score: 0.617\nSources: 5 (NewsNow)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts</title>
-    <link href="https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes"/>
-    <id>68b1c950fa28617e91ab8aadab90081e</id>
-    <published>2026-07-10T23:49:50+00:00</published>
-    <updated>2026-07-10T23:49:50+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
+    <title>10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？</title>
+    <link href="https://www.huxiu.com/article/4874651.html?f=rss"/>
+    <id>06dabb02cb42b97a9c08f9684f833ef3</id>
+    <published>2026-07-12T12:53:09+00:00</published>
+    <updated>2026-07-12T12:53:09+00:00</updated>
+    <summary type="text">Score: 0.529\nSources: 2 (TopHub)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>苹果起诉OpenAI窃取商业机密开发AI硬件</title>
-    <link href="https://x.com/dotey/status/2075712647723397452"/>
-    <id>2fc526327a684c985ab2193326d878a6</id>
-    <published>2026-07-10T22:43:54+00:00</published>
-    <updated>2026-07-10T22:43:54+00:00</updated>
-    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now &quot;pretty sure&quot; AI is net job-creating， which is quite the pivot from predicting mass layoffs</title>
+    <link href="https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs"/>
+    <id>9b21ec2f058f4eb099f7c49d578b2f86</id>
+    <published>2026-07-12T09:15:49+00:00</published>
+    <updated>2026-07-12T09:15:49+00:00</updated>
+    <summary type="text">Score: 0.762\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>博科圣地如何利用前沿AI技术</title>
-    <link href="https://casp.ac/reports/ai-enabled-terrorism"/>
-    <id>96b2c2bb058e3422640816ad0f66a316</id>
-    <published>2026-07-10T22:07:19.177000+00:00</published>
-    <updated>2026-07-10T22:07:19.177000+00:00</updated>
+    <title>Mindwalk：在代码库 3D 地图上回放编码代理会话</title>
+    <link href="https://github.com/cosmtrek/mindwalk"/>
+    <id>669c9812086307e9584c5dbcde4d0960</id>
+    <published>2026-07-12T05:51:32+00:00</published>
+    <updated>2026-07-12T05:51:32+00:00</updated>
+    <summary type="text">Score: 0.781\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈</title>
+    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28"/>
+    <id>025788abd04d48a220cab8922e707fe8</id>
+    <published>2026-07-12T03:09:47+00:00</published>
+    <updated>2026-07-12T03:09:47+00:00</updated>
+    <summary type="text">Score: 0.727\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划</title>
+    <link href="https://www.ithome.com/0/975/666.htm"/>
+    <id>78be933ec324de8f4625967208f36f76</id>
+    <published>2026-07-12T02:37:22+00:00</published>
+    <updated>2026-07-12T02:37:22+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …</title>
+    <link href="https://x.com/thsottiaux/status/2076119366647894371"/>
+    <id>e0e0046b63e1febc6ef23f456d344826</id>
+    <published>2026-07-12T01:40:04+00:00</published>
+    <updated>2026-07-12T01:40:04+00:00</updated>
     <summary type="text">Score: 0.758\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
@@ -195,49 +195,54 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>苹果起诉 OpenAI 涉嫌窃取硬件机密 / Apple sues OpenAI for allegedly stealing hardware secrets</title>
-    <link href="https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"/>
-    <id>9e8514fbff646ae857f99559859e41d7</id>
-    <published>2026-07-10T20:44:05+00:00</published>
-    <updated>2026-07-10T20:44:05+00:00</updated>
-    <summary type="text">Score: 0.578\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
+    <title>xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史</title>
+    <link href="https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"/>
+    <id>35da22201f02cd4eea45700a91f69650</id>
+    <published>2026-07-12T01:09:50+00:00</published>
+    <updated>2026-07-12T01:09:50+00:00</updated>
+    <summary type="text">Score: 0.785\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
     <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection</title>
-    <link href="https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection"/>
-    <id>fd7afe44e870a070da69841fc9dd2125</id>
-    <published>2026-07-10T20:40:56+00:00</published>
-    <updated>2026-07-10T20:40:56+00:00</updated>
-    <summary type="text">Score: 0.800\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="multi_source"/>
   </entry>
   <entry>
-    <title>Apple 起诉 OpenAI 窃取商业机密 / Apple sues OpenAI over alleged trade secret theft</title>
-    <link href="https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft"/>
-    <id>e486423cff9e51e95c04b38cf6a4baaa</id>
-    <published>2026-07-10T20:32:00+00:00</published>
-    <updated>2026-07-10T20:32:00+00:00</updated>
-    <summary type="text">Score: 0.739\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想</title>
+    <link href="https://www.ithome.com/0/975/646.htm"/>
+    <id>150293bfe84c010b217d1e6c491e1158</id>
+    <published>2026-07-12T00:44:43+00:00</published>
+    <updated>2026-07-12T00:44:43+00:00</updated>
+    <summary type="text">Score: 0.756\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句&quot;哈哈&quot;成窃密关键</title>
+    <link href="https://www.ithome.com/0/975/634.htm"/>
+    <id>1d2deb06faa72715589f391cf42ff804</id>
+    <published>2026-07-11T23:21:57+00:00</published>
+    <updated>2026-07-11T23:21:57+00:00</updated>
+    <summary type="text">Score: 0.739\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Meta Muse Spark 1.1 在 Artificial Analysis 智能指数中得分 51，兼具成本与 token 效率优势 / Meta's Muse Spark 1.1 scores 51 on the Artificial Analysis Intelligence Index and is cost and token …</title>
-    <link href="https://x.com/ArtificialAnlys/status/2075677416295739660"/>
-    <id>5012240675b29bd2096b7e34f634b425</id>
-    <published>2026-07-10T20:23:54+00:00</published>
-    <updated>2026-07-10T20:23:54+00:00</updated>
-    <summary type="text">Score: 0.724\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>Mesh LLM：在 iroh 上进行分布式人工智能计算</title>
+    <link href="https://www.iroh.computer/blog/mesh-llm"/>
+    <id>b52b935295eb585d4412615ea26f3cd7</id>
+    <published>2026-07-11T22:38:57+00:00</published>
+    <updated>2026-07-11T22:38:57+00:00</updated>
+    <summary type="text">Score: 0.791\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
-    <category term="industry"/>
+    <category term="high_importance"/>
+    <category term="multi_source"/>
   </entry>
 </feed>
