@@ -4,10 +4,19 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-07-08</updated>
+  <updated>2026-07-13</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>From Video Review to Measurement: Building Better Robot Data QC</title>
+    <link href="https://labs.scale.com/blog/from-video-review-to-measurement"/>
+    <id>7693900113d946e295541e135afd57cc</id>
+    <published>2026-07-13</published>
+    <updated>2026-07-13</updated>
+    <summary type="text">How Scale builds automated quality control for robot training data: why VLMs alone fall short, and why treating QC as measurement works better. — By Jade Choghari, Agustin Sansone, Don McCullough, Mouli Sivapurapu</summary>
+    <category term="Physical AI"/>
+  </entry>
   <entry>
     <title>MCP vs. CLI: Does an AI Agentâs Tool Interface Still Matter?</title>
     <link href="https://labs.scale.com/blog/mcp-vs-cli"/>

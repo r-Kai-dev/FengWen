@@ -4,44 +4,20 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/news"/>
   <id>https://allenai.org/news</id>
-  <updated>2026-07-01T00:00:00+00:00</updated>
+  <updated>2026-06-01T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
   <entry>
-    <title>Modular LLMs at scale: how FlexOlmo is helping to pool national expertise without pooling sensitive data</title>
-    <link href="https://allenai.org/blog/flexmore"/>
-    <id>595d0d213004e5275c27fad3be1a5ea2</id>
-    <published>2026-07-01T00:00:00+00:00</published>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <summary type="text">Danish Foundation Models is using FlexOlmo as the basis for FlexMoRE, a more efficient modular LLM architectureâ¦</summary>
-  </entry>
-  <entry>
     <title>MolmoMotion: Language-guided 3D motion forecasting</title>
-    <link href="https://allenai.org/blog/earth-day-2026"/>
-    <id>1c7fd1e791a8ba023f32f2f8fac66b0f</id>
-    <published>2026-06-01T00:00:00+00:00</published>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <summary type="text">For the past 10 years, Ai2 has built open, real-time tools that help people protect wildlife, oceans, andâ¦</summary>
-  </entry>
-  <entry>
-    <title>MolmoAct 2: An open foundation for robots that work in the real world</title>
-    <link href="https://allenai.org/blog/ifbench-artificial-analysis"/>
-    <id>e58668070b95161156a18b80f70f075b</id>
-    <published>2026-05-01T00:00:00+00:00</published>
-    <updated>2026-05-01T00:00:00+00:00</updated>
-    <summary type="text">Artificial Analysis uses Ai2âs open IFBench eval because it captures a stubborn, real-world capability manyâ¦</summary>
-  </entry>
-  <entry>
-    <title>Open by design: Ai2 brings fully open AI infrastructure online with NSF OMAI</title>
     <link href="https://allenai.org/blog/molmo-motion"/>
     <id>d3531ab61b2fd453abd6931be398727d</id>
-    <published>2026-05-01T00:00:00+00:00</published>
-    <updated>2026-05-01T00:00:00+00:00</updated>
+    <published>2026-06-01T00:00:00+00:00</published>
+    <updated>2026-06-01T00:00:00+00:00</updated>
     <summary type="text">MolmoMotion is an open, language-guided 3D motion forecasting model that predicts how object points will move inâ¦</summary>
   </entry>
   <entry>
-    <title>Whatâs next for Ai2: A conversation with Interim CEO Peter Clark</title>
+    <title>MolmoAct 2: An open foundation for robots that work in the real world</title>
     <link href="https://allenai.org/blog/omai-compute-now-live"/>
     <id>4edcd499fd6f5d91c243c36eee7faa15</id>
     <published>2026-05-01T00:00:00+00:00</published>
@@ -49,23 +25,31 @@
     <summary type="text">Ai2 is bringing NSF OMAI compute online to power a fully open AI research ecosystem, turning nationalâ¦</summary>
   </entry>
   <entry>
-    <title>Why Artificial Analysis uses Ai2's IFBench instruction-following eval</title>
-    <link href="https://allenai.org/blog/evaluating-scientific-discovery-agents"/>
-    <id>fcb205d740b21b587e866f4bfefb50d9</id>
+    <title>Open by design: Ai2 brings fully open AI infrastructure online with NSF OMAI</title>
+    <link href="https://allenai.org/blog/ifbench-artificial-analysis"/>
+    <id>e58668070b95161156a18b80f70f075b</id>
     <published>2026-05-01T00:00:00+00:00</published>
     <updated>2026-05-01T00:00:00+00:00</updated>
-    <summary type="text">Two benchmarks developed at Ai2 â ScienceWorld and DiscoveryWorld â reveal that even incredibly strong AI scienceâ¦</summary>
+    <summary type="text">Artificial Analysis uses Ai2âs open IFBench eval because it captures a stubborn, real-world capability manyâ¦</summary>
+  </entry>
+  <entry>
+    <title>Whatâs next for Ai2: A conversation with Interim CEO Peter Clark</title>
+    <link href="https://allenai.org/blog/molmoact2"/>
+    <id>d9e151d86ff4b6f85aaa22130db212d9</id>
+    <published>2026-05-01T00:00:00+00:00</published>
+    <updated>2026-05-01T00:00:00+00:00</updated>
+    <summary type="text">MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning toâ¦</summary>
+  </entry>
+  <entry>
+    <title>Why Artificial Analysis uses Ai2's IFBench instruction-following eval</title>
+    <link href="https://allenai.org/blog/gtc2026"/>
+    <id>37ac0757bd2136882067ad702fee2886</id>
+    <published>2026-05-01T00:00:00+00:00</published>
+    <updated>2026-05-01T00:00:00+00:00</updated>
+    <summary type="text">A recap of Ai2's week at NVIDIA GTC 2026, covering panels on open models, live demos of Olmo Hybrid and Astaâ¦</summary>
   </entry>
   <entry>
     <title>A decade of real-time intelligence for the planet</title>
-    <link href="https://allenai.org/blog/peter-clark-qa"/>
-    <id>49c12dad9ba13892383bcc4227f41ed2</id>
-    <published>2026-04-01T00:00:00+00:00</published>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <summary type="text">Interim CEO Peter Clark shares his thoughts on this moment for Ai2, our commitment to open science, and where theâ¦</summary>
-  </entry>
-  <entry>
-    <title>Evaluating agents for scientific discovery</title>
     <link href="https://allenai.org/blog/molmo-learns-to-point-and-act"/>
     <id>602bf2e8f03ba0602ff61e8d0662ea12</id>
     <published>2026-04-01T00:00:00+00:00</published>
@@ -73,11 +57,27 @@
     <summary type="text">MolmoPoint and MolmoWeb extend the Molmo family from visual understanding to visual action, giving researchersâ¦</summary>
   </entry>
   <entry>
-    <title>Molmo learns to point and act</title>
-    <link href="https://allenai.org/blog/molmoact2"/>
-    <id>d9e151d86ff4b6f85aaa22130db212d9</id>
+    <title>Evaluating agents for scientific discovery</title>
+    <link href="https://allenai.org/blog/earth-day-2026"/>
+    <id>1c7fd1e791a8ba023f32f2f8fac66b0f</id>
     <published>2026-04-01T00:00:00+00:00</published>
     <updated>2026-04-01T00:00:00+00:00</updated>
-    <summary type="text">MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning toâ¦</summary>
+    <summary type="text">For the past 10 years, Ai2 has built open, real-time tools that help people protect wildlife, oceans, andâ¦</summary>
+  </entry>
+  <entry>
+    <title>Molmo learns to point and act</title>
+    <link href="https://allenai.org/blog/peter-clark-qa"/>
+    <id>49c12dad9ba13892383bcc4227f41ed2</id>
+    <published>2026-04-01T00:00:00+00:00</published>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <summary type="text">Interim CEO Peter Clark shares his thoughts on this moment for Ai2, our commitment to open science, and where theâ¦</summary>
+  </entry>
+  <entry>
+    <title>Highlights from Ai2 at NVIDIA GTC 2026</title>
+    <link href="https://allenai.org/blog/evaluating-scientific-discovery-agents"/>
+    <id>fcb205d740b21b587e866f4bfefb50d9</id>
+    <published>2026-03-01T00:00:00+00:00</published>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <summary type="text">Two benchmarks developed at Ai2 â ScienceWorld and DiscoveryWorld â reveal that even incredibly strong AI scienceâ¦</summary>
   </entry>
 </feed>

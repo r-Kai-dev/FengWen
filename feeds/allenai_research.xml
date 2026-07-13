@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-06-29T00:00:00+00:00</updated>
+  <updated>2026-07-13T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>What building Shippy taught us about building agents</title>
+    <link href="https://allenai.org/blog/shippy-deep-dive"/>
+    <id>1546eae8793d578e07cf86bf510b766f</id>
+    <published>2026-07-13T00:00:00+00:00</published>
+    <updated>2026-07-13T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>DiScoFormer: One transformer for density and score, across distributions</title>
     <link href="https://allenai.org/blog/discoformer"/>
@@ -63,12 +70,5 @@
     <id>9909e59154557f026568ef10a7c8e14c</id>
     <published>2026-05-05T00:00:00+00:00</published>
     <updated>2026-05-05T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>AstaBench update: New results, plus adoption from industry</title>
-    <link href="https://allenai.org/blog/astabench-update-spring-2026"/>
-    <id>d0191faae2f2a5c8492a3c1e506011b9</id>
-    <published>2026-04-30T00:00:00+00:00</published>
-    <updated>2026-04-30T00:00:00+00:00</updated>
   </entry>
 </feed>

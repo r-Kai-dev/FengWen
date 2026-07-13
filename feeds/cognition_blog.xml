@@ -4,10 +4,26 @@
   <icon>https://cognition.com/favicon.ico</icon>
   <link href="https://cognition.com/blog"/>
   <id>https://cognition.com/blog</id>
-  <updated>2026-07-08T00:00:00+00:00</updated>
+  <updated>2026-07-13T00:00:00+00:00</updated>
   <author>
     <name>Cognition</name>
   </author>
+  <entry>
+    <title>Devin is Now FedRAMP High In-Process, Unlocking Autonomous AI Engineering for Federal Agencies</title>
+    <link href="https://cognition.com/blog/devin-fedramp-high-in-process"/>
+    <id>f40c82fb992f6ed27f15af340a221849</id>
+    <published>2026-07-13T00:00:00+00:00</published>
+    <updated>2026-07-13T00:00:00+00:00</updated>
+    <summary type="text">Cognition’s entire platform is now FedRAMP Class D (High) In-Process and listed on the FedRAMP Marketplace, giving engineering teams working in federal environments access to Devin, the autonomous cloud AI software engineer.</summary>
+  </entry>
+  <entry>
+    <title>Making Fable Cheaper Than Opus</title>
+    <link href="https://cognition.com/blog/making-fable-cheaper-than-opus"/>
+    <id>39f85899fa1bbe989aaa9bb9c9defa92</id>
+    <published>2026-07-13T00:00:00+00:00</published>
+    <updated>2026-07-13T00:00:00+00:00</updated>
+    <summary type="text">Fable 5 costs twice as much per token as Opus 4.8. But when we ran both models on FrontierCode 1.1 using our new Fusion architecture, Fable cost less — and scored higher. This post explains why, and what that means for pricing agentic work.</summary>
+  </entry>
   <entry>
     <title>Measuring the Trustworthiness of Open-Source-Derived Models</title>
     <link href="https://cognition.com/blog/measuring-open-source-model-trustworthiness"/>
@@ -22,7 +38,6 @@
     <id>9b729e1fa8d75b43dd733b1dcdd70882</id>
     <published>2026-07-08T00:00:00+00:00</published>
     <updated>2026-07-08T00:00:00+00:00</updated>
-    <summary type="text">Today, we’re launching SWE-1.7, the most capable model we’ve trained so far. It reaches frontier-level intelligence at a much lower cost, advancing the cost-performance Pareto curve.</summary>
   </entry>
   <entry>
     <title>FrontierCode 1.1</title>
@@ -30,6 +45,7 @@
     <id>df303f38f607de78133517d37c951f32</id>
     <published>2026-07-07T00:00:00+00:00</published>
     <updated>2026-07-07T00:00:00+00:00</updated>
+    <summary type="text">FrontierCode 1.1 refines our methodology to distinguish legitimate internet use from unfair use.</summary>
   </entry>
   <entry>
     <title>Introducing the Devin Security Vulnerability Remediation Program</title>

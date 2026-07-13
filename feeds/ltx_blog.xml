@@ -4,10 +4,46 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-07-08T00:00:00+00:00</updated>
+  <updated>2026-07-13T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>Hardware Guide for AI Video Models: GPU Recommendations by Use Case</title>
+    <link href="https://ltx.io/blog/hardware-for-ai-video-models"/>
+    <id>f9a8ede20fc5d1da08a0e7929c1a69e9</id>
+    <published>2026-07-13T00:00:00+00:00</published>
+    <updated>2026-07-13T00:00:00+00:00</updated>
+    <summary type="text">Match your AI video workload to the right GPU. VRAM tiers, FP8 quantization, and LTX-2.3 picks for preview, production, and LoRA training.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Open Source Video Generation Models (2026 Landscape Guide)</title>
+    <link href="https://ltx.io/blog/open-source-video-generation-models-guide"/>
+    <id>71e31cd215de36f35fd9234f9a9f6971</id>
+    <published>2026-07-13T00:00:00+00:00</published>
+    <updated>2026-07-13T00:00:00+00:00</updated>
+    <summary type="text">Compare the top open source video generation models in 2026. LTX-2.3, WAN 2.2, HunyuanVideo, and CogVideoX. Covers VRAM requirements, licensing, and how to choose for your workflow.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Video Generation Model Trends In 2026: What's Actually Changing</title>
+    <link href="https://ltx.io/blog/video-generation-model-trends"/>
+    <id>3cef07fe6427e832f80541d0785b18ab</id>
+    <published>2026-07-13T00:00:00+00:00</published>
+    <updated>2026-07-13T00:00:00+00:00</updated>
+    <summary type="text">Video generation models in 2026: native audio, open-weights parity with closed SaaS, and IC-LoRA control replace a 5-stage pipeline with one model call.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Why Train Your Own AI Video Model? Control, IP Protection, and Custom Pipelines</title>
+    <link href="https://ltx.io/blog/why-train-your-own-ai-video-model"/>
+    <id>6061767a49ac99d5ef09a7408a878232</id>
+    <published>2026-07-13T00:00:00+00:00</published>
+    <updated>2026-07-13T00:00:00+00:00</updated>
+    <summary type="text">Why train your own AI video model with LTX Trainer: control over the weights, local training data, custom pipelines, and no per-generation API billing.</summary>
+    <category term="Production"/>
+  </entry>
   <entry>
     <title>Introducing LTX as an Open World Models Company</title>
     <link href="https://ltx.io/blog/introducing-ltx-as-an-open-world-models-company"/>
@@ -396,15 +432,6 @@
     <category term="Production"/>
   </entry>
   <entry>
-    <title>The Best AI Marketing Tools To Use In 2026</title>
-    <link href="https://ltx.io/blog/best-ai-marketing-tools"/>
-    <id>670077db3af2972805f727cde1ff1c40</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">87% of marketers use AI tools. Here's how to choose the right platform for video creation, content generation, and campaign automation without sacrificing quality.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
     <title>What is B-Roll Footage</title>
     <link href="https://ltx.io/blog/what-is-b-roll-footage"/>
     <id>f516384e878cd225641e9e51cf9c4ad4</id>
@@ -412,32 +439,5 @@
     <updated>2026-06-21T00:00:00+00:00</updated>
     <summary type="text">Learn how B-roll footage elevates your videos from amateur to professional while keeping viewers glued to the screen.</summary>
     <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Introducing The New LTX Trainer: One Framework, Every Training Mode</title>
-    <link href="https://ltx.io/blog/introducing-the-new-ltx-trainer-one-framework-every-training-mode"/>
-    <id>c7e7c7f6792cda640144128ba04a1b68</id>
-    <published>2026-06-17T00:00:00+00:00</published>
-    <updated>2026-06-17T00:00:00+00:00</updated>
-    <summary type="text">LTX Trainer now supports video, audio, and cross-modal conditioning modes in one flexible framework: train LoRAs, IC-LoRAs, and full fine-tunes with full ownership.</summary>
-    <category term="Product Updates"/>
-  </entry>
-  <entry>
-    <title>Training Your First LoRA on LTX</title>
-    <link href="https://ltx.io/blog/training-your-first-lora-on-ltx"/>
-    <id>b3bf7e066d18309196af2e9d83c5a3b8</id>
-    <published>2026-06-17T00:00:00+00:00</published>
-    <updated>2026-06-17T00:00:00+00:00</updated>
-    <summary type="text">A practical guide to training your first LoRA on LTX-2.3, covering dataset prep, LoRA type selection, baseline settings, validation, and common debugging steps.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>LTX and Asteria Partner to Bring AI Video to Cinematic Storytelling</title>
-    <link href="https://ltx.io/blog/ltx-asteria-partnership"/>
-    <id>c542e7076375f771780b405cf9b56925</id>
-    <published>2026-06-15T00:00:00+00:00</published>
-    <updated>2026-06-15T00:00:00+00:00</updated>
-    <summary type="text">LTX and Asteria form a strategic partnership to integrate AI video into professional filmmaking, powered by the LTX-2.3 open weights model.</summary>
-    <category term="Product Updates"/>
   </entry>
 </feed>

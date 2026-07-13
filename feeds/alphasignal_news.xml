@@ -4,10 +4,70 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-11T00:13:42+00:00</updated>
+  <updated>2026-07-13T19:14:21+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Google's Gemini Omni Flash Tops Video Leaderboards With Built-In Reasoning</title>
+    <link href="https://artificialanalysis.ai/video/leaderboard/image-to-video"/>
+    <id>af4e096544f9ab092a2f3c16ac7b4473</id>
+    <published>2026-07-13T19:14:21+00:00</published>
+    <updated>2026-07-13T19:14:21+00:00</updated>
+    <summary type="text">Google's Gemini Omni Flash debuts at the top of Artificial Analysis video leaderboards, beating Seedance 2.0 with conversational editing at $6/min</summary>
+    <category term="video"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Anthropic Discovers Claude Expresses Warmer Values in Arabic Than English</title>
+    <link href="https://www.anthropic.com/research/claude-values-models-languages"/>
+    <id>e330434448ac735e73ebddc683fd5c5a</id>
+    <published>2026-07-13T17:24:56+00:00</published>
+    <updated>2026-07-13T17:24:56+00:00</updated>
+    <summary type="text">Anthropic analyzed 300K+ conversations to map how Claude's expressed values shift across model versions and 20 languages, revealing a four-axis framework that could reshape how AI behavior is monitored and steered.</summary>
+    <category term="post_training"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>Cerebras Runs Gemma 4 31B at 35x GPU Speed on Its Cloud</title>
+    <link href="https://www.cerebras.ai/blog/gemma-4-on-cerebras-the-fastest-inference-is-now-multimodal"/>
+    <id>2457f315456774236520f33cdbdd60ff</id>
+    <published>2026-07-13T17:01:02+00:00</published>
+    <updated>2026-07-13T17:01:02+00:00</updated>
+    <summary type="text">Gemma 4 31B hits 1,851 tokens/sec on Cerebras wafer-scale hardware, making real-time multimodal and agentic loops practical for the first time</summary>
+    <category term="llms"/>
+    <category term="infra"/>
+  </entry>
+  <entry>
+    <title>Parallel Web Systems' Turbo Cuts AI Search Costs 14x at 200ms</title>
+    <link href="https://parallel.ai/blog/parallel-search-turbo?utm_source=twitter&amp;utm_medium=social-organic&amp;utm_campaign=Turbo"/>
+    <id>3bab4f4e32f12f0e352102b49bf1565b</id>
+    <published>2026-07-13T15:28:08+00:00</published>
+    <updated>2026-07-13T15:28:08+00:00</updated>
+    <summary type="text">Parallel Web Systems launches Turbo mode for its Search API: 200ms median latency, $1 per 1,000 requests, and benchmark-leading accuracy against Exa, Tavily, and Brave.</summary>
+    <category term="retrieval"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Sakana AI's Smart Bricks Recognize Their Own Shape Without Any Central Brain</title>
+    <link href="https://www.nature.com/articles/s41467-026-75166-7?error=cookies_not_supported&amp;code=87d6621b-501e-4b74-b53c-b81cb8082c4b"/>
+    <id>8705d60b7d6c01d0105603134a3571b2</id>
+    <published>2026-07-13T09:21:51+00:00</published>
+    <updated>2026-07-13T09:21:51+00:00</updated>
+    <summary type="text">Sakana AI publishes in Nature Communications: physical bricks running identical tiny neural nets collectively recognize their own 3D shape and guide self-repair, with no central controller and no brick knowing its position.</summary>
+    <category term="robotics"/>
+    <category term="training_infra"/>
+  </entry>
+  <entry>
+    <title>Prime Intellect's Verifiers v1 Rewrites AI Agent Training From the Ground Up</title>
+    <link href="https://www.primeintellect.ai/blog/verifiers-v1"/>
+    <id>8256c3f6f85a0b86685afdafb3a98329</id>
+    <published>2026-07-12T23:22:57+00:00</published>
+    <updated>2026-07-12T23:22:57+00:00</updated>
+    <summary type="text">Prime Intellect overhauls its RL environment stack with composable tasksets, harnesses, and a smarter trace format that makes long-horizon agentic training actually feasible.</summary>
+    <category term="agents"/>
+    <category term="post_training"/>
+  </entry>
   <entry>
     <title>China Mobile's JT-4.1 Flash Challenges DeepSeek With a Free 236B Model</title>
     <link href="https://artificialanalysis.ai/models/jt-4-1-flash-236b-a21b"/>
@@ -67,65 +127,5 @@
     <summary type="text">OpenAI doubles its biosafety jailbreak reward to $50K and turns a one-time bounty into a permanent program, as GPT-5.6 earns a 'High' bio-risk rating across all three model tiers for the first time.</summary>
     <category term="security"/>
     <category term="government"/>
-  </entry>
-  <entry>
-    <title>GitHub's Copilot Code Review Got 20% Cheaper by Rewriting Instructions, Not Tools</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/"/>
-    <id>87be8bf4f9ab037d3c2642ac2cd879cb</id>
-    <published>2026-07-10T17:14:17+00:00</published>
-    <updated>2026-07-10T17:14:17+00:00</updated>
-    <summary type="text">GitHub's Copilot code review got worse after a tool upgrade â until they rewrote the instructions, cutting costs 20% with no quality loss</summary>
-    <category term="development"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Upstage's Solar 31B Hits 2,000 Tokens per Second on Cerebras Hardware</title>
-    <link href="https://x.com/cerebras/status/2075626937595126126"/>
-    <id>e2ee71f0fd26735012a407e5b2cb7b6c</id>
-    <published>2026-07-10T17:03:19+00:00</published>
-    <updated>2026-07-10T17:03:19+00:00</updated>
-    <summary type="text">Upstage's Solar 31B now runs at up to 2,000 tokens/sec on Cerebras hardware, making deep research queries across hundreds of sources feel nearly instant.</summary>
-    <category term="gpus"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>humans&amp; Open-Sources the First Stable 4-Bit RL Training Recipe at 1.73x Speedup</title>
-    <link href="https://humansand.ai/blog/nvfp4-rl?v=3"/>
-    <id>6196771dba2b3b322e4b2dacd2f7fb52</id>
-    <published>2026-07-10T16:29:20+00:00</published>
-    <updated>2026-07-10T16:29:20+00:00</updated>
-    <summary type="text">humans&amp; open-sources a stable NVFP4 reinforcement learning recipe that matches BF16 training dynamics while delivering major throughput gains on Blackwell GPUs</summary>
-    <category term="post_training"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Meta's FlashNormAttention Hides 90% of Transformer Normalization Costs</title>
-    <link href="https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels/"/>
-    <id>1f7b3614f6f7bb037a08a4c2b0114385</id>
-    <published>2026-07-10T16:05:32+00:00</published>
-    <updated>2026-07-10T16:05:32+00:00</updated>
-    <summary type="text">Meta's new kernel fusion techniques hide up to 90% of LayerNorm/RMSNorm latency inside GEMM and Attention kernels, cutting full Attention block latency by 35%</summary>
-    <category term="gpus"/>
-    <category term="infra"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind's Genie Now Turns Real Street View Into Interactive AI Worlds</title>
-    <link href="https://x.com/googleai/status/2075609303029776872"/>
-    <id>d2d3848e40d992366dd223d3af188989</id>
-    <published>2026-07-10T15:53:15+00:00</published>
-    <updated>2026-07-10T15:53:15+00:00</updated>
-    <summary type="text">Google DeepMind and Google Labs add Street View grounding to Project Genie, letting users build interactive AI worlds anchored in real locations</summary>
-    <category term="video"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Perplexity Ships Computer Analytics so You Stop Losing Hundreds in Mystery Credits</title>
-    <link href="https://x.com/perplexity_ai/status/2075599540640714863"/>
-    <id>5f46511d8ff91f72fe583d5784de4e80</id>
-    <published>2026-07-10T15:14:27+00:00</published>
-    <updated>2026-07-10T15:14:27+00:00</updated>
-    <summary type="text">Perplexity Computer now shows credit spend broken down by model, available to all consumer and enterprise users in Account Settings.</summary>
-    <category term="infra"/>
-    <category term="api"/>
   </entry>
 </feed>

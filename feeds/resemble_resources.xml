@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-07-10T00:00:00+00:00</updated>
+  <updated>2026-07-13T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Where Neural Audio Watermarking Fits In Audio Security</title>
+    <link href="https://www.resemble.ai/resources/where-neural-audio-watermarking-fits-in-audio-security"/>
+    <id>1d71084af85b47b60eeb1fc7d4529fa7</id>
+    <published>2026-07-13T00:00:00+00:00</published>
+    <updated>2026-07-13T00:00:00+00:00</updated>
+    <summary type="text">Learn how neural audio watermarking traces AI-generated voices, where it holds up under real distribution, and what your compliance workflow actually needs</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>The Deepfake Watchlist: Week of July 3-9, 2026</title>
     <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-july-3-9-2026"/>
@@ -81,6 +90,15 @@
     <category term="Guide"/>
   </entry>
   <entry>
+    <title>Proteus: Automated Adversarial Robustness Testing for Audio Deepfake Detectors</title>
+    <link href="https://www.resemble.ai/resources/proteus-automated-adversarial-robustness-testing-for-audio-deepfake-detectors"/>
+    <id>a2035f3690ad0c791f079ab29a353623</id>
+    <published>2026-06-28T00:00:00+00:00</published>
+    <updated>2026-06-28T00:00:00+00:00</updated>
+    <summary type="text">Resemble AI's Proteus framework found that everyday audio processing chains, like adding reverb then compressing to MP3, can flip a genuine recording's detector score by up to 99%, revealing that authentic audio, not deepfakes, is an audio detector's most exploitable weak point.</summary>
+    <category term="Research"/>
+  </entry>
+  <entry>
     <title>The Deepfake Watchlist: Week of June 19-25, 2026</title>
     <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-june-19-25-2026"/>
     <id>8b1d1ed59a952a8e69469118733c23b6</id>
@@ -90,15 +108,6 @@
     <category term="Deepfake Watchlist"/>
   </entry>
   <entry>
-    <title>How Deepfake Detection in Forensics Strengthens Case Review</title>
-    <link href="https://www.resemble.ai/resources/how-deepfake-detection-in-forensics-strengthens-case-review"/>
-    <id>1fc25055cef2e7f92d2a9a2910fb3e34</id>
-    <published>2026-06-24T00:00:00+00:00</published>
-    <updated>2026-06-24T00:00:00+00:00</updated>
-    <summary type="text">Explore how deepfake detection in forensics supports evidence review, case context, documentation, and risk-based decisions in 2026.</summary>
-    <category term="Blog"/>
-  </entry>
-  <entry>
     <title>PerTh Multimodal: Enterprise Multimodal Watermarking for Audio, Video, Image, and Text</title>
     <link href="https://www.resemble.ai/resources/perth-multimodal-enterprise-multimodal-watermarking-for-audio-video-image-and-text"/>
     <id>c6295ed68cc125bca759f694fba7245c</id>
@@ -106,14 +115,5 @@
     <updated>2026-06-24T00:00:00+00:00</updated>
     <summary type="text">PerTh Multimodal extends Resemble Watermarker from audio-only to audio, video, image, and text — an imperceptible mark, compliance-oriented for EU AI Act Article 50.</summary>
     <category term="Research"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Watchlist: Week of June 5–11, 2026</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-june-5-11-2026"/>
-    <id>5ff40c87461536761915707c6258dbad</id>
-    <published>2026-06-12T00:00:00+00:00</published>
-    <updated>2026-06-12T00:00:00+00:00</updated>
-    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
-    <category term="Deepfake Watchlist"/>
   </entry>
 </feed>
