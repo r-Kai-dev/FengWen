@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns:fw="https://codeberg.org/r-Kai/FengWen">
   <head>
     <title>Feng Wen (风闻) — AI/Tech News Feeds</title>
-    <dateCreated>2026-07-08T21:56:30Z</dateCreated>
+    <dateCreated>2026-07-13T15:38:07Z</dateCreated>
     <ownerName>Feng Wen</ownerName>
   </head>
   <body>
@@ -125,6 +125,7 @@
       <outline text="Groq Blog" title="Groq Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/groq_blog.xml" htmlUrl="https://groq.com/blog" fw:type="created"/>
       <outline text="Groq Newsroom" title="Groq Newsroom" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/groq_newsroom.xml" htmlUrl="https://groq.com/newsroom" fw:type="created"/>
       <outline text="Higgsfield Blog" title="Higgsfield Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/higgsfield_blog.xml" htmlUrl="https://higgsfield.ai/blog" fw:type="created"/>
+      <outline text="Fireworks AI Blog" title="Fireworks AI Blog" type="rss" xmlUrl="https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/fireworks_blog.xml" htmlUrl="https://fireworks.ai/blog" fw:type="created"/>
       <outline text="HuggingFace Blog" title="HuggingFace Blog" type="rss" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog" fw:type="official"/>
       <outline text="Replicate Blog" title="Replicate Blog" type="rss" xmlUrl="https://replicate.com/blog/atom" htmlUrl="https://replicate.com/blog" fw:type="official"/>
       <outline text="OpenRouter Blog" title="OpenRouter Blog" type="rss" xmlUrl="https://openrouter.ai/blog/feed.xml" htmlUrl="https://openrouter.ai/blog/" fw:type="official"/>

@@ -154,6 +154,7 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 | [Groq Blog](https://groq.com/blog) | [groq_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/groq_blog.xml) | Created |
 | [Groq Newsroom](https://groq.com/newsroom) | [groq_newsroom.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/groq_newsroom.xml) | Created |
 | [Higgsfield Blog](https://higgsfield.ai/blog) | [higgsfield_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/higgsfield_blog.xml) | Created |
+| [Fireworks AI Blog](https://fireworks.ai/blog) | [fireworks_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/fireworks_blog.xml) | Created |
 | [HuggingFace Blog](https://huggingface.co/blog) | [HuggingFace Blog Feed](https://huggingface.co/blog/feed.xml) | Official |
 | [Replicate Blog](https://replicate.com/blog) | [Replicate Blog Feed](https://replicate.com/blog/atom) | Official |
 | [OpenRouter Blog](https://openrouter.ai/blog/) | [OpenRouter Blog Feed](https://openrouter.ai/blog/feed.xml) | Official |

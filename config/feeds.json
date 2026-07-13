@@ -927,6 +927,22 @@
           "output_file": "scalelabs_papers.xml"
         }
       ]
+    },
+    {
+      "org_key": "fireworks",
+      "name": "Fireworks AI",
+      "strategy": "request",
+      "base_url": "https://fireworks.ai",
+      "favicon": "https://fireworks.ai/favicon.ico",
+      "category": "Platforms",
+      "pages": [
+        {
+          "key": "blog",
+          "label": "Fireworks AI Blog",
+          "url": "https://fireworks.ai/blog",
+          "output_file": "fireworks_blog.xml"
+        }
+      ]
     }
   ],
   "official": [

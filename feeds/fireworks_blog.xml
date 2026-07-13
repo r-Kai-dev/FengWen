@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fireworks AI Blog</title>
+  <icon>https://fireworks.ai/favicon.ico</icon>
+  <link href="https://fireworks.ai/blog"/>
+  <id>https://fireworks.ai/blog</id>
+  <updated>2026-07-10T00:00:00+00:00</updated>
+  <entry>
+    <title>Optimizing MiniMax M3 Sparse Attention on NVIDIA Blackwell</title>
+    <link href="https://fireworks.ai/blog/kernel-optimization-for-minimax-m3-on-nvidia-blackwell"/>
+    <id>6f2578a7daae585965290ad743a617a9</id>
+    <published>2026-07-10T00:00:00+00:00</published>
+    <updated>2026-07-10T00:00:00+00:00</updated>
+    <summary type="text">Sparse attention should be cheaper than dense, but M3's data-dependent block selection usually eats the savings. The Fireworks Performance team wrote a KV-stationary kernel for NVIDIA Blackwell that loads each selected KV block once and keeps tensor cores at full 128×128 tiles: ~980 TFLOP/s, 1.9–2.4</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/6803f5fb5e199449992f25717354894b865af6b8-1672x941.png&quot; alt=&quot;Optimizing MiniMax M3 Sparse Attention on NVIDIA Blackwell&quot; /&gt;
+&lt;p&gt;Sparse attention should be cheaper than dense, but M3's data-dependent block selection usually eats the savings. The Fireworks Performance team wrote a KV-stationary kernel for NVIDIA Blackwell that loads each selected KV block once and keeps tensor cores at full 128×128 tiles: ~980 TFLOP/s, 1.9–2.4× a query-stationary baseline and ~1.6× open-source MSA.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>How Gumloop Scaled Open-Weight Model Usage 7x in 3 Weeks with Fireworks AI</title>
+    <link href="https://fireworks.ai/blog/gumloop"/>
+    <id>95a85e170fbc73066142db86a6023687</id>
+    <published>2026-07-09T15:47:30.659000+00:00</published>
+    <updated>2026-07-09T15:47:30.659000+00:00</updated>
+    <summary type="text">Gumloop scaled its open-weight model usage 7x in three weeks by partnering with Fireworks AI. By optimizing its agent harness and switching to models like GLM-5.2, Gumloop achieved up to 72% cost savings while maintaining production-level quality and reliability, proving that open-weight models are </summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/f8dd5147ca6bbc74204a20241bbbf05975d89bf9-1600x900.png&quot; alt=&quot;How Gumloop Scaled Open-Weight Model Usage 7x in 3 Weeks with Fireworks AI&quot; /&gt;
+&lt;p&gt;Gumloop scaled its open-weight model usage 7x in three weeks by partnering with Fireworks AI. By optimizing its agent harness and switching to models like GLM-5.2, Gumloop achieved up to 72% cost savings while maintaining production-level quality and reliability, proving that open-weight models are now viable for complex, real-world AI workloads.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Open, frontier, and yours: LangChain Deep Agents on NVIDIA Nemotron 3 Ultra, running on Fireworks</title>
+    <link href="https://fireworks.ai/blog/Open-frontier-and-yours-LangChain-Deep-Agents-on-NVIDIA"/>
+    <id>39b144f04547db5d1439b3fcacc0520f</id>
+    <published>2026-07-09T00:00:00+00:00</published>
+    <updated>2026-07-09T00:00:00+00:00</updated>
+    <summary type="text">What’s New? LangChain has tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving benchmark-leading agent performance among open models at 10x lower cost of closed alternatives. That tuned harness ships inside Langchain Deep Agents, and Nemotron 3 Ultra runs on Fireworks with day-zero s</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/94688d12b69c935422616e679977dc07435a0bdc-1600x900.png&quot; alt=&quot;Open, frontier, and yours: LangChain Deep Agents on NVIDIA Nemotron 3 Ultra, running on Fireworks&quot; /&gt;
+&lt;p&gt;What’s New? LangChain has tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving benchmark-leading agent performance among open models at 10x lower cost of closed alternatives. That tuned harness ships inside Langchain Deep Agents, and Nemotron 3 Ultra runs on Fireworks with day-zero support.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Using GLM 5.2 Fast to deliver one engineer-month in just four days and $218 of tokens</title>
+    <link href="https://fireworks.ai/blog/glm5p2-fast-an-engineering-productivity-story"/>
+    <id>f115d35cb57a7935b2cb19987edd76eb</id>
+    <published>2026-07-07T00:00:00+00:00</published>
+    <updated>2026-07-07T00:00:00+00:00</updated>
+    <summary type="text">I scoped this GPU capacity management feature at a full engineer-month. On GLM 5.2 Fast through FireConnect and Claude Code, it took four days and $218: four PRs, ~3,000 lines, 34 tests passing, CI green. Here's the workflow, and why fast open models are quietly changing how senior engineers work.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/464f2580f0af09af532f2445f68e79fe445da572-1672x941.png&quot; alt=&quot;Using GLM 5.2 Fast to deliver one engineer-month in just four days and $218 of tokens&quot; /&gt;
+&lt;p&gt;I scoped this GPU capacity management feature at a full engineer-month. On GLM 5.2 Fast through FireConnect and Claude Code, it took four days and $218: four PRs, ~3,000 lines, 34 tests passing, CI green. Here's the workflow, and why fast open models are quietly changing how senior engineers work.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>GLM 5.2 Fast is live on Fireworks</title>
+    <link href="https://fireworks.ai/blog/glm-5p2-fast"/>
+    <id>8d5b0eabab35947cd96c832af3b05072</id>
+    <published>2026-06-30T00:00:00+00:00</published>
+    <updated>2026-06-30T00:00:00+00:00</updated>
+    <summary type="text">GLM 5.2 Fast is live on Fireworks today. Across multiple 3rd party benchmarks, Fireworks consistently delivers the fastest throughput among all API inference providers. ~2x our own Standard path, on shared serverless endpoint, available for everyone, with no reserved GPUs.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/052adc94966ba1e17fe62ff4f70bcc383fa06d02-2295x1083.png&quot; alt=&quot;GLM 5.2 Fast is live on Fireworks&quot; /&gt;
+&lt;p&gt;GLM 5.2 Fast is live on Fireworks today. Across multiple 3rd party benchmarks, Fireworks consistently delivers the fastest throughput among all API inference providers. ~2x our own Standard path, on shared serverless endpoint, available for everyone, with no reserved GPUs.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Cursor Composer 2 + Fireworks AI</title>
+    <link href="https://fireworks.ai/blog/Cursor-Composer-2"/>
+    <id>a353a3a635a6e279fb37a73dbd0fb711</id>
+    <published>2026-06-26T00:00:00+00:00</published>
+    <updated>2026-06-26T00:00:00+00:00</updated>
+    <summary type="text">Cursor built a coding model optimized for software engineering by combining continual pre-training, reinforcement learning, and production feedback.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/221830e7e8be2cebabe225c6f982170d20cb65d1-1600x900.png&quot; alt=&quot;Cursor Composer 2 + Fireworks AI&quot; /&gt;
+&lt;p&gt;Cursor built a coding model optimized for software engineering by combining continual pre-training, reinforcement learning, and production feedback.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>How Factory Grew Open Model Usage 2-3x in Six Months on Fireworks</title>
+    <link href="https://fireworks.ai/blog/Factory"/>
+    <id>2160eb39020039ae1f55f7a52f7231be</id>
+    <published>2026-06-26T00:00:00+00:00</published>
+    <updated>2026-06-26T00:00:00+00:00</updated>
+    <summary type="text">Factory is proving that agentic software development only works at scale when teams can swap models instantly without breaking production. By standardizing on Fireworks AI for day-zero open model access and consistent performance, they cut costs to 6–20% of frontier levels while keeping their “Droid</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/683e232562d65925a892a2e16108b45223fb9640-1600x900.png&quot; alt=&quot;How Factory Grew Open Model Usage 2-3x in Six Months on Fireworks&quot; /&gt;
+&lt;p&gt;Factory is proving that agentic software development only works at scale when teams can swap models instantly without breaking production. By standardizing on Fireworks AI for day-zero open model access and consistent performance, they cut costs to 6–20% of frontier levels while keeping their “Droids” reliable as new models ship&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Frontier AI at a fraction of the cost: open-source workers with a closed-source advisor</title>
+    <link href="https://fireworks.ai/blog/frontier-open-source-worker-with-closed-source-advisor"/>
+    <id>f5974a8328264f020e1a756b3d85dd90</id>
+    <published>2026-06-24T00:00:00+00:00</published>
+    <updated>2026-06-24T00:00:00+00:00</updated>
+    <summary type="text">This latest research memo introduces a &quot;worker-advisor&quot; architecture that pairs efficient open-source models with a single, skeptical &quot;frontier&quot; advisor. The simple setup consistently beats a closed-source only model across coding, terminal, and legal tasks, at a fraction of the cost. Explore the de</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/b6a13cfc8a6eae2a643af73c962772c3d490b206-1672x941.png&quot; alt=&quot;Frontier AI at a fraction of the cost: open-source workers with a closed-source advisor&quot; /&gt;
+&lt;p&gt;This latest research memo introduces a &quot;worker-advisor&quot; architecture that pairs efficient open-source models with a single, skeptical &quot;frontier&quot; advisor. The simple setup consistently beats a closed-source only model across coding, terminal, and legal tasks, at a fraction of the cost. Explore the details by checking out our open-source cookbook today.
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Frontier-lab Training Infrastructure, Available Now as a Managed Service for GLM 5.2</title>
+    <link href="https://fireworks.ai/blog/frontier-lab-training-infrastructure-as-a-service"/>
+    <id>4722b2bbce9760635de97479daf17549</id>
+    <published>2026-06-24T00:00:00+00:00</published>
+    <updated>2026-06-24T00:00:00+00:00</updated>
+    <summary type="text">The infrastructure that makes reinforcement learning converge on a frontier model has always been locked inside the top labs. Batch invariance, zero-KLD train/serve alignment, and fast RL rollouts are now available as a managed service on Fireworks, starting with GLM 5.2.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/81185ffb66371843af41e754c1abc09fa8df3dd7-1774x887.png&quot; alt=&quot;Frontier-lab Training Infrastructure, Available Now as a Managed Service for GLM 5.2&quot; /&gt;
+&lt;p&gt;The infrastructure that makes reinforcement learning converge on a frontier model has always been locked inside the top labs. Batch invariance, zero-KLD train/serve alignment, and fast RL rollouts are now available as a managed service on Fireworks, starting with GLM 5.2.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>GLM 5.2 is live on Fireworks inference, day zero.</title>
+    <link href="https://fireworks.ai/blog/glm-5p2"/>
+    <id>bb19a8a1447b0307c95c9ac607de87bc</id>
+    <published>2026-06-16T00:00:00+00:00</published>
+    <updated>2026-06-16T00:00:00+00:00</updated>
+    <summary type="text">GLM 5.2 is live on Fireworks inference, day zero.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/e407c50524c8c01c3c07e10161fca58df1508706-1800x600.png&quot; alt=&quot;GLM 5.2 is live on Fireworks inference, day zero.&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Fireworks is moving to prepaid billing on July 1st</title>
+    <link href="https://fireworks.ai/blog/billing-migration-to-prepaid"/>
+    <id>49e7542ce470c4cb2884f22d10f59383</id>
+    <published>2026-06-15T00:00:00+00:00</published>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <summary type="text">Fireworks is moving to prepaid billing on July 1st</summary>
+  </entry>
+  <entry>
+    <title>Kimi K2.7 Code on Fireworks: Better Agents, Lower Cost per Task, Available Day-0</title>
+    <link href="https://fireworks.ai/blog/kimi-k2p7-code"/>
+    <id>3501af5b08e5503acdaab80b27ee147e</id>
+    <published>2026-06-12T21:31:15.832000+00:00</published>
+    <updated>2026-06-12T21:31:15.832000+00:00</updated>
+    <summary type="text">Fireworks is live with day-0 support for Kimi K2.7 Code, the latest model in the frontier K2 series of models by Moonshot AI. Optimized for agentic coding, it delivers higher benchmark scores while using 30% fewer reasoning tokens. This efficiency means faster, more cost-effective workflows for your</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/6c92e2f6a776cafa92b05759d3712bf71b3fe1d5-2172x724.png&quot; alt=&quot;Kimi K2.7 Code on Fireworks: Better Agents, Lower Cost per Task, Available Day-0&quot; /&gt;
+&lt;p&gt;Fireworks is live with day-0 support for Kimi K2.7 Code, the latest model in the frontier K2 series of models by Moonshot AI. Optimized for agentic coding, it delivers higher benchmark scores while using 30% fewer reasoning tokens. This efficiency means faster, more cost-effective workflows for your coding tasks. Start integrating Kimi K2.7 Code on the Fireworks platform today.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>MiniMax M3 is live: long context + native multimodality at 1/20th the price</title>
+    <link href="https://fireworks.ai/blog/minimax-m3-launch"/>
+    <id>6f47fcb9c7934cb536c7d79862f62110</id>
+    <published>2026-06-12T00:00:00+00:00</published>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <summary type="text">MiniMax M3 is live on Fireworks, and it transforms what open-weight models can be used to accomplish. One model. One million tokens of context. Frontier coding that runs autonomously for hours. Native image and video understanding. And the fastest M3 inference available, anywhere. Whether you're bui</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/4782e4aa3e80d4c26b6213dbe43ef6e1c40da005-1942x809.png&quot; alt=&quot;MiniMax M3 is live: long context + native multimodality at 1/20th the price&quot; /&gt;
+&lt;p&gt;MiniMax M3 is live on Fireworks, and it transforms what open-weight models can be used to accomplish. One model. One million tokens of context. Frontier coding that runs autonomously for hours. Native image and video understanding. And the fastest M3 inference available, anywhere. Whether you're building long-horizon agents, multimodal pipelines, or full-repo coding workflows, M3 on Fireworks is ready for production. Start building today.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Qwen 3.7 Plus on Fireworks: Run it today.</title>
+    <link href="https://fireworks.ai/blog/qwen-3p7-plus"/>
+    <id>d7642cdea96313a915bafc476d096f9b</id>
+    <published>2026-06-12T00:00:00+00:00</published>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <summary type="text">Experience the raw power of Qwen 3.7 Plus directly on Fireworks, the world’s leading high-performance inference provider. While others offer simple API routing, Fireworks delivers genuine, independent infrastructure for Alibaba’s flagship frontier model. By leveraging our proprietary FireAttention e</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/1052dda5ceacc35ff75696729147134b6293c136-1672x941.png&quot; alt=&quot;Qwen 3.7 Plus on Fireworks: Run it today.&quot; /&gt;
+&lt;p&gt;Experience the raw power of Qwen 3.7 Plus directly on Fireworks, the world’s leading high-performance inference provider. While others offer simple API routing, Fireworks delivers genuine, independent infrastructure for Alibaba’s flagship frontier model. By leveraging our proprietary FireAttention engine—optimized with mxfp8 quantization and MoE-specific kernels—we extract the maximum tokens per second at the lowest possible latency, ensuring your production workloads remain fast, reliable, and secure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>NVIDIA Nemotron 3 Ultra is live on Fireworks, day zero</title>
+    <link href="https://fireworks.ai/blog/nemotron-3-ultra"/>
+    <id>dba053245323e050bfac25291ca34c9a</id>
+    <published>2026-06-04T00:00:00+00:00</published>
+    <updated>2026-06-04T00:00:00+00:00</updated>
+    <summary type="text">Run NVIDIA Nemotron 3 Ultra today. Optimize autonomous agents with 1M context and frontier reasoning. Day-zero support on the fastest infrastructure.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/c574ee6c6b5d2fa968962753c1272753c726217a-923x530.png&quot; alt=&quot;NVIDIA Nemotron 3 Ultra is live on Fireworks, day zero&quot; /&gt;
+&lt;p&gt;Run NVIDIA Nemotron 3 Ultra today. Optimize autonomous agents with 1M context and frontier reasoning. Day-zero support on the fastest infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>How Harvey &amp; Fireworks Beat Closed Source on Cost + Quality</title>
+    <link href="https://fireworks.ai/blog/open-source-agents-frontier-advisors"/>
+    <id>263a0158c95db4725db477a831e4c0dd</id>
+    <published>2026-06-03T00:00:00+00:00</published>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+    <summary type="text">Combining an open-source agent harness, frontier tool use, and Fireworks-native post-training lifts performance through system-level orchestration.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/13fab3e8b7c7495e0fa284daba2fbc904639f2a8-1600x900.png&quot; alt=&quot;How Harvey &amp; Fireworks Beat Closed Source on Cost + Quality&quot; /&gt;
+&lt;p&gt;Combining an open-source agent harness, frontier tool use, and Fireworks-native post-training lifts performance through system-level orchestration.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Trilogy Validates Open-Weight AI Models for Enterprise AI Workloads with Fireworks</title>
+    <link href="https://fireworks.ai/blog/Trilogy"/>
+    <id>747ac3c8b5353a74ab548ccf1ad78d19</id>
+    <published>2026-06-01T00:00:00+00:00</published>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <summary type="text">Trilogy’s AI Center of Excellence evaluated open-weight models as rising inference costs and operational constraints limited scalable deployment across enterprise AI workloads. Fireworks AI provided a unified inference layer for evaluation and early production testing, enabling validation of open-we</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/17b1df72c0a40bc31e5c78dc2e3be130478217a3-1600x900.png&quot; alt=&quot;Trilogy Validates Open-Weight AI Models for Enterprise AI Workloads with Fireworks&quot; /&gt;
+&lt;p&gt;Trilogy’s AI Center of Excellence evaluated open-weight models as rising inference costs and operational constraints limited scalable deployment across enterprise AI workloads. Fireworks AI provided a unified inference layer for evaluation and early production testing, enabling validation of open-weight models under enterprise-scale latency, cost, and throughput requirements.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Agents Don't Fail on Intelligence. They Fail on Execution.</title>
+    <link href="https://fireworks.ai/blog/agent-execution-tax"/>
+    <id>f2076f42a95d0156b989cea35bbea06c</id>
+    <published>2026-05-20T00:00:00+00:00</published>
+    <updated>2026-05-20T00:00:00+00:00</updated>
+    <summary type="text">Agents Don't Fail on Intelligence. They Fail on Execution.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/33b89db7947f0c695d59260209525961a7ca4a44-1600x900.png&quot; alt=&quot;Agents Don't Fail on Intelligence. They Fail on Execution.&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Innovative Solutions Rebuilds Enterprise Services Delivery with Fireworks AI</title>
+    <link href="https://fireworks.ai/blog/innovative-solutions"/>
+    <id>6e79269e5158b16267f14a4780592981</id>
+    <published>2026-05-05T00:00:00+00:00</published>
+    <updated>2026-05-05T00:00:00+00:00</updated>
+    <summary type="text">By powering DarcyIQ with Fireworks, Innovative Solutions transformed AI inference from a linear cost center into a predictable scaling layer for multi-agent services delivery, enabling faster cycles, higher throughput, and stable economics at billions of tokens per month.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/6cbed5389f54a0b1e191f8b84d3ee2939acb7888-5000x2813.png&quot; alt=&quot;Innovative Solutions Rebuilds Enterprise Services Delivery with Fireworks AI&quot; /&gt;
+&lt;p&gt;By powering DarcyIQ with Fireworks, Innovative Solutions transformed AI inference from a linear cost center into a predictable scaling layer for multi-agent services delivery, enabling faster cycles, higher throughput, and stable economics at billions of tokens per month.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>DeepSeek V4 Pro: Validating Frontier Models For Production</title>
+    <link href="https://fireworks.ai/blog/deepseek-v4-pro-validating-frontier-models-for-production"/>
+    <id>9b354ba4c10fa3b20c467c06097b0459</id>
+    <published>2026-04-27T00:00:00+00:00</published>
+    <updated>2026-04-27T00:00:00+00:00</updated>
+    <summary type="text">DeepSeek V4 Pro: Validating Frontier Models For Production</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/f02845427413d6cb66acb080dbdc2920ac12d028-1000x400.png&quot; alt=&quot;DeepSeek V4 Pro: Validating Frontier Models For Production&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>How we fixed prompt injection for all models on Fireworks</title>
+    <link href="https://fireworks.ai/blog/safe-tokenization-preventing-prompt-injection-on-fireworks"/>
+    <id>e5692af4dcf92f2e40c68bc29fa730c7</id>
+    <published>2026-04-24T00:00:00+00:00</published>
+    <updated>2026-04-24T00:00:00+00:00</updated>
+    <summary type="text">How we fixed prompt injection for all models on Fireworks</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/e70657785d593ba54ced00724718cfe9ef505cfb-1672x941.png&quot; alt=&quot;How we fixed prompt injection for all models on Fireworks&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Own Your AI: Fireworks Training Preview</title>
+    <link href="https://fireworks.ai/blog/training-preview"/>
+    <id>e5d7803be86121ed1d4cbb20b114fe8a</id>
+    <published>2026-04-06T00:00:00+00:00</published>
+    <updated>2026-04-06T00:00:00+00:00</updated>
+    <summary type="text">Introducing Fireworks Training in preview: an end-to-end platform for training and deploying frontier models at scale, with three surfaces for three kinds of teams.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/e5358a895e3673984fdb5f428254bdd850b19cdf-1165x542.png&quot; alt=&quot;Own Your AI: Fireworks Training Preview&quot; /&gt;
+&lt;p&gt;Introducing Fireworks Training in preview: an end-to-end platform for training and deploying frontier models at scale, with three surfaces for three kinds of teams.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The Fine-Tuning Bottleneck Isn't the Algorithm</title>
+    <link href="https://fireworks.ai/blog/fine-tuning-bottlenecks"/>
+    <id>912e619ddf382073918e4e4d6baf157b</id>
+    <published>2026-03-28T04:18:10.046000+00:00</published>
+    <updated>2026-03-28T04:18:10.046000+00:00</updated>
+    <summary type="text">The Fine-Tuning Bottleneck Isn't the Algorithm</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/ea48011578794db93b5ab0304bd829e74ede7050-1120x440.svg&quot; alt=&quot;The Fine-Tuning Bottleneck Isn't the Algorithm&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Frontier RL Is Cheaper Than You Think</title>
+    <link href="https://fireworks.ai/blog/frontier-rl-is-cheaper-than-you-think"/>
+    <id>6d23de9131e3eddf8b965ea8a92d53e9</id>
+    <published>2026-03-22T00:00:00+00:00</published>
+    <updated>2026-03-22T00:00:00+00:00</updated>
+    <summary type="text">The conventional wisdom on RL infrastructure is wrong. Cross-region rollouts, compact deltas, and hot-load updates let teams use distributed capacity effectively instead of waiting for one mega cluster.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/37e5f0123bb91d0dabcc7588fda54a5a3e9f160a-1006x714.png&quot; alt=&quot;Frontier RL Is Cheaper Than You Think&quot; /&gt;
+&lt;p&gt;The conventional wisdom on RL infrastructure is wrong. Cross-region rollouts, compact deltas, and hot-load updates let teams use distributed capacity effectively instead of waiting for one mega cluster.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fireworks Acquires Hathora to Accelerate Global Compute Orchestration</title>
+    <link href="https://fireworks.ai/blog/fireworks-acquires-hathora"/>
+    <id>359c728d4454abfc0dfbd40e202772f6</id>
+    <published>2026-03-08T00:00:00+00:00</published>
+    <updated>2026-03-08T00:00:00+00:00</updated>
+    <summary type="text">Fireworks Acquires Hathora to Accelerate Global Compute Orchestration</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/753d2cf32a15babbc7fb7add153e26d5b8d0fb99-4800x2700.png&quot; alt=&quot;Fireworks Acquires Hathora to Accelerate Global Compute Orchestration&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Introducing Fireworks on Microsoft Foundry: Bringing Best-in-Class Open Model inference to Azure</title>
+    <link href="https://fireworks.ai/blog/fireworks-on-microsoft-foundry"/>
+    <id>24a3a086586194e8fcc8588048c065f0</id>
+    <published>2026-03-08T00:00:00+00:00</published>
+    <updated>2026-03-08T00:00:00+00:00</updated>
+    <summary type="text">Introducing Fireworks on Microsoft Foundry: Bringing Best-in-Class Open Model inference to Azure</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/f03d72142843c3e5b0ca6e349d8cdb2eb7eabb6e-4800x2700.png&quot; alt=&quot;Introducing Fireworks on Microsoft Foundry: Bringing Best-in-Class Open Model inference to Azure&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Inference Providers vs. API Routers: where do tokens come from?</title>
+    <link href="https://fireworks.ai/blog/inference-providers-vs-api-routers"/>
+    <id>580cc242ada0b9ba9d935bcf4a41e5d5</id>
+    <published>2026-03-06T00:00:00+00:00</published>
+    <updated>2026-03-06T00:00:00+00:00</updated>
+    <summary type="text">Inference Providers vs. API Routers: where do tokens come from?</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/65fd50656ae6a4510078ce7f0db593e4b4acd9ec-1672x941.png&quot; alt=&quot;Inference Providers vs. API Routers: where do tokens come from?&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>The Best 8 LLM API Providers in 2026</title>
+    <link href="https://fireworks.ai/blog/best-llm-api-providers"/>
+    <id>a0278ec2f3326ac8451a265f3b9fc996</id>
+    <published>2026-03-04T00:00:00+00:00</published>
+    <updated>2026-03-04T00:00:00+00:00</updated>
+    <summary type="text">We compared pricing, latency, and models across 8 LLM API providers. Find the best fit for production, fine-tuning, custom deployment, or prototyping.</summary>
+    <content type="html">&lt;p&gt;We compared pricing, latency, and models across 8 LLM API providers. Find the best fit for production, fine-tuning, custom deployment, or prototyping.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Best LLMs for coding in 2026</title>
+    <link href="https://fireworks.ai/blog/best-llms-for-coding"/>
+    <id>9f29246de8288a7c8b7e79fb1ec63f8c</id>
+    <published>2026-03-02T00:00:00+00:00</published>
+    <updated>2026-03-02T00:00:00+00:00</updated>
+    <summary type="text">Compare GPT-5.5, Claude Opus 4.7, DeepSeek V4-Pro, Kimi K2.6, and 7 more LLMs for coding. Artificial Analysis benchmarks, Fireworks pricing, and tradeoffs.</summary>
+    <content type="html">&lt;p&gt;Compare GPT-5.5, Claude Opus 4.7, DeepSeek V4-Pro, Kimi K2.6, and 7 more LLMs for coding. Artificial Analysis benchmarks, Fireworks pricing, and tradeoffs.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The DeepSeek Model Lineup: V3.2, R1, and Distilled Variants Mapped to Production Workloads</title>
+    <link href="https://fireworks.ai/blog/deepseek-models"/>
+    <id>20f5bafaae0b6dc8614fc1e728050bae</id>
+    <published>2026-02-27T00:00:00+00:00</published>
+    <updated>2026-02-27T00:00:00+00:00</updated>
+    <summary type="text">DeepSeek models explained: V3.2 vs R1 vs distilled variants, when to use thinking mode, tool calling limits, token costs, and how to run them on Fireworks AI.</summary>
+    <content type="html">&lt;p&gt;DeepSeek models explained: V3.2 vs R1 vs distilled variants, when to use thinking mode, tool calling limits, token costs, and how to run them on Fireworks AI.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The Benchmark Gap: What It Takes to Ship Kimi K2.5</title>
+    <link href="https://fireworks.ai/blog/quality-first-with-kimi-k2p5"/>
+    <id>f0dd76fff72c64ae7dd3f480c5e6eeb5</id>
+    <published>2026-02-03T00:00:00+00:00</published>
+    <updated>2026-02-03T00:00:00+00:00</updated>
+    <summary type="text">The Benchmark Gap: What It Takes to Ship Kimi K2.5</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/35516314dd6fc5a2b6e56ce5fc78cc3c6f433c47-1080x591.png&quot; alt=&quot;The Benchmark Gap: What It Takes to Ship Kimi K2.5&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>The Missing Piece of the OpenClaw Mania: Truly ‘Own Your AI’ with Fireworks AI</title>
+    <link href="https://fireworks.ai/blog/openclaw-using-kimi2p5-on-fireworks-ai"/>
+    <id>0844a41300d68020ddc4f2e8980faeec</id>
+    <published>2026-01-30T00:00:00+00:00</published>
+    <updated>2026-01-30T00:00:00+00:00</updated>
+    <summary type="text">The Missing Piece of the OpenClaw Mania: Truly ‘Own Your AI’ with Fireworks AI</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/166f02832179cb3582358ffc5a7d372a88569c72-1280x720.png&quot; alt=&quot;The Missing Piece of the OpenClaw Mania: Truly ‘Own Your AI’ with Fireworks AI&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Build powerful agents on OSS models with Blazing Fast Inference on Fireworks</title>
+    <link href="https://fireworks.ai/blog/blazing-fast-inference-on-top-oss-models"/>
+    <id>3efa0955e764f8dd698a9fc79ad17662</id>
+    <published>2026-01-27T00:00:00+00:00</published>
+    <updated>2026-01-27T00:00:00+00:00</updated>
+    <summary type="text">Build powerful agents on OSS models with Blazing Fast Inference on Fireworks</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/406d566e817f3fd84f4c8711926d08c179484eac-4800x2700.png&quot; alt=&quot;Build powerful agents on OSS models with Blazing Fast Inference on Fireworks&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Kimi K2.5 is Live on Fireworks: Vibe Coding, Agents, and Full-Parameter RFT</title>
+    <link href="https://fireworks.ai/blog/kimi-k2p5"/>
+    <id>29e08e85d48dbcd32324e778d0f8dc41</id>
+    <published>2026-01-26T00:00:00+00:00</published>
+    <updated>2026-01-26T00:00:00+00:00</updated>
+    <summary type="text">Kimi K2.5 is Live on Fireworks: Vibe Coding, Agents, and Full-Parameter RFT</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/88bc8b13ec3f5684bb3ba998d9b9d855f29d4e9e-4800x2700.png&quot; alt=&quot;Kimi K2.5 is Live on Fireworks: Vibe Coding, Agents, and Full-Parameter RFT&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Turning Production Logs into Evaluation Datasets: A Data-Driven Approach</title>
+    <link href="https://fireworks.ai/blog/Turning-Production-Logs-into-Evaluation-Datasets"/>
+    <id>27d34955f7dfa9a9d43ca8c9c735dc29</id>
+    <published>2026-01-23T00:00:00+00:00</published>
+    <updated>2026-01-23T00:00:00+00:00</updated>
+    <summary type="text">Turning Production Logs into Evaluation Datasets: A Data-Driven Approach</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/0f48257ec0104285330680109b47340d5df0c295-1600x900.png&quot; alt=&quot;Turning Production Logs into Evaluation Datasets: A Data-Driven Approach&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Best Open Source LLMs in 2026: We Reviewed 7 Models</title>
+    <link href="https://fireworks.ai/blog/best-open-source-llms"/>
+    <id>1a076dec1cb31dae599a2c446329e252</id>
+    <published>2026-01-13T00:00:00+00:00</published>
+    <updated>2026-01-13T00:00:00+00:00</updated>
+    <summary type="text">Best Open Source LLMs in 2026: We Reviewed 7 Models</summary>
+  </entry>
+  <entry>
+    <title>DPO, your simplest RL pipeline with two rollouts</title>
+    <link href="https://fireworks.ai/blog/dpo-as-rl"/>
+    <id>f2c15b89299ba19359b40154e52031e5</id>
+    <published>2025-12-31T00:00:00+00:00</published>
+    <updated>2025-12-31T00:00:00+00:00</updated>
+    <summary type="text">DPO (Direct Preference Optimization) and GRPO (Group Relative Policy Optimization) are both powerful LLM fine-tuning techniques that allow models to be tuned towards generating better responses. While GRPO is a Reinforcement Learning algorithm that requires much more setup, DPO is usually much easie</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/f288bfde1d80561c0e71a0f26fe6f1a8fe034030-4096x3424.png&quot; alt=&quot;DPO, your simplest RL pipeline with two rollouts&quot; /&gt;
+&lt;p&gt;DPO (Direct Preference Optimization) and GRPO (Group Relative Policy Optimization) are both powerful LLM fine-tuning techniques that allow models to be tuned towards generating better responses. While GRPO is a Reinforcement Learning algorithm that requires much more setup, DPO is usually much easier to experiment with. So how feasible is it to build an RL-like training pipeline with just DPO?&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Self-Improving Agents, Powered by Your Evals</title>
+    <link href="https://fireworks.ai/blog/self-improving-agent"/>
+    <id>c21bf3686004c32c0f537ff0c4a50e8e</id>
+    <published>2025-12-17T00:00:00+00:00</published>
+    <updated>2025-12-17T00:00:00+00:00</updated>
+    <summary type="text">Eval Protocol is a unified eval interface that powers both prompt optimization and RL on the same evaluation function. Author your evaluator once, and instantly unlock huge gains on open-source models.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/e937a13e40b0b4dcbca881d8d1d7502e2418928a-4800x2700.png&quot; alt=&quot;Self-Improving Agents, Powered by Your Evals&quot; /&gt;
+&lt;p&gt;Eval Protocol is a unified eval interface that powers both prompt optimization and RL on the same evaluation function. Author your evaluator once, and instantly unlock huge gains on open-source models.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>NVIDIA Nemotron 3 Nano on Fireworks: The Engine for Next-Generation AI Agents</title>
+    <link href="https://fireworks.ai/blog/nvidia-nemotron3-nano"/>
+    <id>34ebdc1d6d54b62928e23bc3386e64fb</id>
+    <published>2025-12-15T00:00:00+00:00</published>
+    <updated>2025-12-15T00:00:00+00:00</updated>
+    <summary type="text">NVIDIA Nemotron 3 Nano on Fireworks: The Engine for Next-Generation AI Agents</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/45f773372d92201f77a15b500d6228ce8b9ee828-4800x2700.png&quot; alt=&quot;NVIDIA Nemotron 3 Nano on Fireworks: The Engine for Next-Generation AI Agents&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Best Practices for Multi-Turn RL</title>
+    <link href="https://fireworks.ai/blog/best-practices-for-multi-turn-RL"/>
+    <id>465602ec9d0d70e5b6d7e1ead9883b41</id>
+    <published>2025-12-10T00:00:00+00:00</published>
+    <updated>2025-12-10T00:00:00+00:00</updated>
+    <summary type="text">Best Practices for Multi-Turn RL</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/1a1d2fe4a2cd8ceb74571bedebc427a69d9a22b5-4800x2700.png&quot; alt=&quot;Best Practices for Multi-Turn RL&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Turn Your LLM into a Calibrated Classifier for $2</title>
+    <link href="https://fireworks.ai/blog/Finetuning-LLMs-as-Classifiers"/>
+    <id>91dbe6116056f4c37db0801fd0c6d8b4</id>
+    <published>2025-12-04T00:00:00+00:00</published>
+    <updated>2025-12-04T00:00:00+00:00</updated>
+    <summary type="text">Turn Your LLM into a Calibrated Classifier for $2</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/39c0f2be898a36f4a94fe4513d483e77f6f3dd6b-2816x1536.png&quot; alt=&quot;Turn Your LLM into a Calibrated Classifier for $2&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Unlock Advanced Reasoning with NVIDIA Nemotron Nano 2 Models on Fireworks AI</title>
+    <link href="https://fireworks.ai/blog/nvidia-nemotron-nano2"/>
+    <id>209e89293b48051d3ddbe38dcfeee351</id>
+    <published>2025-12-02T00:00:00+00:00</published>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <summary type="text">Unlock Advanced Reasoning with NVIDIA Nemotron Nano 2 Models on Fireworks AI</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/04fd1a89c1fcfda8e1745cf6c19b061742f476ff-4800x2700.png&quot; alt=&quot;Unlock Advanced Reasoning with NVIDIA Nemotron Nano 2 Models on Fireworks AI&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Fireworks Expands AWS Alliance: Strategic Collaboration Agreement + GenAI Competency</title>
+    <link href="https://fireworks.ai/blog/fireworks-expands-aws-alliance"/>
+    <id>a2ed8dc300626b232fce9e79406f2c02</id>
+    <published>2025-11-24T00:00:00+00:00</published>
+    <updated>2025-11-24T00:00:00+00:00</updated>
+    <summary type="text">Fireworks Expands AWS Alliance: Strategic Collaboration Agreement + GenAI Competency</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/fab72842925d1a41d18cca93c1f48b88036d0500-4800x2700.png&quot; alt=&quot;Fireworks Expands AWS Alliance: Strategic Collaboration Agreement + GenAI Competency&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Eval Protocol: RL on your agents, in any environment</title>
+    <link href="https://fireworks.ai/blog/eval-protocol-rl-on-your-agents"/>
+    <id>0599093cdfe7c0584e750dff2ee1a893</id>
+    <published>2025-11-20T00:00:00+00:00</published>
+    <updated>2025-11-20T00:00:00+00:00</updated>
+    <summary type="text">Eval Protocol: RL on your agents, in any environment</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/4b4f1d3adcf5f87e548da38c88355810a6df126d-4800x2700.png&quot; alt=&quot;Eval Protocol: RL on your agents, in any environment&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>50 Trillion Tokens Per Day: The State of Agent Environments</title>
+    <link href="https://fireworks.ai/blog/state-of-agent-environments"/>
+    <id>9eec20f7e6c41736a0733fb23101b20e</id>
+    <published>2025-11-19T00:00:00+00:00</published>
+    <updated>2025-11-19T00:00:00+00:00</updated>
+    <summary type="text">50 Trillion Tokens Per Day: The State of Agent Environments</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/0fd863b3311d6fb404470997bc1d6dbbaca65a95-4800x2700.png&quot; alt=&quot;50 Trillion Tokens Per Day: The State of Agent Environments&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Fireworks Achieves Triple ISO Certification, giving Enterprises Full Control and Trust in AI at Scale</title>
+    <link href="https://fireworks.ai/blog/fireworks-triple-iso-certification-enterprise-trust"/>
+    <id>7f9f3dba8a9c6c9490820ca12ab3bcf5</id>
+    <published>2025-11-19T00:00:00+00:00</published>
+    <updated>2025-11-19T00:00:00+00:00</updated>
+    <summary type="text">AI adoption is accelerating, but enterprises face risk without verifiable security, privacy, and governance. Fireworks delivers on all three.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/1025c46d5b5c615aadfe5149c2e6b23ddb6ab578-1600x900.png&quot; alt=&quot;Fireworks Achieves Triple ISO Certification, giving Enterprises Full Control and Trust in AI at Scale&quot; /&gt;
+&lt;p&gt;AI adoption is accelerating, but enterprises face risk without verifiable security, privacy, and governance. Fireworks delivers on all three.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fireworks RFT: Build AI agents with fine-tuned open models that outperform frontier closed models</title>
+    <link href="https://fireworks.ai/blog/fireworks-rft"/>
+    <id>ccedd2e646c18f9c757ad40abf25e728</id>
+    <published>2025-11-10T00:00:00+00:00</published>
+    <updated>2025-11-10T00:00:00+00:00</updated>
+    <summary type="text">Fireworks RFT: Build AI agents with fine-tuned open models that outperform frontier closed models</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9db83bc8e78b741df878b4d06b2593c7d33f2231-4800x2700.png&quot; alt=&quot;Fireworks RFT: Build AI agents with fine-tuned open models that outperform frontier closed models&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Modernizing Healthcare with AI: How RADPAIR and Fireworks Unlock Smarter Radiology Workflows</title>
+    <link href="https://fireworks.ai/blog/radpair"/>
+    <id>bfbaf4dac85162dc35e364705d01a8ac</id>
+    <published>2025-11-09T00:00:00+00:00</published>
+    <updated>2025-11-09T00:00:00+00:00</updated>
+    <summary type="text">Modernizing Healthcare with AI: How RADPAIR and Fireworks Unlock Smarter Radiology Workflows</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/30407dc3c8fdb66c620968f207dbabb28b7201d8-1600x900.png&quot; alt=&quot;Modernizing Healthcare with AI: How RADPAIR and Fireworks Unlock Smarter Radiology Workflows&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>40X Faster, and Smarter Outputs: How Vercel Turbocharged their Code Fixing Model with Open Models, Speculative Decoding and Reinforcement Fine Tuning on Fireworks</title>
+    <link href="https://fireworks.ai/blog/vercel"/>
+    <id>89f202cfcf4466ddc0da8b0f39db9c3b</id>
+    <published>2025-11-03T00:00:00+00:00</published>
+    <updated>2025-11-03T00:00:00+00:00</updated>
+    <summary type="text">40X Faster, and Smarter Outputs: How Vercel Turbocharged their Code Fixing Model with Open Models, Speculative Decoding and Reinforcement Fine Tuning on Fireworks</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/7bcf1d53448b330b621b78d4e06d69cc3ae2ec40-1600x900.png&quot; alt=&quot;40X Faster, and Smarter Outputs: How Vercel Turbocharged their Code Fixing Model with Open Models, Speculative Decoding and Reinforcement Fine Tuning on Fireworks&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Genspark’s Deep Research Agent Outperforms a Frontier Closed Model in Quality and Tool Calls using Fireworks RFT, Achieving a 50% Cost Reduction</title>
+    <link href="https://fireworks.ai/blog/genspark"/>
+    <id>5bd1d5a52b86ecb5dd68593d2cf5e2fa</id>
+    <published>2025-10-31T00:00:00+00:00</published>
+    <updated>2025-10-31T00:00:00+00:00</updated>
+    <summary type="text">Genspark’s Deep Research Agent Outperforms a Frontier Closed Model in Quality and Tool Calls using Fireworks RFT, Achieving a 50% Cost Reduction</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/a9c03b24dc404d6f64a147e99030cfb1f4536714-1600x900.png&quot; alt=&quot;Genspark’s Deep Research Agent Outperforms a Frontier Closed Model in Quality and Tool Calls using Fireworks RFT, Achieving a 50% Cost Reduction&quot; /&gt;</content>
+  </entry>
+</feed>
