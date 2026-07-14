@@ -4,10 +4,60 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-13T19:14:21+00:00</updated>
+  <updated>2026-07-14T18:34:46+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Perplexity's Open-Source WANDR Benchmark Exposes How Badly Research Agents Fail at Scale</title>
+    <link href="https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep"/>
+    <id>33ab71055cc4cfeaf96d75dc87dea7c0</id>
+    <published>2026-07-14T18:34:46+00:00</published>
+    <updated>2026-07-14T18:34:46+00:00</updated>
+    <summary type="text">Perplexity open-sources WANDR, a 500-task benchmark exposing how badly research agents fail at large-scale, evidence-backed data collection</summary>
+    <category term="open_source"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Goodfire's Silico Cuts Hallucinations 37% by Seeing Inside AI Models</title>
+    <link href="https://www.goodfire.ai/contact"/>
+    <id>1219dd6a27d71421b0adbe996914ef14</id>
+    <published>2026-07-14T16:49:29+00:00</published>
+    <updated>2026-07-14T16:49:29+00:00</updated>
+    <summary type="text">Goodfire's Silico opens its private beta, letting an AI agent autonomously run interpretability experiments â reproducing months of research in days</summary>
+    <category term="post_training"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude for Teachers Brings Free AI to 3.5M US Classrooms</title>
+    <link href="https://claude.com/solutions/teachers`"/>
+    <id>7555f0e04a785e489f14ad4e64dce22d</id>
+    <published>2026-07-14T15:07:15+00:00</published>
+    <updated>2026-07-14T15:07:15+00:00</updated>
+    <summary type="text">Anthropic launches free premium Claude access for verified US K-12 teachers, with state-standard-aligned lesson planning and FERPA-grade privacy built in</summary>
+    <category term="development"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>Anthropic Bets $10M on Canadian AI Research to Deepen Its Roots</title>
+    <link href="https://www.anthropic.com/news/canadian-ai-research"/>
+    <id>7700b9b4956c217756accfcc217a22e9</id>
+    <published>2026-07-14T13:44:04+00:00</published>
+    <updated>2026-07-14T13:44:04+00:00</updated>
+    <summary type="text">Anthropic pledges $10M CAD and Claude API credits to eight Canadian research institutions, deepening ties with the country that invented deep learning</summary>
+    <category term="business"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Anthropic Makes Claude Artifacts Multiplayer so Teams Can Build Together</title>
+    <link href="https://x.com/claudedevs/status/2076789349145092230"/>
+    <id>5350c9a83f283fc58aaf3f531cb2ac24</id>
+    <published>2026-07-13T22:02:20+00:00</published>
+    <updated>2026-07-13T22:02:20+00:00</updated>
+    <summary type="text">Claude Artifacts now support real-time multiplayer editing, public sharing links, and Claude Tag can build internal tools directly from Slack threads</summary>
+    <category term="development"/>
+    <category term="api"/>
+  </entry>
   <entry>
     <title>Google's Gemini Omni Flash Tops Video Leaderboards With Built-In Reasoning</title>
     <link href="https://artificialanalysis.ai/video/leaderboard/image-to-video"/>
@@ -77,55 +127,5 @@
     <summary type="text">China Mobile's JT-4.1 Flash 236B A21B scores 39 on the AA Intelligence Index, closing the gap to China's AI frontier with a massive leap from its predecessor.</summary>
     <category term="llms"/>
     <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Cursor 3.11 Lets Developers Run Parallel AI Chats Without Stopping Their Agent</title>
-    <link href="https://cursor.com/changelog/side-chat"/>
-    <id>d8417a42bd16d68a9abe209d121fd857</id>
-    <published>2026-07-10T20:59:05+00:00</published>
-    <updated>2026-07-10T20:59:05+00:00</updated>
-    <summary type="text">Cursor 3.11 adds side chats for parallel exploration, full-text transcript search, and new cloud agent hooks for self-correcting loops</summary>
-    <category term="development"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Epoch Finds OpenAI's Codex Engineers Now Ship 4x More Superhuman Workdays</title>
-    <link href="https://metr.org/blog/2026-05-08-task-substitution-and-uplift/"/>
-    <id>48b36c0632f800a68959bdb9417e82cb</id>
-    <published>2026-07-10T20:24:51+00:00</published>
-    <updated>2026-07-10T20:24:51+00:00</updated>
-    <summary type="text">Epoch AI analyzed OpenAI's Codex repo and found 8% of engineer workdays in Q2 2026 exceeded 24 hours of estimated human effort, up from 2% a year ago.</summary>
-    <category term="development"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Google's Willow Chip Beats Supercomputers by 13,000x With Quantum Echoes</title>
-    <link href="https://www.youtube.com/shorts/AFhuNsebOpA"/>
-    <id>b76d0367f775166a971d322481243f82</id>
-    <published>2026-07-10T20:06:51+00:00</published>
-    <updated>2026-07-10T20:06:51+00:00</updated>
-    <summary type="text">Google's Willow chip runs Quantum Echoes 13,000x faster than supercomputers, producing the first verifiable quantum advantage with real molecular applications</summary>
-    <category term="gpus"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Perplexity Swaps Claude for Grok 4.5 at Half the Cost</title>
-    <link href="https://x.com/perplexity_ai/status/2075660058625790159"/>
-    <id>f7d398500e352f4e94819c878ea6295f</id>
-    <published>2026-07-10T19:14:56+00:00</published>
-    <updated>2026-07-10T19:14:56+00:00</updated>
-    <summary type="text">Perplexity swaps in xAI's freshly-launched Grok 4.5 as the orchestrator brain of Computer, beating every rival configuration on WANDR at roughly half the cost of Claude Opus 4.8</summary>
-    <category term="llms"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>OpenAI Makes Its GPT-5.6 Bio Bounty Permanent and Doubles Prize to $50,000</title>
-    <link href="https://openai.com/index/bio-bug-bounty"/>
-    <id>9d30c9f595df639bea6b26edefebfa65</id>
-    <published>2026-07-10T18:25:55+00:00</published>
-    <updated>2026-07-10T18:25:55+00:00</updated>
-    <summary type="text">OpenAI doubles its biosafety jailbreak reward to $50K and turns a one-time bounty into a permanent program, as GPT-5.6 earns a 'High' bio-risk rating across all three model tiers for the first time.</summary>
-    <category term="security"/>
-    <category term="government"/>
   </entry>
 </feed>

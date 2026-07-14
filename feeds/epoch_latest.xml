@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-07-07T00:00:00+00:00</updated>
+  <updated>2026-07-14T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>What you need to know about AI energy use</title>
+    <link href="https://epoch.ai/publications/ai-energy"/>
+    <id>543e0e3f7a29a517e31bc1f1ddbddd0f</id>
+    <published>2026-07-14T00:00:00+00:00</published>
+    <updated>2026-07-14T00:00:00+00:00</updated>
+    <summary type="text">A guide to AI's growing energy demands — why a single chatbot query uses less energy than many fear, and the reality of AI's impacts on climate and local communities.</summary>
+    <category term="Topic Overview"/>
+  </entry>
   <entry>
     <title>Contributions to OpenAI's Codex codebase show signs of AI uplift</title>
     <link href="https://epoch.ai/data-insights/codex-engineer-effort"/>
@@ -83,14 +92,6 @@
     <id>de894ae9e4db89e6241bc18bb9d6a443</id>
     <published>2026-06-16T00:00:00+00:00</published>
     <updated>2026-06-16T00:00:00+00:00</updated>
-    <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>The record for computing capacity in a single data center has doubled every 7 months</title>
-    <link href="https://epoch.ai/data-insights/largest-data-center-compute"/>
-    <id>e5696d0b6ea1f7ba2b6d5d5cc1953eac</id>
-    <published>2026-06-11T00:00:00+00:00</published>
-    <updated>2026-06-11T00:00:00+00:00</updated>
     <category term="Data Insight"/>
   </entry>
 </feed>

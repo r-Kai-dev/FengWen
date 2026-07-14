@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-07-13T00:00:00+00:00</updated>
+  <updated>2026-07-14T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Why Deepfake Detection Is Critical for Remote Onboarding</title>
+    <link href="https://www.resemble.ai/resources/why-deepfake-detection-is-critical-for-remote-onboarding"/>
+    <id>a42cd7d8c41c3e380f17f07859457bcb</id>
+    <published>2026-07-14T00:00:00+00:00</published>
+    <updated>2026-07-14T00:00:00+00:00</updated>
+    <summary type="text">Discover how deepfake detection for remote onboarding strengthens identity verification, reduces fraud risks, and improves trust in virtual hiring processes.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>Where Neural Audio Watermarking Fits In Audio Security</title>
     <link href="https://www.resemble.ai/resources/where-neural-audio-watermarking-fits-in-audio-security"/>
@@ -106,14 +115,5 @@
     <updated>2026-06-26T00:00:00+00:00</updated>
     <summary type="text">‍The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>PerTh Multimodal: Enterprise Multimodal Watermarking for Audio, Video, Image, and Text</title>
-    <link href="https://www.resemble.ai/resources/perth-multimodal-enterprise-multimodal-watermarking-for-audio-video-image-and-text"/>
-    <id>c6295ed68cc125bca759f694fba7245c</id>
-    <published>2026-06-24T00:00:00+00:00</published>
-    <updated>2026-06-24T00:00:00+00:00</updated>
-    <summary type="text">PerTh Multimodal extends Resemble Watermarker from audio-only to audio, video, image, and text — an imperceptible mark, compliance-oriented for EU AI Act Article 50.</summary>
-    <category term="Research"/>
   </entry>
 </feed>

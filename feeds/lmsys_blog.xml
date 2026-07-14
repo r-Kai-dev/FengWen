@@ -4,10 +4,25 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-07-10T00:00:00+00:00</updated>
+  <updated>2026-07-14T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Serving GLM5.2 NVFP4 Agentic Workload with SGLang: Reaching 500 TPS in 2 Weeks</title>
+    <link href="https://lmsys.org/blog/2026-07-13-glm52-optimization"/>
+    <id>393d83d64a45aa497a0a5f1cf816353d</id>
+    <published>2026-07-14T00:00:00+00:00</published>
+    <updated>2026-07-14T00:00:00+00:00</updated>
+    <summary type="text">- More than 500 TPS on 8xB300 (bs=1)
+- Sync free speculative decoding for GLM 5.2 MTP
+- Built-in IndexShare MTP with Spec V2
+- 2.33x faster TopK-V2 for ISL 80k
+- Indexer prologue fusion
+- Gemm kernels...</summary>
+    <category term="sglang"/>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Bringing DeepSeek-V4 Flash RL Training to AMD Instinct MI355X GPUs with Miles</title>
     <link href="https://lmsys.org/blog/2026-07-10-rocm-miles-dsv4"/>

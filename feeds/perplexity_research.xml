@@ -4,10 +4,17 @@
   <icon>https://www.perplexity.ai/favicon.ico</icon>
   <link href="https://research.perplexity.ai/"/>
   <id>https://research.perplexity.ai/</id>
-  <updated>2026-06-08T00:00:00.000Z</updated>
+  <updated>2026-07-14T00:00:00.000Z</updated>
   <author>
     <name>Perplexity AI</name>
   </author>
+  <entry>
+    <title>WANDR Benchmark: Evaluating Research Agents That Must Search Wide and Deep</title>
+    <link href="https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep"/>
+    <id>455e97184773a46746be089809d79f33</id>
+    <published>2026-07-14T00:00:00.000Z</published>
+    <updated>2026-07-14T00:00:00.000Z</updated>
+  </entry>
   <entry>
     <title>How AI Agents Reshape Knowledge Work</title>
     <link href="https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work"/>
@@ -39,12 +46,5 @@
     <published>2026-05-14T00:00:00.000Z</published>
     <updated>2026-05-14T00:00:00.000Z</updated>
     <summary type="text">Improving the quality-efficiency frontier of model context through query-aware context compression models.</summary>
-  </entry>
-  <entry>
-    <title>Hosting Qwen on Blackwell</title>
-    <link href="https://research.perplexity.ai/articles/hosting-qwen-on-blackwell"/>
-    <id>2353a6671dbfa7d44ae1032d02964209</id>
-    <published>2026-05-12T00:00:00.000Z</published>
-    <updated>2026-05-12T00:00:00.000Z</updated>
   </entry>
 </feed>
