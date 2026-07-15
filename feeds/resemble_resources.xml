@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-07-14T00:00:00+00:00</updated>
+  <updated>2026-07-15T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>The Watermark Can't Be Optional Anymore. So We Made It the Default</title>
+    <link href="https://www.resemble.ai/resources/the-watermark-cant-be-optional-anymore-so-we-made-it-the-default"/>
+    <id>623ad39ea9981c58704ddaf6429a55f6</id>
+    <published>2026-07-15T00:00:00+00:00</published>
+    <updated>2026-07-15T00:00:00+00:00</updated>
+    <summary type="text">Resemble AI's Q2 in review: PerTh Multimodal extends watermarking to video, image and text for the EU AI Act, plus first-place audio deepfake detection.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>Why Deepfake Detection Is Critical for Remote Onboarding</title>
     <link href="https://www.resemble.ai/resources/why-deepfake-detection-is-critical-for-remote-onboarding"/>
@@ -106,14 +115,5 @@
     <updated>2026-06-28T00:00:00+00:00</updated>
     <summary type="text">Resemble AI's Proteus framework found that everyday audio processing chains, like adding reverb then compressing to MP3, can flip a genuine recording's detector score by up to 99%, revealing that authentic audio, not deepfakes, is an audio detector's most exploitable weak point.</summary>
     <category term="Research"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Watchlist: Week of June 19-25, 2026</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-june-19-25-2026"/>
-    <id>8b1d1ed59a952a8e69469118733c23b6</id>
-    <published>2026-06-26T00:00:00+00:00</published>
-    <updated>2026-06-26T00:00:00+00:00</updated>
-    <summary type="text">‍The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
-    <category term="Deepfake Watchlist"/>
   </entry>
 </feed>

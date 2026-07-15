@@ -4,17 +4,17 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-07-14T19:12:48+00:00</updated>
+  <updated>2026-07-15T17:29:41+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests</title>
-    <link href="https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests"/>
-    <id>58d9916b711d9abce5f39295b47147b9</id>
-    <published>2026-07-14T19:12:48+00:00</published>
-    <updated>2026-07-14T19:12:48+00:00</updated>
-    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents</title>
+    <link href="https://huggingface.co/blog/allenai/shippy-tech-blog"/>
+    <id>6dd9d8a618bbfdbbdd0b077c10fb5828</id>
+    <published>2026-07-15T17:29:41+00:00</published>
+    <updated>2026-07-15T17:29:41+00:00</updated>
+    <summary type="text">Score: 0.855\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -22,49 +22,36 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Google 因 AI 训练再遭出版商集体诉讼 / Google faces another AI training lawsuit from major publishers</title>
-    <link href="https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers"/>
-    <id>11c37689d33b18ecc907db1131e9ac78</id>
-    <published>2026-07-14T18:33:31+00:00</published>
-    <updated>2026-07-14T18:33:31+00:00</updated>
-    <summary type="text">Score: 0.757\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>模型路由很简单——直到它不再简单。 / Model Routing Is Simple. Until It Isn’t.</title>
+    <link href="https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"/>
+    <id>6682f1a5de6996ab2c2875f858d79290</id>
+    <published>2026-07-15T17:27:01+00:00</published>
+    <updated>2026-07-15T17:27:01+00:00</updated>
+    <summary type="text">Score: 0.854\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Telegram 无服务器架构</title>
+    <link href="https://core.telegram.org/bots/serverless"/>
+    <id>2f7677326ef8fa6eb02acd696b3883a3</id>
+    <published>2026-07-15T15:37:19.450000+00:00</published>
+    <updated>2026-07-15T15:37:19.450000+00:00</updated>
+    <summary type="text">Score: 0.772\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Bonsai 27B：首款可在手机上运行的27B级多模态模型</title>
-    <link href="https://prismml.com/news/bonsai-27b"/>
-    <id>fc71a05c6e3cbc5427b5e904083ef8ef</id>
-    <published>2026-07-14T17:50:48+00:00</published>
-    <updated>2026-07-14T17:50:48+00:00</updated>
-    <summary type="text">Score: 0.828\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown</title>
-    <link href="https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown"/>
-    <id>6518d911ce4871e7a6ff353fe902fcd8</id>
-    <published>2026-07-14T16:42:59+00:00</published>
-    <updated>2026-07-14T16:42:59+00:00</updated>
-    <summary type="text">Score: 0.835\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>庆祝视觉搜索创新25周年 / Celebrating 25 years of visual search innovation</title>
-    <link href="https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary"/>
-    <id>8ef590683571fc636c90e0b60c079775</id>
-    <published>2026-07-14T16:00:00+00:00</published>
-    <updated>2026-07-14T16:00:00+00:00</updated>
+    <title>美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action</title>
+    <link href="https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"/>
+    <id>f914257823740c14bed94c238be84f95</id>
+    <published>2026-07-15T12:00:00+00:00</published>
+    <updated>2026-07-15T12:00:00+00:00</updated>
     <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -73,61 +60,58 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译 / http://x.com/i/article/2067347903761485824</title>
-    <link href="https://x.com/googleaidevs/status/2077049898059354565"/>
-    <id>82b7d2ff81a41299fd1a3d845dbfb538</id>
-    <published>2026-07-14T15:17:40+00:00</published>
-    <updated>2026-07-14T15:17:40+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相</title>
+    <link href="https://www.aibase.com/news/29625"/>
+    <id>4e051156c34272f6fd4530fba2169a99</id>
+    <published>2026-07-15T11:49:09.104414+00:00</published>
+    <updated>2026-07-15T11:49:09.104414+00:00</updated>
+    <summary type="text">Score: 0.748\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Anthropic 推出 Claude for Teachers / Introducing Claude for Teachers</title>
-    <link href="https://www.anthropic.com/news/claude-for-teachers"/>
-    <id>dcdb2304ba9e8480531d3d65e155669d</id>
-    <published>2026-07-14T15:11:11.440000+00:00</published>
-    <updated>2026-07-14T15:11:11.440000+00:00</updated>
-    <summary type="text">Score: 0.785\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
+    <title>我国首部AI拟人化互动服务新规今起施行，六大红线明确划定，不得向未成年人提供虚拟伴侣</title>
+    <link href="https://www.aibase.com/news/29624"/>
+    <id>01f713b99b945d8a238c7e89cf470f8f</id>
+    <published>2026-07-15T11:49:09.104414+00:00</published>
+    <updated>2026-07-15T11:49:09.104414+00:00</updated>
+    <summary type="text">Score: 0.748\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app</title>
-    <link href="https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app"/>
-    <id>4d64a5b97940c88bcf058c04f54a996a</id>
-    <published>2026-07-14T12:54:12+00:00</published>
-    <updated>2026-07-14T12:54:12+00:00</updated>
-    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>阿里千问将集成至苹果智能，服务中国用户</title>
+    <link href="https://x.com/berryxia/status/2077357348293939259"/>
+    <id>a9e0ca34f872eaba7fbda89d224fa952</id>
+    <published>2026-07-15T11:39:21+00:00</published>
+    <updated>2026-07-15T11:39:21+00:00</updated>
+    <summary type="text">Score: 0.784\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>如何让 Claude 不再说&quot;honest takes&quot;和&quot;load-bearing seams&quot;</title>
-    <link href="https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing"/>
-    <id>087e4c1c484fdccce3f1354f386b2030</id>
-    <published>2026-07-14T11:46:02+00:00</published>
-    <updated>2026-07-14T11:46:02+00:00</updated>
-    <summary type="text">Score: 0.802\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
+    <title>阿里Qwen将集成至Apple Intelligence服务中国用户 / We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…</title>
+    <link href="https://x.com/thexpin/status/2077346752219521469"/>
+    <id>2f981027db19e3d10f357c9b6de59e8b</id>
+    <published>2026-07-15T10:57:15+00:00</published>
+    <updated>2026-07-15T10:57:15+00:00</updated>
+    <summary type="text">Score: 0.764\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="multi_source"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Agent时代如何管理AI投资 / How to manage AI investments in the agentic era</title>
-    <link href="https://openai.com/index/managing-ai-investments-in-agentic-era"/>
-    <id>f58f92649dadc9a83bd88909f605f7be</id>
-    <published>2026-07-14T10:00:00+00:00</published>
-    <updated>2026-07-14T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.827\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GPT-Red：解锁自我改进，增强鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness</title>
+    <link href="https://openai.com/index/unlocking-self-improvement-gpt-red"/>
+    <id>57f5514ec361d51b5d315307a07b016d</id>
+    <published>2026-07-15T10:00:00+00:00</published>
+    <updated>2026-07-15T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.837\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -135,95 +119,57 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640</title>
-    <link href="https://x.com/demishassabis/status/2076957440109625718"/>
-    <id>16f2c1ebe464dc342ca0b4ab800abd9e</id>
-    <published>2026-07-14T09:10:16+00:00</published>
-    <updated>2026-07-14T09:10:16+00:00</updated>
-    <summary type="text">Score: 0.729\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力</title>
+    <link href="https://www.ithome.com/0/977/109.htm"/>
+    <id>b8921a601afd59928243f8f5ef98a50e</id>
+    <published>2026-07-15T08:41:23+00:00</published>
+    <updated>2026-07-15T08:41:23+00:00</updated>
+    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由</title>
-    <link href="https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw"/>
-    <id>b659c8331df7326901004c192bd0d691</id>
-    <published>2026-07-14T09:04:00+00:00</published>
-    <updated>2026-07-14T09:04:00+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能</title>
-    <link href="https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw"/>
-    <id>473ddf2afc0a5a82b73c4a0229df573d</id>
-    <published>2026-07-14T08:56:07+00:00</published>
-    <updated>2026-07-14T08:56:07+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富</title>
-    <link href="https://www.aibase.com/news/29585"/>
-    <id>15a9f4100e861f873648e87b5b524642</id>
-    <published>2026-07-14T07:30:11+00:00</published>
-    <updated>2026-07-14T07:30:11+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据</title>
-    <link href="https://www.ithome.com/0/976/453.htm"/>
-    <id>f2f452b1536b7dedc95852c0bac65f66</id>
-    <published>2026-07-14T05:43:25+00:00</published>
-    <updated>2026-07-14T05:43:25+00:00</updated>
-    <summary type="text">Score: 0.767\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金</title>
-    <link href="https://www.aibase.com/news/29583"/>
-    <id>6c2d5f1894840af94301457d2e0bb6cb</id>
-    <published>2026-07-14T04:46:08+00:00</published>
-    <updated>2026-07-14T04:46:08+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型 / SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…</title>
-    <link href="https://x.com/SenseTime_AI/status/2076828658531262619"/>
-    <id>e0bf02de03f2430133f847e31030040b</id>
-    <published>2026-07-14T00:38:32+00:00</published>
-    <updated>2026-07-14T00:38:32+00:00</updated>
-    <summary type="text">Score: 0.729\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一</title>
+    <link href="https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A"/>
+    <id>f5a78febd068a4fdf93d47428361dba2</id>
+    <published>2026-07-15T02:30:26+00:00</published>
+    <updated>2026-07-15T02:30:26+00:00</updated>
+    <summary type="text">Score: 0.731\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Codex CLI 0.144.4</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>a10d60ee7e8b913ffd8a7e74a478fc59</id>
-    <published>2026-07-14T00:00:00+00:00</published>
-    <updated>2026-07-14T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Airtap iMessage 新功能：发条短信让 AI 替你操作手机</title>
+    <link href="https://x.com/AYi_AInotes/status/2077217295504490992"/>
+    <id>d8331b99d517de26c09fef9c00e54ba6</id>
+    <published>2026-07-15T02:22:50+00:00</published>
+    <updated>2026-07-15T02:22:50+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>开源 LLM TODO Skill&quot;阿福&quot;：用 Claude Code 和 Codex 实现知识管理到排期自动化</title>
+    <link href="https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA"/>
+    <id>c6495f267541263f08970956fcfcb924</id>
+    <published>2026-07-15T01:52:00+00:00</published>
+    <updated>2026-07-15T01:52:00+00:00</updated>
+    <summary type="text">Score: 0.724\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update</title>
+    <link href="https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update"/>
+    <id>f8afcf2ad21c968700dc2d6c0da12896</id>
+    <published>2026-07-15T00:01:24+00:00</published>
+    <updated>2026-07-15T00:01:24+00:00</updated>
+    <summary type="text">Score: 0.808\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -231,12 +177,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>数据科学团队如何使用ChatGPT Work / How data science teams use ChatGPT Work</title>
-    <link href="https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"/>
-    <id>b6144faf1b6773d6b62a416fdb727e7e</id>
-    <published>2026-07-14T00:00:00+00:00</published>
-    <updated>2026-07-14T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.814\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI</title>
+    <link href="https://huggingface.co/blog/real-world-voiceeq"/>
+    <id>ad330c6d80d642f426e3c309a2731993</id>
+    <published>2026-07-15T00:00:00+00:00</published>
+    <updated>2026-07-15T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.816\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -244,16 +190,67 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>销售团队如何使用ChatGPT Work / How sales teams use ChatGPT Work</title>
-    <link href="https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"/>
-    <id>c7350cac0e11d0a9237776887c6f881a</id>
-    <published>2026-07-14T00:00:00+00:00</published>
-    <updated>2026-07-14T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.814\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>欢迎Thinking Machines推出Inkling / Welcome Inkling by Thinking Machines</title>
+    <link href="https://huggingface.co/blog/thinkingmachines-inkling"/>
+    <id>da81c6a3a6e848c49a0a6caa3406128a</id>
+    <published>2026-07-15T00:00:00+00:00</published>
+    <updated>2026-07-15T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.816\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities</title>
+    <link href="https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities"/>
+    <id>fc3effbbedcf45e49f5a4327e9cb5d6d</id>
+    <published>2026-07-14T23:37:29+00:00</published>
+    <updated>2026-07-14T23:37:29+00:00</updated>
+    <summary type="text">Score: 0.807\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…</title>
+    <link href="https://x.com/OpenAIDevs/status/2077166520392970529"/>
+    <id>824bb13285ea92fca9b6296234644c55</id>
+    <published>2026-07-14T23:01:05+00:00</published>
+    <updated>2026-07-14T23:01:05+00:00</updated>
+    <summary type="text">Score: 0.776\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库 / OpenAI's new flagship model deletes files on its own， people keep warning</title>
+    <link href="https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning"/>
+    <id>b1a43dda69640b0a78e9fda928eba0aa</id>
+    <published>2026-07-14T21:50:11+00:00</published>
+    <updated>2026-07-14T21:50:11+00:00</updated>
+    <summary type="text">Score: 0.756\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码</title>
+    <link href="https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left"/>
+    <id>41fa810e4d242487cfb4e72c89f26a70</id>
+    <published>2026-07-14T21:27:11.693000+00:00</published>
+    <updated>2026-07-14T21:27:11.693000+00:00</updated>
+    <summary type="text">Score: 0.776\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
 </feed>

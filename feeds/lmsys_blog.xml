@@ -4,10 +4,20 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-07-14T00:00:00+00:00</updated>
+  <updated>2026-07-15T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>SGLang and Miles Add Day-0 Support for Inkling, a Frontier Multimodal Model</title>
+    <link href="https://lmsys.org/blog/2026-07-15-inkling-day0-support"/>
+    <id>614c2a558025a6fb83910d8e4c63d79e</id>
+    <published>2026-07-15T00:00:00+00:00</published>
+    <updated>2026-07-15T00:00:00+00:00</updated>
+    <summary type="text">We're excited to partner with the Thinking Machines team to bring Day-0 support for Inkling to SGLang and Miles, with dedicated optimizations for its new architecture and broad feature coverage, and w...</summary>
+    <category term="sglang"/>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Serving GLM5.2 NVFP4 Agentic Workload with SGLang: Reaching 500 TPS in 2 Weeks</title>
     <link href="https://lmsys.org/blog/2026-07-13-glm52-optimization"/>

@@ -4,10 +4,18 @@
   <icon>https://www.perplexity.ai/favicon.ico</icon>
   <link href="https://research.perplexity.ai/"/>
   <id>https://research.perplexity.ai/</id>
-  <updated>2026-07-14T00:00:00.000Z</updated>
+  <updated>2026-07-15T00:00:00.000Z</updated>
   <author>
     <name>Perplexity AI</name>
   </author>
+  <entry>
+    <title>Making SPACE: Secure and Efficient Runtimes for Long-Running Agents</title>
+    <link href="https://research.perplexity.ai/articles/making-space-secure-and-efficient-runtimes-for-long-running-agents"/>
+    <id>2b6845c2f0268d04c7f844c608d03e79</id>
+    <published>2026-07-15T00:00:00.000Z</published>
+    <updated>2026-07-15T00:00:00.000Z</updated>
+    <summary type="text">SPACE is Perplexity’s secure, efficient sandbox platform powering long‑running agentic workflows and fast, isolated code execution.</summary>
+  </entry>
   <entry>
     <title>WANDR Benchmark: Evaluating Research Agents That Must Search Wide and Deep</title>
     <link href="https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep"/>
@@ -38,13 +46,5 @@
     <published>2026-05-20T00:00:00.000Z</published>
     <updated>2026-05-20T00:00:00.000Z</updated>
     <summary type="text">We reimplemented our Unigram tokenizer from scratch as a focused performance project.</summary>
-  </entry>
-  <entry>
-    <title>Query-Aware Context Compression for Better Snippets</title>
-    <link href="https://research.perplexity.ai/articles/query-aware-context-compression-for-better-snippets"/>
-    <id>f5d6702bc21e66732a8c8d713ef5d213</id>
-    <published>2026-05-14T00:00:00.000Z</published>
-    <updated>2026-05-14T00:00:00.000Z</updated>
-    <summary type="text">Improving the quality-efficiency frontier of model context through query-aware context compression models.</summary>
   </entry>
 </feed>
