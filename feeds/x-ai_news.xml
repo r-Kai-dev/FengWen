@@ -4,24 +4,31 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-07-15T00:00:00+00:00</updated>
+  <updated>2026-07-16T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Automations in Grok</title>
+    <link href="https://x.ai/news/grok-automations"/>
+    <id>e524da77309d0d4bd410beefce4cd4a3</id>
+    <published>2026-07-16T00:00:00+00:00</published>
+    <updated>2026-07-16T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Introducing Grok 4.5</title>
+    <link href="https://x.ai/news/grok-4-5"/>
+    <id>44f6900e464a47cfd5ec04d496f513c2</id>
+    <published>2026-07-16T00:00:00+00:00</published>
+    <updated>2026-07-16T00:00:00+00:00</updated>
+    <summary type="text">Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.</summary>
+  </entry>
   <entry>
     <title>Grok Build is Now Open Source</title>
     <link href="https://x.ai/news/grok-build-open-source"/>
     <id>0784f31cf0e792f31ca95fd3eb2edbd2</id>
     <published>2026-07-15T00:00:00+00:00</published>
     <updated>2026-07-15T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Introducing Grok 4.5</title>
-    <link href="https://x.ai/news/grok-4-5"/>
-    <id>44f6900e464a47cfd5ec04d496f513c2</id>
-    <published>2026-07-08T00:00:00+00:00</published>
-    <updated>2026-07-08T00:00:00+00:00</updated>
-    <summary type="text">Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.</summary>
   </entry>
   <entry>
     <title>21 New Flagship Grok Voices</title>
@@ -43,6 +50,7 @@
     <id>6f109d1d8004350487a7efd2902f1afe</id>
     <published>2026-06-25T00:00:00+00:00</published>
     <updated>2026-06-25T00:00:00+00:00</updated>
+    <summary type="text">Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.</summary>
   </entry>
   <entry>
     <title>Introducing /goal</title>

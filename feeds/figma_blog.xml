@@ -4,10 +4,28 @@
   <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
   <link href="https://www.figma.com/blog/"/>
   <id>https://www.figma.com/blog/</id>
-  <updated>2026-07-09T14:00:00.000Z</updated>
+  <updated>2026-07-16T12:00:00.000Z</updated>
   <author>
-    <name>Emma Webster</name>
+    <name>Laura Fehre</name>
   </author>
+  <entry>
+    <title>Workflow lab: Deploying designs directly with Figma Make</title>
+    <link href="https://www.figma.com/blog/workflow-lab-deploying-designs-directly-with-figma-make/"/>
+    <id>7515234e44912ffeddb73c7292581b3f</id>
+    <published>2026-07-16T12:00:00.000Z</published>
+    <updated>2026-07-16T12:00:00.000Z</updated>
+    <summary type="text">The handoff from design to code doesn't have to be a one-way street. This workflow shows how a designer can connect a codebase to Figma Make, make the changes directly, and bring the whole team into review—right up to the PR.</summary>
+    <category term="Working Well"/>
+  </entry>
+  <entry>
+    <title>How Decagon uses AI for design system saturation </title>
+    <link href="https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/"/>
+    <id>b832d3ded9332b8d177d9e519cb34a02</id>
+    <published>2026-07-10T20:30:56.769Z</published>
+    <updated>2026-07-10T20:30:56.769Z</updated>
+    <summary type="text">The fast-growing customer experience platform explains how Figma MCP and Figma Make helped them scale a new design system and keep pace with customer requests.</summary>
+    <category term="Maker Stories"/>
+  </entry>
   <entry>
     <title>How to keep design teams steady through constant change</title>
     <link href="https://www.figma.com/blog/jen-dunnam-lead-design-teams/"/>
@@ -135,15 +153,6 @@
     <category term="Maker Stories"/>
   </entry>
   <entry>
-    <title>4 ways we’re using our MCP server at Figma</title>
-    <link href="https://www.figma.com/blog/4-ways-were-using-our-mcp-server-at-figma/"/>
-    <id>23d22de47f11e2cb041bc633a5065328</id>
-    <published>2026-06-16T12:00:00.000Z</published>
-    <updated>2026-06-16T12:00:00.000Z</updated>
-    <summary type="text">The Figma MCP server reaches further across the platform than it ever has. From updating a living deck to shipping a design to production—here's what that looks like in practice.</summary>
-    <category term="Inside Figma"/>
-  </entry>
-  <entry>
     <title>You never stop cultivating taste</title>
     <link href="https://www.figma.com/blog/you-never-stop-cultivating-taste/"/>
     <id>4aad122c451b6909de964625d41402d1</id>
@@ -180,15 +189,6 @@
     <category term="Working Well"/>
   </entry>
   <entry>
-    <title>Workflow lab: Expanding the canvas with Figma MCP</title>
-    <link href="https://www.figma.com/blog/workflow-lab-expanding-the-canvas-with-figma-mcp/"/>
-    <id>e8d1f26ba450116d02ca7c42b2c5bb47</id>
-    <published>2026-04-30T12:00:00.000Z</published>
-    <updated>2026-04-30T12:00:00.000Z</updated>
-    <summary type="text">As teams build faster, design and code can drift apart just as quickly. This workflow shows how to close that gap—bringing real product states onto the canvas so designers can shape what actually ships.</summary>
-    <category term="Working Well"/>
-  </entry>
-  <entry>
     <title>How to design agentic tools for work</title>
     <link href="https://www.figma.com/blog/how-to-design-agentic-tools-for-work/"/>
     <id>b0f7e1278576f9a8be7509db8ee03e87</id>
@@ -196,33 +196,6 @@
     <updated>2026-04-29T16:44:00.000Z</updated>
     <summary type="text">The Gemini Enterprise team shares their approach to making complex, multi-agent workflows feel simple, intuitive, and trustworthy.</summary>
     <category term="Maker Stories"/>
-  </entry>
-  <entry>
-    <title>FigJam is now your coding agent’s whiteboard too</title>
-    <link href="https://www.figma.com/blog/figjam-your-coding-agents-whiteboard/"/>
-    <id>58c8ac61e7896fbd3a3c200108309279</id>
-    <published>2026-04-28T12:00:00.000Z</published>
-    <updated>2026-04-28T12:00:00.000Z</updated>
-    <summary type="text">Agents are changing your code faster than your team can follow. Now you can close that gap with new MCP skills, architecture layouts, and more in FigJam.</summary>
-    <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>The TL;DR on MCP: Why context matters and how to put it to work</title>
-    <link href="https://www.figma.com/blog/the-tldr-on-mcp/"/>
-    <id>3034b78a6461d4e9fdaebe8ca4b38287</id>
-    <published>2026-04-15T21:57:00.000Z</published>
-    <updated>2026-04-15T21:57:00.000Z</updated>
-    <summary type="text">Figma’s MCP server brings your design decisions into the tools where code gets written—so what gets built actually matches what was designed. Here’s what that unlocks for everyone who builds products.</summary>
-    <category term="Insights"/>
-  </entry>
-  <entry>
-    <title>Agents, meet the Figma canvas</title>
-    <link href="https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/"/>
-    <id>e8a467e6f41d3108b86ce68d18b84068</id>
-    <published>2026-03-24T12:00:00.000Z</published>
-    <updated>2026-03-24T12:00:00.000Z</updated>
-    <summary type="text">Starting today, you can use AI agents to design directly on the Figma canvas. And with skills, you can guide agents with context about your team’s decisions and intent.</summary>
-    <category term="Inside Figma"/>
   </entry>
   <entry>
     <title>Design’s influence is expanding, and here’s why that feels hard</title>
@@ -241,15 +214,6 @@
     <updated>2026-03-10T19:15:37.885Z</updated>
     <summary type="text">Our latest research highlights the skills designers need to meet the moment.</summary>
     <category term="Insights"/>
-  </entry>
-  <entry>
-    <title>Building frontend UIs with Codex and Figma</title>
-    <link href="https://www.figma.com/blog/introducing-codex-to-figma/"/>
-    <id>95ebaceb57e760e45f00a4374dcf5509</id>
-    <published>2026-02-26T14:00:00.000Z</published>
-    <updated>2026-02-26T14:00:00.000Z</updated>
-    <summary type="text">With Codex to Figma, teams can bring real, running interfaces into Figma to explore, refine, and make decisions together, then bring it back to Codex with design context intact.</summary>
-    <category term="Inside Figma"/>
   </entry>
   <entry>
     <title>State of the Designer 2026: Designers are leaning into the messy middle</title>

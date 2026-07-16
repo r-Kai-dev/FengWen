@@ -4,7 +4,17 @@
   <icon>https://fireworks.ai/favicon.ico</icon>
   <link href="https://fireworks.ai/blog"/>
   <id>https://fireworks.ai/blog</id>
-  <updated>2026-07-10T00:00:00+00:00</updated>
+  <updated>2026-07-15T00:00:00+00:00</updated>
+  <entry>
+    <title>Announcing our Series D and $1B ARR</title>
+    <link href="https://fireworks.ai/blog/series-d-announcement"/>
+    <id>d55c198393e6d1a654483de8c0b7e126</id>
+    <published>2026-07-15T00:00:00+00:00</published>
+    <updated>2026-07-15T00:00:00+00:00</updated>
+    <summary type="text">Today, Fireworks announced a $1.505 billion Series D at a $17.5 billion valuation, led by Atreides Management, Index Ventures, and TCV, with participation from Evantic Capital, Lightspeed Venture Partners, Nvidia, 20VC, Bessemer Venture Partners, Menlo Ventures, and others.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/62785a5b9954d2dd1e18747549cc7e48367ca87f-1600x900.png&quot; alt=&quot;Announcing our Series D and $1B ARR&quot; /&gt;
+&lt;p&gt;Today, Fireworks announced a $1.505 billion Series D at a $17.5 billion valuation, led by Atreides Management, Index Ventures, and TCV, with participation from Evantic Capital, Lightspeed Venture Partners, Nvidia, 20VC, Bessemer Venture Partners, Menlo Ventures, and others.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Optimizing MiniMax M3 Sparse Attention on NVIDIA Blackwell</title>
     <link href="https://fireworks.ai/blog/kernel-optimization-for-minimax-m3-on-nvidia-blackwell"/>
@@ -465,14 +475,5 @@
     <updated>2025-11-03T00:00:00+00:00</updated>
     <summary type="text">40X Faster, and Smarter Outputs: How Vercel Turbocharged their Code Fixing Model with Open Models, Speculative Decoding and Reinforcement Fine Tuning on Fireworks</summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/7bcf1d53448b330b621b78d4e06d69cc3ae2ec40-1600x900.png&quot; alt=&quot;40X Faster, and Smarter Outputs: How Vercel Turbocharged their Code Fixing Model with Open Models, Speculative Decoding and Reinforcement Fine Tuning on Fireworks&quot; /&gt;</content>
-  </entry>
-  <entry>
-    <title>Genspark’s Deep Research Agent Outperforms a Frontier Closed Model in Quality and Tool Calls using Fireworks RFT, Achieving a 50% Cost Reduction</title>
-    <link href="https://fireworks.ai/blog/genspark"/>
-    <id>5bd1d5a52b86ecb5dd68593d2cf5e2fa</id>
-    <published>2025-10-31T00:00:00+00:00</published>
-    <updated>2025-10-31T00:00:00+00:00</updated>
-    <summary type="text">Genspark’s Deep Research Agent Outperforms a Frontier Closed Model in Quality and Tool Calls using Fireworks RFT, Achieving a 50% Cost Reduction</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/a9c03b24dc404d6f64a147e99030cfb1f4536714-1600x900.png&quot; alt=&quot;Genspark’s Deep Research Agent Outperforms a Frontier Closed Model in Quality and Tool Calls using Fireworks RFT, Achieving a 50% Cost Reduction&quot; /&gt;</content>
   </entry>
 </feed>

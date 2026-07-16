@@ -4,236 +4,225 @@
   <icon>https://github.com/favicon.ico</icon>
   <link href="https://github.com/trending?since=weekly"/>
   <id>https://github.com/trending?since=weekly</id>
-  <updated>2026-07-15T21:01:43.223507+00:00</updated>
+  <updated>2026-07-16T21:01:45.742062+00:00</updated>
+  <entry>
+    <title>jrouwe / JoltPhysics</title>
+    <link href="https://github.com/jrouwe/JoltPhysics"/>
+    <id>d8a467a371334ffcb6909f530e144076</id>
+    <published>2026-07-16T21:01:45.742062+00:00</published>
+    <updated>2026-07-16T21:01:45.742062+00:00</updated>
+    <summary type="text">A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.</summary>
+    <content type="html">&lt;p&gt;A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;10.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;803&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;271&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C++&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="C++"/>
+  </entry>
+  <entry>
+    <title>HKUDS / DeepTutor</title>
+    <link href="https://github.com/HKUDS/DeepTutor"/>
+    <id>9b9105f507157263475035db5ba4ec7f</id>
+    <published>2026-07-16T21:01:45.741232+00:00</published>
+    <updated>2026-07-16T21:01:45.741232+00:00</updated>
+    <summary type="text">DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.</summary>
+    <content type="html">&lt;p&gt;DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;26.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;756&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
   <entry>
     <title>actions / checkout</title>
     <link href="https://github.com/actions/checkout"/>
     <id>33c0a5ad1b16ae2f9abb8c81e1c35af3</id>
-    <published>2026-07-15T21:01:43.223507+00:00</published>
-    <updated>2026-07-15T21:01:43.223507+00:00</updated>
+    <published>2026-07-16T21:01:45.740577+00:00</published>
+    <updated>2026-07-16T21:01:45.740577+00:00</updated>
     <summary type="text">Action for checking out a repo</summary>
     <content type="html">&lt;p&gt;Action for checking out a repo&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;8.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;184&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;8.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;181&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>Zackriya-Solutions / meetily</title>
-    <link href="https://github.com/Zackriya-Solutions/meetily"/>
-    <id>e059e8bc32b72750a212ff02926c51b0</id>
-    <published>2026-07-15T21:01:43.222617+00:00</published>
-    <updated>2026-07-15T21:01:43.222617+00:00</updated>
-    <summary type="text">Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes</summary>
-    <content type="html">&lt;p&gt;Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;24.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
-  </entry>
-  <entry>
-    <title>anthropics / claude-cookbooks</title>
-    <link href="https://github.com/anthropics/claude-cookbooks"/>
-    <id>21747eaaeef5f49d27e81cdd4ac41b44</id>
-    <published>2026-07-15T21:01:43.221554+00:00</published>
-    <updated>2026-07-15T21:01:43.221554+00:00</updated>
-    <summary type="text">A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</summary>
-    <content type="html">&lt;p&gt;A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;48.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;5.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Jupyter Notebook&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Jupyter Notebook"/>
-  </entry>
-  <entry>
-    <title>davila7 / claude-code-templates</title>
-    <link href="https://github.com/davila7/claude-code-templates"/>
-    <id>fe08aa2135d329ec485ccd7073df66d2</id>
-    <published>2026-07-15T21:01:43.220706+00:00</published>
-    <updated>2026-07-15T21:01:43.220706+00:00</updated>
-    <summary type="text">CLI tool for configuring and monitoring Claude Code</summary>
-    <content type="html">&lt;p&gt;CLI tool for configuring and monitoring Claude Code&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;29.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>OpenCut-app / OpenCut</title>
-    <link href="https://github.com/OpenCut-app/OpenCut"/>
-    <id>5a0fbdf8486e56338692a3c2ba0917d2</id>
-    <published>2026-07-15T21:01:43.219852+00:00</published>
-    <updated>2026-07-15T21:01:43.219852+00:00</updated>
-    <summary type="text">The open-source CapCut alternative</summary>
-    <content type="html">&lt;p&gt;The open-source CapCut alternative&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;71.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;7.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;7.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>pbakaus / impeccable</title>
-    <link href="https://github.com/pbakaus/impeccable"/>
-    <id>e201cbe8a50e75e3d5c5d49fa482ba11</id>
-    <published>2026-07-15T21:01:43.218997+00:00</published>
-    <updated>2026-07-15T21:01:43.218997+00:00</updated>
-    <summary type="text">The design language that makes your AI harness better at design.</summary>
-    <content type="html">&lt;p&gt;The design language that makes your AI harness better at design.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;47.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="JavaScript"/>
-  </entry>
-  <entry>
-    <title>Shubhamsaboo / awesome-llm-apps</title>
-    <link href="https://github.com/Shubhamsaboo/awesome-llm-apps"/>
-    <id>b4638f774873bc60fd737fd12cb966f0</id>
-    <published>2026-07-15T21:01:43.218133+00:00</published>
-    <updated>2026-07-15T21:01:43.218133+00:00</updated>
-    <summary type="text">100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.</summary>
-    <content type="html">&lt;p&gt;100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;121.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;18.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;3.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>TencentCloud / CubeSandbox</title>
-    <link href="https://github.com/TencentCloud/CubeSandbox"/>
-    <id>01b84ee1da79d560222753fb5780d496</id>
-    <published>2026-07-15T21:01:43.217286+00:00</published>
-    <updated>2026-07-15T21:01:43.217286+00:00</updated>
-    <summary type="text">Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</summary>
-    <content type="html">&lt;p&gt;Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;10.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;997&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
   </entry>
   <entry>
     <title>ogulcancelik / herdr</title>
     <link href="https://github.com/ogulcancelik/herdr"/>
     <id>aa4b4d38700cc25bbdc35a51a0325498</id>
-    <published>2026-07-15T21:01:43.216435+00:00</published>
-    <updated>2026-07-15T21:01:43.216435+00:00</updated>
+    <published>2026-07-16T21:01:45.740240+00:00</published>
+    <updated>2026-07-16T21:01:45.740240+00:00</updated>
     <summary type="text">agent multiplexer that lives in your terminal.</summary>
     <content type="html">&lt;p&gt;agent multiplexer that lives in your terminal.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;16.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;3.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;17.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Rust"/>
+  </entry>
+  <entry>
+    <title>kangarooking / cangjie-skill</title>
+    <link href="https://github.com/kangarooking/cangjie-skill"/>
+    <id>31fd4574fd91626bde0079fbf65ad452</id>
+    <published>2026-07-16T21:01:45.739763+00:00</published>
+    <updated>2026-07-16T21:01:45.739763+00:00</updated>
+    <summary type="text">把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills</summary>
+    <content type="html">&lt;p&gt;把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;3.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;490&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;972&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>pbakaus / impeccable</title>
+    <link href="https://github.com/pbakaus/impeccable"/>
+    <id>e201cbe8a50e75e3d5c5d49fa482ba11</id>
+    <published>2026-07-16T21:01:45.739425+00:00</published>
+    <updated>2026-07-16T21:01:45.739425+00:00</updated>
+    <summary type="text">The design language that makes your AI harness better at design.</summary>
+    <content type="html">&lt;p&gt;The design language that makes your AI harness better at design.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;47.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="JavaScript"/>
+  </entry>
+  <entry>
+    <title>davila7 / claude-code-templates</title>
+    <link href="https://github.com/davila7/claude-code-templates"/>
+    <id>fe08aa2135d329ec485ccd7073df66d2</id>
+    <published>2026-07-16T21:01:45.739086+00:00</published>
+    <updated>2026-07-16T21:01:45.739086+00:00</updated>
+    <summary type="text">CLI tool for configuring and monitoring Claude Code</summary>
+    <content type="html">&lt;p&gt;CLI tool for configuring and monitoring Claude Code&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;29.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
   </entry>
   <entry>
     <title>diegosouzapw / OmniRoute</title>
     <link href="https://github.com/diegosouzapw/OmniRoute"/>
     <id>f3e959c6b6ce15e1d29cb1fad543dcde</id>
-    <published>2026-07-15T21:01:43.215382+00:00</published>
-    <updated>2026-07-15T21:01:43.215382+00:00</updated>
+    <published>2026-07-16T21:01:45.738601+00:00</published>
+    <updated>2026-07-16T21:01:45.738601+00:00</updated>
     <summary type="text">Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.</summary>
     <content type="html">&lt;p&gt;Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;17.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;18.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
   <entry>
     <title>openai / codex-plugin-cc</title>
     <link href="https://github.com/openai/codex-plugin-cc"/>
     <id>61fe081623cfb32d3c908871b44431c4</id>
-    <published>2026-07-15T21:01:43.214347+00:00</published>
-    <updated>2026-07-15T21:01:43.214347+00:00</updated>
+    <published>2026-07-16T21:01:45.737978+00:00</published>
+    <updated>2026-07-16T21:01:45.737978+00:00</updated>
     <summary type="text">Use Codex from Claude Code to review code or delegate tasks.</summary>
     <content type="html">&lt;p&gt;Use Codex from Claude Code to review code or delegate tasks.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;28.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;28.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="JavaScript"/>
   </entry>
   <entry>
-    <title>tt-a1i / archify</title>
-    <link href="https://github.com/tt-a1i/archify"/>
-    <id>a1ecc0b424c47fcf11e5fd2d13fbcde4</id>
-    <published>2026-07-15T21:01:43.213458+00:00</published>
-    <updated>2026-07-15T21:01:43.213458+00:00</updated>
-    <summary type="text">Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export</summary>
-    <content type="html">&lt;p&gt;Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;5.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;433&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="JavaScript"/>
-  </entry>
-  <entry>
-    <title>oven-sh / bun</title>
-    <link href="https://github.com/oven-sh/bun"/>
-    <id>c552fb8485732733fc541bcbcca0c2c0</id>
-    <published>2026-07-15T21:01:43.212605+00:00</published>
-    <updated>2026-07-15T21:01:43.212605+00:00</updated>
-    <summary type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</summary>
-    <content type="html">&lt;p&gt;Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;94.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;5.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
-  </entry>
-  <entry>
-    <title>Nutlope / hallmark</title>
-    <link href="https://github.com/Nutlope/hallmark"/>
-    <id>5d3c7912951260f7a4a8b8ff839d73a6</id>
-    <published>2026-07-15T21:01:43.211627+00:00</published>
-    <updated>2026-07-15T21:01:43.211627+00:00</updated>
-    <summary type="text">Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</summary>
-    <content type="html">&lt;p&gt;Anti-AI-slop design skill for Claude Code, Cursor, and Codex.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;8.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;427&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;CSS&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="CSS"/>
-  </entry>
-  <entry>
-    <title>HKUDS / Vibe-Trading</title>
-    <link href="https://github.com/HKUDS/Vibe-Trading"/>
-    <id>09f415c643b7e64a2b2f28a6ffeea4d1</id>
-    <published>2026-07-15T21:01:43.210622+00:00</published>
-    <updated>2026-07-15T21:01:43.210622+00:00</updated>
-    <summary type="text">&quot;Vibe-Trading: Your Personal Trading Agent&quot;</summary>
-    <content type="html">&lt;p&gt;&quot;Vibe-Trading: Your Personal Trading Agent&quot;&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;23.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>Shubhamsaboo / awesome-llm-apps</title>
+    <link href="https://github.com/Shubhamsaboo/awesome-llm-apps"/>
+    <id>b4638f774873bc60fd737fd12cb966f0</id>
+    <published>2026-07-16T21:01:45.737127+00:00</published>
+    <updated>2026-07-16T21:01:45.737127+00:00</updated>
+    <summary type="text">100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.</summary>
+    <content type="html">&lt;p&gt;100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;122.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;18.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
-  </entry>
-  <entry>
-    <title>chriskohlhoff / asio</title>
-    <link href="https://github.com/chriskohlhoff/asio"/>
-    <id>5942ea4e692ae6f499211f61c1de7b30</id>
-    <published>2026-07-15T21:01:43.209761+00:00</published>
-    <updated>2026-07-15T21:01:43.209761+00:00</updated>
-    <summary type="text">Asio C++ Library</summary>
-    <content type="html">&lt;p&gt;Asio C++ Library&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;6.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;245&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C++&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="C++"/>
-  </entry>
-  <entry>
-    <title>stablyai / orca</title>
-    <link href="https://github.com/stablyai/orca"/>
-    <id>d3c2f73110a2e3748e9b02d3333b021b</id>
-    <published>2026-07-15T21:01:43.208887+00:00</published>
-    <updated>2026-07-15T21:01:43.208887+00:00</updated>
-    <summary type="text">Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.</summary>
-    <content type="html">&lt;p&gt;Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;19.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
   </entry>
   <entry>
     <title>iOfficeAI / OfficeCLI</title>
     <link href="https://github.com/iOfficeAI/OfficeCLI"/>
     <id>6ab7e1dc590721abce0dcfa46c0003eb</id>
-    <published>2026-07-15T21:01:43.208035+00:00</published>
-    <updated>2026-07-15T21:01:43.208035+00:00</updated>
+    <published>2026-07-16T21:01:45.736244+00:00</published>
+    <updated>2026-07-16T21:01:45.736244+00:00</updated>
     <summary type="text">OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.</summary>
     <content type="html">&lt;p&gt;OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;17.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;7.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C#&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;18.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;6.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C#&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="C#"/>
+  </entry>
+  <entry>
+    <title>OpenCut-app / OpenCut</title>
+    <link href="https://github.com/OpenCut-app/OpenCut"/>
+    <id>5a0fbdf8486e56338692a3c2ba0917d2</id>
+    <published>2026-07-16T21:01:45.735615+00:00</published>
+    <updated>2026-07-16T21:01:45.735615+00:00</updated>
+    <summary type="text">The open-source CapCut alternative</summary>
+    <content type="html">&lt;p&gt;The open-source CapCut alternative&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;73.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;7.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;8.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
+  </entry>
+  <entry>
+    <title>oven-sh / bun</title>
+    <link href="https://github.com/oven-sh/bun"/>
+    <id>c552fb8485732733fc541bcbcca0c2c0</id>
+    <published>2026-07-16T21:01:45.735140+00:00</published>
+    <updated>2026-07-16T21:01:45.735140+00:00</updated>
+    <summary type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</summary>
+    <content type="html">&lt;p&gt;Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;94.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Rust"/>
+  </entry>
+  <entry>
+    <title>stablyai / orca</title>
+    <link href="https://github.com/stablyai/orca"/>
+    <id>d3c2f73110a2e3748e9b02d3333b021b</id>
+    <published>2026-07-16T21:01:45.734789+00:00</published>
+    <updated>2026-07-16T21:01:45.734789+00:00</updated>
+    <summary type="text">Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.</summary>
+    <content type="html">&lt;p&gt;Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;20.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
+  </entry>
+  <entry>
+    <title>chriskohlhoff / asio</title>
+    <link href="https://github.com/chriskohlhoff/asio"/>
+    <id>5942ea4e692ae6f499211f61c1de7b30</id>
+    <published>2026-07-16T21:01:45.734436+00:00</published>
+    <updated>2026-07-16T21:01:45.734436+00:00</updated>
+    <summary type="text">Asio C++ Library</summary>
+    <content type="html">&lt;p&gt;Asio C++ Library&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;6.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;247&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C++&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="C++"/>
+  </entry>
+  <entry>
+    <title>HKUDS / Vibe-Trading</title>
+    <link href="https://github.com/HKUDS/Vibe-Trading"/>
+    <id>09f415c643b7e64a2b2f28a6ffeea4d1</id>
+    <published>2026-07-16T21:01:45.733851+00:00</published>
+    <updated>2026-07-16T21:01:45.733851+00:00</updated>
+    <summary type="text">&quot;Vibe-Trading: Your Personal Trading Agent&quot;</summary>
+    <content type="html">&lt;p&gt;&quot;Vibe-Trading: Your Personal Trading Agent&quot;&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;24.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>Nutlope / hallmark</title>
+    <link href="https://github.com/Nutlope/hallmark"/>
+    <id>5d3c7912951260f7a4a8b8ff839d73a6</id>
+    <published>2026-07-16T21:01:45.732995+00:00</published>
+    <updated>2026-07-16T21:01:45.732995+00:00</updated>
+    <summary type="text">Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</summary>
+    <content type="html">&lt;p&gt;Anti-AI-slop design skill for Claude Code, Cursor, and Codex.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;10.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;528&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;3.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;CSS&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="CSS"/>
   </entry>
   <entry>
     <title>abseil / abseil-cpp</title>
     <link href="https://github.com/abseil/abseil-cpp"/>
     <id>25b51028949d31fbca1c17e57f9d6502</id>
-    <published>2026-07-15T21:01:43.207094+00:00</published>
-    <updated>2026-07-15T21:01:43.207094+00:00</updated>
+    <published>2026-07-16T21:01:45.732459+00:00</published>
+    <updated>2026-07-16T21:01:45.732459+00:00</updated>
     <summary type="text">Abseil Common Libraries (C++)</summary>
     <content type="html">&lt;p&gt;Abseil Common Libraries (C++)&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;18.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;637&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C++&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;17.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;648&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C++&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="C++"/>
-  </entry>
-  <entry>
-    <title>google-labs-code / stitch-skills</title>
-    <link href="https://github.com/google-labs-code/stitch-skills"/>
-    <id>04a203c5e4898302862c363a93b734b7</id>
-    <published>2026-07-15T21:01:43.206449+00:00</published>
-    <updated>2026-07-15T21:01:43.206449+00:00</updated>
-    <summary type="text">A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</summary>
-    <content type="html">&lt;p&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;7.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;977&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;975&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
   </entry>
   <entry>
     <title>wonderwhy-er / DesktopCommanderMCP</title>
     <link href="https://github.com/wonderwhy-er/DesktopCommanderMCP"/>
     <id>c4044857b7ebb2a3789982c4361a8430</id>
-    <published>2026-07-15T21:01:43.205651+00:00</published>
-    <updated>2026-07-15T21:01:43.205651+00:00</updated>
+    <published>2026-07-16T21:01:45.732103+00:00</published>
+    <updated>2026-07-16T21:01:45.732103+00:00</updated>
     <summary type="text">This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities</summary>
     <content type="html">&lt;p&gt;This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;8.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;8.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;924&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
+  </entry>
+  <entry>
+    <title>google-labs-code / stitch-skills</title>
+    <link href="https://github.com/google-labs-code/stitch-skills"/>
+    <id>04a203c5e4898302862c363a93b734b7</id>
+    <published>2026-07-16T21:01:45.731672+00:00</published>
+    <updated>2026-07-16T21:01:45.731672+00:00</updated>
+    <summary type="text">A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</summary>
+    <content type="html">&lt;p&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;7.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;885&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;992&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
 </feed>

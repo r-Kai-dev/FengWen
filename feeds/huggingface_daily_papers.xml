@@ -11,7 +11,7 @@
     <id>39942df9576ffa26ff58b2b5c4e0962f</id>
     <published>2026-06-29T20:00:00.000Z</published>
     <updated>2026-06-29T20:00:00.000Z</updated>
-    <summary type="text">The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the secu... \u00b7 Upvotes: 14 \u00b7 GitHub Stars: 4123 \u00b7 Authors: Yong Yang, Xing Zheng, Huiyu Wu</summary>
+    <summary type="text">The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the secu... \u00b7 Upvotes: 14 \u00b7 GitHub Stars: 4130 \u00b7 Authors: Yong Yang, Xing Zheng, Huiyu Wu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +21,7 @@
     <id>a1a5ef7332b51401fccc656e1093bcc6</id>
     <published>2026-06-28T20:00:00.000Z</published>
     <updated>2026-06-28T20:00:00.000Z</updated>
-    <summary type="text">We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf... \u00b7 Upvotes: 318 \u00b7 GitHub Stars: 177 \u00b7 Authors: Yihao Wang, Yuheng Ji, Mingyu Cao</summary>
+    <summary type="text">We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf... \u00b7 Upvotes: 319 \u00b7 GitHub Stars: 238 \u00b7 Authors: Yihao Wang, Yuheng Ji, Mingyu Cao</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +31,7 @@
     <id>249d2a9281efcfeaa2dbc0884aad0225</id>
     <published>2026-06-27T20:00:00.000Z</published>
     <updated>2026-06-27T20:00:00.000Z</updated>
-    <summary type="text">Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr... \u00b7 Upvotes: 163 \u00b7 Authors: Jing Liang, Hongyao Tang, Yi Ma</summary>
+    <summary type="text">Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr... \u00b7 Upvotes: 164 \u00b7 Authors: Jing Liang, Hongyao Tang, Yi Ma</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +41,7 @@
     <id>f4599f386c59bd87cf56161e26854819</id>
     <published>2026-06-21T20:00:00.000Z</published>
     <updated>2026-06-21T20:00:00.000Z</updated>
-    <summary type="text">Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constrai... \u00b7 Upvotes: 8 \u00b7 GitHub Stars: 1649 \u00b7 Authors: Yujia Zheng, Vishal Verma, Mantej Gill</summary>
+    <summary type="text">Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constrai... \u00b7 Upvotes: 8 \u00b7 GitHub Stars: 1653 \u00b7 Authors: Yujia Zheng, Vishal Verma, Mantej Gill</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +51,7 @@
     <id>a7c689189eb7a6484ab2786a29a52d86</id>
     <published>2026-06-21T20:00:00.000Z</published>
     <updated>2026-06-21T20:00:00.000Z</updated>
-    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 55 \u00b7 GitHub Stars: 14285 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
+    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 55 \u00b7 GitHub Stars: 14339 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +61,7 @@
     <id>e23ec17cd41a38ea7dcd13bbf914e395</id>
     <published>2026-06-15T20:00:00.000Z</published>
     <updated>2026-06-15T20:00:00.000Z</updated>
-    <summary type="text">World models are transitioning from passive visual generators to foundational, operational infrastructure for Physical AI: they must natively acquire world knowledge from heterogeneous experience, mai... \u00b7 Upvotes: 39 \u00b7 GitHub Stars: 1606 \u00b7 Authors: Kairos Team, Fei Wang, Shan You</summary>
+    <summary type="text">World models are transitioning from passive visual generators to foundational, operational infrastructure for Physical AI: they must natively acquire world knowledge from heterogeneous experience, mai... \u00b7 Upvotes: 39 \u00b7 GitHub Stars: 1638 \u00b7 Authors: Kairos Team, Fei Wang, Shan You</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,7 +91,7 @@
     <id>b5ea3aba61b82cfd8fde8d58a8972e4b</id>
     <published>2026-06-14T20:00:00.000Z</published>
     <updated>2026-06-14T20:00:00.000Z</updated>
-    <summary type="text">Personalized presentation generation requires more than conditioning on a current prompt or template: agents must preserve stable user preferences across tasks, retain newly introduced preferences and... \u00b7 Upvotes: 176 \u00b7 GitHub Stars: 772 \u00b7 Authors: Ye Jin, Yangyang Xu, Jun Zhu</summary>
+    <summary type="text">Personalized presentation generation requires more than conditioning on a current prompt or template: agents must preserve stable user preferences across tasks, retain newly introduced preferences and... \u00b7 Upvotes: 177 \u00b7 GitHub Stars: 798 \u00b7 Authors: Ye Jin, Yangyang Xu, Jun Zhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -101,7 +101,7 @@
     <id>fc9a07a4b30c1ddcdc766ecbb8431a6b</id>
     <published>2026-06-14T20:00:00.000Z</published>
     <updated>2026-06-14T20:00:00.000Z</updated>
-    <summary type="text">This technical report introduces VibeThinker-3B, a compact dense model with 3B parameters developed to investigate how far verifiable reasoning can be pushed within a strictly small-model regime. Buil... \u00b7 Upvotes: 122 \u00b7 GitHub Stars: 1479 \u00b7 Authors: Sen Xu, Shixi Liu, Wei Wang</summary>
+    <summary type="text">This technical report introduces VibeThinker-3B, a compact dense model with 3B parameters developed to investigate how far verifiable reasoning can be pushed within a strictly small-model regime. Buil... \u00b7 Upvotes: 122 \u00b7 GitHub Stars: 1482 \u00b7 Authors: Sen Xu, Shixi Liu, Wei Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -111,7 +111,7 @@
     <id>d366d28708fe887c9ce865e915f32a2f</id>
     <published>2026-06-09T20:00:00.000Z</published>
     <updated>2026-06-09T20:00:00.000Z</updated>
-    <summary type="text">Many moments in the real world do not wait for a user to ask. A fire starts on a security monitor, an expression flickers across a video call, or a product a viewer wants flashes by in a livestream. Y... \u00b7 Upvotes: 211 \u00b7 GitHub Stars: 1304 \u00b7 Authors: Dingyu Yao, Junhao Zhou, Chenxu Yang</summary>
+    <summary type="text">Many moments in the real world do not wait for a user to ask. A fire starts on a security monitor, an expression flickers across a video call, or a product a viewer wants flashes by in a livestream. Y... \u00b7 Upvotes: 211 \u00b7 GitHub Stars: 1325 \u00b7 Authors: Dingyu Yao, Junhao Zhou, Chenxu Yang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

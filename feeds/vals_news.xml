@@ -4,7 +4,7 @@
   <icon>https://codeberg.org/r-Kai/FengWen/raw/branch/main/assets/vals_favicon.png</icon>
   <link href="https://www.vals.ai/news"/>
   <id>https://www.vals.ai/news</id>
-  <updated>2026-07-15T21:01:40.825019+00:00</updated>
+  <updated>2026-07-16T21:01:42.921909+00:00</updated>
   <author>
     <name>Vals AI</name>
   </author>
@@ -12,9 +12,25 @@
     <title>Vals Public Sector Memo</title>
     <link href="https://www.vals.ai/blogs/vals-public-sector-memo"/>
     <id>1be8654429483836f97b259049b9a2ea</id>
-    <published>2026-07-15T21:01:40.825019+00:00</published>
-    <updated>2026-07-15T21:01:40.825019+00:00</updated>
+    <published>2026-07-16T21:01:42.921909+00:00</published>
+    <updated>2026-07-16T21:01:42.921909+00:00</updated>
     <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>Moonshot AI's Kimi K3 evaluated on the Vals Index</title>
+    <link href="https://www.vals.ai/models/kimi_kimi-k3"/>
+    <id>1c1b7fa2cec6f96fea7eb251b4a8a107</id>
+    <published>2026-07-16T00:00:00+00:00</published>
+    <updated>2026-07-16T00:00:00+00:00</updated>
+    <category term="Model"/>
+  </entry>
+  <entry>
+    <title>Thinking Machines' Inkling evaluated on the Vals Index</title>
+    <link href="https://www.vals.ai/models/thinkingmachines_inkling"/>
+    <id>548478480603407179666f72678ac9e1</id>
+    <published>2026-07-15T00:00:00+00:00</published>
+    <updated>2026-07-15T00:00:00+00:00</updated>
+    <category term="Model"/>
   </entry>
   <entry>
     <title>Meta's Muse Spark 1.1 evaluated across our benchmark suite</title>
@@ -86,22 +102,6 @@
     <id>efb2f6631f7955074a8792bdcdf5c03e</id>
     <published>2026-06-17T00:00:00+00:00</published>
     <updated>2026-06-17T00:00:00+00:00</updated>
-    <category term="Benchmark"/>
-  </entry>
-  <entry>
-    <title>z.AI's GLM 5.2 evaluated across our benchmark suite</title>
-    <link href="https://www.vals.ai/models/zai_glm-5.2"/>
-    <id>6751d9a32b74ead8cdcc60a4482465e4</id>
-    <published>2026-06-17T00:00:00+00:00</published>
-    <updated>2026-06-17T00:00:00+00:00</updated>
-    <category term="Model"/>
-  </entry>
-  <entry>
-    <title>Code Migration Released</title>
-    <link href="https://www.vals.ai/benchmarks/code-migration"/>
-    <id>b585a7f922cb9528c67fe1d5746fa97e</id>
-    <published>2026-06-16T00:00:00+00:00</published>
-    <updated>2026-06-16T00:00:00+00:00</updated>
     <category term="Benchmark"/>
   </entry>
   <entry>

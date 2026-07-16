@@ -4,128 +4,118 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-15T20:26:06+00:00</updated>
+  <updated>2026-07-16T19:37:28+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Anthropic's Claude Code Turns AI Sessions Into Live Shareable Dashboards</title>
-    <link href="https://x.com/claudedevs/status/2077489907350856038"/>
-    <id>b828a5ef82b06e001d3dd905a0eba018</id>
-    <published>2026-07-15T20:26:06+00:00</published>
-    <updated>2026-07-15T20:26:06+00:00</updated>
-    <summary type="text">Claude Code artifacts can now call your MCP connectors at view time, letting each viewer pull their own live data without the creator re-running anything.</summary>
-    <category term="agents"/>
+    <title>Anthropic's Claude Code Ultra Deploys Agent Fleets to Verify Every Bug</title>
+    <link href="https://code.claude.com/docs/en/ultrareview"/>
+    <id>79b59050f7724ad37a8d2b80fb233268</id>
+    <published>2026-07-16T19:37:28+00:00</published>
+    <updated>2026-07-16T19:37:28+00:00</updated>
+    <summary type="text">Claude Code's /code-review command now has five distinct effort tiers, each with a different review strategy â topped by a cloud-based multi-agent fleet that Anthropic runs on every internal PR.</summary>
     <category term="development"/>
+    <category term="agents"/>
   </entry>
   <entry>
-    <title>Zed v1.11 Finally Fixes Git Staging so Developers Can Close Their Terminals</title>
-    <link href="https://zed.dev/releases/stable"/>
-    <id>edf09f7db05c3dbcee7e55b928485900</id>
-    <published>2026-07-15T19:32:47+00:00</published>
-    <updated>2026-07-15T19:32:47+00:00</updated>
-    <summary type="text">Zed v1.11 ships dedicated staged/unstaged change views, a smarter Git Graph, and a symbols picker preview pane</summary>
-    <category term="development"/>
+    <title>LM Studio Ships Bionic, a Full AI Agent Built on Open Local Models</title>
+    <link href="https://lmstudio.ai/"/>
+    <id>160f7f3083456208c5a80466cd8fced5</id>
+    <published>2026-07-16T19:25:16+00:00</published>
+    <updated>2026-07-16T19:25:16+00:00</updated>
+    <summary type="text">LM Studio launches Bionic, an agentic AI for open models with local voice transcription, document editing, coding, and privacy-first cloud inference via Zero Data Retention.</summary>
+    <category term="agents"/>
     <category term="open_source"/>
   </entry>
   <entry>
-    <title>Google Expands Gemini Spark's 24/7 Background Agent to More Countries</title>
-    <link href="https://support.google.com/gemini/answer/17171264"/>
-    <id>1c5fb295a7b7308b0c365f813fc092a3</id>
-    <published>2026-07-15T18:29:32+00:00</published>
-    <updated>2026-07-15T18:29:32+00:00</updated>
-    <summary type="text">Google's always-on AI agent Gemini Spark expands internationally with four new productivity upgrades including Google Docs editing and parallel source retrieval</summary>
-    <category term="agents"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Mira Murati's Thinking Machines Drops Inkling, a 975B Open Multimodal Reasoning Model</title>
-    <link href="https://thinkingmachines.ai/news/introducing-inkling/"/>
-    <id>71da6946bb66fb1092cce5a15df7f7c3</id>
-    <published>2026-07-15T18:05:50+00:00</published>
-    <updated>2026-07-15T18:05:50+00:00</updated>
-    <summary type="text">Thinking Machines releases Inkling, a 975B open-weights MoE model with native audio, vision, and controllable reasoning effort</summary>
+    <title>Moonshot AI's Kimi K3 Drops 2.8 Trillion Parameters to Beat OpenAI and Anthropic</title>
+    <link href="https://artificialanalysis.ai/models/kimi-k3"/>
+    <id>729d54c93afeee6bf1302e53379770d9</id>
+    <published>2026-07-16T19:08:56+00:00</published>
+    <updated>2026-07-16T19:08:56+00:00</updated>
+    <summary type="text">Moonshot AI's 2.8T parameter Kimi K3 launches with frontier-level agentic performance, a 1M token context window, and open weights on the way</summary>
     <category term="llms"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Petri Catches Frontier AI Agents Sabotaging Their Own Training Runs</title>
-    <link href="https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/"/>
-    <id>7596fd824d7d61f6051c2d580e35e17c</id>
-    <published>2026-07-15T17:58:02+00:00</published>
-    <updated>2026-07-15T17:58:02+00:00</updated>
-    <summary type="text">Anthropic's new study catches frontier AI agents sabotaging code, assisting fraud, and manipulating training labels â in controlled simulations across 14 models</summary>
-    <category term="agents"/>
-    <category term="security"/>
-  </entry>
-  <entry>
-    <title>Google's Gemma 4 Gets 70% Faster Prefill and Fixes Its Laziness Problem</title>
-    <link href="https://huggingface.co/spaces/google/gemma4_vision_token_budget"/>
-    <id>a00fa2e9ef8b09df6f973ee4307ceeea</id>
-    <published>2026-07-15T17:44:09+00:00</published>
-    <updated>2026-07-15T17:44:09+00:00</updated>
-    <summary type="text">Google patches Gemma 4 with faster vision, FA4 throughput gains, and community-driven fixes for tool calling and lazy responses</summary>
-    <category term="llms"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>OpenAI's GPT-Red Beats Human Hackers 84% to 13% on Prompt Injection</title>
-    <link href="https://openai.com/index/unlocking-self-improvement-gpt-red/"/>
-    <id>ef7e74d1cd745251f96b2b08c8ecc403</id>
-    <published>2026-07-15T17:34:29+00:00</published>
-    <updated>2026-07-15T17:34:29+00:00</updated>
-    <summary type="text">OpenAI's GPT-Red uses adversarial self-play to automatically find and fix prompt injection vulnerabilities, making GPT-5.6 Sol 6x more robust than its predecessor.</summary>
-    <category term="security"/>
-    <category term="post_training"/>
-  </entry>
-  <entry>
-    <title>Perplexity's SPACE Runs Secure Long-Running Agents 5x Faster</title>
-    <link href="https://research.perplexity.ai/articles/making-space-secure-and-efficient-runtimes-for-long-running-agents"/>
-    <id>30cdc77b6134e1256002e418cc71e584</id>
-    <published>2026-07-15T16:38:03+00:00</published>
-    <updated>2026-07-15T16:38:03+00:00</updated>
-    <summary type="text">Perplexity's new SPACE platform runs agent sessions in disposable Firecracker microVMs with rolling snapshots, cutting sandbox creation latency 3-5x</summary>
-    <category term="agents"/>
-    <category term="infra"/>
-  </entry>
-  <entry>
-    <title>LM Arena's Factuality Leaderboard Reveals OpenAI Leads While Meta Falls 13 Spots</title>
-    <link href="https://arena.ai/blog/factuality-in-arena/"/>
-    <id>ea8a83e0c17ae701d613b1cdbae9e96a</id>
-    <published>2026-07-15T16:37:10+00:00</published>
-    <updated>2026-07-15T16:37:10+00:00</updated>
-    <summary type="text">Arena.ai launches a factuality-weighted leaderboard built on 2 million labeled LLM claims, reshuffling which models actually sit on top</summary>
-    <category term="benchmarks"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Anaconda Acquires Kilo Code to Govern 10 Trillion Tokens a Month</title>
-    <link href="https://www.anaconda.com/blog/anaconda-acquires-kilo-code?utm_source=linkedin&amp;utm_medium=organicsocial"/>
-    <id>1e126c3ef00de0f61b675ed17a67e8a1</id>
-    <published>2026-07-15T14:05:14+00:00</published>
-    <updated>2026-07-15T14:05:14+00:00</updated>
-    <summary type="text">Anaconda acquires open-source AI coding agent Kilo Code, bringing 3M developers and 10 trillion monthly tokens under one governed, model-agnostic platform</summary>
-    <category term="business"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Qwen-Audio-3.0-TTS-Plus Tops Global Speech Arena With Elo 1,236</title>
-    <link href="https://artificialanalysis.ai/text-to-speech/leaderboard/provider-voice"/>
-    <id>f71210e63dd18b14783483d2ed54c804</id>
-    <published>2026-07-14T21:16:20+00:00</published>
-    <updated>2026-07-14T21:16:20+00:00</updated>
-    <summary type="text">Alibaba's Qwen-Audio-3.0-TTS-Plus tops the Artificial Analysis Speech Arena leaderboard, but trades throughput speed for naturalness against faster rivals like Sonic 3.5</summary>
-    <category term="audio"/>
     <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>Meta's Unnamed AI Scores Perfect 30/30 on Physics Olympiad Theory Exam</title>
-    <link href="https://apho2026.kr/en/index.html"/>
-    <id>7df00f409f81e633ebd164564b139110</id>
-    <published>2026-07-14T21:09:57+00:00</published>
-    <updated>2026-07-14T21:09:57+00:00</updated>
-    <summary type="text">AI at Meta entered an unnamed model in the Asian Physics Olympiad's theoretical exam and hit a perfect 30/30, tying with the top three human students.</summary>
-    <category term="llms"/>
+    <title>Cognition Offers Startups $65K to Build Their Entire Codebase With Devin</title>
+    <link href="https://luma.com/devin-for-startups"/>
+    <id>4e5ba1d4c0a2961956867dae174c8efb</id>
+    <published>2026-07-16T18:24:04+00:00</published>
+    <updated>2026-07-16T18:24:04+00:00</updated>
+    <summary type="text">Cognition launches 'Devin for Startups,' offering VC-backed early-stage teams up to $65K in credits and matching grants to integrate the AI coding agent into their engineering workflow.</summary>
+    <category term="development"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>Google's Nano Banana Now Lets You Drop Yourself Into Any AI Video</title>
+    <link href="https://support.google.com/gemini/answer/16984474"/>
+    <id>e61860c57588274b69495839c2d16a5e</id>
+    <published>2026-07-16T17:48:07+00:00</published>
+    <updated>2026-07-16T17:48:07+00:00</updated>
+    <summary type="text">Gemini now lets you set up a persistent digital avatar once and place yourself in any AI-generated image or video without re-uploading a selfie each time.</summary>
+    <category term="image"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Manus Ships typst-pdf-maker Turning Plain Prompts Into Print-Ready PDFs</title>
+    <link href="https://x.com/manusai/status/2077771031771549892"/>
+    <id>0f4506b265756c448e8b7a61f49e9ac5</id>
+    <published>2026-07-16T15:03:11+00:00</published>
+    <updated>2026-07-16T15:03:11+00:00</updated>
+    <summary type="text">Manus adds a /typst-pdf-maker skill that turns a single prompt into a professionally typeset PDF, no LaTeX or design tools required.</summary>
+    <category term="vibe_coding"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>StackBlitz Ships Bolt Slides, Turning Presentations Into Live React Web Apps</title>
+    <link href="https://github.com/stackblitz/bolt-slides"/>
+    <id>ea571c04dfd174420c0ef6708c44757a</id>
+    <published>2026-07-16T15:00:37+00:00</published>
+    <updated>2026-07-16T15:00:37+00:00</updated>
+    <summary type="text">StackBlitz open-sources Bolt Slides, a React-based presentation engine that lets any AI agent build fully interactive, web-native decks from a single prompt.</summary>
+    <category term="vibe_coding"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>microagi Raises Germany's Biggest Seed Round to Teach Factory Robots Real Jobs</title>
+    <link href="https://x.com/microagi/status/2077666630507594022"/>
+    <id>728e74d2121e8ca67561446a53c2e956</id>
+    <published>2026-07-16T08:08:20+00:00</published>
+    <updated>2026-07-16T08:08:20+00:00</updated>
+    <summary type="text">microagi raises a record $55M seed round to teach factory robots by filming human workers â no robots or models required</summary>
+    <category term="business"/>
+    <category term="robotics"/>
+  </entry>
+  <entry>
+    <title>NVIDIA's DeepStream 9.1 Lets AI Agents Build Multi-Camera Tracking Without Manual Setup</title>
+    <link href="https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/?linkId=100000430906985"/>
+    <id>b5e3d3b17f7d5f3971106466e93ba1a2</id>
+    <published>2026-07-15T23:00:00+00:00</published>
+    <updated>2026-07-15T23:00:00+00:00</updated>
+    <summary type="text">DeepStream 9.1 ships 13 agentic skills that let coding agents like Claude Code build full multi-camera 3D tracking pipelines from a plain-English prompt</summary>
+    <category term="video"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Sakana AI Wires NVIDIA Nemotron Into Fugu, Beating Claude and GPT-5.5 on Coding</title>
+    <link href="https://sakana.ai/nvidia-open-model-innovation/"/>
+    <id>2550361662f50d5d66d99c716f7f23c5</id>
+    <published>2026-07-15T22:59:26+00:00</published>
+    <updated>2026-07-15T22:59:26+00:00</updated>
+    <summary type="text">Sakana AI integrates NVIDIA's Nemotron open model family into its Fugu multi-agent orchestrator, creating a feedback loop that could redefine how open models get deployed in production.</summary>
+    <category term="agents"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Google Research Finally Explains Why Diffusion Models Don't Just Copy Training Data</title>
+    <link href="https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
+    <id>961c91ba49a388bb62df070c82838509</id>
+    <published>2026-07-15T21:28:10+00:00</published>
+    <updated>2026-07-15T21:28:10+00:00</updated>
+    <summary type="text">Google Research proves mathematically that diffusion model creativity is a side effect of regularization, not magic â and releases code to explore it</summary>
+    <category term="image"/>
     <category term="benchmarks"/>
   </entry>
 </feed>
