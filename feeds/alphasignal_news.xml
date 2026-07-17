@@ -4,19 +4,39 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-16T19:37:28+00:00</updated>
+  <updated>2026-07-17T18:47:33+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Anthropic's Claude Code Ultra Deploys Agent Fleets to Verify Every Bug</title>
-    <link href="https://code.claude.com/docs/en/ultrareview"/>
-    <id>79b59050f7724ad37a8d2b80fb233268</id>
-    <published>2026-07-16T19:37:28+00:00</published>
-    <updated>2026-07-16T19:37:28+00:00</updated>
-    <summary type="text">Claude Code's /code-review command now has five distinct effort tiers, each with a different review strategy â topped by a cloud-based multi-agent fleet that Anthropic runs on every internal PR.</summary>
-    <category term="development"/>
-    <category term="agents"/>
+    <title>Moonshot AI's Kimi K3 Beats Claude at Coding for 4.6x Less Money</title>
+    <link href="https://deepswe.datacurve.ai/"/>
+    <id>9b27cace4d40fb4661f27c39e2fc302a</id>
+    <published>2026-07-17T18:47:33+00:00</published>
+    <updated>2026-07-17T18:47:33+00:00</updated>
+    <summary type="text">Kimi K3 debuts at #3 on DeepSWE, matching Claude Fable and GPT-5.6 Sol as the first open-weights model to reach frontier-level coding performance at 2.8 trillion parameters.</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Mira Murati's Inkling Tops Every Open-Weight Model on ARC-AGI-2</title>
+    <link href="https://github.com/arcprize/arc-agi-benchmarking"/>
+    <id>8af476bcb6bcec04927234e37375cd86</id>
+    <published>2026-07-17T15:34:38+00:00</published>
+    <updated>2026-07-17T15:34:38+00:00</updated>
+    <summary type="text">Thinking Machines' Inkling becomes the top open-weight model on ARC-AGI-1 and ARC-AGI-2, scoring 79.5% and 36.5% respectively at under $1 per task.</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Databricks Raises at $188B, Doubling Down on Enterprise AI Infrastructure</title>
+    <link href="https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation"/>
+    <id>d96dc3e794d26f80dc7b60ac00d80568</id>
+    <published>2026-07-17T03:18:38+00:00</published>
+    <updated>2026-07-17T03:18:38+00:00</updated>
+    <summary type="text">Databricks signs a term sheet for a new round led by Coatue at a $188B valuation, up 40% from its last raise just months ago, to fund its multi-AI governance and agent infrastructure push.</summary>
+    <category term="business"/>
+    <category term="llms"/>
   </entry>
   <entry>
     <title>LM Studio Ships Bionic, a Full AI Agent Built on Open Local Models</title>
@@ -39,6 +59,16 @@
     <category term="benchmarks"/>
   </entry>
   <entry>
+    <title>Cohere Brings its Sovereign AI Platform North Back to University of Toronto</title>
+    <link href="https://cohere.com/blog/cohere-university-of-toronto-announcement?utm_source=twitter&amp;utm_medium=organic-social&amp;utm_campaign=x&amp;utm_content=social"/>
+    <id>8fb7010d30365b3f1d8f9f69b6679c5f</id>
+    <published>2026-07-16T18:34:40+00:00</published>
+    <updated>2026-07-16T18:34:40+00:00</updated>
+    <summary type="text">Cohere's North platform becomes the AI backbone of the University of Toronto, marking a symbolic homecoming for the startup's three founders</summary>
+    <category term="business"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
     <title>Cognition Offers Startups $65K to Build Their Entire Codebase With Devin</title>
     <link href="https://luma.com/devin-for-startups"/>
     <id>4e5ba1d4c0a2961956867dae174c8efb</id>
@@ -49,6 +79,16 @@
     <category term="business"/>
   </entry>
   <entry>
+    <title>Google Cloud's Gemini Platform Adds Parallel Web Search to Cut Agent Hallucinations</title>
+    <link href="https://accounts.google.com/v3/signin/identifier?continue=https://console.cloud.google.com/agent-platform/studio/&amp;followup=https://console.cloud.google.com/agent-platform/studio/&amp;osid=1&amp;passive=1209600&amp;service=cloudconsole&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S305864393:1784265193473467"/>
+    <id>63e89dbf79ce0f6d659befbb9c9a666d</id>
+    <published>2026-07-16T18:00:01+00:00</published>
+    <updated>2026-07-16T18:00:01+00:00</updated>
+    <summary type="text">Google Cloud adds Parallel Web Systems as a native grounding provider on Gemini Enterprise Agent Platform, giving agents a dedicated search index built for agentic workloads</summary>
+    <category term="agents"/>
+    <category term="api"/>
+  </entry>
+  <entry>
     <title>Google's Nano Banana Now Lets You Drop Yourself Into Any AI Video</title>
     <link href="https://support.google.com/gemini/answer/16984474"/>
     <id>e61860c57588274b69495839c2d16a5e</id>
@@ -56,6 +96,16 @@
     <updated>2026-07-16T17:48:07+00:00</updated>
     <summary type="text">Gemini now lets you set up a persistent digital avatar once and place yourself in any AI-generated image or video without re-uploading a selfie each time.</summary>
     <category term="image"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>H Company's Holo3.1 Hits 78.85% on Desktop Tasks, Beating OpenAI and Anthropic</title>
+    <link href="https://hub.hcompany.ai/computer-use-agents/introduction"/>
+    <id>0479e6b78ecc8b624dfd2de204177be5</id>
+    <published>2026-07-16T16:15:59+00:00</published>
+    <updated>2026-07-16T16:15:59+00:00</updated>
+    <summary type="text">H Company's fully managed computer-use agent API is now in open beta, powered by Holo3.1, the #1 model on OSWorld-Verified at 80.4%</summary>
+    <category term="agents"/>
     <category term="api"/>
   </entry>
   <entry>
@@ -77,45 +127,5 @@
     <summary type="text">StackBlitz open-sources Bolt Slides, a React-based presentation engine that lets any AI agent build fully interactive, web-native decks from a single prompt.</summary>
     <category term="vibe_coding"/>
     <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>microagi Raises Germany's Biggest Seed Round to Teach Factory Robots Real Jobs</title>
-    <link href="https://x.com/microagi/status/2077666630507594022"/>
-    <id>728e74d2121e8ca67561446a53c2e956</id>
-    <published>2026-07-16T08:08:20+00:00</published>
-    <updated>2026-07-16T08:08:20+00:00</updated>
-    <summary type="text">microagi raises a record $55M seed round to teach factory robots by filming human workers â no robots or models required</summary>
-    <category term="business"/>
-    <category term="robotics"/>
-  </entry>
-  <entry>
-    <title>NVIDIA's DeepStream 9.1 Lets AI Agents Build Multi-Camera Tracking Without Manual Setup</title>
-    <link href="https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/?linkId=100000430906985"/>
-    <id>b5e3d3b17f7d5f3971106466e93ba1a2</id>
-    <published>2026-07-15T23:00:00+00:00</published>
-    <updated>2026-07-15T23:00:00+00:00</updated>
-    <summary type="text">DeepStream 9.1 ships 13 agentic skills that let coding agents like Claude Code build full multi-camera 3D tracking pipelines from a plain-English prompt</summary>
-    <category term="video"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Sakana AI Wires NVIDIA Nemotron Into Fugu, Beating Claude and GPT-5.5 on Coding</title>
-    <link href="https://sakana.ai/nvidia-open-model-innovation/"/>
-    <id>2550361662f50d5d66d99c716f7f23c5</id>
-    <published>2026-07-15T22:59:26+00:00</published>
-    <updated>2026-07-15T22:59:26+00:00</updated>
-    <summary type="text">Sakana AI integrates NVIDIA's Nemotron open model family into its Fugu multi-agent orchestrator, creating a feedback loop that could redefine how open models get deployed in production.</summary>
-    <category term="agents"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Google Research Finally Explains Why Diffusion Models Don't Just Copy Training Data</title>
-    <link href="https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
-    <id>961c91ba49a388bb62df070c82838509</id>
-    <published>2026-07-15T21:28:10+00:00</published>
-    <updated>2026-07-15T21:28:10+00:00</updated>
-    <summary type="text">Google Research proves mathematically that diffusion model creativity is a side effect of regularization, not magic â and releases code to explore it</summary>
-    <category term="image"/>
-    <category term="benchmarks"/>
   </entry>
 </feed>

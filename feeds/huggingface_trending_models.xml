@@ -4,182 +4,181 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/models"/>
   <id>https://huggingface.co/models</id>
-  <updated>2026-07-16T21:01:42.726645+00:00</updated>
-  <entry>
-    <title>baidu/Unlimited-OCR</title>
-    <link href="https://huggingface.co/baidu/Unlimited-OCR"/>
-    <id>ec553a6f3c22333369799627b1a52a67</id>
-    <published>2026-07-16T21:01:42.726645+00:00</published>
-    <updated>2026-07-16T21:01:42.726645+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 1,852,722 \u00b7 Likes: 2009</summary>
-    <category term="image-text-to-text"/>
-  </entry>
+  <updated>2026-07-17T21:01:58.705924+00:00</updated>
   <entry>
     <title>froggeric/Qwen-Fixed-Chat-Templates</title>
     <link href="https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates"/>
     <id>0b6cff179ad3b2d01a696f01e868e46c</id>
-    <published>2026-07-16T21:01:42.726627+00:00</published>
-    <updated>2026-07-16T21:01:42.726627+00:00</updated>
-    <summary type="text">Likes: 923</summary>
+    <published>2026-07-17T21:01:58.705924+00:00</published>
+    <updated>2026-07-17T21:01:58.705924+00:00</updated>
+    <summary type="text">Likes: 932</summary>
   </entry>
   <entry>
-    <title>unsloth/Qwen3.6-27B-NVFP4</title>
-    <link href="https://huggingface.co/unsloth/Qwen3.6-27B-NVFP4"/>
-    <id>ebc89ffc74b936dd8ab139eb371edd83</id>
-    <published>2026-07-16T21:01:42.726610+00:00</published>
-    <updated>2026-07-16T21:01:42.726610+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 1,712,974 \u00b7 Likes: 214</summary>
-    <category term="image-text-to-text"/>
+    <title>Cactus-Compute/needle</title>
+    <link href="https://huggingface.co/Cactus-Compute/needle"/>
+    <id>e60ac54c3e2d70e214875e89461d2883</id>
+    <published>2026-07-17T21:01:58.705896+00:00</published>
+    <updated>2026-07-17T21:01:58.705896+00:00</updated>
+    <summary type="text">Downloads: 874 \u00b7 Likes: 256</summary>
   </entry>
   <entry>
     <title>jlnsrk/GLM-5.2-colibri-int4</title>
     <link href="https://huggingface.co/jlnsrk/GLM-5.2-colibri-int4"/>
     <id>aa47524ec38691bdcd6bc8d083fcbe5b</id>
-    <published>2026-07-16T21:01:42.726593+00:00</published>
-    <updated>2026-07-16T21:01:42.726593+00:00</updated>
-    <summary type="text">Downloads: 2,621 \u00b7 Likes: 118</summary>
+    <published>2026-07-17T21:01:58.705867+00:00</published>
+    <updated>2026-07-17T21:01:58.705867+00:00</updated>
+    <summary type="text">Downloads: 3,447 \u00b7 Likes: 127</summary>
+  </entry>
+  <entry>
+    <title>InternScience/Agents-A1</title>
+    <link href="https://huggingface.co/InternScience/Agents-A1"/>
+    <id>24d13d735ff5d5da8ddacd1b681ee7ba</id>
+    <published>2026-07-17T21:01:58.705836+00:00</published>
+    <updated>2026-07-17T21:01:58.705836+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 34,066 \u00b7 Likes: 571</summary>
+    <category term="text-generation"/>
+  </entry>
+  <entry>
+    <title>prism-ml/Bonsai-27B-mlx-1bit</title>
+    <link href="https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit"/>
+    <id>a92818a2f2378facddc6323956f9414d</id>
+    <published>2026-07-17T21:01:58.705806+00:00</published>
+    <updated>2026-07-17T21:01:58.705806+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 17,127 \u00b7 Likes: 115</summary>
+    <category term="text-generation"/>
   </entry>
   <entry>
     <title>AngelSlim/Hy3-GGUF</title>
     <link href="https://huggingface.co/AngelSlim/Hy3-GGUF"/>
     <id>cb91e4cb768d584515f94cd50385432e</id>
-    <published>2026-07-16T21:01:42.726577+00:00</published>
-    <updated>2026-07-16T21:01:42.726577+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 80,796 \u00b7 Likes: 113</summary>
-    <category term="text-generation"/>
-  </entry>
-  <entry>
-    <title>empero-ai/Qwythos-9B-v2</title>
-    <link href="https://huggingface.co/empero-ai/Qwythos-9B-v2"/>
-    <id>724f9512c05273b959de83d051a88413</id>
-    <published>2026-07-16T21:01:42.726556+00:00</published>
-    <updated>2026-07-16T21:01:42.726556+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 6,220 \u00b7 Likes: 128</summary>
+    <published>2026-07-17T21:01:58.705772+00:00</published>
+    <updated>2026-07-17T21:01:58.705772+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 84,834 \u00b7 Likes: 120</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking</title>
     <link href="https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking"/>
     <id>9d3d35ac267fc3ba4d887ef64b84cd2d</id>
-    <published>2026-07-16T21:01:42.726534+00:00</published>
-    <updated>2026-07-16T21:01:42.726534+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 4,117 \u00b7 Likes: 131</summary>
+    <published>2026-07-17T21:01:58.705742+00:00</published>
+    <updated>2026-07-17T21:01:58.705742+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 4,840 \u00b7 Likes: 133</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
-    <title>ATH-MaaS/OvisOCR2</title>
-    <link href="https://huggingface.co/ATH-MaaS/OvisOCR2"/>
-    <id>b16e0c6bf5597fd6559f905af0fc3e0b</id>
-    <published>2026-07-16T21:01:42.726516+00:00</published>
-    <updated>2026-07-16T21:01:42.726516+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 3,678 \u00b7 Likes: 135</summary>
-    <category term="image-text-to-text"/>
+    <title>empero-ai/Qwythos-9B-v2</title>
+    <link href="https://huggingface.co/empero-ai/Qwythos-9B-v2"/>
+    <id>724f9512c05273b959de83d051a88413</id>
+    <published>2026-07-17T21:01:58.705710+00:00</published>
+    <updated>2026-07-17T21:01:58.705710+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 7,980 \u00b7 Likes: 137</summary>
+    <category term="text-generation"/>
   </entry>
   <entry>
-    <title>InternScience/Agents-A1</title>
-    <link href="https://huggingface.co/InternScience/Agents-A1"/>
-    <id>24d13d735ff5d5da8ddacd1b681ee7ba</id>
-    <published>2026-07-16T21:01:42.726495+00:00</published>
-    <updated>2026-07-16T21:01:42.726495+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 33,400 \u00b7 Likes: 562</summary>
+    <title>tencent/Hy3</title>
+    <link href="https://huggingface.co/tencent/Hy3"/>
+    <id>52b580bd168c61516f143f086e9b0ef7</id>
+    <published>2026-07-17T21:01:58.705680+00:00</published>
+    <updated>2026-07-17T21:01:58.705680+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 12,719 \u00b7 Likes: 819</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>empero-ai/Qwythos-9B-v2-GGUF</title>
     <link href="https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF"/>
     <id>7886a878e492b2a25a83a83e60c93dfa</id>
-    <published>2026-07-16T21:01:42.726476+00:00</published>
-    <updated>2026-07-16T21:01:42.726476+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 89,107 \u00b7 Likes: 148</summary>
+    <published>2026-07-17T21:01:58.705650+00:00</published>
+    <updated>2026-07-17T21:01:58.705650+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 98,370 \u00b7 Likes: 157</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
-    <title>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive</title>
-    <link href="https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"/>
-    <id>1be4f6cf5ae949e75b8d38253a49093c</id>
-    <published>2026-07-16T21:01:42.726459+00:00</published>
-    <updated>2026-07-16T21:01:42.726459+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 2,328,315 \u00b7 Likes: 2784</summary>
+    <title>ATH-MaaS/OvisOCR2</title>
+    <link href="https://huggingface.co/ATH-MaaS/OvisOCR2"/>
+    <id>b16e0c6bf5597fd6559f905af0fc3e0b</id>
+    <published>2026-07-17T21:01:58.705620+00:00</published>
+    <updated>2026-07-17T21:01:58.705620+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 10,795 \u00b7 Likes: 151</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>OpenMOSS-Team/MOSS-Transcribe-Diarize</title>
     <link href="https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize"/>
     <id>d7f48e80aaf48b0d11da6997a4b4c1b8</id>
-    <published>2026-07-16T21:01:42.726437+00:00</published>
-    <updated>2026-07-16T21:01:42.726437+00:00</updated>
-    <summary type="text">Type: audio-text-to-text \u00b7 Downloads: 75,105 \u00b7 Likes: 230</summary>
+    <published>2026-07-17T21:01:58.705589+00:00</published>
+    <updated>2026-07-17T21:01:58.705589+00:00</updated>
+    <summary type="text">Type: audio-text-to-text \u00b7 Downloads: 83,160 \u00b7 Likes: 248</summary>
     <category term="audio-text-to-text"/>
   </entry>
   <entry>
-    <title>tencent/Hy3</title>
-    <link href="https://huggingface.co/tencent/Hy3"/>
-    <id>52b580bd168c61516f143f086e9b0ef7</id>
-    <published>2026-07-16T21:01:42.726416+00:00</published>
-    <updated>2026-07-16T21:01:42.726416+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 11,849 \u00b7 Likes: 812</summary>
-    <category term="text-generation"/>
+    <title>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive</title>
+    <link href="https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"/>
+    <id>1be4f6cf5ae949e75b8d38253a49093c</id>
+    <published>2026-07-17T21:01:58.705552+00:00</published>
+    <updated>2026-07-17T21:01:58.705552+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 2,295,313 \u00b7 Likes: 2823</summary>
+    <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>conradlocke/krea2-identity-edit</title>
     <link href="https://huggingface.co/conradlocke/krea2-identity-edit"/>
     <id>d08a973b5940e11ce8201435787f63e0</id>
-    <published>2026-07-16T21:01:42.726399+00:00</published>
-    <updated>2026-07-16T21:01:42.726399+00:00</updated>
-    <summary type="text">Likes: 319</summary>
+    <published>2026-07-17T21:01:58.705522+00:00</published>
+    <updated>2026-07-17T21:01:58.705522+00:00</updated>
+    <summary type="text">Likes: 342</summary>
   </entry>
   <entry>
     <title>bottlecapai/ThinkingCap-Qwen3.6-27B</title>
     <link href="https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B"/>
     <id>54993d2bc01cd30ca414d3eb80bace73</id>
-    <published>2026-07-16T21:01:42.726384+00:00</published>
-    <updated>2026-07-16T21:01:42.726384+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 8,238 \u00b7 Likes: 389</summary>
+    <published>2026-07-17T21:01:58.705495+00:00</published>
+    <updated>2026-07-17T21:01:58.705495+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 9,383 \u00b7 Likes: 411</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>zai-org/GLM-5.2</title>
     <link href="https://huggingface.co/zai-org/GLM-5.2"/>
     <id>5815ea401405be9c46d387b1dbf05351</id>
-    <published>2026-07-16T21:01:42.726366+00:00</published>
-    <updated>2026-07-16T21:01:42.726366+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 513,061 \u00b7 Likes: 4027</summary>
+    <published>2026-07-17T21:01:58.705465+00:00</published>
+    <updated>2026-07-17T21:01:58.705465+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 534,698 \u00b7 Likes: 4069</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
     <link href="https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF"/>
     <id>f5a229985bb27755556ac239cafc8b27</id>
-    <published>2026-07-16T21:01:42.726346+00:00</published>
-    <updated>2026-07-16T21:01:42.726346+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 2,042,670 \u00b7 Likes: 2231</summary>
+    <published>2026-07-17T21:01:58.705434+00:00</published>
+    <updated>2026-07-17T21:01:58.705434+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 2,096,147 \u00b7 Likes: 2269</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>prism-ml/Bonsai-27B-gguf</title>
     <link href="https://huggingface.co/prism-ml/Bonsai-27B-gguf"/>
     <id>252a04894a1b70875214a2d5cc7063d3</id>
-    <published>2026-07-16T21:01:42.726328+00:00</published>
-    <updated>2026-07-16T21:01:42.726328+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 559,267 \u00b7 Likes: 330</summary>
+    <published>2026-07-17T21:01:58.705402+00:00</published>
+    <updated>2026-07-17T21:01:58.705402+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 1,045,182 \u00b7 Likes: 382</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>prism-ml/Ternary-Bonsai-27B-gguf</title>
     <link href="https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf"/>
     <id>dbecfa535458a5a7f8d4b254e21eed55</id>
-    <published>2026-07-16T21:01:42.726307+00:00</published>
-    <updated>2026-07-16T21:01:42.726307+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 74,007 \u00b7 Likes: 580</summary>
+    <published>2026-07-17T21:01:58.705367+00:00</published>
+    <updated>2026-07-17T21:01:58.705367+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 200,774 \u00b7 Likes: 668</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>thinkingmachines/Inkling</title>
     <link href="https://huggingface.co/thinkingmachines/Inkling"/>
     <id>5940b7b38b8596d4ab686125dc738f97</id>
-    <published>2026-07-16T21:01:42.726266+00:00</published>
-    <updated>2026-07-16T21:01:42.726266+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 4 \u00b7 Likes: 779</summary>
+    <published>2026-07-17T21:01:58.705301+00:00</published>
+    <updated>2026-07-17T21:01:58.705301+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 7,870 \u00b7 Likes: 938</summary>
     <category term="image-text-to-text"/>
   </entry>
 </feed>

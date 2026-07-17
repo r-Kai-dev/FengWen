@@ -4,10 +4,18 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-07-14T00:00:00+00:00</updated>
+  <updated>2026-07-15T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>AI detectors rarely flag human writing, but sometimes miss AI text imitating real authors</title>
+    <link href="https://epoch.ai/data-insights/ai-detectors-false-negatives"/>
+    <id>2299f3347fb93ef244b2070ee330cd16</id>
+    <published>2026-07-15T00:00:00+00:00</published>
+    <updated>2026-07-15T00:00:00+00:00</updated>
+    <category term="Data Insight"/>
+  </entry>
   <entry>
     <title>What you need to know about AI energy use</title>
     <link href="https://epoch.ai/publications/ai-energy"/>
@@ -85,13 +93,5 @@
     <updated>2026-06-17T00:00:00+00:00</updated>
     <summary type="text">Proposing a new way to track AI research automation</summary>
     <category term="Newsletter"/>
-  </entry>
-  <entry>
-    <title>Hyperscaler capex is on trend to outpace their cash inflows by the end of 2026</title>
-    <link href="https://epoch.ai/data-insights/hyperscaler-capex-vs-cash-flow"/>
-    <id>de894ae9e4db89e6241bc18bb9d6a443</id>
-    <published>2026-06-16T00:00:00+00:00</published>
-    <updated>2026-06-16T00:00:00+00:00</updated>
-    <category term="Data Insight"/>
   </entry>
 </feed>

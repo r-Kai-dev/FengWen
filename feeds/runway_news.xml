@@ -4,13 +4,30 @@
   <icon>https://runwayml.com/icon.png</icon>
   <link href="https://runwayml.com/news"/>
   <id>https://runwayml.com/news</id>
-  <updated>2026-07-10T00:00:00</updated>
+  <updated>2026-07-17T18:30:15.700000+00:00</updated>
   <author>
     <name>Runway</name>
   </author>
   <entry>
+    <title>How R/GA Built a Living Legacy with Runway Characters</title>
+    <link href="https://runwayml.com/news/customers/rga"/>
+    <id>b2f80a12a38ce9cae55f90ac3c4684bc</id>
+    <published>2026-07-17T18:30:15.700000+00:00</published>
+    <updated>2026-07-17T18:30:15.700000+00:00</updated>
+    <summary type="text">Agency R/GA gave its founder's legacy a voice of its own as a conversational avatar built with Runway Characters.</summary>
+    <category term="Customer Stories"/>
+  </entry>
+  <entry>
+    <title>Inside Our Approach to Building Runway Agent</title>
+    <link href="https://runwayml.com/news/engineering/inside-building-runway-agent"/>
+    <id>888cc133ce0229a6a77abaf999128342</id>
+    <published>2026-07-17T12:38:12.854000+00:00</published>
+    <updated>2026-07-17T12:38:12.854000+00:00</updated>
+    <category term="Engineering"/>
+  </entry>
+  <entry>
     <title>AVTensor: A High-Performance Rust Media Decoder for Training Pipelines</title>
-    <link href="https://runwayml.com/news/avtensor-a-high-performance-rust-media-decoder-for-training-pipelines"/>
+    <link href="https://runwayml.com/news/engineering/avtensor-a-high-performance-rust-media-decoder-for-training-pipelines"/>
     <id>9e76ce45a46bf46509ab197aa5adce24</id>
     <published>2026-07-10T00:00:00</published>
     <updated>2026-07-10T00:00:00</updated>
@@ -18,7 +35,7 @@
   </entry>
   <entry>
     <title>Introducing Runway Dev</title>
-    <link href="https://runwayml.com/news/introducing-runway-dev"/>
+    <link href="https://runwayml.com/news/company-news/introducing-runway-dev"/>
     <id>f8683c7dd9073973849417d3de100366</id>
     <published>2026-07-08T10:00:00+00:00</published>
     <updated>2026-07-08T10:00:00+00:00</updated>
@@ -36,7 +53,7 @@
   </entry>
   <entry>
     <title>Borrowing the Night: Reclaiming Idle Inference GPUs for Research</title>
-    <link href="https://runwayml.com/news/borrowing-the-night-reclaiming-idle-inference-gpus-for-research"/>
+    <link href="https://runwayml.com/news/engineering/borrowing-the-night-reclaiming-idle-inference-gpus-for-research"/>
     <id>31f7a6670ad35b4a485df0e8efc6b418</id>
     <published>2026-07-02T00:00:00</published>
     <updated>2026-07-02T00:00:00</updated>
@@ -79,7 +96,7 @@
   </entry>
   <entry>
     <title>Runway and Lionsgate Expand Partnership</title>
-    <link href="https://runwayml.com/news/runway-and-lionsgate-expand-partnership"/>
+    <link href="https://runwayml.com/news/company-news/runway-and-lionsgate-expand-partnership"/>
     <id>7df3bd68e457fdf61d52da14f7e3a420</id>
     <published>2026-06-11T10:10:10.110000+00:00</published>
     <updated>2026-06-11T10:10:10.110000+00:00</updated>
@@ -106,7 +123,7 @@
   </entry>
   <entry>
     <title>Introducing Runway MCP</title>
-    <link href="https://runwayml.com/news/mcp"/>
+    <link href="https://runwayml.com/news/company-news/mcp"/>
     <id>7407cd536670a24e9d2ce358fe9b1e4e</id>
     <published>2026-05-27T10:00:00+00:00</published>
     <updated>2026-05-27T10:00:00+00:00</updated>
@@ -115,7 +132,7 @@
   </entry>
   <entry>
     <title>Project Luxo: Crossing the Uncanny Valley of AI Media</title>
-    <link href="https://runwayml.com/news/project-luxo"/>
+    <link href="https://runwayml.com/news/company-news/project-luxo"/>
     <id>daa7065279f9efd36908dd04f3278add</id>
     <published>2026-05-26T00:00:00</published>
     <updated>2026-05-26T00:00:00</updated>
@@ -133,7 +150,7 @@
   </entry>
   <entry>
     <title>Why Distributed Training Is Hard: DTensor, Correctness and the Costs of Abstraction</title>
-    <link href="https://runwayml.com/news/dtensor-distributed-training"/>
+    <link href="https://runwayml.com/news/engineering/dtensor-distributed-training"/>
     <id>038205149ebd168da0d6819037db8511</id>
     <published>2026-05-18T00:00:00</published>
     <updated>2026-05-18T00:00:00</updated>
@@ -158,7 +175,7 @@
   </entry>
   <entry>
     <title>Stop Writing YAML: Configuring ML Systems with confingy</title>
-    <link href="https://runwayml.com/news/stop-writing-yaml-configuring-ml-systems-with-confingy"/>
+    <link href="https://runwayml.com/news/engineering/stop-writing-yaml-configuring-ml-systems-with-confingy"/>
     <id>95d9f209d7df991978f8e7577e05cb48</id>
     <published>2026-05-11T00:00:00</published>
     <updated>2026-05-11T00:00:00</updated>
@@ -166,7 +183,7 @@
   </entry>
   <entry>
     <title>Our Approach to Child Safety</title>
-    <link href="https://runwayml.com/news/our-approach-to-child-safety"/>
+    <link href="https://runwayml.com/news/safety/our-approach-to-child-safety"/>
     <id>7644ae86daa13d7a4cf9628f2fad69ff</id>
     <published>2026-05-08T10:00:00+00:00</published>
     <updated>2026-05-08T10:00:00+00:00</updated>
@@ -174,7 +191,7 @@
   </entry>
   <entry>
     <title>60x Faster Cold Starts: Treating Peer GPUs as Weight Servers</title>
-    <link href="https://runwayml.com/news/60x-faster-cold-starts-treating-peer-gpus-as-weight-servers"/>
+    <link href="https://runwayml.com/news/engineering/60x-faster-cold-starts-treating-peer-gpus-as-weight-servers"/>
     <id>dd9786622bbce25b524d71a6c2c091c7</id>
     <published>2026-05-04T00:00:00</published>
     <updated>2026-05-04T00:00:00</updated>
@@ -182,7 +199,7 @@
   </entry>
   <entry>
     <title>Building Real-Time Video Agent from a Single Image with Runway Characters</title>
-    <link href="https://runwayml.com/news/building-runway-characters"/>
+    <link href="https://runwayml.com/news/engineering/building-runway-characters"/>
     <id>71af81085a7c872f328b24924fcaaa9e</id>
     <published>2026-05-04T00:00:00</published>
     <updated>2026-05-04T00:00:00</updated>
@@ -191,7 +208,7 @@
   </entry>
   <entry>
     <title>No Idle GPUs: Managing Research Compute at Runway</title>
-    <link href="https://runwayml.com/news/no-idle-gpus-managing-research-compute-at-runway"/>
+    <link href="https://runwayml.com/news/engineering/no-idle-gpus-managing-research-compute-at-runway"/>
     <id>8724fa9453494960a02e4a8533d261e6</id>
     <published>2026-04-27T00:00:00</published>
     <updated>2026-04-27T00:00:00</updated>
@@ -223,7 +240,7 @@
   </entry>
   <entry>
     <title>Building Interactive AI Characters Responsibly</title>
-    <link href="https://runwayml.com/news/building-interactive-ai-characters-responsibly"/>
+    <link href="https://runwayml.com/news/safety/building-interactive-ai-characters-responsibly"/>
     <id>8341fbddc49db3153c69d348b3dd2aed</id>
     <published>2026-03-12T10:00:00+00:00</published>
     <updated>2026-03-12T10:00:00+00:00</updated>
