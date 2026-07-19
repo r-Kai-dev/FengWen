@@ -4,101 +4,27 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-07-17T17:41:32+00:00</updated>
+  <updated>2026-07-19T16:02:25+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI</title>
-    <link href="https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast"/>
-    <id>e85e88270cc541ae9919294815c8e00f</id>
-    <published>2026-07-17T17:41:32+00:00</published>
-    <updated>2026-07-17T17:41:32+00:00</updated>
-    <summary type="text">Score: 0.797\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>Moonshot AI 因 Kimi K3 需求火爆暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand</title>
+    <link href="https://news.ycombinator.com/item?id=48969291"/>
+    <id>ea5ea9a86e1c05113381760c618df0da</id>
+    <published>2026-07-19T16:02:25+00:00</published>
+    <updated>2026-07-19T16:02:25+00:00</updated>
+    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件</title>
-    <link href="https://x.com/dotey/status/2078172517085085951"/>
-    <id>30ff6c2327cdb4d72ec9429c4e5feb7c</id>
-    <published>2026-07-17T17:38:33+00:00</published>
-    <updated>2026-07-17T17:38:33+00:00</updated>
-    <summary type="text">Score: 0.790\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>八天四款前沿模型发布，Kimi K3 跻身第三 / The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…</title>
-    <link href="https://x.com/ArtificialAnlys/status/2078165665278730490"/>
-    <id>18655f782951c6210e0794763e43e2f0</id>
-    <published>2026-07-17T17:11:19+00:00</published>
-    <updated>2026-07-17T17:11:19+00:00</updated>
-    <summary type="text">Score: 0.773\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Sora 2 视频克隆效果惊人，真假难辨 / nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…</title>
-    <link href="https://x.com/gabriel1/status/2078156277247881438"/>
-    <id>6a52a1bd0e722b0219bb5bcf4da9a0be</id>
-    <published>2026-07-17T16:34:01+00:00</published>
-    <updated>2026-07-17T16:34:01+00:00</updated>
-    <summary type="text">Score: 0.778\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高 / Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems</title>
-    <link href="https://claude.com/blog/working-at-the-frontier-cursor"/>
-    <id>30331998c2df607a15945e0de53652bf</id>
-    <published>2026-07-17T16:32:51.023000+00:00</published>
-    <updated>2026-07-17T16:32:51.023000+00:00</updated>
-    <summary type="text">Score: 0.736\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers</title>
-    <link href="https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"/>
-    <id>fd9800cf73e3116d5f7820edafc89cc1</id>
-    <published>2026-07-17T15:57:54+00:00</published>
-    <updated>2026-07-17T15:57:54+00:00</updated>
-    <summary type="text">Score: 0.851\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…</title>
-    <link href="https://x.com/Meituan_LongCat/status/2078119654632124547"/>
-    <id>e6aa6640ebd7dac4ce397afecc768f2e</id>
-    <published>2026-07-17T14:08:29+00:00</published>
-    <updated>2026-07-17T14:08:29+00:00</updated>
-    <summary type="text">Score: 0.763\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函</title>
-    <link href="https://www.ithome.com/0/978/277.htm"/>
-    <id>b1192c258e28ce481578419b6f7c2e5a</id>
-    <published>2026-07-17T11:10:01+00:00</published>
-    <updated>2026-07-17T11:10:01+00:00</updated>
+    <title>面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…</title>
+    <link href="https://x.com/OpenBMB/status/2078839529591759025"/>
+    <id>4d82a77a5bf4c6c610f3dace6d4c4e82</id>
+    <published>2026-07-19T13:49:01+00:00</published>
+    <updated>2026-07-19T13:49:01+00:00</updated>
     <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
@@ -106,142 +32,173 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI 提出 AI 时代记分卡：&quot;有用智能每美元&quot;衡量实际工作价值 / A scorecard for the AI age</title>
-    <link href="https://openai.com/index/a-scorecard-for-the-ai-age"/>
-    <id>2468d2a700997a4f442071eba230b551</id>
-    <published>2026-07-17T10:00:00+00:00</published>
-    <updated>2026-07-17T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.829\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <title>DRIVE – AI加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering</title>
+    <link href="https://news.ycombinator.com/item?id=48968067"/>
+    <id>d52fa88d97f40d4a753e2e02384c7d5a</id>
+    <published>2026-07-19T13:30:01+00:00</published>
+    <updated>2026-07-19T13:30:01+00:00</updated>
+    <summary type="text">Score: 0.534\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>首届&quot;小有可为&quot;大赛乡村教育一等奖作品&quot;智绘科普&quot;技术拆解</title>
-    <link href="https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ"/>
-    <id>fd31ca756f96f777ae2f236647fa2d85</id>
-    <published>2026-07-17T09:41:25+00:00</published>
-    <updated>2026-07-17T09:41:25+00:00</updated>
+    <title>MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片</title>
+    <link href="https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw"/>
+    <id>117331ba76716ec074cdecfe46738fb5</id>
+    <published>2026-07-19T13:12:39+00:00</published>
+    <updated>2026-07-19T13:12:39+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>昆仑万维宣布2026为&quot;世界模型元年&quot;，发布Matrix-Game 3.5等模型</title>
+    <link href="https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g"/>
+    <id>fcdb6f789a261233456235011850cf7a</id>
+    <published>2026-07-19T12:35:56+00:00</published>
+    <updated>2026-07-19T12:35:56+00:00</updated>
     <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准</title>
-    <link href="https://www.aibase.com/news/29695"/>
-    <id>601b1208c6b85ba35eadbf0bed7c3e7a</id>
-    <published>2026-07-17T09:21:51.096110+00:00</published>
-    <updated>2026-07-17T09:21:51.096110+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>影视飓风49元AI课程上线首日售出10万份，单日营收超490万元</title>
-    <link href="https://www.aibase.com/news/29689"/>
-    <id>fc0e88eefc9883a222114be74ccb4ce7</id>
-    <published>2026-07-17T09:21:51.096110+00:00</published>
-    <updated>2026-07-17T09:21:51.096110+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026</title>
-    <link href="https://www.aibase.com/news/29694"/>
-    <id>02eaf3593bacf1c2b3d66221c333f200</id>
-    <published>2026-07-17T09:21:51.096110+00:00</published>
-    <updated>2026-07-17T09:21:51.096110+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩</title>
-    <link href="https://schema-harness.github.io"/>
-    <id>c6f4227968ba3d7e11f7521a5544fbc6</id>
-    <published>2026-07-17T08:41:53.383000+00:00</published>
-    <updated>2026-07-17T08:41:53.383000+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一 / NVIDIA AI Releases Nemotron 3 Embed： An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB</title>
-    <link href="https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb"/>
-    <id>0e194445b8f154ad58c15e3f41ac8965</id>
-    <published>2026-07-17T07:53:02+00:00</published>
-    <updated>2026-07-17T07:53:02+00:00</updated>
-    <summary type="text">Score: 0.734\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Qwen3.8 开源发布，2.4T 参数模型上线 / Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…</title>
+    <link href="https://x.com/Alibaba_Qwen/status/2078754377473601787"/>
+    <id>fb3a3aad88280fc52cf37c391b788e81</id>
+    <published>2026-07-19T08:10:39+00:00</published>
+    <updated>2026-07-19T08:10:39+00:00</updated>
+    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms</title>
-    <link href="https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg"/>
-    <id>ac275bdc5212d303eeebef754363051a</id>
-    <published>2026-07-17T07:14:00+00:00</published>
-    <updated>2026-07-17T07:14:00+00:00</updated>
-    <summary type="text">Score: 0.729\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头</title>
-    <link href="https://x.com/AYi_AInotes/status/2077981025905316253"/>
-    <id>827860b4517d35a14f6e723846a8679a</id>
-    <published>2026-07-17T04:57:38+00:00</published>
-    <updated>2026-07-17T04:57:38+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格</title>
-    <link href="https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901"/>
-    <id>57fac7b76a5b42888fa21733a5136c09</id>
-    <published>2026-07-17T00:40:20.333000+00:00</published>
-    <updated>2026-07-17T00:40:20.333000+00:00</updated>
-    <summary type="text">Score: 0.747\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>Perforce 的培训视频收费 500 美元……还是 AI 配音的 / Perforce charges $500 for training training videos.. and it's AI narrated</title>
+    <link href="https://news.ycombinator.com/item?id=48965886"/>
+    <id>4bb99165d95506fb9e3090b82f18ed9b</id>
+    <published>2026-07-19T08:00:24+00:00</published>
+    <updated>2026-07-19T08:00:24+00:00</updated>
+    <summary type="text">Score: 0.520\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果 / Automations in Grok</title>
-    <link href="https://x.ai/news/grok-automations"/>
-    <id>1b83ca59bd37d2ce133c046bf017be7e</id>
-    <published>2026-07-16T21:39:40.165000+00:00</published>
-    <updated>2026-07-16T21:39:40.165000+00:00</updated>
-    <summary type="text">Score: 0.758\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <title>OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万</title>
+    <link href="https://github.com/openai/codex/pull/33972/files"/>
+    <id>b89612a9ccf082265eee6cb4c3ef87e3</id>
+    <published>2026-07-19T07:54:39+00:00</published>
+    <updated>2026-07-19T07:54:39+00:00</updated>
+    <summary type="text">Score: 0.559\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
   </entry>
   <entry>
-    <title>xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.</title>
-    <link href="https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users"/>
-    <id>041d14c4cb88e6e9820d5871bfefc892</id>
-    <published>2026-07-16T20:26:23+00:00</published>
-    <updated>2026-07-16T20:26:23+00:00</updated>
-    <summary type="text">Score: 0.786\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>ChatGPT Work 功能：建站、邮件、文档处理 / ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ Summarizing mount…</title>
+    <link href="https://x.com/thsottiaux/status/2078697631019303273"/>
+    <id>5056df377c611cfb4e294fc237f5e09a</id>
+    <published>2026-07-19T04:25:10+00:00</published>
+    <updated>2026-07-19T04:25:10+00:00</updated>
+    <summary type="text">Score: 0.766\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now</title>
+    <link href="https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust"/>
+    <id>eb48abba0f1a791e267bd2ee48990103</id>
+    <published>2026-07-19T03:54:09+00:00</published>
+    <updated>2026-07-19T03:54:09+00:00</updated>
+    <summary type="text">Score: 0.574\nSources: 2 (OPML RSS)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>何夕2077 AI 深度信号周报 (2026 W29) | 全球治理撕裂、Claude 信任危机与端侧算力觉醒</title>
+    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29"/>
+    <id>b8a95f38102ccb11f71a6b302be90cdb</id>
+    <published>2026-07-19T03:42:47+00:00</published>
+    <updated>2026-07-19T03:42:47+00:00</updated>
+    <summary type="text">Score: 0.731\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>集成LLM的多变量微积分课程 / LLM-Integrated Multivariable Calculus Course</title>
+    <link href="https://news.ycombinator.com/item?id=48964585"/>
+    <id>971a55b30fdc8ae28132fdb279f44cf0</id>
+    <published>2026-07-19T02:55:43+00:00</published>
+    <updated>2026-07-19T02:55:43+00:00</updated>
+    <summary type="text">Score: 0.509\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp</title>
+    <link href="https://workshop.cjpais.com/projects/transcribe-cpp"/>
+    <id>4ae5e296bf9a6dfc3ccb2f9380a17d08</id>
+    <published>2026-07-19T02:49:15.657000+00:00</published>
+    <updated>2026-07-19T02:49:15.657000+00:00</updated>
+    <summary type="text">Score: 0.747\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 重置付费用户 Codex 使用限制</title>
+    <link href="https://codex-resets.com"/>
+    <id>50c01f928956e7ac55a7fb89ca386d6d</id>
+    <published>2026-07-18T23:24:26+00:00</published>
+    <updated>2026-07-18T23:24:26+00:00</updated>
+    <summary type="text">Score: 0.509\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>NYC 可能要求房东和房产中介在房源列表中披露 AI 使用情况 / NYC may require landlords and realtors to disclose the use of AI in listings</title>
+    <link href="https://news.ycombinator.com/item?id=48962983"/>
+    <id>5880ed44ff4736abffe0d394e2380f91</id>
+    <published>2026-07-18T22:13:39+00:00</published>
+    <updated>2026-07-18T22:13:39+00:00</updated>
+    <summary type="text">Score: 0.595\nSources: 5 (NewsNow)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>AI 热潮正在瓦解全球决策机制</title>
+    <link href="https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making"/>
+    <id>eb50eb6dfcbeca9db99432556119528b</id>
+    <published>2026-07-18T22:10:54+00:00</published>
+    <updated>2026-07-18T22:10:54+00:00</updated>
+    <summary type="text">Score: 0.831\nSources: 5 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Ada：一款基于CSV和Excel的AI商业智能软件（没错，也用到LLM，但不止于此） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)</title>
+    <link href="https://news.ycombinator.com/item?id=48962405"/>
+    <id>459a9e0cbc04fce968644ae212568405</id>
+    <published>2026-07-18T21:06:49+00:00</published>
+    <updated>2026-07-18T21:06:49+00:00</updated>
+    <summary type="text">Score: 0.499\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
 </feed>

@@ -4,14 +4,34 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/papers"/>
   <id>https://huggingface.co/papers</id>
-  <updated>2026-07-13T20:00:00.000Z</updated>
+  <updated>2026-07-15T20:00:00.000Z</updated>
+  <entry>
+    <title>LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget</title>
+    <link href="https://arxiv.org/abs/2607.14952"/>
+    <id>c9b8ed7bb41bfcc4d0390677130c179e</id>
+    <published>2026-07-15T20:00:00.000Z</published>
+    <updated>2026-07-15T20:00:00.000Z</updated>
+    <summary type="text">A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below an... \u00b7 Upvotes: 175 \u00b7 GitHub Stars: 10 \u00b7 Authors: Changhai Zhou, Kieran Liu, Yuhua Zhou</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
   <entry>
     <title>Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable</title>
     <link href="https://arxiv.org/abs/2607.13285"/>
     <id>bc8699f914ad297305eaed462cc1ef83</id>
     <published>2026-07-13T20:00:00.000Z</published>
     <updated>2026-07-13T20:00:00.000Z</updated>
-    <summary type="text">The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs... \u00b7 Upvotes: 186 \u00b7 Authors: Ruhan Wang, Yucheng Shi, Zongxia Li</summary>
+    <summary type="text">The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs... \u00b7 Upvotes: 198 \u00b7 Authors: Ruhan Wang, Yucheng Shi, Zongxia Li</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>PalmClaw: A Native On-Device Agent Framework for Mobile Phones</title>
+    <link href="https://arxiv.org/abs/2607.13027"/>
+    <id>d0e69d597b98367d26b4309bea46ec8c</id>
+    <published>2026-07-13T20:00:00.000Z</published>
+    <updated>2026-07-13T20:00:00.000Z</updated>
+    <summary type="text">Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent sys... \u00b7 Upvotes: 11 \u00b7 GitHub Stars: 1126 \u00b7 Authors: Hongru Cai, Yongqi Li, Ran Wei</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +41,7 @@
     <id>a681807c49c0f23182d91447ae38de1b</id>
     <published>2026-07-07T20:00:00.000Z</published>
     <updated>2026-07-07T20:00:00.000Z</updated>
-    <summary type="text">We present LingBot-World 2.0 (also known as LingBot-World-Infinity), an advanced iteration of LingBot-World featuring four distinct upgrades. (1) Our model achieves an unbounded interaction horizon wh... \u00b7 Upvotes: 44 \u00b7 GitHub Stars: 1250 \u00b7 Authors: Zelin Gao, Qiuyu Wang, Jiapeng Zhu</summary>
+    <summary type="text">We present LingBot-World 2.0 (also known as LingBot-World-Infinity), an advanced iteration of LingBot-World featuring four distinct upgrades. (1) Our model achieves an unbounded interaction horizon wh... \u00b7 Upvotes: 44 \u00b7 GitHub Stars: 1305 \u00b7 Authors: Zelin Gao, Qiuyu Wang, Jiapeng Zhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +51,7 @@
     <id>53309d9a8fb76f86344a215f211feec2</id>
     <published>2026-07-04T20:00:00.000Z</published>
     <updated>2026-07-04T20:00:00.000Z</updated>
-    <summary type="text">Large language models have made research ideation increasingly accessible, yet effective idea development requires more than generating candidate directions. Researchers must ground a problem in curre... \u00b7 Upvotes: 58 \u00b7 GitHub Stars: 1374 \u00b7 Authors: Qihao Zhao, Yangyu Huang, Yalun Dai</summary>
+    <summary type="text">Large language models have made research ideation increasingly accessible, yet effective idea development requires more than generating candidate directions. Researchers must ground a problem in curre... \u00b7 Upvotes: 60 \u00b7 GitHub Stars: 1473 \u00b7 Authors: Qihao Zhao, Yangyu Huang, Yalun Dai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +61,7 @@
     <id>39942df9576ffa26ff58b2b5c4e0962f</id>
     <published>2026-06-29T20:00:00.000Z</published>
     <updated>2026-06-29T20:00:00.000Z</updated>
-    <summary type="text">The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the secu... \u00b7 Upvotes: 14 \u00b7 GitHub Stars: 4138 \u00b7 Authors: Yong Yang, Xing Zheng, Huiyu Wu</summary>
+    <summary type="text">The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the secu... \u00b7 Upvotes: 14 \u00b7 GitHub Stars: 4148 \u00b7 Authors: Yong Yang, Xing Zheng, Huiyu Wu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +71,7 @@
     <id>a1a5ef7332b51401fccc656e1093bcc6</id>
     <published>2026-06-28T20:00:00.000Z</published>
     <updated>2026-06-28T20:00:00.000Z</updated>
-    <summary type="text">We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf... \u00b7 Upvotes: 323 \u00b7 GitHub Stars: 316 \u00b7 Authors: Yihao Wang, Yuheng Ji, Mingyu Cao</summary>
+    <summary type="text">We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf... \u00b7 Upvotes: 323 \u00b7 GitHub Stars: 365 \u00b7 Authors: Yihao Wang, Yuheng Ji, Mingyu Cao</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +81,17 @@
     <id>249d2a9281efcfeaa2dbc0884aad0225</id>
     <published>2026-06-27T20:00:00.000Z</published>
     <updated>2026-06-27T20:00:00.000Z</updated>
-    <summary type="text">Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr... \u00b7 Upvotes: 166 \u00b7 Authors: Jing Liang, Hongyao Tang, Yi Ma</summary>
+    <summary type="text">Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr... \u00b7 Upvotes: 168 \u00b7 Authors: Jing Liang, Hongyao Tang, Yi Ma</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Qwen-AgentWorld: Language World Models for General Agents</title>
+    <link href="https://arxiv.org/abs/2606.24597"/>
+    <id>56dd872ac4f50b9cd82adc6e3b221f10</id>
+    <published>2026-06-22T20:00:00.000Z</published>
+    <updated>2026-06-22T20:00:00.000Z</updated>
+    <summary type="text">A world model predicts environment dynamics based on current observations and actions, serving as a core cognitive mechanism for reasoning and planning. In this work, we investigate how world modeling... \u00b7 Upvotes: 149 \u00b7 GitHub Stars: 846 \u00b7 Authors: Yuxin Zuo, Zikai Xiao, Li Sheng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +101,7 @@
     <id>f4599f386c59bd87cf56161e26854819</id>
     <published>2026-06-21T20:00:00.000Z</published>
     <updated>2026-06-21T20:00:00.000Z</updated>
-    <summary type="text">Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constrai... \u00b7 Upvotes: 8 \u00b7 GitHub Stars: 1653 \u00b7 Authors: Yujia Zheng, Vishal Verma, Mantej Gill</summary>
+    <summary type="text">Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constrai... \u00b7 Upvotes: 8 \u00b7 GitHub Stars: 1656 \u00b7 Authors: Yujia Zheng, Vishal Verma, Mantej Gill</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,37 +111,7 @@
     <id>a7c689189eb7a6484ab2786a29a52d86</id>
     <published>2026-06-21T20:00:00.000Z</published>
     <updated>2026-06-21T20:00:00.000Z</updated>
-    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 55 \u00b7 GitHub Stars: 14386 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Kairos: A Native World Model Stack for Physical AI</title>
-    <link href="https://arxiv.org/abs/2606.16533"/>
-    <id>e23ec17cd41a38ea7dcd13bbf914e395</id>
-    <published>2026-06-15T20:00:00.000Z</published>
-    <updated>2026-06-15T20:00:00.000Z</updated>
-    <summary type="text">World models are transitioning from passive visual generators to foundational, operational infrastructure for Physical AI: they must natively acquire world knowledge from heterogeneous experience, mai... \u00b7 Upvotes: 39 \u00b7 GitHub Stars: 1679 \u00b7 Authors: Kairos Team, Fei Wang, Shan You</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling</title>
-    <link href="https://arxiv.org/abs/2606.18023"/>
-    <id>7f4fff447854ae328983ddc30580e9e4</id>
-    <published>2026-06-15T20:00:00.000Z</published>
-    <updated>2026-06-15T20:00:00.000Z</updated>
-    <summary type="text">Looped Transformers scale latent computation by repeatedly applying shared blocks, but sequential looping increases latency and KV-cache memory with the loop count. Parallel loop Transformers (PLT) al... \u00b7 Upvotes: 210 \u00b7 Authors: Jian Yang, Shawn Guo, Wei Zhang</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Looped World Models</title>
-    <link href="https://arxiv.org/abs/2606.18208"/>
-    <id>604d653993105a86d19bbbb2bac22478</id>
-    <published>2026-06-15T20:00:00.000Z</published>
-    <updated>2026-06-15T20:00:00.000Z</updated>
-    <summary type="text">Current world models face a fundamental tension: faithful long-horizon simulation demands deep computation, but deeper models are expensive to deploy and prone to compounding errors. We resolve this b... \u00b7 Upvotes: 482 \u00b7 Authors: Hongyuan Adam Lu, Z. L. Victor Wei, Qun Zhang</summary>
+    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 55 \u00b7 GitHub Stars: 14455 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -121,7 +121,7 @@
     <id>b5ea3aba61b82cfd8fde8d58a8972e4b</id>
     <published>2026-06-14T20:00:00.000Z</published>
     <updated>2026-06-14T20:00:00.000Z</updated>
-    <summary type="text">Personalized presentation generation requires more than conditioning on a current prompt or template: agents must preserve stable user preferences across tasks, retain newly introduced preferences and... \u00b7 Upvotes: 177 \u00b7 GitHub Stars: 854 \u00b7 Authors: Ye Jin, Yangyang Xu, Jun Zhu</summary>
+    <summary type="text">Personalized presentation generation requires more than conditioning on a current prompt or template: agents must preserve stable user preferences across tasks, retain newly introduced preferences and... \u00b7 Upvotes: 177 \u00b7 GitHub Stars: 858 \u00b7 Authors: Ye Jin, Yangyang Xu, Jun Zhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

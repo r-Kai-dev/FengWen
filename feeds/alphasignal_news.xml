@@ -4,10 +4,20 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-17T18:47:33+00:00</updated>
+  <updated>2026-07-17T19:09:18+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Epoch Finds AI Detectors Miss 26% of Scientific Writing Disguised as Human</title>
+    <link href="https://epoch.ai/data-insights/ai-detectors-false-negatives"/>
+    <id>456d32b3169db4c3837173e06e421909</id>
+    <published>2026-07-17T19:09:18+00:00</published>
+    <updated>2026-07-17T19:09:18+00:00</updated>
+    <summary type="text">Epoch AI finds that style-mimicking AI fools leading detectors up to 29% of the time, with scientific writing as the biggest blind spot</summary>
+    <category term="security"/>
+    <category term="benchmarks"/>
+  </entry>
   <entry>
     <title>Moonshot AI's Kimi K3 Beats Claude at Coding for 4.6x Less Money</title>
     <link href="https://deepswe.datacurve.ai/"/>
@@ -117,15 +127,5 @@
     <summary type="text">Manus adds a /typst-pdf-maker skill that turns a single prompt into a professionally typeset PDF, no LaTeX or design tools required.</summary>
     <category term="vibe_coding"/>
     <category term="development"/>
-  </entry>
-  <entry>
-    <title>StackBlitz Ships Bolt Slides, Turning Presentations Into Live React Web Apps</title>
-    <link href="https://github.com/stackblitz/bolt-slides"/>
-    <id>ea571c04dfd174420c0ef6708c44757a</id>
-    <published>2026-07-16T15:00:37+00:00</published>
-    <updated>2026-07-16T15:00:37+00:00</updated>
-    <summary type="text">StackBlitz open-sources Bolt Slides, a React-based presentation engine that lets any AI agent build fully interactive, web-native decks from a single prompt.</summary>
-    <category term="vibe_coding"/>
-    <category term="open_source"/>
   </entry>
 </feed>
