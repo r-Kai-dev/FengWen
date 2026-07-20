@@ -32,26 +32,28 @@ def parse_date(date_str):
 def extract_posts(soup):
     posts = []
     seen = set()
-    for card in soup.select('a.w-inline-block[href^="/blog/"]'):
+    for card in soup.select('a.w-link[href*="/blog/"]'):
         href = card.get("href", "")
-        if not href or href in seen:
+        if not href or href == "/blog" or href in seen:
+            continue
+        title = card.get_text(strip=True)
+        if not title or len(title) < 3:
             continue
         seen.add(href)
 
-        title_el = card.select_one("h3")
-        if not title_el:
-            title_el = card.select_one("h2") or card.select_one("h4")
-        if not title_el:
-            continue
-        title = title_el.get_text(strip=True)
-        if not title:
-            continue
-
+        # Find date in a parent container's w-text span
         date_str = ""
-        for div in card.find_all("div"):
-            text = div.get_text(strip=True)
-            if re.match(r"^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2}", text):
-                date_str = text; break
+        parent = card.find_parent('div')
+        for _ in range(5):
+            if not parent:
+                break
+            date_el = parent.select_one('span.w-text')
+            if date_el:
+                date_str = date_el.get_text(strip=True)
+                if re.match(r"^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2}", date_str):
+                    break
+                date_str = ""
+            parent = parent.find_parent('div')
 
         pub = parse_date(date_str) or datetime.now(timezone.utc).isoformat()
         url = href if href.startswith("http") else f"{BASE_URL}{href}"

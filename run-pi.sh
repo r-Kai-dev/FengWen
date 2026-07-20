@@ -20,5 +20,6 @@ podman run -it --rm \
     --userns="keep-id:uid=1000,gid=1000" \
     -v "$PROJ_PATH:/workspace:Z" \
     -v "$PI_CONFIG_PATH:/home/node/.pi:Z" \
+    -v "/workspace/.venv" \
     -e PI_CODING_AGENT_DIR="/home/node/.pi/agent" \
     pi-agent:fengwen

@@ -40,15 +40,14 @@ def extract_papers(soup):
             continue
         seen.add(href)
         arxiv_id = href.replace("/abs/", "")
-        title_el = card.select_one(".tiptap.html-renderer")
-        title = title_el.get_text(strip=True) if title_el else ""
+        title = link_el.get_text(strip=True)
         if not title or len(title) < 5:
             continue
         date_el = card.select_one("span.text-sm.font-medium")
         if not date_el:
             continue
         pub = parse_date(date_el.get_text(strip=True)) or datetime.now(timezone.utc).isoformat()
-        paper_url = f"https://arxiv.org/abs/{arxiv_id}"
+        paper_url = f"{BASE_URL}{href}"
         item_id = hashlib.md5(f"alphaxiv_hot_{arxiv_id}".encode()).hexdigest()
         posts.append(compact({
             "id": item_id, "source": "alphaxiv", "type": "paper",

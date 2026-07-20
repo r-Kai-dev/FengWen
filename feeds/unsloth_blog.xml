@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Unsloth Blog</title>
-  <icon>https://unsloth.ai/favicon.ico</icon>
+  <icon>https://unsloth.ai/cgi/image/unsloth_logo_no_shadow_KgfOV6keeBZnffQsKUny3.png?width=144&amp;quality=100&amp;height=144&amp;fit=pad&amp;format=auto</icon>
   <link href="https://unsloth.ai/blog"/>
   <id>https://unsloth.ai/blog</id>
-  <updated>2026-06-11T00:00:00+00:00</updated>
+  <updated>2026-05-11T00:00:00+00:00</updated>
   <author>
     <name>Unsloth</name>
   </author>
-  <entry>
-    <title>Gemma 4 12B and QAT is here!</title>
-    <link href="https://unsloth.ai/docs/models/gemma-4/qat"/>
-    <id>8988a9b98dbb5c5016a44ee1d7272b65</id>
-    <published>2026-06-11T00:00:00+00:00</published>
-    <updated>2026-06-11T00:00:00+00:00</updated>
-  </entry>
   <entry>
     <title>Unsloth joins PyTorch ecosystem</title>
     <link href="https://unsloth.ai/blog/pytorch"/>
@@ -30,67 +23,11 @@
     <updated>2026-05-06T00:00:00+00:00</updated>
   </entry>
   <entry>
-    <title>Unsloth API endpoint is here</title>
-    <link href="https://unsloth.ai/docs/basics/api"/>
-    <id>e5584f1ecbb608867947cf9f7bd93e9b</id>
-    <published>2026-05-05T00:00:00+00:00</published>
-    <updated>2026-05-05T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Qwen3.6 is released</title>
-    <link href="https://unsloth.ai/docs/models/qwen3.6"/>
-    <id>6bc61a79a5b469c77324b293a58866b2</id>
-    <published>2026-04-22T00:00:00+00:00</published>
-    <updated>2026-04-22T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Train Gemma 4 with Unsloth</title>
-    <link href="https://unsloth.ai/docs/models/gemma-4/train"/>
-    <id>bac67cac8cfb72fffd38bef89d63b281</id>
-    <published>2026-04-07T00:00:00+00:00</published>
-    <updated>2026-04-07T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Run Google Gemma 4</title>
-    <link href="https://unsloth.ai/docs/models/gemma-4"/>
-    <id>e09d3d86e8c521da3283f74b1b71000f</id>
-    <published>2026-04-02T00:00:00+00:00</published>
-    <updated>2026-04-02T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Introducing Unsloth Studio</title>
-    <link href="https://unsloth.ai/docs/new/studio"/>
-    <id>795ca362a1990d39f3a2b8a80312165d</id>
-    <published>2026-03-17T00:00:00+00:00</published>
-    <updated>2026-03-17T00:00:00+00:00</updated>
-  </entry>
-  <entry>
     <title>What are RL environments</title>
     <link href="https://unsloth.ai/blog/rl-environments"/>
     <id>ad1dbb53d69df45bf130e14fd81ab7dd</id>
     <published>2026-03-13T00:00:00+00:00</published>
     <updated>2026-03-13T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Qwen3.5 is here: Small + Medium!</title>
-    <link href="https://unsloth.ai/docs/models/qwen3.5"/>
-    <id>99b6c57718ff417a1a90ba6ba6169d84</id>
-    <published>2026-03-02T00:00:00+00:00</published>
-    <updated>2026-03-02T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Faster MoE Training</title>
-    <link href="https://unsloth.ai/docs/new/faster-moe"/>
-    <id>5cc10f7c5b088fd35ea50878e1c69241</id>
-    <published>2026-02-10T00:00:00+00:00</published>
-    <updated>2026-02-10T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Embedding Fine-tuning</title>
-    <link href="https://unsloth.ai/docs/new/embedding-finetuning"/>
-    <id>2d83044f9de2618ca482b62b976aa7fd</id>
-    <published>2026-01-22T00:00:00+00:00</published>
-    <updated>2026-01-22T00:00:00+00:00</updated>
   </entry>
   <entry>
     <title>Long context gpt-oss Unsloth Flex Attention</title>
@@ -308,6 +245,13 @@
     <id>9616a5abc0769178c8e4a287f66dd519</id>
     <published>2024-02-26T00:00:00+00:00</published>
     <updated>2024-02-26T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Hugging Face + Unsloth 2024 Collab</title>
+    <link href="https://huggingface.co/blog/unsloth-trl"/>
+    <id>c4f6f588ddde4397ca4dbdda7627b65c</id>
+    <published>2024-01-10T00:00:00+00:00</published>
+    <updated>2024-01-10T00:00:00+00:00</updated>
   </entry>
   <entry>
     <title>New Mistral support + Benchmarks</title>

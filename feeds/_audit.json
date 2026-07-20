@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:04:41.527729+00:00",
+  "generated_at": "2026-07-20T22:33:32.155923+00:00",
   "feeds": {
     "anthropic_news.xml": {
       "output_file": "anthropic_news.xml",
@@ -497,14 +497,12 @@
     },
     "hume_blog.xml": {
       "output_file": "hume_blog.xml",
-      "entry_count": 117,
-      "newest_date": "2026-05-27",
-      "oldest_date": "2021-09-26",
-      "age_days": 54,
-      "issues": [
-        "stale_54d"
-      ],
-      "status": "warning",
+      "entry_count": 9,
+      "newest_date": "2026-07-20",
+      "oldest_date": "2026-04-09",
+      "age_days": 0,
+      "issues": [],
+      "status": "healthy",
       "name": "Hume AI",
       "strategy": "scrape",
       "category": "Labs",
@@ -863,12 +861,12 @@
     },
     "unsloth_blog.xml": {
       "output_file": "unsloth_blog.xml",
-      "entry_count": 44,
-      "newest_date": "2026-06-11",
+      "entry_count": 36,
+      "newest_date": "2026-05-11",
       "oldest_date": "2023-12-14",
-      "age_days": 39,
+      "age_days": 70,
       "issues": [
-        "stale_39d"
+        "stale_70d"
       ],
       "status": "warning",
       "name": "Unsloth",
@@ -882,9 +880,9 @@
     "alphaxiv_hot_papers.xml": {
       "output_file": "alphaxiv_hot_papers.xml",
       "entry_count": 5,
-      "newest_date": "2026-06-25",
-      "oldest_date": "2026-06-22",
-      "age_days": 25,
+      "newest_date": "2026-07-20",
+      "oldest_date": "2026-07-16",
+      "age_days": 0,
       "issues": [],
       "status": "healthy",
       "name": "alphaXiv",
@@ -2055,8 +2053,8 @@
   },
   "summary": {
     "total": 129,
-    "healthy": 44,
-    "warning": 24,
+    "healthy": 45,
+    "warning": 23,
     "error": 0,
     "unchecked": 61
   }
