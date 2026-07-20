@@ -4,10 +4,40 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-17T19:09:18+00:00</updated>
+  <updated>2026-07-20T17:26:22+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Cursor's AI Swarm Rebuilt SQLite From Scratch at 15x Lower Cost</title>
+    <link href="https://cursor.com/blog/agent-swarm-model-economics"/>
+    <id>013b2eae43ca96fb5b135a124ff56228</id>
+    <published>2026-07-20T17:26:22+00:00</published>
+    <updated>2026-07-20T17:26:22+00:00</updated>
+    <summary type="text">Cursor's new agent swarm rebuilt SQLite from its 835-page manual in Rust, passing 100% of tests at up to 8x lower cost than before.</summary>
+    <category term="agents"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Unsloth Ships AMD GPU Support, Bringing 2x Faster Fine-Tuning to Radeon</title>
+    <link href="https://github.com/unslothai/unsloth"/>
+    <id>373f2ffef331a5e3cc21d274fee1ea8e</id>
+    <published>2026-07-20T14:11:02+00:00</published>
+    <updated>2026-07-20T14:11:02+00:00</updated>
+    <summary type="text">Unsloth now officially supports AMD GPUs with 2x faster training, 70% less VRAM, and a one-line installer across Windows, Linux, and WSL</summary>
+    <category term="training_infra"/>
+    <category term="gpus"/>
+  </entry>
+  <entry>
+    <title>Alibaba's Qwen-Audio-3.0-TTS Tops Speech Arena With 16-Language Voice Cloning</title>
+    <link href="https://tongyilab.substack.com/p/qwen-audio-30-tts-more-multilingual?r=6te3ta&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true&amp;triedRedirect=true"/>
+    <id>b13c97eb9a795ca89ea2bfbaea904a04</id>
+    <published>2026-07-20T10:38:55+00:00</published>
+    <updated>2026-07-20T10:38:55+00:00</updated>
+    <summary type="text">Alibaba's Qwen-Audio-3.0-TTS tops the global TTS leaderboard with 16-language support, inline emotion tags, and noise-robust voice cloning</summary>
+    <category term="audio"/>
+    <category term="api"/>
+  </entry>
   <entry>
     <title>Epoch Finds AI Detectors Miss 26% of Scientific Writing Disguised as Human</title>
     <link href="https://epoch.ai/data-insights/ai-detectors-false-negatives"/>
@@ -97,35 +127,5 @@
     <summary type="text">Google Cloud adds Parallel Web Systems as a native grounding provider on Gemini Enterprise Agent Platform, giving agents a dedicated search index built for agentic workloads</summary>
     <category term="agents"/>
     <category term="api"/>
-  </entry>
-  <entry>
-    <title>Google's Nano Banana Now Lets You Drop Yourself Into Any AI Video</title>
-    <link href="https://support.google.com/gemini/answer/16984474"/>
-    <id>e61860c57588274b69495839c2d16a5e</id>
-    <published>2026-07-16T17:48:07+00:00</published>
-    <updated>2026-07-16T17:48:07+00:00</updated>
-    <summary type="text">Gemini now lets you set up a persistent digital avatar once and place yourself in any AI-generated image or video without re-uploading a selfie each time.</summary>
-    <category term="image"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>H Company's Holo3.1 Hits 78.85% on Desktop Tasks, Beating OpenAI and Anthropic</title>
-    <link href="https://hub.hcompany.ai/computer-use-agents/introduction"/>
-    <id>0479e6b78ecc8b624dfd2de204177be5</id>
-    <published>2026-07-16T16:15:59+00:00</published>
-    <updated>2026-07-16T16:15:59+00:00</updated>
-    <summary type="text">H Company's fully managed computer-use agent API is now in open beta, powered by Holo3.1, the #1 model on OSWorld-Verified at 80.4%</summary>
-    <category term="agents"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Manus Ships typst-pdf-maker Turning Plain Prompts Into Print-Ready PDFs</title>
-    <link href="https://x.com/manusai/status/2077771031771549892"/>
-    <id>0f4506b265756c448e8b7a61f49e9ac5</id>
-    <published>2026-07-16T15:03:11+00:00</published>
-    <updated>2026-07-16T15:03:11+00:00</updated>
-    <summary type="text">Manus adds a /typst-pdf-maker skill that turns a single prompt into a professionally typeset PDF, no LaTeX or design tools required.</summary>
-    <category term="vibe_coding"/>
-    <category term="development"/>
   </entry>
 </feed>

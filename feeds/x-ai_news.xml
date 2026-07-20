@@ -4,10 +4,17 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-07-16T00:00:00+00:00</updated>
+  <updated>2026-07-20T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Grok for Excel</title>
+    <link href="https://x.ai/news/introducing-excel-addin"/>
+    <id>8e68a04b10f221ef24e7e8d205492c6d</id>
+    <published>2026-07-20T00:00:00+00:00</published>
+    <updated>2026-07-20T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Automations in Grok</title>
     <link href="https://x.ai/news/grok-automations"/>
@@ -43,6 +50,7 @@
     <id>10c023b00d2375fba9731a31d521a069</id>
     <published>2026-07-01T00:00:00+00:00</published>
     <updated>2026-07-01T00:00:00+00:00</updated>
+    <summary type="text">Create a personalized voice agent in under 2 minutes without a single line of code.</summary>
   </entry>
   <entry>
     <title>Explore the markets with Interactive Brokers and Grok</title>
