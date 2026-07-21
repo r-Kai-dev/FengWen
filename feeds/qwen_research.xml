@@ -4,10 +4,19 @@
   <icon>https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico</icon>
   <link href="https://qwen.ai/research"/>
   <id>https://qwen.ai/research</id>
-  <updated>2026-06-23T00:00:00+00:00</updated>
+  <updated>2026-07-21T00:00:00+00:00</updated>
   <author>
     <name>Qwen (Alibaba)</name>
   </author>
+  <entry>
+    <title>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</title>
+    <link href="https://qwen.ai/blog?id=qwen-image-3.0"/>
+    <id>61f0c43d9dffb78ae1b1e418b2a9a0f8</id>
+    <published>2026-07-21T00:00:00+00:00</published>
+    <updated>2026-07-21T00:00:00+00:00</updated>
+    <summary type="text">We are launching Qwen-Image-3.0, the third-generation foundational image generation model in the Qwen-Image series. If the keyword for Qwen-Image-1.0 was &quot;Precision&quot;, and the keywords for Qwen-Image-2.0 were &quot;Precision, Variety, Completeness, Beauty, and Authenticity&quot;, then the core of Qwen-Image-3.0 comes down to a single word — &quot;Real&quot; (实). This &quot;Real&quot; is embodied across three dimensions:...</summary>
+    <category term="Release"/>
+  </entry>
   <entry>
     <title>Qwen-AgentWorld: Language World Models for General Agents</title>
     <link href="https://qwen.ai/blog?id=qwen-agentworld"/>
@@ -24,15 +33,6 @@
     <published>2026-06-16T00:00:00+00:00</published>
     <updated>2026-06-16T00:00:00+00:00</updated>
     <summary type="text">The Qwen family of foundation models already gives strong perception and reasoning about the physical world. But seeing is not acting: the gap between vision and language understanding and physical control remains the central bottleneck for embodied intelligence. The Qwen-Robot Suite bridges this gap with three foundation models — Qwen-RobotNav, Qwen-RobotManip, and Qwen-RobotWorld. Nav unifies...</summary>
-    <category term="Release"/>
-  </entry>
-  <entry>
-    <title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
-    <link href="https://qwen.ai/blog?id=qwen-robotmanip"/>
-    <id>b70cc8b20d69d715b808dc87d99ac499</id>
-    <published>2026-06-16T00:00:00+00:00</published>
-    <updated>2026-06-16T00:00:00+00:00</updated>
-    <summary type="text">Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing  tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating...</summary>
     <category term="Release"/>
   </entry>
   <entry>

@@ -9,7 +9,7 @@
     <name>Kyutai</name>
   </author>
   <entry>
-    <title>MuScriptor</title>
+    <title>MuScriptor: Automatic Multi-instrument Transcription</title>
     <link href="https://kyutai.org/blog/2026-07-10-muscriptor"/>
     <id>4190bbae95c69dfc111fd5c4fd43d30c</id>
     <published>2026-07-10T00:00:00+00:00</published>
@@ -22,15 +22,15 @@
     <id>047282c25c33207663756b1553c62df9</id>
     <published>2026-07-06T00:00:00+00:00</published>
     <updated>2026-07-06T00:00:00+00:00</updated>
-    <summary type="text">A multiplayer world model — a dream of Rocket League.</summary>
+    <summary type="text">A multiplayer world model dreaming of Rocket League.</summary>
   </entry>
   <entry>
-    <title>Surflo: consistent 3D surfaces from a global state</title>
+    <title>Surflo: Consistent 3D surfaces from a global state</title>
     <link href="https://kyutai.org/blog/2026-07-01-surflo"/>
     <id>fe69930a071cce03cabf8efd38f2c237</id>
     <published>2026-07-01T00:00:00+00:00</published>
     <updated>2026-07-01T00:00:00+00:00</updated>
-    <summary type="text">A feed-forward model that compresses any number of views into a global 3D state, then decodes consistent surfaces at arbitrary resolution.</summary>
+    <summary type="text">Map any number of views into consistent 3D surfaces at arbitrary resolution via a global state.</summary>
   </entry>
   <entry>
     <title>The FID Lottery</title>
@@ -38,7 +38,7 @@
     <id>36c51380f62c118fff4ec97b708955f8</id>
     <published>2026-06-18T00:00:00+00:00</published>
     <updated>2026-06-18T00:00:00+00:00</updated>
-    <summary type="text">Quantifying hidden randomness in generative-model evaluation. Every reported FID is the outcome of two lotteries.</summary>
+    <summary type="text">Quantifying the hidden randomness of FID in image generation evaluation.</summary>
   </entry>
   <entry>
     <title>Post-training speech models for better interactivity</title>
@@ -49,7 +49,7 @@
     <summary type="text">Post-training full-duplex spoken dialogue models with RL for improved interactivity</summary>
   </entry>
   <entry>
-    <title>Understanding Data Temporality Impact on LLM pre-training</title>
+    <title>Kairos: Understanding Data Temporality Impact on LLM pre-training</title>
     <link href="https://kyutai.org/blog/2026-05-26-kairos"/>
     <id>b90c20ec26d1bdd713f611875cbfea1a</id>
     <published>2026-05-26T00:00:00+00:00</published>
@@ -121,6 +121,14 @@
     <summary type="text">A tiny TTS with any voice you like.</summary>
   </entry>
   <entry>
+    <title>CASA: The return of the cross-attention</title>
+    <link href="https://kyutai.org/blog/2025-12-23-casa"/>
+    <id>2117096e365b0e7eca42d9fe4073d3ae</id>
+    <published>2025-12-23T00:00:00+00:00</published>
+    <updated>2025-12-23T00:00:00+00:00</updated>
+    <summary type="text">Leveraging cross-attention for efficient vision fusion.</summary>
+  </entry>
+  <entry>
     <title>Neural audio codecs: how to get audio into LLMs</title>
     <link href="https://kyutai.org/blog/2025-10-21-codec-explainer"/>
     <id>d46a867ec5f410ad0410632be4b90c3d</id>
@@ -177,7 +185,7 @@
     <summary type="text">An open-source Vision Speech Model with low-latency and natural conversation skills.</summary>
   </entry>
   <entry>
-    <title>Simultanenous, on-device, high fidelity speech-to-speech translation with Hibiki</title>
+    <title>Simultaneous, on-device, high fidelity speech-to-speech translation with Hibiki</title>
     <link href="https://kyutai.org/blog/2025-02-10-hibiki"/>
     <id>79e8cfe68d79cd8db6af1e48628a4ea7</id>
     <published>2025-02-10T00:00:00+00:00</published>

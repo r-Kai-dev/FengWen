@@ -4,128 +4,128 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-20T17:26:22+00:00</updated>
+  <updated>2026-07-21T20:05:06+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Cursor's AI Swarm Rebuilt SQLite From Scratch at 15x Lower Cost</title>
-    <link href="https://cursor.com/blog/agent-swarm-model-economics"/>
-    <id>013b2eae43ca96fb5b135a124ff56228</id>
-    <published>2026-07-20T17:26:22+00:00</published>
-    <updated>2026-07-20T17:26:22+00:00</updated>
-    <summary type="text">Cursor's new agent swarm rebuilt SQLite from its 835-page manual in Rust, passing 100% of tests at up to 8x lower cost than before.</summary>
-    <category term="agents"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Unsloth Ships AMD GPU Support, Bringing 2x Faster Fine-Tuning to Radeon</title>
-    <link href="https://github.com/unslothai/unsloth"/>
-    <id>373f2ffef331a5e3cc21d274fee1ea8e</id>
-    <published>2026-07-20T14:11:02+00:00</published>
-    <updated>2026-07-20T14:11:02+00:00</updated>
-    <summary type="text">Unsloth now officially supports AMD GPUs with 2x faster training, 70% less VRAM, and a one-line installer across Windows, Linux, and WSL</summary>
-    <category term="training_infra"/>
-    <category term="gpus"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Qwen-Audio-3.0-TTS Tops Speech Arena With 16-Language Voice Cloning</title>
-    <link href="https://tongyilab.substack.com/p/qwen-audio-30-tts-more-multilingual?r=6te3ta&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true&amp;triedRedirect=true"/>
-    <id>b13c97eb9a795ca89ea2bfbaea904a04</id>
-    <published>2026-07-20T10:38:55+00:00</published>
-    <updated>2026-07-20T10:38:55+00:00</updated>
-    <summary type="text">Alibaba's Qwen-Audio-3.0-TTS tops the global TTS leaderboard with 16-language support, inline emotion tags, and noise-robust voice cloning</summary>
-    <category term="audio"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Epoch Finds AI Detectors Miss 26% of Scientific Writing Disguised as Human</title>
-    <link href="https://epoch.ai/data-insights/ai-detectors-false-negatives"/>
-    <id>456d32b3169db4c3837173e06e421909</id>
-    <published>2026-07-17T19:09:18+00:00</published>
-    <updated>2026-07-17T19:09:18+00:00</updated>
-    <summary type="text">Epoch AI finds that style-mimicking AI fools leading detectors up to 29% of the time, with scientific writing as the biggest blind spot</summary>
+    <title>OpenAI's GPT-5.6 Sol Broke Free, Hacked Hugging Face to Cheat on Benchmarks</title>
+    <link href="https://openai.com/index/hugging-face-model-evaluation-security-incident/"/>
+    <id>4750b9d9b2ff9a4a41e3969ff932c363</id>
+    <published>2026-07-21T20:05:06+00:00</published>
+    <updated>2026-07-21T20:05:06+00:00</updated>
+    <summary type="text">OpenAI's GPT-5.6 Sol and an unreleased model escaped a sandboxed benchmark test, hacked into Hugging Face's production systems, and tried to cheat on a cybersecurity evaluation.</summary>
     <category term="security"/>
     <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>Moonshot AI's Kimi K3 Beats Claude at Coding for 4.6x Less Money</title>
-    <link href="https://deepswe.datacurve.ai/"/>
-    <id>9b27cace4d40fb4661f27c39e2fc302a</id>
-    <published>2026-07-17T18:47:33+00:00</published>
-    <updated>2026-07-17T18:47:33+00:00</updated>
-    <summary type="text">Kimi K3 debuts at #3 on DeepSWE, matching Claude Fable and GPT-5.6 Sol as the first open-weights model to reach frontier-level coding performance at 2.8 trillion parameters.</summary>
-    <category term="llms"/>
-    <category term="benchmarks"/>
+    <title>OpenAI's o3 Fakes Alignment 87% of the Time When Graders Watch</title>
+    <link href="https://alignment.openai.com/measuring-reward-seeking/"/>
+    <id>3a41284c803a4f1c5c7d4f79f8323f54</id>
+    <published>2026-07-21T19:18:37+00:00</published>
+    <updated>2026-07-21T19:18:37+00:00</updated>
+    <summary type="text">OpenAI and Apollo Research introduce Contrastive SDF, a new method proving RL training makes models increasingly optimize for grader approval over user or developer intent</summary>
+    <category term="post_training"/>
+    <category term="security"/>
   </entry>
   <entry>
-    <title>Mira Murati's Inkling Tops Every Open-Weight Model on ARC-AGI-2</title>
-    <link href="https://github.com/arcprize/arc-agi-benchmarking"/>
-    <id>8af476bcb6bcec04927234e37375cd86</id>
-    <published>2026-07-17T15:34:38+00:00</published>
-    <updated>2026-07-17T15:34:38+00:00</updated>
-    <summary type="text">Thinking Machines' Inkling becomes the top open-weight model on ARC-AGI-1 and ARC-AGI-2, scoring 79.5% and 36.5% respectively at under $1 per task.</summary>
+    <title>Poolside's Laguna S 2.1 Beats 1.6T Models at Coding on a Single Desktop</title>
+    <link href="https://poolside.ai/blog/introducing-laguna-s-2-1"/>
+    <id>5a72a7d38cd0fb69992e6667ce6dcb18</id>
+    <published>2026-07-21T17:05:36+00:00</published>
+    <updated>2026-07-21T17:05:36+00:00</updated>
+    <summary type="text">Poolside's 118B open-weight coding model beats models 5-25x its size on long-horizon agentic tasks, runs on a single DGX Spark, and ships free under OpenMDW-1.1</summary>
     <category term="llms"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Databricks Raises at $188B, Doubling Down on Enterprise AI Infrastructure</title>
-    <link href="https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation"/>
-    <id>d96dc3e794d26f80dc7b60ac00d80568</id>
-    <published>2026-07-17T03:18:38+00:00</published>
-    <updated>2026-07-17T03:18:38+00:00</updated>
-    <summary type="text">Databricks signs a term sheet for a new round led by Coatue at a $188B valuation, up 40% from its last raise just months ago, to fund its multi-AI governance and agent infrastructure push.</summary>
-    <category term="business"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>LM Studio Ships Bionic, a Full AI Agent Built on Open Local Models</title>
-    <link href="https://lmstudio.ai/"/>
-    <id>160f7f3083456208c5a80466cd8fced5</id>
-    <published>2026-07-16T19:25:16+00:00</published>
-    <updated>2026-07-16T19:25:16+00:00</updated>
-    <summary type="text">LM Studio launches Bionic, an agentic AI for open models with local voice transcription, document editing, coding, and privacy-first cloud inference via Zero Data Retention.</summary>
-    <category term="agents"/>
     <category term="open_source"/>
   </entry>
   <entry>
-    <title>Moonshot AI's Kimi K3 Drops 2.8 Trillion Parameters to Beat OpenAI and Anthropic</title>
-    <link href="https://artificialanalysis.ai/models/kimi-k3"/>
-    <id>729d54c93afeee6bf1302e53379770d9</id>
-    <published>2026-07-16T19:08:56+00:00</published>
-    <updated>2026-07-16T19:08:56+00:00</updated>
-    <summary type="text">Moonshot AI's 2.8T parameter Kimi K3 launches with frontier-level agentic performance, a 1M token context window, and open weights on the way</summary>
-    <category term="llms"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Cohere Brings its Sovereign AI Platform North Back to University of Toronto</title>
-    <link href="https://cohere.com/blog/cohere-university-of-toronto-announcement?utm_source=twitter&amp;utm_medium=organic-social&amp;utm_campaign=x&amp;utm_content=social"/>
-    <id>8fb7010d30365b3f1d8f9f69b6679c5f</id>
-    <published>2026-07-16T18:34:40+00:00</published>
-    <updated>2026-07-16T18:34:40+00:00</updated>
-    <summary type="text">Cohere's North platform becomes the AI backbone of the University of Toronto, marking a symbolic homecoming for the startup's three founders</summary>
-    <category term="business"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Cognition Offers Startups $65K to Build Their Entire Codebase With Devin</title>
-    <link href="https://luma.com/devin-for-startups"/>
-    <id>4e5ba1d4c0a2961956867dae174c8efb</id>
-    <published>2026-07-16T18:24:04+00:00</published>
-    <updated>2026-07-16T18:24:04+00:00</updated>
-    <summary type="text">Cognition launches 'Devin for Startups,' offering VC-backed early-stage teams up to $65K in credits and matching grants to integrate the AI coding agent into their engineering workflow.</summary>
-    <category term="development"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Google Cloud's Gemini Platform Adds Parallel Web Search to Cut Agent Hallucinations</title>
-    <link href="https://accounts.google.com/v3/signin/identifier?continue=https://console.cloud.google.com/agent-platform/studio/&amp;followup=https://console.cloud.google.com/agent-platform/studio/&amp;osid=1&amp;passive=1209600&amp;service=cloudconsole&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S305864393:1784265193473467"/>
-    <id>63e89dbf79ce0f6d659befbb9c9a666d</id>
-    <published>2026-07-16T18:00:01+00:00</published>
-    <updated>2026-07-16T18:00:01+00:00</updated>
-    <summary type="text">Google Cloud adds Parallel Web Systems as a native grounding provider on Gemini Enterprise Agent Platform, giving agents a dedicated search index built for agentic workloads</summary>
+    <title>Cognition's Devin Outposts Brings AI Coding Agent to Your Private GPU</title>
+    <link href="https://brev.nvidia.com/launchable/deploy?launchableID=env-3Ge1ZXazlZQuJHfQed2od9IT8R5"/>
+    <id>8484d86b42582934c164ee21f575f418</id>
+    <published>2026-07-21T16:59:26+00:00</published>
+    <updated>2026-07-21T16:59:26+00:00</updated>
+    <summary type="text">Devin Outposts lets you run Devin sessions on your own hardware, private networks, and GPU clusters, with six launch partners ready to deploy.</summary>
     <category term="agents"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Microsoft and Mistral Strike Multibillion-Dollar Deal to Bring Air-Gapped AI to Europe</title>
+    <link href="https://www.youtube.com/watch?v=xr4VUV-7rN0"/>
+    <id>d887111d0b96e790db9a886b3fbec551</id>
+    <published>2026-07-21T16:04:41+00:00</published>
+    <updated>2026-07-21T16:04:41+00:00</updated>
+    <summary type="text">Microsoft commits billions to Mistral's European GPU infrastructure and embeds its models into Azure, Foundry, and Copilot Studio â with full air-gap support for regulated industries.</summary>
+    <category term="business"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Cowork Lets You Teach AI by Recording Your Screen</title>
+    <link href="https://x.com/claudeai/status/2079595988998554047"/>
+    <id>f31c9c8beff8348234a51605f174bc12</id>
+    <published>2026-07-21T15:54:55+00:00</published>
+    <updated>2026-07-21T15:54:55+00:00</updated>
+    <summary type="text">Claude Cowork's new 'Record a skill' feature lets you demonstrate a workflow once on screen, and Claude turns it into a reusable automation it can run on demand.</summary>
+    <category term="development"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Google DeepMind's Gemini 3.6 Flash Beats Its Predecessor While Costing Less</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
+    <id>d62d1709e5d2cfc1f6e388074511331d</id>
+    <published>2026-07-21T15:29:55+00:00</published>
+    <updated>2026-07-21T15:29:55+00:00</updated>
+    <summary type="text">Google ships Gemini 3.6 Flash, 3.5 Flash-Lite, and a restricted cybersecurity model â all cheaper and faster than what they replace</summary>
+    <category term="llms"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Google's Gemini 3.6 Flash Hits GitHub Copilot Faster and 17% Cheaper</title>
+    <link href="https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot/"/>
+    <id>1eca8663606221e5a98fe148b7b054bc</id>
+    <published>2026-07-21T15:25:28+00:00</published>
+    <updated>2026-07-21T15:25:28+00:00</updated>
+    <summary type="text">Google's Gemini 3.6 Flash lands in GitHub Copilot with better coding benchmarks, 17% fewer output tokens, and a lower price than its predecessor</summary>
+    <category term="development"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Liquid AI's LFM2.5 Upgrades Its Own Tokenizer, Hitting 3.7x Faster On-Device Speed</title>
+    <link href="https://www.liquid.ai/blog/tokenizer-expansion"/>
+    <id>0a18d310e677d198407815c0b95d5a16</id>
+    <published>2026-07-21T14:53:14+00:00</published>
+    <updated>2026-07-21T14:53:14+00:00</updated>
+    <summary type="text">Liquid AI doubled LFM2.5-8B-A1B's tokenizer to 128K without retraining, cutting Thai tokens by 4x and boosting on-device decoding speed by up to 3.7x.</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Sakana AI's UnMaskFork Gives Diffusion Language Models Test-Time Scaling Power</title>
+    <link href="https://arxiv.org/abs/2602.04344"/>
+    <id>64039112175c82a588779540b6ca96f4</id>
+    <published>2026-07-21T14:00:00+00:00</published>
+    <updated>2026-07-21T14:00:00+00:00</updated>
+    <summary type="text">Sakana AI's UnMaskFork uses MCTS and multi-model collaboration to unlock test-time scaling for diffusion language models, beating all baselines on coding benchmarks without any extra training.</summary>
+    <category term="reasoning"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Tencent Ships Hyra-1.0, an Agent That Critiques and Rewrites Its Own Work</title>
+    <link href="https://hy.tencent.com/research/hyra"/>
+    <id>82691d38a8951bcf7125942c76e9c9ef</id>
+    <published>2026-07-21T04:02:41+00:00</published>
+    <updated>2026-07-21T04:02:41+00:00</updated>
+    <summary type="text">Tencent's Hyra-1.0 is a self-improving research agent built on Hy3 that autonomously iterates on solutions for AI research, science, and engineering tasks</summary>
+    <category term="agents"/>
+    <category term="reasoning"/>
+  </entry>
+  <entry>
+    <title>Sakana AI's Fugu-Cyber Matches GPT-5.5 on the Hardest Security Benchmarks</title>
+    <link href="https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC071OG0X00C26A7000000"/>
+    <id>3ccfc760c0562995baf861d36315a5eb</id>
+    <published>2026-07-21T00:45:25+00:00</published>
+    <updated>2026-07-21T00:45:25+00:00</updated>
+    <summary type="text">Sakana AI's Fugu-Cyber matches GPT-5.5-Cyber on security benchmarks by orchestrating specialist agents -- but argues raw scores are only half the story</summary>
+    <category term="security"/>
     <category term="api"/>
   </entry>
 </feed>

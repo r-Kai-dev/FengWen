@@ -4,10 +4,17 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-07-20T00:00:00+00:00</updated>
+  <updated>2026-07-21T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Grok for Outlook</title>
+    <link href="https://x.ai/news/introducing-outlook-addin"/>
+    <id>13957b80c323ca9a7f39e77ebaca3b81</id>
+    <published>2026-07-21T00:00:00+00:00</published>
+    <updated>2026-07-21T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Grok for Excel</title>
     <link href="https://x.ai/news/introducing-excel-addin"/>
@@ -43,6 +50,7 @@
     <id>c32d138fc6f49ed1524d74cab479fcea</id>
     <published>2026-07-06T00:00:00+00:00</published>
     <updated>2026-07-06T00:00:00+00:00</updated>
+    <summary type="text">New multilingual voices for Grok Voice, plus improved naturalness for the original five.</summary>
   </entry>
   <entry>
     <title>Introducing the Voice Agent Builder</title>
