@@ -6,8 +6,19 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-07-16T00:00:00.000Z</updated>
+  <updated>2026-07-22T00:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>A runway show without a runway</title>
+    <link href="https://www.krea.ai/blog/runway-show-without-a-runway"/>
+    <id>https://www.krea.ai/blog/runway-show-without-a-runway</id>
+    <updated>2026-07-22T00:00:00.000Z</updated>
+    <published>2026-07-22T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="customer-stories"/>
+    <summary>How Taskin Goec brought an all-AI collection to Berlin Fashion Week with Krea.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/runway-ss/FAV_PLATTE_Presents_TASKIN_SS27-3537.jpg" type="image/webp"/>
+  </entry>
   <entry>
     <title>7 Seedream 5 Pro Use Cases for Marketers: Ads, Product Images, and Campaign Creative (2026)</title>
     <link href="https://www.krea.ai/blog/7-seedream-5-pro-use-cases-for-marketers-ads-product-images-and-campaign-creative"/>
@@ -565,16 +576,5 @@
     <category term="use-cases"/>
     <summary>If you produce architectural renders, you have probably evaluated Lumion, Enscape, D5 Render, or Twinmotion at some point. These are excellent tools — built spe</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-vs-lumion-enscape-d5-render/1779150245016-0-75466a54-63c7-4d80-858e-707b5b66e244.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Materials and lighting studies with Krea 2</title>
-    <link href="https://www.krea.ai/blog/materials-and-lighting-studies-with-krea-2"/>
-    <id>https://www.krea.ai/blog/materials-and-lighting-studies-with-krea-2</id>
-    <updated>2026-05-19T00:00:00.000Z</updated>
-    <published>2026-05-19T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="use-cases"/>
-    <summary>How to use Krea 2 for rapid material and lighting studies — stone, concrete, timber, glass — without re-rendering your entire scene.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/materials-and-lighting-studies-with-krea-2/1779150044179-0-8f134505-50ec-4994-8cd6-8794889b7a58.png" type="image/webp"/>
   </entry>
 </feed>

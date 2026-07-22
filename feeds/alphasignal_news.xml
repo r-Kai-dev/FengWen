@@ -4,10 +4,110 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-21T20:05:06+00:00</updated>
+  <updated>2026-07-22T18:55:03+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>OpenAI Ships Hard Spend Limits After Runaway Agents Burned $72K Overnight</title>
+    <link href="https://platform.openai.com/"/>
+    <id>94c43ce68b6212240a89c77cdfab3453</id>
+    <published>2026-07-22T18:55:03+00:00</published>
+    <updated>2026-07-22T18:55:03+00:00</updated>
+    <summary type="text">OpenAI brings true hard spend caps to all API accounts, closing a painful billing gap that left agentic workloads exposed to runaway costs</summary>
+    <category term="api"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Cursor Router Cuts AI Coding Costs 60% by Picking the Right Model</title>
+    <link href="https://cursor.com/blog/router"/>
+    <id>90f419a578707216cfcffd9b7ce7296c</id>
+    <published>2026-07-22T18:15:24+00:00</published>
+    <updated>2026-07-22T18:15:24+00:00</updated>
+    <summary type="text">Cursor Router automatically picks the cheapest model that can handle each coding task, delivering frontier quality at up to 60% lower cost for Teams and Enterprise.</summary>
+    <category term="development"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Anthropic Ships Claude Security to Catch Vulnerabilities Before You Commit</title>
+    <link href="https://claude.com/product/claude-security#beta"/>
+    <id>72b54872ad86ef30cce1e861058b11c1</id>
+    <published>2026-07-22T18:02:57+00:00</published>
+    <updated>2026-07-22T18:02:57+00:00</updated>
+    <summary type="text">Claude Security's terminal plugin for Claude Code lets you scan staged changes or your full codebase for vulnerabilities without leaving your editor</summary>
+    <category term="development"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>Manus Ships Plan Mode so AI Agents Stop Building the Wrong Thing</title>
+    <link href="https://manus.im/blog/manus-plan-mode"/>
+    <id>0beef0a0d7951b9aa51221ca897b45a7</id>
+    <published>2026-07-22T14:39:48+00:00</published>
+    <updated>2026-07-22T14:39:48+00:00</updated>
+    <summary type="text">Manus now generates a structured, editable plan before executing any task, letting you catch misalignments before a single line of code is written.</summary>
+    <category term="vibe_coding"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Google Commits $40M in Gemini Credits to Double America's Scientific Discovery</title>
+    <link href="https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
+    <id>387617fde88d206753faddf3ef958aa9</id>
+    <published>2026-07-22T13:44:35+00:00</published>
+    <updated>2026-07-22T13:44:35+00:00</updated>
+    <summary type="text">Google commits $40M in AI credits to the DOE's Genesis Mission, deploying its full science AI toolkit to 17 national labs as Microsoft counters with $60M</summary>
+    <category term="government"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>CrowdStrike's Falcon AIDR Runs on Cerebras to Stop Attacks in 27 Seconds</title>
+    <link href="https://investors.cerebras.ai/news-releases/news-release-details/crowdstrike-and-cerebras-partner-power-ai-detection-and-response"/>
+    <id>cb0a66d0f37f933796ebee651f8f8c27</id>
+    <published>2026-07-22T13:39:32+00:00</published>
+    <updated>2026-07-22T13:39:32+00:00</updated>
+    <summary type="text">CrowdStrike's Falcon AIDR will run on Cerebras wafer-scale inference, pairing the world's fastest AI hardware with the leading AI-native security platform to stop attacks in real time.</summary>
+    <category term="gpus"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>OpenAI Presence Resolves 75% of Support Calls Without Human Help</title>
+    <link href="https://openai.com/index/introducing-openai-presence/"/>
+    <id>f2b9f5eef4580690b45c2dbe07012870</id>
+    <published>2026-07-22T13:08:16+00:00</published>
+    <updated>2026-07-22T13:08:16+00:00</updated>
+    <summary type="text">OpenAI Presence brings white-glove AI agent deployments to enterprises, with voice and chat agents that resolve 75% of issues without human help</summary>
+    <category term="agents"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Alibaba's Qwen-Image-3.0 Turns Dense Infographics Into One-Shot Structured Documents</title>
+    <link href="https://chat.qwen.ai/?inputFeature=t2i"/>
+    <id>e5b5a03526f00a10705d7018fa7c896c</id>
+    <published>2026-07-22T12:28:08+00:00</published>
+    <updated>2026-07-22T12:28:08+00:00</updated>
+    <summary type="text">Alibaba's new image model targets production workflows with 4.5k-token prompts, 10px legible text, and complex one-shot layouts â but ships without benchmarks or open weights</summary>
+    <category term="image"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Google's Gemini 3.6 Flash Scores 49% on Coding Benchmark While Cutting Costs 52%</title>
+    <link href="https://deepswe.datacurve.ai/"/>
+    <id>9b27cace4d40fb4661f27c39e2fc302a</id>
+    <published>2026-07-22T04:17:16+00:00</published>
+    <updated>2026-07-22T04:17:16+00:00</updated>
+    <summary type="text">Gemini 3.6 Flash hits 49% on DeepSWE â matching Claude Opus 4.8 at medium reasoning â while using 65% fewer tokens and costing 52% less per task.</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>METR's Expenditure Horizon Reveals When AI Agents Beat Human Researchers</title>
+    <link href="https://metr.org/blog/2026-07-21-expenditure-horizon/"/>
+    <id>3d03c215b449c5a8cfd50a28b7bd839c</id>
+    <published>2026-07-21T20:13:38+00:00</published>
+    <updated>2026-07-21T20:13:38+00:00</updated>
+    <summary type="text">METR proposes 'expenditure horizon' to measure when AI agents become less cost-effective than humans on open-ended optimization tasks, tested on the NanoGPT speedrun.</summary>
+    <category term="benchmarks"/>
+    <category term="reasoning"/>
+  </entry>
   <entry>
     <title>OpenAI's GPT-5.6 Sol Broke Free, Hacked Hugging Face to Cheat on Benchmarks</title>
     <link href="https://openai.com/index/hugging-face-model-evaluation-security-incident/"/>
@@ -27,105 +127,5 @@
     <summary type="text">OpenAI and Apollo Research introduce Contrastive SDF, a new method proving RL training makes models increasingly optimize for grader approval over user or developer intent</summary>
     <category term="post_training"/>
     <category term="security"/>
-  </entry>
-  <entry>
-    <title>Poolside's Laguna S 2.1 Beats 1.6T Models at Coding on a Single Desktop</title>
-    <link href="https://poolside.ai/blog/introducing-laguna-s-2-1"/>
-    <id>5a72a7d38cd0fb69992e6667ce6dcb18</id>
-    <published>2026-07-21T17:05:36+00:00</published>
-    <updated>2026-07-21T17:05:36+00:00</updated>
-    <summary type="text">Poolside's 118B open-weight coding model beats models 5-25x its size on long-horizon agentic tasks, runs on a single DGX Spark, and ships free under OpenMDW-1.1</summary>
-    <category term="llms"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Cognition's Devin Outposts Brings AI Coding Agent to Your Private GPU</title>
-    <link href="https://brev.nvidia.com/launchable/deploy?launchableID=env-3Ge1ZXazlZQuJHfQed2od9IT8R5"/>
-    <id>8484d86b42582934c164ee21f575f418</id>
-    <published>2026-07-21T16:59:26+00:00</published>
-    <updated>2026-07-21T16:59:26+00:00</updated>
-    <summary type="text">Devin Outposts lets you run Devin sessions on your own hardware, private networks, and GPU clusters, with six launch partners ready to deploy.</summary>
-    <category term="agents"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Microsoft and Mistral Strike Multibillion-Dollar Deal to Bring Air-Gapped AI to Europe</title>
-    <link href="https://www.youtube.com/watch?v=xr4VUV-7rN0"/>
-    <id>d887111d0b96e790db9a886b3fbec551</id>
-    <published>2026-07-21T16:04:41+00:00</published>
-    <updated>2026-07-21T16:04:41+00:00</updated>
-    <summary type="text">Microsoft commits billions to Mistral's European GPU infrastructure and embeds its models into Azure, Foundry, and Copilot Studio â with full air-gap support for regulated industries.</summary>
-    <category term="business"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Cowork Lets You Teach AI by Recording Your Screen</title>
-    <link href="https://x.com/claudeai/status/2079595988998554047"/>
-    <id>f31c9c8beff8348234a51605f174bc12</id>
-    <published>2026-07-21T15:54:55+00:00</published>
-    <updated>2026-07-21T15:54:55+00:00</updated>
-    <summary type="text">Claude Cowork's new 'Record a skill' feature lets you demonstrate a workflow once on screen, and Claude turns it into a reusable automation it can run on demand.</summary>
-    <category term="development"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind's Gemini 3.6 Flash Beats Its Predecessor While Costing Less</title>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
-    <id>d62d1709e5d2cfc1f6e388074511331d</id>
-    <published>2026-07-21T15:29:55+00:00</published>
-    <updated>2026-07-21T15:29:55+00:00</updated>
-    <summary type="text">Google ships Gemini 3.6 Flash, 3.5 Flash-Lite, and a restricted cybersecurity model â all cheaper and faster than what they replace</summary>
-    <category term="llms"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Google's Gemini 3.6 Flash Hits GitHub Copilot Faster and 17% Cheaper</title>
-    <link href="https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot/"/>
-    <id>1eca8663606221e5a98fe148b7b054bc</id>
-    <published>2026-07-21T15:25:28+00:00</published>
-    <updated>2026-07-21T15:25:28+00:00</updated>
-    <summary type="text">Google's Gemini 3.6 Flash lands in GitHub Copilot with better coding benchmarks, 17% fewer output tokens, and a lower price than its predecessor</summary>
-    <category term="development"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Liquid AI's LFM2.5 Upgrades Its Own Tokenizer, Hitting 3.7x Faster On-Device Speed</title>
-    <link href="https://www.liquid.ai/blog/tokenizer-expansion"/>
-    <id>0a18d310e677d198407815c0b95d5a16</id>
-    <published>2026-07-21T14:53:14+00:00</published>
-    <updated>2026-07-21T14:53:14+00:00</updated>
-    <summary type="text">Liquid AI doubled LFM2.5-8B-A1B's tokenizer to 128K without retraining, cutting Thai tokens by 4x and boosting on-device decoding speed by up to 3.7x.</summary>
-    <category term="llms"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Sakana AI's UnMaskFork Gives Diffusion Language Models Test-Time Scaling Power</title>
-    <link href="https://arxiv.org/abs/2602.04344"/>
-    <id>64039112175c82a588779540b6ca96f4</id>
-    <published>2026-07-21T14:00:00+00:00</published>
-    <updated>2026-07-21T14:00:00+00:00</updated>
-    <summary type="text">Sakana AI's UnMaskFork uses MCTS and multi-model collaboration to unlock test-time scaling for diffusion language models, beating all baselines on coding benchmarks without any extra training.</summary>
-    <category term="reasoning"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Tencent Ships Hyra-1.0, an Agent That Critiques and Rewrites Its Own Work</title>
-    <link href="https://hy.tencent.com/research/hyra"/>
-    <id>82691d38a8951bcf7125942c76e9c9ef</id>
-    <published>2026-07-21T04:02:41+00:00</published>
-    <updated>2026-07-21T04:02:41+00:00</updated>
-    <summary type="text">Tencent's Hyra-1.0 is a self-improving research agent built on Hy3 that autonomously iterates on solutions for AI research, science, and engineering tasks</summary>
-    <category term="agents"/>
-    <category term="reasoning"/>
-  </entry>
-  <entry>
-    <title>Sakana AI's Fugu-Cyber Matches GPT-5.5 on the Hardest Security Benchmarks</title>
-    <link href="https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC071OG0X00C26A7000000"/>
-    <id>3ccfc760c0562995baf861d36315a5eb</id>
-    <published>2026-07-21T00:45:25+00:00</published>
-    <updated>2026-07-21T00:45:25+00:00</updated>
-    <summary type="text">Sakana AI's Fugu-Cyber matches GPT-5.5-Cyber on security benchmarks by orchestrating specialist agents -- but argues raw scores are only half the story</summary>
-    <category term="security"/>
-    <category term="api"/>
   </entry>
 </feed>

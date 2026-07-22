@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-07-15T00:00:00+00:00</updated>
+  <updated>2026-07-18T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>OPD Support in Miles</title>
+    <link href="https://lmsys.org/blog/2026-07-18-opd-support-in-miles"/>
+    <id>00369ac48e194feee6e1dcdc0c730a60</id>
+    <published>2026-07-18T00:00:00+00:00</published>
+    <updated>2026-07-18T00:00:00+00:00</updated>
+    <summary type="text">We recently implemented On-Policy Distillation (OPD) as an important feature in Miles. OPD is now integrated into Miles rollout and training flow, so users can train a student model either solely with...</summary>
+    <category term="technical"/>
+  </entry>
   <entry>
     <title>SGLang and Miles Add Day-0 Support for Inkling, a Frontier Multimodal Model</title>
     <link href="https://lmsys.org/blog/2026-07-15-inkling-day0-support"/>

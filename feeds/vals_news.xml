@@ -4,7 +4,7 @@
   <icon>https://codeberg.org/r-Kai/FengWen/raw/branch/main/assets/vals_favicon.png</icon>
   <link href="https://www.vals.ai/news"/>
   <id>https://www.vals.ai/news</id>
-  <updated>2026-07-21T21:01:49.029178+00:00</updated>
+  <updated>2026-07-22T21:02:01.957022+00:00</updated>
   <author>
     <name>Vals AI</name>
   </author>
@@ -12,9 +12,17 @@
     <title>Vals Public Sector Memo</title>
     <link href="https://www.vals.ai/blogs/vals-public-sector-memo"/>
     <id>1be8654429483836f97b259049b9a2ea</id>
-    <published>2026-07-21T21:01:49.029178+00:00</published>
-    <updated>2026-07-21T21:01:49.029178+00:00</updated>
+    <published>2026-07-22T21:02:01.957022+00:00</published>
+    <updated>2026-07-22T21:02:01.957022+00:00</updated>
     <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>Google's Gemini 3.6 Flash evaluated on the Vals Index</title>
+    <link href="https://www.vals.ai/models/google_gemini-3.6-flash"/>
+    <id>65af33a846129f79800aa121bec64b79</id>
+    <published>2026-07-21T00:00:00+00:00</published>
+    <updated>2026-07-21T00:00:00+00:00</updated>
+    <category term="Model"/>
   </entry>
   <entry>
     <title>Moonshot AI's Kimi K3 evaluated on the Vals Index</title>
@@ -94,14 +102,6 @@
     <id>7a03512d32598b934ae7bfa2280c939b</id>
     <published>2026-06-23T00:00:00+00:00</published>
     <updated>2026-06-23T00:00:00+00:00</updated>
-    <category term="Benchmark"/>
-  </entry>
-  <entry>
-    <title>Harvey's Legal Agent Benchmark Released</title>
-    <link href="https://www.vals.ai/benchmarks/hlab"/>
-    <id>efb2f6631f7955074a8792bdcdf5c03e</id>
-    <published>2026-06-17T00:00:00+00:00</published>
-    <updated>2026-06-17T00:00:00+00:00</updated>
     <category term="Benchmark"/>
   </entry>
   <entry>

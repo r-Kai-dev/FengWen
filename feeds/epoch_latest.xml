@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-07-15T00:00:00+00:00</updated>
+  <updated>2026-07-22T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>OpenAI accidentally hacked Hugging Face - should we have seen it coming?</title>
+    <link href="https://epoch.ai/gradient-updates/openai-accidentally-hacked-hugging-face"/>
+    <id>92034918d28e96ddbab7843e72ad9e04</id>
+    <published>2026-07-22T00:00:00+00:00</published>
+    <updated>2026-07-22T00:00:00+00:00</updated>
+    <summary type="text">Expert assessments and cyber benchmarks led us to expect that frontier models were capable of executing this kind of cyberattack</summary>
+    <category term="Newsletter"/>
+  </entry>
   <entry>
     <title>AI detectors rarely flag human writing, but sometimes miss AI text imitating real authors</title>
     <link href="https://epoch.ai/data-insights/ai-detectors-false-negatives"/>
@@ -83,15 +92,6 @@
     <published>2026-06-24T00:00:00+00:00</published>
     <updated>2026-06-24T00:00:00+00:00</updated>
     <summary type="text">Inferring Chinese AI labs’ strategies from their job descriptions</summary>
-    <category term="Newsletter"/>
-  </entry>
-  <entry>
-    <title>Toward an O*NET for AI R&amp;D</title>
-    <link href="https://epoch.ai/gradient-updates/toward-an-onet-for-ai-rnd"/>
-    <id>f887cdedf71856e72e99f7361551f3db</id>
-    <published>2026-06-17T00:00:00+00:00</published>
-    <updated>2026-06-17T00:00:00+00:00</updated>
-    <summary type="text">Proposing a new way to track AI research automation</summary>
     <category term="Newsletter"/>
   </entry>
 </feed>

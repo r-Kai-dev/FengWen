@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-07-21T00:00:00+00:00</updated>
+  <updated>2026-07-22T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>EU AI Act Article 50 Compliance Checklist for Providers and Deployers</title>
+    <link href="https://www.resemble.ai/resources/eu-ai-act-article-50-compliance-checklist-for-providers-and-deployers"/>
+    <id>a4744868b3953a4e4c80a341b627531c</id>
+    <published>2026-07-22T00:00:00+00:00</published>
+    <updated>2026-07-22T00:00:00+00:00</updated>
+    <summary type="text">Your practical EU AI Act Article 50 compliance checklist for providers and deployers covering voice AI, synthetic audio, deepfakes, and disclosure requirements.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>Top 10 Deepfake Detection Tools for Enterprise Security in 2026</title>
     <link href="https://www.resemble.ai/resources/top-10-deepfake-detection-tools-for-enterprise-security-in-2026"/>
@@ -106,14 +115,5 @@
     <updated>2026-07-03T00:00:00+00:00</updated>
     <summary type="text">A large-scale study showing that Resemble's audio deepfake detector reaches the same accuracy no matter what's being said or who's speaking, a requirement for GDPR-compliant call monitoring.</summary>
     <category term="Research"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Watchlist: Week of June 26 – July 2, 2026</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-june-26---july-2-2026"/>
-    <id>22c41c4f68df26404846b0c279f9c59d</id>
-    <published>2026-07-03T00:00:00+00:00</published>
-    <updated>2026-07-03T00:00:00+00:00</updated>
-    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
-    <category term="Deepfake Watchlist"/>
   </entry>
 </feed>
