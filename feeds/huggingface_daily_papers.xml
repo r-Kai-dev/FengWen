@@ -4,14 +4,24 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/papers"/>
   <id>https://huggingface.co/papers</id>
-  <updated>2026-07-19T20:00:00.000Z</updated>
+  <updated>2026-07-21T11:26:50.000Z</updated>
+  <entry>
+    <title>ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU</title>
+    <link href="https://arxiv.org/abs/2607.19191"/>
+    <id>70de2083a5c27844a7ffed5f9da7ae76</id>
+    <published>2026-07-21T11:26:50.000Z</published>
+    <updated>2026-07-21T11:26:50.000Z</updated>
+    <summary type="text">We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation eng... \u00b7 Upvotes: 200 \u00b7 GitHub Stars: 884 \u00b7 Authors: Fan Jiang, Zhaoxu Sun, Mengchao Wang</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
   <entry>
     <title>RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model</title>
     <link href="https://arxiv.org/abs/2607.17977"/>
     <id>77e20cd722de5839e431fe5e953732a0</id>
     <published>2026-07-19T20:00:00.000Z</published>
     <updated>2026-07-19T20:00:00.000Z</updated>
-    <summary type="text">We present RynnBrain 1.1, a family of embodied foundation models spanning 2B, 9B, and 122B-A10B scales. Trained with a unified spatio-temporal and physically grounded framework, RynnBrain 1.1 supports... \u00b7 Upvotes: 186 \u00b7 Authors: Kehan Li, Bohan Hou, Minghao Zhu</summary>
+    <summary type="text">We present RynnBrain 1.1, a family of embodied foundation models spanning 2B, 9B, and 122B-A10B scales. Trained with a unified spatio-temporal and physically grounded framework, RynnBrain 1.1 supports... \u00b7 Upvotes: 191 \u00b7 Authors: Kehan Li, Bohan Hou, Minghao Zhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +31,7 @@
     <id>c9b8ed7bb41bfcc4d0390677130c179e</id>
     <published>2026-07-15T20:00:00.000Z</published>
     <updated>2026-07-15T20:00:00.000Z</updated>
-    <summary type="text">A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below an... \u00b7 Upvotes: 193 \u00b7 GitHub Stars: 24 \u00b7 Authors: Changhai Zhou, Kieran Liu, Yuhua Zhou</summary>
+    <summary type="text">A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below an... \u00b7 Upvotes: 195 \u00b7 GitHub Stars: 31 \u00b7 Authors: Changhai Zhou, Kieran Liu, Yuhua Zhou</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +41,7 @@
     <id>bc8699f914ad297305eaed462cc1ef83</id>
     <published>2026-07-13T20:00:00.000Z</published>
     <updated>2026-07-13T20:00:00.000Z</updated>
-    <summary type="text">The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs... \u00b7 Upvotes: 213 \u00b7 GitHub Stars: 112 \u00b7 Authors: Ruhan Wang, Yucheng Shi, Zongxia Li</summary>
+    <summary type="text">The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs... \u00b7 Upvotes: 216 \u00b7 GitHub Stars: 117 \u00b7 Authors: Ruhan Wang, Yucheng Shi, Zongxia Li</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +61,7 @@
     <id>a681807c49c0f23182d91447ae38de1b</id>
     <published>2026-07-07T20:00:00.000Z</published>
     <updated>2026-07-07T20:00:00.000Z</updated>
-    <summary type="text">We present LingBot-World 2.0 (also known as LingBot-World-Infinity), an advanced iteration of LingBot-World featuring four distinct upgrades. (1) Our model achieves an unbounded interaction horizon wh... \u00b7 Upvotes: 45 \u00b7 GitHub Stars: 1347 \u00b7 Authors: Zelin Gao, Qiuyu Wang, Jiapeng Zhu</summary>
+    <summary type="text">We present LingBot-World 2.0 (also known as LingBot-World-Infinity), an advanced iteration of LingBot-World featuring four distinct upgrades. (1) Our model achieves an unbounded interaction horizon wh... \u00b7 Upvotes: 45 \u00b7 GitHub Stars: 1362 \u00b7 Authors: Zelin Gao, Qiuyu Wang, Jiapeng Zhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +71,7 @@
     <id>53309d9a8fb76f86344a215f211feec2</id>
     <published>2026-07-04T20:00:00.000Z</published>
     <updated>2026-07-04T20:00:00.000Z</updated>
-    <summary type="text">Large language models have made research ideation increasingly accessible, yet effective idea development requires more than generating candidate directions. Researchers must ground a problem in curre... \u00b7 Upvotes: 60 \u00b7 GitHub Stars: 1676 \u00b7 Authors: Qihao Zhao, Yangyu Huang, Yalun Dai</summary>
+    <summary type="text">Large language models have made research ideation increasingly accessible, yet effective idea development requires more than generating candidate directions. Researchers must ground a problem in curre... \u00b7 Upvotes: 60 \u00b7 GitHub Stars: 1731 \u00b7 Authors: Qihao Zhao, Yangyu Huang, Yalun Dai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +81,7 @@
     <id>39942df9576ffa26ff58b2b5c4e0962f</id>
     <published>2026-06-29T20:00:00.000Z</published>
     <updated>2026-06-29T20:00:00.000Z</updated>
-    <summary type="text">The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the secu... \u00b7 Upvotes: 14 \u00b7 GitHub Stars: 4172 \u00b7 Authors: Yong Yang, Xing Zheng, Huiyu Wu</summary>
+    <summary type="text">The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the secu... \u00b7 Upvotes: 14 \u00b7 GitHub Stars: 4196 \u00b7 Authors: Yong Yang, Xing Zheng, Huiyu Wu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +91,7 @@
     <id>a1a5ef7332b51401fccc656e1093bcc6</id>
     <published>2026-06-28T20:00:00.000Z</published>
     <updated>2026-06-28T20:00:00.000Z</updated>
-    <summary type="text">We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf... \u00b7 Upvotes: 332 \u00b7 GitHub Stars: 421 \u00b7 Authors: Yihao Wang, Yuheng Ji, Mingyu Cao</summary>
+    <summary type="text">We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf... \u00b7 Upvotes: 332 \u00b7 GitHub Stars: 472 \u00b7 Authors: Yihao Wang, Yuheng Ji, Mingyu Cao</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,7 +101,7 @@
     <id>249d2a9281efcfeaa2dbc0884aad0225</id>
     <published>2026-06-27T20:00:00.000Z</published>
     <updated>2026-06-27T20:00:00.000Z</updated>
-    <summary type="text">Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr... \u00b7 Upvotes: 170 \u00b7 Authors: Jing Liang, Hongyao Tang, Yi Ma</summary>
+    <summary type="text">Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr... \u00b7 Upvotes: 171 \u00b7 Authors: Jing Liang, Hongyao Tang, Yi Ma</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -101,7 +111,7 @@
     <id>f4599f386c59bd87cf56161e26854819</id>
     <published>2026-06-21T20:00:00.000Z</published>
     <updated>2026-06-21T20:00:00.000Z</updated>
-    <summary type="text">Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constrai... \u00b7 Upvotes: 8 \u00b7 GitHub Stars: 1656 \u00b7 Authors: Yujia Zheng, Vishal Verma, Mantej Gill</summary>
+    <summary type="text">Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constrai... \u00b7 Upvotes: 8 \u00b7 GitHub Stars: 1657 \u00b7 Authors: Yujia Zheng, Vishal Verma, Mantej Gill</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -111,17 +121,7 @@
     <id>a7c689189eb7a6484ab2786a29a52d86</id>
     <published>2026-06-21T20:00:00.000Z</published>
     <updated>2026-06-21T20:00:00.000Z</updated>
-    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 59 \u00b7 GitHub Stars: 17274 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision</title>
-    <link href="https://arxiv.org/abs/2606.17162"/>
-    <id>b5ea3aba61b82cfd8fde8d58a8972e4b</id>
-    <published>2026-06-14T20:00:00.000Z</published>
-    <updated>2026-06-14T20:00:00.000Z</updated>
-    <summary type="text">Personalized presentation generation requires more than conditioning on a current prompt or template: agents must preserve stable user preferences across tasks, retain newly introduced preferences and... \u00b7 Upvotes: 177 \u00b7 GitHub Stars: 675 \u00b7 Authors: Ye Jin, Yangyang Xu, Jun Zhu</summary>
+    <summary type="text">Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the... \u00b7 Upvotes: 60 \u00b7 GitHub Stars: 18083 \u00b7 Authors: Youyang Yin, Huanhuan Liu, YY</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

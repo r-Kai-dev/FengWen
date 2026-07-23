@@ -4,10 +4,19 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-07-13</updated>
+  <updated>2026-07-23</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>Frontier-Bench: Harder Tasks for Better Agents </title>
+    <link href="https://labs.scale.com/blog/frontier-bench-harder-tasks-for-better-agents"/>
+    <id>abcea28fbcabbd62272a74a0fced3e8a</id>
+    <published>2026-07-23</published>
+    <updated>2026-07-23</updated>
+    <summary type="text">Frontier-Bench, formerly known as Terminal Bench 3, is now live with broader coverage, harder tasks, and frontier tracking. Scale contributed the most tasks of any single organization in the launch set. — By Vijay Bharadwaj, Miguel Romero Calvo, Yannis Yiming He, Ernesto Hernandez, Ying Liu, Lynn Luong, Lucy Ogaz, Shawn Sun, Kai Yang, Daniel Yue Zhang</summary>
+    <category term="Agents"/>
+  </entry>
   <entry>
     <title>From Video Review to Measurement: Building Better Robot Data QC</title>
     <link href="https://labs.scale.com/blog/from-video-review-to-measurement"/>

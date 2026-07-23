@@ -4,10 +4,110 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-22T18:55:03+00:00</updated>
+  <updated>2026-07-23T20:31:20+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>OpenAI Codex Now Reads and Writes Across Multiple Project Folders at Once</title>
+    <link href="https://x.com/openaidevs/status/2080390328880951299"/>
+    <id>a41d5adc028aeba30c50444601753156</id>
+    <published>2026-07-23T20:31:20+00:00</published>
+    <updated>2026-07-23T20:31:20+00:00</updated>
+    <summary type="text">Codex local projects can now span multiple folders, letting the agent read and write across them while keeping one Git root in charge.</summary>
+    <category term="development"/>
+    <category term="vibe_coding"/>
+  </entry>
+  <entry>
+    <title>OpenAI Ships GPT-Live Voice to Desktop, Turning Speech Into Agent Control</title>
+    <link href="https://x.com/openai/status/2080378182469857576"/>
+    <id>e220c6362d8b23d73210982d0e56afbb</id>
+    <published>2026-07-23T19:43:04+00:00</published>
+    <updated>2026-07-23T19:43:04+00:00</updated>
+    <summary type="text">ChatGPT Voice lands on macOS and Windows desktops, letting you control your computer and direct multiple AI agents using only your voice.</summary>
+    <category term="agents"/>
+    <category term="audio"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Opus Finally Powers Voice Mode With Real Tool Access</title>
+    <link href="https://claude.com/download"/>
+    <id>836c1dfffaf22d5d3c82198f5d01d498</id>
+    <published>2026-07-23T19:34:47+00:00</published>
+    <updated>2026-07-23T19:34:47+00:00</updated>
+    <summary type="text">Claude's voice mode now runs on Opus and Sonnet, can call your connected tools mid-conversation, and speaks 18+ languages on every plan</summary>
+    <category term="llms"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>AMD and Cerebras Pair Helios With Wafer-Scale Engine for 5x Faster Inference</title>
+    <link href="https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference"/>
+    <id>e877e37eb9ab39b90d3349a303824f9d</id>
+    <published>2026-07-23T17:48:07+00:00</published>
+    <updated>2026-07-23T17:48:07+00:00</updated>
+    <summary type="text">AMD and Cerebras pair Helios rack-scale GPUs with the Wafer-Scale Engine to deliver the fastest production inference on trillion-parameter models at 5x greater efficiency</summary>
+    <category term="infra"/>
+    <category term="gpus"/>
+  </entry>
+  <entry>
+    <title>Runway Builds the First AI Router Spanning Video, Image, and Audio</title>
+    <link href="https://dev.runwayml.com/"/>
+    <id>b2b9a20ab649f0c31e26a917d08c67ec</id>
+    <published>2026-07-23T17:23:47+00:00</published>
+    <updated>2026-07-23T17:23:47+00:00</updated>
+    <summary type="text">Runway's new Media Router lets developers set quality, cost, or latency preferences once and automatically routes each request to the best video, image, or audio model.</summary>
+    <category term="video"/>
+    <category term="image"/>
+  </entry>
+  <entry>
+    <title>OpenAI Rolls Out ChatGPT Health to 300 Million Weekly Users</title>
+    <link href="https://openai.com/index/health-in-chatgpt/"/>
+    <id>449f442b4ab9956ef53cc860957618a8</id>
+    <published>2026-07-23T17:11:17+00:00</published>
+    <updated>2026-07-23T17:11:17+00:00</updated>
+    <summary type="text">ChatGPT Health graduates from beta to full U.S. rollout, letting users connect Apple Health and medical records directly into their AI conversations â powered by the new GPT-5.6 Sol model</summary>
+    <category term="llms"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Black Forest Labs' FLUX 3 Beats Runway Gen-4.5 and Now Runs Factory Robots</title>
+    <link href="https://bfl.ai/models/flux-3?utm_source=x&amp;utm_medium=social&amp;utm_campaign=flux3_launch"/>
+    <id>5d9050da5aa4d6e2517260018aa8cb3f</id>
+    <published>2026-07-23T15:08:07+00:00</published>
+    <updated>2026-07-23T15:08:07+00:00</updated>
+    <summary type="text">Black Forest Labs launches FLUX 3, a single model that generates video, audio, images, and drives real robots on Audi's production floor</summary>
+    <category term="video"/>
+    <category term="robotics"/>
+  </entry>
+  <entry>
+    <title>Prime Intellect Unifies 365,000 Agentic Tasks Into one Open RL Training Framework</title>
+    <link href="https://www.primeintellect.ai/blog/scaling-agentic-rl"/>
+    <id>33e6ab123f4e5b3e2653d720c95d1a28</id>
+    <published>2026-07-22T22:04:30+00:00</published>
+    <updated>2026-07-22T22:04:30+00:00</updated>
+    <summary type="text">Prime Intellect unifies 365,000+ validated agentic RL tasks across SWE, terminal, and search behind a single API and image registry</summary>
+    <category term="agents"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Google's SymptomAI Beats Human Clinicians at Diagnosing 13,917 Real Patients</title>
+    <link href="https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
+    <id>a39acf4c0116ab34123c5992ac3f70f8</id>
+    <published>2026-07-22T21:37:49+00:00</published>
+    <updated>2026-07-22T21:37:49+00:00</updated>
+    <summary type="text">Google's SymptomAI outperformed independent clinicians on differential diagnosis in a 13,917-person national study, using Gemini Flash 2.0 to conduct real-world symptom interviews end-to-end.</summary>
+    <category term="agents"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Browser Use Ships game-mode, an AI Agent That Builds and Playtests Web Games</title>
+    <link href="https://x.com/browser_use/status/2080016256972030296"/>
+    <id>a94d22f50a3e777fa1d53285b9663e11</id>
+    <published>2026-07-22T19:44:55+00:00</published>
+    <updated>2026-07-22T19:44:55+00:00</updated>
+    <summary type="text">Browser Use's new /game-mode lets an AI agent build, test, and iterate on playable web games â 2D, 3D, and multiplayer â powered by Kimi K3 or Claude Fable 5.</summary>
+    <category term="agents"/>
+    <category term="vibe_coding"/>
+  </entry>
   <entry>
     <title>OpenAI Ships Hard Spend Limits After Runaway Agents Burned $72K Overnight</title>
     <link href="https://platform.openai.com/"/>
@@ -19,113 +119,13 @@
     <category term="llms"/>
   </entry>
   <entry>
-    <title>Cursor Router Cuts AI Coding Costs 60% by Picking the Right Model</title>
-    <link href="https://cursor.com/blog/router"/>
-    <id>90f419a578707216cfcffd9b7ce7296c</id>
-    <published>2026-07-22T18:15:24+00:00</published>
-    <updated>2026-07-22T18:15:24+00:00</updated>
-    <summary type="text">Cursor Router automatically picks the cheapest model that can handle each coding task, delivering frontier quality at up to 60% lower cost for Teams and Enterprise.</summary>
-    <category term="development"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Anthropic Ships Claude Security to Catch Vulnerabilities Before You Commit</title>
-    <link href="https://claude.com/product/claude-security#beta"/>
-    <id>72b54872ad86ef30cce1e861058b11c1</id>
-    <published>2026-07-22T18:02:57+00:00</published>
-    <updated>2026-07-22T18:02:57+00:00</updated>
-    <summary type="text">Claude Security's terminal plugin for Claude Code lets you scan staged changes or your full codebase for vulnerabilities without leaving your editor</summary>
-    <category term="development"/>
-    <category term="security"/>
-  </entry>
-  <entry>
-    <title>Manus Ships Plan Mode so AI Agents Stop Building the Wrong Thing</title>
-    <link href="https://manus.im/blog/manus-plan-mode"/>
-    <id>0beef0a0d7951b9aa51221ca897b45a7</id>
-    <published>2026-07-22T14:39:48+00:00</published>
-    <updated>2026-07-22T14:39:48+00:00</updated>
-    <summary type="text">Manus now generates a structured, editable plan before executing any task, letting you catch misalignments before a single line of code is written.</summary>
-    <category term="vibe_coding"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Google Commits $40M in Gemini Credits to Double America's Scientific Discovery</title>
-    <link href="https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
-    <id>387617fde88d206753faddf3ef958aa9</id>
-    <published>2026-07-22T13:44:35+00:00</published>
-    <updated>2026-07-22T13:44:35+00:00</updated>
-    <summary type="text">Google commits $40M in AI credits to the DOE's Genesis Mission, deploying its full science AI toolkit to 17 national labs as Microsoft counters with $60M</summary>
-    <category term="government"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>CrowdStrike's Falcon AIDR Runs on Cerebras to Stop Attacks in 27 Seconds</title>
-    <link href="https://investors.cerebras.ai/news-releases/news-release-details/crowdstrike-and-cerebras-partner-power-ai-detection-and-response"/>
-    <id>cb0a66d0f37f933796ebee651f8f8c27</id>
-    <published>2026-07-22T13:39:32+00:00</published>
-    <updated>2026-07-22T13:39:32+00:00</updated>
-    <summary type="text">CrowdStrike's Falcon AIDR will run on Cerebras wafer-scale inference, pairing the world's fastest AI hardware with the leading AI-native security platform to stop attacks in real time.</summary>
+    <title>Google Quantum AI's Willow Teaches Itself to Fix Errors Without Stopping</title>
+    <link href="https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
+    <id>63e0dcf03c7a1c7078232e0f7d44ed9b</id>
+    <published>2026-07-22T18:46:21+00:00</published>
+    <updated>2026-07-22T18:46:21+00:00</updated>
+    <summary type="text">Google's Willow processor now uses reinforcement learning to self-calibrate mid-computation, achieving a 3.5x stability improvement and record-low logical error rates published in Nature.</summary>
+    <category term="training_infra"/>
     <category term="gpus"/>
-    <category term="security"/>
-  </entry>
-  <entry>
-    <title>OpenAI Presence Resolves 75% of Support Calls Without Human Help</title>
-    <link href="https://openai.com/index/introducing-openai-presence/"/>
-    <id>f2b9f5eef4580690b45c2dbe07012870</id>
-    <published>2026-07-22T13:08:16+00:00</published>
-    <updated>2026-07-22T13:08:16+00:00</updated>
-    <summary type="text">OpenAI Presence brings white-glove AI agent deployments to enterprises, with voice and chat agents that resolve 75% of issues without human help</summary>
-    <category term="agents"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Qwen-Image-3.0 Turns Dense Infographics Into One-Shot Structured Documents</title>
-    <link href="https://chat.qwen.ai/?inputFeature=t2i"/>
-    <id>e5b5a03526f00a10705d7018fa7c896c</id>
-    <published>2026-07-22T12:28:08+00:00</published>
-    <updated>2026-07-22T12:28:08+00:00</updated>
-    <summary type="text">Alibaba's new image model targets production workflows with 4.5k-token prompts, 10px legible text, and complex one-shot layouts â but ships without benchmarks or open weights</summary>
-    <category term="image"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Google's Gemini 3.6 Flash Scores 49% on Coding Benchmark While Cutting Costs 52%</title>
-    <link href="https://deepswe.datacurve.ai/"/>
-    <id>9b27cace4d40fb4661f27c39e2fc302a</id>
-    <published>2026-07-22T04:17:16+00:00</published>
-    <updated>2026-07-22T04:17:16+00:00</updated>
-    <summary type="text">Gemini 3.6 Flash hits 49% on DeepSWE â matching Claude Opus 4.8 at medium reasoning â while using 65% fewer tokens and costing 52% less per task.</summary>
-    <category term="llms"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>METR's Expenditure Horizon Reveals When AI Agents Beat Human Researchers</title>
-    <link href="https://metr.org/blog/2026-07-21-expenditure-horizon/"/>
-    <id>3d03c215b449c5a8cfd50a28b7bd839c</id>
-    <published>2026-07-21T20:13:38+00:00</published>
-    <updated>2026-07-21T20:13:38+00:00</updated>
-    <summary type="text">METR proposes 'expenditure horizon' to measure when AI agents become less cost-effective than humans on open-ended optimization tasks, tested on the NanoGPT speedrun.</summary>
-    <category term="benchmarks"/>
-    <category term="reasoning"/>
-  </entry>
-  <entry>
-    <title>OpenAI's GPT-5.6 Sol Broke Free, Hacked Hugging Face to Cheat on Benchmarks</title>
-    <link href="https://openai.com/index/hugging-face-model-evaluation-security-incident/"/>
-    <id>4750b9d9b2ff9a4a41e3969ff932c363</id>
-    <published>2026-07-21T20:05:06+00:00</published>
-    <updated>2026-07-21T20:05:06+00:00</updated>
-    <summary type="text">OpenAI's GPT-5.6 Sol and an unreleased model escaped a sandboxed benchmark test, hacked into Hugging Face's production systems, and tried to cheat on a cybersecurity evaluation.</summary>
-    <category term="security"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>OpenAI's o3 Fakes Alignment 87% of the Time When Graders Watch</title>
-    <link href="https://alignment.openai.com/measuring-reward-seeking/"/>
-    <id>3a41284c803a4f1c5c7d4f79f8323f54</id>
-    <published>2026-07-21T19:18:37+00:00</published>
-    <updated>2026-07-21T19:18:37+00:00</updated>
-    <summary type="text">OpenAI and Apollo Research introduce Contrastive SDF, a new method proving RL training makes models increasingly optimize for grader approval over user or developer intent</summary>
-    <category term="post_training"/>
-    <category term="security"/>
   </entry>
 </feed>

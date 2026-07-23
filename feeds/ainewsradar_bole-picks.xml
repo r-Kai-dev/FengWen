@@ -4,42 +4,29 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-07-22T19:33:48+00:00</updated>
+  <updated>2026-07-23T19:55:29.530000+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录 / Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win</title>
-    <link href="https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win"/>
-    <id>7f3779636a86cc5db24454b8d60334d3</id>
-    <published>2026-07-22T19:33:48+00:00</published>
-    <updated>2026-07-22T19:33:48+00:00</updated>
-    <summary type="text">Score: 0.807\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode</title>
+    <link href="https://claude.com/blog/think-through-hard-problems-in-voice-mode"/>
+    <id>91437b6a991969936f0c46d359a94847</id>
+    <published>2026-07-23T19:55:29.530000+00:00</published>
+    <updated>2026-07-23T19:55:29.530000+00:00</updated>
+    <summary type="text">Score: 0.775\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因 / How OpenAI's human mistake led to the AI-powered hack on Hugging Face</title>
-    <link href="https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face"/>
-    <id>1d0d33a2d5aa842c25ddfad3f6c3ec92</id>
-    <published>2026-07-22T19:11:46+00:00</published>
-    <updated>2026-07-22T19:11:46+00:00</updated>
-    <summary type="text">Score: 0.813\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Copilot对比原始API接入：你到底在为什么付费？ / Copilot vs. raw API access: What are you actually paying for?</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for"/>
-    <id>86a336b37ea894d1e16dda229d8ca964</id>
-    <published>2026-07-22T19:00:00+00:00</published>
-    <updated>2026-07-22T19:00:00+00:00</updated>
-    <summary type="text">Score: 0.848\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GitHub Mobile：用 Copilot cloud agent 修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent</title>
+    <link href="https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent"/>
+    <id>9f309601161e00eb2720d243c9be8c87</id>
+    <published>2026-07-23T19:47:58+00:00</published>
+    <updated>2026-07-23T19:47:58+00:00</updated>
+    <summary type="text">Score: 0.857\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -47,12 +34,85 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers</title>
-    <link href="https://github.com/marcelroed/gigatoken"/>
-    <id>95cf664e5c088e5d88d25a1c4733ccf5</id>
-    <published>2026-07-22T18:51:32.473000+00:00</published>
-    <updated>2026-07-22T18:51:32.473000+00:00</updated>
-    <summary type="text">Score: 0.800\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>ChatGPT 桌面版上线语音控制多智能体 / ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…</title>
+    <link href="https://x.com/OpenAI/status/2080378182469857576"/>
+    <id>7ef42b44a48ec5a3a21d03207414a41c</id>
+    <published>2026-07-23T19:43:04+00:00</published>
+    <updated>2026-07-23T19:43:04+00:00</updated>
+    <summary type="text">Score: 0.787\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建</title>
+    <link href="https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all"/>
+    <id>109d4d5f4772b86cad11b356e7c121bb</id>
+    <published>2026-07-23T18:35:29.016000+00:00</published>
+    <updated>2026-07-23T18:35:29.016000+00:00</updated>
+    <summary type="text">Score: 0.772\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>公开预览版中新增项目和议题的多选字段 / Multi-select fields for Projects and Issues in public preview</title>
+    <link href="https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview"/>
+    <id>4b6c53905e671b1977db1e7a9bea167f</id>
+    <published>2026-07-23T18:19:14+00:00</published>
+    <updated>2026-07-23T18:19:14+00:00</updated>
+    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes</title>
+    <link href="https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes"/>
+    <id>8ae41ef3a14f81075815f349f8e5f8fa</id>
+    <published>2026-07-23T17:01:30+00:00</published>
+    <updated>2026-07-23T17:01:30+00:00</updated>
+    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>微软MAI模型：以更低成本实现前沿能力规模化 / http://x.com/i/article/2080328073724260352</title>
+    <link href="https://x.com/satyanadella/status/2080329851127669104"/>
+    <id>62fab718cbc8156db6aa82fbba9fd2a3</id>
+    <published>2026-07-23T16:31:01+00:00</published>
+    <updated>2026-07-23T16:31:01+00:00</updated>
+    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GitHub Issues 中的 Agent 自动化控件进入公开预览 / Agent automation controls in GitHub Issues in public preview</title>
+    <link href="https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview"/>
+    <id>329656751c51a17d27118e73951687e6</id>
+    <published>2026-07-23T15:30:29+00:00</published>
+    <updated>2026-07-23T15:30:29+00:00</updated>
+    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini</title>
+    <link href="https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini"/>
+    <id>91c09065399c64994a70ce117a66325d</id>
+    <published>2026-07-23T14:52:44+00:00</published>
+    <updated>2026-07-23T14:52:44+00:00</updated>
+    <summary type="text">Score: 0.779\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -60,23 +120,24 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …</title>
-    <link href="https://x.com/MSFTResearch/status/2079989338994069511"/>
-    <id>46f9797310e78e868ee38b7abae269ee</id>
-    <published>2026-07-22T17:57:57+00:00</published>
-    <updated>2026-07-22T17:57:57+00:00</updated>
-    <summary type="text">Score: 0.764\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era</title>
+    <link href="https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"/>
+    <id>e93fd624c4e96aedc239b3125605af63</id>
+    <published>2026-07-23T14:00:00+00:00</published>
+    <updated>2026-07-23T14:00:00+00:00</updated>
+    <summary type="text">Score: 0.777\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>从提示词到任务：多模态交互单元提升AI智能体效率 / http://x.com/i/article/2079981292108582912</title>
-    <link href="https://x.com/omarsar0/status/2079982491578827214"/>
-    <id>55247940b2af38d7e31dc0b169dfec9d</id>
-    <published>2026-07-22T17:30:44+00:00</published>
-    <updated>2026-07-22T17:30:44+00:00</updated>
+    <title>通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…</title>
+    <link href="https://x.com/Alibaba_Qwen/status/2080270065547809133"/>
+    <id>441759017cb5b1c410d445de80839396</id>
+    <published>2026-07-23T12:33:27+00:00</published>
+    <updated>2026-07-23T12:33:27+00:00</updated>
     <summary type="text">Score: 0.769\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
@@ -84,178 +145,110 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据 / Ask Claude about the Anthropic Economic Index</title>
-    <link href="https://www.anthropic.com/news/anthropic-economic-index-connector"/>
-    <id>dbaeff1136b9ebf088063540cc07d71f</id>
-    <published>2026-07-22T17:23:31.324000+00:00</published>
-    <updated>2026-07-22T17:23:31.324000+00:00</updated>
-    <summary type="text">Score: 0.802\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Copilot新使用指标影响仪表板 / New Copilot usage metrics impact dashboard</title>
-    <link href="https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard"/>
-    <id>a7f6815e737bc70a646ea57b413d4bea</id>
-    <published>2026-07-22T16:21:47+00:00</published>
-    <updated>2026-07-22T16:21:47+00:00</updated>
-    <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>即将到来的GHES变更影响上传支持包 / Upcoming GHES change impacting uploading support bundles</title>
-    <link href="https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles"/>
-    <id>08a4cdcf4b9d13b25af0cd2b00e84931</id>
-    <published>2026-07-22T15:05:19+00:00</published>
-    <updated>2026-07-22T15:05:19+00:00</updated>
-    <summary type="text">Score: 0.830\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元</title>
-    <link href="https://www.ithome.com/0/980/322.htm"/>
-    <id>c81bc23cf77ffddc5090d2b5fee3ea8d</id>
-    <published>2026-07-22T14:12:49+00:00</published>
-    <updated>2026-07-22T14:12:49+00:00</updated>
-    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AMD 投资 50 亿，Anthropic 采购 2GW GPU / AMD HAS JUST ANNOUNCED AN ANTHROPIC DEAL WHERE THEY ARE INVESTING UP TO 5 BILLION IN EXCHANGE FOR AN…</title>
-    <link href="https://x.com/SemiAnalysis_/status/2079929602429141215"/>
-    <id>865166f40a1949532b3212df2648ac16</id>
-    <published>2026-07-22T14:00:35+00:00</published>
-    <updated>2026-07-22T14:00:35+00:00</updated>
-    <summary type="text">Score: 0.763\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>加速科学发现前沿：Google 向 Genesis Mission 投入4000万美元 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
-    <link href="https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission"/>
-    <id>d82e1321cbc700aa6ffa51a03f8132c3</id>
-    <published>2026-07-22T13:38:54+00:00</published>
-    <updated>2026-07-22T13:38:54+00:00</updated>
-    <summary type="text">Score: 0.827\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>与Effingham County社区共建AI基础设施 / Building AI infrastructure with the Effingham County community</title>
-    <link href="https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"/>
-    <id>6a7d6abb54dc7d74637c70acf8b0507a</id>
-    <published>2026-07-22T13:00:00+00:00</published>
-    <updated>2026-07-22T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>新闻机构如何利用AI推进其重要使命 / How news organizations are using AI to advance their vital missions</title>
-    <link href="https://openai.com/index/how-news-organizations-are-using-ai"/>
-    <id>bf5d359724d638baf65c8d599a36f140</id>
-    <published>2026-07-22T13:00:00+00:00</published>
-    <updated>2026-07-22T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>来自Galaxy Unpacked 2026的3项谷歌更新 / 3 Google updates from Galaxy Unpacked 2026</title>
-    <link href="https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026"/>
-    <id>8ed87a4def6c4e97ec49bb0fad0735df</id>
-    <published>2026-07-22T13:00:00+00:00</published>
-    <updated>2026-07-22T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼</title>
-    <link href="https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg"/>
-    <id>1c38361b693c25b63f966445f1a07d00</id>
-    <published>2026-07-22T12:34:24+00:00</published>
-    <updated>2026-07-22T12:34:24+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>通义千问发布Qwen-Image-3.0：主打&quot;真实&quot;的第三代图像生成模型 / 🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…</title>
-    <link href="https://x.com/Alibaba_Qwen/status/2079906336381509659"/>
-    <id>af2f7018fbd7859bfbf1a5fb14f4d4fe</id>
-    <published>2026-07-22T12:28:08+00:00</published>
-    <updated>2026-07-22T12:28:08+00:00</updated>
-    <summary type="text">Score: 0.751\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断</title>
-    <link href="https://www.aibase.com/news/29808"/>
-    <id>432534a33fcbd0208e2cabf669812d1f</id>
-    <published>2026-07-22T12:03:45.707911+00:00</published>
-    <updated>2026-07-22T12:03:45.707911+00:00</updated>
+    <title>国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列</title>
+    <link href="https://www.aibase.com/news/29844"/>
+    <id>e7f88a30be76dec4324631f9d054a8e7</id>
+    <published>2026-07-23T12:03:04.665974+00:00</published>
+    <updated>2026-07-23T12:03:04.665974+00:00</updated>
     <summary type="text">Score: 0.747\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI Presence 正式发布 / Introducing OpenAI Presence</title>
-    <link href="https://openai.com/index/introducing-openai-presence"/>
-    <id>4a93956b3707229a0729ff2b015fabea</id>
-    <published>2026-07-22T05:30:00+00:00</published>
-    <updated>2026-07-22T05:30:00+00:00</updated>
-    <summary type="text">Score: 0.842\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本</title>
+    <link href="https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag"/>
+    <id>d767068fe9a863f0bed321b63293312f</id>
+    <published>2026-07-23T11:20:00+00:00</published>
+    <updated>2026-07-23T11:20:00+00:00</updated>
+    <summary type="text">Score: 0.728\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面</title>
+    <link href="https://www.aibase.com/news/29843"/>
+    <id>96f7b39f1f19559200a8fb87f575a2e2</id>
+    <published>2026-07-23T09:37:06.742476+00:00</published>
+    <updated>2026-07-23T09:37:06.742476+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%</title>
+    <link href="https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA"/>
+    <id>8fddff02da0a312a0cbe4aba2237205f</id>
+    <published>2026-07-23T04:00:00+00:00</published>
+    <updated>2026-07-23T04:00:00+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存&quot;作弊&quot;行为</title>
+    <link href="https://www.ithome.com/0/980/471.htm"/>
+    <id>994b14a929247168bbcf3ac7a512666c</id>
+    <published>2026-07-23T02:51:59+00:00</published>
+    <updated>2026-07-23T02:51:59+00:00</updated>
+    <summary type="text">Score: 0.725\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>ChatGPT Voice 与多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>4dce9feb746ca84d3f81d21e7ab4a448</id>
+    <published>2026-07-23T00:00:00+00:00</published>
+    <updated>2026-07-23T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
   </entry>
   <entry>
-    <title>法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议</title>
-    <link href="https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63"/>
-    <id>297844533dbc149c1e3462cb995b8322</id>
-    <published>2026-07-22T04:52:13.369000+00:00</published>
-    <updated>2026-07-22T04:52:13.369000+00:00</updated>
-    <summary type="text">Score: 0.777\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>ChatGPT推出健康功能 / Launching Health in ChatGPT</title>
+    <link href="https://openai.com/index/health-in-chatgpt"/>
+    <id>38d375471881fa9585557149c596f77f</id>
+    <published>2026-07-23T00:00:00+00:00</published>
+    <updated>2026-07-23T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.814\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>将Nunchaku 4位扩散推理引入Diffusers / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers</title>
+    <link href="https://huggingface.co/blog/nunchaku-diffusers"/>
+    <id>5c5036d1bbf0c609c65f35c9ac22ffa5</id>
+    <published>2026-07-23T00:00:00+00:00</published>
+    <updated>2026-07-23T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction that happened</title>
+    <link href="https://simonwillison.net/2026/Jul/22/openai-cyberattack"/>
+    <id>ae73c0dac417f02d96acffb4fabd27c0</id>
+    <published>2026-07-22T23:51:33+00:00</published>
+    <updated>2026-07-22T23:51:33+00:00</updated>
+    <summary type="text">Score: 0.840\nSources: 7 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="industry"/>
+    <category term="multi_source"/>
   </entry>
 </feed>

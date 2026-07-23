@@ -4,7 +4,7 @@
   <icon>https://codeberg.org/r-Kai/FengWen/raw/branch/main/assets/vals_favicon.png</icon>
   <link href="https://www.vals.ai/news"/>
   <id>https://www.vals.ai/news</id>
-  <updated>2026-07-22T21:02:01.957022+00:00</updated>
+  <updated>2026-07-23T21:01:39.561680+00:00</updated>
   <author>
     <name>Vals AI</name>
   </author>
@@ -12,9 +12,25 @@
     <title>Vals Public Sector Memo</title>
     <link href="https://www.vals.ai/blogs/vals-public-sector-memo"/>
     <id>1be8654429483836f97b259049b9a2ea</id>
-    <published>2026-07-22T21:02:01.957022+00:00</published>
-    <updated>2026-07-22T21:02:01.957022+00:00</updated>
+    <published>2026-07-23T21:01:39.561680+00:00</published>
+    <updated>2026-07-23T21:01:39.561680+00:00</updated>
     <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>Introducing the Web Search Index: native provider search vs. independent web-search tools</title>
+    <link href="https://www.vals.ai/benchmarks/web_search"/>
+    <id>2cfd8735f5af1c27e0533d6c508cc4b3</id>
+    <published>2026-07-23T00:00:00+00:00</published>
+    <updated>2026-07-23T00:00:00+00:00</updated>
+    <category term="Benchmark"/>
+  </entry>
+  <entry>
+    <title>Google's Gemini 3.5 Flash Lite evaluated on the Vals Index</title>
+    <link href="https://www.vals.ai/models/google_gemini-3.5-flash-lite"/>
+    <id>6263455d653ce88e40d15837eb1cc12e</id>
+    <published>2026-07-21T00:00:00+00:00</published>
+    <updated>2026-07-21T00:00:00+00:00</updated>
+    <category term="Model"/>
   </entry>
   <entry>
     <title>Google's Gemini 3.6 Flash evaluated on the Vals Index</title>
@@ -87,22 +103,6 @@
     <published>2026-06-30T00:00:00+00:00</published>
     <updated>2026-06-30T00:00:00+00:00</updated>
     <category term="Model"/>
-  </entry>
-  <entry>
-    <title>CyberBench Released</title>
-    <link href="https://www.vals.ai/benchmarks/cyber"/>
-    <id>ac9f9d7188cfdd84b2e1ecc32474a316</id>
-    <published>2026-06-30T00:00:00+00:00</published>
-    <updated>2026-06-30T00:00:00+00:00</updated>
-    <category term="Benchmark"/>
-  </entry>
-  <entry>
-    <title>Legal Research Bench Released</title>
-    <link href="https://www.vals.ai/benchmarks/legal_research"/>
-    <id>7a03512d32598b934ae7bfa2280c939b</id>
-    <published>2026-06-23T00:00:00+00:00</published>
-    <updated>2026-06-23T00:00:00+00:00</updated>
-    <category term="Benchmark"/>
   </entry>
   <entry>
     <title>SpaceX Has the Worst AI. But It’s Still Reaping the Benefits of Being the First Big AI Company to IPO</title>

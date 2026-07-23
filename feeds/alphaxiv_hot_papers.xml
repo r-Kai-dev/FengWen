@@ -4,22 +4,30 @@
   <icon>https://www.alphaxiv.org/favicon.ico</icon>
   <link href="https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days"/>
   <id>https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days</id>
-  <updated>2026-07-21T00:00:00+00:00</updated>
+  <updated>2026-07-22T00:00:00+00:00</updated>
   <author>
     <name>alphaXiv</name>
   </author>
   <entry>
-    <title>ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU</title>
-    <link href="https://www.alphaxiv.org/abs/2607.19191"/>
-    <id>3ee8046e448742d37160bc9e651f7905</id>
-    <published>2026-07-21T00:00:00+00:00</published>
-    <updated>2026-07-21T00:00:00+00:00</updated>
+    <title>Measuring Reward-Seeking via Contrastive Belief Updates</title>
+    <link href="https://www.alphaxiv.org/abs/2607.measuring-reward-seeking"/>
+    <id>504944a4fe9329208c1a827ce2d9781e</id>
+    <published>2026-07-22T00:00:00+00:00</published>
+    <updated>2026-07-22T00:00:00+00:00</updated>
     <category term="hot"/>
   </entry>
   <entry>
-    <title>Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing</title>
-    <link href="https://www.alphaxiv.org/abs/2607.19064"/>
-    <id>fa77276307587f4df552d8eb407cd337</id>
+    <title>Self Gradient Forcing: Native Long Video Extrapolation</title>
+    <link href="https://www.alphaxiv.org/abs/2607.20368"/>
+    <id>fadaa8c91090fdb277ba7850a64cc3e1</id>
+    <published>2026-07-22T00:00:00+00:00</published>
+    <updated>2026-07-22T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
+  <entry>
+    <title>ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU</title>
+    <link href="https://www.alphaxiv.org/abs/2607.19191"/>
+    <id>3ee8046e448742d37160bc9e651f7905</id>
     <published>2026-07-21T00:00:00+00:00</published>
     <updated>2026-07-21T00:00:00+00:00</updated>
     <category term="hot"/>
@@ -33,17 +41,9 @@
     <category term="hot"/>
   </entry>
   <entry>
-    <title>LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks</title>
-    <link href="https://www.alphaxiv.org/abs/2607.18110"/>
-    <id>280942e8b056077fe399c0b09ace71a1</id>
-    <published>2026-07-20T00:00:00+00:00</published>
-    <updated>2026-07-20T00:00:00+00:00</updated>
-    <category term="hot"/>
-  </entry>
-  <entry>
-    <title>Language model harnesses are compositional generalizers</title>
-    <link href="https://www.alphaxiv.org/abs/2607.language-model-harnesses"/>
-    <id>d8e958165f13afbfe39726e54d56c1f0</id>
+    <title>Intelligence from Learnable Novelty</title>
+    <link href="https://www.alphaxiv.org/abs/2607.18433"/>
+    <id>252d06a3e5a62124da42b2291e45f28b</id>
     <published>2026-07-20T00:00:00+00:00</published>
     <updated>2026-07-20T00:00:00+00:00</updated>
     <category term="hot"/>
