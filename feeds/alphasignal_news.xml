@@ -4,128 +4,118 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-23T20:31:20+00:00</updated>
+  <updated>2026-07-24T18:55:54+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>OpenAI Codex Now Reads and Writes Across Multiple Project Folders at Once</title>
-    <link href="https://x.com/openaidevs/status/2080390328880951299"/>
-    <id>a41d5adc028aeba30c50444601753156</id>
-    <published>2026-07-23T20:31:20+00:00</published>
-    <updated>2026-07-23T20:31:20+00:00</updated>
-    <summary type="text">Codex local projects can now span multiple folders, letting the agent read and write across them while keeping one Git root in charge.</summary>
+    <title>Nous Research's Hermes Agent Stops AI Sandboxes From Leaking Your API Keys</title>
+    <link href="https://hermes-agent.nousresearch.com/docs/user-guide/egress/iron-proxy"/>
+    <id>13d7f07ef036f479f4037c6b12bb63f9</id>
+    <published>2026-07-24T18:55:54+00:00</published>
+    <updated>2026-07-24T18:55:54+00:00</updated>
+    <summary type="text">Hermes Agent's new iron-proxy keeps real API keys off Docker sandboxes, replacing them with disposable tokens swapped at the network boundary</summary>
+    <category term="agents"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>xAI's Grok Build Now Lets Coding Agents Search 500B URLs Instantly</title>
+    <link href="https://exa.ai/docs/integrations/grok-build"/>
+    <id>76fac7f29596ad13bd66b506a944a9ef</id>
+    <published>2026-07-24T18:45:16+00:00</published>
+    <updated>2026-07-24T18:45:16+00:00</updated>
+    <summary type="text">Exa's AI-native web search is now a one-command install inside xAI's Grok Build terminal agent, bringing real-time search and deep research to coding workflows</summary>
+    <category term="agents"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>OpenAI's ChatGPT Work Agent Can Now Access Password-Protected Sites</title>
+    <link href="https://x.com/openaidevs/status/2080707685448847418"/>
+    <id>5155af3090f28b93164f50ff53e8b70e</id>
+    <published>2026-07-24T17:32:24+00:00</published>
+    <updated>2026-07-24T17:32:24+00:00</updated>
+    <summary type="text">ChatGPT Work agents can now reach login-gated websites via a human takeover step, with sessions that persist across runs</summary>
+    <category term="agents"/>
     <category term="development"/>
+  </entry>
+  <entry>
+    <title>Vercel's v0 Ships Anthropic's Claude Opus 5 at Half the Frontier Cost</title>
+    <link href="https://v0.app/?opus5"/>
+    <id>751538f8eeaeb109ea3704a4d10b93e9</id>
+    <published>2026-07-24T17:29:17+00:00</published>
+    <updated>2026-07-24T17:29:17+00:00</updated>
+    <summary type="text">Anthropic's Claude Opus 5 lands in v0 on launch day, bringing near-Fable-5 intelligence to full-stack app generation at half the price</summary>
     <category term="vibe_coding"/>
-  </entry>
-  <entry>
-    <title>OpenAI Ships GPT-Live Voice to Desktop, Turning Speech Into Agent Control</title>
-    <link href="https://x.com/openai/status/2080378182469857576"/>
-    <id>e220c6362d8b23d73210982d0e56afbb</id>
-    <published>2026-07-23T19:43:04+00:00</published>
-    <updated>2026-07-23T19:43:04+00:00</updated>
-    <summary type="text">ChatGPT Voice lands on macOS and Windows desktops, letting you control your computer and direct multiple AI agents using only your voice.</summary>
-    <category term="agents"/>
-    <category term="audio"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Opus Finally Powers Voice Mode With Real Tool Access</title>
-    <link href="https://claude.com/download"/>
-    <id>836c1dfffaf22d5d3c82198f5d01d498</id>
-    <published>2026-07-23T19:34:47+00:00</published>
-    <updated>2026-07-23T19:34:47+00:00</updated>
-    <summary type="text">Claude's voice mode now runs on Opus and Sonnet, can call your connected tools mid-conversation, and speaks 18+ languages on every plan</summary>
     <category term="llms"/>
-    <category term="api"/>
   </entry>
   <entry>
-    <title>AMD and Cerebras Pair Helios With Wafer-Scale Engine for 5x Faster Inference</title>
-    <link href="https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference"/>
-    <id>e877e37eb9ab39b90d3349a303824f9d</id>
-    <published>2026-07-23T17:48:07+00:00</published>
-    <updated>2026-07-23T17:48:07+00:00</updated>
-    <summary type="text">AMD and Cerebras pair Helios rack-scale GPUs with the Wafer-Scale Engine to deliver the fastest production inference on trillion-parameter models at 5x greater efficiency</summary>
-    <category term="infra"/>
-    <category term="gpus"/>
-  </entry>
-  <entry>
-    <title>Runway Builds the First AI Router Spanning Video, Image, and Audio</title>
-    <link href="https://dev.runwayml.com/"/>
-    <id>b2b9a20ab649f0c31e26a917d08c67ec</id>
-    <published>2026-07-23T17:23:47+00:00</published>
-    <updated>2026-07-23T17:23:47+00:00</updated>
-    <summary type="text">Runway's new Media Router lets developers set quality, cost, or latency preferences once and automatically routes each request to the best video, image, or audio model.</summary>
-    <category term="video"/>
-    <category term="image"/>
-  </entry>
-  <entry>
-    <title>OpenAI Rolls Out ChatGPT Health to 300 Million Weekly Users</title>
-    <link href="https://openai.com/index/health-in-chatgpt/"/>
-    <id>449f442b4ab9956ef53cc860957618a8</id>
-    <published>2026-07-23T17:11:17+00:00</published>
-    <updated>2026-07-23T17:11:17+00:00</updated>
-    <summary type="text">ChatGPT Health graduates from beta to full U.S. rollout, letting users connect Apple Health and medical records directly into their AI conversations â powered by the new GPT-5.6 Sol model</summary>
+    <title>Anthropic's Claude Opus 5 Matches Flagship Intelligence at Half the Price</title>
+    <link href="https://x.com/lovable/status/2080703545389809780"/>
+    <id>3d4bad43f3dd7bfb01b127d2094d18dd</id>
+    <published>2026-07-24T17:15:57+00:00</published>
+    <updated>2026-07-24T17:15:57+00:00</updated>
+    <summary type="text">Claude Opus 5 lands in Lovable with a 22% coding boost over Opus 4.7, same price as its predecessor, and near-Fable-5 intelligence at half the cost</summary>
+    <category term="vibe_coding"/>
     <category term="llms"/>
-    <category term="api"/>
   </entry>
   <entry>
-    <title>Black Forest Labs' FLUX 3 Beats Runway Gen-4.5 and Now Runs Factory Robots</title>
-    <link href="https://bfl.ai/models/flux-3?utm_source=x&amp;utm_medium=social&amp;utm_campaign=flux3_launch"/>
-    <id>5d9050da5aa4d6e2517260018aa8cb3f</id>
-    <published>2026-07-23T15:08:07+00:00</published>
-    <updated>2026-07-23T15:08:07+00:00</updated>
-    <summary type="text">Black Forest Labs launches FLUX 3, a single model that generates video, audio, images, and drives real robots on Audi's production floor</summary>
-    <category term="video"/>
-    <category term="robotics"/>
-  </entry>
-  <entry>
-    <title>Prime Intellect Unifies 365,000 Agentic Tasks Into one Open RL Training Framework</title>
-    <link href="https://www.primeintellect.ai/blog/scaling-agentic-rl"/>
-    <id>33e6ab123f4e5b3e2653d720c95d1a28</id>
-    <published>2026-07-22T22:04:30+00:00</published>
-    <updated>2026-07-22T22:04:30+00:00</updated>
-    <summary type="text">Prime Intellect unifies 365,000+ validated agentic RL tasks across SWE, terminal, and search behind a single API and image registry</summary>
-    <category term="agents"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Google's SymptomAI Beats Human Clinicians at Diagnosing 13,917 Real Patients</title>
-    <link href="https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
-    <id>a39acf4c0116ab34123c5992ac3f70f8</id>
-    <published>2026-07-22T21:37:49+00:00</published>
-    <updated>2026-07-22T21:37:49+00:00</updated>
-    <summary type="text">Google's SymptomAI outperformed independent clinicians on differential diagnosis in a 13,917-person national study, using Gemini Flash 2.0 to conduct real-world symptom interviews end-to-end.</summary>
-    <category term="agents"/>
+    <title>Anthropic's Claude Opus 5 Triples ARC-AGI-3 Scores at Half the Frontier Price</title>
+    <link href="https://www.anthropic.com/news/claude-opus-5"/>
+    <id>ef6d2cd2212fb16bc8b94690f081e93d</id>
+    <published>2026-07-24T16:59:51+00:00</published>
+    <updated>2026-07-24T16:59:51+00:00</updated>
+    <summary type="text">Claude Opus 5 launches with a 3x ARC-AGI-3 lead, Fable 5-class intelligence at half the price, and Anthropic's strongest alignment scores yet</summary>
+    <category term="llms"/>
     <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>Browser Use Ships game-mode, an AI Agent That Builds and Playtests Web Games</title>
-    <link href="https://x.com/browser_use/status/2080016256972030296"/>
-    <id>a94d22f50a3e777fa1d53285b9663e11</id>
-    <published>2026-07-22T19:44:55+00:00</published>
-    <updated>2026-07-22T19:44:55+00:00</updated>
-    <summary type="text">Browser Use's new /game-mode lets an AI agent build, test, and iterate on playable web games â 2D, 3D, and multiplayer â powered by Kimi K3 or Claude Fable 5.</summary>
+    <title>Midjourney Acquires Co-Star to Build a Consumer Product Empire</title>
+    <link href="https://x.com/midjourney/status/2080671833322672148"/>
+    <id>a5cb7b52f6e5f25d2bf1ce4a3178485b</id>
+    <published>2026-07-24T15:09:56+00:00</published>
+    <updated>2026-07-24T15:09:56+00:00</updated>
+    <summary type="text">Midjourney acquires astrology app Co-Star and names its CEO as Chief Design Officer, signaling a major push into consumer software products</summary>
+    <category term="business"/>
+    <category term="image"/>
+  </entry>
+  <entry>
+    <title>Runway Agent Builds Entire AI Video Pipelines From Plain Language</title>
+    <link href="https://app.runwayml.com/agent"/>
+    <id>5f8a75a7c61edc89417e1e2c86acddff</id>
+    <published>2026-07-24T13:40:08+00:00</published>
+    <updated>2026-07-24T13:40:08+00:00</updated>
+    <summary type="text">Runway Agent now builds and edits node-based video pipelines from plain text descriptions, removing the need to wire nodes manually.</summary>
+    <category term="video"/>
     <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Vercel's v0 Turns Any Figma File Into a Full Working App</title>
+    <link href="https://v0.app/docs/figma"/>
+    <id>c763717637482330d808a35cce389f15</id>
+    <published>2026-07-24T12:31:59+00:00</published>
+    <updated>2026-07-24T12:31:59+00:00</updated>
+    <summary type="text">v0 now takes a single Figma file link and autonomously explores every page and frame to build a complete, multi-screen working app</summary>
     <category term="vibe_coding"/>
+    <category term="development"/>
   </entry>
   <entry>
-    <title>OpenAI Ships Hard Spend Limits After Runaway Agents Burned $72K Overnight</title>
-    <link href="https://platform.openai.com/"/>
-    <id>94c43ce68b6212240a89c77cdfab3453</id>
-    <published>2026-07-22T18:55:03+00:00</published>
-    <updated>2026-07-22T18:55:03+00:00</updated>
-    <summary type="text">OpenAI brings true hard spend caps to all API accounts, closing a painful billing gap that left agentic workloads exposed to runaway costs</summary>
-    <category term="api"/>
+    <title>Moonshot's Kimi Code Now Routes Subagents to Cheaper Models, Cutting AI Costs</title>
+    <link href="https://moonshotai.github.io/kimi-code/en/configuration/config-files.html#secondary-model"/>
+    <id>65eac594fb4a6ee5e3e4dc5a2e073468</id>
+    <published>2026-07-24T06:28:08+00:00</published>
+    <updated>2026-07-24T06:28:08+00:00</updated>
+    <summary type="text">Kimi Code CLI 0.29.1 adds per-subagent model routing, OAuth-free web services, and a fix for vLLM reasoning content loss</summary>
+    <category term="agents"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Sakana AI's Fugu-Ultra v1.1 Beats GPT-5.5 and Claude on Coding Benchmarks</title>
+    <link href="https://sakana.ai/fugu/"/>
+    <id>f73a1ee1ff6048ab55fe067a3c311544</id>
+    <published>2026-07-24T00:23:34+00:00</published>
+    <updated>2026-07-24T00:23:34+00:00</updated>
+    <summary type="text">Sakana AI's Fugu-Ultra v1.1 upgrades its multi-model orchestration system with gains of up to 7.9 points across benchmarks, at the same price as v1.0</summary>
     <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Google Quantum AI's Willow Teaches Itself to Fix Errors Without Stopping</title>
-    <link href="https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=social_post&amp;utm_content=gr-acct"/>
-    <id>63e0dcf03c7a1c7078232e0f7d44ed9b</id>
-    <published>2026-07-22T18:46:21+00:00</published>
-    <updated>2026-07-22T18:46:21+00:00</updated>
-    <summary type="text">Google's Willow processor now uses reinforcement learning to self-calibrate mid-computation, achieving a 3.5x stability improvement and record-low logical error rates published in Nature.</summary>
-    <category term="training_infra"/>
-    <category term="gpus"/>
+    <category term="development"/>
   </entry>
 </feed>

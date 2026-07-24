@@ -4,20 +4,237 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-07-23T19:55:29.530000+00:00</updated>
+  <updated>2026-07-24T19:07:52.324000+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
+  <entry>
+    <title>英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管</title>
+    <link href="https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"/>
+    <id>a87758a0acef63171f577e845f04d4d9</id>
+    <published>2026-07-24T19:07:52.324000+00:00</published>
+    <updated>2026-07-24T19:07:52.324000+00:00</updated>
+    <summary type="text">Score: 0.781\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models</title>
+    <link href="https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"/>
+    <id>8b49eecd1ba6abb197dc6392e28e63f0</id>
+    <published>2026-07-24T17:25:50.349000+00:00</published>
+    <updated>2026-07-24T17:25:50.349000+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Opus 5 现已登陆 GitHub Copilot / Claude Opus 5 is now available in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot"/>
+    <id>abca39f6033dd5723abf6fb5652e1715</id>
+    <published>2026-07-24T16:40:04+00:00</published>
+    <updated>2026-07-24T16:40:04+00:00</updated>
+    <summary type="text">Score: 0.852\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？</title>
+    <link href="https://www.anthropic.com/research/project-pilot"/>
+    <id>db3c5e8a109e89ee6a4c99cdbe649900</id>
+    <published>2026-07-24T15:25:45.300000+00:00</published>
+    <updated>2026-07-24T15:25:45.300000+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>蚂蚁百灵发布Ling-3.0-flash原生混合推理模型</title>
+    <link href="https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g"/>
+    <id>43e5728c95fc6cd08a8a56c138918a6d</id>
+    <published>2026-07-24T13:40:30+00:00</published>
+    <updated>2026-07-24T13:40:30+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…</title>
+    <link href="https://x.com/runwayml/status/2080649234672439389"/>
+    <id>ea925bbe38e467f198a87a5c2eb4a5bf</id>
+    <published>2026-07-24T13:40:08+00:00</published>
+    <updated>2026-07-24T13:40:08+00:00</updated>
+    <summary type="text">Score: 0.798\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…</title>
+    <link href="https://x.com/satyanadella/status/2080646162483417097"/>
+    <id>3ff1f86169018e7deeaa210308d10c76</id>
+    <published>2026-07-24T13:27:56+00:00</published>
+    <updated>2026-07-24T13:27:56+00:00</updated>
+    <summary type="text">Score: 0.758\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行</title>
+    <link href="https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug"/>
+    <id>4cd2ae1fc56961b293b3b4894131a356</id>
+    <published>2026-07-24T12:28:24+00:00</published>
+    <updated>2026-07-24T12:28:24+00:00</updated>
+    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台</title>
+    <link href="https://www.aibase.com/news/29881"/>
+    <id>fc3fe980898295c35120851ac31282c2</id>
+    <published>2026-07-24T11:56:06.157386+00:00</published>
+    <updated>2026-07-24T11:56:06.157386+00:00</updated>
+    <summary type="text">Score: 0.748\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权</title>
+    <link href="https://www.aibase.com/news/29879"/>
+    <id>5b37353e93aaf959f084bf9e8d49f005</id>
+    <published>2026-07-24T11:56:06.157386+00:00</published>
+    <updated>2026-07-24T11:56:06.157386+00:00</updated>
+    <summary type="text">Score: 0.748\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why</title>
+    <link href="https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why"/>
+    <id>ffb7c6151e2466ef415266af1cf8e341</id>
+    <published>2026-07-24T09:48:32+00:00</published>
+    <updated>2026-07-24T09:48:32+00:00</updated>
+    <summary type="text">Score: 0.771\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用</title>
+    <link href="https://github.com/izeigerman/claude-thermos"/>
+    <id>75be5e4c8c06c012706ffefe090b1bb8</id>
+    <published>2026-07-24T09:47:29.601000+00:00</published>
+    <updated>2026-07-24T09:47:29.601000+00:00</updated>
+    <summary type="text">Score: 0.789\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>FLUX 3 x mimic：新一代视频动作模型</title>
+    <link href="https://bfl.ai/blog/flux-3-mimic"/>
+    <id>9c183dcbebb59db49c1881d126659116</id>
+    <published>2026-07-24T09:31:48+00:00</published>
+    <updated>2026-07-24T09:31:48+00:00</updated>
+    <summary type="text">Score: 0.782\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频</title>
+    <link href="https://www.ithome.com/0/981/137.htm"/>
+    <id>df315d0421dec23bef23c88f910d2afd</id>
+    <published>2026-07-24T06:48:04+00:00</published>
+    <updated>2026-07-24T06:48:04+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5</title>
+    <link href="https://www.anthropic.com/news/claude-opus-5"/>
+    <id>4ca0b5e2a5a53a2005324420d17e1021</id>
+    <published>2026-07-24T00:00:00+00:00</published>
+    <updated>2026-07-24T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.840\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼</title>
+    <link href="https://www.ithome.com/0/980/890.htm"/>
+    <id>18f0a9ddfb1a800d33ac1af412ed5b17</id>
+    <published>2026-07-23T23:30:43+00:00</published>
+    <updated>2026-07-23T23:30:43+00:00</updated>
+    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Copilot 云端智能体现已对 Linear 全面开放 / Copilot cloud agent for Linear is now generally available</title>
+    <link href="https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available"/>
+    <id>beda11579006d832846cfa28414c2507</id>
+    <published>2026-07-23T22:32:23+00:00</published>
+    <updated>2026-07-23T22:32:23+00:00</updated>
+    <summary type="text">Score: 0.810\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GitHub MCP Server 支持下一代 MCP 规范 / GitHub MCP Server supports the next MCP specification</title>
+    <link href="https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification"/>
+    <id>5fe3fb0c8427c39a4da49b60cc9c4eaa</id>
+    <published>2026-07-23T20:38:22+00:00</published>
+    <updated>2026-07-23T20:38:22+00:00</updated>
+    <summary type="text">Score: 0.801\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
   <entry>
     <title>Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode</title>
     <link href="https://claude.com/blog/think-through-hard-problems-in-voice-mode"/>
     <id>91437b6a991969936f0c46d359a94847</id>
     <published>2026-07-23T19:55:29.530000+00:00</published>
     <updated>2026-07-23T19:55:29.530000+00:00</updated>
-    <summary type="text">Score: 0.775\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <summary type="text">Score: 0.724\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
@@ -26,229 +243,11 @@
     <id>9f309601161e00eb2720d243c9be8c87</id>
     <published>2026-07-23T19:47:58+00:00</published>
     <updated>2026-07-23T19:47:58+00:00</updated>
-    <summary type="text">Score: 0.857\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.805\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
-  </entry>
-  <entry>
-    <title>ChatGPT 桌面版上线语音控制多智能体 / ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…</title>
-    <link href="https://x.com/OpenAI/status/2080378182469857576"/>
-    <id>7ef42b44a48ec5a3a21d03207414a41c</id>
-    <published>2026-07-23T19:43:04+00:00</published>
-    <updated>2026-07-23T19:43:04+00:00</updated>
-    <summary type="text">Score: 0.787\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建</title>
-    <link href="https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all"/>
-    <id>109d4d5f4772b86cad11b356e7c121bb</id>
-    <published>2026-07-23T18:35:29.016000+00:00</published>
-    <updated>2026-07-23T18:35:29.016000+00:00</updated>
-    <summary type="text">Score: 0.772\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>公开预览版中新增项目和议题的多选字段 / Multi-select fields for Projects and Issues in public preview</title>
-    <link href="https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview"/>
-    <id>4b6c53905e671b1977db1e7a9bea167f</id>
-    <published>2026-07-23T18:19:14+00:00</published>
-    <updated>2026-07-23T18:19:14+00:00</updated>
-    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes</title>
-    <link href="https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes"/>
-    <id>8ae41ef3a14f81075815f349f8e5f8fa</id>
-    <published>2026-07-23T17:01:30+00:00</published>
-    <updated>2026-07-23T17:01:30+00:00</updated>
-    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>微软MAI模型：以更低成本实现前沿能力规模化 / http://x.com/i/article/2080328073724260352</title>
-    <link href="https://x.com/satyanadella/status/2080329851127669104"/>
-    <id>62fab718cbc8156db6aa82fbba9fd2a3</id>
-    <published>2026-07-23T16:31:01+00:00</published>
-    <updated>2026-07-23T16:31:01+00:00</updated>
-    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GitHub Issues 中的 Agent 自动化控件进入公开预览 / Agent automation controls in GitHub Issues in public preview</title>
-    <link href="https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview"/>
-    <id>329656751c51a17d27118e73951687e6</id>
-    <published>2026-07-23T15:30:29+00:00</published>
-    <updated>2026-07-23T15:30:29+00:00</updated>
-    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini</title>
-    <link href="https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini"/>
-    <id>91c09065399c64994a70ce117a66325d</id>
-    <published>2026-07-23T14:52:44+00:00</published>
-    <updated>2026-07-23T14:52:44+00:00</updated>
-    <summary type="text">Score: 0.779\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era</title>
-    <link href="https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"/>
-    <id>e93fd624c4e96aedc239b3125605af63</id>
-    <published>2026-07-23T14:00:00+00:00</published>
-    <updated>2026-07-23T14:00:00+00:00</updated>
-    <summary type="text">Score: 0.777\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…</title>
-    <link href="https://x.com/Alibaba_Qwen/status/2080270065547809133"/>
-    <id>441759017cb5b1c410d445de80839396</id>
-    <published>2026-07-23T12:33:27+00:00</published>
-    <updated>2026-07-23T12:33:27+00:00</updated>
-    <summary type="text">Score: 0.769\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列</title>
-    <link href="https://www.aibase.com/news/29844"/>
-    <id>e7f88a30be76dec4324631f9d054a8e7</id>
-    <published>2026-07-23T12:03:04.665974+00:00</published>
-    <updated>2026-07-23T12:03:04.665974+00:00</updated>
-    <summary type="text">Score: 0.747\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本</title>
-    <link href="https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag"/>
-    <id>d767068fe9a863f0bed321b63293312f</id>
-    <published>2026-07-23T11:20:00+00:00</published>
-    <updated>2026-07-23T11:20:00+00:00</updated>
-    <summary type="text">Score: 0.728\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面</title>
-    <link href="https://www.aibase.com/news/29843"/>
-    <id>96f7b39f1f19559200a8fb87f575a2e2</id>
-    <published>2026-07-23T09:37:06.742476+00:00</published>
-    <updated>2026-07-23T09:37:06.742476+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%</title>
-    <link href="https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA"/>
-    <id>8fddff02da0a312a0cbe4aba2237205f</id>
-    <published>2026-07-23T04:00:00+00:00</published>
-    <updated>2026-07-23T04:00:00+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存&quot;作弊&quot;行为</title>
-    <link href="https://www.ithome.com/0/980/471.htm"/>
-    <id>994b14a929247168bbcf3ac7a512666c</id>
-    <published>2026-07-23T02:51:59+00:00</published>
-    <updated>2026-07-23T02:51:59+00:00</updated>
-    <summary type="text">Score: 0.725\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>ChatGPT Voice 与多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>4dce9feb746ca84d3f81d21e7ab4a448</id>
-    <published>2026-07-23T00:00:00+00:00</published>
-    <updated>2026-07-23T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>ChatGPT推出健康功能 / Launching Health in ChatGPT</title>
-    <link href="https://openai.com/index/health-in-chatgpt"/>
-    <id>38d375471881fa9585557149c596f77f</id>
-    <published>2026-07-23T00:00:00+00:00</published>
-    <updated>2026-07-23T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.814\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>将Nunchaku 4位扩散推理引入Diffusers / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers</title>
-    <link href="https://huggingface.co/blog/nunchaku-diffusers"/>
-    <id>5c5036d1bbf0c609c65f35c9ac22ffa5</id>
-    <published>2026-07-23T00:00:00+00:00</published>
-    <updated>2026-07-23T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction that happened</title>
-    <link href="https://simonwillison.net/2026/Jul/22/openai-cyberattack"/>
-    <id>ae73c0dac417f02d96acffb4fabd27c0</id>
-    <published>2026-07-22T23:51:33+00:00</published>
-    <updated>2026-07-22T23:51:33+00:00</updated>
-    <summary type="text">Score: 0.840\nSources: 7 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
   <icon>https://codeberg.org/r-Kai/FengWen/raw/branch/main/assets/vals_favicon.png</icon>
   <link href="https://www.vals.ai/news"/>
   <id>https://www.vals.ai/news</id>
-  <updated>2026-07-23T21:01:39.561680+00:00</updated>
+  <updated>2026-07-24T21:01:44.777459+00:00</updated>
   <author>
     <name>Vals AI</name>
   </author>
@@ -12,9 +12,17 @@
     <title>Vals Public Sector Memo</title>
     <link href="https://www.vals.ai/blogs/vals-public-sector-memo"/>
     <id>1be8654429483836f97b259049b9a2ea</id>
-    <published>2026-07-23T21:01:39.561680+00:00</published>
-    <updated>2026-07-23T21:01:39.561680+00:00</updated>
+    <published>2026-07-24T21:01:44.777459+00:00</published>
+    <updated>2026-07-24T21:01:44.777459+00:00</updated>
     <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Opus 5 evaluated across our benchmark suite</title>
+    <link href="https://www.vals.ai/models/anthropic_claude-opus-5"/>
+    <id>7559ff8367e07f05793ecf635cc7def5</id>
+    <published>2026-07-23T00:00:00+00:00</published>
+    <updated>2026-07-23T00:00:00+00:00</updated>
+    <category term="Model"/>
   </entry>
   <entry>
     <title>Introducing the Web Search Index: native provider search vs. independent web-search tools</title>
@@ -95,14 +103,6 @@
     <published>2026-07-01T00:00:00+00:00</published>
     <updated>2026-07-01T00:00:00+00:00</updated>
     <category term="Benchmark"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Sonnet 5 evaluated on the Vals Index</title>
-    <link href="https://www.vals.ai/models/anthropic_claude-sonnet-5"/>
-    <id>201d3f34857b1538ae236e5a7c125c2b</id>
-    <published>2026-06-30T00:00:00+00:00</published>
-    <updated>2026-06-30T00:00:00+00:00</updated>
-    <category term="Model"/>
   </entry>
   <entry>
     <title>SpaceX Has the Worst AI. But It’s Still Reaping the Benefits of Being the First Big AI Company to IPO</title>

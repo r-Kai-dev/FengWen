@@ -4,10 +4,24 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-07-22T00:00:00+00:00</updated>
+  <updated>2026-07-24T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Grok in Google Workspace</title>
+    <link href="https://x.ai/news/introducing-google-workspace-addon"/>
+    <id>16604a778459bc050b1b2055984940e1</id>
+    <published>2026-07-24T00:00:00+00:00</published>
+    <updated>2026-07-24T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Workflows in Grok Build</title>
+    <link href="https://x.ai/news/workflows"/>
+    <id>b258b024d3c8be1883fe762958a76599</id>
+    <published>2026-07-23T00:00:00+00:00</published>
+    <updated>2026-07-23T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Bringing Grok 4.5 to iOS, Android, Web, and X</title>
     <link href="https://x.ai/news/grok-4-5-everywhere"/>
@@ -28,6 +42,7 @@
     <id>8e68a04b10f221ef24e7e8d205492c6d</id>
     <published>2026-07-20T00:00:00+00:00</published>
     <updated>2026-07-20T00:00:00+00:00</updated>
+    <summary type="text">Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.</summary>
   </entry>
   <entry>
     <title>Automations in Grok</title>
@@ -35,6 +50,7 @@
     <id>e524da77309d0d4bd410beefce4cd4a3</id>
     <published>2026-07-16T00:00:00+00:00</published>
     <updated>2026-07-16T00:00:00+00:00</updated>
+    <summary type="text">Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.</summary>
   </entry>
   <entry>
     <title>Introducing Grok 4.5</title>
