@@ -4,10 +4,30 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-24T18:55:54+00:00</updated>
+  <updated>2026-07-24T22:24:48+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Midjourney Makes V8.2 the Default, Betting Bold Beats Fast</title>
+    <link href="https://x.com/midjourney/status/2080781271043911807"/>
+    <id>e473b800e879462b676106649fbc2f02</id>
+    <published>2026-07-24T22:24:48+00:00</published>
+    <updated>2026-07-24T22:24:48+00:00</updated>
+    <summary type="text">Midjourney makes V8.2 the new default model, promising bolder aesthetics, stronger personalization, and improved image quality over V8.1</summary>
+    <category term="image"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Opus 5 Tops Agentic Benchmarks at 20% Lower Cost</title>
+    <link href="https://artificialanalysis.ai/evaluations/aa-briefcase"/>
+    <id>8e82e7c2a7aff3d481e382a6fad8c461</id>
+    <published>2026-07-24T22:10:41+00:00</published>
+    <updated>2026-07-24T22:10:41+00:00</updated>
+    <summary type="text">Claude Opus 5 tops the AA-Briefcase agentic benchmark with 1720 Elo, beating Fable 5 by 146 points at 20% lower cost per task</summary>
+    <category term="agents"/>
+    <category term="benchmarks"/>
+  </entry>
   <entry>
     <title>Nous Research's Hermes Agent Stops AI Sandboxes From Leaking Your API Keys</title>
     <link href="https://hermes-agent.nousresearch.com/docs/user-guide/egress/iron-proxy"/>
@@ -69,6 +89,16 @@
     <category term="benchmarks"/>
   </entry>
   <entry>
+    <title>vLLM's AFD Plugin Cuts DeepSeek-V3.2 Response Time by 47%</title>
+    <link href="https://vllm.ai/blog/2026-07-23-vllm-afd-plugin"/>
+    <id>00fcce43825da31db405eebbee1731b7</id>
+    <published>2026-07-24T15:15:20+00:00</published>
+    <updated>2026-07-24T15:15:20+00:00</updated>
+    <summary type="text">vLLM's new AFD Plugin splits Attention and expert computation into independent services, unlocking +11% decode throughput for large MoE models like DeepSeek-V3.2</summary>
+    <category term="infra"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
     <title>Midjourney Acquires Co-Star to Build a Consumer Product Empire</title>
     <link href="https://x.com/midjourney/status/2080671833322672148"/>
     <id>a5cb7b52f6e5f25d2bf1ce4a3178485b</id>
@@ -96,26 +126,6 @@
     <updated>2026-07-24T12:31:59+00:00</updated>
     <summary type="text">v0 now takes a single Figma file link and autonomously explores every page and frame to build a complete, multi-screen working app</summary>
     <category term="vibe_coding"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Moonshot's Kimi Code Now Routes Subagents to Cheaper Models, Cutting AI Costs</title>
-    <link href="https://moonshotai.github.io/kimi-code/en/configuration/config-files.html#secondary-model"/>
-    <id>65eac594fb4a6ee5e3e4dc5a2e073468</id>
-    <published>2026-07-24T06:28:08+00:00</published>
-    <updated>2026-07-24T06:28:08+00:00</updated>
-    <summary type="text">Kimi Code CLI 0.29.1 adds per-subagent model routing, OAuth-free web services, and a fix for vLLM reasoning content loss</summary>
-    <category term="agents"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Sakana AI's Fugu-Ultra v1.1 Beats GPT-5.5 and Claude on Coding Benchmarks</title>
-    <link href="https://sakana.ai/fugu/"/>
-    <id>f73a1ee1ff6048ab55fe067a3c311544</id>
-    <published>2026-07-24T00:23:34+00:00</published>
-    <updated>2026-07-24T00:23:34+00:00</updated>
-    <summary type="text">Sakana AI's Fugu-Ultra v1.1 upgrades its multi-model orchestration system with gains of up to 7.9 points across benchmarks, at the same price as v1.0</summary>
-    <category term="llms"/>
     <category term="development"/>
   </entry>
 </feed>
