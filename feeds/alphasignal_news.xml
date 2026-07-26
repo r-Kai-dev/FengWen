@@ -4,10 +4,20 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-24T22:24:48+00:00</updated>
+  <updated>2026-07-26T15:23:46+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>vLLM v0.26.0 Ships Day-0 Support for Inkling's 1T-Parameter Multimodal Model</title>
+    <link href="https://github.com/vllm-project/vllm/releases/tag/v0.26.0"/>
+    <id>2e0916fc9caf3700efa801749748698a</id>
+    <published>2026-07-26T15:23:46+00:00</published>
+    <updated>2026-07-26T15:23:46+00:00</updated>
+    <summary type="text">vLLM v0.26.0 ships 411 commits with Day-0 Inkling support, per-group attention backends, tiered KV offloading, and sweeping DeepSeek-V4 speedups across all hardware</summary>
+    <category term="infra"/>
+    <category term="llms"/>
+  </entry>
   <entry>
     <title>Midjourney Makes V8.2 the Default, Betting Bold Beats Fast</title>
     <link href="https://x.com/midjourney/status/2080781271043911807"/>
@@ -57,16 +67,6 @@
     <summary type="text">ChatGPT Work agents can now reach login-gated websites via a human takeover step, with sessions that persist across runs</summary>
     <category term="agents"/>
     <category term="development"/>
-  </entry>
-  <entry>
-    <title>Vercel's v0 Ships Anthropic's Claude Opus 5 at Half the Frontier Cost</title>
-    <link href="https://v0.app/?opus5"/>
-    <id>751538f8eeaeb109ea3704a4d10b93e9</id>
-    <published>2026-07-24T17:29:17+00:00</published>
-    <updated>2026-07-24T17:29:17+00:00</updated>
-    <summary type="text">Anthropic's Claude Opus 5 lands in v0 on launch day, bringing near-Fable-5 intelligence to full-stack app generation at half the price</summary>
-    <category term="vibe_coding"/>
-    <category term="llms"/>
   </entry>
   <entry>
     <title>Anthropic's Claude Opus 5 Matches Flagship Intelligence at Half the Price</title>
