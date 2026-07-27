@@ -4,190 +4,168 @@
   <icon>https://github.com/favicon.ico</icon>
   <link href="https://github.com/trending?since=daily"/>
   <id>https://github.com/trending?since=daily</id>
-  <updated>2026-07-26T21:02:04.307750+00:00</updated>
+  <updated>2026-07-27T21:02:33.882433+00:00</updated>
   <entry>
-    <title>amnezia-vpn / amnezia-client</title>
-    <link href="https://github.com/amnezia-vpn/amnezia-client"/>
-    <id>2519eb0ac3aaee52fd6c10834b736fe7</id>
-    <published>2026-07-26T21:02:04.307750+00:00</published>
-    <updated>2026-07-26T21:02:04.307750+00:00</updated>
-    <summary type="text">Amnezia VPN Client (Desktop+Mobile)</summary>
-    <content type="html">&lt;p&gt;Amnezia VPN Client (Desktop+Mobile)&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;13.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;17&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C++&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>ocornut / imgui</title>
+    <link href="https://github.com/ocornut/imgui"/>
+    <id>fabe7e81479399c27f7297b7e3b5aa56</id>
+    <published>2026-07-27T21:02:33.882433+00:00</published>
+    <updated>2026-07-27T21:02:33.882433+00:00</updated>
+    <summary type="text">Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</summary>
+    <content type="html">&lt;p&gt;Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;75.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;12.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;64&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C++&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="C++"/>
+  </entry>
+  <entry>
+    <title>mvanhorn / last30days-skill</title>
+    <link href="https://github.com/mvanhorn/last30days-skill"/>
+    <id>f9a73cb00728b30fc50cc46da91d9fc9</id>
+    <published>2026-07-27T21:02:33.881484+00:00</published>
+    <updated>2026-07-27T21:02:33.881484+00:00</updated>
+    <summary type="text">AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</summary>
+    <content type="html">&lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;54.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;221&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>apache / cassandra</title>
+    <link href="https://github.com/apache/cassandra"/>
+    <id>898119de8a5fed9664e8e002987f3d7b</id>
+    <published>2026-07-27T21:02:33.880579+00:00</published>
+    <updated>2026-07-27T21:02:33.880579+00:00</updated>
+    <summary type="text">Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.</summary>
+    <content type="html">&lt;p&gt;Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;9.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;34&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Java&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Java"/>
+  </entry>
+  <entry>
+    <title>vudovn / ag-kit</title>
+    <link href="https://github.com/vudovn/ag-kit"/>
+    <id>582ac5ee1a13c58d2de46ddb6e17d8f2</id>
+    <published>2026-07-27T21:02:33.879649+00:00</published>
+    <updated>2026-07-27T21:02:33.879649+00:00</updated>
+    <content type="html">&lt;p&gt;⭐ &lt;strong&gt;7.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
+  </entry>
+  <entry>
+    <title>bradautomates / claude-video</title>
+    <link href="https://github.com/bradautomates/claude-video"/>
+    <id>c0d997c036a07dabcfe66792923137aa</id>
+    <published>2026-07-27T21:02:33.879000+00:00</published>
+    <updated>2026-07-27T21:02:33.879000+00:00</updated>
+    <summary type="text">Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</summary>
+    <content type="html">&lt;p&gt;Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;11.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;412&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
   </entry>
   <entry>
     <title>jenkinsci / jenkins</title>
     <link href="https://github.com/jenkinsci/jenkins"/>
     <id>13bc97834fe644861a146e0eca6ec68b</id>
-    <published>2026-07-26T21:02:04.307396+00:00</published>
-    <updated>2026-07-26T21:02:04.307396+00:00</updated>
+    <published>2026-07-27T21:02:33.878593+00:00</published>
+    <updated>2026-07-27T21:02:33.878593+00:00</updated>
     <summary type="text">Jenkins automation server</summary>
     <content type="html">&lt;p&gt;Jenkins automation server&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;25.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;9.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;8&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Java&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;25.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;9.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;179&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Java&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Java"/>
-  </entry>
-  <entry>
-    <title>permissionlesstech / bitchat-android</title>
-    <link href="https://github.com/permissionlesstech/bitchat-android"/>
-    <id>ccf5edb43feff7c60a255e3725fb4f8b</id>
-    <published>2026-07-26T21:02:04.307072+00:00</published>
-    <updated>2026-07-26T21:02:04.307072+00:00</updated>
-    <summary type="text">bluetooth mesh chat, IRC vibes</summary>
-    <content type="html">&lt;p&gt;bluetooth mesh chat, IRC vibes&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;6.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;444&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Kotlin&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Kotlin"/>
-  </entry>
-  <entry>
-    <title>Pumpkin-MC / Pumpkin</title>
-    <link href="https://github.com/Pumpkin-MC/Pumpkin"/>
-    <id>67161a8b2ae50ae39d188b8ac208f0af</id>
-    <published>2026-07-26T21:02:04.306739+00:00</published>
-    <updated>2026-07-26T21:02:04.306739+00:00</updated>
-    <summary type="text">Empowering everyone to host fast and efficient Minecraft servers.</summary>
-    <content type="html">&lt;p&gt;Empowering everyone to host fast and efficient Minecraft servers.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;10.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;671&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;339&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
-  </entry>
-  <entry>
-    <title>anthropics / claude-cookbooks</title>
-    <link href="https://github.com/anthropics/claude-cookbooks"/>
-    <id>21747eaaeef5f49d27e81cdd4ac41b44</id>
-    <published>2026-07-26T21:02:04.306386+00:00</published>
-    <updated>2026-07-26T21:02:04.306386+00:00</updated>
-    <summary type="text">A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</summary>
-    <content type="html">&lt;p&gt;A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;50.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;5.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;377&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Jupyter Notebook&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Jupyter Notebook"/>
-  </entry>
-  <entry>
-    <title>andrewyng / aisuite</title>
-    <link href="https://github.com/andrewyng/aisuite"/>
-    <id>1b93208b10525a8b33323e1c7c29f1f6</id>
-    <published>2026-07-26T21:02:04.306024+00:00</published>
-    <updated>2026-07-26T21:02:04.306024+00:00</updated>
-    <summary type="text">Simple, unified interface to multiple Generative AI providers</summary>
-    <content type="html">&lt;p&gt;Simple, unified interface to multiple Generative AI providers&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;15.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;189&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
   </entry>
   <entry>
     <title>alibaba / open-code-review</title>
     <link href="https://github.com/alibaba/open-code-review"/>
     <id>411ad18b1570bdf73f67627c62eabd7c</id>
-    <published>2026-07-26T21:02:04.305696+00:00</published>
-    <updated>2026-07-26T21:02:04.305696+00:00</updated>
+    <published>2026-07-27T21:02:33.878213+00:00</published>
+    <updated>2026-07-27T21:02:33.878213+00:00</updated>
     <summary type="text">Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</summary>
     <content type="html">&lt;p&gt;Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;13.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;937&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;840&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;14.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;994&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;980&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Go"/>
   </entry>
   <entry>
     <title>shiyu-coder / Kronos</title>
     <link href="https://github.com/shiyu-coder/Kronos"/>
     <id>254c09054ba5eb6cd3e539d563c87571</id>
-    <published>2026-07-26T21:02:04.305369+00:00</published>
-    <updated>2026-07-26T21:02:04.305369+00:00</updated>
+    <published>2026-07-27T21:02:33.877315+00:00</published>
+    <updated>2026-07-27T21:02:33.877315+00:00</updated>
     <summary type="text">Kronos: A Foundation Model for the Language of Financial Markets</summary>
     <content type="html">&lt;p&gt;Kronos: A Foundation Model for the Language of Financial Markets&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;34.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;5.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;322&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;34.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;5.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;442&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
     <title>pbakaus / impeccable</title>
     <link href="https://github.com/pbakaus/impeccable"/>
     <id>e201cbe8a50e75e3d5c5d49fa482ba11</id>
-    <published>2026-07-26T21:02:04.305034+00:00</published>
-    <updated>2026-07-26T21:02:04.305034+00:00</updated>
+    <published>2026-07-27T21:02:33.876466+00:00</published>
+    <updated>2026-07-27T21:02:33.876466+00:00</updated>
     <summary type="text">The design language that makes your AI harness better at design.</summary>
     <content type="html">&lt;p&gt;The design language that makes your AI harness better at design.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;50.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;466&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;51.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;849&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="JavaScript"/>
   </entry>
   <entry>
-    <title>OtterMind / Chat2DB</title>
-    <link href="https://github.com/OtterMind/Chat2DB"/>
-    <id>3d32ae5a263608995a90faf67aef4d5e</id>
-    <published>2026-07-26T21:02:04.304702+00:00</published>
-    <updated>2026-07-26T21:02:04.304702+00:00</updated>
-    <summary type="text">🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</summary>
-    <content type="html">&lt;p&gt;🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;27.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;399&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Java&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Java"/>
-  </entry>
-  <entry>
-    <title>nodejs / node</title>
-    <link href="https://github.com/nodejs/node"/>
-    <id>3c8d28fd7637262ed3f54faa1652ac96</id>
-    <published>2026-07-26T21:02:04.304360+00:00</published>
-    <updated>2026-07-26T21:02:04.304360+00:00</updated>
-    <summary type="text">Node.js JavaScript runtime ✨🐢🚀✨</summary>
-    <content type="html">&lt;p&gt;Node.js JavaScript runtime ✨🐢🚀✨&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;118.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;36.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;37&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="JavaScript"/>
+    <title>NanmiCoder / MediaCrawler</title>
+    <link href="https://github.com/NanmiCoder/MediaCrawler"/>
+    <id>98186fdf2dc8848ca295ee5fa3a99d0d</id>
+    <published>2026-07-27T21:02:33.875521+00:00</published>
+    <updated>2026-07-27T21:02:33.875521+00:00</updated>
+    <summary type="text">小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫</summary>
+    <content type="html">&lt;p&gt;小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;58.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;349&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
   </entry>
   <entry>
     <title>yorukot / superfile</title>
     <link href="https://github.com/yorukot/superfile"/>
     <id>dcdce2ce4243847bf5f05dbed1b15537</id>
-    <published>2026-07-26T21:02:04.303967+00:00</published>
-    <updated>2026-07-26T21:02:04.303967+00:00</updated>
+    <published>2026-07-27T21:02:33.874475+00:00</published>
+    <updated>2026-07-27T21:02:33.874475+00:00</updated>
     <summary type="text">Pretty fancy and modern terminal file manager</summary>
     <content type="html">&lt;p&gt;Pretty fancy and modern terminal file manager&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;20.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;636&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;180&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;20.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;673&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;600&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Go"/>
   </entry>
   <entry>
-    <title>CoreBunch / Instatic</title>
-    <link href="https://github.com/CoreBunch/Instatic"/>
-    <id>e10dfb1d79d9b6449346d38f057a6b2a</id>
-    <published>2026-07-26T21:02:04.303619+00:00</published>
-    <updated>2026-07-26T21:02:04.303619+00:00</updated>
-    <summary type="text">The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.</summary>
-    <content type="html">&lt;p&gt;The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;5.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;518&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;892&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>opengeos / GeoLibre</title>
+    <link href="https://github.com/opengeos/GeoLibre"/>
+    <id>42b71a7c7de04b46b62580d498632df8</id>
+    <published>2026-07-27T21:02:33.873587+00:00</published>
+    <updated>2026-07-27T21:02:33.873587+00:00</updated>
+    <summary type="text">A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.</summary>
+    <content type="html">&lt;p&gt;A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;2.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;347&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;420&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
   <entry>
-    <title>pingdotgg / t3code</title>
-    <link href="https://github.com/pingdotgg/t3code"/>
-    <id>7ed33941c884ed3394f1243690850802</id>
-    <published>2026-07-26T21:02:04.303140+00:00</published>
-    <updated>2026-07-26T21:02:04.303140+00:00</updated>
-    <content type="html">&lt;p&gt;⭐ &lt;strong&gt;15.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;159&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>moeru-ai / airi</title>
+    <link href="https://github.com/moeru-ai/airi"/>
+    <id>915a01bf60569aa7242bdc919a0eda6f</id>
+    <published>2026-07-27T21:02:33.872562+00:00</published>
+    <updated>2026-07-27T21:02:33.872562+00:00</updated>
+    <summary type="text">💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.</summary>
+    <content type="html">&lt;p&gt;💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;44.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;554&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
   <entry>
-    <title>block / buzz</title>
-    <link href="https://github.com/block/buzz"/>
-    <id>ed0a30ab5e1645b79cbcda9a1b9bb6ea</id>
-    <published>2026-07-26T21:02:04.302779+00:00</published>
-    <updated>2026-07-26T21:02:04.302779+00:00</updated>
-    <summary type="text">A hive mind communication platform</summary>
-    <content type="html">&lt;p&gt;A hive mind communication platform&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;13.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
-  </entry>
-  <entry>
-    <title>citrolabs / ego-lite</title>
-    <link href="https://github.com/citrolabs/ego-lite"/>
-    <id>5106318fbe22ab4ad6eb368853e0c016</id>
-    <published>2026-07-26T21:02:04.302423+00:00</published>
-    <updated>2026-07-26T21:02:04.302423+00:00</updated>
-    <summary type="text">The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.</summary>
-    <content type="html">&lt;p&gt;The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;4.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;218&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;898&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="JavaScript"/>
+    <title>amnezia-vpn / amnezia-client</title>
+    <link href="https://github.com/amnezia-vpn/amnezia-client"/>
+    <id>2519eb0ac3aaee52fd6c10834b736fe7</id>
+    <published>2026-07-27T21:02:33.871651+00:00</published>
+    <updated>2026-07-27T21:02:33.871651+00:00</updated>
+    <summary type="text">Amnezia VPN Client (Desktop+Mobile)</summary>
+    <content type="html">&lt;p&gt;Amnezia VPN Client (Desktop+Mobile)&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;13.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;515&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C++&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="C++"/>
   </entry>
   <entry>
     <title>permissionlesstech / bitchat</title>
     <link href="https://github.com/permissionlesstech/bitchat"/>
     <id>81f87f3025da8bd77a7023ffefbdfd0a</id>
-    <published>2026-07-26T21:02:04.301749+00:00</published>
-    <updated>2026-07-26T21:02:04.301749+00:00</updated>
+    <published>2026-07-27T21:02:33.870725+00:00</published>
+    <updated>2026-07-27T21:02:33.870725+00:00</updated>
     <summary type="text">bluetooth mesh chat, IRC vibes</summary>
     <content type="html">&lt;p&gt;bluetooth mesh chat, IRC vibes&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;30.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Swift&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;32.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;5.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Swift&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Swift"/>
   </entry>
 </feed>

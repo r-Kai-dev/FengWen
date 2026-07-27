@@ -4,10 +4,18 @@
   <icon>https://www.alphaxiv.org/favicon.ico</icon>
   <link href="https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days"/>
   <id>https://www.alphaxiv.org/?sort=Hot&amp;interval=90+Days</id>
-  <updated>2026-07-24T00:00:00+00:00</updated>
+  <updated>2026-07-27T00:00:00+00:00</updated>
   <author>
     <name>alphaXiv</name>
   </author>
+  <entry>
+    <title>Kimi K3: Open Frontier Intelligence</title>
+    <link href="https://www.alphaxiv.org/abs/2607.kimi-k3-report"/>
+    <id>dcfbd9e9e7044aa5d01d85fbadc137f4</id>
+    <published>2026-07-27T00:00:00+00:00</published>
+    <updated>2026-07-27T00:00:00+00:00</updated>
+    <category term="hot"/>
+  </entry>
   <entry>
     <title>Claude Opus 5 System Card</title>
     <link href="https://www.alphaxiv.org/abs/2607.claude-opus-5"/>
@@ -25,25 +33,17 @@
     <category term="hot"/>
   </entry>
   <entry>
-    <title>AREX: Towards a Recursively Self-Improving Agent for Deep Research</title>
-    <link href="https://www.alphaxiv.org/abs/2607.21461"/>
-    <id>a64868707761207613fc3f0e7172cb5f</id>
-    <published>2026-07-23T00:00:00+00:00</published>
-    <updated>2026-07-23T00:00:00+00:00</updated>
+    <title>Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills</title>
+    <link href="https://www.alphaxiv.org/abs/2607.22529"/>
+    <id>5a0543a93afe6dad6561b7d11a22e21f</id>
+    <published>2026-07-24T00:00:00+00:00</published>
+    <updated>2026-07-24T00:00:00+00:00</updated>
     <category term="hot"/>
   </entry>
   <entry>
-    <title>Hilbert Operator for Progressive Encoding (HOPE): A Mathematical Framework for Deconstructing Learned Representations in Deep Networks</title>
-    <link href="https://www.alphaxiv.org/abs/2607.21366"/>
-    <id>dd95c5870750c65d67badc6a39551407</id>
-    <published>2026-07-23T00:00:00+00:00</published>
-    <updated>2026-07-23T00:00:00+00:00</updated>
-    <category term="hot"/>
-  </entry>
-  <entry>
-    <title>OpenForgeRL: Train Harness-native Agents in Any Environment</title>
-    <link href="https://www.alphaxiv.org/abs/2607.21557"/>
-    <id>f798798ffdaad559d84524ed74a6fdb2</id>
+    <title>Expanding Flow Maps</title>
+    <link href="https://www.alphaxiv.org/abs/2607.21585"/>
+    <id>c94d4f96dbd6ef37be5cbe812d820113</id>
     <published>2026-07-23T00:00:00+00:00</published>
     <updated>2026-07-23T00:00:00+00:00</updated>
     <category term="hot"/>

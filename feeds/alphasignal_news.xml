@@ -4,10 +4,90 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-26T15:23:46+00:00</updated>
+  <updated>2026-07-27T18:45:20+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Moonshot AI's PerceptionBench Reveals No Frontier Model Sees Past 60%</title>
+    <link href="https://huggingface.co/datasets/moonshotai/PerceptionBench"/>
+    <id>2646828c16bf14baa460e363445c956e</id>
+    <published>2026-07-27T18:45:20+00:00</published>
+    <updated>2026-07-27T18:45:20+00:00</updated>
+    <summary type="text">Moonshot AI's PerceptionBench reveals no frontier model clears 60% accuracy on pure visual perception tasks, exposing a critical gap in how we evaluate multimodal AI.</summary>
+    <category term="image"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Goodfire's Silico Finds Human Cognitive Biases Geometrically Encoded Inside LLMs</title>
+    <link href="https://en.wikipedia.org/wiki/Bouba/kiki_effect"/>
+    <id>92541920e3ea88e9277ddf2787abc371</id>
+    <published>2026-07-27T16:53:12+00:00</published>
+    <updated>2026-07-27T16:53:12+00:00</updated>
+    <summary type="text">Goodfire used mechanistic interpretability to find a 'bouba-kiki space' inside Llama and Gemma, and is opening access to Silico, the platform that found it.</summary>
+    <category term="llms"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>LM Studio Bionic Adds Kimi K3, the Biggest Open-Weight Model Ever Built</title>
+    <link href="https://x.com/lmstudio/status/2081778763822510155"/>
+    <id>5999242869c7a1ace4637ebc3f7412df</id>
+    <published>2026-07-27T16:28:29+00:00</published>
+    <updated>2026-07-27T16:28:29+00:00</updated>
+    <summary type="text">Moonshot AI's 2.8T open-weight reasoning giant lands in LM Studio Bionic with 1M context and ZDR cloud hosting</summary>
+    <category term="llms"/>
+    <category term="infra"/>
+  </entry>
+  <entry>
+    <title>Cognition's Devin Adds Kimi K3, the Open-Source Model Beating GPT-5.5</title>
+    <link href="https://devin.ai/blog/kimi-k3"/>
+    <id>817aadf65777d75cac910b5ce74fa83b</id>
+    <published>2026-07-27T15:38:20+00:00</published>
+    <updated>2026-07-27T15:38:20+00:00</updated>
+    <summary type="text">Moonshot AI's 2.8T open-weight model is now selectable in Devin Desktop and CLI, the first open-source model to approach frontier-level scores on Cognition's real-world coding benchmark.</summary>
+    <category term="development"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Moonshot AI Open-Sources FlashKDA, Making Kimi Linear 2x Faster on GPUs</title>
+    <link href="https://github.com/MoonshotAI/FlashKDA"/>
+    <id>adfedab64d436700c0a0b55b4bcb3c6c</id>
+    <published>2026-07-27T15:25:03+00:00</published>
+    <updated>2026-07-27T15:25:03+00:00</updated>
+    <summary type="text">Moonshot AI open-sources FlashKDA, a CUTLASS-based kernel delivering up to 2.3x prefill speedup for Kimi Delta Attention on H20 GPUs</summary>
+    <category term="gpus"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Moonshot AI's Kimi K3 Becomes the World's First Open 2.8T Model</title>
+    <link href="https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf"/>
+    <id>b51fd1769ae5b842f6b8934979f5c761</id>
+    <published>2026-07-27T15:14:40+00:00</published>
+    <updated>2026-07-27T15:14:40+00:00</updated>
+    <summary type="text">Moonshot AI releases Kimi K3, a 2.8T open-weight MoE model with a 1M-token context window that beats frontier models on sustained coding and agentic tasks</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Cohere's North Automations Lets Employees Build Multi-Step AI Workflows Without Code</title>
+    <link href="https://cohere.com/blog/introducing-north-automations-ai-workflows"/>
+    <id>67b8affdc27edc6a18fc173895e64d0b</id>
+    <published>2026-07-27T15:00:10+00:00</published>
+    <updated>2026-07-27T15:00:10+00:00</updated>
+    <summary type="text">Cohere's North platform gains automated multi-step workflow orchestration, letting any employee build governed AI pipelines without writing code</summary>
+    <category term="agents"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>NVIDIA Bets on Ilya Sutskever's Secretive SSI With Vera Rubin Access</title>
+    <link href="https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8"/>
+    <id>f2e729d066fd6db190e6a7c35a73f41d</id>
+    <published>2026-07-27T13:23:08+00:00</published>
+    <updated>2026-07-27T13:23:08+00:00</updated>
+    <summary type="text">NVIDIA takes a stake in Ilya Sutskever's secretive AI lab and hands it access to next-gen Vera Rubin hardware, promising a 10x compute jump with zero disclosed dollar figures</summary>
+    <category term="business"/>
+    <category term="llms"/>
+  </entry>
   <entry>
     <title>vLLM v0.26.0 Ships Day-0 Support for Inkling's 1T-Parameter Multimodal Model</title>
     <link href="https://github.com/vllm-project/vllm/releases/tag/v0.26.0"/>
@@ -47,85 +127,5 @@
     <summary type="text">Hermes Agent's new iron-proxy keeps real API keys off Docker sandboxes, replacing them with disposable tokens swapped at the network boundary</summary>
     <category term="agents"/>
     <category term="security"/>
-  </entry>
-  <entry>
-    <title>xAI's Grok Build Now Lets Coding Agents Search 500B URLs Instantly</title>
-    <link href="https://exa.ai/docs/integrations/grok-build"/>
-    <id>76fac7f29596ad13bd66b506a944a9ef</id>
-    <published>2026-07-24T18:45:16+00:00</published>
-    <updated>2026-07-24T18:45:16+00:00</updated>
-    <summary type="text">Exa's AI-native web search is now a one-command install inside xAI's Grok Build terminal agent, bringing real-time search and deep research to coding workflows</summary>
-    <category term="agents"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>OpenAI's ChatGPT Work Agent Can Now Access Password-Protected Sites</title>
-    <link href="https://x.com/openaidevs/status/2080707685448847418"/>
-    <id>5155af3090f28b93164f50ff53e8b70e</id>
-    <published>2026-07-24T17:32:24+00:00</published>
-    <updated>2026-07-24T17:32:24+00:00</updated>
-    <summary type="text">ChatGPT Work agents can now reach login-gated websites via a human takeover step, with sessions that persist across runs</summary>
-    <category term="agents"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Opus 5 Matches Flagship Intelligence at Half the Price</title>
-    <link href="https://x.com/lovable/status/2080703545389809780"/>
-    <id>3d4bad43f3dd7bfb01b127d2094d18dd</id>
-    <published>2026-07-24T17:15:57+00:00</published>
-    <updated>2026-07-24T17:15:57+00:00</updated>
-    <summary type="text">Claude Opus 5 lands in Lovable with a 22% coding boost over Opus 4.7, same price as its predecessor, and near-Fable-5 intelligence at half the cost</summary>
-    <category term="vibe_coding"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Opus 5 Triples ARC-AGI-3 Scores at Half the Frontier Price</title>
-    <link href="https://www.anthropic.com/news/claude-opus-5"/>
-    <id>ef6d2cd2212fb16bc8b94690f081e93d</id>
-    <published>2026-07-24T16:59:51+00:00</published>
-    <updated>2026-07-24T16:59:51+00:00</updated>
-    <summary type="text">Claude Opus 5 launches with a 3x ARC-AGI-3 lead, Fable 5-class intelligence at half the price, and Anthropic's strongest alignment scores yet</summary>
-    <category term="llms"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>vLLM's AFD Plugin Cuts DeepSeek-V3.2 Response Time by 47%</title>
-    <link href="https://vllm.ai/blog/2026-07-23-vllm-afd-plugin"/>
-    <id>00fcce43825da31db405eebbee1731b7</id>
-    <published>2026-07-24T15:15:20+00:00</published>
-    <updated>2026-07-24T15:15:20+00:00</updated>
-    <summary type="text">vLLM's new AFD Plugin splits Attention and expert computation into independent services, unlocking +11% decode throughput for large MoE models like DeepSeek-V3.2</summary>
-    <category term="infra"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Midjourney Acquires Co-Star to Build a Consumer Product Empire</title>
-    <link href="https://x.com/midjourney/status/2080671833322672148"/>
-    <id>a5cb7b52f6e5f25d2bf1ce4a3178485b</id>
-    <published>2026-07-24T15:09:56+00:00</published>
-    <updated>2026-07-24T15:09:56+00:00</updated>
-    <summary type="text">Midjourney acquires astrology app Co-Star and names its CEO as Chief Design Officer, signaling a major push into consumer software products</summary>
-    <category term="business"/>
-    <category term="image"/>
-  </entry>
-  <entry>
-    <title>Runway Agent Builds Entire AI Video Pipelines From Plain Language</title>
-    <link href="https://app.runwayml.com/agent"/>
-    <id>5f8a75a7c61edc89417e1e2c86acddff</id>
-    <published>2026-07-24T13:40:08+00:00</published>
-    <updated>2026-07-24T13:40:08+00:00</updated>
-    <summary type="text">Runway Agent now builds and edits node-based video pipelines from plain text descriptions, removing the need to wire nodes manually.</summary>
-    <category term="video"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Vercel's v0 Turns Any Figma File Into a Full Working App</title>
-    <link href="https://v0.app/docs/figma"/>
-    <id>c763717637482330d808a35cce389f15</id>
-    <published>2026-07-24T12:31:59+00:00</published>
-    <updated>2026-07-24T12:31:59+00:00</updated>
-    <summary type="text">v0 now takes a single Figma file link and autonomously explores every page and frame to build a complete, multi-screen working app</summary>
-    <category term="vibe_coding"/>
-    <category term="development"/>
   </entry>
 </feed>

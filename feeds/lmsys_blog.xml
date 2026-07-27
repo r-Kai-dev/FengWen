@@ -4,10 +4,22 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-07-18T00:00:00+00:00</updated>
+  <updated>2026-07-27T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>SGLang and Miles Add Day-0 Support for Kimi K3</title>
+    <link href="https://lmsys.org/blog/2026-07-27-kimi-k3-day0-support"/>
+    <id>13532fd8759ee1abfaec846a5930db8f</id>
+    <published>2026-07-27T00:00:00+00:00</published>
+    <updated>2026-07-27T00:00:00+00:00</updated>
+    <summary type="text">We are excited to announce Day-0 support for Kimi K3
+in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class,
+and its hybrid architecture departs from convention in al...</summary>
+    <category term="sglang"/>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>OPD Support in Miles</title>
     <link href="https://lmsys.org/blog/2026-07-18-opd-support-in-miles"/>
