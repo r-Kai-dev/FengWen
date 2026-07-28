@@ -277,19 +277,20 @@ All scripts are flat in `src/`. `run_all.sh` sets `PYTHONPATH="$PWD"` so
 `from utils import ...` works from any script. There are no `request/`,
 `scrape/`, or `crawl/` subdirectories.
 
-## CI Compatibility (`.woodpecker.yaml`)
+## CI (`.github/workflows/daily_run.yaml`)
 
-The CI pipeline mirrors `run_all.sh` but runs in isolated steps — each installs
-only its own dependencies:
+The CI pipeline runs on a schedule and on `workflow_dispatch`. All dependencies
+are installed in a single step, then the pipeline mirrors `run_all.sh`:
 
-| Step | Deps | Scripts |
-|------|------|---------|
-| `scrape-request` | `curl_cffi`, `beautifulsoup4` | `scrape_*.py`, `request_*.py`, `enhance_*.py` |
-| `crawl` | `beautifulsoup4`, `playwright` | `crawl_runner.py` → `crawl_*.py` |
-| `audit` | (stdlib only) | `audit_report.py` |
+| Step | Scripts |
+|------|---------|
+| `scrape-request` | `run_scrape_request.sh` — runs `scrape_*.py`, `request_*.py`, `enhance_*.py` in parallel |
+| `crawl` | `crawl_runner.py` → `crawl_*.py` (sequential, shared browser) |
+| `audit` | `audit_report.py` |
+| `update-feeds` | Commits and pushes `feeds/` to the repo |
 
 Key constraints:
 - `scrape_*.py`, `request_*.py`, `enhance_*.py` use `curl_cffi` for HTTP — no browser needed.
 - `crawl_*.py` use Playwright with **bundled** Chromium — no system chromium needed.
 - Scripts are auto-discovered via glob — no CI config changes for new/removed scripts.
-- The `update-feeds` step commits only `feeds/*.xml` (not `feeds.opml` or `README.md`), so regenerating those is a local-only task.
+- The `update-feeds` step commits everything under `feeds/` (XML feeds + `_audit.json`), but not `feeds.opml` or `README.md` — regenerate those locally.
