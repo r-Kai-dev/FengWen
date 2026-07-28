@@ -19,7 +19,7 @@ ORG_KEY = "microsoft_ai"
 def _extract_date_from_article(url: str) -> str:
     """Visit an article page and extract datePublished from JSON-LD."""
     try:
-        html = fetch_page(url, impersonate="firefox147")
+        html = fetch_page(url, impersonate="chrome131")
         match = re.search(r'"datePublished":"([^"]+)"', html)
         if match:
             return match.group(1)
@@ -35,7 +35,7 @@ def main():
     for page_key, page in config["pages"].items():
         logging.info("Fetching %s: %s", page["label"], page["url"])
         # The posts are server-rendered in #news-container when ?subject=all is present
-        html = fetch_page(page["url"] + "?subject=all", impersonate="firefox147")
+        html = fetch_page(page["url"] + "?subject=all", impersonate="chrome131")
         soup = BeautifulSoup(html, "html.parser")
 
         container = soup.find(id="news-container")
