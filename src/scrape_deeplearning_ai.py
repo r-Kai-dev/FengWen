@@ -16,6 +16,17 @@ setup_logging()
 ensure_output_dir()
 ORG_KEY = "deeplearning_ai"
 
+HEADERS = {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Cache-Control": "no-cache",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
+}
+
 
 def parse_datetime_attr(dt_str):
     if not dt_str:
@@ -77,7 +88,7 @@ def main():
     config = load_feeds_config(ORG_KEY)
     page = config["pages"]["the_batch"]
     logging.info("Fetching %s: %s", page["label"], page["url"])
-    html = fetch_page(page["url"], impersonate="chrome131")
+    html = fetch_page(page["url"], impersonate="chrome131", headers=HEADERS)
     soup = BeautifulSoup(html, "html.parser")
     entries = extract_posts(soup)
     if not entries:

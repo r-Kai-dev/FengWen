@@ -17,6 +17,17 @@ ensure_output_dir()
 ORG_KEY = "xai"
 BASE_URL = "https://x.ai"
 
+HEADERS = {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Cache-Control": "no-cache",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
+}
+
 
 def parse_date(date_str):
     if not date_str:
@@ -135,7 +146,7 @@ def main():
     config = load_feeds_config(ORG_KEY)
     page = config["pages"]["news"]
     logging.info("Fetching %s: %s", page["label"], page["url"])
-    html = fetch_page(page["url"], impersonate="chrome131")
+    html = fetch_page(page["url"], impersonate="chrome131", headers=HEADERS)
     soup = BeautifulSoup(html, "html.parser")
 
     entries = _extract_featured(soup) + _extract_image_cards(soup) + _extract_list_cards(soup)
