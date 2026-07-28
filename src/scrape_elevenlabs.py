@@ -63,7 +63,7 @@ def main():
     config = load_feeds_config(ORG_KEY)
     page = config["pages"]["research"]
     logging.info("Fetching %s: %s", page["label"], page["url"])
-    html = fetch_page(page["url"])
+    html = fetch_page(page["url"], impersonate="firefox147")
     entries = extract(html)
     if not entries:
         logging.warning("No entries found")

@@ -85,7 +85,7 @@ def main():
 
     for page_key, page in config["pages"].items():
         logging.info("Fetching %s: %s", page["label"], page["url"])
-        html = fetch_page(page["url"])
+        html = fetch_page(page["url"], impersonate="firefox147")
         soup = BeautifulSoup(html, "html.parser")
 
         entries = extract_posts(soup)

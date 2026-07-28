@@ -115,7 +115,7 @@ def main():
         if not page:
             continue
         logging.info("Fetching %s: %s", page["label"], url)
-        html = fetch_page(url)
+        html = fetch_page(url, impersonate="firefox147")
         soup = BeautifulSoup(html, "html.parser")
         repos = extract_repos(soup, tf)
         all_repos.extend(repos)

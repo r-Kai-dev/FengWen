@@ -366,7 +366,7 @@ def main():
     for page_key, page in config["pages"].items():
         logging.info("Fetching %s: %s", page["label"], page["url"])
         try:
-            html = fetch_page(page["url"])
+            html = fetch_page(page["url"], impersonate="firefox147")
         except Exception as exc:
             logging.error("Failed to fetch %s: %s", page["url"], exc)
             continue
