@@ -18,7 +18,7 @@ README_PATH = PROJECT_DIR / "README.md"
 
 MARKER_START = "<!-- FEEDS_TABLE_START -->"
 MARKER_END = "<!-- FEEDS_TABLE_END -->"
-CODEBERG_BASE = "https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds"
+RAW_BASE = "https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds"
 
 
 def feed_filename(xml_url: str) -> str:
@@ -40,7 +40,7 @@ def build_tables(config):
     for entry in config.get("created", []):
         cat_key = entry.get("category", "Uncategorized")
         for page in entry.get("pages", []):
-            xml_url = f"{CODEBERG_BASE}/{page['output_file']}"
+            xml_url = f"{RAW_BASE}/{page['output_file']}"
             category_feeds.setdefault(cat_key, []).append({
                 "text": page["label"],
                 "xmlUrl": xml_url,

@@ -1,11 +1,5 @@
 # Feng Wen (风闻)
 
-**Canonical Repository Location:** https://codeberg.org/r-Kai/FengWen
-
-Please open issues and pull requests in the Codeberg repo above.
-
-You can also open Github issues, but pull requests are not available on Github.
-
 ## Introduction
 Feng Wen (风闻) provides **Atom/RSS feeds** for news sources focused on AI and technology. It periodically scrapes official blogs, release notes, trending repositories, and research publications from major AI companies and platforms, then converts them into standard XML feeds so they can be consumed by any feed reader directly.
 
@@ -16,24 +10,24 @@ You can subscribe to all feeds at once by importing the [feeds.opml](feeds.opml)
 
 The following tables include both the feeds created by this project and existing official feeds for ease of use and organization.
 
-Each created link is a Codeberg xml raw file URL. You can import them directly in your RSS reader. If you are on Github and prefer to use Github URLs, find the xml file in [feeds](feeds/) and use the raw file URL as the feed.
+Each created link is a Github raw xml file URL. You can import them directly in your RSS reader.
 
 <!-- FEEDS_TABLE_START -->
 
 ## Academics
 | Original Website | Feed | Type |
 |------------------|------|------|
-| [Models Huggingface Trending](https://huggingface.co/api/trending?type=model&limit=20) | [huggingface_trending_models.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/huggingface_trending_models.xml) | Created |
-| [Datasets Huggingface Trending](https://huggingface.co/api/trending?type=dataset&limit=20) | [huggingface_trending_datasets.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/huggingface_trending_datasets.xml) | Created |
-| [Daily Papers Huggingface](https://huggingface.co/api/daily_papers) | [huggingface_daily_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/huggingface_daily_papers.xml) | Created |
-| [alphaXiv Hot Papers (Top 5)](https://www.alphaxiv.org/?sort=Hot&interval=90+Days) | [alphaxiv_hot_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/alphaxiv_hot_papers.xml) | Created |
+| [Models Huggingface Trending](https://huggingface.co/api/trending?type=model&limit=20) | [huggingface_trending_models.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/huggingface_trending_models.xml) | Created |
+| [Datasets Huggingface Trending](https://huggingface.co/api/trending?type=dataset&limit=20) | [huggingface_trending_datasets.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/huggingface_trending_datasets.xml) | Created |
+| [Daily Papers Huggingface](https://huggingface.co/api/daily_papers) | [huggingface_daily_papers.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/huggingface_daily_papers.xml) | Created |
+| [alphaXiv Hot Papers (Top 5)](https://www.alphaxiv.org/?sort=Hot&interval=90+Days) | [alphaxiv_hot_papers.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/alphaxiv_hot_papers.xml) | Created |
 | [Cool Papers](https://papers.cool/) | [Cool Papers Feed](https://papers.cool/arxiv/cs.CL,cs.LG,cs.AI,cs.CV/feed) | Official |
 
 
 ## Blogs
 | Original Website | Feed | Type |
 |------------------|------|------|
-| [Epoch AI Latest](https://epoch.ai/latest) | [epoch_latest.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/epoch_latest.xml) | Created |
+| [Epoch AI Latest](https://epoch.ai/latest) | [epoch_latest.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/epoch_latest.xml) | Created |
 | [Sebastian Raschka](https://sebastianraschka.com/) | [Sebastian Raschka Feed](https://sebastianraschka.com/rss_feed.xml) | Official |
 | [Deep (Learning) Focus](https://cameronrwolfe.substack.com/) | [Deep (Learning) Focus Feed](https://cameronrwolfe.substack.com/feed) | Official |
 | [Turing Post](https://www.turingpost.com/) | [Turing Post Feed](https://rss.beehiiv.com/feeds/UJIoBuf5BX.xml) | Official |
@@ -56,7 +50,7 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 ## Daily
 | Original Website | Feed | Type |
 |------------------|------|------|
-| [AIbase Daily (中文)](https://news.aibase.com/zh/daily) | [aibase_zh-daily.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/aibase_zh-daily.xml) | Created |
+| [AIbase Daily (中文)](https://news.aibase.com/zh/daily) | [aibase_zh-daily.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/aibase_zh-daily.xml) | Created |
 | [Latent Space](https://www.latent.space/) | [Latent Space Feed](https://www.latent.space/feed) | Official |
 | [ReadHub 每日早报](https://readhub.cn/daily) | [ReadHub 每日早报 Feed](https://readhub.cn/daily/rss) | Official |
 | [喷嚏图卦](https://www.dapenti.com/blog/blog.asp?name=xilei&subjectid=70) | [喷嚏图卦 Feed](https://rsshub.rssforever.com/dapenti/tugua) | Official |
@@ -65,11 +59,11 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 ## Eval
 | Original Website | Feed | Type |
 |------------------|------|------|
-| [Artificial Analysis Articles](https://artificialanalysis.ai/articles) | [artificial_analysis_articles.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/artificial_analysis_articles.xml) | Created |
-| [Agents' Last Exam Blog](https://agents-last-exam.org/blogs) | [agentslastexam_blogs.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/agentslastexam_blogs.xml) | Created |
-| [Vals AI News](https://www.vals.ai/news) | [vals_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/vals_news.xml) | Created |
-| [Scale Labs Blog](https://labs.scale.com/blog) | [scalelabs_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/scalelabs_blog.xml) | Created |
-| [Scale Labs Papers](https://labs.scale.com/papers) | [scalelabs_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/scalelabs_papers.xml) | Created |
+| [Artificial Analysis Articles](https://artificialanalysis.ai/articles) | [artificial_analysis_articles.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/artificial_analysis_articles.xml) | Created |
+| [Agents' Last Exam Blog](https://agents-last-exam.org/blogs) | [agentslastexam_blogs.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/agentslastexam_blogs.xml) | Created |
+| [Vals AI News](https://www.vals.ai/news) | [vals_news.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/vals_news.xml) | Created |
+| [Scale Labs Blog](https://labs.scale.com/blog) | [scalelabs_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/scalelabs_blog.xml) | Created |
+| [Scale Labs Papers](https://labs.scale.com/papers) | [scalelabs_papers.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/scalelabs_papers.xml) | Created |
 | [Arc Prize Blog](https://arcprize.org/blog) | [Arc Prize Blog Feed](https://arcprize.org/feed.xml) | Official |
 | [Arena AI Blog](https://arena.ai/blog/) | [Arena AI Blog Feed](https://arena.ai/blog/rss/) | Official |
 
@@ -77,9 +71,9 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 ## Hourly
 | Original Website | Feed | Type |
 |------------------|------|------|
-| [AlphaSignal News](https://alphasignal.ai/) | [alphasignal_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/alphasignal_news.xml) | Created |
-| [Hacker News Best](https://hacker-news.firebaseio.com/v0/beststories.json) | [hackernews_best.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/hackernews_best.xml) | Created |
-| [AI News Radar (Bo Le Picks)](https://learnprompt.github.io/ai-news-radar/data/daily-brief.json) | [ainewsradar_bole-picks.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ainewsradar_bole-picks.xml) | Created |
+| [AlphaSignal News](https://alphasignal.ai/) | [alphasignal_news.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/alphasignal_news.xml) | Created |
+| [Hacker News Best](https://hacker-news.firebaseio.com/v0/beststories.json) | [hackernews_best.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/hackernews_best.xml) | Created |
+| [AI News Radar (Bo Le Picks)](https://learnprompt.github.io/ai-news-radar/data/daily-brief.json) | [ainewsradar_bole-picks.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/ainewsradar_bole-picks.xml) | Created |
 | [YCombinator Hacker News](https://news.ycombinator.com/) | [YCombinator Hacker News Feed](https://news.ycombinator.com/rss) | Official |
 | [ReadHub 新闻](https://readhub.cn/) | [ReadHub 新闻 Feed](https://readhub.cn/rss) | Official |
 | [Slashdot](https://slashdot.org/) | [Slashdot Feed](https://rss.slashdot.org/Slashdot/slashdotMain) | Official |
@@ -90,45 +84,45 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 ## Labs
 | Original Website | Feed | Type |
 |------------------|------|------|
-| [Anthropic News](https://www.anthropic.com/news) | [anthropic_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_news.xml) | Created |
-| [Anthropic Research](https://www.anthropic.com/research) | [anthropic_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_research.xml) | Created |
-| [Anthropic Engineering Blog](https://www.anthropic.com/engineering) | [anthropic_engineering.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/anthropic_engineering.xml) | Created |
-| [xAI News](https://x.ai/news) | [x-ai_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/x-ai_news.xml) | Created |
-| [Meta AI Blog](https://ai.meta.com/blog) | [meta_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/meta_blog.xml) | Created |
-| [Kimi Blog](https://www.kimi.com/blog) | [kimi_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/kimi_blog.xml) | Created |
-| [Moonshot AI Blog](https://platform.moonshot.ai/blog) | [moonshot_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/moonshot_blog.xml) | Created |
-| [MiniMax Release Notes](https://platform.minimax.io/docs/release-notes/models) | [minimax_docs-release-notes-models.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/minimax_docs-release-notes-models.xml) | Created |
-| [Z.AI Release Notes](https://docs.z.ai/release-notes/new-released) | [z-ai_release-notes-new-released.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/z-ai_release-notes-new-released.xml) | Created |
-| [Black Forest Labs Blog](https://bfl.ai/blog) | [bfl_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/bfl_blog.xml) | Created |
-| [Black Forest Labs Research](https://bfl.ai/research) | [bfl_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/bfl_research.xml) | Created |
-| [Luma AI News](https://lumalabs.ai/news) | [luma_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/luma_news.xml) | Created |
-| [Thinking Machines Lab News](https://thinkingmachines.ai/news) | [thinkingmachines_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/thinkingmachines_news.xml) | Created |
-| [Udio Blog](https://www.udio.com/blog) | [udio_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/udio_blog.xml) | Created |
-| [AMI Lab Updates](https://amilabs.xyz/updates) | [ami_updates.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ami_updates.xml) | Created |
-| [Resemble AI Resources](https://www.resemble.ai/resources) | [resemble_resources.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/resemble_resources.xml) | Created |
-| [World Labs Blog](https://www.worldlabs.ai/blog) | [worldlabs_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/worldlabs_blog.xml) | Created |
-| [Ai2 News](https://allenai.org/news) | [allenai_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/allenai_news.xml) | Created |
-| [Ai2 Research](https://allenai.org/research) | [allenai_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/allenai_research.xml) | Created |
-| [Boson AI Blog](https://www.boson.ai/blog) | [boson_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/boson_blog.xml) | Created |
-| [ElevenLabs Research](https://elevenlabs.io/blog/category/research) | [elevenlabs_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/elevenlabs_research.xml) | Created |
-| [Hume AI Blog](https://www.hume.ai/blog) | [hume_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/hume_blog.xml) | Created |
-| [Kyutai Blog](https://kyutai.org/blog) | [kyutai_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/kyutai_blog.xml) | Created |
-| [Kyutai Papers](https://kyutai.org/papers) | [kyutai_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/kyutai_papers.xml) | Created |
-| [Perplexity Hub Blog](https://www.perplexity.ai/hub/blog) | [perplexity_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/perplexity_blog.xml) | Created |
-| [Perplexity Research](https://research.perplexity.ai/) | [perplexity_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/perplexity_research.xml) | Created |
-| [Runway News](https://runwayml.com/news) | [runway_news.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/runway_news.xml) | Created |
-| [Runway Research](https://runwayml.com/research/publications) | [runway_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/runway_research.xml) | Created |
-| [Sesame AI Blog](https://www.sesame.com/blog) | [sesame_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/sesame_blog.xml) | Created |
-| [Suno Blog](https://suno.com/blog) | [suno_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/suno_blog.xml) | Created |
-| [ByteDance Seed Blog](https://seed.bytedance.com/en/blog) | [bytedance_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/bytedance_blog.xml) | Created |
-| [ByteDance Seed Research](https://seed.bytedance.com/en/public_papers) | [bytedance_public_papers.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/bytedance_public_papers.xml) | Created |
-| [DeepSeek News](https://api-docs.deepseek.com/) | [deepseek_index.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/deepseek_index.xml) | Created |
-| [Tencent Hunyuan](https://hunyuan.tencent.com/research) | [tencent_hunyuan_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/tencent_hunyuan_research.xml) | Created |
-| [Qwen Research](https://qwen.ai/research) | [qwen_research.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/qwen_research.xml) | Created |
-| [LTX Blog](https://ltx.io/blog) | [ltx_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ltx_blog.xml) | Created |
-| [LTX Newsroom](https://ltx.io/newsroom) | [ltx_newsroom.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/ltx_newsroom.xml) | Created |
-| [Microsoft AI Blog](https://microsoft.ai/blog/) | [microsoft_ai_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/microsoft_ai_blog.xml) | Created |
-| [Krea Blog](https://www.krea.ai/blog/feed/atom.xml) | [krea_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/krea_blog.xml) | Created |
+| [Anthropic News](https://www.anthropic.com/news) | [anthropic_news.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/anthropic_news.xml) | Created |
+| [Anthropic Research](https://www.anthropic.com/research) | [anthropic_research.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/anthropic_research.xml) | Created |
+| [Anthropic Engineering Blog](https://www.anthropic.com/engineering) | [anthropic_engineering.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/anthropic_engineering.xml) | Created |
+| [xAI News](https://x.ai/news) | [x-ai_news.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/x-ai_news.xml) | Created |
+| [Meta AI Blog](https://ai.meta.com/blog) | [meta_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/meta_blog.xml) | Created |
+| [Kimi Blog](https://www.kimi.com/blog) | [kimi_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/kimi_blog.xml) | Created |
+| [Moonshot AI Blog](https://platform.moonshot.ai/blog) | [moonshot_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/moonshot_blog.xml) | Created |
+| [MiniMax Release Notes](https://platform.minimax.io/docs/release-notes/models) | [minimax_docs-release-notes-models.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/minimax_docs-release-notes-models.xml) | Created |
+| [Z.AI Release Notes](https://docs.z.ai/release-notes/new-released) | [z-ai_release-notes-new-released.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/z-ai_release-notes-new-released.xml) | Created |
+| [Black Forest Labs Blog](https://bfl.ai/blog) | [bfl_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/bfl_blog.xml) | Created |
+| [Black Forest Labs Research](https://bfl.ai/research) | [bfl_research.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/bfl_research.xml) | Created |
+| [Luma AI News](https://lumalabs.ai/news) | [luma_news.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/luma_news.xml) | Created |
+| [Thinking Machines Lab News](https://thinkingmachines.ai/news) | [thinkingmachines_news.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/thinkingmachines_news.xml) | Created |
+| [Udio Blog](https://www.udio.com/blog) | [udio_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/udio_blog.xml) | Created |
+| [AMI Lab Updates](https://amilabs.xyz/updates) | [ami_updates.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/ami_updates.xml) | Created |
+| [Resemble AI Resources](https://www.resemble.ai/resources) | [resemble_resources.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/resemble_resources.xml) | Created |
+| [World Labs Blog](https://www.worldlabs.ai/blog) | [worldlabs_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/worldlabs_blog.xml) | Created |
+| [Ai2 News](https://allenai.org/news) | [allenai_news.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/allenai_news.xml) | Created |
+| [Ai2 Research](https://allenai.org/research) | [allenai_research.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/allenai_research.xml) | Created |
+| [Boson AI Blog](https://www.boson.ai/blog) | [boson_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/boson_blog.xml) | Created |
+| [ElevenLabs Research](https://elevenlabs.io/blog/category/research) | [elevenlabs_research.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/elevenlabs_research.xml) | Created |
+| [Hume AI Blog](https://www.hume.ai/blog) | [hume_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/hume_blog.xml) | Created |
+| [Kyutai Blog](https://kyutai.org/blog) | [kyutai_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/kyutai_blog.xml) | Created |
+| [Kyutai Papers](https://kyutai.org/papers) | [kyutai_papers.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/kyutai_papers.xml) | Created |
+| [Perplexity Hub Blog](https://www.perplexity.ai/hub/blog) | [perplexity_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/perplexity_blog.xml) | Created |
+| [Perplexity Research](https://research.perplexity.ai/) | [perplexity_research.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/perplexity_research.xml) | Created |
+| [Runway News](https://runwayml.com/news) | [runway_news.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/runway_news.xml) | Created |
+| [Runway Research](https://runwayml.com/research/publications) | [runway_research.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/runway_research.xml) | Created |
+| [Sesame AI Blog](https://www.sesame.com/blog) | [sesame_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/sesame_blog.xml) | Created |
+| [Suno Blog](https://suno.com/blog) | [suno_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/suno_blog.xml) | Created |
+| [ByteDance Seed Blog](https://seed.bytedance.com/en/blog) | [bytedance_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/bytedance_blog.xml) | Created |
+| [ByteDance Seed Research](https://seed.bytedance.com/en/public_papers) | [bytedance_public_papers.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/bytedance_public_papers.xml) | Created |
+| [DeepSeek News](https://api-docs.deepseek.com/) | [deepseek_index.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/deepseek_index.xml) | Created |
+| [Tencent Hunyuan](https://hunyuan.tencent.com/research) | [tencent_hunyuan_research.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/tencent_hunyuan_research.xml) | Created |
+| [Qwen Research](https://qwen.ai/research) | [qwen_research.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/qwen_research.xml) | Created |
+| [LTX Blog](https://ltx.io/blog) | [ltx_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/ltx_blog.xml) | Created |
+| [LTX Newsroom](https://ltx.io/newsroom) | [ltx_newsroom.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/ltx_newsroom.xml) | Created |
+| [Microsoft AI Blog](https://microsoft.ai/blog/) | [microsoft_ai_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/microsoft_ai_blog.xml) | Created |
+| [Krea Blog](https://www.krea.ai/blog/feed/atom.xml) | [krea_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/krea_blog.xml) | Created |
 | [OpenAI News](https://openai.com/news) | [OpenAI News Feed](https://openai.com/news/rss.xml) | Official |
 | [Google Tech Blog](https://blog.google/technology/) | [Google Tech Blog Feed](https://blog.google/technology/rss/) | Official |
 | [DeepMind Blog](https://deepmind.google/discover/blog/) | [DeepMind Blog Feed](https://deepmind.google/blog/rss.xml) | Official |
@@ -147,14 +141,14 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 ## Platforms
 | Original Website | Feed | Type |
 |------------------|------|------|
-| [GitHub Trending (daily)](https://github.com/trending?since=daily) | [github_trending-since-daily.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-daily.xml) | Created |
-| [GitHub Trending (weekly)](https://github.com/trending?since=weekly) | [github_trending-since-weekly.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-weekly.xml) | Created |
-| [GitHub Trending (monthly)](https://github.com/trending?since=monthly) | [github_trending-since-monthly.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trending-since-monthly.xml) | Created |
-| [GitHub Trending (combined)](https://github.com/trending) | [github_trends.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/github_trends.xml) | Created |
-| [Groq Blog](https://groq.com/blog) | [groq_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/groq_blog.xml) | Created |
-| [Groq Newsroom](https://groq.com/newsroom) | [groq_newsroom.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/groq_newsroom.xml) | Created |
-| [Higgsfield Blog](https://higgsfield.ai/blog) | [higgsfield_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/higgsfield_blog.xml) | Created |
-| [Fireworks AI Blog](https://fireworks.ai/blog) | [fireworks_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/fireworks_blog.xml) | Created |
+| [GitHub Trending (daily)](https://github.com/trending?since=daily) | [github_trending-since-daily.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/github_trending-since-daily.xml) | Created |
+| [GitHub Trending (weekly)](https://github.com/trending?since=weekly) | [github_trending-since-weekly.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/github_trending-since-weekly.xml) | Created |
+| [GitHub Trending (monthly)](https://github.com/trending?since=monthly) | [github_trending-since-monthly.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/github_trending-since-monthly.xml) | Created |
+| [GitHub Trending (combined)](https://github.com/trending) | [github_trends.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/github_trends.xml) | Created |
+| [Groq Blog](https://groq.com/blog) | [groq_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/groq_blog.xml) | Created |
+| [Groq Newsroom](https://groq.com/newsroom) | [groq_newsroom.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/groq_newsroom.xml) | Created |
+| [Higgsfield Blog](https://higgsfield.ai/blog) | [higgsfield_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/higgsfield_blog.xml) | Created |
+| [Fireworks AI Blog](https://fireworks.ai/blog) | [fireworks_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/fireworks_blog.xml) | Created |
 | [HuggingFace Blog](https://huggingface.co/blog) | [HuggingFace Blog Feed](https://huggingface.co/blog/feed.xml) | Official |
 | [Replicate Blog](https://replicate.com/blog) | [Replicate Blog Feed](https://replicate.com/blog/atom) | Official |
 | [OpenRouter Blog](https://openrouter.ai/blog/) | [OpenRouter Blog Feed](https://openrouter.ai/blog/feed.xml) | Official |
@@ -170,12 +164,12 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 ## Tools
 | Original Website | Feed | Type |
 |------------------|------|------|
-| [LMSYS Blog](https://lmsys.org/blog) | [lmsys_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/lmsys_blog.xml) | Created |
-| [Unsloth Blog](https://unsloth.ai/blog) | [unsloth_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/unsloth_blog.xml) | Created |
-| [Cursor Blog](https://cursor.com/blog) | [cursor_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/cursor_blog.xml) | Created |
-| [Figma Blog](https://www.figma.com/blog/) | [figma_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/figma_blog.xml) | Created |
-| [Lovable Blog](https://lovable.dev/blog) | [lovable_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/lovable_blog.xml) | Created |
-| [Cognition Blog](https://cognition.com/blog) | [cognition_blog.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/cognition_blog.xml) | Created |
+| [LMSYS Blog](https://lmsys.org/blog) | [lmsys_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/lmsys_blog.xml) | Created |
+| [Unsloth Blog](https://unsloth.ai/blog) | [unsloth_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/unsloth_blog.xml) | Created |
+| [Cursor Blog](https://cursor.com/blog) | [cursor_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/cursor_blog.xml) | Created |
+| [Figma Blog](https://www.figma.com/blog/) | [figma_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/figma_blog.xml) | Created |
+| [Lovable Blog](https://lovable.dev/blog) | [lovable_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/lovable_blog.xml) | Created |
+| [Cognition Blog](https://cognition.com/blog) | [cognition_blog.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/cognition_blog.xml) | Created |
 | [NVIDIA Blog](https://blogs.nvidia.com/) | [NVIDIA Blog Feed](https://blogs.nvidia.com/feed/) | Official |
 | [Ollama Blog](https://ollama.com/blog) | [Ollama Blog Feed](https://ollama.com/blog/rss.xml) | Official |
 | [vLLM Blog](https://vllm.ai/blog) | [vLLM Blog Feed](https://vllm.ai/blog/rss.xml) | Official |
@@ -193,7 +187,7 @@ Each created link is a Codeberg xml raw file URL. You can import them directly i
 ## Weekly
 | Original Website | Feed | Type |
 |------------------|------|------|
-| [The Batch (DeepLearning.AI)](https://www.deeplearning.ai/the-batch) | [deeplearning_ai_the-batch.xml](https://codeberg.org/r-Kai/FengWen/raw/branch/main/feeds/deeplearning_ai_the-batch.xml) | Created |
+| [The Batch (DeepLearning.AI)](https://www.deeplearning.ai/the-batch) | [deeplearning_ai_the-batch.xml](https://raw.githubusercontent.com/r-Kai-dev/FengWen/refs/heads/main/feeds/deeplearning_ai_the-batch.xml) | Created |
 | [Deep Learning Weekly](https://www.deeplearningweekly.com/) | [Deep Learning Weekly Feed](https://www.deeplearningweekly.com/feed) | Official |
 | [Last Week in AI](https://lastweekin.ai/) | [Last Week in AI Feed](https://lastweekin.ai/feed) | Official |
 | [科技爱好者周刊](https://www.ruanyifeng.com/blog/) | [科技爱好者周刊 Feed](https://feeds.feedburner.com/ruanyifeng) | Official |
