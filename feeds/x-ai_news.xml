@@ -4,10 +4,17 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-07-24T00:00:00+00:00</updated>
+  <updated>2026-07-28T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Introducing Build Mode</title>
+    <link href="https://x.ai/news/grok-build-mode"/>
+    <id>ddfbb733e5c5372235bf7d8679a82205</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Grok in Google Workspace</title>
     <link href="https://x.ai/news/introducing-google-workspace-addon"/>
@@ -35,6 +42,7 @@
     <id>13957b80c323ca9a7f39e77ebaca3b81</id>
     <published>2026-07-21T00:00:00+00:00</published>
     <updated>2026-07-21T00:00:00+00:00</updated>
+    <summary type="text">Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.</summary>
   </entry>
   <entry>
     <title>Grok for Excel</title>

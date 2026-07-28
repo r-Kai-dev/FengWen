@@ -4,10 +4,30 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-28T17:16:45+00:00</updated>
+  <updated>2026-07-28T18:01:09+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>OpenAI Replaces Whisper With gpt-transcribe, Slashing Errors by 52%</title>
+    <link href="https://developers.openai.com/api/docs/guides/transcription/"/>
+    <id>271599a38a112d6db2e40e4d6d5a4960</id>
+    <published>2026-07-28T18:01:09+00:00</published>
+    <updated>2026-07-28T18:01:09+00:00</updated>
+    <summary type="text">OpenAI's new gpt-transcribe and gpt-live-transcribe models bring context-aware speech recognition to the API, cutting error rates by up to 41% over Whisper</summary>
+    <category term="audio"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Anthropic Rebuilds MCP as Stateless, Unlocking Serverless AI Agent Deployments</title>
+    <link href="https://claude.com/blog/bringing-mcp-2026-07-28-to-claude"/>
+    <id>b799f93c86feb08553408e0d79697123</id>
+    <published>2026-07-28T18:00:16+00:00</published>
+    <updated>2026-07-28T18:00:16+00:00</updated>
+    <summary type="text">MCP 2026-07-28 drops sessions entirely, making servers deployable on serverless and edge infrastructure for the first time, while adding a formal extensions framework and hardened enterprise auth.</summary>
+    <category term="agents"/>
+    <category term="infra"/>
+  </entry>
   <entry>
     <title>Anthropic's Claude Mythos Cracks Two Encryption Systems in 60 Hours</title>
     <link href="https://www-cdn.anthropic.com/5273e714527440f1c8b7c7bf5756d4ac22ae8995/aes_mobius_bridge_cot.pdf"/>
@@ -17,6 +37,16 @@
     <summary type="text">Claude Mythos Preview cracked a post-quantum signature scheme and accelerated an AES attack by up to 800x, doing in days what human experts missed for years</summary>
     <category term="reasoning"/>
     <category term="security"/>
+  </entry>
+  <entry>
+    <title>Poolside's Laguna S 2.1 Beats DeepSeek With One-Sixth the Active Parameters</title>
+    <link href="https://cdn.crabnebula.app/asset/01KYMPDQDSJWX4GM86DMWWTVWD?from=%7B%22orgSlug%22%3A%22poolside%22%2C%22appSlug%22%3A%22desktop-assistant%22%2C%22publicPlatform%22%3A%22dmg-aarch64%22%7D"/>
+    <id>0661928e1d50ebe9a55a7f61b8ea45bc</id>
+    <published>2026-07-28T17:00:24+00:00</published>
+    <updated>2026-07-28T17:00:24+00:00</updated>
+    <summary type="text">Poolside's new macOS app lets you run Claude Code, Codex, Gemini, and pool in parallel â all from one vendor-agnostic workspace built on the open ACP standard</summary>
+    <category term="development"/>
+    <category term="agents"/>
   </entry>
   <entry>
     <title>Goodfire's Silico Fixes AI Training Collapse in an Afternoon Without Retraining</title>
@@ -97,35 +127,5 @@
     <summary type="text">Microsoft's first in-house cybersecurity model hits 96% on CyberGym, beating Anthropic and OpenAI at half the cost</summary>
     <category term="agents"/>
     <category term="security"/>
-  </entry>
-  <entry>
-    <title>Goodfire's Silico Finds Human Cognitive Biases Geometrically Encoded Inside LLMs</title>
-    <link href="https://en.wikipedia.org/wiki/Bouba/kiki_effect"/>
-    <id>92541920e3ea88e9277ddf2787abc371</id>
-    <published>2026-07-27T16:53:12+00:00</published>
-    <updated>2026-07-27T16:53:12+00:00</updated>
-    <summary type="text">Goodfire used mechanistic interpretability to find a 'bouba-kiki space' inside Llama and Gemma, and is opening access to Silico, the platform that found it.</summary>
-    <category term="llms"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Cognition's Devin Adds Kimi K3, the Open-Source Model Beating GPT-5.5</title>
-    <link href="https://devin.ai/blog/kimi-k3"/>
-    <id>817aadf65777d75cac910b5ce74fa83b</id>
-    <published>2026-07-27T15:38:20+00:00</published>
-    <updated>2026-07-27T15:38:20+00:00</updated>
-    <summary type="text">Moonshot AI's 2.8T open-weight model is now selectable in Devin Desktop and CLI, the first open-source model to approach frontier-level scores on Cognition's real-world coding benchmark.</summary>
-    <category term="development"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Moonshot AI Open-Sources FlashKDA, Making Kimi Linear 2x Faster on GPUs</title>
-    <link href="https://github.com/MoonshotAI/FlashKDA"/>
-    <id>adfedab64d436700c0a0b55b4bcb3c6c</id>
-    <published>2026-07-27T15:25:03+00:00</published>
-    <updated>2026-07-27T15:25:03+00:00</updated>
-    <summary type="text">Moonshot AI open-sources FlashKDA, a CUTLASS-based kernel delivering up to 2.3x prefill speedup for Kimi Delta Attention on H20 GPUs</summary>
-    <category term="gpus"/>
-    <category term="open_source"/>
   </entry>
 </feed>
