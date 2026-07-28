@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T21:04:07.139561+00:00",
+  "generated_at": "2026-07-28T18:11:28.630528+00:00",
   "feeds": {
     "anthropic_news.xml": {
       "output_file": "anthropic_news.xml",
-      "entry_count": 13,
+      "entry_count": 14,
       "newest_date": "2026-07-27",
       "oldest_date": "2026-06-30",
-      "age_days": 0,
+      "age_days": 1,
       "issues": [],
       "status": "healthy",
       "name": "Anthropic",
@@ -20,9 +20,9 @@
     "anthropic_research.xml": {
       "output_file": "anthropic_research.xml",
       "entry_count": 13,
-      "newest_date": "2026-07-24",
+      "newest_date": "2026-07-28",
       "oldest_date": "2026-03-18",
-      "age_days": 3,
+      "age_days": 0,
       "issues": [],
       "status": "healthy",
       "name": "Anthropic",
@@ -38,9 +38,9 @@
       "entry_count": 25,
       "newest_date": "2026-05-25",
       "oldest_date": "2024-09-19",
-      "age_days": 63,
+      "age_days": 64,
       "issues": [
-        "stale_63d"
+        "stale_64d"
       ],
       "status": "warning",
       "name": "Anthropic",
@@ -56,7 +56,7 @@
       "entry_count": 66,
       "newest_date": "2026-07-24",
       "oldest_date": "2023-11-03",
-      "age_days": 3,
+      "age_days": 4,
       "issues": [],
       "status": "healthy",
       "name": "xAI",
@@ -69,9 +69,9 @@
     },
     "github_trending-since-daily.xml": {
       "output_file": "github_trending-since-daily.xml",
-      "entry_count": 15,
-      "newest_date": "2026-07-27",
-      "oldest_date": "2026-07-27",
+      "entry_count": 12,
+      "newest_date": "2026-07-28",
+      "oldest_date": "2026-07-28",
       "age_days": 0,
       "issues": [
         "all_same_date"
@@ -87,9 +87,9 @@
     },
     "github_trending-since-weekly.xml": {
       "output_file": "github_trending-since-weekly.xml",
-      "entry_count": 25,
-      "newest_date": "2026-07-27",
-      "oldest_date": "2026-07-27",
+      "entry_count": 22,
+      "newest_date": "2026-07-28",
+      "oldest_date": "2026-07-28",
       "age_days": 0,
       "issues": [
         "all_same_date"
@@ -105,9 +105,9 @@
     },
     "github_trending-since-monthly.xml": {
       "output_file": "github_trending-since-monthly.xml",
-      "entry_count": 22,
-      "newest_date": "2026-07-27",
-      "oldest_date": "2026-07-27",
+      "entry_count": 23,
+      "newest_date": "2026-07-28",
+      "oldest_date": "2026-07-28",
       "age_days": 0,
       "issues": [
         "all_same_date"
@@ -124,8 +124,8 @@
     "github_trends.xml": {
       "output_file": "github_trends.xml",
       "entry_count": 54,
-      "newest_date": "2026-07-27",
-      "oldest_date": "2026-07-27",
+      "newest_date": "2026-07-28",
+      "oldest_date": "2026-07-28",
       "age_days": 0,
       "issues": [
         "all_same_date"
@@ -144,7 +144,7 @@
       "entry_count": 5,
       "newest_date": "2026-07-27",
       "oldest_date": "2026-06-29",
-      "age_days": 0,
+      "age_days": 1,
       "issues": [],
       "status": "healthy",
       "name": "Meta AI",
@@ -158,8 +158,8 @@
     "aibase_zh-daily.xml": {
       "output_file": "aibase_zh-daily.xml",
       "entry_count": 20,
-      "newest_date": "2026-07-27",
-      "oldest_date": "2026-06-29",
+      "newest_date": "2026-07-28",
+      "oldest_date": "2026-06-30",
       "age_days": 0,
       "issues": [],
       "status": "healthy",
@@ -176,7 +176,7 @@
       "entry_count": 19,
       "newest_date": "2026-07-24",
       "oldest_date": "2025-01-22",
-      "age_days": 3,
+      "age_days": 4,
       "issues": [],
       "status": "healthy",
       "name": "DeepLearning.AI",
@@ -192,7 +192,7 @@
       "entry_count": 12,
       "newest_date": "2026-07-24",
       "oldest_date": "2026-07-08",
-      "age_days": 3,
+      "age_days": 4,
       "issues": [],
       "status": "healthy",
       "name": "Artificial Analysis",
@@ -208,9 +208,9 @@
       "entry_count": 8,
       "newest_date": "2026-04-20",
       "oldest_date": "2025-07-11",
-      "age_days": 98,
+      "age_days": 99,
       "issues": [
-        "stale_98d"
+        "stale_99d"
       ],
       "status": "warning",
       "name": "Kimi (Moonshot AI)",
@@ -226,9 +226,9 @@
       "entry_count": 9,
       "newest_date": "2026-02-25",
       "oldest_date": "2025-07-11",
-      "age_days": 152,
+      "age_days": 153,
       "issues": [
-        "stale_152d"
+        "stale_153d"
       ],
       "status": "warning",
       "name": "Moonshot AI",
@@ -244,7 +244,7 @@
       "entry_count": 21,
       "newest_date": "2026-07-16",
       "oldest_date": "2025-01-15",
-      "age_days": 11,
+      "age_days": 12,
       "issues": [],
       "status": "healthy",
       "name": "MiniMax",
@@ -260,9 +260,9 @@
       "entry_count": 17,
       "newest_date": "2026-06-16",
       "oldest_date": "2025-07-15",
-      "age_days": 41,
+      "age_days": 42,
       "issues": [
-        "stale_41d"
+        "stale_42d"
       ],
       "status": "warning",
       "name": "Z.AI",
@@ -278,7 +278,7 @@
       "entry_count": 10,
       "newest_date": "2026-07-23",
       "oldest_date": "2026-05-07",
-      "age_days": 4,
+      "age_days": 5,
       "issues": [],
       "status": "healthy",
       "name": "Black Forest Labs",
@@ -294,9 +294,9 @@
       "entry_count": 3,
       "newest_date": "2026-03-03",
       "oldest_date": "2025-05-29",
-      "age_days": 146,
+      "age_days": 147,
       "issues": [
-        "stale_146d"
+        "stale_147d"
       ],
       "status": "warning",
       "name": "Black Forest Labs",
@@ -309,10 +309,10 @@
     },
     "luma_news.xml": {
       "output_file": "luma_news.xml",
-      "entry_count": 49,
-      "newest_date": "2026-07-23",
+      "entry_count": 59,
+      "newest_date": "2026-07-28",
       "oldest_date": "2025-03-11",
-      "age_days": 4,
+      "age_days": 0,
       "issues": [],
       "status": "healthy",
       "name": "Luma AI",
@@ -328,7 +328,7 @@
       "entry_count": 9,
       "newest_date": "2026-07-15",
       "oldest_date": "2025-10-01",
-      "age_days": 12,
+      "age_days": 13,
       "issues": [],
       "status": "healthy",
       "name": "Thinking Machines Lab",
@@ -344,9 +344,9 @@
       "entry_count": 6,
       "newest_date": "2025-11-19",
       "oldest_date": "2025-02-07",
-      "age_days": 250,
+      "age_days": 251,
       "issues": [
-        "stale_250d"
+        "stale_251d"
       ],
       "status": "warning",
       "name": "Udio",
@@ -362,9 +362,9 @@
       "entry_count": 1,
       "newest_date": "2026-03-10",
       "oldest_date": "2026-03-10",
-      "age_days": 139,
+      "age_days": 140,
       "issues": [
-        "stale_139d"
+        "stale_140d"
       ],
       "status": "warning",
       "name": "AMI Lab",
@@ -377,8 +377,8 @@
     },
     "resemble_resources.xml": {
       "output_file": "resemble_resources.xml",
-      "entry_count": 12,
-      "newest_date": "2026-07-27",
+      "entry_count": 13,
+      "newest_date": "2026-07-28",
       "oldest_date": "2026-07-07",
       "age_days": 0,
       "issues": [],
@@ -393,10 +393,10 @@
     },
     "worldlabs_blog.xml": {
       "output_file": "worldlabs_blog.xml",
-      "entry_count": 10,
-      "newest_date": "2026-07-21",
+      "entry_count": 11,
+      "newest_date": "2026-07-28",
       "oldest_date": "2024-12-02",
-      "age_days": 6,
+      "age_days": 0,
       "issues": [],
       "status": "healthy",
       "name": "World Labs",
@@ -412,7 +412,7 @@
       "entry_count": 9,
       "newest_date": "2026-07-01",
       "oldest_date": "2026-04-01",
-      "age_days": 26,
+      "age_days": 27,
       "issues": [],
       "status": "healthy",
       "name": "Ai2",
@@ -426,9 +426,9 @@
     "allenai_research.xml": {
       "output_file": "allenai_research.xml",
       "entry_count": 9,
-      "newest_date": "2026-07-13",
-      "oldest_date": "2026-05-05",
-      "age_days": 14,
+      "newest_date": "2026-07-28",
+      "oldest_date": "2026-05-08",
+      "age_days": 0,
       "issues": [],
       "status": "healthy",
       "name": "Ai2",
@@ -442,8 +442,8 @@
     "alphasignal_news.xml": {
       "output_file": "alphasignal_news.xml",
       "entry_count": 12,
-      "newest_date": "2026-07-27",
-      "oldest_date": "2026-07-24",
+      "newest_date": "2026-07-28",
+      "oldest_date": "2026-07-27",
       "age_days": 0,
       "issues": [],
       "status": "healthy",
@@ -460,7 +460,7 @@
       "entry_count": 6,
       "newest_date": "2026-06-29",
       "oldest_date": "2026-03-18",
-      "age_days": 28,
+      "age_days": 29,
       "issues": [],
       "status": "healthy",
       "name": "Boson AI",
@@ -476,9 +476,9 @@
       "entry_count": 18,
       "newest_date": "2026-05-28",
       "oldest_date": "2023-08-22",
-      "age_days": 60,
+      "age_days": 61,
       "issues": [
-        "stale_60d"
+        "stale_61d"
       ],
       "status": "warning",
       "name": "ElevenLabs",
@@ -492,7 +492,7 @@
     "hume_blog.xml": {
       "output_file": "hume_blog.xml",
       "entry_count": 9,
-      "newest_date": "2026-07-27",
+      "newest_date": "2026-07-28",
       "oldest_date": "2026-04-09",
       "age_days": 0,
       "issues": [],
@@ -510,7 +510,7 @@
       "entry_count": 27,
       "newest_date": "2026-07-10",
       "oldest_date": "2023-11-17",
-      "age_days": 17,
+      "age_days": 18,
       "issues": [],
       "status": "healthy",
       "name": "Kyutai",
@@ -526,7 +526,7 @@
       "entry_count": 18,
       "newest_date": "2026-07-06",
       "oldest_date": "2024-09-17",
-      "age_days": 21,
+      "age_days": 22,
       "issues": [],
       "status": "healthy",
       "name": "Kyutai",
@@ -542,7 +542,7 @@
       "entry_count": 101,
       "newest_date": "2026-07-27",
       "oldest_date": "2023-03-30",
-      "age_days": 0,
+      "age_days": 1,
       "issues": [],
       "status": "healthy",
       "name": "LMSYS",
@@ -555,10 +555,10 @@
     },
     "perplexity_blog.xml": {
       "output_file": "perplexity_blog.xml",
-      "entry_count": 123,
-      "newest_date": "2026-07-15",
+      "entry_count": 125,
+      "newest_date": "2026-07-28",
       "oldest_date": "2023-03-28",
-      "age_days": 12,
+      "age_days": 0,
       "issues": [],
       "status": "healthy",
       "name": "Perplexity",
@@ -574,7 +574,7 @@
       "entry_count": 5,
       "newest_date": "2026-07-15",
       "oldest_date": "2026-05-20",
-      "age_days": 12,
+      "age_days": 13,
       "issues": [],
       "status": "healthy",
       "name": "Perplexity Research",
@@ -590,7 +590,7 @@
       "entry_count": 63,
       "newest_date": "2026-07-23",
       "oldest_date": "2018-05-28",
-      "age_days": 4,
+      "age_days": 5,
       "issues": [],
       "status": "healthy",
       "name": "Runway",
@@ -606,9 +606,9 @@
       "entry_count": 11,
       "newest_date": "2025-09-24",
       "oldest_date": "2021-12-17",
-      "age_days": 306,
+      "age_days": 307,
       "issues": [
-        "stale_306d"
+        "stale_307d"
       ],
       "status": "warning",
       "name": "Runway",
@@ -624,9 +624,9 @@
       "entry_count": 3,
       "newest_date": "2026-05-27",
       "oldest_date": "2025-02-27",
-      "age_days": 61,
+      "age_days": 62,
       "issues": [
-        "stale_61d"
+        "stale_62d"
       ],
       "status": "warning",
       "name": "Sesame AI",
@@ -656,8 +656,8 @@
     "hackernews_best.xml": {
       "output_file": "hackernews_best.xml",
       "entry_count": 50,
-      "newest_date": "2026-07-27",
-      "oldest_date": "2026-07-25",
+      "newest_date": "2026-07-28",
+      "oldest_date": "2026-07-26",
       "age_days": 0,
       "issues": [],
       "status": "healthy",
@@ -672,8 +672,8 @@
     "huggingface_trending_models.xml": {
       "output_file": "huggingface_trending_models.xml",
       "entry_count": 20,
-      "newest_date": "2026-07-27",
-      "oldest_date": "2026-07-27",
+      "newest_date": "2026-07-28",
+      "oldest_date": "2026-07-28",
       "age_days": 0,
       "issues": [
         "all_same_date"
@@ -690,8 +690,8 @@
     "huggingface_trending_datasets.xml": {
       "output_file": "huggingface_trending_datasets.xml",
       "entry_count": 20,
-      "newest_date": "2026-07-27",
-      "oldest_date": "2026-07-27",
+      "newest_date": "2026-07-28",
+      "oldest_date": "2026-07-28",
       "age_days": 0,
       "issues": [
         "all_same_date"
@@ -710,7 +710,7 @@
       "entry_count": 11,
       "newest_date": "2026-07-21",
       "oldest_date": "2026-06-28",
-      "age_days": 6,
+      "age_days": 7,
       "issues": [],
       "status": "healthy",
       "name": "Hugging Face",
@@ -726,9 +726,9 @@
       "entry_count": 98,
       "newest_date": "2026-06-22",
       "oldest_date": "2025-05-14",
-      "age_days": 35,
+      "age_days": 36,
       "issues": [
-        "stale_35d"
+        "stale_36d"
       ],
       "status": "warning",
       "name": "Groq",
@@ -744,9 +744,9 @@
       "entry_count": 21,
       "newest_date": "2026-06-22",
       "oldest_date": "2025-05-15",
-      "age_days": 35,
+      "age_days": 36,
       "issues": [
-        "stale_35d"
+        "stale_36d"
       ],
       "status": "warning",
       "name": "Groq",
@@ -760,13 +760,11 @@
     "ainewsradar_bole-picks.xml": {
       "output_file": "ainewsradar_bole-picks.xml",
       "entry_count": 20,
-      "newest_date": "2026-07-27",
+      "newest_date": "2026-07-28",
       "oldest_date": "2026-07-27",
       "age_days": 0,
-      "issues": [
-        "all_same_date"
-      ],
-      "status": "warning",
+      "issues": [],
+      "status": "healthy",
       "name": "AI News Radar",
       "strategy": "request",
       "category": "Hourly",
@@ -780,7 +778,7 @@
       "entry_count": 9,
       "newest_date": "2026-07-19",
       "oldest_date": "2026-02-15",
-      "age_days": 8,
+      "age_days": 9,
       "issues": [],
       "status": "healthy",
       "name": "ByteDance Seed",
@@ -796,7 +794,7 @@
       "entry_count": 20,
       "newest_date": "2026-07-05",
       "oldest_date": "2026-04-29",
-      "age_days": 22,
+      "age_days": 23,
       "issues": [],
       "status": "healthy",
       "name": "ByteDance Seed",
@@ -812,9 +810,9 @@
       "entry_count": 15,
       "newest_date": "2026-04-24",
       "oldest_date": "2024-07-25",
-      "age_days": 94,
+      "age_days": 95,
       "issues": [
-        "stale_94d"
+        "stale_95d"
       ],
       "status": "warning",
       "name": "DeepSeek",
@@ -830,7 +828,7 @@
       "entry_count": 6,
       "newest_date": "2026-07-21",
       "oldest_date": "2026-02-03",
-      "age_days": 6,
+      "age_days": 7,
       "issues": [],
       "status": "healthy",
       "name": "Tencent Hunyuan",
@@ -846,7 +844,7 @@
       "entry_count": 5,
       "newest_date": "2026-07-21",
       "oldest_date": "2026-06-16",
-      "age_days": 6,
+      "age_days": 7,
       "issues": [],
       "status": "healthy",
       "name": "Qwen (Alibaba)",
@@ -862,9 +860,9 @@
       "entry_count": 36,
       "newest_date": "2026-05-11",
       "oldest_date": "2023-12-14",
-      "age_days": 77,
+      "age_days": 78,
       "issues": [
-        "stale_77d"
+        "stale_78d"
       ],
       "status": "warning",
       "name": "Unsloth",
@@ -879,8 +877,8 @@
       "output_file": "alphaxiv_hot_papers.xml",
       "entry_count": 5,
       "newest_date": "2026-07-27",
-      "oldest_date": "2026-07-23",
-      "age_days": 0,
+      "oldest_date": "2026-07-27",
+      "age_days": 1,
       "issues": [],
       "status": "healthy",
       "name": "alphaXiv",
@@ -896,7 +894,7 @@
       "entry_count": 10,
       "newest_date": "2026-07-22",
       "oldest_date": "2026-06-24",
-      "age_days": 5,
+      "age_days": 6,
       "issues": [],
       "status": "healthy",
       "name": "Epoch AI",
@@ -912,7 +910,7 @@
       "entry_count": 48,
       "newest_date": "2026-07-20",
       "oldest_date": "2026-06-21",
-      "age_days": 7,
+      "age_days": 8,
       "issues": [],
       "status": "healthy",
       "name": "LTX Studio",
@@ -928,7 +926,7 @@
       "entry_count": 9,
       "newest_date": "2026-07-08",
       "oldest_date": "2025-05-06",
-      "age_days": 19,
+      "age_days": 20,
       "issues": [],
       "status": "healthy",
       "name": "LTX Studio",
@@ -944,9 +942,9 @@
       "entry_count": 4,
       "newest_date": "2026-06-14",
       "oldest_date": "2026-03-04",
-      "age_days": 43,
+      "age_days": 44,
       "issues": [
-        "stale_43d"
+        "stale_44d"
       ],
       "status": "warning",
       "name": "Agents' Last Exam",
@@ -960,7 +958,7 @@
     "vals_news.xml": {
       "output_file": "vals_news.xml",
       "entry_count": 13,
-      "newest_date": "2026-07-27",
+      "newest_date": "2026-07-28",
       "oldest_date": "2026-06-12",
       "age_days": 0,
       "issues": [],
@@ -976,9 +974,9 @@
     "higgsfield_blog.xml": {
       "output_file": "higgsfield_blog.xml",
       "entry_count": 31,
-      "newest_date": "2026-07-25",
+      "newest_date": "2026-07-27",
       "oldest_date": "2025-10-16",
-      "age_days": 2,
+      "age_days": 1,
       "issues": [],
       "status": "healthy",
       "name": "Higgsfield",
@@ -991,10 +989,10 @@
     },
     "cursor_blog.xml": {
       "output_file": "cursor_blog.xml",
-      "entry_count": 102,
-      "newest_date": "2026-07-22",
+      "entry_count": 103,
+      "newest_date": "2026-07-28",
       "oldest_date": "2023-06-11",
-      "age_days": 5,
+      "age_days": 0,
       "issues": [],
       "status": "healthy",
       "name": "Cursor",
@@ -1010,7 +1008,7 @@
       "entry_count": 24,
       "newest_date": "2026-07-27",
       "oldest_date": "2026-02-12",
-      "age_days": 0,
+      "age_days": 1,
       "issues": [],
       "status": "healthy",
       "name": "Figma",
@@ -1026,7 +1024,7 @@
       "entry_count": 137,
       "newest_date": "2026-07-15",
       "oldest_date": "2024-01-09",
-      "age_days": 12,
+      "age_days": 13,
       "issues": [],
       "status": "healthy",
       "name": "Lovable",
@@ -1042,7 +1040,7 @@
       "entry_count": 27,
       "newest_date": "2026-07-27",
       "oldest_date": "2024-04-22",
-      "age_days": 0,
+      "age_days": 1,
       "issues": [],
       "status": "healthy",
       "name": "Microsoft AI",
@@ -1055,10 +1053,10 @@
     },
     "cognition_blog.xml": {
       "output_file": "cognition_blog.xml",
-      "entry_count": 81,
-      "newest_date": "2026-07-23",
+      "entry_count": 82,
+      "newest_date": "2026-07-28",
       "oldest_date": "2024-03-12",
-      "age_days": 4,
+      "age_days": 0,
       "issues": [],
       "status": "healthy",
       "name": "Cognition",
@@ -1074,7 +1072,7 @@
       "entry_count": 50,
       "newest_date": "2026-07-22",
       "oldest_date": "2026-05-19",
-      "age_days": 5,
+      "age_days": 6,
       "issues": [],
       "status": "healthy",
       "name": "Krea",
@@ -1090,7 +1088,7 @@
       "entry_count": 20,
       "newest_date": "2026-07-23",
       "oldest_date": "2025-11-17",
-      "age_days": 4,
+      "age_days": 5,
       "issues": [],
       "status": "healthy",
       "name": "Scale Labs",
@@ -1122,7 +1120,7 @@
       "entry_count": 50,
       "newest_date": "2026-07-27",
       "oldest_date": "2025-12-02",
-      "age_days": 0,
+      "age_days": 1,
       "issues": [],
       "status": "healthy",
       "name": "Fireworks AI",
@@ -2051,8 +2049,8 @@
   },
   "summary": {
     "total": 129,
-    "healthy": 46,
-    "warning": 22,
+    "healthy": 47,
+    "warning": 21,
     "error": 0,
     "unchecked": 61
   }

@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-07-13T00:00:00+00:00</updated>
+  <updated>2026-07-28T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>The OlmoEarth Platform: Geospatial inference at planetary scale</title>
+    <link href="https://allenai.org/blog/olmoearth-infrastructure"/>
+    <id>435f86ed53e3fe0ffccd0756c3d257dd</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>What building Shippy taught us about building agents</title>
     <link href="https://allenai.org/blog/shippy-deep-dive"/>
@@ -63,12 +70,5 @@
     <id>0ca2481d78d6b0dff8db794d33327890</id>
     <published>2026-05-08T00:00:00+00:00</published>
     <updated>2026-05-08T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>MolmoAct 2: An open foundation for robots that work in the real world</title>
-    <link href="https://allenai.org/blog/molmoact2"/>
-    <id>9909e59154557f026568ef10a7c8e14c</id>
-    <published>2026-05-05T00:00:00+00:00</published>
-    <updated>2026-05-05T00:00:00+00:00</updated>
   </entry>
 </feed>

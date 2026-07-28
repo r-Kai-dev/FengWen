@@ -4,21 +4,224 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-07-27T19:08:51+00:00</updated>
+  <updated>2026-07-28T16:27:42+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs</title>
-    <link href="https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs"/>
-    <id>3cbc71c76f1c47e7e20e05622f0883be</id>
-    <published>2026-07-27T19:08:51+00:00</published>
-    <updated>2026-07-27T19:08:51+00:00</updated>
-    <summary type="text">Score: 0.757\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OlmoEarth 平台：行星尺度的地理空间推理 / The OlmoEarth Platform: Geospatial inference at planetary scale</title>
+    <link href="https://huggingface.co/blog/allenai/olmoearth-infrastructure"/>
+    <id>3276ba003bc273944e218975dadff6be</id>
+    <published>2026-07-28T16:27:42+00:00</published>
+    <updated>2026-07-28T16:27:42+00:00</updated>
+    <summary type="text">Score: 0.859\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more</title>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks"/>
+    <id>7c19a9a79f0d5bfd230f9bf855c49f1f</id>
+    <published>2026-07-28T16:00:00+00:00</published>
+    <updated>2026-07-28T16:00:00+00:00</updated>
+    <summary type="text">Score: 0.875\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Kimi Linear：一种表现力强且高效的注意力架构</title>
+    <link href="https://arxiv.org/abs/2510.26692"/>
+    <id>e394f1847ef6c417ead98e092eb7e342</id>
+    <published>2026-07-28T15:21:28.545000+00:00</published>
+    <updated>2026-07-28T15:21:28.545000+00:00</updated>
+    <summary type="text">Score: 0.776\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
+  </entry>
+  <entry>
+    <title>LFM2.5-Encoders：在CPU上实现快速长上下文推理 / LFM2.5-Encoders for Fast Long-Context Inference on CPU</title>
+    <link href="https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"/>
+    <id>aa598c946d561802c0bd3d9c8b979318</id>
+    <published>2026-07-28T15:01:45+00:00</published>
+    <updated>2026-07-28T15:01:45+00:00</updated>
+    <summary type="text">Score: 0.861\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Dependabot 对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems</title>
+    <link href="https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems"/>
+    <id>375a5947b435fe2f2a177966625440ab</id>
+    <published>2026-07-28T14:55:31+00:00</published>
+    <updated>2026-07-28T14:55:31+00:00</updated>
+    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…</title>
+    <link href="https://x.com/perplexity_ai/status/2082103880155046176"/>
+    <id>650e81cf387685e7fd796254542f8d56</id>
+    <published>2026-07-28T14:00:23+00:00</published>
+    <updated>2026-07-28T14:00:23+00:00</updated>
+    <summary type="text">Score: 0.788\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world</title>
+    <link href="https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips"/>
+    <id>def4fe55d52f8d27bba5d8a8f546aab4</id>
+    <published>2026-07-28T13:00:00+00:00</published>
+    <updated>2026-07-28T13:00:00+00:00</updated>
+    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>用Google Search举办终极晚宴的5种方法 / 5 ways to host the ultimate dinner party with Google Search</title>
+    <link href="https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips"/>
+    <id>541867ec2e4e2432d8edd6076e3946ab</id>
+    <published>2026-07-28T13:00:00+00:00</published>
+    <updated>2026-07-28T13:00:00+00:00</updated>
+    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被&quot;直接给答案&quot;取代</title>
+    <link href="https://www.aibase.com/news/29953"/>
+    <id>dc76d8d117f532f7d3c199f40baf1765</id>
+    <published>2026-07-28T12:14:40.244529+00:00</published>
+    <updated>2026-07-28T12:14:40.244529+00:00</updated>
+    <summary type="text">Score: 0.756\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GitHub Actions 扣留潜在恶意工作流以待审批 / GitHub Actions holds potentially malicious workflows for approval</title>
+    <link href="https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval"/>
+    <id>9660622c2ae4538010d60bdeb1d79234</id>
+    <published>2026-07-28T11:57:19+00:00</published>
+    <updated>2026-07-28T11:57:19+00:00</updated>
+    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym</title>
+    <link href="https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym"/>
+    <id>a92bb51dfdcbcc65ed57d8d251beb128</id>
+    <published>2026-07-28T08:33:30+00:00</published>
+    <updated>2026-07-28T08:33:30+00:00</updated>
+    <summary type="text">Score: 0.769\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力</title>
+    <link href="https://www.aibase.com/news/29952"/>
+    <id>f2d2556d1d02059bfa35936cffbcb267</id>
+    <published>2026-07-28T07:51:54+00:00</published>
+    <updated>2026-07-28T07:51:54+00:00</updated>
+    <summary type="text">Score: 0.775\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权</title>
+    <link href="https://www.ithome.com/0/982/520.htm"/>
+    <id>0043eafd2fe3a0b67234a0509cff6c6f</id>
+    <published>2026-07-28T06:21:07+00:00</published>
+    <updated>2026-07-28T06:21:07+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA</title>
+    <link href="https://usefeyn.com/blog/feynobg"/>
+    <id>237da51df56825c9bd7afe0cc5381ff4</id>
+    <published>2026-07-28T04:57:13.190000+00:00</published>
+    <updated>2026-07-28T04:57:13.190000+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot for JetBrains 新增改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management</title>
+    <link href="https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management"/>
+    <id>19b5d21215e56cc261ad328bd762dd19</id>
+    <published>2026-07-28T01:23:10+00:00</published>
+    <updated>2026-07-28T01:23:10+00:00</updated>
+    <summary type="text">Score: 0.816\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models</title>
+    <link href="https://www.anthropic.com/news/position-open-weights-models"/>
+    <id>ec31d70c68d68440425a59b228299a58</id>
+    <published>2026-07-27T22:26:00.307000+00:00</published>
+    <updated>2026-07-27T22:26:00.307000+00:00</updated>
+    <summary type="text">Score: 0.766\nSources: 2 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy</title>
+    <link href="https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy"/>
+    <id>dfea0d81be259dc724fc6e04e3898c5c</id>
+    <published>2026-07-27T20:43:37+00:00</published>
+    <updated>2026-07-27T20:43:37+00:00</updated>
+    <summary type="text">Score: 0.807\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
     <title>Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …</title>
@@ -26,10 +229,9 @@
     <id>c254d2a82cb188d1cecff3378a059de5</id>
     <published>2026-07-27T18:45:20+00:00</published>
     <updated>2026-07-27T18:45:20+00:00</updated>
-    <summary type="text">Score: 0.765\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <summary type="text">Score: 0.721\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
@@ -38,11 +240,10 @@
     <id>3bf4da0bfda77394871ac8d513d3f22d</id>
     <published>2026-07-27T18:08:24+00:00</published>
     <updated>2026-07-27T18:08:24+00:00</updated>
-    <summary type="text">Score: 0.786\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <summary type="text">Score: 0.742\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
@@ -51,199 +252,12 @@
     <id>88160fb313d11a9bd841c17ffeb39ca0</id>
     <published>2026-07-27T18:00:00+00:00</published>
     <updated>2026-07-27T18:00:00+00:00</updated>
-    <summary type="text">Score: 0.862\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.818\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
-  </entry>
-  <entry>
-    <title>SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team</title>
-    <link href="https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support"/>
-    <id>93dc8beffcda4076d12f208ec7b3e096</id>
-    <published>2026-07-27T17:50:17.260000+00:00</published>
-    <updated>2026-07-27T17:50:17.260000+00:00</updated>
-    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started"/>
-    <id>21897d42d12b4aade6fc514bedf95ad7</id>
-    <published>2026-07-27T16:00:00+00:00</published>
-    <updated>2026-07-27T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.865\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows</title>
-    <link href="https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows"/>
-    <id>7b9de41131c775b5bfd4514a75324ac4</id>
-    <published>2026-07-27T15:57:12+00:00</published>
-    <updated>2026-07-27T15:57:12+00:00</updated>
-    <summary type="text">Score: 0.793\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…</title>
-    <link href="https://x.com/Kimi_Moonshot/status/2081767591887122564"/>
-    <id>d5f72220d170015266ec589fee7d8ece</id>
-    <published>2026-07-27T15:44:05+00:00</published>
-    <updated>2026-07-27T15:44:05+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …</title>
-    <link href="https://x.com/Kimi_Moonshot/status/2081762978391843020"/>
-    <id>edda1cc5488b2a33fd5c4ecb3b96b7dc</id>
-    <published>2026-07-27T15:25:45+00:00</published>
-    <updated>2026-07-27T15:25:45+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…</title>
-    <link href="https://x.com/Kimi_Moonshot/status/2081760186235289764"/>
-    <id>e52caa3eac5ba06517d422233a89dbfe</id>
-    <published>2026-07-27T15:14:40+00:00</published>
-    <updated>2026-07-27T15:14:40+00:00</updated>
-    <summary type="text">Score: 0.781\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>英伟达和微软发起开放AI安全联盟——但OpenAI、谷歌和Anthropic缺席 / Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity"/>
-    <id>4be518042c5eba49c8928c29445f2d44</id>
-    <published>2026-07-27T12:06:22+00:00</published>
-    <updated>2026-07-27T12:06:22+00:00</updated>
-    <summary type="text">Score: 0.619\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Claude 会话分享链接被搜索引擎&quot;误抓&quot;，大量含私钥与隐私的对话遭公开索引</title>
-    <link href="https://www.aibase.com/news/29910"/>
-    <id>4a30b19847c04852590bcb2600f3de22</id>
-    <published>2026-07-27T11:39:53.729087+00:00</published>
-    <updated>2026-07-27T11:39:53.729087+00:00</updated>
-    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录</title>
-    <link href="https://www.aibase.com/news/29917"/>
-    <id>88ea07a92c73d15900b1c13e1700baf8</id>
-    <published>2026-07-27T11:39:53.729087+00:00</published>
-    <updated>2026-07-27T11:39:53.729087+00:00</updated>
-    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题</title>
-    <link href="https://www.aibase.com/news/29914"/>
-    <id>943a80abd43e3e4f7fe33dfe7fad000d</id>
-    <published>2026-07-27T11:39:53.729087+00:00</published>
-    <updated>2026-07-27T11:39:53.729087+00:00</updated>
-    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>​35 名大学生 32 人考试作弊，教授用一行&quot;隐形咒语&quot;让AI现原形</title>
-    <link href="https://www.aibase.com/news/29916"/>
-    <id>1592f68471451ea7dd054853226692a6</id>
-    <published>2026-07-27T11:39:53.729087+00:00</published>
-    <updated>2026-07-27T11:39:53.729087+00:00</updated>
-    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐</title>
-    <link href="https://www.aibase.com/news/29918"/>
-    <id>07949b616eb099151300c92e5bd31bdc</id>
-    <published>2026-07-27T11:39:53.729087+00:00</published>
-    <updated>2026-07-27T11:39:53.729087+00:00</updated>
-    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布</title>
-    <link href="https://www.aibase.com/news/29912"/>
-    <id>d4970b314ef6b298335f6d7846863395</id>
-    <published>2026-07-27T11:39:53.729087+00:00</published>
-    <updated>2026-07-27T11:39:53.729087+00:00</updated>
-    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>NVIDIA Cosmos-H-Dreams：将实时生成式模拟引入手术机器人 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics</title>
-    <link href="https://huggingface.co/blog/nvidia/cosmos-h-dreams"/>
-    <id>0e52cf046a6b8ee1d75d854593744e19</id>
-    <published>2026-07-27T09:32:20+00:00</published>
-    <updated>2026-07-27T09:32:20+00:00</updated>
-    <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>AI如何拓展人们的工作 / How AI is expanding what people do at work</title>
-    <link href="https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"/>
-    <id>12558cb7aa7c429f5c54b159cef96dbc</id>
-    <published>2026-07-27T03:30:00+00:00</published>
-    <updated>2026-07-27T03:30:00+00:00</updated>
-    <summary type="text">Score: 0.812\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>用AI Skill自动生成可协作HTML PPT</title>
-    <link href="https://x.com/vista8/status/2081568902241513786"/>
-    <id>aeb1de4131d81c28a0d21f1cf2a1eba8</id>
-    <published>2026-07-27T02:34:34+00:00</published>
-    <updated>2026-07-27T02:34:34+00:00</updated>
-    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
   </entry>
 </feed>

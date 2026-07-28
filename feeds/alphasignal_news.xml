@@ -4,10 +4,80 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-27T18:45:20+00:00</updated>
+  <updated>2026-07-28T17:16:45+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Anthropic's Claude Mythos Cracks Two Encryption Systems in 60 Hours</title>
+    <link href="https://www-cdn.anthropic.com/5273e714527440f1c8b7c7bf5756d4ac22ae8995/aes_mobius_bridge_cot.pdf"/>
+    <id>1be66e3933abb42e2efd76efd496e5be</id>
+    <published>2026-07-28T17:16:45+00:00</published>
+    <updated>2026-07-28T17:16:45+00:00</updated>
+    <summary type="text">Claude Mythos Preview cracked a post-quantum signature scheme and accelerated an AES attack by up to 800x, doing in days what human experts missed for years</summary>
+    <category term="reasoning"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>Goodfire's Silico Fixes AI Training Collapse in an Afternoon Without Retraining</title>
+    <link href="https://www.goodfire.ai/contact"/>
+    <id>1219dd6a27d71421b0adbe996914ef14</id>
+    <published>2026-07-28T16:39:55+00:00</published>
+    <updated>2026-07-28T16:39:55+00:00</updated>
+    <summary type="text">Goodfire's Silico platform used Direct Logit Attribution to cut an RL mode collapse from 94% to 5% in one afternoon, without retraining</summary>
+    <category term="post_training"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>LiquidAI's LFM2.5-Encoder Beats ModernBERT at Long Context 3.7x Faster on CPU</title>
+    <link href="https://huggingface.co/spaces/LiquidAI/masked-diffusion"/>
+    <id>6a7daed7ba78d12a6e17b9c10cad28e6</id>
+    <published>2026-07-28T15:07:40+00:00</published>
+    <updated>2026-07-28T15:07:40+00:00</updated>
+    <summary type="text">Liquid AI's new bidirectional encoders run 3.7x faster than ModernBERT on CPU at 8k tokens, with top-4 accuracy across 14 competing models</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Perplexity's Personal Computer Brings AI Agents to Windows' 1 Billion Devices</title>
+    <link href="https://www.perplexity.ai/hub/products/integrations/microsoft"/>
+    <id>aa489645f4f8dfe9f9a01efd906cc864</id>
+    <published>2026-07-28T14:00:23+00:00</published>
+    <updated>2026-07-28T14:00:23+00:00</updated>
+    <summary type="text">Perplexity's Personal Computer agent is now live on Windows, bringing multi-model AI orchestration to local files, Microsoft 365, and 400+ connected apps</summary>
+    <category term="agents"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Reka's WMGym Judges World Models on Decision-Making, Not Pretty Pixels</title>
+    <link href="https://wm-gym.labs.reka.ai/"/>
+    <id>d9f1d45dc0d9900aadffbeee1ae75e11</id>
+    <published>2026-07-28T13:04:21+00:00</published>
+    <updated>2026-07-28T13:04:21+00:00</updated>
+    <summary type="text">Reka's WorldModelGym shifts world model evaluation from visual realism to decision-making accuracy, launching an open leaderboard with a simple API submission protocol</summary>
+    <category term="video"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Cursor Launches India-Only $7 Plan Targeting 3 Million Developers</title>
+    <link href="https://cursor.com/blog/cursor-start-india"/>
+    <id>346e6fc75565b49ab8da50d06a9faa15</id>
+    <published>2026-07-28T05:41:11+00:00</published>
+    <updated>2026-07-28T05:41:11+00:00</updated>
+    <summary type="text">Cursor launches a â¹649/month India-only plan with cloud agents and Grok 4.5 access, as its SpaceX acquisition nears close</summary>
+    <category term="development"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>Epoch's FrontierMath Benchmark Cracks a 40-Year-Old Math Problem Using Fable 5</title>
+    <link href="https://epoch.ai/frontiermath/open-problems"/>
+    <id>5a798a9aa795f861bb1794b72fea7d0d</id>
+    <published>2026-07-28T00:09:15+00:00</published>
+    <updated>2026-07-28T00:09:15+00:00</updated>
+    <summary type="text">Epoch AI announces AI has cracked a 40-year-old open problem in number theory, the second solved on its FrontierMath: Open Problems benchmark.</summary>
+    <category term="reasoning"/>
+    <category term="benchmarks"/>
+  </entry>
   <entry>
     <title>Moonshot AI's PerceptionBench Reveals No Frontier Model Sees Past 60%</title>
     <link href="https://huggingface.co/datasets/moonshotai/PerceptionBench"/>
@@ -19,6 +89,16 @@
     <category term="benchmarks"/>
   </entry>
   <entry>
+    <title>Microsoft's MAI-Cyber-1-Flash Beats Every AI Security Model at Half the Cost</title>
+    <link href="http://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/"/>
+    <id>8267d669cfeb91b7c2316b88e0996c76</id>
+    <published>2026-07-27T17:39:33+00:00</published>
+    <updated>2026-07-27T17:39:33+00:00</updated>
+    <summary type="text">Microsoft's first in-house cybersecurity model hits 96% on CyberGym, beating Anthropic and OpenAI at half the cost</summary>
+    <category term="agents"/>
+    <category term="security"/>
+  </entry>
+  <entry>
     <title>Goodfire's Silico Finds Human Cognitive Biases Geometrically Encoded Inside LLMs</title>
     <link href="https://en.wikipedia.org/wiki/Bouba/kiki_effect"/>
     <id>92541920e3ea88e9277ddf2787abc371</id>
@@ -27,16 +107,6 @@
     <summary type="text">Goodfire used mechanistic interpretability to find a 'bouba-kiki space' inside Llama and Gemma, and is opening access to Silico, the platform that found it.</summary>
     <category term="llms"/>
     <category term="development"/>
-  </entry>
-  <entry>
-    <title>LM Studio Bionic Adds Kimi K3, the Biggest Open-Weight Model Ever Built</title>
-    <link href="https://x.com/lmstudio/status/2081778763822510155"/>
-    <id>5999242869c7a1ace4637ebc3f7412df</id>
-    <published>2026-07-27T16:28:29+00:00</published>
-    <updated>2026-07-27T16:28:29+00:00</updated>
-    <summary type="text">Moonshot AI's 2.8T open-weight reasoning giant lands in LM Studio Bionic with 1M context and ZDR cloud hosting</summary>
-    <category term="llms"/>
-    <category term="infra"/>
   </entry>
   <entry>
     <title>Cognition's Devin Adds Kimi K3, the Open-Source Model Beating GPT-5.5</title>
@@ -57,75 +127,5 @@
     <summary type="text">Moonshot AI open-sources FlashKDA, a CUTLASS-based kernel delivering up to 2.3x prefill speedup for Kimi Delta Attention on H20 GPUs</summary>
     <category term="gpus"/>
     <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Moonshot AI's Kimi K3 Becomes the World's First Open 2.8T Model</title>
-    <link href="https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf"/>
-    <id>b51fd1769ae5b842f6b8934979f5c761</id>
-    <published>2026-07-27T15:14:40+00:00</published>
-    <updated>2026-07-27T15:14:40+00:00</updated>
-    <summary type="text">Moonshot AI releases Kimi K3, a 2.8T open-weight MoE model with a 1M-token context window that beats frontier models on sustained coding and agentic tasks</summary>
-    <category term="llms"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Cohere's North Automations Lets Employees Build Multi-Step AI Workflows Without Code</title>
-    <link href="https://cohere.com/blog/introducing-north-automations-ai-workflows"/>
-    <id>67b8affdc27edc6a18fc173895e64d0b</id>
-    <published>2026-07-27T15:00:10+00:00</published>
-    <updated>2026-07-27T15:00:10+00:00</updated>
-    <summary type="text">Cohere's North platform gains automated multi-step workflow orchestration, letting any employee build governed AI pipelines without writing code</summary>
-    <category term="agents"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>NVIDIA Bets on Ilya Sutskever's Secretive SSI With Vera Rubin Access</title>
-    <link href="https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8"/>
-    <id>f2e729d066fd6db190e6a7c35a73f41d</id>
-    <published>2026-07-27T13:23:08+00:00</published>
-    <updated>2026-07-27T13:23:08+00:00</updated>
-    <summary type="text">NVIDIA takes a stake in Ilya Sutskever's secretive AI lab and hands it access to next-gen Vera Rubin hardware, promising a 10x compute jump with zero disclosed dollar figures</summary>
-    <category term="business"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>vLLM v0.26.0 Ships Day-0 Support for Inkling's 1T-Parameter Multimodal Model</title>
-    <link href="https://github.com/vllm-project/vllm/releases/tag/v0.26.0"/>
-    <id>2e0916fc9caf3700efa801749748698a</id>
-    <published>2026-07-26T15:23:46+00:00</published>
-    <updated>2026-07-26T15:23:46+00:00</updated>
-    <summary type="text">vLLM v0.26.0 ships 411 commits with Day-0 Inkling support, per-group attention backends, tiered KV offloading, and sweeping DeepSeek-V4 speedups across all hardware</summary>
-    <category term="infra"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Midjourney Makes V8.2 the Default, Betting Bold Beats Fast</title>
-    <link href="https://x.com/midjourney/status/2080781271043911807"/>
-    <id>e473b800e879462b676106649fbc2f02</id>
-    <published>2026-07-24T22:24:48+00:00</published>
-    <updated>2026-07-24T22:24:48+00:00</updated>
-    <summary type="text">Midjourney makes V8.2 the new default model, promising bolder aesthetics, stronger personalization, and improved image quality over V8.1</summary>
-    <category term="image"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Opus 5 Tops Agentic Benchmarks at 20% Lower Cost</title>
-    <link href="https://artificialanalysis.ai/evaluations/aa-briefcase"/>
-    <id>8e82e7c2a7aff3d481e382a6fad8c461</id>
-    <published>2026-07-24T22:10:41+00:00</published>
-    <updated>2026-07-24T22:10:41+00:00</updated>
-    <summary type="text">Claude Opus 5 tops the AA-Briefcase agentic benchmark with 1720 Elo, beating Fable 5 by 146 points at 20% lower cost per task</summary>
-    <category term="agents"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Nous Research's Hermes Agent Stops AI Sandboxes From Leaking Your API Keys</title>
-    <link href="https://hermes-agent.nousresearch.com/docs/user-guide/egress/iron-proxy"/>
-    <id>13d7f07ef036f479f4037c6b12bb63f9</id>
-    <published>2026-07-24T18:55:54+00:00</published>
-    <updated>2026-07-24T18:55:54+00:00</updated>
-    <summary type="text">Hermes Agent's new iron-proxy keeps real API keys off Docker sandboxes, replacing them with disposable tokens swapped at the network boundary</summary>
-    <category term="agents"/>
-    <category term="security"/>
   </entry>
 </feed>

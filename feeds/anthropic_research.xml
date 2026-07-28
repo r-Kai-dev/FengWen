@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-07-24T00:00:00+00:00</updated>
+  <updated>2026-07-28T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Discovering cryptographic weaknesses with Claude</title>
+    <link href="https://www.anthropic.com/research/discovering-cryptographic-weaknesses"/>
+    <id>b587ed7eaf40a601302b1537e0174e18</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+    <category term="Frontier Red Team"/>
+  </entry>
   <entry>
     <title>Project Pilot: Can AI control a drone?</title>
     <link href="https://www.anthropic.com/research/project-pilot"/>
@@ -79,14 +87,6 @@
     <published>2026-06-16T00:00:00+00:00</published>
     <updated>2026-06-16T00:00:00+00:00</updated>
     <category term="Economic Research"/>
-  </entry>
-  <entry>
-    <title>Paving the way for agents in biology</title>
-    <link href="https://www.anthropic.com/research/agents-in-biology"/>
-    <id>182f74455314508fa86356f775e7c664</id>
-    <published>2026-06-08T00:00:00+00:00</published>
-    <updated>2026-06-08T00:00:00+00:00</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Teaching Claude why</title>

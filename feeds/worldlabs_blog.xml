@@ -4,10 +4,18 @@
   <icon>https://www.worldlabs.ai/favicon.ico</icon>
   <link href="https://www.worldlabs.ai/blog"/>
   <id>https://www.worldlabs.ai/blog</id>
-  <updated>2026-07-21T00:00:00+00:00</updated>
+  <updated>2026-07-28T00:00:00+00:00</updated>
   <author>
     <name>World Labs</name>
   </author>
+  <entry>
+    <title>Building Worlds That Train Robots</title>
+    <link href="https://www.worldlabs.ai/blog/real-to-sim-to-real"/>
+    <id>12ad7ac14fef0eb76169842a3228e2c2</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+    <summary type="text">Real-to-sim-to-real (R2S2R)  as a scalable engine for training and evaluating robot policies</summary>
+  </entry>
   <entry>
     <title>World Labs Acquires SceniX</title>
     <link href="https://www.worldlabs.ai/blog/scenix"/>
