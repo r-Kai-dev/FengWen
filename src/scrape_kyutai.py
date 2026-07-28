@@ -18,7 +18,7 @@ BASE_URL = "https://kyutai.org"
 
 
 def extract_blog():
-    html = fetch_page(f"{BASE_URL}/blog", impersonate="firefox147")
+    html = fetch_page(f"{BASE_URL}/blog", impersonate="chrome131")
     m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.DOTALL)
     if not m:
         return []
@@ -48,12 +48,12 @@ def extract_blog():
 
 
 def extract_papers():
-    html = fetch_page(f"{BASE_URL}/papers", impersonate="firefox147")
+    html = fetch_page(f"{BASE_URL}/papers", impersonate="chrome131")
     m = re.search(r"/_next/static/chunks/pages/papers-([a-f0-9]+)\.js", html)
     if not m:
         return []
     chunk_url = f"{BASE_URL}/_next/static/chunks/pages/papers-{m.group(1)}.js"
-    js = fetch_page(chunk_url, impersonate="firefox147")
+    js = fetch_page(chunk_url, impersonate="chrome131")
     start = js.find('[{"id"')
     if start < 0:
         return []

@@ -65,7 +65,7 @@ def _extract_json_array(text: str, key: str) -> list[dict]:
 
 def _fetch_items(page_url: str, array_key: str) -> list[dict]:
     """Fetch a Scale Labs page and extract items from the RSC payload."""
-    html = fetch_page(page_url, impersonate="chrome120", timeout=30)
+    html = fetch_page(page_url, impersonate="chrome131", timeout=30)
 
     # Extract all self.__next_f.push chunks
     chunks = re.findall(

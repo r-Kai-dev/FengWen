@@ -85,7 +85,7 @@ def main():
     config = load_feeds_config(ORG_KEY)
     page = config["pages"]["release_notes"]
     logging.info("Fetching %s: %s", page["label"], page["url"])
-    html = fetch_page(page["url"], impersonate="firefox147")
+    html = fetch_page(page["url"], impersonate="chrome131")
     soup = BeautifulSoup(html, "html.parser")
     entries = extract_posts(soup)
     if not entries:

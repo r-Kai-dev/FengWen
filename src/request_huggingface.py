@@ -102,7 +102,7 @@ async def fetch_trending_items(base_url, page_config):
     async with AsyncSession() as session:
         response = await fetch_with_retry(session, f"{base_url}{endpoint}",
                                           params={"type": item_type, "limit": limit},
-                                          impersonate="chrome120", timeout=10)
+                                          impersonate="chrome131", timeout=10)
         items_data = response.json().get("recentlyTrending", [])
         items = [entry for item in items_data if (entry := _build_trending_item(item, item_type))]
         logging.info("Fetched %d trending %s items", len(items), item_type)
@@ -120,7 +120,7 @@ async def fetch_daily_papers(base_url):
             try:
                 response = await fetch_with_retry(session, f"{base_url}/daily_papers",
                                                   params={"date": date},
-                                                  impersonate="chrome120", timeout=10, max_retries=2)
+                                                  impersonate="chrome131", timeout=10, max_retries=2)
                 papers = response.json()
                 for p in papers: p["fetch_date"] = date
                 all_papers.extend(papers)

@@ -122,7 +122,7 @@ def main():
     favicon = config.get("favicon")
     for page_key, page in config["pages"].items():
         logging.info("Fetching %s: %s", page["label"], page["url"])
-        html = fetch_page(page["url"], impersonate="firefox147")
+        html = fetch_page(page["url"], impersonate="chrome131")
         entries = extract_news(html) if page_key == "news" else extract_research(html)
         if not entries:
             logging.warning("No entries for %s", page_key)

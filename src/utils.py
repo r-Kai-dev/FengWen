@@ -84,7 +84,7 @@ def load_feeds_config(org_key: str) -> dict:
 def fetch_page(
     url: str,
     *,
-    impersonate: str = "chrome120",
+    impersonate: str = "chrome131",
     timeout: int = 30,
     headers: dict[str, str] | None = None,
 ) -> str:

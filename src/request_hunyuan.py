@@ -71,7 +71,7 @@ async def main():
                 try:
                     response = await session.post(
                         API_LIST, json={},
-                        impersonate="chrome120", timeout=15,
+                        impersonate="chrome131", timeout=15,
                     )
                     response.raise_for_status()
                     break

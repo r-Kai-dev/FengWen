@@ -65,7 +65,7 @@ async def main():
     config = load_feeds_config(ORG_KEY)
     page = config["pages"]["bole_picks"]
     async with AsyncSession() as session:
-        response = await fetch_with_retry(session, page["url"], impersonate="chrome120", timeout=15)
+        response = await fetch_with_retry(session, page["url"], impersonate="chrome131", timeout=15)
         payload = response.json()
     items = payload.get("items", [])
     if not items:

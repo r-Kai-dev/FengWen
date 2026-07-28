@@ -134,7 +134,7 @@ async def main():
         async with AsyncSession() as session:
             response = await fetch_with_retry(
                 session, page["url"],
-                impersonate="chrome120", timeout=30,
+                impersonate="chrome131", timeout=30,
                 headers=RSC_HEADERS,
             )
             raw_posts = parse_rsc_posts(response.text)

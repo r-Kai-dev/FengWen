@@ -22,7 +22,7 @@ SANITY_API = f"https://{SANITY_PROJECT}.api.sanity.io/v2021-06-07/data/query/pro
 
 
 def fetch_json(url: str) -> dict:
-    return json.loads(fetch_page(url, impersonate="firefox147"))
+    return json.loads(fetch_page(url, impersonate="chrome131"))
 
 
 def fetch_blog_posts() -> list[dict]:
@@ -52,7 +52,7 @@ def fetch_blog_posts() -> list[dict]:
 
 
 def fetch_newsroom_items() -> list[dict]:
-    page_html = fetch_page(f"{BASE_URL}/newsroom", impersonate="firefox147")
+    page_html = fetch_page(f"{BASE_URL}/newsroom", impersonate="chrome131")
     chunks = re.findall(r'self\.__next_f\.push\(\[[0-9]+,\s*"(.*?)"\s*\]\)', page_html, re.DOTALL)
     seen_slugs = set()
     for chunk in chunks:

@@ -92,7 +92,7 @@ async def main():
         for page_key, page in config["pages"].items():
             logging.info("Fetching %s…", page["label"])
             response = await fetch_with_retry(
-                session, api_url, impersonate="chrome120", timeout=15
+                session, api_url, impersonate="chrome131", timeout=15
             )
             data = response.json()
             posts = data.get("result", [])

@@ -47,7 +47,7 @@ def _extract_rsc_posts(html):
 
 
 def extract_news():
-    html = fetch_page(f"{BASE_URL}/news", impersonate="firefox147")
+    html = fetch_page(f"{BASE_URL}/news", impersonate="chrome131")
     posts = _extract_rsc_posts(html)
     news_posts = [p for p in posts if p.get("slug", "").startswith("news/")]
     entries = []
@@ -71,7 +71,7 @@ def extract_news():
 
 
 def extract_research():
-    html = fetch_page(f"{BASE_URL}/research/publications", impersonate="firefox147")
+    html = fetch_page(f"{BASE_URL}/research/publications", impersonate="chrome131")
     chunks = re.findall(r'self\.__next_f\.push\(\[1,\s*"(.*?)"\s*\]\)', html, re.DOTALL)
     publications = []
     for chunk in chunks:

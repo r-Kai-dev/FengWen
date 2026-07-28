@@ -44,7 +44,7 @@ def main() -> None:
     favicon = config.get("favicon")
     for page_key, page in config["pages"].items():
         logging.info("Enhancing %s: %s", page["label"], page["url"])
-        xml_text = fetch_page(page["url"], impersonate="firefox147")
+        xml_text = fetch_page(page["url"], impersonate="chrome131")
         xml_text = fix_krea_feed(xml_text, favicon=favicon)
 
         output_path = FEEDS_DIR / page["output_file"]

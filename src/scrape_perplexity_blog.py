@@ -103,7 +103,7 @@ async def main():
 
     async with AsyncSession() as session:
         resp = await fetch_with_retry(session, PAGE_URL,
-                                      impersonate="firefox147", timeout=30,
+                                      impersonate="chrome131", timeout=30,
                                       headers=HEADERS, base_delay=random.uniform(1.5, 3.0))
 
     entries = extract(resp.text)

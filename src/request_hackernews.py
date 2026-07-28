@@ -19,13 +19,13 @@ ORG_KEY = "hackernews"
 
 async def fetch_best_stories(base_url, limit=50):
     async with AsyncSession() as session:
-        response = await fetch_with_retry(session, f"{base_url}/beststories.json", impersonate="chrome120", timeout=10)
+        response = await fetch_with_retry(session, f"{base_url}/beststories.json", impersonate="chrome131", timeout=10)
         story_ids = response.json()[:limit]
 
         stories = []
         for story_id in story_ids:
             try:
-                sr = await fetch_with_retry(session, f"{base_url}/item/{story_id}.json", impersonate="chrome120", timeout=5, max_retries=2)
+                sr = await fetch_with_retry(session, f"{base_url}/item/{story_id}.json", impersonate="chrome131", timeout=5, max_retries=2)
                 story_data = sr.json()
             except Exception as exc:
                 logging.warning("Failed to fetch story %s: %s", story_id, exc)

@@ -135,7 +135,7 @@ def main():
     config = load_feeds_config(ORG_KEY)
     page = config["pages"]["news"]
     logging.info("Fetching %s: %s", page["label"], page["url"])
-    html = fetch_page(page["url"], impersonate="firefox147")
+    html = fetch_page(page["url"], impersonate="chrome131")
     soup = BeautifulSoup(html, "html.parser")
 
     entries = _extract_featured(soup) + _extract_image_cards(soup) + _extract_list_cards(soup)
