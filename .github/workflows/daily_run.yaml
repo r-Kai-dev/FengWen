@@ -1,0 +1,54 @@
+name: Scrape and Update Feeds
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -q curl_cffi beautifulsoup4 playwright
+          python3 -m playwright install-deps chromium
+          python3 -m playwright install chromium
+          mkdir -p logs
+
+      - name: scrape-request
+        continue-on-error: true
+        run: bash src/run_scrape_request.sh
+
+      - name: crawl
+        continue-on-error: true
+        working-directory: src
+        env:
+          PYTHONPATH: ${{ github.workspace }}/src
+        run: python3 crawl_runner.py
+
+      - name: audit
+        run: python src/audit_report.py
+
+      - name: update-feeds
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add feeds/
+          git diff --cached --quiet || git commit -m "ci: update results"
+          git push origin HEAD:${{ github.ref_name }}
