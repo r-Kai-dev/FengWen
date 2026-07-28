@@ -77,7 +77,7 @@ def run(page):
     config = load_feeds_config(ORG_KEY)
     p = config["pages"]["the_batch"]
     logging.info("Crawling %s: %s", p["label"], p["url"])
-    page.goto(p["url"], wait_until="networkidle", timeout=60000)
+    page.goto(p["url"])
     # Wait for actual content (not a challenge page)
     try:
         page.wait_for_selector('article[data-sentry-component="PostCard"]', timeout=15000)
