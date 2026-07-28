@@ -30,8 +30,22 @@ def _start_browser():
     )
     context = browser.new_context(
         viewport={"width": 1920, "height": 1080},
+        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
     )
     page = context.new_page()
+    # Evade headless detection (Cloudflare, etc.)
+    page.add_init_script("""
+        Object.defineProperty(navigator, 'webdriver', { get: () => false });
+        Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+        Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
+        window.chrome = { runtime: {} };
+        const originalQuery = window.navigator.permissions.query;
+        window.navigator.permissions.query = (parameters) => (
+            parameters.name === 'notifications' ?
+                Promise.resolve({ state: 'denied' }) :
+                originalQuery(parameters)
+        );
+    """)
     logging.info("Browser launched: %s", browser.version)
     return pw, page
 
