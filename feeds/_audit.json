@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T20:14:40.581203+00:00",
+  "generated_at": "2026-07-28T21:57:53.481677+00:00",
   "feeds": {
     "anthropic_news.xml": {
       "output_file": "anthropic_news.xml",
@@ -53,7 +53,7 @@
     },
     "x-ai_news.xml": {
       "output_file": "x-ai_news.xml",
-      "entry_count": 67,
+      "entry_count": 68,
       "newest_date": "2026-07-28",
       "oldest_date": "2023-11-03",
       "age_days": 0,
@@ -644,7 +644,7 @@
       "entry_count": 36,
       "newest_date": "2026-07-14",
       "oldest_date": "2024-02-08",
-      "age_days": 13,
+      "age_days": 14,
       "issues": [],
       "status": "healthy",
       "name": "Suno",
@@ -1106,7 +1106,7 @@
       "entry_count": 81,
       "newest_date": "2026-06-30",
       "oldest_date": "2020-11-27",
-      "age_days": 27,
+      "age_days": 28,
       "issues": [],
       "status": "healthy",
       "name": "Scale Labs",

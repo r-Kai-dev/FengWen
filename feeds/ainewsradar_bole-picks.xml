@@ -4,17 +4,41 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-07-28T17:16:45+00:00</updated>
+  <updated>2026-07-28T20:17:08+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
+  <entry>
+    <title>Sam Altman 态度转变：AI 发展或需&quot;减速&quot;以让社会做好准备 / Sam Altman is ready to decelerate</title>
+    <link href="https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate"/>
+    <id>61447e56f272ab226a6f14aa81876c7c</id>
+    <published>2026-07-28T20:17:08+00:00</published>
+    <updated>2026-07-28T20:17:08+00:00</updated>
+    <summary type="text">Score: 0.773\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞 / Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet</title>
+    <link href="https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet"/>
+    <id>cae5335e74b2f57bb509760b02e23f5c</id>
+    <published>2026-07-28T19:12:27+00:00</published>
+    <updated>2026-07-28T19:12:27+00:00</updated>
+    <summary type="text">Score: 0.782\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
   <entry>
     <title>Claude 发现加密算法弱点研究发布 / New Anthropic research： Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has…</title>
     <link href="https://x.com/AnthropicAI/status/2082153297670992134"/>
     <id>08e095e7a7a5aecdf3d79f5e627124d4</id>
     <published>2026-07-28T17:16:45+00:00</published>
     <updated>2026-07-28T17:16:45+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
@@ -25,7 +49,7 @@
     <id>5ffb8075bfb8fe9714d4e50e8baebd80</id>
     <published>2026-07-28T17:00:00+00:00</published>
     <updated>2026-07-28T17:00:00+00:00</updated>
-    <summary type="text">Score: 0.872\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.868\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="multi_source"/>
@@ -39,7 +63,7 @@
     <id>3276ba003bc273944e218975dadff6be</id>
     <published>2026-07-28T16:27:42+00:00</published>
     <updated>2026-07-28T16:27:42+00:00</updated>
-    <summary type="text">Score: 0.854\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.850\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -52,7 +76,7 @@
     <id>7c19a9a79f0d5bfd230f9bf855c49f1f</id>
     <published>2026-07-28T16:00:00+00:00</published>
     <updated>2026-07-28T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.870\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.866\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="multi_source"/>
@@ -66,7 +90,7 @@
     <id>e394f1847ef6c417ead98e092eb7e342</id>
     <published>2026-07-28T15:21:28.545000+00:00</published>
     <updated>2026-07-28T15:21:28.545000+00:00</updated>
-    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <summary type="text">Score: 0.766\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
@@ -78,7 +102,7 @@
     <id>aa598c946d561802c0bd3d9c8b979318</id>
     <published>2026-07-28T15:01:45+00:00</published>
     <updated>2026-07-28T15:01:45+00:00</updated>
-    <summary type="text">Score: 0.857\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.852\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -91,7 +115,7 @@
     <id>375a5947b435fe2f2a177966625440ab</id>
     <published>2026-07-28T14:55:31+00:00</published>
     <updated>2026-07-28T14:55:31+00:00</updated>
-    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.830\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -104,7 +128,7 @@
     <id>650e81cf387685e7fd796254542f8d56</id>
     <published>2026-07-28T14:00:23+00:00</published>
     <updated>2026-07-28T14:00:23+00:00</updated>
-    <summary type="text">Score: 0.783\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.779\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
@@ -116,7 +140,7 @@
     <id>def4fe55d52f8d27bba5d8a8f546aab4</id>
     <published>2026-07-28T13:00:00+00:00</published>
     <updated>2026-07-28T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.830\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -129,7 +153,7 @@
     <id>541867ec2e4e2432d8edd6076e3946ab</id>
     <published>2026-07-28T13:00:00+00:00</published>
     <updated>2026-07-28T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.830\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -142,19 +166,18 @@
     <id>dc76d8d117f532f7d3c199f40baf1765</id>
     <published>2026-07-28T12:14:40.244529+00:00</published>
     <updated>2026-07-28T12:14:40.244529+00:00</updated>
-    <summary type="text">Score: 0.751\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <summary type="text">Score: 0.747\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
     <title>GitHub Actions 扣留潜在恶意工作流以待审批 / GitHub Actions holds potentially malicious workflows for approval</title>
-    <link href="https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval"/>
-    <id>9660622c2ae4538010d60bdeb1d79234</id>
+    <link href="https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval"/>
+    <id>bbf1b4cf1b312a5d2fd0c1c704d6496c</id>
     <published>2026-07-28T11:57:19+00:00</published>
     <updated>2026-07-28T11:57:19+00:00</updated>
-    <summary type="text">Score: 0.827\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.823\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -162,23 +185,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>&quot;抱抱脸&quot;向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码</title>
-    <link href="https://www.aibase.com/news/29947"/>
-    <id>fb738afd1653bb529a6371a5d3c67781</id>
-    <published>2026-07-28T09:48:09.978702+00:00</published>
-    <updated>2026-07-28T09:48:09.978702+00:00</updated>
-    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
     <title>Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym</title>
     <link href="https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym"/>
     <id>a92bb51dfdcbcc65ed57d8d251beb128</id>
     <published>2026-07-28T08:33:30+00:00</published>
     <updated>2026-07-28T08:33:30+00:00</updated>
-    <summary type="text">Score: 0.765\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <summary type="text">Score: 0.761\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -191,7 +203,7 @@
     <id>f2d2556d1d02059bfa35936cffbcb267</id>
     <published>2026-07-28T07:51:54+00:00</published>
     <updated>2026-07-28T07:51:54+00:00</updated>
-    <summary type="text">Score: 0.771\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
+    <summary type="text">Score: 0.767\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -204,18 +216,7 @@
     <id>0043eafd2fe3a0b67234a0509cff6c6f</id>
     <published>2026-07-28T06:21:07+00:00</published>
     <updated>2026-07-28T06:21:07+00:00</updated>
-    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA</title>
-    <link href="https://usefeyn.com/blog/feynobg"/>
-    <id>237da51df56825c9bd7afe0cc5381ff4</id>
-    <published>2026-07-28T04:57:13.190000+00:00</published>
-    <updated>2026-07-28T04:57:13.190000+00:00</updated>
-    <summary type="text">Score: 0.732\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
@@ -226,7 +227,7 @@
     <id>19b5d21215e56cc261ad328bd762dd19</id>
     <published>2026-07-28T01:23:10+00:00</published>
     <updated>2026-07-28T01:23:10+00:00</updated>
-    <summary type="text">Score: 0.812\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.808\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -239,7 +240,7 @@
     <id>ec31d70c68d68440425a59b228299a58</id>
     <published>2026-07-27T22:26:00.307000+00:00</published>
     <updated>2026-07-27T22:26:00.307000+00:00</updated>
-    <summary type="text">Score: 0.762\nSources: 2 (AI HOT)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.759\nSources: 2 (AI HOT)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -252,7 +253,7 @@
     <id>dfea0d81be259dc724fc6e04e3898c5c</id>
     <published>2026-07-27T20:43:37+00:00</published>
     <updated>2026-07-27T20:43:37+00:00</updated>
-    <summary type="text">Score: 0.803\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <summary type="text">Score: 0.799\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>

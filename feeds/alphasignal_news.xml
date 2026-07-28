@@ -4,10 +4,20 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-28T19:04:48+00:00</updated>
+  <updated>2026-07-28T19:37:33+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Perplexity Adds Kimi K3, the World's Largest Open-Weight Model, on US Servers</title>
+    <link href="https://x.com/perplexity_ai/status/2082188732585972120"/>
+    <id>43062dee419321a133bd7d2791b67ada</id>
+    <published>2026-07-28T19:37:33+00:00</published>
+    <updated>2026-07-28T19:37:33+00:00</updated>
+    <summary type="text">Perplexity brings Moonshot AI's record-breaking 2.8T-parameter open-weight model to its search and agentic platform, with a US-only hosting pledge to sidestep data sovereignty concerns.</summary>
+    <category term="llms"/>
+    <category term="api"/>
+  </entry>
   <entry>
     <title>Datacurve's DeepSWE Shows Claude Opus 5 Beats Rivals at Half the Cost</title>
     <link href="https://deepswe.datacurve.ai/"/>
@@ -19,14 +29,14 @@
     <category term="llms"/>
   </entry>
   <entry>
-    <title>OpenAI Replaces Whisper With gpt-transcribe, Slashing Errors by 52%</title>
-    <link href="https://developers.openai.com/api/docs/guides/transcription/"/>
-    <id>271599a38a112d6db2e40e4d6d5a4960</id>
-    <published>2026-07-28T18:01:09+00:00</published>
-    <updated>2026-07-28T18:01:09+00:00</updated>
-    <summary type="text">OpenAI's new gpt-transcribe and gpt-live-transcribe models bring context-aware speech recognition to the API, cutting error rates by up to 41% over Whisper</summary>
+    <title>Alibaba's Qwen Audio 3.0 Dethrones OpenAI With a 99.2% Reasoning Score</title>
+    <link href="https://artificialanalysis.ai/speech-to-speech"/>
+    <id>86048c0dd04b21828a4f7345d5f20551</id>
+    <published>2026-07-28T18:59:53+00:00</published>
+    <updated>2026-07-28T18:59:53+00:00</updated>
+    <summary type="text">Alibaba's Qwen Audio 3.0 Realtime Plus tops every benchmark on the Artificial Analysis Speech-to-Speech Index, beating GPT-Realtime-2.1 High on intelligence at a fraction of the cost â but with a significant latency trade-off.</summary>
     <category term="audio"/>
-    <category term="api"/>
+    <category term="benchmarks"/>
   </entry>
   <entry>
     <title>Anthropic Rebuilds MCP as Stateless, Unlocking Serverless AI Agent Deployments</title>
@@ -97,16 +107,6 @@
     <summary type="text">Perplexity's Personal Computer agent is now live on Windows, bringing multi-model AI orchestration to local files, Microsoft 365, and 400+ connected apps</summary>
     <category term="agents"/>
     <category term="development"/>
-  </entry>
-  <entry>
-    <title>Reka's WMGym Judges World Models on Decision-Making, Not Pretty Pixels</title>
-    <link href="https://wm-gym.labs.reka.ai/"/>
-    <id>d9f1d45dc0d9900aadffbeee1ae75e11</id>
-    <published>2026-07-28T13:04:21+00:00</published>
-    <updated>2026-07-28T13:04:21+00:00</updated>
-    <summary type="text">Reka's WorldModelGym shifts world model evaluation from visual realism to decision-making accuracy, launching an open leaderboard with a simple API submission protocol</summary>
-    <category term="video"/>
-    <category term="benchmarks"/>
   </entry>
   <entry>
     <title>Cursor Launches India-Only $7 Plan Targeting 3 Million Developers</title>
