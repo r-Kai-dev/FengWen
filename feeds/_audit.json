@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T19:02:01.332149+00:00",
+  "generated_at": "2026-07-28T19:22:20.325871+00:00",
   "feeds": {
     "anthropic_news.xml": {
       "output_file": "anthropic_news.xml",
@@ -309,7 +309,7 @@
     },
     "luma_news.xml": {
       "output_file": "luma_news.xml",
-      "entry_count": 59,
+      "entry_count": 60,
       "newest_date": "2026-07-28",
       "oldest_date": "2025-03-11",
       "age_days": 0,
@@ -441,12 +441,14 @@
     },
     "alphasignal_news.xml": {
       "output_file": "alphasignal_news.xml",
-      "entry_count": 12,
+      "entry_count": 11,
       "newest_date": "2026-07-28",
-      "oldest_date": "2026-07-27",
+      "oldest_date": "2026-07-28",
       "age_days": 0,
-      "issues": [],
-      "status": "healthy",
+      "issues": [
+        "all_same_date"
+      ],
+      "status": "warning",
       "name": "AlphaSignal",
       "strategy": "scrape",
       "category": "Hourly",
@@ -2049,8 +2051,8 @@
   },
   "summary": {
     "total": 129,
-    "healthy": 47,
-    "warning": 21,
+    "healthy": 46,
+    "warning": 22,
     "error": 0,
     "unchecked": 61
   }
