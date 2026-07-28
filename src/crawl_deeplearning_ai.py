@@ -78,12 +78,20 @@ def run(page):
     p = config["pages"]["the_batch"]
     logging.info("Crawling %s: %s", p["label"], p["url"])
     page.goto(p["url"])
-    # Wait for actual content (not a challenge page)
+    # Wait for Cloudflare challenge to resolve (title changes from "Just a moment...")
+    try:
+        page.wait_for_function(
+            'document.title !== "Just a moment..."',
+            timeout=30000
+        )
+        logging.info("Challenge resolved, page title: %s", page.title())
+    except Exception:
+        logging.warning("Challenge may not have resolved, page title: %s", page.title())
+    # Wait for actual content
     try:
         page.wait_for_selector('article[data-sentry-component="PostCard"]', timeout=15000)
     except Exception:
-        title = page.title()
-        logging.warning("PostCard selector not found, page title: %s", title)
+        logging.warning("PostCard selector not found, page title: %s", page.title())
     soup = BeautifulSoup(page.content(), "html.parser")
     entries = extract_posts(soup)
     if not entries:
