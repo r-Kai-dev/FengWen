@@ -4,10 +4,20 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-28T18:01:09+00:00</updated>
+  <updated>2026-07-28T19:04:48+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Datacurve's DeepSWE Shows Claude Opus 5 Beats Rivals at Half the Cost</title>
+    <link href="https://deepswe.datacurve.ai/"/>
+    <id>9b27cace4d40fb4661f27c39e2fc302a</id>
+    <published>2026-07-28T19:04:48+00:00</published>
+    <updated>2026-07-28T19:04:48+00:00</updated>
+    <summary type="text">Claude Opus 5 tops Datacurve's contamination-free DeepSWE benchmark at 74%, beating Fable 5 by 4 points at 45% lower cost per task</summary>
+    <category term="benchmarks"/>
+    <category term="llms"/>
+  </entry>
   <entry>
     <title>OpenAI Replaces Whisper With gpt-transcribe, Slashing Errors by 52%</title>
     <link href="https://developers.openai.com/api/docs/guides/transcription/"/>
