@@ -85,17 +85,17 @@ def run(page):
     config = load_feeds_config(ORG_KEY)
     p = config["pages"]["blog"]
     logging.info("Crawling %s: %s", p["label"], PAGE_URL)
-    page.goto(PAGE_URL, wait_until="domcontentloaded")
+    page.goto(PAGE_URL, wait_until="networkidle", timeout=60000)
     # Framer's handoverData appears briefly then is consumed by hydration — grab it fast
     html = page.content()
-    for _ in range(10):
+    for _ in range(20):
         if "__framer__handoverData" in html:
             break
         page.wait_for_timeout(500)
         html = page.content()
     entries = extract(html)
     if not entries:
-        logging.warning("No entries found")
+        logging.warning("No entries found (page title: %s)", page.title())
         return
     entries.sort(key=lambda x: x.get("published_date", ""), reverse=True)
     write_atom_feed(FEEDS_DIR / p["output_file"], entries,

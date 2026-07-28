@@ -77,12 +77,17 @@ def run(page):
     config = load_feeds_config(ORG_KEY)
     p = config["pages"]["the_batch"]
     logging.info("Crawling %s: %s", p["label"], p["url"])
-    page.goto(p["url"])
-    page.wait_for_timeout(3000)
+    page.goto(p["url"], wait_until="networkidle", timeout=60000)
+    # Wait for actual content (not a challenge page)
+    try:
+        page.wait_for_selector('article[data-sentry-component="PostCard"]', timeout=15000)
+    except Exception:
+        title = page.title()
+        logging.warning("PostCard selector not found, page title: %s", title)
     soup = BeautifulSoup(page.content(), "html.parser")
     entries = extract_posts(soup)
     if not entries:
-        logging.warning("No entries found")
+        logging.warning("No entries found (page title: %s)", page.title())
         return
     entries.sort(key=lambda x: x.get("published_date", ""), reverse=True)
     write_atom_feed(FEEDS_DIR / p["output_file"], entries,
