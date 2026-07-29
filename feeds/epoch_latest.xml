@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-07-22T00:00:00+00:00</updated>
+  <updated>2026-07-29T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Even after R&amp;D is automated, parallelization constraints could delay a technological singularity</title>
+    <link href="https://epoch.ai/publications/parallelization-constraints-could-delay-a-technological-singularity"/>
+    <id>1bf4a34ff42e847a8235c930d2787d6e</id>
+    <published>2026-07-29T00:00:00+00:00</published>
+    <updated>2026-07-29T00:00:00+00:00</updated>
+    <summary type="text">The ability to divide, coordinate, and recombine work has been a missing parameter in models of technological development.</summary>
+    <category term="Report"/>
+  </entry>
   <entry>
     <title>OpenAI accidentally hacked Hugging Face — should we have seen it coming?</title>
     <link href="https://epoch.ai/gradient-updates/openai-accidentally-hacked-hugging-face"/>
@@ -84,14 +93,5 @@
     <updated>2026-06-26T00:00:00+00:00</updated>
     <summary type="text">MirrorCode is Epoch AI's benchmark for long-horizon coding: AI can reimplement entire programs end-to-end, with no access to the original source code.</summary>
     <category term="Paper"/>
-  </entry>
-  <entry>
-    <title>What we learned from 1,604 Chinese AI job postings</title>
-    <link href="https://epoch.ai/gradient-updates/what-we-learned-from-1604-chinese-ai-job-postings"/>
-    <id>f86ccf6aac92261839c9bd7274e299b0</id>
-    <published>2026-06-24T00:00:00+00:00</published>
-    <updated>2026-06-24T00:00:00+00:00</updated>
-    <summary type="text">Inferring Chinese AI labs’ strategies from their job descriptions</summary>
-    <category term="Newsletter"/>
   </entry>
 </feed>

@@ -4,10 +4,110 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-28T19:37:33+00:00</updated>
+  <updated>2026-07-29T18:09:36+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>xAI's Grok Voice Think Fast 2.0 Hits Sub-Second Response, Beating GPT-Realtime</title>
+    <link href="https://artificialanalysis.ai/speech-to-speech"/>
+    <id>86048c0dd04b21828a4f7345d5f20551</id>
+    <published>2026-07-29T18:09:36+00:00</published>
+    <updated>2026-07-29T18:09:36+00:00</updated>
+    <summary type="text">SpaceXAI's new voice model hits #2 on the Speech-to-Speech Index with 0.70s latency, beating GPT-Realtime at half the price</summary>
+    <category term="audio"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>OpenAI Gives 100,000 Researchers Free Access to GPT-5.6 Sol Pro</title>
+    <link href="https://openai.com/index/chatgpt-for-academic-researchers/"/>
+    <id>b80ae161943f5212d93a6a82a412a1b6</id>
+    <published>2026-07-29T17:19:28+00:00</published>
+    <updated>2026-07-29T17:19:28+00:00</updated>
+    <summary type="text">OpenAI is giving 100,000 academic researchers free access to its most powerful GPT-5.6 models, part of a $250M+ commitment to accelerate scientific discovery</summary>
+    <category term="llms"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>Perplexity Releases Numbat to Stop Rogue AI Agents After OpenAI Breach</title>
+    <link href="https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat"/>
+    <id>a6e3b7d339d58cca43a24e7c1be3c602</id>
+    <published>2026-07-29T17:01:42+00:00</published>
+    <updated>2026-07-29T17:01:42+00:00</updated>
+    <summary type="text">Perplexity open-sources Numbat, a cross-harness agent security layer that monitors, detects, and blocks dangerous AI agent behavior before it executes</summary>
+    <category term="agents"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Nous Research Ships Hands-Free 'Hey Hermes' Wake Word to Its 175K-Star Agent</title>
+    <link href="https://hermes-agent.nousresearch.com/docs/user-guide/features/wake-word"/>
+    <id>43ff41939d45e192bea37d7d2b73de45</id>
+    <published>2026-07-29T16:52:32+00:00</published>
+    <updated>2026-07-29T16:52:32+00:00</updated>
+    <summary type="text">Hermes Agent adds always-on, fully local 'Hey Hermes' wake word detection across CLI, TUI, and desktop app</summary>
+    <category term="agents"/>
+    <category term="audio"/>
+  </entry>
+  <entry>
+    <title>Google DeepMind's Lyria 3.5 Takes Direct Aim at Suno's Vocal Dominance</title>
+    <link href="https://x.com/googlelabs/status/2082501360466174163"/>
+    <id>23e88eb1a9c7ef89af56eaf10f05d519</id>
+    <published>2026-07-29T16:19:49+00:00</published>
+    <updated>2026-07-29T16:19:49+00:00</updated>
+    <summary type="text">Google DeepMind's Lyria 3.5 lands in Flow Music with better vocals, exact BPM control, and stem exports for full-length songs</summary>
+    <category term="audio"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Replit Design Launches a Full Creative Suite to Kill the Figma Handoff</title>
+    <link href="https://replit.com/design"/>
+    <id>ff2e4340fbb5937e00b55c62113280c7</id>
+    <published>2026-07-29T16:01:53+00:00</published>
+    <updated>2026-07-29T16:01:53+00:00</updated>
+    <summary type="text">Replit launches Design, a full AI creative suite with Ambient Intelligence, Mobbin integration, and multi-model support â free for all users</summary>
+    <category term="vibe_coding"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Sakana AI's Dream-Cubed Beats Real Minecraft Terrain 67% of the Time</title>
+    <link href="https://github.com/SakanaAI/DreamCubed"/>
+    <id>dac64131cf2120095d1e9d8b28c5e9ce</id>
+    <published>2026-07-29T14:30:00+00:00</published>
+    <updated>2026-07-29T14:30:00+00:00</updated>
+    <summary type="text">Sakana AI and NYU release Dream-Cubed, a 30-billion-block Minecraft dataset and family of 3D diffusion models that generate infinitely large, fully playable worlds with block-level control.</summary>
+    <category term="video"/>
+    <category term="data"/>
+  </entry>
+  <entry>
+    <title>Tencent Open-Sources AngelSpec, Hitting 2.86x Faster Inference on Hunyuan 3</title>
+    <link href="https://huggingface.co/collections/AngelSlim/angelspec"/>
+    <id>7c66e592a9414952a2294095c20b7a98</id>
+    <published>2026-07-29T12:43:55+00:00</published>
+    <updated>2026-07-29T12:43:55+00:00</updated>
+    <summary type="text">Tencent open-sources AngelSpec, a full training framework for speculative decoding that delivers up to 2.40x speedup on its 295B Hunyuan 3 model</summary>
+    <category term="open_source"/>
+    <category term="infra"/>
+  </entry>
+  <entry>
+    <title>OpenAI Quietly Ships Codex Security to Scan 30,000 Codebases for Bugs</title>
+    <link href="https://www.npmjs.com/package/@openai/codex-security"/>
+    <id>456fbdc4bae60371d052c98b0dfa9b9a</id>
+    <published>2026-07-29T00:35:31+00:00</published>
+    <updated>2026-07-29T00:35:31+00:00</updated>
+    <summary type="text">OpenAI's AI-powered vulnerability scanner is now open source â scan repos, track findings over time, and gate CI on severity.</summary>
+    <category term="open_source"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>Replit Ships Model Selector So Developers Stop Overpaying for Simple Fixes</title>
+    <link href="https://replit.com/"/>
+    <id>aab9f1c7620caff750b30c0242302c20</id>
+    <published>2026-07-29T00:07:37+00:00</published>
+    <updated>2026-07-29T00:07:37+00:00</updated>
+    <summary type="text">Replit's new Model Selector lets Core and Pro users pick any model â including open-weight ones â and tune how hard it thinks per task.</summary>
+    <category term="vibe_coding"/>
+    <category term="api"/>
+  </entry>
   <entry>
     <title>Perplexity Adds Kimi K3, the World's Largest Open-Weight Model, on US Servers</title>
     <link href="https://x.com/perplexity_ai/status/2082188732585972120"/>
@@ -27,105 +127,5 @@
     <summary type="text">Claude Opus 5 tops Datacurve's contamination-free DeepSWE benchmark at 74%, beating Fable 5 by 4 points at 45% lower cost per task</summary>
     <category term="benchmarks"/>
     <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Qwen Audio 3.0 Dethrones OpenAI With a 99.2% Reasoning Score</title>
-    <link href="https://artificialanalysis.ai/speech-to-speech"/>
-    <id>86048c0dd04b21828a4f7345d5f20551</id>
-    <published>2026-07-28T18:59:53+00:00</published>
-    <updated>2026-07-28T18:59:53+00:00</updated>
-    <summary type="text">Alibaba's Qwen Audio 3.0 Realtime Plus tops every benchmark on the Artificial Analysis Speech-to-Speech Index, beating GPT-Realtime-2.1 High on intelligence at a fraction of the cost â but with a significant latency trade-off.</summary>
-    <category term="audio"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Anthropic Rebuilds MCP as Stateless, Unlocking Serverless AI Agent Deployments</title>
-    <link href="https://claude.com/blog/bringing-mcp-2026-07-28-to-claude"/>
-    <id>b799f93c86feb08553408e0d79697123</id>
-    <published>2026-07-28T18:00:16+00:00</published>
-    <updated>2026-07-28T18:00:16+00:00</updated>
-    <summary type="text">MCP 2026-07-28 drops sessions entirely, making servers deployable on serverless and edge infrastructure for the first time, while adding a formal extensions framework and hardened enterprise auth.</summary>
-    <category term="agents"/>
-    <category term="infra"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Mythos Cracks Two Encryption Systems in 60 Hours</title>
-    <link href="https://www-cdn.anthropic.com/5273e714527440f1c8b7c7bf5756d4ac22ae8995/aes_mobius_bridge_cot.pdf"/>
-    <id>1be66e3933abb42e2efd76efd496e5be</id>
-    <published>2026-07-28T17:16:45+00:00</published>
-    <updated>2026-07-28T17:16:45+00:00</updated>
-    <summary type="text">Claude Mythos Preview cracked a post-quantum signature scheme and accelerated an AES attack by up to 800x, doing in days what human experts missed for years</summary>
-    <category term="reasoning"/>
-    <category term="security"/>
-  </entry>
-  <entry>
-    <title>Fish Audio's S2.1 Pro Beats ElevenLabs at 11x Lower Cost After $52M Raise</title>
-    <link href="https://fish.audio/contact-sales/?utm_source=x&amp;utm_medium=organic_social&amp;utm_campaign=s21pro_launch&amp;utm_content=book_a_demo"/>
-    <id>745595e109ab866c966cc1130dea8e7a</id>
-    <published>2026-07-28T17:13:58+00:00</published>
-    <updated>2026-07-28T17:13:58+00:00</updated>
-    <summary type="text">Fish Audio raises $52M seed, launches S2.1 Pro with 5-second voice cloning, 83-language support, and pricing that undercuts ElevenLabs by up to 6x</summary>
-    <category term="audio"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Poolside's Laguna S 2.1 Beats DeepSeek With One-Sixth the Active Parameters</title>
-    <link href="https://cdn.crabnebula.app/asset/01KYMPDQDSJWX4GM86DMWWTVWD?from=%7B%22orgSlug%22%3A%22poolside%22%2C%22appSlug%22%3A%22desktop-assistant%22%2C%22publicPlatform%22%3A%22dmg-aarch64%22%7D"/>
-    <id>0661928e1d50ebe9a55a7f61b8ea45bc</id>
-    <published>2026-07-28T17:00:24+00:00</published>
-    <updated>2026-07-28T17:00:24+00:00</updated>
-    <summary type="text">Poolside's new macOS app lets you run Claude Code, Codex, Gemini, and pool in parallel â all from one vendor-agnostic workspace built on the open ACP standard</summary>
-    <category term="development"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Goodfire's Silico Fixes AI Training Collapse in an Afternoon Without Retraining</title>
-    <link href="https://www.goodfire.ai/contact"/>
-    <id>1219dd6a27d71421b0adbe996914ef14</id>
-    <published>2026-07-28T16:39:55+00:00</published>
-    <updated>2026-07-28T16:39:55+00:00</updated>
-    <summary type="text">Goodfire's Silico platform used Direct Logit Attribution to cut an RL mode collapse from 94% to 5% in one afternoon, without retraining</summary>
-    <category term="post_training"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>LiquidAI's LFM2.5-Encoder Beats ModernBERT at Long Context 3.7x Faster on CPU</title>
-    <link href="https://huggingface.co/spaces/LiquidAI/masked-diffusion"/>
-    <id>6a7daed7ba78d12a6e17b9c10cad28e6</id>
-    <published>2026-07-28T15:07:40+00:00</published>
-    <updated>2026-07-28T15:07:40+00:00</updated>
-    <summary type="text">Liquid AI's new bidirectional encoders run 3.7x faster than ModernBERT on CPU at 8k tokens, with top-4 accuracy across 14 competing models</summary>
-    <category term="llms"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Perplexity's Personal Computer Brings AI Agents to Windows' 1 Billion Devices</title>
-    <link href="https://www.perplexity.ai/hub/products/integrations/microsoft"/>
-    <id>aa489645f4f8dfe9f9a01efd906cc864</id>
-    <published>2026-07-28T14:00:23+00:00</published>
-    <updated>2026-07-28T14:00:23+00:00</updated>
-    <summary type="text">Perplexity's Personal Computer agent is now live on Windows, bringing multi-model AI orchestration to local files, Microsoft 365, and 400+ connected apps</summary>
-    <category term="agents"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Cursor Launches India-Only $7 Plan Targeting 3 Million Developers</title>
-    <link href="https://cursor.com/blog/cursor-start-india"/>
-    <id>346e6fc75565b49ab8da50d06a9faa15</id>
-    <published>2026-07-28T05:41:11+00:00</published>
-    <updated>2026-07-28T05:41:11+00:00</updated>
-    <summary type="text">Cursor launches a â¹649/month India-only plan with cloud agents and Grok 4.5 access, as its SpaceX acquisition nears close</summary>
-    <category term="development"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Epoch's FrontierMath Benchmark Cracks a 40-Year-Old Math Problem Using Fable 5</title>
-    <link href="https://epoch.ai/frontiermath/open-problems"/>
-    <id>5a798a9aa795f861bb1794b72fea7d0d</id>
-    <published>2026-07-28T00:09:15+00:00</published>
-    <updated>2026-07-28T00:09:15+00:00</updated>
-    <summary type="text">Epoch AI announces AI has cracked a 40-year-old open problem in number theory, the second solved on its FrontierMath: Open Problems benchmark.</summary>
-    <category term="reasoning"/>
-    <category term="benchmarks"/>
   </entry>
 </feed>

@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-07-27T00:00:00+00:00</updated>
+  <updated>2026-07-29T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Towards Blackwell-Native 8-bit and 4-bit RL: End-to-End MXFP8 and NVFP4 RL in Miles</title>
+    <link href="https://lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl"/>
+    <id>f321259c6f9dd38172763ab31729b9aa</id>
+    <published>2026-07-29T00:00:00+00:00</published>
+    <updated>2026-07-29T00:00:00+00:00</updated>
+    <summary type="text">TL;DR: We implemented two Blackwell-native RL recipes in Miles: end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion,...</summary>
+    <category term="technical"/>
+  </entry>
   <entry>
     <title>SGLang and Miles Add Day-0 Support for Kimi K3</title>
     <link href="https://lmsys.org/blog/2026-07-27-kimi-k3-day0-support"/>

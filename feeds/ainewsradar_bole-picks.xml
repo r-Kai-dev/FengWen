@@ -4,52 +4,88 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-07-28T20:17:08+00:00</updated>
+  <updated>2026-07-29T20:45:42+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Sam Altman 态度转变：AI 发展或需&quot;减速&quot;以让社会做好准备 / Sam Altman is ready to decelerate</title>
-    <link href="https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate"/>
-    <id>61447e56f272ab226a6f14aa81876c7c</id>
-    <published>2026-07-28T20:17:08+00:00</published>
-    <updated>2026-07-28T20:17:08+00:00</updated>
-    <summary type="text">Score: 0.773\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Replit Design 发布：AI 赋能设计愿景 / You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…</title>
+    <link href="https://x.com/Replit/status/2082568269119062019"/>
+    <id>c0d3d3855301d4f9e5c0a380d3c3d168</id>
+    <published>2026-07-29T20:45:42+00:00</published>
+    <updated>2026-07-29T20:45:42+00:00</updated>
+    <summary type="text">Score: 0.775\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞 / Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet</title>
-    <link href="https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet"/>
-    <id>cae5335e74b2f57bb509760b02e23f5c</id>
-    <published>2026-07-28T19:12:27+00:00</published>
-    <updated>2026-07-28T19:12:27+00:00</updated>
-    <summary type="text">Score: 0.782\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine</title>
+    <link href="https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine"/>
+    <id>f40e306495dbaec08cd1b5c66ac9d54e</id>
+    <published>2026-07-29T18:45:27+00:00</published>
+    <updated>2026-07-29T18:45:27+00:00</updated>
+    <summary type="text">Score: 0.770\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Claude 发现加密算法弱点研究发布 / New Anthropic research： Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has…</title>
-    <link href="https://x.com/AnthropicAI/status/2082153297670992134"/>
-    <id>08e095e7a7a5aecdf3d79f5e627124d4</id>
-    <published>2026-07-28T17:16:45+00:00</published>
-    <updated>2026-07-28T17:16:45+00:00</updated>
-    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans&amp; and Miles Team</title>
+    <link href="https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl"/>
+    <id>87e5088c0b4eac5fec9aedde399ba58b</id>
+    <published>2026-07-29T17:50:30.529000+00:00</published>
+    <updated>2026-07-29T17:50:30.529000+00:00</updated>
+    <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…</title>
+    <link href="https://x.com/sherwinwu/status/2082517015944741342"/>
+    <id>c612f2a8c2706de7f3d202800eeebb22</id>
+    <published>2026-07-29T17:22:02+00:00</published>
+    <updated>2026-07-29T17:22:02+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Agentic AI 时代的科学计算 / Scientific computing in the age of agentic AI</title>
-    <link href="https://openai.com/index/scientific-computing-agentic-ai"/>
-    <id>5ffb8075bfb8fe9714d4e50e8baebd80</id>
-    <published>2026-07-28T17:00:00+00:00</published>
-    <updated>2026-07-28T17:00:00+00:00</updated>
-    <summary type="text">Score: 0.868\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Perplexity 开源智能体检测层 Numbat / Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…</title>
+    <link href="https://x.com/perplexity_ai/status/2082511900580196596"/>
+    <id>64e1291bfe2367f80dff7e48acbb7569</id>
+    <published>2026-07-29T17:01:42+00:00</published>
+    <updated>2026-07-29T17:01:42+00:00</updated>
+    <summary type="text">Score: 0.790\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B</title>
+    <link href="https://github.com/drumih/turbo-fieldfare"/>
+    <id>1c16d24277db7a13e538ea0992569d65</id>
+    <published>2026-07-29T16:09:22.496000+00:00</published>
+    <updated>2026-07-29T16:09:22.496000+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control</title>
+    <link href="https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"/>
+    <id>34006481c80baaee9c097ffcffdbb4c6</id>
+    <published>2026-07-29T16:02:10+00:00</published>
+    <updated>2026-07-29T16:02:10+00:00</updated>
+    <summary type="text">Score: 0.856\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="multi_source"/>
@@ -58,125 +94,147 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OlmoEarth 平台：行星尺度的地理空间推理 / The OlmoEarth Platform: Geospatial inference at planetary scale</title>
-    <link href="https://huggingface.co/blog/allenai/olmoearth-infrastructure"/>
-    <id>3276ba003bc273944e218975dadff6be</id>
-    <published>2026-07-28T16:27:42+00:00</published>
-    <updated>2026-07-28T16:27:42+00:00</updated>
-    <summary type="text">Score: 0.850\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more</title>
-    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks"/>
-    <id>7c19a9a79f0d5bfd230f9bf855c49f1f</id>
-    <published>2026-07-28T16:00:00+00:00</published>
-    <updated>2026-07-28T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.866\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners</title>
+    <link href="https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners"/>
+    <id>48f6460563b5e784dc1bfda30ef72c4f</id>
+    <published>2026-07-29T15:35:09+00:00</published>
+    <updated>2026-07-29T15:35:09+00:00</updated>
+    <summary type="text">Score: 0.781\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years</title>
+    <link href="https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive"/>
+    <id>bcb90c5e506a57372668d5580fb4a9fd</id>
+    <published>2026-07-29T15:01:35+00:00</published>
+    <updated>2026-07-29T15:01:35+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Copilot Business和Enterprise默认启用模型 / Default model enablement for Copilot Business and Enterprise</title>
+    <link href="https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise"/>
+    <id>be3317d4ccd192befe6eb1e69c927fcb</id>
+    <published>2026-07-29T14:01:07+00:00</published>
+    <updated>2026-07-29T14:01:07+00:00</updated>
+    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="official"/>
   </entry>
   <entry>
-    <title>Kimi Linear：一种表现力强且高效的注意力架构</title>
-    <link href="https://arxiv.org/abs/2510.26692"/>
-    <id>e394f1847ef6c417ead98e092eb7e342</id>
-    <published>2026-07-28T15:21:28.545000+00:00</published>
-    <updated>2026-07-28T15:21:28.545000+00:00</updated>
-    <summary type="text">Score: 0.766\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>腾讯混元开源 AngelSpec 投机解码框架 / 🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…</title>
+    <link href="https://x.com/TencentHunyuan/status/2082447023626944936"/>
+    <id>ae0be9a9f4821de978eb978d77576063</id>
+    <published>2026-07-29T12:43:55+00:00</published>
+    <updated>2026-07-29T12:43:55+00:00</updated>
+    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>LFM2.5-Encoders：在CPU上实现快速长上下文推理 / LFM2.5-Encoders for Fast Long-Context Inference on CPU</title>
-    <link href="https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"/>
-    <id>aa598c946d561802c0bd3d9c8b979318</id>
-    <published>2026-07-28T15:01:45+00:00</published>
-    <updated>2026-07-28T15:01:45+00:00</updated>
-    <summary type="text">Score: 0.852\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Dependabot 对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems</title>
-    <link href="https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems"/>
-    <id>375a5947b435fe2f2a177966625440ab</id>
-    <published>2026-07-28T14:55:31+00:00</published>
-    <updated>2026-07-28T14:55:31+00:00</updated>
-    <summary type="text">Score: 0.830\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…</title>
-    <link href="https://x.com/perplexity_ai/status/2082103880155046176"/>
-    <id>650e81cf387685e7fd796254542f8d56</id>
-    <published>2026-07-28T14:00:23+00:00</published>
-    <updated>2026-07-28T14:00:23+00:00</updated>
-    <summary type="text">Score: 0.779\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world</title>
-    <link href="https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips"/>
-    <id>def4fe55d52f8d27bba5d8a8f546aab4</id>
-    <published>2026-07-28T13:00:00+00:00</published>
-    <updated>2026-07-28T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>用Google Search举办终极晚宴的5种方法 / 5 ways to host the ultimate dinner party with Google Search</title>
-    <link href="https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips"/>
-    <id>541867ec2e4e2432d8edd6076e3946ab</id>
-    <published>2026-07-28T13:00:00+00:00</published>
-    <updated>2026-07-28T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被&quot;直接给答案&quot;取代</title>
-    <link href="https://www.aibase.com/news/29953"/>
-    <id>dc76d8d117f532f7d3c199f40baf1765</id>
-    <published>2026-07-28T12:14:40.244529+00:00</published>
-    <updated>2026-07-28T12:14:40.244529+00:00</updated>
-    <summary type="text">Score: 0.747\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑</title>
+    <link href="https://www.aibase.com/news/29985"/>
+    <id>4d49121862d8390b37467027545dc122</id>
+    <published>2026-07-29T12:21:24.733977+00:00</published>
+    <updated>2026-07-29T12:21:24.733977+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>GitHub Actions 扣留潜在恶意工作流以待审批 / GitHub Actions holds potentially malicious workflows for approval</title>
-    <link href="https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval"/>
-    <id>bbf1b4cf1b312a5d2fd0c1c704d6496c</id>
-    <published>2026-07-28T11:57:19+00:00</published>
-    <updated>2026-07-28T11:57:19+00:00</updated>
+    <title>SpaceXAI 起诉明尼苏达州，反对&quot;AI 脱衣&quot;应用禁令</title>
+    <link href="https://www.ithome.com/0/983/298.htm"/>
+    <id>cb96c17995c0f76f90757fae9886faf3</id>
+    <published>2026-07-29T12:12:21+00:00</published>
+    <updated>2026-07-29T12:12:21+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face"/>
+    <id>d8e42598bc72dca9adbcd738a7df8004</id>
+    <published>2026-07-29T11:54:29+00:00</published>
+    <updated>2026-07-29T11:54:29+00:00</updated>
+    <summary type="text">Score: 0.776\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>用ChatGPT为学术研究者加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers</title>
+    <link href="https://openai.com/index/chatgpt-for-academic-researchers"/>
+    <id>c1cc2f2ec7c74432de5cf35d7839fd7a</id>
+    <published>2026-07-29T10:00:00+00:00</published>
+    <updated>2026-07-29T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>CodeQL 2.26.1 提升分析准确性与框架覆盖范围 / CodeQL 2.26.1 improves analysis accuracy and framework coverage</title>
+    <link href="https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage"/>
+    <id>fadc981533f1c0abfc52365c79a0c67c</id>
+    <published>2026-07-29T09:45:11+00:00</published>
+    <updated>2026-07-29T09:45:11+00:00</updated>
+    <summary type="text">Score: 0.817\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.146.0</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>7f97a35a858c7165a50e999d14991faf</id>
+    <published>2026-07-29T00:00:00+00:00</published>
+    <updated>2026-07-29T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency</title>
+    <link href="https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"/>
+    <id>22c4e077ab6b8af81fcbc9610354041c</id>
+    <published>2026-07-29T00:00:00+00:00</published>
+    <updated>2026-07-29T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.812\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>使用ChatGPT登录（beta） / Sign in with ChatGPT (beta)</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>c1c9eb7949a0b795adf6ce41d3b9a97f</id>
+    <published>2026-07-29T00:00:00+00:00</published>
+    <updated>2026-07-29T00:00:00+00:00</updated>
     <summary type="text">Score: 0.823\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -185,75 +243,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym</title>
-    <link href="https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym"/>
-    <id>a92bb51dfdcbcc65ed57d8d251beb128</id>
-    <published>2026-07-28T08:33:30+00:00</published>
-    <updated>2026-07-28T08:33:30+00:00</updated>
-    <summary type="text">Score: 0.761\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力</title>
-    <link href="https://www.aibase.com/news/29952"/>
-    <id>f2d2556d1d02059bfa35936cffbcb267</id>
-    <published>2026-07-28T07:51:54+00:00</published>
-    <updated>2026-07-28T07:51:54+00:00</updated>
-    <summary type="text">Score: 0.767\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权</title>
-    <link href="https://www.ithome.com/0/982/520.htm"/>
-    <id>0043eafd2fe3a0b67234a0509cff6c6f</id>
-    <published>2026-07-28T06:21:07+00:00</published>
-    <updated>2026-07-28T06:21:07+00:00</updated>
-    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot for JetBrains 新增改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management</title>
-    <link href="https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management"/>
-    <id>19b5d21215e56cc261ad328bd762dd19</id>
-    <published>2026-07-28T01:23:10+00:00</published>
-    <updated>2026-07-28T01:23:10+00:00</updated>
-    <summary type="text">Score: 0.808\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models</title>
-    <link href="https://www.anthropic.com/news/position-open-weights-models"/>
-    <id>ec31d70c68d68440425a59b228299a58</id>
-    <published>2026-07-27T22:26:00.307000+00:00</published>
-    <updated>2026-07-27T22:26:00.307000+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 2 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy</title>
-    <link href="https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy"/>
-    <id>dfea0d81be259dc724fc6e04e3898c5c</id>
-    <published>2026-07-27T20:43:37+00:00</published>
-    <updated>2026-07-27T20:43:37+00:00</updated>
-    <summary type="text">Score: 0.799\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GitHub Copilot 应用使用指标现已扩展到报告汇总中 / GitHub Copilot app usage metrics now expand across report rollups</title>
+    <link href="https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups"/>
+    <id>ac9fee2b9dd663251b83062af296ee00</id>
+    <published>2026-07-28T23:35:01+00:00</published>
+    <updated>2026-07-28T23:35:01+00:00</updated>
+    <summary type="text">Score: 0.804\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>

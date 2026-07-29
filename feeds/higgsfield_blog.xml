@@ -4,10 +4,66 @@
   <icon>https://higgsfield.ai/favicon.ico</icon>
   <link href="https://higgsfield.ai/blog"/>
   <id>https://higgsfield.ai/blog</id>
-  <updated>2026-07-27T00:00:00+00:00</updated>
+  <updated>2026-07-28T00:00:00+00:00</updated>
   <author>
     <name>Higgsfield</name>
   </author>
+  <entry>
+    <title>7 Best Pika Alternatives for AI Video (Tested &amp; Compared)</title>
+    <link href="https://higgsfield.ai/blog/best-pika-alternatives"/>
+    <id>aa091ea28aa08692f729d51e920b640d</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+    <summary type="text">7 Best Pika Alternatives for AI Video (Tested &amp; Compared)</summary>
+  </entry>
+  <entry>
+    <title>9 Best AI Ad Generators in 2026 (Tested &amp; Compared)</title>
+    <link href="https://higgsfield.ai/blog/best-ai-ad-generators"/>
+    <id>39b4407e813c0031cf7f6641ddbe0264</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+    <summary type="text">Nine AI ad generators compared on what actually differs: the starting point each one needs (URL, script, avatar, or footage), real cost per clip on entry plans, spokesperson consistency, and which tool fits which ad workflow.</summary>
+  </entry>
+  <entry>
+    <title>Higgsfield AI Games: Build a Playable Game from One Prompt</title>
+    <link href="https://higgsfield.ai/blog/higgsfield-ai-games"/>
+    <id>093bbaafd67f3b2313a446dc59261d2c</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+    <summary type="text">Building a game used to mean picking an engine, learning its logic, and sourcing assets before you even got to design. Higgsfield Games collapses that into one prompt: AI handles the code, the assets, the deployment, and the multiplayer.</summary>
+  </entry>
+  <entry>
+    <title>Higgsfield Meets DaVinci Resolve: Generate B-Roll Right in Your Edit</title>
+    <link href="https://higgsfield.ai/blog/higgsfield-davinci-resolve"/>
+    <id>407cae5b083d940e1eb5ebf683ead4c3</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+    <summary type="text">A full guide to Higgsfield's plugin for DaVinci Resolve: what's in the panel, how to generate B-roll and match color to a reference without leaving your edit, installation and requirements, credit behavior, and what the plugin doesn't do.</summary>
+  </entry>
+  <entry>
+    <title>How VertexCGI, the Studio Behind Campaigns for Porsche and Mercedes, Used Higgsfield to Build a Viral NBA Finals Campaign</title>
+    <link href="https://higgsfield.ai/blog/vertexcgi-higgsfield-nba-finals-case-study"/>
+    <id>10309db5fb8c7577348f97f3038be030</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+    <summary type="text">Vertex CGI, a studio behind more than 25 billion organic views across 1,200+ campaigns, used Higgsfield throughout a five day sprint to take the NBA Finals celebration video from first call to publish, a timeline in which a traditional, AI free pipeline would have produced roughly five times fewer shots with the same team.</summary>
+  </entry>
+  <entry>
+    <title>Meet Higgsfield Unlimited MCP: How It Works and What You Get</title>
+    <link href="https://higgsfield.ai/blog/unlimited-mcp"/>
+    <id>ba4d5e4485f9da9c096e68c098611a28</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+    <summary type="text">Higgsfield just launched Unlimited access for MCP, the first time unlimited generation has worked directly inside Claude and ChatGPT rather than only on the web. New users can claim a free 24-hour trial until July 31.</summary>
+  </entry>
+  <entry>
+    <title>How to Keep Characters and Locations Consistent Across AI Shots (2026 Guide)</title>
+    <link href="https://higgsfield.ai/blog/consistent-characters-locations"/>
+    <id>63bf3fd4e8d87437de361e2a406785fe</id>
+    <published>2026-07-27T00:00:00+00:00</published>
+    <updated>2026-07-27T00:00:00+00:00</updated>
+    <summary type="text">Most guides to character consistency stop at the face. This one covers the other half too, the location, because a production only reads as coherent when neither the person nor the place is drifting between shots.</summary>
+  </entry>
   <entry>
     <title>Introducing New Unlimited: Higher Resolutions, More Models</title>
     <link href="https://higgsfield.ai/blog/new-unlimited-more-models"/>
@@ -49,14 +105,6 @@
     <summary type="text">Eight tools tested on one question: can they create content and get it published without a second app? A breakdown of who generates, who schedules, who does both, and which tool fits which workflow.</summary>
   </entry>
   <entry>
-    <title>How Long Does AI Video Generation Take in 2026? (Real Times by Model)</title>
-    <link href="https://higgsfield.ai/blog/how-long-ai-video-generation-takes"/>
-    <id>3b5c5995198cfcb6bea320c3334f2ce8</id>
-    <published>2026-07-24T00:00:00+00:00</published>
-    <updated>2026-07-24T00:00:00+00:00</updated>
-    <summary type="text">AI video generation in 2026 takes anywhere from about 1.5 to 4 minutes on average for a short clip, depending on the model and the clip's length and resolution. We pulled these as 30-day medians directly from generations run on Higgsfield.</summary>
-  </entry>
-  <entry>
     <title>How to Control Camera Movement, Angles, and Lens in AI Video</title>
     <link href="https://higgsfield.ai/blog/ai-video-camera-control"/>
     <id>2709959a3ba914a844f11de68f99d4a6</id>
@@ -73,60 +121,12 @@
     <summary type="text">Hands and faces are the two things AI video breaks most often, and the two things a viewer notices fastest. Here's why it happens, and the exact steps that fix it.</summary>
   </entry>
   <entry>
-    <title>10 Best Sora Alternatives in 2026 (Tested and Compared)</title>
-    <link href="https://higgsfield.ai/blog/best-sora-alternatives-2026"/>
-    <id>f9787aa5367f9026a974e357e864935a</id>
-    <published>2026-07-23T00:00:00+00:00</published>
-    <updated>2026-07-23T00:00:00+00:00</updated>
-    <summary type="text">Running AI video across four tools creates friction at every handoff. This guide walks through the full workflow step by step across five platforms so you can find the right setup for your use case.</summary>
-  </entry>
-  <entry>
-    <title>How to Make AI Product Videos Without a Studio in 2026</title>
-    <link href="https://higgsfield.ai/blog/ai-product-videos-no-studio"/>
-    <id>04d8fce905ab2cf760882f2fc87e079b</id>
-    <published>2026-07-23T00:00:00+00:00</published>
-    <updated>2026-07-23T00:00:00+00:00</updated>
-    <summary type="text">To create a product ad with AI, decide what style fits the product and where it runs, then let the tool write the script, cast a spokesperson, and generate the video, no camera, no crew required.</summary>
-  </entry>
-  <entry>
     <title>Keeping Brand Visuals Consistent in Figma With Higgsfield</title>
     <link href="https://higgsfield.ai/blog/higgsfield-figma-plugin"/>
     <id>b9714c4d706200b4e525e34ee27b631b</id>
     <published>2026-07-23T00:00:00+00:00</published>
     <updated>2026-07-23T00:00:00+00:00</updated>
     <summary type="text">Most design systems mix stock, client-supplied, and AI-generated images that never quite match. Higgsfield runs inside Figma to pull them all toward one visual identity, generation and correction in the same panel.</summary>
-  </entry>
-  <entry>
-    <title>Higgsfield All Unlimited: What You Get and How It Works?</title>
-    <link href="https://higgsfield.ai/blog/higgsfield-all-unlimited-explained"/>
-    <id>f034ac002cb29e98b0e1916a51a0c97e</id>
-    <published>2026-07-22T00:00:00+00:00</published>
-    <updated>2026-07-22T00:00:00+00:00</updated>
-    <summary type="text">Higgsfield All Unlimited: What You Get and How It Works?</summary>
-  </entry>
-  <entry>
-    <title>Best AI Batch Generation Tools in 2026 (Tested &amp; Compared)</title>
-    <link href="https://higgsfield.ai/blog/ai-batch-generation-tools-2026"/>
-    <id>c40433a23f84093913b7c84727bfebf8</id>
-    <published>2026-07-21T00:00:00+00:00</published>
-    <updated>2026-07-21T00:00:00+00:00</updated>
-    <summary type="text">Most AI tools generate one clip or image at a time. That breaks completely when you need fifty. Here are six platforms that handle batch generation well, tested and compared on pricing and method.</summary>
-  </entry>
-  <entry>
-    <title>Higgsfield Inside Adobe After Effects: AI Footage Straight to Your Timeline</title>
-    <link href="https://higgsfield.ai/blog/higgsfield-after-effects"/>
-    <id>9ad7c334db4a33f97503e3d8fcaada3e</id>
-    <published>2026-07-21T00:00:00+00:00</published>
-    <updated>2026-07-21T00:00:00+00:00</updated>
-    <summary type="text">Generate AI video and images, remove backgrounds, reframe, and upscale directly inside After Effects. One panel, no browser round-trips, driven by Supercomputer or Claude via MCP.</summary>
-  </entry>
-  <entry>
-    <title>7 Best Platforms to Use Seedream 5.0 (Tested &amp; Compared)</title>
-    <link href="https://higgsfield.ai/blog/best-platforms-seedream-5"/>
-    <id>738cec77a3d76c48ef86e7cafa14ef8a</id>
-    <published>2026-07-19T00:00:00+00:00</published>
-    <updated>2026-07-19T00:00:00+00:00</updated>
-    <summary type="text">Seedream 5.0 runs on a growing number of platforms, each with different subscription structures, credit costs, and tools around it. This guide covers the seven platforms worth knowing about and what you actually get on each one.</summary>
   </entry>
   <entry>
     <title>How to Keep Your AI Character Consistent Across Every Generation: Soul ID Explained</title>

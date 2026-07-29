@@ -4,10 +4,37 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-07-20T00:00:00+00:00</updated>
+  <updated>2026-07-29T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>Relight Exterior Footage to Any Sun Direction: Relight IC-LoRA For LTX-2.3</title>
+    <link href="https://ltx.io/blog/relight-exterior-footage-to-any-sun-direction"/>
+    <id>873ecd1de9719e8b001a85d53b67add3</id>
+    <published>2026-07-29T00:00:00+00:00</published>
+    <updated>2026-07-29T00:00:00+00:00</updated>
+    <summary type="text">Relight IC-LoRA for LTX-2.3 rewrites sunlight in exterior footage to any direction and look using a light-direction sphere. Full relight in a single pass.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Remove People and Shadows from Video: Clean Plate LoRA</title>
+    <link href="https://ltx.io/blog/remove-people-and-shadows-from-video"/>
+    <id>713d916ce2371cd7fa2d71cec2b417b3</id>
+    <published>2026-07-29T00:00:00+00:00</published>
+    <updated>2026-07-29T00:00:00+00:00</updated>
+    <summary type="text">Clean Plate LoRA for LTX-2.3 removes people, vehicles, and their shadows from video, then inpaints a seamless background in a single pass. No manual roto.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Turn Static Frames Into Looping Motion: Cinemagraph LoRA</title>
+    <link href="https://ltx.io/blog/turn-static-frames-into-looping-motion"/>
+    <id>b6651f32c0ed1613b2427daea8015a66</id>
+    <published>2026-07-29T00:00:00+00:00</published>
+    <updated>2026-07-29T00:00:00+00:00</updated>
+    <summary type="text">Cinemagraph LoRA for LTX-2.3: animate a single element while everything else stays perfectly frozen. Generate seamless loops from one image and prompt.</summary>
+    <category term="Production"/>
+  </entry>
   <entry>
     <title>AI Video Prompt Guide: How To Write AI Video Prompts In 2026</title>
     <link href="https://ltx.io/blog/ai-video-prompt-guide"/>
@@ -243,15 +270,6 @@
     <category term="Prompting Guides"/>
   </entry>
   <entry>
-    <title>AI Image Trends In 2026: Best AI Image Trends</title>
-    <link href="https://ltx.io/blog/ai-image-trends"/>
-    <id>329e3927415c2aeb98dabc673f7b48ee</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">Explore the biggest AI image trends of 2026. See what’s shaping visual creation and learn how to use these trends to elevate your content.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
     <title>Best Animation Software (2026): What To Use For 2D, 3D &amp; AI Animation</title>
     <link href="https://ltx.io/blog/best-animation-software"/>
     <id>e439a41caf26f9e7de9a01389b914a2f</id>
@@ -303,15 +321,6 @@
     <published>2026-06-21T00:00:00+00:00</published>
     <updated>2026-06-21T00:00:00+00:00</updated>
     <summary type="text">Understand film editing techniques from jump cuts to montage. Learn how editing shapes storytelling and test narrative flow with LTX Studio's tools.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>How Agency Can Create Cinematic Ads At Scale In 2026</title>
-    <link href="https://ltx.io/blog/cinematic-ads-at-scale-agency-playbook"/>
-    <id>8348adad10a1828bfaef591dbcd588d3</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">Discover how agencies produce cinematic ads at scale without traditional production limits. See real examples and learn how LTX enables cinematic storytelling.</summary>
     <category term="Production"/>
   </entry>
   <entry>
@@ -421,15 +430,6 @@
     <updated>2026-06-21T00:00:00+00:00</updated>
     <summary type="text">Discover how to write AI prompts that generate professional video and images. Step-by-step guide with examples for LTX Studio text-to-video creation.</summary>
     <category term="Prompting Guides"/>
-  </entry>
-  <entry>
-    <title>The Best AI Character Generators In 2026</title>
-    <link href="https://ltx.io/blog/best-ai-character-generator"/>
-    <id>f9297c5d2556aa01a29f4b18be2626c5</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">Discover the best AI character generators of 2026. Create, customize, and animate digital characters for films, games, and marketing, tools compared.</summary>
-    <category term="Production"/>
   </entry>
   <entry>
     <title>What is B-Roll Footage</title>
