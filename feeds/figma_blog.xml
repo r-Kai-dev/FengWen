@@ -4,10 +4,19 @@
   <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
   <link href="https://www.figma.com/blog/"/>
   <id>https://www.figma.com/blog/</id>
-  <updated>2026-07-27T16:30:00.000Z</updated>
+  <updated>2026-07-30T19:25:32.996Z</updated>
   <author>
-    <name>Matt Alagiah</name>
+    <name>Phillip Wang</name>
   </author>
+  <entry>
+    <title>A properties panel and annotations, now in Figma Make</title>
+    <link href="https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/"/>
+    <id>58e9ec0372b6c7ec1f7eb5b9c4739c9f</id>
+    <published>2026-07-30T19:25:32.996Z</published>
+    <updated>2026-07-30T19:25:32.996Z</updated>
+    <summary type="text">With visual editing and annotations, Figma Make is bridging the gap between design and code. Select any element you want to change, adjust it directly in the properties panel, or write in-context prompts with annotations.</summary>
+    <category term="Inside Figma"/>
+  </entry>
   <entry>
     <title>Digital tools, human expression: The visual identity behind Config 2026</title>
     <link href="https://www.figma.com/blog/the-visual-identity-behind-config-2026/"/>
@@ -25,15 +34,6 @@
     <updated>2026-07-16T12:00:00.000Z</updated>
     <summary type="text">The handoff from design to code doesn't have to be a one-way street. This workflow shows how a designer can connect a codebase to Figma Make, make the changes directly, and bring the whole team into review—right up to the PR.</summary>
     <category term="Working Well"/>
-  </entry>
-  <entry>
-    <title>How Decagon uses AI for design system saturation </title>
-    <link href="https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/"/>
-    <id>b832d3ded9332b8d177d9e519cb34a02</id>
-    <published>2026-07-10T20:30:56.769Z</published>
-    <updated>2026-07-10T20:30:56.769Z</updated>
-    <summary type="text">The fast-growing customer experience platform explains how Figma MCP and Figma Make helped them scale a new design system and keep pace with customer requests.</summary>
-    <category term="Maker Stories"/>
   </entry>
   <entry>
     <title>How to keep design teams steady through constant change</title>

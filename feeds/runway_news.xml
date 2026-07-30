@@ -4,10 +4,18 @@
   <icon>https://runwayml.com/icon.png</icon>
   <link href="https://runwayml.com/news"/>
   <id>https://runwayml.com/news</id>
-  <updated>2026-07-23T17:00:23.330000+00:00</updated>
+  <updated>2026-07-30T16:26:48.071000+00:00</updated>
   <author>
     <name>Runway</name>
   </author>
+  <entry>
+    <title>How Skyscanner Eliminated Pre-Production Guesswork with Runway</title>
+    <link href="https://runwayml.com/news/customers/skyscanner"/>
+    <id>3e102cb1ccf401985dbd29300bd31482</id>
+    <published>2026-07-30T16:26:48.071000+00:00</published>
+    <updated>2026-07-30T16:26:48.071000+00:00</updated>
+    <category term="Customer Stories"/>
+  </entry>
   <entry>
     <title>Introducing Runway Media Router</title>
     <link href="https://runwayml.com/news/company-news/introducing-runway-media-router"/>
@@ -15,6 +23,15 @@
     <published>2026-07-23T17:00:23.330000+00:00</published>
     <updated>2026-07-23T17:00:23.330000+00:00</updated>
     <summary type="text">Runway Media Router is the first preference-optimized router for generative media, built into the Runway Dev platform.</summary>
+    <category term="Company News"/>
+  </entry>
+  <entry>
+    <title>Introducing Runway Dev</title>
+    <link href="https://runwayml.com/news/company-news/introducing-runway-dev"/>
+    <id>71173087753e3f83094ac82ce83300db</id>
+    <published>2026-07-23T16:00:00+00:00</published>
+    <updated>2026-07-23T16:00:00+00:00</updated>
+    <summary type="text">Runway Dev is the AI media platform for developers: one API for the best image, video and character models, enterprise-ready by default.</summary>
     <category term="Company News"/>
   </entry>
   <entry>
@@ -49,15 +66,6 @@
     <published>2026-07-10T00:00:00</published>
     <updated>2026-07-10T00:00:00</updated>
     <category term="Engineering"/>
-  </entry>
-  <entry>
-    <title>Introducing Runway Dev</title>
-    <link href="https://runwayml.com/news/company-news/introducing-runway-dev"/>
-    <id>f8683c7dd9073973849417d3de100366</id>
-    <published>2026-07-08T10:00:00+00:00</published>
-    <updated>2026-07-08T10:00:00+00:00</updated>
-    <summary type="text">Runway Dev is the AI media platform for developers: one API to integrate the best image, video, audio and real-time character models.</summary>
-    <category term="Company News"/>
   </entry>
   <entry>
     <title>Announcing our Paris Office</title>

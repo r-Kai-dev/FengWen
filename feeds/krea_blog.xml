@@ -6,8 +6,19 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-07-28T00:00:00.000Z</updated>
+  <updated>2026-07-30T00:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>From almost to Doodles</title>
+    <link href="https://www.krea.ai/blog/from-almost-to-doodles"/>
+    <id>https://www.krea.ai/blog/from-almost-to-doodles</id>
+    <updated>2026-07-30T00:00:00.000Z</updated>
+    <published>2026-07-30T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="case-studies"/>
+    <summary>How Doodles found a visually literate model in Krea 2 and taught it their style.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/KREA%20(1).png" type="image/webp"/>
+  </entry>
   <entry>
     <title>10 Best Seedance 2.5 Prompts for Cinematic AI Videos (2026)</title>
     <link href="https://www.krea.ai/blog/10-best-seedance-2-5-prompts-for-cinematic-ai-videos-2026"/>
@@ -30,6 +41,29 @@
     <category term="guides"/>
     <summary>Explore 8 Popular Interior Decoration Styles in 2026 with room-style prompts to preview layouts, materials, and mood before you commit.</summary>
     <link rel="enclosure" href="https://s.krea.ai/8-popular-interior-decoration-styles-in-2026-prompts-to-preview-your-room/thumbnail.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Eclectic Interior Design: 7 Ideas and AI Prompts for 2026</title>
+    <link href="https://www.krea.ai/blog/eclectic-interior-design-7-ideas-and-ai-prompts-for-2026"/>
+    <id>https://www.krea.ai/blog/eclectic-interior-design-7-ideas-and-ai-prompts-for-2026</id>
+    <updated>2026-07-28T00:00:00.000Z</updated>
+    <published>2026-07-28T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Eclectic interior design ideas and AI prompts for 2026: pick a color anchor, repeat materials, and test contrast for cohesive, not chaotic rooms.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/eclectic-interior-design-7-ideas-and-ai-prompts-for-2026/thumbnail.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedream 4.0 vs Flux: Which Image Generator Is Better in 2026?</title>
+    <link href="https://www.krea.ai/blog/seedream-4-0-vs-flux-which-image-generator-is-better-in-2026"/>
+    <id>https://www.krea.ai/blog/seedream-4-0-vs-flux-which-image-generator-is-better-in-2026</id>
+    <updated>2026-07-28T00:00:00.000Z</updated>
+    <published>2026-07-28T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="flux-kontext"/>
+    <summary>Seedream 4.0 vs Flux in 2026: choose Seedream for text-heavy, brand-consistent marketing at scale, Flux for realistic hero imagery.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedream-4-0-vs-flux-which-image-generator-is-better-in-2026/thumbnail.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>The 5 Best Midjourney Alternatives in 2026 (3 of Them Free)</title>
@@ -544,38 +578,5 @@
     <category term="community"/>
     <summary>First reactions to the Krea 2 LoRA beta — from day-one experiments to a film-work take on consistency.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/creators-react-krea-2-loras/1779390784465-0-hi3lde3waaanz-7.jpg" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Krea 2 deep dive: exploration, style references, and moodboards</title>
-    <link href="https://www.krea.ai/blog/krea-2-deep-dive-walkthrough"/>
-    <id>https://www.krea.ai/blog/krea-2-deep-dive-walkthrough</id>
-    <updated>2026-05-21T00:00:00.000Z</updated>
-    <published>2026-05-21T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="product"/>
-    <summary>Krea 2 is our first foundation model, built completely from scratch and focused on aesthetics and creative control.  When you make an image with AI there are</summary>
-    <link rel="enclosure" href="https://s.krea.ai/moodboards-test.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Krea 2 LoRA training is now available</title>
-    <link href="https://www.krea.ai/blog/krea-2-lora-training"/>
-    <id>https://www.krea.ai/blog/krea-2-lora-training</id>
-    <updated>2026-05-21T00:00:00.000Z</updated>
-    <published>2026-05-21T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="product"/>
-    <summary>Train custom Krea 2 LoRAs — styles, characters, or objects — and use them in the Image tool. In beta for Max and Business subscribers.</summary>
-    <link rel="enclosure" href="https://optim-images.krea.ai/https---s-krea-ai-animehorse-png-1024.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>One day instead of five</title>
-    <link href="https://www.krea.ai/blog/superside-one-day-instead-of-five"/>
-    <id>https://www.krea.ai/blog/superside-one-day-instead-of-five</id>
-    <updated>2026-05-21T00:00:00.000Z</updated>
-    <published>2026-05-21T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="case-studies"/>
-    <summary>How Superside scales creative production with Krea — turning five-day workflows into one.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/superside/Hero.png" type="image/webp"/>
   </entry>
 </feed>
