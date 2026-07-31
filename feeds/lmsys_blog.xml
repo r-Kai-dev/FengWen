@@ -28,6 +28,16 @@
     <category term="technical"/>
   </entry>
   <entry>
+    <title>Toward a Cleaner Quantization Stack in SGLang</title>
+    <link href="https://lmsys.org/blog/2026-07-31-cleaner-quantization-stack"/>
+    <id>fd09c0a826be150651526ee5d3a996f2</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+    <summary type="text">Quantization has moved from an advanced feature to an essential part of high-throughput LLM serving. As the number of checkpoint formats, model architectures, and hardware backends grows, the quantiza...</summary>
+    <category term="sglang"/>
+    <category term="blog"/>
+  </entry>
+  <entry>
     <title>SGLang and Miles Add Day-0 Support for Kimi K3</title>
     <link href="https://lmsys.org/blog/2026-07-27-kimi-k3-day0-support"/>
     <id>13532fd8759ee1abfaec846a5930db8f</id>

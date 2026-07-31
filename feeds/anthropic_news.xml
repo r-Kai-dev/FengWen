@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-07-27T00:00:00+00:00</updated>
+  <updated>2026-07-30T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
+    <link href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"/>
+    <id>5fec09d3222c6831074713fedb45ce44</id>
+    <published>2026-07-30T00:00:00+00:00</published>
+    <updated>2026-07-30T00:00:00+00:00</updated>
+    <category term="Frontier Red Team"/>
+  </entry>
   <entry>
     <title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
     <link href="https://www.anthropic.com/news/cognizant-anthropic"/>
@@ -87,14 +95,6 @@
     <published>2026-07-09T00:00:00+00:00</published>
     <updated>2026-07-09T00:00:00+00:00</updated>
     <category term="Announcements"/>
-  </entry>
-  <entry>
-    <title>UST is bringing Claude to physical AI</title>
-    <link href="https://www.anthropic.com/news/ust-claude"/>
-    <id>dc3bb4988412b7d4406612b6108c1881</id>
-    <published>2026-07-09T00:00:00+00:00</published>
-    <updated>2026-07-09T00:00:00+00:00</updated>
-    <category term="Case Study"/>
   </entry>
   <entry>
     <title>The Making of Claude Code</title>

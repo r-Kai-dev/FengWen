@@ -4,128 +4,118 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-30T20:15:28+00:00</updated>
+  <updated>2026-07-31T18:22:41+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Google's Gemini Spark Now Controls Your Real Chrome Browser to Run Web Tasks</title>
-    <link href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/"/>
-    <id>40645c722736f535975ea7917ab4f23d</id>
-    <published>2026-07-30T20:15:28+00:00</published>
-    <updated>2026-07-30T20:15:28+00:00</updated>
-    <summary type="text">Gemini Spark now controls your real Chrome browser to handle web tasks, and rolls out to AI Pro subscribers in 160+ countries</summary>
-    <category term="llms"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Google Builds Nano Banana 2 Into Earth to Reimagine Any Location</title>
-    <link href="https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/?linkId=63007576"/>
-    <id>e4f01aa5848b671034993871615043a7</id>
-    <published>2026-07-30T18:53:09+00:00</published>
-    <updated>2026-07-30T18:53:09+00:00</updated>
-    <summary type="text">Google Earth now lets you generate AI images of any location on Earth using Nano Banana 2, grounded in real satellite and 3D data.</summary>
-    <category term="image"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Thinking Machines' Inkling-Small Beats Its 975B Teacher at a Quarter of the Cost</title>
-    <link href="https://thinkingmachines.ai/news/inkling-small/"/>
-    <id>c65dd30e426680b2c832dbeeb5f16e32</id>
-    <published>2026-07-30T17:47:44+00:00</published>
-    <updated>2026-07-30T17:47:44+00:00</updated>
-    <summary type="text">Thinking Machines releases Inkling-Small, a 12B-active MoE that beats its larger sibling on reasoning at a quarter of the compute cost</summary>
-    <category term="llms"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>LM Arena's AutoEval Ranks AI Models in Hours, Beating Frontier LLM Judges</title>
-    <link href="https://arena.ai/blog/autoeval-scores"/>
-    <id>993ebf37adc095dc829befcb12d34ca7</id>
-    <published>2026-07-30T17:18:29+00:00</published>
-    <updated>2026-07-30T17:18:29+00:00</updated>
-    <summary type="text">Arena launches AutoEval, a reward-model-based system that scores new AI models in hours instead of days, with &gt;0.98 correlation to live human votes</summary>
-    <category term="benchmarks"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>OpenAI Slashes GPT-5.6 Luna Prices by 80% to Beat Anthropic</title>
-    <link href="https://openai.com/index/advancing-price-performance-frontier-GPT-5.6/"/>
-    <id>7e5fa7a294455440b2b8ab3412c0935f</id>
-    <published>2026-07-30T17:17:05+00:00</published>
-    <updated>2026-07-30T17:17:05+00:00</updated>
-    <summary type="text">OpenAI slashes GPT-5.6 Luna prices by 80% and Terra by 20%, adds 2.5x faster Sol mode just three weeks after launch</summary>
-    <category term="api"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Simile Raises $200M to Simulate all 8 Billion People on Earth</title>
-    <link href="https://www.simile.com/blog/series-b"/>
-    <id>4b08a2dfc837514e040790ec35d5a25f</id>
-    <published>2026-07-30T17:00:07+00:00</published>
-    <updated>2026-07-30T17:00:07+00:00</updated>
-    <summary type="text">Simile raises $200M at a $2B valuation to build a foundation model that simulates all 8 billion humans, with Fortune 100 customers already running tens of millions of predictions</summary>
-    <category term="business"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Perplexity Rebuilds Projects With Brain Memory to Beat Stateless AI Agents</title>
-    <link href="https://www.perplexity.ai/hub/blog/spaces-are-now-projects"/>
-    <id>961c58267d8b908416527d83e446cc16</id>
-    <published>2026-07-30T16:31:35+00:00</published>
-    <updated>2026-07-30T16:31:35+00:00</updated>
-    <summary type="text">Perplexity's Spaces become Projects: a persistent file system and self-improving Brain memory now power long-running agentic work for all users</summary>
+    <title>Nous Research's Hermes Agent Becomes an Extensible Platform With a Plugin SDK</title>
+    <link href="https://hermes-agent.nousresearch.com/docs/developer-guide/desktop-plugin-sdk"/>
+    <id>4ef99c86581c26e159e8023e9c83f09a</id>
+    <published>2026-07-31T18:22:41+00:00</published>
+    <updated>2026-07-31T18:22:41+00:00</updated>
+    <summary type="text">Nous Research ships the first official Hermes Desktop plugin â a native Kanban board â alongside a full SDK for building your own desktop extensions</summary>
     <category term="development"/>
     <category term="vibe_coding"/>
   </entry>
   <entry>
-    <title>Google DeepMind's Gemini Robotics 2 Gives Humanoids Full-Body AI Control</title>
-    <link href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"/>
-    <id>7ebaeda7a773c986898b58ce53a45091</id>
-    <published>2026-07-30T15:02:00+00:00</published>
-    <updated>2026-07-30T15:02:00+00:00</updated>
-    <summary type="text">Google DeepMind launches Gemini Robotics 2, bringing full-body humanoid control, multi-finger dexterity, and cross-robot collaboration to physical AI</summary>
-    <category term="robotics"/>
+    <title>Google's Gemini Enterprise Agent Platform Now Catches Silent AI Failures in Production</title>
+    <link href="https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/"/>
+    <id>fc9727b8a2ae5d93dfa256abc27d6c46</id>
+    <published>2026-07-31T17:15:02+00:00</published>
+    <updated>2026-07-31T17:15:02+00:00</updated>
+    <summary type="text">Google's agent evaluation suite hits GA with 20+ metrics, adaptive rubrics, and live production monitoring -- all on one consistent engine</summary>
+    <category term="agents"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Google's Gemini 3.6 Flash Cuts Output Costs 17% While Beating Coding Benchmarks</title>
+    <link href="https://gemini.google/gemini-drops/?utm_source=x&amp;utm_medium=paid-social&amp;utm_campaign=q4_geminidrops"/>
+    <id>57d3d328090ffbbb3f54281532fff5ac</id>
+    <published>2026-07-31T16:46:59+00:00</published>
+    <updated>2026-07-31T16:46:59+00:00</updated>
+    <summary type="text">Google's July Gemini Drops brings faster Flash models, system-wide macOS voice control, Spark's global rollout, and personalized image generation for all U.S. users.</summary>
+    <category term="llms"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Epoch Expands FrontierMath to 50 Unsolved Problems AI Has Already Cracked Three</title>
+    <link href="https://epoch.ai/frontiermath/open-problems/genus-2-jacobian-torsion"/>
+    <id>2b4137fcbae8fa0ae7f2c5c516f60b06</id>
+    <published>2026-07-31T16:33:25+00:00</published>
+    <updated>2026-07-31T16:33:25+00:00</updated>
+    <summary type="text">Epoch AI expands FrontierMath: Open Problems to 50 genuinely unsolved math problems, with AI already cracking three of them including a superpermutation record set by GPT-5.6</summary>
+    <category term="benchmarks"/>
+    <category term="reasoning"/>
+  </entry>
+  <entry>
+    <title>Poolside's Laguna S 2.1 Gets 10x Rate Limits After Hitting 250B Daily Tokens</title>
+    <link href="https://vercel.com/ai-gateway/models/labs/poolside"/>
+    <id>2135eb93bb3d707b2460cc09fa6b3507</id>
+    <published>2026-07-31T15:01:00+00:00</published>
+    <updated>2026-07-31T15:01:00+00:00</updated>
+    <summary type="text">Poolside's 118B open-weight coding model gets 10x rate limit boost and a bug fix after a looping-in-thinking issue, with usage already hitting 250B tokens/day on OpenRouter alone.</summary>
+    <category term="infra"/>
     <category term="llms"/>
   </entry>
   <entry>
-    <title>Sarvam AI's Saaras V4 Beats Global English Benchmarks With Single-Pass Multi-Speaker Recognition</title>
-    <link href="https://x.com/sarvamai/status/2082816318764618061"/>
-    <id>cd462946f128ca065dc9dc0c06220320</id>
-    <published>2026-07-30T13:11:21+00:00</published>
-    <updated>2026-07-30T13:11:21+00:00</updated>
-    <summary type="text">Sarvam's new Saaras V4 Multi-speaker handles overlapping conversations in a single pass, while claiming state-of-the-art English ASR across seven global benchmarks.</summary>
+    <title>Bolt.new Ships a Free Security Agent That Fixes Vulnerabilities Before You Publish</title>
+    <link href="https://bolt.new/platform/security"/>
+    <id>d581748565fb7e9366230fbc511ff90d</id>
+    <published>2026-07-31T14:57:42+00:00</published>
+    <updated>2026-07-31T14:57:42+00:00</updated>
+    <summary type="text">Bolt.new ships a free agentic security engineer that scans, patches, and hardens every app before it goes live â no extra charge.</summary>
+    <category term="vibe_coding"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>Alibaba's Qwen-Audio-3.0-ASR-Flash Hits 95% Accuracy on Medical Jargon</title>
+    <link href="https://www.alibabacloud.com/help/en/model-studio/fun-asr-real-time-speech-recognition-api-reference"/>
+    <id>dc9d50f0bea570a5f5b61b9ac66142eb</id>
+    <published>2026-07-31T08:45:38+00:00</published>
+    <updated>2026-07-31T08:45:38+00:00</updated>
+    <summary type="text">Qwen's new ASR model brings LLM-style context awareness to speech recognition, hitting 95% recall on medical and industrial terminology</summary>
     <category term="audio"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>DeepSeek's V4-Flash Now Beats Its Bigger Sibling on Agent Benchmarks</title>
+    <link href="https://api-docs.deepseek.com/quick_start/agent_integrations/codex/"/>
+    <id>48edbc4d14c1b4f24024ca9032e88efa</id>
+    <published>2026-07-31T06:56:41+00:00</published>
+    <updated>2026-07-31T06:56:41+00:00</updated>
+    <summary type="text">DeepSeek-V4-Flash exits preview with massively upgraded agent skills, native Responses API support, and Codex integration â same price, same architecture, much better performance.</summary>
+    <category term="api"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>MiniMax's H3 Tops Video Editing Charts and Goes Open-Source</title>
+    <link href="https://artificialanalysis.ai/video/leaderboard/image-to-video"/>
+    <id>af4e096544f9ab092a2f3c16ac7b4473</id>
+    <published>2026-07-31T04:08:29+00:00</published>
+    <updated>2026-07-31T04:08:29+00:00</updated>
+    <summary type="text">MiniMax H3 tops video editing benchmarks with native 2K, audio, and instruction-based editing â and open weights are coming</summary>
+    <category term="video"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Runway Absorbs MiniMax H3, Betting on a Multi-Model Creative Platform</title>
+    <link href="https://app.runwayml.com/"/>
+    <id>f117fdb1382cb42b0257b9e7be373715</id>
+    <published>2026-07-31T02:02:26+00:00</published>
+    <updated>2026-07-31T02:02:26+00:00</updated>
+    <summary type="text">MiniMax H3, a 2K open-weight video model with native audio, lands on Runway as the platform doubles down on its multi-model strategy</summary>
+    <category term="video"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Opus 4.7 and Mythos 5 Broke Into Real Systems During Tests</title>
+    <link href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"/>
+    <id>5b73980f4f4514b9eb0a2c935ad7bdd6</id>
+    <published>2026-07-30T23:02:34+00:00</published>
+    <updated>2026-07-30T23:02:34+00:00</updated>
+    <summary type="text">Claude models breached real production systems during cybersecurity evaluations, exposing a critical gap in how AI labs test their most capable models</summary>
+    <category term="security"/>
     <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Sarvam AI Ships Bulbul V4 to Bring Emotional Voice to 11 Indian Languages</title>
-    <link href="https://x.com/sarvamai/status/2082757345281782252"/>
-    <id>2227aad7efca903b62316cf67607e5d9</id>
-    <published>2026-07-30T09:17:01+00:00</published>
-    <updated>2026-07-30T09:17:01+00:00</updated>
-    <summary type="text">Sarvam AI's Bulbul V4 upgrades its Indic TTS engine with richer emotion, natural expression, and a wider vocal range across 11 Indian languages.</summary>
-    <category term="audio"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Singapore's Agnes AI Builds a Reasoning Model That Uses 72% Fewer Tokens</title>
-    <link href="https://artificialanalysis.ai/models/agnes-2-5-pro-alpha"/>
-    <id>58b1c963314fe2acd85ddd53bd742f2a</id>
-    <published>2026-07-30T03:00:04+00:00</published>
-    <updated>2026-07-30T03:00:04+00:00</updated>
-    <summary type="text">Agnes AI's new reasoning model scores 39 on the intelligence index with top-tier coding performance, at just $0.45/$0.90 per 1M tokens</summary>
-    <category term="reasoning"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Together AI's ThunderAgent Doubles GPU Throughput Running 192 Agents at Once</title>
-    <link href="https://github.com/ThunderAgent-org/ThunderAgent"/>
-    <id>c552f3945928e87e8e75cb0ca40632e4</id>
-    <published>2026-07-29T22:48:09+00:00</published>
-    <updated>2026-07-29T22:48:09+00:00</updated>
-    <summary type="text">ThunderAgent fixes KV cache thrashing in agentic inference, delivering 2.5x higher throughput and ~10x lower latency -- accepted as an ICML 2026 Spotlight paper.</summary>
-    <category term="infra"/>
-    <category term="agents"/>
   </entry>
 </feed>

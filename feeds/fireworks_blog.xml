@@ -4,7 +4,27 @@
   <icon>https://fireworks.ai/favicon.ico</icon>
   <link href="https://fireworks.ai/blog"/>
   <id>https://fireworks.ai/blog</id>
-  <updated>2026-07-27T00:00:00+00:00</updated>
+  <updated>2026-07-30T00:00:00+00:00</updated>
+  <entry>
+    <title>Three Tests to Run Before You Switch from LoRA to FullFT</title>
+    <link href="https://fireworks.ai/blog/three-tests-to-run-before-you-switch-from-LoRa-to-FullFT"/>
+    <id>6506cd951e58f47ad0d27c5b60af1364</id>
+    <published>2026-07-30T00:00:00+00:00</published>
+    <updated>2026-07-30T00:00:00+00:00</updated>
+    <summary type="text">When Full Fine-Tuning beats LoRA, the adapter may not be the problem. Controlled experiments on Qwen3.5-9B show how data coverage, optimization, and rank can create or close the gap.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/5efe7534f461f1700c078d38855737c55ebb21f3-1280x768.gif&quot; alt=&quot;Three Tests to Run Before You Switch from LoRA to FullFT&quot; /&gt;
+&lt;p&gt;When Full Fine-Tuning beats LoRA, the adapter may not be the problem. Controlled experiments on Qwen3.5-9B show how data coverage, optimization, and rank can create or close the gap.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fine-Tune Your Own Embedding Model for the Price of a Coffee</title>
+    <link href="https://fireworks.ai/blog/fine-tuning-your-own-embeddings-model"/>
+    <id>622ff4742e6ee8cccc04480830c38049</id>
+    <published>2026-07-29T00:34:47.557000+00:00</published>
+    <updated>2026-07-29T00:34:47.557000+00:00</updated>
+    <summary type="text">How do you get the best possible embeddings for your domain?</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/8dd35b922c42b725539fe6edef8c73ace6567769-1200x675.png&quot; alt=&quot;Fine-Tune Your Own Embedding Model for the Price of a Coffee&quot; /&gt;
+&lt;p&gt;How do you get the best possible embeddings for your domain?&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Kimi K3 on Fireworks: Frontier Intelligence You Can Own</title>
     <link href="https://fireworks.ai/blog/kimik3-on-fireworks"/>
@@ -459,23 +479,5 @@
     <updated>2025-12-15T00:00:00+00:00</updated>
     <summary type="text">NVIDIA Nemotron 3 Nano on Fireworks: The Engine for Next-Generation AI Agents</summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/45f773372d92201f77a15b500d6228ce8b9ee828-4800x2700.png&quot; alt=&quot;NVIDIA Nemotron 3 Nano on Fireworks: The Engine for Next-Generation AI Agents&quot; /&gt;</content>
-  </entry>
-  <entry>
-    <title>Best Practices for Multi-Turn RL</title>
-    <link href="https://fireworks.ai/blog/best-practices-for-multi-turn-RL"/>
-    <id>465602ec9d0d70e5b6d7e1ead9883b41</id>
-    <published>2025-12-10T00:00:00+00:00</published>
-    <updated>2025-12-10T00:00:00+00:00</updated>
-    <summary type="text">Best Practices for Multi-Turn RL</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/1a1d2fe4a2cd8ceb74571bedebc427a69d9a22b5-4800x2700.png&quot; alt=&quot;Best Practices for Multi-Turn RL&quot; /&gt;</content>
-  </entry>
-  <entry>
-    <title>Turn Your LLM into a Calibrated Classifier for $2</title>
-    <link href="https://fireworks.ai/blog/Finetuning-LLMs-as-Classifiers"/>
-    <id>91dbe6116056f4c37db0801fd0c6d8b4</id>
-    <published>2025-12-04T00:00:00+00:00</published>
-    <updated>2025-12-04T00:00:00+00:00</updated>
-    <summary type="text">Turn Your LLM into a Calibrated Classifier for $2</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/39c0f2be898a36f4a94fe4513d483e77f6f3dd6b-2816x1536.png&quot; alt=&quot;Turn Your LLM into a Calibrated Classifier for $2&quot; /&gt;</content>
   </entry>
 </feed>
