@@ -4,17 +4,24 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-07-29T00:00:00+00:00</updated>
+  <updated>2026-07-31T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Imagine Video 1.5 with References</title>
+    <link href="https://x.ai/news/grok-imagine-video-1-5-references"/>
+    <id>5c8a1a55d768a6eeaf475bdfd2efb47f</id>
+    <published>2026-07-31T00:00:00+00:00</published>
+    <updated>2026-07-31T00:00:00+00:00</updated>
+    <summary type="text">Our best video model, now with text, image, and voice references — generating up to 1080p.</summary>
+  </entry>
   <entry>
     <title>Introducing Grok Voice Think Fast 2.0</title>
     <link href="https://x.ai/news/grok-voice-think-fast-2"/>
     <id>a401aa44d38a7943f88fa2809ca5bc6e</id>
     <published>2026-07-29T00:00:00+00:00</published>
     <updated>2026-07-29T00:00:00+00:00</updated>
-    <summary type="text">Introducing our most capable speech-to-speech voice model.</summary>
   </entry>
   <entry>
     <title>Grok 4.5 in GitHub Copilot</title>
@@ -43,6 +50,7 @@
     <id>b258b024d3c8be1883fe762958a76599</id>
     <published>2026-07-23T00:00:00+00:00</published>
     <updated>2026-07-23T00:00:00+00:00</updated>
+    <summary type="text">Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.</summary>
   </entry>
   <entry>
     <title>Bringing Grok 4.5 to iOS, Android, Web, and X</title>

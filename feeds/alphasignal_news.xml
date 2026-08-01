@@ -4,19 +4,29 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-31T18:22:41+00:00</updated>
+  <updated>2026-07-31T20:31:46+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Nous Research's Hermes Agent Becomes an Extensible Platform With a Plugin SDK</title>
-    <link href="https://hermes-agent.nousresearch.com/docs/developer-guide/desktop-plugin-sdk"/>
-    <id>4ef99c86581c26e159e8023e9c83f09a</id>
-    <published>2026-07-31T18:22:41+00:00</published>
-    <updated>2026-07-31T18:22:41+00:00</updated>
-    <summary type="text">Nous Research ships the first official Hermes Desktop plugin â a native Kanban board â alongside a full SDK for building your own desktop extensions</summary>
-    <category term="development"/>
-    <category term="vibe_coding"/>
+    <title>Skywork AI's Mureka V9 Closes Within 1 Elo Point of Suno's Top Spot</title>
+    <link href="https://artificialanalysis.ai/music/leaderboard/instrumental"/>
+    <id>095a3f16aa2cdef17a63b6e287d83936</id>
+    <published>2026-07-31T20:31:46+00:00</published>
+    <updated>2026-07-31T20:31:46+00:00</updated>
+    <summary type="text">Mureka V9 debuts at #2 on both Artificial Analysis leaderboards, sitting within 1 Elo point of Suno V5.5 for instrumentals â and its DAW-native workflow sets it apart from every rival.</summary>
+    <category term="audio"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>NVIDIA's Spatial-IQ Exposes Why Top AI Models Score 17.7% Where Humans Hit 82%</title>
+    <link href="https://nvidia.github.io/Spatial-IQ/"/>
+    <id>683bfdc5d688088363be1dd499a6998a</id>
+    <published>2026-07-31T18:27:31+00:00</published>
+    <updated>2026-07-31T18:27:31+00:00</updated>
+    <summary type="text">NVIDIA Research's Spatial-IQ benchmark reveals that top AI models hit 3D object-counting scores through shortcuts, not real spatial reasoning â and shows how to fix it.</summary>
+    <category term="image"/>
+    <category term="benchmarks"/>
   </entry>
   <entry>
     <title>Google's Gemini Enterprise Agent Platform Now Catches Silent AI Failures in Production</title>
