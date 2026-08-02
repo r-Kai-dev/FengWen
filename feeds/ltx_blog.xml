@@ -18,7 +18,7 @@
     <category term="Production"/>
   </entry>
   <entry>
-    <title>Build the Dataset</title>
+    <title>How To Build A LoRA Dataset</title>
     <link href="https://ltx.io/blog/build-the-dataset-lora"/>
     <id>cc2311f1fb6cdd96eb5d72eeec0daf58</id>
     <published>2026-07-30T00:00:00+00:00</published>
@@ -27,16 +27,7 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
-    <title>Control LoRAs (IC-LoRA)</title>
-    <link href="https://ltx.io/blog/control-loras-ic-lora"/>
-    <id>d79584f49165e66533b09e0ad5142c1d</id>
-    <published>2026-07-30T00:00:00+00:00</published>
-    <updated>2026-07-30T00:00:00+00:00</updated>
-    <summary type="text">The last five chapters followed a single path end to end: building a standard LoRA, one you invoke with a prompt to bring back a character, a style, or a...</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>Decide What to Train</title>
+    <title>How To Decide What LoRA To Train</title>
     <link href="https://ltx.io/blog/decide-what-to-train-lora"/>
     <id>85611a5d618fda56437539123bfb0410</id>
     <published>2026-07-30T00:00:00+00:00</published>
@@ -45,7 +36,7 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
-    <title>Run and Monitor Training</title>
+    <title>How To Run and Monitor LoRA Training</title>
     <link href="https://ltx.io/blog/run-and-monitor-lora-training"/>
     <id>d401eb0199b263416efd9a62234daca5</id>
     <published>2026-07-30T00:00:00+00:00</published>
@@ -54,7 +45,7 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
-    <title>Set Up the Training Run</title>
+    <title>Setting Up A LoRA Training Run</title>
     <link href="https://ltx.io/blog/set-up-the-training-run-lora"/>
     <id>f101be41fdd0973d89c9fa38083c9246</id>
     <published>2026-07-30T00:00:00+00:00</published>
@@ -63,7 +54,16 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
-    <title>When to Train a LoRA</title>
+    <title>What Are IC-LoRAs &amp; How To Use Them</title>
+    <link href="https://ltx.io/blog/control-loras-ic-lora"/>
+    <id>d79584f49165e66533b09e0ad5142c1d</id>
+    <published>2026-07-30T00:00:00+00:00</published>
+    <updated>2026-07-30T00:00:00+00:00</updated>
+    <summary type="text">The last five chapters followed a single path end to end: building a standard LoRA, one you invoke with a prompt to bring back a character, a style, or a...</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>When Should You Train A LoRA</title>
     <link href="https://ltx.io/blog/when-to-train-a-lora"/>
     <id>753ff9893d1d8122b1dcc0f247689286</id>
     <published>2026-07-30T00:00:00+00:00</published>

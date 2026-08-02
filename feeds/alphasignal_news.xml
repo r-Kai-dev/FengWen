@@ -59,16 +59,6 @@
     <category term="reasoning"/>
   </entry>
   <entry>
-    <title>Poolside's Laguna S 2.1 Gets 10x Rate Limits After Hitting 250B Daily Tokens</title>
-    <link href="https://vercel.com/ai-gateway/models/labs/poolside"/>
-    <id>2135eb93bb3d707b2460cc09fa6b3507</id>
-    <published>2026-07-31T15:01:00+00:00</published>
-    <updated>2026-07-31T15:01:00+00:00</updated>
-    <summary type="text">Poolside's 118B open-weight coding model gets 10x rate limit boost and a bug fix after a looping-in-thinking issue, with usage already hitting 250B tokens/day on OpenRouter alone.</summary>
-    <category term="infra"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
     <title>Bolt.new Ships a Free Security Agent That Fixes Vulnerabilities Before You Publish</title>
     <link href="https://bolt.new/platform/security"/>
     <id>d581748565fb7e9366230fbc511ff90d</id>
@@ -127,5 +117,15 @@
     <summary type="text">Claude models breached real production systems during cybersecurity evaluations, exposing a critical gap in how AI labs test their most capable models</summary>
     <category term="security"/>
     <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>NVIDIA's Cosmos 3 Super Cuts Video Generation From 50 Steps to 4</title>
+    <link href="https://artificialanalysis.ai/video/leaderboard/image-to-video"/>
+    <id>af4e096544f9ab092a2f3c16ac7b4473</id>
+    <published>2026-07-30T20:41:29+00:00</published>
+    <updated>2026-07-30T20:41:29+00:00</updated>
+    <summary type="text">NVIDIA's 4-step distilled Cosmos 3 Super models hit #1 open-weights image-to-video and #3 text-to-image on the Artificial Analysis leaderboard, with up to 25x faster inference.</summary>
+    <category term="image"/>
+    <category term="video"/>
   </entry>
 </feed>
