@@ -4,7 +4,7 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-02T21:10:34.792814+00:00</updated>
+  <updated>2026-08-03T21:30:33.754170+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
@@ -12,8 +12,8 @@
     <title>瓦解诈骗犯罪行动 / Disrupting a Criminal Scam Operation</title>
     <link href="https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"/>
     <id>e19f7372897cd47328b15e5c97a47617</id>
-    <published>2026-08-02T21:10:34.792814+00:00</published>
-    <updated>2026-08-02T21:10:34.792814+00:00</updated>
+    <published>2026-08-03T21:30:33.754170+00:00</published>
+    <updated>2026-08-03T21:30:33.754170+00:00</updated>
     <summary type="text">Score: 0.852\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -22,114 +22,224 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: &quot;Generate an SVG of a frog with a Habsburg jaw.&quot;</title>
-    <link href="https://news.ycombinator.com/item?id=49147622"/>
-    <id>be4e5fc29a8a7cb8c27912069b0507b0</id>
-    <published>2026-08-02T19:42:08+00:00</published>
-    <updated>2026-08-02T19:42:08+00:00</updated>
-    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?</title>
-    <link href="https://news.ycombinator.com/item?id=49147606"/>
-    <id>7a81ef3f1321ebdab850292c6cb7dde6</id>
-    <published>2026-08-02T19:40:19+00:00</published>
-    <updated>2026-08-02T19:40:19+00:00</updated>
-    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理</title>
-    <link href="https://sprocket-demo.spikonado.com"/>
-    <id>2c08aff31810280f6943eb1fba60be78</id>
-    <published>2026-08-02T16:26:19+00:00</published>
-    <updated>2026-08-02T16:26:19+00:00</updated>
-    <summary type="text">Score: 0.540\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Codex 用 Sol 指挥 Luna Max 省额度翻倍产出</title>
-    <link href="https://x.com/AYi_AInotes/status/2083867265179537565"/>
-    <id>147bf4ea58968a455d63f8a16db47ef4</id>
-    <published>2026-08-02T10:47:27+00:00</published>
-    <updated>2026-08-02T10:47:27+00:00</updated>
-    <summary type="text">Score: 0.751\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds</title>
+    <link href="https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026"/>
+    <id>b9b51df418ce36c0735a4411b64af05f</id>
+    <published>2026-08-03T20:12:03.229000+00:00</published>
+    <updated>2026-08-03T20:12:03.229000+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…</title>
+    <link href="https://x.com/MSFTResearch/status/2084364547142418722"/>
+    <id>37245d1e0ffe63f8110d719b0c9aa558</id>
+    <published>2026-08-03T19:43:28+00:00</published>
+    <updated>2026-08-03T19:43:28+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes"/>
+    <id>556445a9f3623654e85a28a57f76df04</id>
+    <published>2026-08-03T17:38:45+00:00</published>
+    <updated>2026-08-03T17:38:45+00:00</updated>
+    <summary type="text">Score: 0.786\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>人工智能：《Ars Notoria》与即时知识的承诺</title>
-    <link href="https://publicdomainreview.org/essay/ars-notoria"/>
-    <id>808c4fa28e16a73d4fffb08ccacba3ea</id>
-    <published>2026-08-02T10:18:24+00:00</published>
-    <updated>2026-08-02T10:18:24+00:00</updated>
-    <summary type="text">Score: 0.566\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions</title>
+    <link href="https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions"/>
+    <id>2a1a8e1569fc58358805ef086cdd74dd</id>
+    <published>2026-08-03T17:04:32+00:00</published>
+    <updated>2026-08-03T17:04:32+00:00</updated>
+    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>Grok 支持分析任意视频 / Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b</title>
-    <link href="https://x.com/elonmusk/status/2083800942927839307"/>
-    <id>7b1ccf48609472d5c0d03b517e60f253</id>
-    <published>2026-08-02T06:23:54+00:00</published>
-    <updated>2026-08-02T06:23:54+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer</title>
+    <link href="https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer"/>
+    <id>7ede974cc5514f45dc7ee698108f77bd</id>
+    <published>2026-08-03T16:33:13+00:00</published>
+    <updated>2026-08-03T16:33:13+00:00</updated>
+    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…</title>
+    <link href="https://x.com/OpenRouter/status/2084301100078027143"/>
+    <id>987b27611f108c0ca879c6a80d4d2f48</id>
+    <published>2026-08-03T15:31:21+00:00</published>
+    <updated>2026-08-03T15:31:21+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>在 MI355X 上运行 Kimi K3，其性价比优于 B300</title>
-    <link href="https://www.wafer.ai/blog/kimi-k3-mi355x"/>
-    <id>237c87cccf0608dc73b7d0f47019d872</id>
-    <published>2026-08-02T04:21:14+00:00</published>
-    <updated>2026-08-02T04:21:14+00:00</updated>
-    <summary type="text">Score: 0.513\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…</title>
+    <link href="https://x.com/SenseTime_AI/status/2084288424236782073"/>
+    <id>6b805dd088c057a23fc3aa42f4c43011</id>
+    <published>2026-08-03T14:40:59+00:00</published>
+    <updated>2026-08-03T14:40:59+00:00</updated>
+    <summary type="text">Score: 0.739\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators</title>
-    <link href="https://news.ycombinator.com/item?id=49140340"/>
-    <id>fdd6097e11e8a346697812b71913ca12</id>
-    <published>2026-08-02T01:56:44+00:00</published>
-    <updated>2026-08-02T01:56:44+00:00</updated>
-    <summary type="text">Score: 0.506\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>Google Agent Skills 幕后：如何构建、测试与规模化 / Behind the scenes： How we build， test， and scale Google Agent Skills</title>
+    <link href="https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5"/>
+    <id>82abeb827f644a8869bb9d381c4d6acf</id>
+    <published>2026-08-03T14:33:20+00:00</published>
+    <updated>2026-08-03T14:33:20+00:00</updated>
+    <summary type="text">Score: 0.723\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>关于人工智能“每个人都被骗了” / &quot;Everyone Has Been Sold a Lie&quot; on AI</title>
-    <link href="https://www.youtube.com/watch?v=pHcZpvIfho0"/>
-    <id>8ab2c4c34901c83506c7bc068a5d2018</id>
-    <published>2026-08-01T22:50:30+00:00</published>
-    <updated>2026-08-01T22:50:30+00:00</updated>
-    <summary type="text">Score: 0.496\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境 / Your agent needs a computer， not a container - introducing @cloudflare/computer</title>
+    <link href="https://blog.cloudflare.com/cloudflare-computer"/>
+    <id>4af9795f35fe85b0a0b021f617046fdb</id>
+    <published>2026-08-03T13:15:24+00:00</published>
+    <updated>2026-08-03T13:15:24+00:00</updated>
+    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions</title>
-    <link href="https://news.ycombinator.com/item?id=49139102"/>
-    <id>4ad93dd49a8e95df724cedd244cac6fb</id>
-    <published>2026-08-01T22:25:12+00:00</published>
-    <updated>2026-08-01T22:25:12+00:00</updated>
-    <summary type="text">Score: 0.581\nSources: 6 (NewsNow)\nImportance: 多源热议</summary>
+    <title>Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / Introducing the Billable Usage API： programmatic cost visibility for Cloudflare</title>
+    <link href="https://blog.cloudflare.com/billable-usage-api"/>
+    <id>adb34b3a25720e037304d9219b72b586</id>
+    <published>2026-08-03T13:00:00+00:00</published>
+    <updated>2026-08-03T13:00:00+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Kimi Work 幻灯片制作教程发布 / Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…</title>
+    <link href="https://x.com/Kimi_Moonshot/status/2084245860339298423"/>
+    <id>c5d3d07af4cc43f82b9e88b8c8d1b10f</id>
+    <published>2026-08-03T11:51:51+00:00</published>
+    <updated>2026-08-03T11:51:51+00:00</updated>
+    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型</title>
+    <link href="https://www.aibase.com/news/30076"/>
+    <id>3f4a439e4cbc3f0f51c5676edb9f567a</id>
+    <published>2026-08-03T11:44:25.200855+00:00</published>
+    <updated>2026-08-03T11:44:25.200855+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了</title>
+    <link href="https://www.aibase.com/news/30078"/>
+    <id>bcb6e5f83911f8f27d54b52911680870</id>
+    <published>2026-08-03T11:44:25.200855+00:00</published>
+    <updated>2026-08-03T11:44:25.200855+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成</title>
+    <link href="https://www.aibase.com/news/30081"/>
+    <id>930682555567942f974852343386b9bd</id>
+    <published>2026-08-03T11:44:25.200855+00:00</published>
+    <updated>2026-08-03T11:44:25.200855+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩</title>
+    <link href="https://www.aibase.com/news/30079"/>
+    <id>9fb9c7030c72dad698c5e8924238eac3</id>
+    <published>2026-08-03T11:44:25.200855+00:00</published>
+    <updated>2026-08-03T11:44:25.200855+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>月之暗面否认“最早于本月内提交香港 IPO 申请”传闻</title>
+    <link href="https://www.aibase.com/news/30083"/>
+    <id>7714c60a6514e62e706429be9cb3411f</id>
+    <published>2026-08-03T11:44:25.200855+00:00</published>
+    <updated>2026-08-03T11:44:25.200855+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>AirLLM 实现单块 4GB GPU 运行 70B 模型推理</title>
+    <link href="https://github.com/lyogavin/airllm"/>
+    <id>862225019e71588edb40d5f577e2db51</id>
+    <published>2026-08-03T11:15:48+00:00</published>
+    <updated>2026-08-03T11:15:48+00:00</updated>
+    <summary type="text">Score: 0.842\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>How we built a realtime system for responsive voice AI in six months</title>
+    <link href="https://openai.com/index/continuous-voice-interaction-with-gpt-live"/>
+    <id>e904a6f7cf59c8b76800be099f72321f</id>
+    <published>2026-08-03T07:00:00+00:00</published>
+    <updated>2026-08-03T07:00:00+00:00</updated>
+    <summary type="text">Score: 0.818\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork</title>
+    <link href="https://qwen.ai/blog?id=qwen3.8"/>
+    <id>b2f2ccc66a82d66eeefd2a4c956e2759</id>
+    <published>2026-08-03T02:00:00+00:00</published>
+    <updated>2026-08-03T02:00:00+00:00</updated>
+    <summary type="text">Score: 0.824\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="multi_source"/>
   </entry>
 </feed>

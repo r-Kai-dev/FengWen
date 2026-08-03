@@ -4,10 +4,19 @@
   <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
   <link href="https://www.figma.com/blog/"/>
   <id>https://www.figma.com/blog/</id>
-  <updated>2026-07-30T19:25:32.996Z</updated>
+  <updated>2026-08-03T12:00:00.000Z</updated>
   <author>
-    <name>Phillip Wang</name>
+    <name>Ethan Adams, Cai Charniga, Sachi Shah</name>
   </author>
+  <entry>
+    <title>Code, craft, and the making of nested folders</title>
+    <link href="https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/"/>
+    <id>5caa7873e9264b4bb9a5fc7342b996b4</id>
+    <published>2026-08-03T12:00:00.000Z</published>
+    <updated>2026-08-03T12:00:00.000Z</updated>
+    <summary type="text">From treating code as a proposal to turning handoffs into conversations, here's how we shaped a new way of working to ship nested folders.</summary>
+    <category term="Inside Figma"/>
+  </entry>
   <entry>
     <title>A properties panel and annotations, now in Figma Make</title>
     <link href="https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/"/>
@@ -25,15 +34,6 @@
     <updated>2026-07-27T16:30:00.000Z</updated>
     <summary type="text">Here’s how Figma’s Brand Studio designed a conference that captured the very human ways we remix and reinvent when working with AI tools.</summary>
     <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>Workflow lab: Deploying designs directly with Figma Make</title>
-    <link href="https://www.figma.com/blog/workflow-lab-deploying-designs-directly-with-figma-make/"/>
-    <id>7515234e44912ffeddb73c7292581b3f</id>
-    <published>2026-07-16T12:00:00.000Z</published>
-    <updated>2026-07-16T12:00:00.000Z</updated>
-    <summary type="text">The handoff from design to code doesn't have to be a one-way street. This workflow shows how a designer can connect a codebase to Figma Make, make the changes directly, and bring the whole team into review—right up to the PR.</summary>
-    <category term="Working Well"/>
   </entry>
   <entry>
     <title>How to keep design teams steady through constant change</title>

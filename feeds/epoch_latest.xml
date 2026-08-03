@@ -4,10 +4,18 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-07-29T00:00:00+00:00</updated>
+  <updated>2026-07-31T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Serious cyber vulnerability disclosures kept climbing in July</title>
+    <link href="https://epoch.ai/data-insights/cve-severity-spike-july-2026"/>
+    <id>e6d8b516a2371c1f927ca28d768082c4</id>
+    <published>2026-07-31T00:00:00+00:00</published>
+    <updated>2026-07-31T00:00:00+00:00</updated>
+    <category term="Data Insight"/>
+  </entry>
   <entry>
     <title>Even after R&amp;D is automated, parallelization constraints could delay a technological singularity</title>
     <link href="https://epoch.ai/publications/parallelization-constraints-could-delay-a-technological-singularity"/>
@@ -84,14 +92,5 @@
     <updated>2026-07-01T00:00:00+00:00</updated>
     <summary type="text">Our latest benchmark suggests AI struggles to learn from experience</summary>
     <category term="Report"/>
-  </entry>
-  <entry>
-    <title>MirrorCode: What's the largest software project AI can complete on its own?</title>
-    <link href="https://epoch.ai/MirrorCode"/>
-    <id>3c542e87dc2fa51155301339509df5e3</id>
-    <published>2026-06-26T00:00:00+00:00</published>
-    <updated>2026-06-26T00:00:00+00:00</updated>
-    <summary type="text">MirrorCode is Epoch AI's benchmark for long-horizon coding: AI can reimplement entire programs end-to-end, with no access to the original source code.</summary>
-    <category term="Paper"/>
   </entry>
 </feed>

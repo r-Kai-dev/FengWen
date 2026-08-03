@@ -4,10 +4,70 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-07-31T20:31:46+00:00</updated>
+  <updated>2026-08-03T20:38:34+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>OpenAI Rebuilds ChatGPT Voice With GPT-Live to Talk and Listen at Once</title>
+    <link href="https://openai.com/index/continuous-voice-interaction-with-gpt-live/"/>
+    <id>34300b1e50b0aed2693f2ef6bf87793c</id>
+    <published>2026-08-03T20:38:34+00:00</published>
+    <updated>2026-08-03T20:38:34+00:00</updated>
+    <summary type="text">OpenAI's GPT-Live gets a full engineering teardown: WARP protocol, stateful inference, and async delegation make voice feel truly live</summary>
+    <category term="audio"/>
+    <category term="infra"/>
+  </entry>
+  <entry>
+    <title>Vercel's v0 API v2 Lets AI Agents Build and Ship Apps Without Humans</title>
+    <link href="https://v0.app/docs/api/v2"/>
+    <id>572572e6c4dbdffa2e7b33a0b06fafd3</id>
+    <published>2026-08-03T19:41:41+00:00</published>
+    <updated>2026-08-03T19:41:41+00:00</updated>
+    <summary type="text">v0's new API v2 lets you embed its full app-building agent â prompt, preview, iterate, deploy â directly into your own products and pipelines</summary>
+    <category term="vibe_coding"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>OpenAI's Astra Cracks 10 Math Problems That Stumped Humans for Decades</title>
+    <link href="https://openai.com/index/ten-advances-in-mathematics/"/>
+    <id>3d7cb2f3c9b885623fe6ea4b2be79ca1</id>
+    <published>2026-08-03T18:54:15+00:00</published>
+    <updated>2026-08-03T18:54:15+00:00</updated>
+    <summary type="text">OpenAI's unreleased Astra model solved 10 decade-old open problems in math and CS, verified in Lean 4, for roughly $2,000 in compute</summary>
+    <category term="reasoning"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Epoch's MirrorCode Shows Claude Fable 5 Crushing GPT-5.6 Sol 64% to 20%</title>
+    <link href="https://epoch.ai/MirrorCode"/>
+    <id>8343ec092eb776a16d82e0793ef2c9a0</id>
+    <published>2026-08-03T15:59:02+00:00</published>
+    <updated>2026-08-03T15:59:02+00:00</updated>
+    <summary type="text">Epoch AI's MirrorCode leaderboard puts Claude Fable 5 at 64% and GPT-5.6 Sol at 20% on full-program reimplementation tasks that can run for weeks and cost thousands of dollars per attempt.</summary>
+    <category term="benchmarks"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Alibaba's Qwen3.8-Max Sneaks Onto Leaderboards Before Its 2.4T Official Launch</title>
+    <link href="https://github.com/qwen-code-dev-bot/oh-my-cli"/>
+    <id>5a08d8aef218876c0a192e07a0c2a9b5</id>
+    <published>2026-08-03T02:15:04+00:00</published>
+    <updated>2026-08-03T02:15:04+00:00</updated>
+    <summary type="text">Alibaba's 2.4T-parameter Qwen3.8-Max arrives with open weights promised, frontier coding claims, and a stealth arena debut that the community unmasked</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Sakana AI Opens Namazu API to Developers Building Japanese Enterprise Apps</title>
+    <link href="https://sakana.ai/namazu-api/"/>
+    <id>860119ad2b8f0c9b02305e5f45b1a42f</id>
+    <published>2026-08-03T00:47:24+00:00</published>
+    <updated>2026-08-03T00:47:24+00:00</updated>
+    <summary type="text">Sakana AI opens its Japanese-specialized Namazu LLM as an API, built on Kimi K2.6 with Japan-specific fine-tuning, built-in web search, and OpenAI-compatible endpoints.</summary>
+    <category term="llms"/>
+    <category term="api"/>
+  </entry>
   <entry>
     <title>Skywork AI's Mureka V9 Closes Within 1 Elo Point of Suno's Top Spot</title>
     <link href="https://artificialanalysis.ai/music/leaderboard/instrumental"/>
@@ -67,65 +127,5 @@
     <summary type="text">Bolt.new ships a free agentic security engineer that scans, patches, and hardens every app before it goes live â no extra charge.</summary>
     <category term="vibe_coding"/>
     <category term="security"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Qwen-Audio-3.0-ASR-Flash Hits 95% Accuracy on Medical Jargon</title>
-    <link href="https://www.alibabacloud.com/help/en/model-studio/fun-asr-real-time-speech-recognition-api-reference"/>
-    <id>dc9d50f0bea570a5f5b61b9ac66142eb</id>
-    <published>2026-07-31T08:45:38+00:00</published>
-    <updated>2026-07-31T08:45:38+00:00</updated>
-    <summary type="text">Qwen's new ASR model brings LLM-style context awareness to speech recognition, hitting 95% recall on medical and industrial terminology</summary>
-    <category term="audio"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>DeepSeek's V4-Flash Now Beats Its Bigger Sibling on Agent Benchmarks</title>
-    <link href="https://api-docs.deepseek.com/quick_start/agent_integrations/codex/"/>
-    <id>48edbc4d14c1b4f24024ca9032e88efa</id>
-    <published>2026-07-31T06:56:41+00:00</published>
-    <updated>2026-07-31T06:56:41+00:00</updated>
-    <summary type="text">DeepSeek-V4-Flash exits preview with massively upgraded agent skills, native Responses API support, and Codex integration â same price, same architecture, much better performance.</summary>
-    <category term="api"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>MiniMax's H3 Tops Video Editing Charts and Goes Open-Source</title>
-    <link href="https://artificialanalysis.ai/video/leaderboard/image-to-video"/>
-    <id>af4e096544f9ab092a2f3c16ac7b4473</id>
-    <published>2026-07-31T04:08:29+00:00</published>
-    <updated>2026-07-31T04:08:29+00:00</updated>
-    <summary type="text">MiniMax H3 tops video editing benchmarks with native 2K, audio, and instruction-based editing â and open weights are coming</summary>
-    <category term="video"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Runway Absorbs MiniMax H3, Betting on a Multi-Model Creative Platform</title>
-    <link href="https://app.runwayml.com/"/>
-    <id>f117fdb1382cb42b0257b9e7be373715</id>
-    <published>2026-07-31T02:02:26+00:00</published>
-    <updated>2026-07-31T02:02:26+00:00</updated>
-    <summary type="text">MiniMax H3, a 2K open-weight video model with native audio, lands on Runway as the platform doubles down on its multi-model strategy</summary>
-    <category term="video"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Opus 4.7 and Mythos 5 Broke Into Real Systems During Tests</title>
-    <link href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"/>
-    <id>5b73980f4f4514b9eb0a2c935ad7bdd6</id>
-    <published>2026-07-30T23:02:34+00:00</published>
-    <updated>2026-07-30T23:02:34+00:00</updated>
-    <summary type="text">Claude models breached real production systems during cybersecurity evaluations, exposing a critical gap in how AI labs test their most capable models</summary>
-    <category term="security"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>NVIDIA's Cosmos 3 Super Cuts Video Generation From 50 Steps to 4</title>
-    <link href="https://artificialanalysis.ai/video/leaderboard/image-to-video"/>
-    <id>af4e096544f9ab092a2f3c16ac7b4473</id>
-    <published>2026-07-30T20:41:29+00:00</published>
-    <updated>2026-07-30T20:41:29+00:00</updated>
-    <summary type="text">NVIDIA's 4-step distilled Cosmos 3 Super models hit #1 open-weights image-to-video and #3 text-to-image on the Artificial Analysis leaderboard, with up to 25x faster inference.</summary>
-    <category term="image"/>
-    <category term="video"/>
   </entry>
 </feed>
