@@ -4,10 +4,110 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-03T20:38:34+00:00</updated>
+  <updated>2026-08-04T18:42:35+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Pika API Club Slashes AI Video Generation Costs by 88% Against Rivals</title>
+    <link href="https://dev.pika.art/?utm_source=x&amp;utm_medium=caption&amp;utm_campaign=launch_30_target-260804&amp;utm_content=pika_labs&amp;utm_term=post&amp;utm_id=006b656d-6409-40eb-b546-23c28ffdaa9e"/>
+    <id>7a1d5d0a489ad88f525db0ed51179626</id>
+    <published>2026-08-04T18:42:35+00:00</published>
+    <updated>2026-08-04T18:42:35+00:00</updated>
+    <summary type="text">Pika launches a $10/month API Club giving builders access to 100+ gen media models at up to 88% off aggregator prices through a single API</summary>
+    <category term="api"/>
+    <category term="video"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis Exposes How API Providers Quietly Degrade Model Accuracy</title>
+    <link href="https://artificialanalysis.ai/methodology/endpoint-accuracy-index"/>
+    <id>568a81c77c86291320b6f42a72a00da2</id>
+    <published>2026-08-04T18:05:08+00:00</published>
+    <updated>2026-08-04T18:05:08+00:00</updated>
+    <summary type="text">Artificial Analysis launches the Endpoint Accuracy Index, revealing how much model intelligence providers silently trade away for speed and cost savings</summary>
+    <category term="benchmarks"/>
+    <category term="infra"/>
+  </entry>
+  <entry>
+    <title>Black Forest Labs' FLUX 3 Generates Video, Audio, and Images From One Model</title>
+    <link href="https://bfl.ai/models/flux-3?utm_source=x&amp;utm_medium=social&amp;utm_campaign=flux3_launch&amp;utm_content=explainer_video"/>
+    <id>581c72cbb038d6e01142ad9516598803</id>
+    <published>2026-08-04T17:29:23+00:00</published>
+    <updated>2026-08-04T17:29:23+00:00</updated>
+    <summary type="text">Black Forest Labs launches FLUX 3 Video with native audio, up to 20-second clips, a draft-then-enhance workflow, and pricing that undercuts most competitors.</summary>
+    <category term="video"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Mistral's Shieldstral Beats a 20B Safety Model at Just 3B Parameters</title>
+    <link href="https://mistral.ai/news/shieldstral/"/>
+    <id>42187a81b20fdea3d87ee8f39fd2c195</id>
+    <published>2026-08-04T16:55:47+00:00</published>
+    <updated>2026-08-04T16:55:47+00:00</updated>
+    <summary type="text">Mistral's 3B open-weights safety classifier beats models 7x its size by turning content moderation into a plain-English yes/no question</summary>
+    <category term="security"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Goodfire's Silico Lets an Agent Crack Open AI Black Boxes Autonomously</title>
+    <link href="https://www.goodfire.com/get-silico"/>
+    <id>5a9bcb9d1a4c375db137966b4638d3ea</id>
+    <published>2026-08-04T16:03:37+00:00</published>
+    <updated>2026-08-04T16:03:37+00:00</updated>
+    <summary type="text">Goodfire's Silico goes public: an AI agent that autonomously runs interpretability experiments at 2.8 trillion parameter scale, for $1,000/month</summary>
+    <category term="training_infra"/>
+    <category term="post_training"/>
+  </entry>
+  <entry>
+    <title>Cursor's Mixture-of-Kittens Open-Source Kernel Trains AI 2.37x Faster</title>
+    <link href="https://cursor.com/blog/mixture-of-kittens"/>
+    <id>ff5f3e1133e6f681adfddf5cd843b8f7</id>
+    <published>2026-08-04T16:00:26+00:00</published>
+    <updated>2026-08-04T16:00:26+00:00</updated>
+    <summary type="text">Cursor open-sources Mixture-of-Kittens, a production MoE megakernel that delivers 2.37x faster throughput and 1.41x end-to-end training speedup over DeepEP on GB300 NVL72s.</summary>
+    <category term="training_infra"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>StackBlitz's Bolt Template Marketplace Kills the Blank Canvas for Solo Builders</title>
+    <link href="https://bolt.new/resources/templates"/>
+    <id>3f857c5c543df1188377b093d6f19294</id>
+    <published>2026-08-04T15:03:48+00:00</published>
+    <updated>2026-08-04T15:03:48+00:00</updated>
+    <summary type="text">Bolt.new launches a free Template Marketplace of designer-built, full-stack apps you can clone and customize with a prompt</summary>
+    <category term="vibe_coding"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Liquid AI's LFM2.5-2.6B Beats 9B Models Running Entirely on Your Phone</title>
+    <link href="https://docs.liquid.ai/lfm/models/complete-library"/>
+    <id>9928efcb98aa94a190cc35cf97cf6589</id>
+    <published>2026-08-04T14:00:48+00:00</published>
+    <updated>2026-08-04T14:00:48+00:00</updated>
+    <summary type="text">Liquid AI's LFM2.5-2.6B runs full agentic workflows on-device, beating models nearly 4x its size on tool use and instruction following benchmarks.</summary>
+    <category term="agents"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Tencent's Hy ASR 3.0 Understands What You Meant, Not Just What You Said</title>
+    <link href="https://x.com/tencenthunyuan/status/2084579829303615497"/>
+    <id>3505b7a43162c124a9f5a4ac13f4659c</id>
+    <published>2026-08-04T09:58:55+00:00</published>
+    <updated>2026-08-04T09:58:55+00:00</updated>
+    <summary type="text">Tencent's new ASR model plugs directly into Hy3's language brain, hitting ~3% WER across Mandarin, English, and Cantonese while understanding context, not just words.</summary>
+    <category term="audio"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Microsoft's SocialRL Trains a 4B Model to Beat GPT-5 at Negotiation</title>
+    <link href="https://www.linkedin.com/pulse/social-reasoning-ai-agents-modeling-cancer-dynamic-system-2ft3e/?trackingId=5ej4Kd0vRMWdFctGGafVWg%3D%3D"/>
+    <id>115980f874526b8dcdbf2a7af15a9ebe</id>
+    <published>2026-08-03T21:35:34+00:00</published>
+    <updated>2026-08-03T21:35:34+00:00</updated>
+    <summary type="text">Microsoft Research drops SocialRL, EvoLib, and PazaBench V2 â five releases that push the frontier of agent negotiation, continual learning, and African speech AI.</summary>
+    <category term="agents"/>
+    <category term="benchmarks"/>
+  </entry>
   <entry>
     <title>OpenAI Rebuilds ChatGPT Voice With GPT-Live to Talk and Listen at Once</title>
     <link href="https://openai.com/index/continuous-voice-interaction-with-gpt-live/"/>
@@ -19,113 +119,13 @@
     <category term="infra"/>
   </entry>
   <entry>
-    <title>Vercel's v0 API v2 Lets AI Agents Build and Ship Apps Without Humans</title>
-    <link href="https://v0.app/docs/api/v2"/>
-    <id>572572e6c4dbdffa2e7b33a0b06fafd3</id>
-    <published>2026-08-03T19:41:41+00:00</published>
-    <updated>2026-08-03T19:41:41+00:00</updated>
-    <summary type="text">v0's new API v2 lets you embed its full app-building agent â prompt, preview, iterate, deploy â directly into your own products and pipelines</summary>
-    <category term="vibe_coding"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>OpenAI's Astra Cracks 10 Math Problems That Stumped Humans for Decades</title>
-    <link href="https://openai.com/index/ten-advances-in-mathematics/"/>
-    <id>3d7cb2f3c9b885623fe6ea4b2be79ca1</id>
-    <published>2026-08-03T18:54:15+00:00</published>
-    <updated>2026-08-03T18:54:15+00:00</updated>
-    <summary type="text">OpenAI's unreleased Astra model solved 10 decade-old open problems in math and CS, verified in Lean 4, for roughly $2,000 in compute</summary>
-    <category term="reasoning"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Epoch's MirrorCode Shows Claude Fable 5 Crushing GPT-5.6 Sol 64% to 20%</title>
-    <link href="https://epoch.ai/MirrorCode"/>
-    <id>8343ec092eb776a16d82e0793ef2c9a0</id>
-    <published>2026-08-03T15:59:02+00:00</published>
-    <updated>2026-08-03T15:59:02+00:00</updated>
-    <summary type="text">Epoch AI's MirrorCode leaderboard puts Claude Fable 5 at 64% and GPT-5.6 Sol at 20% on full-program reimplementation tasks that can run for weeks and cost thousands of dollars per attempt.</summary>
-    <category term="benchmarks"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Qwen3.8-Max Sneaks Onto Leaderboards Before Its 2.4T Official Launch</title>
-    <link href="https://github.com/qwen-code-dev-bot/oh-my-cli"/>
-    <id>5a08d8aef218876c0a192e07a0c2a9b5</id>
-    <published>2026-08-03T02:15:04+00:00</published>
-    <updated>2026-08-03T02:15:04+00:00</updated>
-    <summary type="text">Alibaba's 2.4T-parameter Qwen3.8-Max arrives with open weights promised, frontier coding claims, and a stealth arena debut that the community unmasked</summary>
-    <category term="llms"/>
+    <title>Microsoft's Orchard Beats Proprietary AI Agents at 10x Lower Cost</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/"/>
+    <id>320efcc0ed37ed7acfe66e619f96dc58</id>
+    <published>2026-08-03T19:43:28+00:00</published>
+    <updated>2026-08-03T19:43:28+00:00</updated>
+    <summary type="text">Microsoft Research open-sources Orchard, a Kubernetes-native framework that trains competitive coding, browser, and productivity agents using small models and reusable infrastructure</summary>
+    <category term="agents"/>
     <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Sakana AI Opens Namazu API to Developers Building Japanese Enterprise Apps</title>
-    <link href="https://sakana.ai/namazu-api/"/>
-    <id>860119ad2b8f0c9b02305e5f45b1a42f</id>
-    <published>2026-08-03T00:47:24+00:00</published>
-    <updated>2026-08-03T00:47:24+00:00</updated>
-    <summary type="text">Sakana AI opens its Japanese-specialized Namazu LLM as an API, built on Kimi K2.6 with Japan-specific fine-tuning, built-in web search, and OpenAI-compatible endpoints.</summary>
-    <category term="llms"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Skywork AI's Mureka V9 Closes Within 1 Elo Point of Suno's Top Spot</title>
-    <link href="https://artificialanalysis.ai/music/leaderboard/instrumental"/>
-    <id>095a3f16aa2cdef17a63b6e287d83936</id>
-    <published>2026-07-31T20:31:46+00:00</published>
-    <updated>2026-07-31T20:31:46+00:00</updated>
-    <summary type="text">Mureka V9 debuts at #2 on both Artificial Analysis leaderboards, sitting within 1 Elo point of Suno V5.5 for instrumentals â and its DAW-native workflow sets it apart from every rival.</summary>
-    <category term="audio"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>NVIDIA's Spatial-IQ Exposes Why Top AI Models Score 17.7% Where Humans Hit 82%</title>
-    <link href="https://nvidia.github.io/Spatial-IQ/"/>
-    <id>683bfdc5d688088363be1dd499a6998a</id>
-    <published>2026-07-31T18:27:31+00:00</published>
-    <updated>2026-07-31T18:27:31+00:00</updated>
-    <summary type="text">NVIDIA Research's Spatial-IQ benchmark reveals that top AI models hit 3D object-counting scores through shortcuts, not real spatial reasoning â and shows how to fix it.</summary>
-    <category term="image"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Google's Gemini Enterprise Agent Platform Now Catches Silent AI Failures in Production</title>
-    <link href="https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/"/>
-    <id>fc9727b8a2ae5d93dfa256abc27d6c46</id>
-    <published>2026-07-31T17:15:02+00:00</published>
-    <updated>2026-07-31T17:15:02+00:00</updated>
-    <summary type="text">Google's agent evaluation suite hits GA with 20+ metrics, adaptive rubrics, and live production monitoring -- all on one consistent engine</summary>
-    <category term="agents"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Google's Gemini 3.6 Flash Cuts Output Costs 17% While Beating Coding Benchmarks</title>
-    <link href="https://gemini.google/gemini-drops/?utm_source=x&amp;utm_medium=paid-social&amp;utm_campaign=q4_geminidrops"/>
-    <id>57d3d328090ffbbb3f54281532fff5ac</id>
-    <published>2026-07-31T16:46:59+00:00</published>
-    <updated>2026-07-31T16:46:59+00:00</updated>
-    <summary type="text">Google's July Gemini Drops brings faster Flash models, system-wide macOS voice control, Spark's global rollout, and personalized image generation for all U.S. users.</summary>
-    <category term="llms"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Epoch Expands FrontierMath to 50 Unsolved Problems AI Has Already Cracked Three</title>
-    <link href="https://epoch.ai/frontiermath/open-problems/genus-2-jacobian-torsion"/>
-    <id>2b4137fcbae8fa0ae7f2c5c516f60b06</id>
-    <published>2026-07-31T16:33:25+00:00</published>
-    <updated>2026-07-31T16:33:25+00:00</updated>
-    <summary type="text">Epoch AI expands FrontierMath: Open Problems to 50 genuinely unsolved math problems, with AI already cracking three of them including a superpermutation record set by GPT-5.6</summary>
-    <category term="benchmarks"/>
-    <category term="reasoning"/>
-  </entry>
-  <entry>
-    <title>Bolt.new Ships a Free Security Agent That Fixes Vulnerabilities Before You Publish</title>
-    <link href="https://bolt.new/platform/security"/>
-    <id>d581748565fb7e9366230fbc511ff90d</id>
-    <published>2026-07-31T14:57:42+00:00</published>
-    <updated>2026-07-31T14:57:42+00:00</updated>
-    <summary type="text">Bolt.new ships a free agentic security engineer that scans, patches, and hardens every app before it goes live â no extra charge.</summary>
-    <category term="vibe_coding"/>
-    <category term="security"/>
   </entry>
 </feed>

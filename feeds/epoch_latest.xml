@@ -4,25 +4,35 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-07-31T00:00:00+00:00</updated>
+  <updated>2026-08-04T22:05:58.686861+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
   <entry>
-    <title>Serious cyber vulnerability disclosures kept climbing in July</title>
+    <title>Jul. 14, 2026</title>
+    <link href="https://epoch.ai/publications/chips-topic-overview"/>
+    <id>bdb7b7160e38783eefc8ca833fcef3c8</id>
+    <published>2026-08-04T22:05:58.686861+00:00</published>
+    <updated>2026-08-04T22:05:58.686861+00:00</updated>
+    <summary type="text">A look at the specialized hardware driving modern AI — why chips cost tens of thousands of dollars each, and why demand continues to outstrip supply.</summary>
+    <category term="Topic Overview"/>
+  </entry>
+  <entry>
+    <title>Disclosed CVEs: July Reached 5× the Pre-Mythos Record</title>
     <link href="https://epoch.ai/data-insights/cve-severity-spike-july-2026"/>
     <id>e6d8b516a2371c1f927ca28d768082c4</id>
     <published>2026-07-31T00:00:00+00:00</published>
     <updated>2026-07-31T00:00:00+00:00</updated>
+    <summary type="text">Notable organizations disclosed ~2,500 high- and critical-severity CVEs in July 2026, about 5× the pre-Mythos monthly record. Epoch AI's updated breakdown of vulnerability disclosures following Anthropic's Project Glasswing.</summary>
     <category term="Data Insight"/>
   </entry>
   <entry>
-    <title>Even after R&amp;D is automated, parallelization constraints could delay a technological singularity</title>
+    <title>Will parallelization limits delay an intelligence explosion?</title>
     <link href="https://epoch.ai/publications/parallelization-constraints-could-delay-a-technological-singularity"/>
     <id>1bf4a34ff42e847a8235c930d2787d6e</id>
     <published>2026-07-29T00:00:00+00:00</published>
     <updated>2026-07-29T00:00:00+00:00</updated>
-    <summary type="text">The ability to divide, coordinate, and recombine work has been a missing parameter in models of technological development.</summary>
+    <summary type="text">Even with automated AI R&amp;D producing millions of virtual researchers, progress may be capped by our ability to divide, coordinate, and recombine their work. Epoch AI on why parallelization technology is a missing parameter in intelligence explosion models.</summary>
     <category term="Report"/>
   </entry>
   <entry>
@@ -40,15 +50,16 @@
     <id>2299f3347fb93ef244b2070ee330cd16</id>
     <published>2026-07-15T00:00:00+00:00</published>
     <updated>2026-07-15T00:00:00+00:00</updated>
+    <summary type="text">We tested Pangram, GPTZero, and Originality.ai on human and AI text. All three caught nearly every passage written from a simple prompt, but missed roughly one in five passages imitating a specific author's style.</summary>
     <category term="Data Insight"/>
   </entry>
   <entry>
-    <title>What you need to know about AI energy use</title>
+    <title>AI energy use: its impact on prices, climate, and more</title>
     <link href="https://epoch.ai/publications/ai-energy"/>
     <id>543e0e3f7a29a517e31bc1f1ddbddd0f</id>
     <published>2026-07-14T00:00:00+00:00</published>
     <updated>2026-07-14T00:00:00+00:00</updated>
-    <summary type="text">A guide to AI's growing energy demands — why a single chatbot query uses less energy than many fear, and the reality of AI's impacts on climate and local communities.</summary>
+    <summary type="text">AI compute draws tens of gigawatts globally—comparable to New York state—yet a single chatbot query uses less than a microwave in 10 seconds. Epoch AI's guide to AI energy use, from training to inference to local grid impacts.</summary>
     <category term="Topic Overview"/>
   </entry>
   <entry>
@@ -57,6 +68,7 @@
     <id>ca54e599c6583d78c01dc43a288b9f63</id>
     <published>2026-07-07T00:00:00+00:00</published>
     <updated>2026-07-07T00:00:00+00:00</updated>
+    <summary type="text">The share of working days on which OpenAI's Codex collaborators merged very-high-effort code rose from about 2% in Q2 2025 to about 8% in Q2 2026.</summary>
     <category term="Data Insight"/>
   </entry>
   <entry>
@@ -69,11 +81,12 @@
     <category term="Newsletter"/>
   </entry>
   <entry>
-    <title>Disclosure of serious cyber vulnerabilities spiked around the release of Claude Mythos Preview</title>
+    <title>Disclosed CVEs: 3.5× Spike After Claude Mythos</title>
     <link href="https://epoch.ai/data-insights/cve-severity-spike"/>
     <id>aef50681b836ffec561cbd30a667f4b0</id>
     <published>2026-07-02T00:00:00+00:00</published>
     <updated>2026-07-02T00:00:00+00:00</updated>
+    <summary type="text">Notable organizations disclosed ~1,300 high- and critical-severity CVEs in June 2026, roughly 3.5× the pre-Mythos monthly record. Epoch AI's breakdown of vulnerability disclosures following Anthropic's Project Glasswing.</summary>
     <category term="Data Insight"/>
   </entry>
   <entry>
@@ -82,15 +95,7 @@
     <id>50929694b0255b1fff1e128a3454b688</id>
     <published>2026-07-02T00:00:00+00:00</published>
     <updated>2026-07-02T00:00:00+00:00</updated>
+    <summary type="text">GPT-4 topped Epoch's Capabilities Index (ECI) for roughly a year after its March 2023 release — no model since has led for as long. The second-longest reign, by o1, lasted barely three months.</summary>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>AI doesn't get better at this board game with practice</title>
-    <link href="https://epoch.ai/publications/earthborne-rangers-benchmark"/>
-    <id>0334f0cf1d420d766f91f49ae6c2f8bc</id>
-    <published>2026-07-01T00:00:00+00:00</published>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <summary type="text">Our latest benchmark suggests AI struggles to learn from experience</summary>
-    <category term="Report"/>
   </entry>
 </feed>

@@ -4,10 +4,91 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-07-30T00:00:00+00:00</updated>
+  <updated>2026-08-04T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>AI Crowd Generation: Prompting Techniques for Background Characters &amp; Extras</title>
+    <link href="https://ltx.io/blog/crowd-scene-generation"/>
+    <id>c3ecaac7906ab69bd0a6732ca213dc3d</id>
+    <published>2026-08-04T00:00:00+00:00</published>
+    <updated>2026-08-04T00:00:00+00:00</updated>
+    <summary type="text">Prompt LTX-2.3 for believable crowd shots and extras. Use density modifiers, shot framing, and IC-LoRA controls to avoid duplicate faces.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Directing Dialogue and Acting: How to Prompt for Character Speech, Pauses &amp; Emotional Beats</title>
+    <link href="https://ltx.io/blog/directing-dialogue-and-acting"/>
+    <id>29d8a3a3eb9b5081cb851ed3b7ab3f49</id>
+    <published>2026-08-04T00:00:00+00:00</published>
+    <updated>2026-08-04T00:00:00+00:00</updated>
+    <summary type="text">Learn how LTX-2.3's new gated-attention text connector changes dialogue prompting with the segmentation pattern, acting cues, and worked examples.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Domain-Specific Prompting for LTX-2.3: VFX, Animation &amp; More</title>
+    <link href="https://ltx.io/blog/domain-specific-prompting"/>
+    <id>a482abb482ab368ddd4b9607821f109a</id>
+    <published>2026-08-04T00:00:00+00:00</published>
+    <updated>2026-08-04T00:00:00+00:00</updated>
+    <summary type="text">A prompting guide for LTX-2.3 with domain vocabulary from VFX, animation, and restoration. Templates, before/after examples, common mistakes.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>How To Generate AI Stock Footage (2026 Guide)</title>
+    <link href="https://ltx.io/blog/generating-ai-stock-footage"/>
+    <id>318fc5b66a9bc82ad3f04091f2b6565c</id>
+    <published>2026-08-04T00:00:00+00:00</published>
+    <updated>2026-08-04T00:00:00+00:00</updated>
+    <summary type="text">Generate AI stock footage and b-roll with LTX-2.3. A guide for agencies and producers covering workflow, prompt templates, licensing, and cost at scale.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>When Should You Train A LoRA</title>
+    <link href="https://ltx.io/blog/when-to-train-a-lora"/>
+    <id>753ff9893d1d8122b1dcc0f247689286</id>
+    <published>2026-08-04T00:00:00+00:00</published>
+    <updated>2026-08-04T00:00:00+00:00</updated>
+    <summary type="text">Prompt LTX well and it will give you almost anything you can describe. Feed it a reference frame and it will animate what’s in it. A LoRA is for the case...</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>How To Decide What LoRA To Train</title>
+    <link href="https://ltx.io/blog/decide-what-to-train-lora"/>
+    <id>85611a5d618fda56437539123bfb0410</id>
+    <published>2026-08-03T00:00:00+00:00</published>
+    <updated>2026-08-03T00:00:00+00:00</updated>
+    <summary type="text">Before you collect a single clip, you need to decide exactly what you want the LoRA to do at inference. Every later choice you make flows from this one. The...</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>How To Build A LoRA Dataset</title>
+    <link href="https://ltx.io/blog/build-the-dataset-lora"/>
+    <id>cc2311f1fb6cdd96eb5d72eeec0daf58</id>
+    <published>2026-08-02T00:00:00+00:00</published>
+    <updated>2026-08-02T00:00:00+00:00</updated>
+    <summary type="text">The dataset is the most important part of training, full stop. Investing time to create a solid training dataset will result in a much better outcome. Here’s...</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>Setting Up A LoRA Training Run</title>
+    <link href="https://ltx.io/blog/set-up-the-training-run-lora"/>
+    <id>f101be41fdd0973d89c9fa38083c9246</id>
+    <published>2026-08-01T00:00:00+00:00</published>
+    <updated>2026-08-01T00:00:00+00:00</updated>
+    <summary type="text">You have a dataset, you know what you want the LoRA to learn, and you’ve picked a training mode. The next decision is what resolution and clip length to...</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>How To Run and Monitor LoRA Training</title>
+    <link href="https://ltx.io/blog/run-and-monitor-lora-training"/>
+    <id>d401eb0199b263416efd9a62234daca5</id>
+    <published>2026-07-31T00:00:00+00:00</published>
+    <updated>2026-07-31T00:00:00+00:00</updated>
+    <summary type="text">A training run is where the dataset, captions, and configuration you’ve prepared become an actual LoRA, and it commits real time and GPU compute to get...</summary>
+    <category term="Tutorials"/>
+  </entry>
   <entry>
     <title>Bring Silent Videos to Life: Foley LoRA For LTX-2.3</title>
     <link href="https://ltx.io/blog/bring-silent-videos-to-life-foley-lora"/>
@@ -18,57 +99,12 @@
     <category term="Production"/>
   </entry>
   <entry>
-    <title>How To Build A LoRA Dataset</title>
-    <link href="https://ltx.io/blog/build-the-dataset-lora"/>
-    <id>cc2311f1fb6cdd96eb5d72eeec0daf58</id>
-    <published>2026-07-30T00:00:00+00:00</published>
-    <updated>2026-07-30T00:00:00+00:00</updated>
-    <summary type="text">The dataset is the most important part of training, full stop. Investing time to create a solid training dataset will result in a much better outcome. Here’s...</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How To Decide What LoRA To Train</title>
-    <link href="https://ltx.io/blog/decide-what-to-train-lora"/>
-    <id>85611a5d618fda56437539123bfb0410</id>
-    <published>2026-07-30T00:00:00+00:00</published>
-    <updated>2026-07-30T00:00:00+00:00</updated>
-    <summary type="text">Before you collect a single clip, you need to decide exactly what you want the LoRA to do at inference. Every later choice you make flows from this one. The...</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How To Run and Monitor LoRA Training</title>
-    <link href="https://ltx.io/blog/run-and-monitor-lora-training"/>
-    <id>d401eb0199b263416efd9a62234daca5</id>
-    <published>2026-07-30T00:00:00+00:00</published>
-    <updated>2026-07-30T00:00:00+00:00</updated>
-    <summary type="text">A training run is where the dataset, captions, and configuration you’ve prepared become an actual LoRA, and it commits real time and GPU compute to get...</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>Setting Up A LoRA Training Run</title>
-    <link href="https://ltx.io/blog/set-up-the-training-run-lora"/>
-    <id>f101be41fdd0973d89c9fa38083c9246</id>
-    <published>2026-07-30T00:00:00+00:00</published>
-    <updated>2026-07-30T00:00:00+00:00</updated>
-    <summary type="text">You have a dataset, you know what you want the LoRA to learn, and you’ve picked a training mode. The next decision is what resolution and clip length to...</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
     <title>What Are IC-LoRAs &amp; How To Use Them</title>
     <link href="https://ltx.io/blog/control-loras-ic-lora"/>
     <id>d79584f49165e66533b09e0ad5142c1d</id>
     <published>2026-07-30T00:00:00+00:00</published>
     <updated>2026-07-30T00:00:00+00:00</updated>
     <summary type="text">The last five chapters followed a single path end to end: building a standard LoRA, one you invoke with a prompt to bring back a character, a style, or a...</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>When Should You Train A LoRA</title>
-    <link href="https://ltx.io/blog/when-to-train-a-lora"/>
-    <id>753ff9893d1d8122b1dcc0f247689286</id>
-    <published>2026-07-30T00:00:00+00:00</published>
-    <updated>2026-07-30T00:00:00+00:00</updated>
-    <summary type="text">Prompt LTX well and it will give you almost anything you can describe. Feed it a reference frame and it will animate what’s in it. A LoRA is for the case...</summary>
     <category term="Tutorials"/>
   </entry>
   <entry>
@@ -96,6 +132,15 @@
     <published>2026-07-29T00:00:00+00:00</published>
     <updated>2026-07-29T00:00:00+00:00</updated>
     <summary type="text">Cinemagraph LoRA for LTX-2.3: animate a single element while everything else stays perfectly frozen. Generate seamless loops from one image and prompt.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>What Is Conditioning in Generative AI (2026 Guide)?</title>
+    <link href="https://ltx.io/blog/conditioning-in-generative-ai"/>
+    <id>498e65565c6517bbcfc1a695d2ff8e10</id>
+    <published>2026-07-29T00:00:00+00:00</published>
+    <updated>2026-07-29T00:00:00+00:00</updated>
+    <summary type="text">Conditioning provides the control signals that guide an AI video model toward a desired result. Learn how it works in LTX.</summary>
     <category term="Production"/>
   </entry>
   <entry>
@@ -342,15 +387,6 @@
     <category term="Production"/>
   </entry>
   <entry>
-    <title>Film &amp; Cinematic Editing Techniques</title>
-    <link href="https://ltx.io/blog/film-editing-techniques"/>
-    <id>ae7d67edbb8be9952b472ccbc1fea682</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">Understand film editing techniques from jump cuts to montage. Learn how editing shapes storytelling and test narrative flow with LTX Studio's tools.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
     <title>How To Add Music &amp; Sound To AI-Generated Video</title>
     <link href="https://ltx.io/blog/how-to-add-sound-to-video"/>
     <id>89ba82af4b0d0fca3afdbba3eb11d177</id>
@@ -378,30 +414,12 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
-    <title>How To Plan A Film Shoot: Film Planning &amp; Filmmaking Pre-Production Workflow</title>
-    <link href="https://ltx.io/blog/essential-steps-for-film-planning"/>
-    <id>76f34604cf3332714b98b43e33a7619c</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">Master film pre-production planning. Learn essential steps for budgeting, scheduling, and storyboarding. Streamline your workflow with LTX Studio tools.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
     <title>How To Prompt Locations, Lighting &amp; Weather In AI Videos</title>
     <link href="https://ltx.io/blog/setting-location-lighting-and-weather"/>
     <id>5b2a177b947019bf867e8d133a303f7f</id>
     <published>2026-06-21T00:00:00+00:00</published>
     <updated>2026-06-21T00:00:00+00:00</updated>
     <summary type="text">Discover how to master virtual production with LTX Studio's intuitive prompts. Learn essential tips for controlling lighting, weather, and scene settings to create stunning visual content.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How To Turn A Photo Into A Video</title>
-    <link href="https://ltx.io/blog/how-to-turn-photos-into-videos"/>
-    <id>e312235412288874d7b0e716c746d624</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">Learn how to turn photos into videos with LTX Studio. Add professional motion, camera movements, and cinematic effects to static images in minutes.</summary>
     <category term="Tutorials"/>
   </entry>
   <entry>
@@ -414,15 +432,6 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
-    <title>How To Visualize Ideas With AI Image Generation In LTX Studio</title>
-    <link href="https://ltx.io/blog/visualize-your-ideas-with-the-new-ai-image-generator"/>
-    <id>c3ad1178162b99846640306dfcb8a123</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">Transform your creative concepts into stunning visuals with LTX Studio's new AI Image Generator. Discover how this powerful tool can bring your ideas to life instantly, no design skills required.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
     <title>How To Write A Movie Synopsis (With Examples)</title>
     <link href="https://ltx.io/blog/how-to-write-a-movie-synopsis"/>
     <id>75a38906b651c20e9c900ec4cf5eaaf4</id>
@@ -430,14 +439,5 @@
     <updated>2026-06-21T00:00:00+00:00</updated>
     <summary type="text">Learn how to write a compelling movie synopsis that captures attention. Master the format, structure, and techniques that get your film script noticed.</summary>
     <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How To Write An AI Prompt For Video &amp; Image Generation</title>
-    <link href="https://ltx.io/blog/how-to-write-a-prompt"/>
-    <id>3c211ba3fd6daf23da1e648f715e5747</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">Discover how to write AI prompts that generate professional video and images. Step-by-step guide with examples for LTX Studio text-to-video creation.</summary>
-    <category term="Prompting Guides"/>
   </entry>
 </feed>

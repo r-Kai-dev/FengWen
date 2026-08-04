@@ -4,17 +4,17 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-03T21:30:33.754170+00:00</updated>
+  <updated>2026-08-04T19:15:23+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>瓦解诈骗犯罪行动 / Disrupting a Criminal Scam Operation</title>
-    <link href="https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"/>
-    <id>e19f7372897cd47328b15e5c97a47617</id>
-    <published>2026-08-03T21:30:33.754170+00:00</published>
-    <updated>2026-08-03T21:30:33.754170+00:00</updated>
-    <summary type="text">Score: 0.852\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale</title>
+    <link href="https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale"/>
+    <id>c2f9f782baf8cc8cb396ca1305b88bdd</id>
+    <published>2026-08-04T19:15:23+00:00</published>
+    <updated>2026-08-04T19:15:23+00:00</updated>
+    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -22,34 +22,63 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds</title>
-    <link href="https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026"/>
-    <id>b9b51df418ce36c0735a4411b64af05f</id>
-    <published>2026-08-03T20:12:03.229000+00:00</published>
-    <updated>2026-08-03T20:12:03.229000+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx</title>
+    <link href="https://simonwillison.net/2026/Aug/4/minimax-h3-mlx"/>
+    <id>2f08f0bcb11ded2223fdda170555c92c</id>
+    <published>2026-08-04T19:10:09+00:00</published>
+    <updated>2026-08-04T19:10:09+00:00</updated>
+    <summary type="text">Score: 0.767\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…</title>
-    <link href="https://x.com/MSFTResearch/status/2084364547142418722"/>
-    <id>37245d1e0ffe63f8110d719b0c9aa558</id>
-    <published>2026-08-03T19:43:28+00:00</published>
-    <updated>2026-08-03T19:43:28+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>停用 Copilot 计费预览应用 / Retiring the Copilot Billing Preview app</title>
+    <link href="https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app"/>
+    <id>4576e831aee594c0e0af0368dae00610</id>
+    <published>2026-08-04T19:09:32+00:00</published>
+    <updated>2026-08-04T19:09:32+00:00</updated>
+    <summary type="text">Score: 0.846\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
-    <category term="industry"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes"/>
-    <id>556445a9f3623654e85a28a57f76df04</id>
-    <published>2026-08-03T17:38:45+00:00</published>
-    <updated>2026-08-03T17:38:45+00:00</updated>
-    <summary type="text">Score: 0.786\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>GitHub 法务团队如何用 Copilot CLI 简化工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows"/>
+    <id>75d17b634afd114d24fccd9f25a6148d</id>
+    <published>2026-08-04T19:02:34+00:00</published>
+    <updated>2026-08-04T19:02:34+00:00</updated>
+    <summary type="text">Score: 0.846\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 模型的第三方网络安全评估 / Third-party cyber evaluations involving OpenAI models</title>
+    <link href="https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"/>
+    <id>67fdde8c4a41f224fccd7955fea5fd70</id>
+    <published>2026-08-04T19:00:00+00:00</published>
+    <updated>2026-08-04T19:00:00+00:00</updated>
+    <summary type="text">Score: 0.857\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型</title>
+    <link href="https://github.com/MakazhanAlpamys/Soup"/>
+    <id>10ae42be91b0cba6127fa6e7d6932318</id>
+    <published>2026-08-04T18:17:29.648000+00:00</published>
+    <updated>2026-08-04T18:17:29.648000+00:00</updated>
+    <summary type="text">Score: 0.787\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -57,12 +86,58 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions</title>
-    <link href="https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions"/>
-    <id>2a1a8e1569fc58358805ef086cdd74dd</id>
-    <published>2026-08-03T17:04:32+00:00</published>
-    <updated>2026-08-03T17:04:32+00:00</updated>
-    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…</title>
+    <link href="https://x.com/OpenRouter/status/2084699413898027064"/>
+    <id>4a0c21b8715b246ba18bf8f95f3a8916</id>
+    <published>2026-08-04T17:54:06+00:00</published>
+    <updated>2026-08-04T17:54:06+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team</title>
+    <link href="https://www.lmsys.org/blog/2026-08-04-specforge-v0-3"/>
+    <id>6bba26ad0efb648e13c9bae46362afb4</id>
+    <published>2026-08-04T17:51:09.590000+00:00</published>
+    <updated>2026-08-04T17:51:09.590000+00:00</updated>
+    <summary type="text">Score: 0.758\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack</title>
+    <link href="https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack"/>
+    <id>179d32c92adcf22f1659a4fe1f5a9b87</id>
+    <published>2026-08-04T16:47:18+00:00</published>
+    <updated>2026-08-04T16:47:18+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing</title>
+    <link href="https://developers.googleblog.com/a-unified-api-for-ai-model-routing"/>
+    <id>077d2e93cd37614ce34994b452462c4a</id>
+    <published>2026-08-04T16:45:02.138000+00:00</published>
+    <updated>2026-08-04T16:45:02.138000+00:00</updated>
+    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GitHub Spark 在 github.com 上即将弃用 / Upcoming deprecation of GitHub Spark on github.com</title>
+    <link href="https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com"/>
+    <id>6fa66ac30047672f1f442f5bceae705c</id>
+    <published>2026-08-04T15:54:47+00:00</published>
+    <updated>2026-08-04T15:54:47+00:00</updated>
+    <summary type="text">Score: 0.830\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -70,12 +145,24 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer</title>
-    <link href="https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer"/>
-    <id>7ede974cc5514f45dc7ee698108f77bd</id>
-    <published>2026-08-03T16:33:13+00:00</published>
-    <updated>2026-08-03T16:33:13+00:00</updated>
-    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …</title>
+    <link href="https://x.com/rohanpaul_ai/status/2084655258102546579"/>
+    <id>ba7ab37948c454d8fd01c86668a22705</id>
+    <published>2026-08-04T14:58:39+00:00</published>
+    <updated>2026-08-04T14:58:39+00:00</updated>
+    <summary type="text">Score: 0.769\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>用 LFM2.5-2.6B 随处部署本地 Agent / Deploy local agents everywhere with LFM2.5-2.6B</title>
+    <link href="https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"/>
+    <id>4514bea09f91410f0283403a50725e55</id>
+    <published>2026-08-04T13:58:29+00:00</published>
+    <updated>2026-08-04T13:58:29+00:00</updated>
+    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -83,133 +170,25 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…</title>
-    <link href="https://x.com/OpenRouter/status/2084301100078027143"/>
-    <id>987b27611f108c0ca879c6a80d4d2f48</id>
-    <published>2026-08-03T15:31:21+00:00</published>
-    <updated>2026-08-03T15:31:21+00:00</updated>
-    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>我们于2026年7月发布的最新AI新闻 / The latest AI news we announced in July 2026</title>
+    <link href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026"/>
+    <id>9659cbd144dec0ac934c07b15e9193e8</id>
+    <published>2026-08-04T13:00:00+00:00</published>
+    <updated>2026-08-04T13:00:00+00:00</updated>
+    <summary type="text">Score: 0.823\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
-    <category term="industry"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…</title>
-    <link href="https://x.com/SenseTime_AI/status/2084288424236782073"/>
-    <id>6b805dd088c057a23fc3aa42f4c43011</id>
-    <published>2026-08-03T14:40:59+00:00</published>
-    <updated>2026-08-03T14:40:59+00:00</updated>
-    <summary type="text">Score: 0.739\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google Agent Skills 幕后：如何构建、测试与规模化 / Behind the scenes： How we build， test， and scale Google Agent Skills</title>
-    <link href="https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5"/>
-    <id>82abeb827f644a8869bb9d381c4d6acf</id>
-    <published>2026-08-03T14:33:20+00:00</published>
-    <updated>2026-08-03T14:33:20+00:00</updated>
-    <summary type="text">Score: 0.723\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境 / Your agent needs a computer， not a container - introducing @cloudflare/computer</title>
-    <link href="https://blog.cloudflare.com/cloudflare-computer"/>
-    <id>4af9795f35fe85b0a0b021f617046fdb</id>
-    <published>2026-08-03T13:15:24+00:00</published>
-    <updated>2026-08-03T13:15:24+00:00</updated>
-    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / Introducing the Billable Usage API： programmatic cost visibility for Cloudflare</title>
-    <link href="https://blog.cloudflare.com/billable-usage-api"/>
-    <id>adb34b3a25720e037304d9219b72b586</id>
-    <published>2026-08-03T13:00:00+00:00</published>
-    <updated>2026-08-03T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Kimi Work 幻灯片制作教程发布 / Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…</title>
-    <link href="https://x.com/Kimi_Moonshot/status/2084245860339298423"/>
-    <id>c5d3d07af4cc43f82b9e88b8c8d1b10f</id>
-    <published>2026-08-03T11:51:51+00:00</published>
-    <updated>2026-08-03T11:51:51+00:00</updated>
-    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型</title>
-    <link href="https://www.aibase.com/news/30076"/>
-    <id>3f4a439e4cbc3f0f51c5676edb9f567a</id>
-    <published>2026-08-03T11:44:25.200855+00:00</published>
-    <updated>2026-08-03T11:44:25.200855+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了</title>
-    <link href="https://www.aibase.com/news/30078"/>
-    <id>bcb6e5f83911f8f27d54b52911680870</id>
-    <published>2026-08-03T11:44:25.200855+00:00</published>
-    <updated>2026-08-03T11:44:25.200855+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成</title>
-    <link href="https://www.aibase.com/news/30081"/>
-    <id>930682555567942f974852343386b9bd</id>
-    <published>2026-08-03T11:44:25.200855+00:00</published>
-    <updated>2026-08-03T11:44:25.200855+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩</title>
-    <link href="https://www.aibase.com/news/30079"/>
-    <id>9fb9c7030c72dad698c5e8924238eac3</id>
-    <published>2026-08-03T11:44:25.200855+00:00</published>
-    <updated>2026-08-03T11:44:25.200855+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>月之暗面否认“最早于本月内提交香港 IPO 申请”传闻</title>
-    <link href="https://www.aibase.com/news/30083"/>
-    <id>7714c60a6514e62e706429be9cb3411f</id>
-    <published>2026-08-03T11:44:25.200855+00:00</published>
-    <updated>2026-08-03T11:44:25.200855+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AirLLM 实现单块 4GB GPU 运行 70B 模型推理</title>
-    <link href="https://github.com/lyogavin/airllm"/>
-    <id>862225019e71588edb40d5f577e2db51</id>
-    <published>2026-08-03T11:15:48+00:00</published>
-    <updated>2026-08-03T11:15:48+00:00</updated>
-    <summary type="text">Score: 0.842\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
+    <title>在单颗 AMD MI300X 上运行 DeepSeek V4 Flash</title>
+    <link href="https://github.com/ryanzhou/deepseek-v4-flash-mi300x"/>
+    <id>3c520f9d2b42cec3f9d8aaf90c33d3fb</id>
+    <published>2026-08-04T10:00:55+00:00</published>
+    <updated>2026-08-04T10:00:55+00:00</updated>
+    <summary type="text">Score: 0.808\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -217,12 +196,48 @@
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>How we built a realtime system for responsive voice AI in six months</title>
-    <link href="https://openai.com/index/continuous-voice-interaction-with-gpt-live"/>
-    <id>e904a6f7cf59c8b76800be099f72321f</id>
-    <published>2026-08-03T07:00:00+00:00</published>
-    <updated>2026-08-03T07:00:00+00:00</updated>
-    <summary type="text">Score: 0.818\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版</title>
+    <link href="https://www.aibase.com/news/30107"/>
+    <id>9cda679798a06c31290ba5d8e7421489</id>
+    <published>2026-08-04T09:58:12.952473+00:00</published>
+    <updated>2026-08-04T09:58:12.952473+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅 / Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive</title>
+    <link href="https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive"/>
+    <id>111c0be78f7b4c79dbd4487ae80c7b83</id>
+    <published>2026-08-04T08:57:47+00:00</published>
+    <updated>2026-08-04T08:57:47+00:00</updated>
+    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247498861&amp;idx=1&amp;sn=d2d16692dd7eb27f9d466803f25c2b78"/>
+    <id>19a1c36f2b0024e38f5101f46876fafc</id>
+    <published>2026-08-04T04:20:28+00:00</published>
+    <updated>2026-08-04T04:20:28+00:00</updated>
+    <summary type="text">Score: 0.771\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>使用 ChatGPT Work 和 Codex 学习与教学的新方式 / New ways to learn and teach with ChatGPT Work and Codex</title>
+    <link href="https://openai.com/index/learn-teach-chatgpt-work-codex"/>
+    <id>2693188640214edba9f01e7ee679bbd8</id>
+    <published>2026-08-04T00:00:00+00:00</published>
+    <updated>2026-08-04T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -230,16 +245,17 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork</title>
-    <link href="https://qwen.ai/blog?id=qwen3.8"/>
-    <id>b2f2ccc66a82d66eeefd2a4c956e2759</id>
-    <published>2026-08-03T02:00:00+00:00</published>
-    <updated>2026-08-03T02:00:00+00:00</updated>
-    <summary type="text">Score: 0.824\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
+    <title>苹果在这件事上搞错了 / Apple is getting this wrong</title>
+    <link href="https://openai.com/index/apple-is-getting-this-wrong"/>
+    <id>71a81b4cfe25a6c73c1986cc3c9df8f5</id>
+    <published>2026-08-03T22:00:00+00:00</published>
+    <updated>2026-08-03T22:00:00+00:00</updated>
+    <summary type="text">Score: 0.825\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="multi_source"/>
+    <category term="official"/>
   </entry>
 </feed>

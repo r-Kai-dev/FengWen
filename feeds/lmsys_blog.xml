@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-07-30T00:00:00+00:00</updated>
+  <updated>2026-08-04T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>SpecForge v0.3.0: a Unified Disaggregated and Colocated Speculative Decoding Stack, and New Open SpecBundle Draft Models</title>
+    <link href="https://lmsys.org/blog/2026-08-04-specforge-v0-3"/>
+    <id>4222f348cb1ad542a681458fda9ab9ca</id>
+    <published>2026-08-04T00:00:00+00:00</published>
+    <updated>2026-08-04T00:00:00+00:00</updated>
+    <summary type="text">When we first released SpecForge, a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG...</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs</title>
     <link href="https://lmsys.org/blog/2026-07-30-sglang-google-tpu"/>
