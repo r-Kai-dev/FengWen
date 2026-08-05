@@ -6,8 +6,24 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-07-30T00:00:00.000Z</updated>
+  <updated>2026-08-05T15:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>Train in cluster, infer anywhere</title>
+    <link href="https://www.krea.ai/blog/train-in-cluster-infer-anywhere"/>
+    <id>https://www.krea.ai/blog/train-in-cluster-infer-anywhere</id>
+    <updated>2026-08-05T15:00:00.000Z</updated>
+    <published>2026-08-05T15:00:00.000Z</published>
+    <author><name>Gabriel Menezes</name></author>
+    <category term="engineering"/>
+    <category term="kubernetes"/>
+    <category term="virtual kubelet"/>
+    <category term="gpu scheduling"/>
+    <category term="infrastructure"/>
+    <category term="inference"/>
+    <summary>How Krea shares GPUs between research and production with a custom solution that lets inference scale anywhere when training claims every GPU.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/train-in-cluster-infer-anywhere/hero.webp" type="image/webp"/>
+  </entry>
   <entry>
     <title>From almost to Doodles</title>
     <link href="https://www.krea.ai/blog/from-almost-to-doodles"/>
@@ -30,6 +46,28 @@
     <category term="seedance-2-5"/>
     <summary>Discover the 10 best Seedance 2.5 prompts for cinematic AI videos in 2026, with copy-ready direction for 30-second native clips.</summary>
     <link rel="enclosure" href="https://s.krea.ai/10-best-seedance-2-5-prompts-for-cinematic-ai-videos-2026" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>17 Interior Design Styles You Need to Know in 2026</title>
+    <link href="https://www.krea.ai/blog/17-interior-design-styles-you-need-to-know-in-2026"/>
+    <id>https://www.krea.ai/blog/17-interior-design-styles-you-need-to-know-in-2026</id>
+    <updated>2026-07-28T00:00:00.000Z</updated>
+    <published>2026-07-28T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Discover 17 interior design styles you need to know in 2026, from Japandi to period looks, to plan smarter décor decisions fast.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/17-interior-design-styles-you-need-to-know-in-2026/thumbnail.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>6 Ways to Use AI for Interior Design in 2026</title>
+    <link href="https://www.krea.ai/blog/6-ways-to-use-ai-for-interior-design-in-2026"/>
+    <id>https://www.krea.ai/blog/6-ways-to-use-ai-for-interior-design-in-2026</id>
+    <updated>2026-07-28T00:00:00.000Z</updated>
+    <published>2026-07-28T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="use-cases"/>
+    <summary>Six practical ways to use AI for interior design in 2026: photo-based room restyles, material studies, variations, buildability checks, and client presentations.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/6-ways-to-use-ai-for-interior-design-in-2026/thumbnail.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>8 Popular Interior Decoration Styles in 2026: Prompts to Preview Your Room</title>
@@ -64,6 +102,18 @@
     <category term="flux-kontext"/>
     <summary>Seedream 4.0 vs Flux in 2026: choose Seedream for text-heavy, brand-consistent marketing at scale, Flux for realistic hero imagery.</summary>
     <link rel="enclosure" href="https://s.krea.ai/seedream-4-0-vs-flux-which-image-generator-is-better-in-2026/thumbnail.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedream 5.0 Pro vs Seedream 4.0: Which Image Generator Should You Use?</title>
+    <link href="https://www.krea.ai/blog/seedream-5-0-pro-vs-seedream-4-0-which-image-generator-should-you-use"/>
+    <id>https://www.krea.ai/blog/seedream-5-0-pro-vs-seedream-4-0-which-image-generator-should-you-use</id>
+    <updated>2026-07-28T00:00:00.000Z</updated>
+    <published>2026-07-28T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="seedream-5-pro"/>
+    <summary>Seedream 5.0 Pro vs Seedream 4.0: choose the right image generator for spatial edits, dense layouts, or fast native 4K output.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedream-5-0-pro-vs-seedream-4-0-which-image-generator-should-you-use/thumbnail.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>The 5 Best Midjourney Alternatives in 2026 (3 of Them Free)</title>
@@ -536,49 +586,5 @@
     <category term="use-cases"/>
     <summary>Character design is the foundation of every anime project. Krea 2 is built for this kind of pipeline work.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/character-design-with-krea-2/1779149286567-0-8384eed6-59c0-47ea-86a6-563fb4951304.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Interior design with Krea 2</title>
-    <link href="https://www.krea.ai/blog/interior-design-with-krea-2"/>
-    <id>https://www.krea.ai/blog/interior-design-with-krea-2</id>
-    <updated>2026-05-23T00:00:00.000Z</updated>
-    <published>2026-05-23T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="use-cases"/>
-    <summary>Krea 2 renders interiors with material accuracy that holds up to design-publication scrutiny.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/interior-design-with-krea-2/1779150037166-0-a3876a06-2404-434d-bb82-9114d0f089c4.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Krea 2 vs NijiJourney for anime</title>
-    <link href="https://www.krea.ai/blog/krea-2-vs-nijijourney"/>
-    <id>https://www.krea.ai/blog/krea-2-vs-nijijourney</id>
-    <updated>2026-05-23T00:00:00.000Z</updated>
-    <published>2026-05-23T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="use-cases"/>
-    <summary>If you make anime art with AI, you are choosing between a handful of models. NijiJourney is the established name. Krea 2 is the new one. This article is an hone</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-vs-nijijourney/1779149293372-0-8209a4d2-20d0-46b7-aeab-a9e06420ceb5.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Krea 2 and Nano Banana 2, side by side</title>
-    <link href="https://www.krea.ai/blog/krea-2-and-nano-banana-2-side-by-side"/>
-    <id>https://www.krea.ai/blog/krea-2-and-nano-banana-2-side-by-side</id>
-    <updated>2026-05-22T00:00:00.000Z</updated>
-    <published>2026-05-22T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="product"/>
-    <summary>In 2026, you can finally stop asking which image model is the best one . The interesting question is which two you should keep open at the same time. Inside Kre</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-and-nano-banana-2-side-by-side/agent/1779757477498-8fcdecdf-4ba5-4e99-b36c-6e07ff62baed.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Made with Krea 2 moodboards</title>
-    <link href="https://www.krea.ai/blog/made-with-krea-2-moodboards"/>
-    <id>https://www.krea.ai/blog/made-with-krea-2-moodboards</id>
-    <updated>2026-05-22T00:00:00.000Z</updated>
-    <published>2026-05-22T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="product"/>
-    <summary>A moodboard, in Krea 2, is a way to encode taste into the model. You drop in a curated set of and the system reads the whole set as a single creative direction.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/made-with-krea-2-moodboards/agent/1779484661235-03-horned-girl-lamb-a.png" type="image/webp"/>
   </entry>
 </feed>

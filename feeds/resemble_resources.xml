@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-08-04T00:00:00+00:00</updated>
+  <updated>2026-08-05T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Vendor Impersonation Fraud Prevention Checklist for Finance and Security Teams</title>
+    <link href="https://www.resemble.ai/resources/vendor-impersonation-fraud-prevention-checklist"/>
+    <id>cac439cf8438e28f0d44b2d3cda917d9</id>
+    <published>2026-08-05T00:00:00+00:00</published>
+    <updated>2026-08-05T00:00:00+00:00</updated>
+    <summary type="text">Vendor impersonation scams are getting harder to spot. This vendor impersonation fraud checklist helps finance teams verify requests before a payment moves.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>AI Watermarking in 2026: Rules, Provenance, and Deepfake Risk</title>
     <link href="https://www.resemble.ai/resources/generative-ai-watermarking-opportunities-challenges"/>
@@ -106,15 +115,6 @@
     <updated>2026-07-17T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>The Watermark Can't Be Optional Anymore. So We Made It the Default</title>
-    <link href="https://www.resemble.ai/resources/the-watermark-cant-be-optional-anymore-so-we-made-it-the-default"/>
-    <id>623ad39ea9981c58704ddaf6429a55f6</id>
-    <published>2026-07-15T00:00:00+00:00</published>
-    <updated>2026-07-15T00:00:00+00:00</updated>
-    <summary type="text">Resemble AI's Q2 in review: PerTh Multimodal extends watermarking to video, image and text for the EU AI Act, plus first-place audio deepfake detection.</summary>
-    <category term="Blog"/>
   </entry>
   <entry>
     <title>The Deepfake Detection Guide (Deepfake 101): Threat Vectors and Four Defense Layers</title>

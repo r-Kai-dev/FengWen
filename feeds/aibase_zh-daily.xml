@@ -4,16 +4,26 @@
   <icon>https://news.aibase.com/favicon.ico</icon>
   <link href="https://news.aibase.com/zh/daily"/>
   <id>https://news.aibase.com/zh/daily</id>
-  <updated>2026-08-04T17:05:31.323065+00:00</updated>
+  <updated>2026-08-05T17:07:01.078493+00:00</updated>
   <author>
     <name>AIBase</name>
   </author>
   <entry>
+    <title>AI日报：京东开源视频实时编辑模型；Qwen-Image-3.0上线；腾讯混元发布Hy ASR 3.0 preview</title>
+    <link href="https://news.aibase.com/zh/daily/30136"/>
+    <id>f0d1ae4776e1914b455f2d361c5dfa8f</id>
+    <published>2026-08-05T17:07:01.078493+00:00</published>
+    <updated>2026-08-05T17:07:01.078493+00:00</updated>
+    <summary type="text">1、京东开源视频实时编辑模型：30帧秒级推理，边看边改重新定义视频创作京东开源了自研的实时流式视频编辑模型JoyAI-Video-Edit，该模型在处理速度和视频长度方面均取得突破，能够实现边观看边修改视频的效果。8、一签约5.2万元!机器人独角兽宇树科技冲击科创板，发行价预估超百元宇树科技作为国内人形机器人领军企业，正式开启科创板IPO，预计募资超40亿元，发行价或达104元/股，标志着具身智能与机器人产业链资本化进程全面提速。</summary>
+    <category term="AI Daily"/>
+    <category term="人工智能"/>
+  </entry>
+  <entry>
     <title>AI日报：商汤甩出8B小钢炮 U1.5-Lite-Preview；MiniMax H3开源排除美国；微软自研全双工AI语音模型曝光</title>
     <link href="https://news.aibase.com/zh/daily/30106"/>
     <id>f8a3d0ce66be59545f45a3c9240497b8</id>
-    <published>2026-08-04T17:05:31.323065+00:00</published>
-    <updated>2026-08-04T17:05:31.323065+00:00</updated>
+    <published>2026-08-04T22:07:01.078770+00:00</published>
+    <updated>2026-08-04T22:07:01.078770+00:00</updated>
     <summary type="text">1、微软首款自研全双工AI语音模型曝光：听说并行，16种语言自由切换微软正在测试其首款原生实时语音模型MAIRealtime，该模型支持16种语言和两种语音风格，实现了听说并行的全双工交互，打破了传统语音助手的轮次交替模式。8、高德升级世界模型ABot-World-0:实现全球首个24小时连续稳定推理高德升级世界模型ABot-World-0，实现全球首个24小时连续稳定推理，突破行业难题，为交互式世界模型迈向长期自主运行提供新路径。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -22,8 +32,8 @@
     <title>AI日报：Qwen3.8-Max上线；DeepSeek V4-Flash API开启公测；京东外卖发布AI智能头盔</title>
     <link href="https://news.aibase.com/zh/daily/30080"/>
     <id>0a9149ea27d6d4655cdd2180a06c8919</id>
-    <published>2026-08-03T22:05:31.323571+00:00</published>
-    <updated>2026-08-03T22:05:31.323571+00:00</updated>
+    <published>2026-08-03T22:07:01.078957+00:00</published>
+    <updated>2026-08-03T22:07:01.078957+00:00</updated>
     <summary type="text">1、Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重Qwen3.8-Max的发布标志着大模型向高自主性、端到端交付和真实业务场景落地的发展趋势，提升了复杂任务的执行效率和智能化水平。Suno通过技术手段获取训练数据，引发了法律争议。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -32,8 +42,8 @@
     <title>AI日报：MiniMax发布全模态模型H3；Seedance 2.5发布，30秒一镜到底；DeepSeek-V4-Flash正式版上线</title>
     <link href="https://news.aibase.com/zh/daily/30046"/>
     <id>e0ad07070725548b4ab9ddf87ebe1db0</id>
-    <published>2026-07-31T22:05:31.323905+00:00</published>
-    <updated>2026-07-31T22:05:31.323905+00:00</updated>
+    <published>2026-07-31T22:07:01.079164+00:00</published>
+    <updated>2026-07-31T22:07:01.079164+00:00</updated>
     <summary type="text">1、MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一MiniMax发布通用全模态模型H3，实现了文本、图像、视频、音频的统一理解与生成，标志着多模态生成模型从专用专家向通用助手迈出关键一步。该功能需要用户开通高级车载娱乐服务才能使用。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -42,8 +52,8 @@
     <title>AI日报：火山引擎上线豆包搜索开放服务；WorkBuddy上线人机双写；OpenAI 推出GPT-5.6模型家族</title>
     <link href="https://news.aibase.com/zh/daily/30012"/>
     <id>8d7395669b455623deb332c636184a53</id>
-    <published>2026-07-30T22:05:31.324226+00:00</published>
-    <updated>2026-07-30T22:05:31.324226+00:00</updated>
+    <published>2026-07-30T22:07:01.079345+00:00</published>
+    <updated>2026-07-30T22:07:01.079345+00:00</updated>
     <summary type="text">1、火山引擎正式上线豆包搜索开放服务赋能智能体长程任务火山引擎正式上线豆包搜索服务，为企业和开发者提供智能体长程任务所需的深度信息支撑，同时确保信息的真实性和可靠性。8、字节跳动整合豆包、飞书、火山引擎，加速AI企业服务布局字节跳动启动面向AI业务的新一轮组织调整，强化豆包、飞书和火山引擎在企业生产力场景中的协同能力，加速推进AIToB战略布局。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -52,8 +62,8 @@
     <title>AI日报：Fish Audio发布S2.1Pro实时对话语音模型；Grok4.6定档8月7日；360发布企业智能体平台“纳米Work”</title>
     <link href="https://news.aibase.com/zh/daily/29982"/>
     <id>b2b9a81a18938788c29a0766ca6fce25</id>
-    <published>2026-07-29T22:05:31.324583+00:00</published>
-    <updated>2026-07-29T22:05:31.324583+00:00</updated>
+    <published>2026-07-29T00:00:00+00:00</published>
+    <updated>2026-07-29T00:00:00+00:00</updated>
     <summary type="text">1、支持耳语与情绪控制!FishAudio周年重磅发布S2.1Pro实时对话语音模型FishAudio在成立周年之际推出了其最新的生产级语音大模型S2.1Pro，该模型专为实时对话语音场景打造，具有极低的延迟和高拟真度交互能力，同时支持多说话人对话生成和高质量语音克隆。该工具具有低门槛的使用方式，支持多种认证方式，并提供TypeScriptSDK接口。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -195,16 +205,6 @@
     <published>2026-07-08T00:00:00+00:00</published>
     <updated>2026-07-08T00:00:00+00:00</updated>
     <summary type="text">1、Meta超级智能实验室首发图像生成模型：MuseImage免费登陆Instagram和WhatsAppMeta超级智能实验室推出了首个图像生成模型MuseImage，该模型已通过MetaAI应用免费提供，并同步登陆Instagram和WhatsApp。近九成玩家会在购买前查看AI相关披露信息，但多数人并不将其作为购买决策的关键因素。</summary>
-    <category term="AI Daily"/>
-    <category term="人工智能"/>
-  </entry>
-  <entry>
-    <title>AI日报：Claude Code更新v2.1.202版本；支付宝AI开放平台开启邀测；xAI全面升级Grok Voice</title>
-    <link href="https://news.aibase.com/zh/daily/29442"/>
-    <id>4017aa0bf3111b8ecfcccb59cd2eef7e</id>
-    <published>2026-07-07T00:00:00+00:00</published>
-    <updated>2026-07-07T00:00:00+00:00</updated>
-    <summary type="text">1、ClaudeCode迎来v2.1.202更新：远程控制与工作流稳定性大幅提升ClaudeCodev2.1.202版本在工作流控制、远程协作和稳定性方面进行了深度优化，提升了开发者的使用体验和可靠性。7、AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档OfficeCLI作为一款开源工具，为AI提供了强大的办公文档处理能力，其核心亮点在于高保真HTML渲染引擎和轻量化的运行方式，显著提升了AI在办公场景中的效率与准确性。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
   </entry>

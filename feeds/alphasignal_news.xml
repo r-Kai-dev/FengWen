@@ -4,10 +4,80 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-04T18:42:35+00:00</updated>
+  <updated>2026-08-05T19:34:14+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Prime Intellect's Prime Agent Beats Human Experts on ARC-AGI-3 by Rewriting Itself</title>
+    <link href="https://github.com/PrimeIntellect-ai/prime-agent"/>
+    <id>f50d67ba727175528f681f87523a5139</id>
+    <published>2026-08-05T19:34:14+00:00</published>
+    <updated>2026-08-05T19:34:14+00:00</updated>
+    <summary type="text">Prime Intellect's open-source Prime Agent hits 95.5% on ARC-AGI-3 by letting models rewrite their own scaffolding at runtime</summary>
+    <category term="agents"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>Meta's Muse Code Tackles 24-Hour Coding Jobs Where Other AI Agents Quit</title>
+    <link href="https://auth.meta.com/?waterfall_id=1332eb2b-0307-4bde-905f-e37c816541b5&amp;redirect_uri=https%3A%2F%2Fauth.meta.com%2Foidc%2F%3Fapp_id%3D2403310080153219%26nonce%3DAdSFWr_TcFmGsx2_E6N4tDdW3OQ%26redirect_uri%3Dhttps%253A%252F%252Fdev.meta.ai%252Foidc%252Fcallback%252F%26response_type%3Dcode%26scope%3Dopenid%26state%3DATq0MRcRCmOgFHvf0IzwCyE1m29AGLVAODGJKGn3gLuVNrU3jW2s-qmckyfg6Ttwm-Q6w2OS_HuIjpWYPh5QRFaLA8VgzbGWrtA3BMxYhrPfVVSJX2ibShjSQpvwWfTH3ChhJKfVSA1urQd6yFVmQhzoFIpkgOHhq32IEU77Hzo%26waterfall_id%3D1332eb2b-0307-4bde-905f-e37c816541b5&amp;source_app_id=2403310080153219&amp;force_reauth=0&amp;rcs=ATpRDzunSk0hRtS6ij95i4CxwAb8LOtUR_W8iT6_z8KRwHhTob4ybKCGfNOqiwcNrpc_bMT3O1shioRZuH8WouknjZ2YXCvmxn9YIImYTujsEDyf7gIGjS5a-2Ml8-a-a1alQ98bB5Nv3TjoIUFJTrqKx59VP-8m8-s3IkC3ZzmKfeD9G0Us-5Ld5KQ"/>
+    <id>d6d28a731ba97270aa9aed95c949c5b1</id>
+    <published>2026-08-05T19:25:08+00:00</published>
+    <updated>2026-08-05T19:25:08+00:00</updated>
+    <summary type="text">Meta launches Muse Code, a terminal coding agent with persistent sub-agents and a co-trained model that can grind GPU kernels for 24 hours straight</summary>
+    <category term="development"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Zed v1.14 Locks Down AI Agents With OS-Enforced Sandboxing by Default</title>
+    <link href="https://zed.dev/blog/sandboxing"/>
+    <id>b8c25f862e1d23169bf078ab7f49f232</id>
+    <published>2026-08-05T17:26:06+00:00</published>
+    <updated>2026-08-05T17:26:06+00:00</updated>
+    <summary type="text">Zed v1.14 ships OS-enforced sandboxing for its AI agent's terminal and fetch tools, blocking rogue writes and network calls by default</summary>
+    <category term="development"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>Hark's Handoff Beats GPT-5 on Live Web Tasks at 10x Lower Cost</title>
+    <link href="https://hark.com/articles/introducing-hark-handoff"/>
+    <id>39b77928d44c8548943f8649e07dda88</id>
+    <published>2026-08-05T15:02:41+00:00</published>
+    <updated>2026-08-05T15:02:41+00:00</updated>
+    <summary type="text">Hark's Handoff claims the #1 spot on Online-Mind2Web, beating GPT-5 and Claude Opus at a fraction of the token cost</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>MacPaw and Liquid AI Build a Private On-Device AI Stack Challenging Apple Intelligence</title>
+    <link href="https://www.liquid.ai/blog/macpaw-partners-liquid-ai-on-device-ai-mac-users"/>
+    <id>cbe250104636c38126c05ed314caf1a1</id>
+    <published>2026-08-05T12:00:40+00:00</published>
+    <updated>2026-08-05T12:00:40+00:00</updated>
+    <summary type="text">Liquid AI and MacPaw are co-building a full on-device AI stack for Mac, with LFMs, local inference, and persistent memory â opening up to thousands of Setapp developers</summary>
+    <category term="gpus"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Sarvam AI Launches Sarvam Circle to Deploy India's Sovereign AI at Scale</title>
+    <link href="https://www.sarvam.ai/blogs/introducing-sarvam-circle"/>
+    <id>892fbdfff950f35605b62255451b036e</id>
+    <published>2026-08-05T06:30:40+00:00</published>
+    <updated>2026-08-05T06:30:40+00:00</updated>
+    <summary type="text">Sarvam AI launches a formal partner network with AWS, HCLTech, IBM, HP, BCG, and others to scale India's sovereign AI stack into every enterprise</summary>
+    <category term="business"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Databricks' Unity AI Gateway Now Governs Every Agent Touching Your Data</title>
+    <link href="https://www.databricks.com/blog/unity-ai-gateway-generally-available"/>
+    <id>509958c49b2d1dc01528d0dadc22105e</id>
+    <published>2026-08-04T22:26:33+00:00</published>
+    <updated>2026-08-04T22:26:33+00:00</updated>
+    <summary type="text">Databricks' Unity AI Gateway hits GA with hard spend caps, smart routing, and unified governance across agents, MCPs, and coding tools â over a quadrillion tokens already processed.</summary>
+    <category term="infra"/>
+    <category term="agents"/>
+  </entry>
   <entry>
     <title>Pika API Club Slashes AI Video Generation Costs by 88% Against Rivals</title>
     <link href="https://dev.pika.art/?utm_source=x&amp;utm_medium=caption&amp;utm_campaign=launch_30_target-260804&amp;utm_content=pika_labs&amp;utm_term=post&amp;utm_id=006b656d-6409-40eb-b546-23c28ffdaa9e"/>
@@ -49,83 +119,13 @@
     <category term="open_source"/>
   </entry>
   <entry>
-    <title>Goodfire's Silico Lets an Agent Crack Open AI Black Boxes Autonomously</title>
-    <link href="https://www.goodfire.com/get-silico"/>
-    <id>5a9bcb9d1a4c375db137966b4638d3ea</id>
-    <published>2026-08-04T16:03:37+00:00</published>
-    <updated>2026-08-04T16:03:37+00:00</updated>
-    <summary type="text">Goodfire's Silico goes public: an AI agent that autonomously runs interpretability experiments at 2.8 trillion parameter scale, for $1,000/month</summary>
-    <category term="training_infra"/>
-    <category term="post_training"/>
-  </entry>
-  <entry>
-    <title>Cursor's Mixture-of-Kittens Open-Source Kernel Trains AI 2.37x Faster</title>
-    <link href="https://cursor.com/blog/mixture-of-kittens"/>
-    <id>ff5f3e1133e6f681adfddf5cd843b8f7</id>
-    <published>2026-08-04T16:00:26+00:00</published>
-    <updated>2026-08-04T16:00:26+00:00</updated>
-    <summary type="text">Cursor open-sources Mixture-of-Kittens, a production MoE megakernel that delivers 2.37x faster throughput and 1.41x end-to-end training speedup over DeepEP on GB300 NVL72s.</summary>
-    <category term="training_infra"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>StackBlitz's Bolt Template Marketplace Kills the Blank Canvas for Solo Builders</title>
-    <link href="https://bolt.new/resources/templates"/>
-    <id>3f857c5c543df1188377b093d6f19294</id>
-    <published>2026-08-04T15:03:48+00:00</published>
-    <updated>2026-08-04T15:03:48+00:00</updated>
-    <summary type="text">Bolt.new launches a free Template Marketplace of designer-built, full-stack apps you can clone and customize with a prompt</summary>
-    <category term="vibe_coding"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Liquid AI's LFM2.5-2.6B Beats 9B Models Running Entirely on Your Phone</title>
-    <link href="https://docs.liquid.ai/lfm/models/complete-library"/>
-    <id>9928efcb98aa94a190cc35cf97cf6589</id>
-    <published>2026-08-04T14:00:48+00:00</published>
-    <updated>2026-08-04T14:00:48+00:00</updated>
-    <summary type="text">Liquid AI's LFM2.5-2.6B runs full agentic workflows on-device, beating models nearly 4x its size on tool use and instruction following benchmarks.</summary>
-    <category term="agents"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Tencent's Hy ASR 3.0 Understands What You Meant, Not Just What You Said</title>
-    <link href="https://x.com/tencenthunyuan/status/2084579829303615497"/>
-    <id>3505b7a43162c124a9f5a4ac13f4659c</id>
-    <published>2026-08-04T09:58:55+00:00</published>
-    <updated>2026-08-04T09:58:55+00:00</updated>
-    <summary type="text">Tencent's new ASR model plugs directly into Hy3's language brain, hitting ~3% WER across Mandarin, English, and Cantonese while understanding context, not just words.</summary>
-    <category term="audio"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Microsoft's SocialRL Trains a 4B Model to Beat GPT-5 at Negotiation</title>
-    <link href="https://www.linkedin.com/pulse/social-reasoning-ai-agents-modeling-cancer-dynamic-system-2ft3e/?trackingId=5ej4Kd0vRMWdFctGGafVWg%3D%3D"/>
-    <id>115980f874526b8dcdbf2a7af15a9ebe</id>
-    <published>2026-08-03T21:35:34+00:00</published>
-    <updated>2026-08-03T21:35:34+00:00</updated>
-    <summary type="text">Microsoft Research drops SocialRL, EvoLib, and PazaBench V2 â five releases that push the frontier of agent negotiation, continual learning, and African speech AI.</summary>
-    <category term="agents"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>OpenAI Rebuilds ChatGPT Voice With GPT-Live to Talk and Listen at Once</title>
-    <link href="https://openai.com/index/continuous-voice-interaction-with-gpt-live/"/>
-    <id>34300b1e50b0aed2693f2ef6bf87793c</id>
-    <published>2026-08-03T20:38:34+00:00</published>
-    <updated>2026-08-03T20:38:34+00:00</updated>
-    <summary type="text">OpenAI's GPT-Live gets a full engineering teardown: WARP protocol, stateful inference, and async delegation make voice feel truly live</summary>
-    <category term="audio"/>
+    <title>Google Cloud API Gateway Ships Serverless Multi-Model Routing for Gemini and Claude</title>
+    <link href="https://developers.googleblog.com/a-unified-api-for-ai-model-routing/"/>
+    <id>76cecff2bfc5eac4c5ccb3a5f486983d</id>
+    <published>2026-08-04T16:19:46+00:00</published>
+    <updated>2026-08-04T16:19:46+00:00</updated>
+    <summary type="text">Google Cloud API Gateway now routes traffic across Gemini, Claude, and OSS models from a single OpenAI-compatible endpoint, no proxy servers required.</summary>
+    <category term="api"/>
     <category term="infra"/>
-  </entry>
-  <entry>
-    <title>Microsoft's Orchard Beats Proprietary AI Agents at 10x Lower Cost</title>
-    <link href="https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/"/>
-    <id>320efcc0ed37ed7acfe66e619f96dc58</id>
-    <published>2026-08-03T19:43:28+00:00</published>
-    <updated>2026-08-03T19:43:28+00:00</updated>
-    <summary type="text">Microsoft Research open-sources Orchard, a Kubernetes-native framework that trains competitive coding, browser, and productivity agents using small models and reusable infrastructure</summary>
-    <category term="agents"/>
-    <category term="open_source"/>
   </entry>
 </feed>
