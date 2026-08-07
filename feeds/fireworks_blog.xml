@@ -4,7 +4,17 @@
   <icon>https://fireworks.ai/favicon.ico</icon>
   <link href="https://fireworks.ai/blog"/>
   <id>https://fireworks.ai/blog</id>
-  <updated>2026-07-30T00:00:00+00:00</updated>
+  <updated>2026-08-05T00:00:00+00:00</updated>
+  <entry>
+    <title>Your AI performance stack is Fireworks + Voyage AI</title>
+    <link href="https://fireworks.ai/blog/voyage-ai-models-now-on-fireworks"/>
+    <id>394a9303a778ab28e1c72815e5a55722</id>
+    <published>2026-08-05T00:00:00+00:00</published>
+    <updated>2026-08-05T00:00:00+00:00</updated>
+    <summary type="text">Fireworks is the first and only dedicated inference platform Voyage AI by MongoDB has partnered with. The full Voyage lineup now runs natively on Fireworks: the Voyage 4 family, voyage-multimodal-3.5, and rerank-2.5. </summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/dc75af34ca05ad26381f8ea2bd014dbcb76365df-1600x900.png&quot; alt=&quot;Your AI performance stack is Fireworks + Voyage AI&quot; /&gt;
+&lt;p&gt;Fireworks is the first and only dedicated inference platform Voyage AI by MongoDB has partnered with. The full Voyage lineup now runs natively on Fireworks: the Voyage 4 family, voyage-multimodal-3.5, and rerank-2.5. &lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Three Tests to Run Before You Switch from LoRA to FullFT</title>
     <link href="https://fireworks.ai/blog/three-tests-to-run-before-you-switch-from-LoRa-to-FullFT"/>
@@ -470,14 +480,5 @@
     <summary type="text">Eval Protocol is a unified eval interface that powers both prompt optimization and RL on the same evaluation function. Author your evaluator once, and instantly unlock huge gains on open-source models.</summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/e937a13e40b0b4dcbca881d8d1d7502e2418928a-4800x2700.png&quot; alt=&quot;Self-Improving Agents, Powered by Your Evals&quot; /&gt;
 &lt;p&gt;Eval Protocol is a unified eval interface that powers both prompt optimization and RL on the same evaluation function. Author your evaluator once, and instantly unlock huge gains on open-source models.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>NVIDIA Nemotron 3 Nano on Fireworks: The Engine for Next-Generation AI Agents</title>
-    <link href="https://fireworks.ai/blog/nvidia-nemotron3-nano"/>
-    <id>34ebdc1d6d54b62928e23bc3386e64fb</id>
-    <published>2025-12-15T00:00:00+00:00</published>
-    <updated>2025-12-15T00:00:00+00:00</updated>
-    <summary type="text">NVIDIA Nemotron 3 Nano on Fireworks: The Engine for Next-Generation AI Agents</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/45f773372d92201f77a15b500d6228ce8b9ee828-4800x2700.png&quot; alt=&quot;NVIDIA Nemotron 3 Nano on Fireworks: The Engine for Next-Generation AI Agents&quot; /&gt;</content>
   </entry>
 </feed>

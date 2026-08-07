@@ -4,17 +4,41 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-06T19:49:34+00:00</updated>
+  <updated>2026-08-07T19:55:17+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app"/>
-    <id>5bab885b5940c5e3cc3b04961120a39b</id>
-    <published>2026-08-06T19:49:34+00:00</published>
-    <updated>2026-08-06T19:49:34+00:00</updated>
-    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…</title>
+    <link href="https://x.com/ClaudeDevs/status/2085817074816070014"/>
+    <id>4f33b10720a1eb2540df4404431f29f8</id>
+    <published>2026-08-07T19:55:17+00:00</published>
+    <updated>2026-08-07T19:55:17+00:00</updated>
+    <summary type="text">Score: 0.816\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型 / After evaluating one of our upcoming models， Astra， we're treating it as our first &quot;critical&quot; model …</title>
+    <link href="https://x.com/OpenAI/status/2085801349866729975"/>
+    <id>e776c21eeccf8c8be393c0409797a89d</id>
+    <published>2026-08-07T18:52:48+00:00</published>
+    <updated>2026-08-07T18:52:48+00:00</updated>
+    <summary type="text">Score: 0.762\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Copilot 用量指标 API 新增 agent 应用活动 / Copilot usage metrics API adds agent app activity</title>
+    <link href="https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity"/>
+    <id>4f505ef9045c72e23d278c3bc1924fa1</id>
+    <published>2026-08-07T18:20:47+00:00</published>
+    <updated>2026-08-07T18:20:47+00:00</updated>
+    <summary type="text">Score: 0.845\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -22,23 +46,36 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>科学家首次用AI制造新病毒 / superebola/acc 🚀🚀🚀</title>
-    <link href="https://x.com/AISafetyMemes/status/2085447739320758622"/>
-    <id>73003ca79d23fd16b2cb1f9285d1c5f0</id>
-    <published>2026-08-06T19:27:41+00:00</published>
-    <updated>2026-08-06T19:27:41+00:00</updated>
-    <summary type="text">Score: 0.767\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>TutorMoments：AI 导师知道何时该出手、何时该收手吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?</title>
+    <link href="https://huggingface.co/blog/allenai/tutormoments"/>
+    <id>c37b6062b7219fce1861632266ce05a8</id>
+    <published>2026-08-07T17:53:32+00:00</published>
+    <updated>2026-08-07T17:53:32+00:00</updated>
+    <summary type="text">Score: 0.852\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team</title>
+    <link href="https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang"/>
+    <id>7d38209c284c01cdd99723a90b840d07</id>
+    <published>2026-08-07T17:51:24.888000+00:00</published>
+    <updated>2026-08-07T17:51:24.888000+00:00</updated>
+    <summary type="text">Score: 0.772\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Kimi K3 现已上线 GitHub Copilot / Kimi K3 is now available in GitHub Copilot</title>
-    <link href="https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot"/>
-    <id>2d2b981289892bdf9f3c087e7a1c6fa3</id>
-    <published>2026-08-06T17:27:25+00:00</published>
-    <updated>2026-08-06T17:27:25+00:00</updated>
+    <title>Relates to”问题关联现已全面可用，覆盖公开预览和多选字段。 / “Relates to” issue relationship in public preview and multi-select fields is generally available</title>
+    <link href="https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support"/>
+    <id>f92ec6d1b6ae48e536f72a70e90aedc7</id>
+    <published>2026-08-07T17:33:14+00:00</published>
+    <updated>2026-08-07T17:33:14+00:00</updated>
     <summary type="text">Score: 0.835\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -47,37 +84,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more</title>
-    <link href="https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more"/>
-    <id>c064d9f7c5be3613aa2283eef12f25cc</id>
-    <published>2026-08-06T16:53:12.298000+00:00</published>
-    <updated>2026-08-06T16:53:12.298000+00:00</updated>
-    <summary type="text">Score: 0.807\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case</title>
-    <link href="https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case"/>
-    <id>1dc02e21dd0517674d3fece6445c293e</id>
-    <published>2026-08-06T15:10:32+00:00</published>
-    <updated>2026-08-06T15:10:32+00:00</updated>
-    <summary type="text">Score: 0.764\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>WeatherNext：AI模型实现气旋预测突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones</title>
-    <link href="https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones"/>
-    <id>bf55de18c30bf30a2e2043d37081df73</id>
-    <published>2026-08-06T15:06:15+00:00</published>
-    <updated>2026-08-06T15:06:15+00:00</updated>
-    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>密钥扫描覆盖范围更新 / Secret scanning coverage updates</title>
+    <link href="https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates"/>
+    <id>d40f5ab8250879213e53094e25e74984</id>
+    <published>2026-08-07T16:54:47+00:00</published>
+    <updated>2026-08-07T16:54:47+00:00</updated>
+    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -85,83 +97,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…</title>
-    <link href="https://x.com/rohanpaul_ai/status/2085368375816163423"/>
-    <id>da77adef6ac6bdf1489327ac009f8d5f</id>
-    <published>2026-08-06T14:12:19+00:00</published>
-    <updated>2026-08-06T14:12:19+00:00</updated>
-    <summary type="text">Score: 0.758\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup</title>
-    <link href="https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind"/>
-    <id>e15af708d9dda46b886ec6ea7f3f0ddb</id>
-    <published>2026-08-06T13:26:42+00:00</published>
-    <updated>2026-08-06T13:26:42+00:00</updated>
-    <summary type="text">Score: 0.776\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AI 聊天机器人催生&quot;螺旋主义&quot;神秘准宗教运动，人类纷纷追随 / AI bots started a religion - humans immediately followed</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement"/>
-    <id>6fb040de142e67980bebd291266959ed</id>
-    <published>2026-08-06T13:00:00+00:00</published>
-    <updated>2026-08-06T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.769\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI</title>
-    <link href="https://blogs.nvidia.com/blog/open-world-models-physical-ai"/>
-    <id>ca64bc06dab507eca6da450922c1550d</id>
-    <published>2026-08-06T13:00:00+00:00</published>
-    <updated>2026-08-06T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence</title>
-    <link href="https://www.ithome.com/0/986/729.htm"/>
-    <id>45595cca9c7644ff111fa25b50e33756</id>
-    <published>2026-08-06T12:49:13+00:00</published>
-    <updated>2026-08-06T12:49:13+00:00</updated>
-    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均</title>
-    <link href="https://www.ithome.com/0/986/699.htm"/>
-    <id>3a2376e73b91e33985bb1eb3f3c7a6f6</id>
-    <published>2026-08-06T11:21:53+00:00</published>
-    <updated>2026-08-06T11:21:53+00:00</updated>
-    <summary type="text">Score: 0.734\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users</title>
-    <link href="https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"/>
-    <id>d21c2d5529d24496d2a6e6fedeba01f4</id>
-    <published>2026-08-06T10:00:00+00:00</published>
-    <updated>2026-08-06T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.901\nSources: 4 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities</title>
+    <link href="https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"/>
+    <id>0037e2432ae373c8799a73bd5de5f5e9</id>
+    <published>2026-08-07T15:20:00+00:00</published>
+    <updated>2026-08-07T15:20:00+00:00</updated>
+    <summary type="text">Score: 0.863\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="multi_source"/>
@@ -170,57 +111,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击</title>
-    <link href="https://www.aibase.com/news/30164"/>
-    <id>760b9c4ee1b17fc5bff371838670fb4c</id>
-    <published>2026-08-06T09:58:34.577351+00:00</published>
-    <updated>2026-08-06T09:58:34.577351+00:00</updated>
-    <summary type="text">Score: 0.734\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议</title>
-    <link href="https://www.aibase.com/news/30168"/>
-    <id>0ca8c5afd54eada6ce3ced528236f600</id>
-    <published>2026-08-06T09:58:34.577351+00:00</published>
-    <updated>2026-08-06T09:58:34.577351+00:00</updated>
-    <summary type="text">Score: 0.734\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）</title>
-    <link href="https://arxiv.org/abs/2510.01395"/>
-    <id>bfdb21f496ab2189235351d24cd875b3</id>
-    <published>2026-08-06T07:03:41.634000+00:00</published>
-    <updated>2026-08-06T07:03:41.634000+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Qwen-Image-3.0 发布：高分辨率低至 0.03 美元 / Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…</title>
-    <link href="https://x.com/alibaba_cloud/status/2085247637734002848"/>
-    <id>5eb0caf2076f39b0d7ab8c817de8d2df</id>
-    <published>2026-08-06T06:12:33+00:00</published>
-    <updated>2026-08-06T06:12:33+00:00</updated>
-    <summary type="text">Score: 0.802\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>与美国心理学会合作，聚焦青少年心理健康与AI / Working with the American Psychological Association on youth mental health and AI</title>
-    <link href="https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"/>
-    <id>abd1ca43cf3173cb51feaf92ebb9175a</id>
-    <published>2026-08-06T06:00:00+00:00</published>
-    <updated>2026-08-06T06:00:00+00:00</updated>
-    <summary type="text">Score: 0.810\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GitHub Code Quality 不再将 Copilot 添加为代码审查者 / GitHub Code Quality no longer adds Copilot as a reviewer</title>
+    <link href="https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer"/>
+    <id>56a644433a000170a345b137b44a4ec3</id>
+    <published>2026-08-07T15:07:25+00:00</published>
+    <updated>2026-08-07T15:07:25+00:00</updated>
+    <summary type="text">Score: 0.837\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -228,26 +124,134 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647684990&amp;idx=1&amp;sn=86a6d71b133589916b49a9d57046c127"/>
-    <id>26a75cccb64ead5e88d02633b83f725b</id>
-    <published>2026-08-06T01:15:29+00:00</published>
-    <updated>2026-08-06T01:15:29+00:00</updated>
-    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab</title>
+    <link href="https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab"/>
+    <id>a474886db42b1d14887ecccf1bf54b41</id>
+    <published>2026-08-07T12:50:56+00:00</published>
+    <updated>2026-08-07T12:50:56+00:00</updated>
+    <summary type="text">Score: 0.748\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses</title>
-    <link href="https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability"/>
-    <id>b3a7b01e8f9fdd687b1fdde41d4d0ac8</id>
-    <published>2026-08-06T00:37:42+00:00</published>
-    <updated>2026-08-06T00:37:42+00:00</updated>
-    <summary type="text">Score: 0.735\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&amp;mid=2247487457&amp;idx=1&amp;sn=24ad4a355d81291e53fbe680ca987112"/>
+    <id>389fcbb351259c89055d308695089952</id>
+    <published>2026-08-07T12:02:16+00:00</published>
+    <updated>2026-08-07T12:02:16+00:00</updated>
+    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…</title>
+    <link href="https://x.com/runwayml/status/2085684483366523193"/>
+    <id>ff945da585599d15137f714914131e01</id>
+    <published>2026-08-07T11:08:25+00:00</published>
+    <updated>2026-08-07T11:08:25+00:00</updated>
+    <summary type="text">Score: 0.801\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器</title>
+    <link href="https://blog.cloudflare.com/kitesurf"/>
+    <id>99740f9824ca4d567971105c1b43d547</id>
+    <published>2026-08-07T10:42:07+00:00</published>
+    <updated>2026-08-07T10:42:07+00:00</updated>
+    <summary type="text">Score: 0.802\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境</title>
+    <link href="https://www.aibase.com/news/30199"/>
+    <id>f5e467b8ac1519d48e73b2e6bf17a39e</id>
+    <published>2026-08-07T09:15:49.186312+00:00</published>
+    <updated>2026-08-07T09:15:49.186312+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>HSP GRUPPE 如何构建税务咨询所需的 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory</title>
+    <link href="https://openai.com/index/hsp-gruppe"/>
+    <id>9f4c0032cd0f33c7dacc8bda5ebedc6d</id>
+    <published>2026-08-07T09:00:00+00:00</published>
+    <updated>2026-08-07T09:00:00+00:00</updated>
+    <summary type="text">Score: 0.823\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…</title>
+    <link href="https://x.com/krea_ai/status/2085629541385736662"/>
+    <id>2b2dae78109a230cf4a61b64b4156546</id>
+    <published>2026-08-07T07:30:06+00:00</published>
+    <updated>2026-08-07T07:30:06+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时</title>
+    <link href="https://www.ithome.com/0/986/951.htm"/>
+    <id>5c56cc717a5b85ab2b403a57ea193af3</id>
+    <published>2026-08-07T06:11:01+00:00</published>
+    <updated>2026-08-07T06:11:01+00:00</updated>
+    <summary type="text">Score: 0.730\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.5 API上线，视频生成开启「电影级长叙事」</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&amp;mid=2247543416&amp;idx=1&amp;sn=badeafc780a939033a1e4cb0bba4221c"/>
+    <id>537d2933304b284a994fc5ae365ed926</id>
+    <published>2026-08-07T06:01:45+00:00</published>
+    <updated>2026-08-07T06:01:45+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低 / Improving Fable 5's biology safeguards</title>
+    <link href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"/>
+    <id>555e3d68a18b1c97cc990c3c9c39b96e</id>
+    <published>2026-08-07T02:41:46.636000+00:00</published>
+    <updated>2026-08-07T02:41:46.636000+00:00</updated>
+    <summary type="text">Score: 0.756\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.147.0</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>30f95fb611508a14ae9b59e0c6aca324</id>
+    <published>2026-08-07T00:00:00+00:00</published>
+    <updated>2026-08-07T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
 </feed>

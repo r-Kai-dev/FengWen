@@ -6,8 +6,25 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-08-06T00:00:00.000Z</updated>
+  <updated>2026-08-07T15:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>Bending the Kubernetes scheduler</title>
+    <link href="https://www.krea.ai/blog/bending-the-kubernetes-scheduler"/>
+    <id>https://www.krea.ai/blog/bending-the-kubernetes-scheduler</id>
+    <updated>2026-08-07T15:00:00.000Z</updated>
+    <published>2026-08-07T15:00:00.000Z</published>
+    <author><name>Gabriel Menezes</name></author>
+    <category term="engineering"/>
+    <category term="kubernetes"/>
+    <category term="scheduler"/>
+    <category term="gpu scheduling"/>
+    <category term="kueue"/>
+    <category term="descheduler"/>
+    <category term="infrastructure"/>
+    <summary>How we make the default Kubernetes scheduler pack GPU workloads into the cluster first and spill to overflow capacity only when it's full, using dynamic taints, the Descheduler, and Kueue.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/bending-the-kubernetes-scheduler/hero.webp" type="image/webp"/>
+  </entry>
   <entry>
     <title>Success story: Rebuilding the fashion workflow</title>
     <link href="https://www.krea.ai/blog/rebuilding-the-fashion-workflow"/>
@@ -577,16 +594,5 @@
     <category term="product"/>
     <summary>Krea 2 is our first foundation image model, trained completely from scratch to give users full control over the look, feel, and creative direction.</summary>
     <link rel="enclosure" href="https://s.krea.ai/Screenshot 2026-05-27 at 08.02.32.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Animate Krea 2 illustrations with Seedance 2.0</title>
-    <link href="https://www.krea.ai/blog/krea-2-seedance-animation"/>
-    <id>https://www.krea.ai/blog/krea-2-seedance-animation</id>
-    <updated>2026-05-25T00:00:00.000Z</updated>
-    <published>2026-05-25T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="product"/>
-    <summary>Turn Krea 2 stills into fluid animations with Seedance 2.0 — all inside a single Krea workflow.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/mood-boards-krea-2-v2/1778873199624-2-e0314215-b6e7-485d-b50f-9d1842bf3667.png" type="image/webp"/>
   </entry>
 </feed>

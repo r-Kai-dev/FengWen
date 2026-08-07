@@ -4,10 +4,100 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-06T21:45:03+00:00</updated>
+  <updated>2026-08-07T19:55:17+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Anthropic's Claude Code Lets AI Sessions Talk Directly Without Human Middlemen</title>
+    <link href="https://code.claude.com/docs/en/cross-session-messaging"/>
+    <id>213fb55ada3b91487cfc296d043130fb</id>
+    <published>2026-08-07T19:55:17+00:00</published>
+    <updated>2026-08-07T19:55:17+00:00</updated>
+    <summary type="text">Claude Code v2.1.224 lets independent sessions talk to each other directly, eliminating the need to manually relay context between terminals</summary>
+    <category term="development"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>OpenAI's Astra Becomes First AI Flagged as Critically Dangerous Before Release</title>
+    <link href="https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"/>
+    <id>a96eb2013fd45dbe5ab8ac9a534d159f</id>
+    <published>2026-08-07T18:52:48+00:00</published>
+    <updated>2026-08-07T18:52:48+00:00</updated>
+    <summary type="text">OpenAI's upcoming Astra model has crossed a new internal safety threshold for cybersecurity, triggering mandatory development controls and a new era for AI safety governance.</summary>
+    <category term="security"/>
+    <category term="government"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Code Auto Mode Catches Dangerous Commands 89% of the Time</title>
+    <link href="https://claude.com/blog/auto-mode-default-in-claude-code"/>
+    <id>e778a47b4f3584dbdf9d635f4d1a23ce</id>
+    <published>2026-08-07T18:27:02+00:00</published>
+    <updated>2026-08-07T18:27:02+00:00</updated>
+    <summary type="text">Anthropic's auto mode beats human review on every safety metric, and becomes the default in Claude Code on August 14 for Pro, Max, and Team plans</summary>
+    <category term="development"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>Prime Intellect Ships Multi-Agent RL Training Into Its Open-Source Stack</title>
+    <link href="https://www.primeintellect.ai/blog/multi-agent-systems"/>
+    <id>25f51b9496c9c62946f31b7b67e00bab</id>
+    <published>2026-08-07T17:42:31+00:00</published>
+    <updated>2026-08-07T17:42:31+00:00</updated>
+    <summary type="text">Prime Intellect's verifiers 0.3.0 and prime-rl 0.8.0 let you define, run, and train multi-agent RL environments with composable Agent and Env abstractions</summary>
+    <category term="agents"/>
+    <category term="post_training"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis Rebuilds Its Image Arena to Rank Models by Real Work</title>
+    <link href="https://artificialanalysis.ai/image/methodology#text-to-image"/>
+    <id>901c36e78dac0f497d02c51fc6f0fc8e</id>
+    <published>2026-08-07T17:04:46+00:00</published>
+    <updated>2026-08-07T17:04:46+00:00</updated>
+    <summary type="text">Artificial Analysis rebuilds its image arena around 10 real-world use cases and 9 model capabilities, revealing where GPT Image 2's dominance ends and cheaper models take over</summary>
+    <category term="benchmarks"/>
+    <category term="image"/>
+  </entry>
+  <entry>
+    <title>Suno Brings Voice Cloning to Mobile So Anyone Can Sing Their Own Songs</title>
+    <link href="https://x.com/suno/status/2085731234970227145"/>
+    <id>5247edeb46627f596bdf1bb421703ba7</id>
+    <published>2026-08-07T14:14:12+00:00</published>
+    <updated>2026-08-07T14:14:12+00:00</updated>
+    <summary type="text">Suno's Voices feature, which lets you sing on AI-generated tracks using your own cloned voice, is now available natively on iOS and Android</summary>
+    <category term="audio"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>MiniMax Rebuilds Code 2.0 on Pi Agent, Slashing Latency by 90%</title>
+    <link href="https://agent.minimax.io/download"/>
+    <id>cf9739f6198c23b35c947c9ec966e54f</id>
+    <published>2026-08-07T10:49:29+00:00</published>
+    <updated>2026-08-07T10:49:29+00:00</updated>
+    <summary type="text">MiniMax Code 2.0 launches with a rebuilt Pi Agent core, phone remote control, integrated browser, dual modes, and bring-your-own-key support</summary>
+    <category term="development"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Krea Adds Seedance 2.5, Generating 30-Second 4K Videos in a Single Pass</title>
+    <link href="https://www.krea.ai/video/seedance-2-5"/>
+    <id>e9668784fcff5e280425276a05399e9d</id>
+    <published>2026-08-07T07:30:06+00:00</published>
+    <updated>2026-08-07T07:30:06+00:00</updated>
+    <summary type="text">Krea adds ByteDance's Seedance 2.5 to its multi-model video platform, bringing 30-second single-take generation and 50 reference inputs to its creative workspace.</summary>
+    <category term="video"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Anthropic Cuts Fable 5 Biology Blocks by 85% After Massive Overreach</title>
+    <link href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"/>
+    <id>d033e3c32cbfcffa9b85ae3bd43c7611</id>
+    <published>2026-08-07T03:08:54+00:00</published>
+    <updated>2026-08-07T03:08:54+00:00</updated>
+    <summary type="text">Anthropic retrained Fable 5's biology classifier, cutting biology-related fallbacks by 85% while keeping dual-use research locked behind trusted access pathways.</summary>
+    <category term="llms"/>
+    <category term="security"/>
+  </entry>
   <entry>
     <title>OpenAI's Codex Security Review Catches 74% of Real Bugs Semgrep Misses</title>
     <link href="https://learn.chatgpt.com/docs/security/security-review"/>
@@ -37,95 +127,5 @@
     <summary type="text">Epoch AI's new Mystery Game Puzzles benchmark hides its game identity to stop models from gaming the test -- Opus 5 leads at 59%</summary>
     <category term="benchmarks"/>
     <category term="reasoning"/>
-  </entry>
-  <entry>
-    <title>AMD Acquires Taalas to Build Chips That Run One AI Model 10x Faster</title>
-    <link href="https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market"/>
-    <id>218bb1e5272a5e8574d6e40a6f346a9f</id>
-    <published>2026-08-06T20:10:09+00:00</published>
-    <updated>2026-08-06T20:10:09+00:00</updated>
-    <summary type="text">AMD acquires Toronto startup Taalas, which hardwires AI models directly into silicon, promising 17,000 tokens/sec at 20x lower cost than GPUs</summary>
-    <category term="gpus"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Artificial Analysis Patches Intelligence Index to Crown Claude Opus 5</title>
-    <link href="https://artificialanalysis.ai/"/>
-    <id>371c498d3fabc31c4749c1e4f4f3a117</id>
-    <published>2026-08-06T20:09:43+00:00</published>
-    <updated>2026-08-06T20:09:43+00:00</updated>
-    <summary type="text">Artificial Analysis patches its Intelligence Index to v4.1.1, upgrading grader models and fixing scoring errors in the ÏÂ³-Banking benchmark</summary>
-    <category term="benchmarks"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Perplexity Swaps GPT-5.6 Terra and Luna Into Its AI Agent Platform</title>
-    <link href="https://x.com/perplexity_ai/status/2085442634240438307"/>
-    <id>5c6751af113a22dff2aa92713dfc2164</id>
-    <published>2026-08-06T19:07:24+00:00</published>
-    <updated>2026-08-06T19:07:24+00:00</updated>
-    <summary type="text">GPT-5.6 Terra and Luna are now the default models powering Perplexity Computer's subagents and scheduled automations, with Terra scoring 11 points above Claude Sonnet on WANDR.</summary>
-    <category term="llms"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>OpenAI's GPT-5.6 Sol Cuts Hallucinations 68% and Ditches Thinking Modes</title>
-    <link href="https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"/>
-    <id>c28a00d2e5970ba262eb48f878b4004a</id>
-    <published>2026-08-06T18:35:55+00:00</published>
-    <updated>2026-08-06T18:35:55+00:00</updated>
-    <summary type="text">OpenAI upgrades GPT-5.6 Sol for paid ChatGPT users with 68% fewer factual errors and gives free users unlimited chats with GPT-5.6 Luna plus a new Think button</summary>
-    <category term="llms"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>OpenAI, Microsoft, and Cursor Unite Behind Agent Plugins to End Fragmented AI Workflows</title>
-    <link href="https://agent-plugins.org/"/>
-    <id>064494cb781ed9727a6b915c70c4971e</id>
-    <published>2026-08-06T16:11:31+00:00</published>
-    <updated>2026-08-06T16:11:31+00:00</updated>
-    <summary type="text">OpenAI, Microsoft, Cursor, AWS, and Vercel launch Agent Plugins v1.0: one plugin format that works across Codex, ChatGPT, Copilot, VS Code, Cursor, and Kiro.</summary>
-    <category term="agents"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind's WeatherNext Cyclones Gives Forecasters an Extra Day to Save Lives</title>
-    <link href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdeepmind.google.com%2Fscience%2Fweatherlab%2F%3Futm_source%3Dx%26utm_medium%3Dsocial%26utm_campaign%26utm_content&amp;dsh=S1796447454%3A1786032911219892&amp;followup=https%3A%2F%2Fdeepmind.google.com%2Fscience%2Fweatherlab%2F%3Futm_source%3Dx%26utm_medium%3Dsocial%26utm_campaign%26utm_content&amp;passive=1209600&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;ifkv=Ac50bxs1VZZ9nQ22_zaDFLO6JfCHLDqq77660zUl-DURO0MxS6OjJOo-nOgr1f0u6SZWFhBuNED7"/>
-    <id>188663b589e3ff0f539ac00a3043540a</id>
-    <published>2026-08-06T15:59:52+00:00</published>
-    <updated>2026-08-06T15:59:52+00:00</updated>
-    <summary type="text">Google DeepMind's WeatherNext achieves a decade of forecasting progress in one leap, now open-sourced with 1,000-scenario ensemble predictions per storm</summary>
-    <category term="open_source"/>
-    <category term="data"/>
-  </entry>
-  <entry>
-    <title>Meta AI Sweeps Five STEM Olympiads With Perfect Scores and Zero Tools</title>
-    <link href="https://x.com/aiatmeta/status/2085388945148297322"/>
-    <id>1299a8ce70cc9dc42424b63aa6ec0d60</id>
-    <published>2026-08-06T15:34:03+00:00</published>
-    <updated>2026-08-06T15:34:03+00:00</updated>
-    <summary type="text">Meta's AI models swept five STEM Olympiads â including perfect scores in physics â with no tools, no calculators, and no search allowed.</summary>
-    <category term="reasoning"/>
-    <category term="benchmarks"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Wan3.0 Breaks the 30-Second Video Barrier With Document-to-Video</title>
-    <link href="https://modelstudio.console.alibabacloud.com/ap-southeast-1?tab=doc#/doc/?type=model&amp;url=2840914_2&amp;modelId=wan3.0-video&amp;serviceSite=international"/>
-    <id>6592b05a13775fa2d72092b76592f0e6</id>
-    <published>2026-08-06T12:18:37+00:00</published>
-    <updated>2026-08-06T12:18:37+00:00</updated>
-    <summary type="text">Alibaba's Wan3.0 enters public beta with 30-second native video generation, document-to-video inputs, and API pricing starting at $0.05/sec</summary>
-    <category term="video"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Qwen3.8-Max Breaks Open Its Most Powerful Model Ever</title>
-    <link href="https://artificialanalysis.ai/models/qwen3-8-max"/>
-    <id>dd3de99a5e3ceb25af8ca61db9da5590</id>
-    <published>2026-08-06T07:43:04+00:00</published>
-    <updated>2026-08-06T07:43:04+00:00</updated>
-    <summary type="text">Alibaba's 2.4T MoE flagship matches Claude Fable 5 on agentic evals and is about to become the largest open-weight model ever released</summary>
-    <category term="llms"/>
-    <category term="benchmarks"/>
   </entry>
 </feed>

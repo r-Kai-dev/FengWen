@@ -4,148 +4,191 @@
   <icon>https://github.com/favicon.ico</icon>
   <link href="https://github.com/trending?since=daily"/>
   <id>https://github.com/trending?since=daily</id>
-  <updated>2026-08-07T01:00:11.681588+00:00</updated>
+  <updated>2026-08-07T21:30:55.484509+00:00</updated>
   <entry>
-    <title>firecrawl / pdf-inspector</title>
-    <link href="https://github.com/firecrawl/pdf-inspector"/>
-    <id>e7f5e43e7069ec3d9eb3c2ebdab5b869</id>
-    <published>2026-08-07T01:00:11.681588+00:00</published>
-    <updated>2026-08-07T01:00:11.681588+00:00</updated>
-    <summary type="text">Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.</summary>
-    <content type="html">&lt;p&gt;Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;12.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;836&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
+    <title>google / skills</title>
+    <link href="https://github.com/google/skills"/>
+    <id>b164c25a5e989f6784a1a3bbb62f5c7f</id>
+    <published>2026-08-07T21:30:55.484509+00:00</published>
+    <updated>2026-08-07T21:30:55.484509+00:00</updated>
+    <summary type="text">Agent Skills for Google products and technologies</summary>
+    <content type="html">&lt;p&gt;Agent Skills for Google products and technologies&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;16.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;305&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
   </entry>
   <entry>
-    <title>obra / superpowers</title>
-    <link href="https://github.com/obra/superpowers"/>
-    <id>acf98720b428f908fc704200af0875e2</id>
-    <published>2026-08-07T01:00:11.681367+00:00</published>
-    <updated>2026-08-07T01:00:11.681367+00:00</updated>
-    <summary type="text">An agentic skills framework &amp; software development methodology that works.</summary>
-    <content type="html">&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;268.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;24.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;858&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Shell"/>
-  </entry>
-  <entry>
-    <title>esengine / DeepSeek-Reasonix</title>
-    <link href="https://github.com/esengine/DeepSeek-Reasonix"/>
-    <id>d1e47b747d54537b6102bdf7a0cca92c</id>
-    <published>2026-08-07T01:00:11.681103+00:00</published>
-    <updated>2026-08-07T01:00:11.681103+00:00</updated>
-    <summary type="text">DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</summary>
-    <content type="html">&lt;p&gt;DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;32.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;888&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>pranshuparmar / witr</title>
+    <link href="https://github.com/pranshuparmar/witr"/>
+    <id>1671607840d4b4c9ce049ed50de645e5</id>
+    <published>2026-08-07T21:30:55.484221+00:00</published>
+    <updated>2026-08-07T21:30:55.484221+00:00</updated>
+    <summary type="text">Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.</summary>
+    <content type="html">&lt;p&gt;Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;19.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;636&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;308&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Go"/>
   </entry>
   <entry>
-    <title>tirth8205 / code-review-graph</title>
-    <link href="https://github.com/tirth8205/code-review-graph"/>
-    <id>d67be920287255c61c143dae054ef156</id>
-    <published>2026-08-07T01:00:11.680879+00:00</published>
-    <updated>2026-08-07T01:00:11.680879+00:00</updated>
-    <summary type="text">Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.</summary>
-    <content type="html">&lt;p&gt;Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;29.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;237&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
+    <title>K2SOsint / Legendary_OSINT</title>
+    <link href="https://github.com/K2SOsint/Legendary_OSINT"/>
+    <id>e93ffdd310308e04cd6d8c1894f78be7</id>
+    <published>2026-08-07T21:30:55.483890+00:00</published>
+    <updated>2026-08-07T21:30:55.483890+00:00</updated>
+    <summary type="text">A list of OSINT tools &amp; resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.</summary>
+    <content type="html">&lt;p&gt;A list of OSINT tools &amp; resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;1.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;184&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;64&lt;/strong&gt; stars today&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Significant-Gravitas / AutoGPT</title>
-    <link href="https://github.com/Significant-Gravitas/AutoGPT"/>
-    <id>c22db8e3ffaa61d7057fff30d7ea2d8d</id>
-    <published>2026-08-07T01:00:11.680602+00:00</published>
-    <updated>2026-08-07T01:00:11.680602+00:00</updated>
-    <summary type="text">AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</summary>
-    <content type="html">&lt;p&gt;AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;186.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;46.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;37&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
+    <title>denoland / celld</title>
+    <link href="https://github.com/denoland/celld"/>
+    <id>2f125039f6e86f79ac0664aca27e89e4</id>
+    <published>2026-08-07T21:30:55.483455+00:00</published>
+    <updated>2026-08-07T21:30:55.483455+00:00</updated>
+    <summary type="text">self-hosted, distributed Durable Objects</summary>
+    <content type="html">&lt;p&gt;self-hosted, distributed Durable Objects&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;2.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;59&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;546&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Rust"/>
   </entry>
   <entry>
-    <title>TapXWorld / ChinaTextbook</title>
-    <link href="https://github.com/TapXWorld/ChinaTextbook"/>
-    <id>93e6dcf1443683f2e98450fd91449640</id>
-    <published>2026-08-07T01:00:11.680374+00:00</published>
-    <updated>2026-08-07T01:00:11.680374+00:00</updated>
-    <summary type="text">所有小初高、大学PDF教材。</summary>
-    <content type="html">&lt;p&gt;所有小初高、大学PDF教材。&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;77.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;17.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;134&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Roff&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Roff"/>
+    <title>unclebob / swarm-forge</title>
+    <link href="https://github.com/unclebob/swarm-forge"/>
+    <id>49e6adf1e81581c238f0840c1a560f8e</id>
+    <published>2026-08-07T21:30:55.483109+00:00</published>
+    <updated>2026-08-07T21:30:55.483109+00:00</updated>
+    <summary type="text">A simple tool for coordinating several AI agents.</summary>
+    <content type="html">&lt;p&gt;A simple tool for coordinating several AI agents.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;1.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;198&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;85&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Clojure&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Clojure"/>
   </entry>
   <entry>
     <title>google / guava</title>
     <link href="https://github.com/google/guava"/>
     <id>183f276ac5e6ede304870187245d9a17</id>
-    <published>2026-08-07T01:00:11.680117+00:00</published>
-    <updated>2026-08-07T01:00:11.680117+00:00</updated>
+    <published>2026-08-07T21:30:55.482775+00:00</published>
+    <updated>2026-08-07T21:30:55.482775+00:00</updated>
     <summary type="text">Google core libraries for Java</summary>
     <content type="html">&lt;p&gt;Google core libraries for Java&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;51.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;13&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Java&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;51.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;156&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Java&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Java"/>
   </entry>
   <entry>
-    <title>huangruiteng / loopx</title>
-    <link href="https://github.com/huangruiteng/loopx"/>
-    <id>207f4de8a4384d1029c60d3ad9d8ac2a</id>
-    <published>2026-08-07T01:00:11.679816+00:00</published>
-    <updated>2026-08-07T01:00:11.679816+00:00</updated>
-    <summary type="text">Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.</summary>
-    <content type="html">&lt;p&gt;Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;2.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;217&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;847&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>Significant-Gravitas / AutoGPT</title>
+    <link href="https://github.com/Significant-Gravitas/AutoGPT"/>
+    <id>c22db8e3ffaa61d7057fff30d7ea2d8d</id>
+    <published>2026-08-07T21:30:55.482272+00:00</published>
+    <updated>2026-08-07T21:30:55.482272+00:00</updated>
+    <summary type="text">AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</summary>
+    <content type="html">&lt;p&gt;AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;186.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;46.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;363&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>jdx / mise</title>
+    <link href="https://github.com/jdx/mise"/>
+    <id>d1d91d80cb743530e5bccd408317e6e7</id>
+    <published>2026-08-07T21:30:55.481988+00:00</published>
+    <updated>2026-08-07T21:30:55.481988+00:00</updated>
+    <summary type="text">dev tools, env vars, task runner</summary>
+    <content type="html">&lt;p&gt;dev tools, env vars, task runner&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;32.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;130&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Rust"/>
+  </entry>
+  <entry>
+    <title>chenyme / grok2api</title>
+    <link href="https://github.com/chenyme/grok2api"/>
+    <id>f22ea6a1c3d3c4eda264120fe052045a</id>
+    <published>2026-08-07T21:30:55.481622+00:00</published>
+    <updated>2026-08-07T21:30:55.481622+00:00</updated>
+    <summary type="text">Multi-account API gateway for Grok Build, Grok Web, and Grok Console</summary>
+    <content type="html">&lt;p&gt;Multi-account API gateway for Grok Build, Grok Web, and Grok Console&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;7.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;62&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Go"/>
+  </entry>
+  <entry>
+    <title>666ghj / MiroFish</title>
+    <link href="https://github.com/666ghj/MiroFish"/>
+    <id>06bf5e859a01d532ece52a270a58dcf3</id>
+    <published>2026-08-07T21:30:55.481334+00:00</published>
+    <updated>2026-08-07T21:30:55.481334+00:00</updated>
+    <summary type="text">A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物</summary>
+    <content type="html">&lt;p&gt;A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;70.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;126&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>semantica-agi / semantica</title>
+    <link href="https://github.com/semantica-agi/semantica"/>
+    <id>08b001b01bac1d8e4ed3599795c472f7</id>
+    <published>2026-08-07T21:30:55.481043+00:00</published>
+    <updated>2026-08-07T21:30:55.481043+00:00</updated>
+    <summary type="text">Graph-Native Infrastructure for Context and Accountable AI Systems</summary>
+    <content type="html">&lt;p&gt;Graph-Native Infrastructure for Context and Accountable AI Systems&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;2.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;302&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;118&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
     <title>goauthentik / authentik</title>
     <link href="https://github.com/goauthentik/authentik"/>
     <id>111d6062c91075cebdaadcbe2c950f11</id>
-    <published>2026-08-07T01:00:11.679582+00:00</published>
-    <updated>2026-08-07T01:00:11.679582+00:00</updated>
+    <published>2026-08-07T21:30:55.480679+00:00</published>
+    <updated>2026-08-07T21:30:55.480679+00:00</updated>
     <summary type="text">The authentication glue you need.</summary>
     <content type="html">&lt;p&gt;The authentication glue you need.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;23.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;138&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;23.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;544&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
+  </entry>
+  <entry>
+    <title>obra / superpowers</title>
+    <link href="https://github.com/obra/superpowers"/>
+    <id>acf98720b428f908fc704200af0875e2</id>
+    <published>2026-08-07T21:30:55.480148+00:00</published>
+    <updated>2026-08-07T21:30:55.480148+00:00</updated>
+    <summary type="text">An agentic skills framework &amp; software development methodology that works.</summary>
+    <content type="html">&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;268.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;24.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;794&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Shell"/>
   </entry>
   <entry>
     <title>mattpocock / skills</title>
     <link href="https://github.com/mattpocock/skills"/>
     <id>db65aeffc320da84db587caef81809b0</id>
-    <published>2026-08-07T01:00:11.679246+00:00</published>
-    <updated>2026-08-07T01:00:11.679246+00:00</updated>
+    <published>2026-08-07T21:30:55.479774+00:00</published>
+    <updated>2026-08-07T21:30:55.479774+00:00</updated>
     <summary type="text">Skills for Real Engineers. Straight from my .agents directory.</summary>
     <content type="html">&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;207.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;17.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;208.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;18.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Shell"/>
   </entry>
   <entry>
     <title>cloudflare / computer</title>
     <link href="https://github.com/cloudflare/computer"/>
     <id>47a01ad665975f24101ada65b77c88e5</id>
-    <published>2026-08-07T01:00:11.678972+00:00</published>
-    <updated>2026-08-07T01:00:11.678972+00:00</updated>
+    <published>2026-08-07T21:30:55.479439+00:00</published>
+    <updated>2026-08-07T21:30:55.479439+00:00</updated>
     <summary type="text">Give your agent a computer 👾</summary>
     <content type="html">&lt;p&gt;Give your agent a computer 👾&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;4.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;241&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;5.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;281&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;894&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
   <entry>
     <title>addyosmani / agent-skills</title>
     <link href="https://github.com/addyosmani/agent-skills"/>
     <id>963d969f4a92f0287e4bfba6c92ca46c</id>
-    <published>2026-08-07T01:00:11.678709+00:00</published>
-    <updated>2026-08-07T01:00:11.678709+00:00</updated>
+    <published>2026-08-07T21:30:55.479126+00:00</published>
+    <updated>2026-08-07T21:30:55.479126+00:00</updated>
     <summary type="text">Production-grade engineering skills for AI coding agents.</summary>
     <content type="html">&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;82.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;8.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;593&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;83.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;9.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="JavaScript"/>
   </entry>
   <entry>
-    <title>TencentCloud / TencentDB-Agent-Memory</title>
-    <link href="https://github.com/TencentCloud/TencentDB-Agent-Memory"/>
-    <id>c34d930f3f93a6c6a0428b452744e0f4</id>
-    <published>2026-08-07T01:00:11.678409+00:00</published>
-    <updated>2026-08-07T01:00:11.678409+00:00</updated>
-    <summary type="text">TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</summary>
-    <content type="html">&lt;p&gt;TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;16.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>PrimeIntellect-ai / prime-agent</title>
+    <link href="https://github.com/PrimeIntellect-ai/prime-agent"/>
+    <id>5b5dc7ff02dad9e600c862b5a483b406</id>
+    <published>2026-08-07T21:30:55.478597+00:00</published>
+    <updated>2026-08-07T21:30:55.478597+00:00</updated>
+    <summary type="text">A self-improving RLM agent for coding workflows and long-running autonomous tasks.</summary>
+    <content type="html">&lt;p&gt;A self-improving RLM agent for coding workflows and long-running autonomous tasks.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;6.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;501&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
 </feed>

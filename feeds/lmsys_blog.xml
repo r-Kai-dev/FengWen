@@ -4,10 +4,20 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-08-05T00:00:00+00:00</updated>
+  <updated>2026-08-07T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>HPC-Ops Ã SGLang: High-Performance Attention, Router GEMM, and MoE Kernels from Tencent Hunyuan</title>
+    <link href="https://lmsys.org/blog/2026-08-07-hpc-ops-sglang"/>
+    <id>cdb542ae86eb39e9a7491fa2f4efe85f</id>
+    <published>2026-08-07T00:00:00+00:00</published>
+    <updated>2026-08-07T00:00:00+00:00</updated>
+    <summary type="text">HPC-Ops is an open-source operator library for LLM inference, deployed in Tencent's large-scale production serving. Its core operators, including Dynamic Attention and Fused MoE, play a critical role ...</summary>
+    <category term="sglang"/>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Full-Stack Performance Optimization of AR+DiT in SGL-Diffusion</title>
     <link href="https://lmsys.org/blog/2026-08-05-glmImage-optimization"/>
