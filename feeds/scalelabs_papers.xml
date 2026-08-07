@@ -4,10 +4,21 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/papers"/>
   <id>https://labs.scale.com/papers</id>
-  <updated>2026-06-30T20:49:00.000Z</updated>
+  <updated>2026-08-06T16:50:54Z</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>HarnessOpt-Bench: Evaluating LLMs at Harness Optimization</title>
+    <link href="https://labs.scale.com/papers/harnessopt-bench"/>
+    <id>b55e0936cc5f3de88fb275efebf02fa9</id>
+    <published>2026-08-06T16:50:54Z</published>
+    <updated>2026-08-06T16:50:54Z</updated>
+    <summary type="text">By Varun Ursekar, Apaar Shanker, Yash Maurya, Shehab Yasser, Vijay Kalmath, Veronica Chatrath, Yuan (Emily) Xue</summary>
+    <category term="Agents"/>
+    <category term="Enterprise"/>
+    <category term="Evaluation and Alignment"/>
+  </entry>
   <entry>
     <title>DrugDiscoveryBench: Can Coding Agents Assist Early-Stage Drug Discovery?</title>
     <link href="https://labs.scale.com/papers/drugdiscoverybench"/>

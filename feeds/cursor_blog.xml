@@ -4,10 +4,19 @@
   <icon>https://cursor.com/marketing-static/favicon.ico</icon>
   <link href="https://cursor.com/blog"/>
   <id>https://cursor.com/blog</id>
-  <updated>2026-08-04T12:00:00.000Z</updated>
+  <updated>2026-08-06T12:00:00.000Z</updated>
   <author>
     <name>Cursor</name>
   </author>
+  <entry>
+    <title>How Cursor Router chooses the right model for the task</title>
+    <link href="https://cursor.com/blog/how-cursor-router-works"/>
+    <id>4d69c75a279eb687e099a7800ccd666b</id>
+    <published>2026-08-06T12:00:00.000Z</published>
+    <updated>2026-08-06T12:00:00.000Z</updated>
+    <summary type="text">By Connor &amp; Yuri · 6m read</summary>
+    <category term="research"/>
+  </entry>
   <entry>
     <title>Mixture-of-Kittens: our open-source MoE megakernel for NVL72s</title>
     <link href="https://cursor.com/blog/mixture-of-kittens"/>

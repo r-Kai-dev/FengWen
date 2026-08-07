@@ -11,7 +11,7 @@
     <id>bf62f763556efaa460e67efdecbb7ff9</id>
     <published>2026-07-29T20:00:00.000Z</published>
     <updated>2026-07-29T20:00:00.000Z</updated>
-    <summary type="text">Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul... \u00b7 Upvotes: 297 \u00b7 GitHub Stars: 11 \u00b7 Authors: Bing Yan, Gregory Wolfe, Stefano Martiniani</summary>
+    <summary type="text">Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul... \u00b7 Upvotes: 298 \u00b7 GitHub Stars: 12 \u00b7 Authors: Bing Yan, Gregory Wolfe, Stefano Martiniani</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +21,7 @@
     <id>0f626a903e5edc962497e0bf9c3f90b2</id>
     <published>2026-07-29T20:00:00.000Z</published>
     <updated>2026-07-29T20:00:00.000Z</updated>
-    <summary type="text">GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execu... \u00b7 Upvotes: 300 \u00b7 Authors: Hanzhang Zhou, Panrong Tong, Xu Zhang</summary>
+    <summary type="text">GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execu... \u00b7 Upvotes: 301 \u00b7 Authors: Hanzhang Zhou, Panrong Tong, Xu Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +31,7 @@
     <id>53b3f1b2072996c65940243c940701e2</id>
     <published>2026-07-28T20:00:00.000Z</published>
     <updated>2026-07-28T20:00:00.000Z</updated>
-    <summary type="text">Recent advances in AI agents have increasingly internalized native capabilities into their underlying foundation models, giving rise to multimodal foundation models and large reasoning models. However... \u00b7 Upvotes: 268 \u00b7 GitHub Stars: 92 \u00b7 Authors: Zeyu Zhang, Ziliang Guo, Yihang Sun</summary>
+    <summary type="text">Recent advances in AI agents have increasingly internalized native capabilities into their underlying foundation models, giving rise to multimodal foundation models and large reasoning models. However... \u00b7 Upvotes: 268 \u00b7 GitHub Stars: 97 \u00b7 Authors: Zeyu Zhang, Ziliang Guo, Yihang Sun</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +41,17 @@
     <id>fb8363ee0bc1d821564c7b8a6d243b65</id>
     <published>2026-07-26T20:00:00.000Z</published>
     <updated>2026-07-26T20:00:00.000Z</updated>
-    <summary type="text">We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ... \u00b7 Upvotes: 468 \u00b7 GitHub Stars: 8093 \u00b7 Authors: Kimi Team, Tongtong Bai, Yifan Bai</summary>
+    <summary type="text">We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ... \u00b7 Upvotes: 478 \u00b7 GitHub Stars: 8138 \u00b7 Authors: Kimi Team, Tongtong Bai, Yifan Bai</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model</title>
+    <link href="https://arxiv.org/abs/2607.24904"/>
+    <id>27ed640dcfc82755249787781d5fd531</id>
+    <published>2026-07-26T20:00:00.000Z</published>
+    <updated>2026-07-26T20:00:00.000Z</updated>
+    <summary type="text">Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently.... \u00b7 Upvotes: 35 \u00b7 GitHub Stars: 1307 \u00b7 Authors: Senqiao Yang, Kaichen Zhang, Zhaoyang Jia</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +61,7 @@
     <id>ee1456a2e82657fa69101df30a22a01e</id>
     <published>2026-07-25T20:00:00.000Z</published>
     <updated>2026-07-25T20:00:00.000Z</updated>
-    <summary type="text">Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioni... \u00b7 Upvotes: 5 \u00b7 GitHub Stars: 1349 \u00b7 Authors: Stylianos Ploumpis, Jan Bednarik, Gaspard Zoss</summary>
+    <summary type="text">Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioni... \u00b7 Upvotes: 5 \u00b7 GitHub Stars: 1357 \u00b7 Authors: Stylianos Ploumpis, Jan Bednarik, Gaspard Zoss</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +71,17 @@
     <id>70de2083a5c27844a7ffed5f9da7ae76</id>
     <published>2026-07-21T11:26:50.000Z</published>
     <updated>2026-07-21T11:26:50.000Z</updated>
-    <summary type="text">We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation eng... \u00b7 Upvotes: 309 \u00b7 GitHub Stars: 1725 \u00b7 Authors: Fan Jiang, Zhaoxu Sun, Mengchao Wang</summary>
+    <summary type="text">We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation eng... \u00b7 Upvotes: 309 \u00b7 GitHub Stars: 1786 \u00b7 Authors: Fan Jiang, Zhaoxu Sun, Mengchao Wang</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Transcription Policy as a Latent Variable: Activating Controllable Verbatim ASR with Word-Level Timing</title>
+    <link href="https://arxiv.org/abs/2607.18934"/>
+    <id>89ebd795fd3d9430261ad6cf3165f9ae</id>
+    <published>2026-07-20T20:00:00.000Z</published>
+    <updated>2026-07-20T20:00:00.000Z</updated>
+    <summary type="text">Modern ASR models trained on heterogeneously annotated data treat transcription style (verbatim vs. intended) as an uncontrolled latent variable, causing measurable decoding instability, evaluation co... \u00b7 Upvotes: 6 \u00b7 GitHub Stars: 1203 \u00b7 Authors: Laurin Wagner, Mario Zusag, Bernhard Thallinger</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +91,7 @@
     <id>bc8699f914ad297305eaed462cc1ef83</id>
     <published>2026-07-13T20:00:00.000Z</published>
     <updated>2026-07-13T20:00:00.000Z</updated>
-    <summary type="text">The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs... \u00b7 Upvotes: 232 \u00b7 GitHub Stars: 290 \u00b7 Authors: Ruhan Wang, Yucheng Shi, Zongxia Li</summary>
+    <summary type="text">The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs... \u00b7 Upvotes: 232 \u00b7 GitHub Stars: 292 \u00b7 Authors: Ruhan Wang, Yucheng Shi, Zongxia Li</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,27 +101,7 @@
     <id>a681807c49c0f23182d91447ae38de1b</id>
     <published>2026-07-07T20:00:00.000Z</published>
     <updated>2026-07-07T20:00:00.000Z</updated>
-    <summary type="text">We present LingBot-World 2.0 (also known as LingBot-World-Infinity), an advanced iteration of LingBot-World featuring four distinct upgrades. (1) Our model achieves an unbounded interaction horizon wh... \u00b7 Upvotes: 46 \u00b7 GitHub Stars: 1475 \u00b7 Authors: Zelin Gao, Qiuyu Wang, Jiapeng Zhu</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes</title>
-    <link href="https://arxiv.org/abs/2607.04439"/>
-    <id>53309d9a8fb76f86344a215f211feec2</id>
-    <published>2026-07-04T20:00:00.000Z</published>
-    <updated>2026-07-04T20:00:00.000Z</updated>
-    <summary type="text">Large language models have made research ideation increasingly accessible, yet effective idea development requires more than generating candidate directions. Researchers must ground a problem in curre... \u00b7 Upvotes: 63 \u00b7 GitHub Stars: 2128 \u00b7 Authors: Qihao Zhao, Yangyu Huang, Yalun Dai</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming</title>
-    <link href="https://arxiv.org/abs/2606.31227"/>
-    <id>39942df9576ffa26ff58b2b5c4e0962f</id>
-    <published>2026-06-29T20:00:00.000Z</published>
-    <updated>2026-06-29T20:00:00.000Z</updated>
-    <summary type="text">The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the secu... \u00b7 Upvotes: 14 \u00b7 GitHub Stars: 4395 \u00b7 Authors: Yong Yang, Xing Zheng, Huiyu Wu</summary>
+    <summary type="text">We present LingBot-World 2.0 (also known as LingBot-World-Infinity), an advanced iteration of LingBot-World featuring four distinct upgrades. (1) Our model achieves an unbounded interaction horizon wh... \u00b7 Upvotes: 46 \u00b7 GitHub Stars: 1481 \u00b7 Authors: Zelin Gao, Qiuyu Wang, Jiapeng Zhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

@@ -4,10 +4,19 @@
   <icon>https://hunyuan-blog-web-prod-1258344703.cos.ap-guangzhou.myqcloud.com/favicon.png</icon>
   <link href="https://hunyuan.tencent.com/research"/>
   <id>https://hunyuan.tencent.com/research</id>
-  <updated>2026-07-21T02:00:00+00:00</updated>
+  <updated>2027-08-05T16:00:00+00:00</updated>
   <author>
     <name>Tencent Hunyuan</name>
   </author>
+  <entry>
+    <title>From LR to ELR: A Better Heuristic for Pretraining Dynamics</title>
+    <link href="https://hunyuan.tencent.com/research/elr"/>
+    <id>5bd80fcce31cd4932f97620b68f9dc1e</id>
+    <published>2027-08-05T16:00:00+00:00</published>
+    <updated>2027-08-05T16:00:00+00:00</updated>
+    <summary type="text">Understanding pretraining dynamics is crucial for designing effective training hyperparameters for large language models (LLMs), particularly the learning rate (LR). However, LR does not always reflect how much the function represented by the model actually changes, and the optimal LR often shifts with model and data scale. In this post, we identify that the effective learning rate (ELR), which controls the directional changes of model weights, is a more intrinsic heuristic than LR as a tunable hyperparameter. Specifically, ELR delivers more accurate loss prediction under the multi-power law (MPL) model and transfers more reliably across model scales. More broadly, the ELR perspective guides the design of better schedules, which outperform conventional LR-schedule baselines.</summary>
+    <category term="Pretrain Team"/>
+  </entry>
   <entry>
     <title>Hyra: A simple yet effective scaffold for general discovery</title>
     <link href="https://hunyuan.tencent.com/research/hyra"/>

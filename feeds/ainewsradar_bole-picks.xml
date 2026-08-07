@@ -4,229 +4,17 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-05T19:42:38+00:00</updated>
+  <updated>2026-08-06T19:49:34+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏 / One-shotting a Raccoon Heist game using Claude Fable 5</title>
-    <link href="https://simonwillison.net/2026/Aug/5/raccoon-heist"/>
-    <id>da162168ff063f2cbeb615d40d141ec9</id>
-    <published>2026-08-05T19:42:38+00:00</published>
-    <updated>2026-08-05T19:42:38+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Jeff Dean 告别谷歌，联合创立 DiscoLoopAI / Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…</title>
-    <link href="https://x.com/JeffDean/status/2085059187437113387"/>
-    <id>808f7eb78bb3f29f3683569d105fefeb</id>
-    <published>2026-08-05T17:43:43+00:00</published>
-    <updated>2026-08-05T17:43:43+00:00</updated>
-    <summary type="text">Score: 0.778\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously</title>
-    <link href="https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously"/>
-    <id>8f91cacc7ee90389d7600a65a7b3c837</id>
-    <published>2026-08-05T17:26:53+00:00</published>
-    <updated>2026-08-05T17:26:53+00:00</updated>
-    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind CEO 德米斯·哈萨比斯即将卸任</title>
-    <link href="https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai"/>
-    <id>85d9040761453c082d2d3ec122bc46ce</id>
-    <published>2026-08-05T16:39:55.296000+00:00</published>
-    <updated>2026-08-05T16:39:55.296000+00:00</updated>
-    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家 / I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …</title>
-    <link href="https://x.com/demishassabis/status/2085034334914769203"/>
-    <id>92968462c8f2722eb3e6a874e3f29a29</id>
-    <published>2026-08-05T16:04:58+00:00</published>
-    <updated>2026-08-05T16:04:58+00:00</updated>
-    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin</title>
-    <link href="https://x.com/AYi_AInotes/status/2085010659150852220"/>
-    <id>3965e2400138f8c9ca19468aba1e29ac</id>
-    <published>2026-08-05T14:30:53+00:00</published>
-    <updated>2026-08-05T14:30:53+00:00</updated>
-    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research</title>
-    <link href="https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended"/>
-    <id>12f5a6f54180cf85449bc0468ee591a9</id>
-    <published>2026-08-05T13:49:19+00:00</published>
-    <updated>2026-08-05T13:49:19+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model</title>
-    <link href="https://blog.cloudflare.com/the-agent-access-model"/>
-    <id>1995f490d82eb7f848659b2bee026ebb</id>
-    <published>2026-08-05T13:00:41+00:00</published>
-    <updated>2026-08-05T13:00:41+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work</title>
-    <link href="https://blog.cloudflare.com/cloudflare-os"/>
-    <id>de4ca7684f0f21d365d508182db931da</id>
-    <published>2026-08-05T13:00:00+00:00</published>
-    <updated>2026-08-05T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.805\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>为什么传奇的埃尔德什问题正被人工智能攻克</title>
-    <link href="https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803"/>
-    <id>56e15aefca70992e2cfa7ec6b0534a40</id>
-    <published>2026-08-05T11:49:34+00:00</published>
-    <updated>2026-08-05T11:49:34+00:00</updated>
-    <summary type="text">Score: 0.854\nSources: 5 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon</title>
-    <link href="https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon"/>
-    <id>d0c10c4198318ac04379adb12fd19b3c</id>
-    <published>2026-08-05T10:31:42+00:00</published>
-    <updated>2026-08-05T10:31:42+00:00</updated>
-    <summary type="text">Score: 0.752\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证</title>
-    <link href="https://www.ithome.com/0/986/180.htm"/>
-    <id>09bb09cc27c4a0f13619ac6e511b3dc4</id>
-    <published>2026-08-05T10:18:17+00:00</published>
-    <updated>2026-08-05T10:18:17+00:00</updated>
-    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google Assistant 下月起逐步退场，&quot;Hey Google&quot;将由谷歌 Gemini 接棒</title>
-    <link href="https://www.ithome.com/0/986/174.htm"/>
-    <id>a26e78f327ca00a3afcd886f7387242b</id>
-    <published>2026-08-05T10:12:57+00:00</published>
-    <updated>2026-08-05T10:12:57+00:00</updated>
-    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA</title>
-    <link href="https://www.aibase.com/news/30132"/>
-    <id>1bb45cfd9993a854324dbd3a517697b5</id>
-    <published>2026-08-05T09:49:30.138942+00:00</published>
-    <updated>2026-08-05T09:49:30.138942+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道</title>
-    <link href="https://www.aibase.com/news/30134"/>
-    <id>b59db3187807c8cd4677caa83f4c319b</id>
-    <published>2026-08-05T09:49:30.138942+00:00</published>
-    <updated>2026-08-05T09:49:30.138942+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1</title>
-    <link href="https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving"/>
-    <id>8139d11d1eed7d2c16dce8cfb1cfa1f5</id>
-    <published>2026-08-05T08:25:11+00:00</published>
-    <updated>2026-08-05T08:25:11+00:00</updated>
-    <summary type="text">Score: 0.784\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&amp;mid=2247509161&amp;idx=1&amp;sn=bd9aa077bbc46a6049ad66af6d15af0f"/>
-    <id>ed18b569f3bf0e09f737f2dad2406de4</id>
-    <published>2026-08-05T06:46:00+00:00</published>
-    <updated>2026-08-05T06:46:00+00:00</updated>
-    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647684946&amp;idx=1&amp;sn=ae7edcc572b998dc4e1ac3591977aa85"/>
-    <id>794bbbc29e90eae9fe369e464039a5cb</id>
-    <published>2026-08-05T01:35:42+00:00</published>
-    <updated>2026-08-05T01:35:42+00:00</updated>
-    <summary type="text">Score: 0.736\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Codex CLI 0.146.1</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>642ae7910888d2943c563b24d8d1ddce</id>
-    <published>2026-08-05T00:00:00+00:00</published>
-    <updated>2026-08-05T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app"/>
+    <id>5bab885b5940c5e3cc3b04961120a39b</id>
+    <published>2026-08-06T19:49:34+00:00</published>
+    <updated>2026-08-06T19:49:34+00:00</updated>
+    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -234,16 +22,232 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging</title>
-    <link href="https://simonwillison.net/2026/Aug/4/new-release-of-llm"/>
-    <id>12b9ff085578d2c6a3c2d827121f362b</id>
-    <published>2026-08-04T23:58:24+00:00</published>
-    <updated>2026-08-04T23:58:24+00:00</updated>
-    <summary type="text">Score: 0.767\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>科学家首次用AI制造新病毒 / superebola/acc 🚀🚀🚀</title>
+    <link href="https://x.com/AISafetyMemes/status/2085447739320758622"/>
+    <id>73003ca79d23fd16b2cb1f9285d1c5f0</id>
+    <published>2026-08-06T19:27:41+00:00</published>
+    <updated>2026-08-06T19:27:41+00:00</updated>
+    <summary type="text">Score: 0.767\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Kimi K3 现已上线 GitHub Copilot / Kimi K3 is now available in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot"/>
+    <id>2d2b981289892bdf9f3c087e7a1c6fa3</id>
+    <published>2026-08-06T17:27:25+00:00</published>
+    <updated>2026-08-06T17:27:25+00:00</updated>
+    <summary type="text">Score: 0.835\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more</title>
+    <link href="https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more"/>
+    <id>c064d9f7c5be3613aa2283eef12f25cc</id>
+    <published>2026-08-06T16:53:12.298000+00:00</published>
+    <updated>2026-08-06T16:53:12.298000+00:00</updated>
+    <summary type="text">Score: 0.807\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case</title>
+    <link href="https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case"/>
+    <id>1dc02e21dd0517674d3fece6445c293e</id>
+    <published>2026-08-06T15:10:32+00:00</published>
+    <updated>2026-08-06T15:10:32+00:00</updated>
+    <summary type="text">Score: 0.764\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>WeatherNext：AI模型实现气旋预测突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones</title>
+    <link href="https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones"/>
+    <id>bf55de18c30bf30a2e2043d37081df73</id>
+    <published>2026-08-06T15:06:15+00:00</published>
+    <updated>2026-08-06T15:06:15+00:00</updated>
+    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…</title>
+    <link href="https://x.com/rohanpaul_ai/status/2085368375816163423"/>
+    <id>da77adef6ac6bdf1489327ac009f8d5f</id>
+    <published>2026-08-06T14:12:19+00:00</published>
+    <updated>2026-08-06T14:12:19+00:00</updated>
+    <summary type="text">Score: 0.758\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup</title>
+    <link href="https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind"/>
+    <id>e15af708d9dda46b886ec6ea7f3f0ddb</id>
+    <published>2026-08-06T13:26:42+00:00</published>
+    <updated>2026-08-06T13:26:42+00:00</updated>
+    <summary type="text">Score: 0.776\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>AI 聊天机器人催生&quot;螺旋主义&quot;神秘准宗教运动，人类纷纷追随 / AI bots started a religion - humans immediately followed</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement"/>
+    <id>6fb040de142e67980bebd291266959ed</id>
+    <published>2026-08-06T13:00:00+00:00</published>
+    <updated>2026-08-06T13:00:00+00:00</updated>
+    <summary type="text">Score: 0.769\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI</title>
+    <link href="https://blogs.nvidia.com/blog/open-world-models-physical-ai"/>
+    <id>ca64bc06dab507eca6da450922c1550d</id>
+    <published>2026-08-06T13:00:00+00:00</published>
+    <updated>2026-08-06T13:00:00+00:00</updated>
+    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence</title>
+    <link href="https://www.ithome.com/0/986/729.htm"/>
+    <id>45595cca9c7644ff111fa25b50e33756</id>
+    <published>2026-08-06T12:49:13+00:00</published>
+    <updated>2026-08-06T12:49:13+00:00</updated>
+    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均</title>
+    <link href="https://www.ithome.com/0/986/699.htm"/>
+    <id>3a2376e73b91e33985bb1eb3f3c7a6f6</id>
+    <published>2026-08-06T11:21:53+00:00</published>
+    <updated>2026-08-06T11:21:53+00:00</updated>
+    <summary type="text">Score: 0.734\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users</title>
+    <link href="https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"/>
+    <id>d21c2d5529d24496d2a6e6fedeba01f4</id>
+    <published>2026-08-06T10:00:00+00:00</published>
+    <updated>2026-08-06T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.901\nSources: 4 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击</title>
+    <link href="https://www.aibase.com/news/30164"/>
+    <id>760b9c4ee1b17fc5bff371838670fb4c</id>
+    <published>2026-08-06T09:58:34.577351+00:00</published>
+    <updated>2026-08-06T09:58:34.577351+00:00</updated>
+    <summary type="text">Score: 0.734\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议</title>
+    <link href="https://www.aibase.com/news/30168"/>
+    <id>0ca8c5afd54eada6ce3ced528236f600</id>
+    <published>2026-08-06T09:58:34.577351+00:00</published>
+    <updated>2026-08-06T09:58:34.577351+00:00</updated>
+    <summary type="text">Score: 0.734\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）</title>
+    <link href="https://arxiv.org/abs/2510.01395"/>
+    <id>bfdb21f496ab2189235351d24cd875b3</id>
+    <published>2026-08-06T07:03:41.634000+00:00</published>
+    <updated>2026-08-06T07:03:41.634000+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Qwen-Image-3.0 发布：高分辨率低至 0.03 美元 / Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…</title>
+    <link href="https://x.com/alibaba_cloud/status/2085247637734002848"/>
+    <id>5eb0caf2076f39b0d7ab8c817de8d2df</id>
+    <published>2026-08-06T06:12:33+00:00</published>
+    <updated>2026-08-06T06:12:33+00:00</updated>
+    <summary type="text">Score: 0.802\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>与美国心理学会合作，聚焦青少年心理健康与AI / Working with the American Psychological Association on youth mental health and AI</title>
+    <link href="https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"/>
+    <id>abd1ca43cf3173cb51feaf92ebb9175a</id>
+    <published>2026-08-06T06:00:00+00:00</published>
+    <updated>2026-08-06T06:00:00+00:00</updated>
+    <summary type="text">Score: 0.810\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647684990&amp;idx=1&amp;sn=86a6d71b133589916b49a9d57046c127"/>
+    <id>26a75cccb64ead5e88d02633b83f725b</id>
+    <published>2026-08-06T01:15:29+00:00</published>
+    <updated>2026-08-06T01:15:29+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses</title>
+    <link href="https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability"/>
+    <id>b3a7b01e8f9fdd687b1fdde41d4d0ac8</id>
+    <published>2026-08-06T00:37:42+00:00</published>
+    <updated>2026-08-06T00:37:42+00:00</updated>
+    <summary type="text">Score: 0.735\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
 </feed>

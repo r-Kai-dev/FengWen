@@ -4,10 +4,18 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/news"/>
   <id>https://allenai.org/news</id>
-  <updated>2026-07-01T00:00:00+00:00</updated>
+  <updated>2026-08-01T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>Ai2 expands collaboration with Hugging Face to accelerate open science</title>
+    <link href="https://allenai.org/blog/hugging-face-partnership"/>
+    <id>356630363f9a0dee2a2e83731b5e4415</id>
+    <published>2026-08-01T00:00:00+00:00</published>
+    <updated>2026-08-01T00:00:00+00:00</updated>
+    <summary type="text">Ai2 is expanding its partnership with Hugging Face to give its growing portfolio of fully open models, datasets,â¦</summary>
+  </entry>
   <entry>
     <title>Who gets to understand AI? </title>
     <link href="https://allenai.org/blog/who-gets-to-understand-ai"/>
@@ -18,11 +26,11 @@
   </entry>
   <entry>
     <title>MolmoMotion: Language-guided 3D motion forecasting</title>
-    <link href="https://allenai.org/blog/peter-clark-qa"/>
-    <id>49c12dad9ba13892383bcc4227f41ed2</id>
+    <link href="https://allenai.org/blog/molmoact2"/>
+    <id>d9e151d86ff4b6f85aaa22130db212d9</id>
     <published>2026-06-01T00:00:00+00:00</published>
     <updated>2026-06-01T00:00:00+00:00</updated>
-    <summary type="text">Interim CEO Peter Clark shares his thoughts on this moment for Ai2, our commitment to open science, and where theâ¦</summary>
+    <summary type="text">MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning toâ¦</summary>
   </entry>
   <entry>
     <title>MolmoAct 2: An open foundation for robots that work in the real world</title>
@@ -50,19 +58,11 @@
   </entry>
   <entry>
     <title>Why Artificial Analysis uses Ai2's IFBench instruction-following eval</title>
-    <link href="https://allenai.org/blog/molmo-learns-to-point-and-act"/>
-    <id>602bf2e8f03ba0602ff61e8d0662ea12</id>
+    <link href="https://allenai.org/blog/peter-clark-qa"/>
+    <id>49c12dad9ba13892383bcc4227f41ed2</id>
     <published>2026-05-01T00:00:00+00:00</published>
     <updated>2026-05-01T00:00:00+00:00</updated>
-    <summary type="text">MolmoPoint and MolmoWeb extend the Molmo family from visual understanding to visual action, giving researchersâ¦</summary>
-  </entry>
-  <entry>
-    <title>A decade of real-time intelligence for the planet</title>
-    <link href="https://allenai.org/blog/molmoact2"/>
-    <id>d9e151d86ff4b6f85aaa22130db212d9</id>
-    <published>2026-04-01T00:00:00+00:00</published>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <summary type="text">MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning toâ¦</summary>
+    <summary type="text">Interim CEO Peter Clark shares his thoughts on this moment for Ai2, our commitment to open science, and where theâ¦</summary>
   </entry>
   <entry>
     <title>Molmo learns to point and act</title>

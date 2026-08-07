@@ -4,7 +4,7 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-08-05T22:07:33.455729+00:00</updated>
+  <updated>2026-08-07T01:00:42.648720+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
@@ -12,10 +12,19 @@
     <title>Jul. 14, 2026</title>
     <link href="https://epoch.ai/publications/chips-topic-overview"/>
     <id>bdb7b7160e38783eefc8ca833fcef3c8</id>
-    <published>2026-08-05T22:07:33.455729+00:00</published>
-    <updated>2026-08-05T22:07:33.455729+00:00</updated>
+    <published>2026-08-07T01:00:42.648720+00:00</published>
+    <updated>2026-08-07T01:00:42.648720+00:00</updated>
     <summary type="text">A look at the specialized hardware driving modern AI — why chips cost tens of thousands of dollars each, and why demand continues to outstrip supply.</summary>
     <category term="Topic Overview"/>
+  </entry>
+  <entry>
+    <title>AI at work: how AI is changing everyday job tasks</title>
+    <link href="https://epoch.ai/publications/one-in-five-workers-delegate-work-to-ai"/>
+    <id>eeb3fbeed4b84e36a93d4727455fd930</id>
+    <published>2026-08-06T00:00:00+00:00</published>
+    <updated>2026-08-06T00:00:00+00:00</updated>
+    <summary type="text">One in five US workers say AI now does work they once handed to a coworker or contractor, per a new Epoch AI/Ipsos survey of 1,106 employed adults.</summary>
+    <category term="Report"/>
   </entry>
   <entry>
     <title>Disclosed CVEs: July Reached 5× the Pre-Mythos Record</title>
@@ -87,15 +96,6 @@
     <published>2026-07-02T00:00:00+00:00</published>
     <updated>2026-07-02T00:00:00+00:00</updated>
     <summary type="text">Notable organizations disclosed ~1,300 high- and critical-severity CVEs in June 2026, roughly 3.5× the pre-Mythos monthly record. Epoch AI's breakdown of vulnerability disclosures following Anthropic's Project Glasswing.</summary>
-    <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>GPT-4 led in ECI far longer than any other model</title>
-    <link href="https://epoch.ai/data-insights/gpt-4-longest-eci-lead"/>
-    <id>50929694b0255b1fff1e128a3454b688</id>
-    <published>2026-07-02T00:00:00+00:00</published>
-    <updated>2026-07-02T00:00:00+00:00</updated>
-    <summary type="text">GPT-4 topped Epoch's Capabilities Index (ECI) for roughly a year after its March 2023 release — no model since has led for as long. The second-longest reign, by o1, lasted barely three months.</summary>
     <category term="Data Insight"/>
   </entry>
 </feed>

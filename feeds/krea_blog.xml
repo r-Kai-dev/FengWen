@@ -6,8 +6,19 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-08-05T15:00:00.000Z</updated>
+  <updated>2026-08-06T00:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>Success story: Rebuilding the fashion workflow</title>
+    <link href="https://www.krea.ai/blog/rebuilding-the-fashion-workflow"/>
+    <id>https://www.krea.ai/blog/rebuilding-the-fashion-workflow</id>
+    <updated>2026-08-06T00:00:00.000Z</updated>
+    <published>2026-08-06T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="case-studies"/>
+    <summary>How Taskin Goec rebuilds fashion's most expensive steps with Krea.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/Frame%20109.png" type="image/webp"/>
+  </entry>
   <entry>
     <title>Train in cluster, infer anywhere</title>
     <link href="https://www.krea.ai/blog/train-in-cluster-infer-anywhere"/>
@@ -23,6 +34,30 @@
     <category term="inference"/>
     <summary>How Krea shares GPUs between research and production with a custom solution that lets inference scale anywhere when training claims every GPU.</summary>
     <link rel="enclosure" href="https://s.krea.ai/train-in-cluster-infer-anywhere/hero.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>10 Best MiniMax H3 Prompts for AI Film, Influencers, and Omni-Reference (2026)</title>
+    <link href="https://www.krea.ai/blog/10-best-minimax-h3-prompts-for-ai-film-influencers-and-omni-reference-2026"/>
+    <id>https://www.krea.ai/blog/10-best-minimax-h3-prompts-for-ai-film-influencers-and-omni-reference-2026</id>
+    <updated>2026-08-05T00:00:00.000Z</updated>
+    <published>2026-08-05T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="hailuo-3"/>
+    <summary>Discover 10 MiniMax H3 prompts for AI film, influencers, and omni-reference setups that keep timing, audio, and references coherent in 2026.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/thumbnail.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>MiniMax H3: What’s New, Benefits, and 6 Prompts to Try in 2026</title>
+    <link href="https://www.krea.ai/blog/minimax-h3-what-s-new-benefits-and-6-prompts-to-try-in-2026"/>
+    <id>https://www.krea.ai/blog/minimax-h3-what-s-new-benefits-and-6-prompts-to-try-in-2026</id>
+    <updated>2026-08-05T00:00:00.000Z</updated>
+    <published>2026-08-05T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="minimax-hailuo3"/>
+    <summary>MiniMax H3 delivers better control for short AI video. Explore new features, key benefits, and 6 prompts to try in 2026.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/minimax-h3-what-s-new-benefits-and-6-prompts-to-try-in-2026" type="image/webp"/>
   </entry>
   <entry>
     <title>From almost to Doodles</title>
@@ -553,38 +588,5 @@
     <category term="product"/>
     <summary>Turn Krea 2 stills into fluid animations with Seedance 2.0 — all inside a single Krea workflow.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/mood-boards-krea-2-v2/1778873199624-2-e0314215-b6e7-485d-b50f-9d1842bf3667.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Anime backgrounds with Krea 2</title>
-    <link href="https://www.krea.ai/blog/anime-backgrounds-with-krea-2"/>
-    <id>https://www.krea.ai/blog/anime-backgrounds-with-krea-2</id>
-    <updated>2026-05-24T00:00:00.000Z</updated>
-    <published>2026-05-24T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="use-cases"/>
-    <summary>Make anime-style scenic backgrounds with Krea 2 — Shinkai skies, school hallways, train platforms, isekai landscapes for indie creators.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/anime-backgrounds-with-krea-2/1779148644958-0-30c6c21e-a488-48d7-b9dd-2f5200366594.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Architectural styles with Krea 2</title>
-    <link href="https://www.krea.ai/blog/architectural-styles-with-krea-2"/>
-    <id>https://www.krea.ai/blog/architectural-styles-with-krea-2</id>
-    <updated>2026-05-23T00:00:00.000Z</updated>
-    <published>2026-05-23T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="use-cases"/>
-    <summary>Render any architectural style in Krea 2 — modernist, brutalist, Japandi, Mediterranean, mass timber, mid-century, postmodern.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/architectural-styles-with-krea-2/1779150033504-0-992a5414-c833-4eba-ad42-13579c607531.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Character design with Krea 2</title>
-    <link href="https://www.krea.ai/blog/character-design-with-krea-2"/>
-    <id>https://www.krea.ai/blog/character-design-with-krea-2</id>
-    <updated>2026-05-23T00:00:00.000Z</updated>
-    <published>2026-05-23T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="use-cases"/>
-    <summary>Character design is the foundation of every anime project. Krea 2 is built for this kind of pipeline work.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/character-design-with-krea-2/1779149286567-0-8384eed6-59c0-47ea-86a6-563fb4951304.png" type="image/webp"/>
   </entry>
 </feed>
