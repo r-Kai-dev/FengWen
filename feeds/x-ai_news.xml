@@ -4,17 +4,24 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-07-31T00:00:00+00:00</updated>
+  <updated>2026-08-07T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Imagine Image 2.0</title>
+    <link href="https://x.ai/news/grok-imagine-image-2"/>
+    <id>8a72a2d18bb2c7ae4f7a38e49a84a438</id>
+    <published>2026-08-07T00:00:00+00:00</published>
+    <updated>2026-08-07T00:00:00+00:00</updated>
+    <summary type="text">Precise image generation and editing, built for real creative work.</summary>
+  </entry>
   <entry>
     <title>Imagine Video 1.5 with References</title>
     <link href="https://x.ai/news/grok-imagine-video-1-5-references"/>
     <id>5c8a1a55d768a6eeaf475bdfd2efb47f</id>
     <published>2026-07-31T00:00:00+00:00</published>
     <updated>2026-07-31T00:00:00+00:00</updated>
-    <summary type="text">Our best video model, now with text, image, and voice references — generating up to 1080p.</summary>
   </entry>
   <entry>
     <title>Introducing Grok Voice Think Fast 2.0</title>
@@ -43,6 +50,7 @@
     <id>16604a778459bc050b1b2055984940e1</id>
     <published>2026-07-24T00:00:00+00:00</published>
     <updated>2026-07-24T00:00:00+00:00</updated>
+    <summary type="text">Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.</summary>
   </entry>
   <entry>
     <title>Workflows in Grok Build</title>

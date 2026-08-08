@@ -4,10 +4,30 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-07T19:55:17+00:00</updated>
+  <updated>2026-08-07T23:57:58+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Ant Group's Ling 3.0 Flash Beats a 1T Model With 5B Active Parameters</title>
+    <link href="https://artificialanalysis.ai/models/ling-3-0-flash"/>
+    <id>932c5e0738221acb85005a005d4b1ad2</id>
+    <published>2026-08-07T23:57:58+00:00</published>
+    <updated>2026-08-07T23:57:58+00:00</updated>
+    <summary type="text">Ant Group's Ling 3.0 Flash packs 124B parameters with only 5B active at inference, beating its own 1T flagship on most benchmarks at a fraction of the compute cost.</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Managed Agents Gets Budget Caps, Geo-Pinning and Smarter Advisor Models</title>
+    <link href="https://x.com/claudedevs/status/2085853169930957158"/>
+    <id>1757ccadfae45aeac4226affe26beec2</id>
+    <published>2026-08-07T22:18:43+00:00</published>
+    <updated>2026-08-07T22:18:43+00:00</updated>
+    <summary type="text">Anthropic ships four Managed Agents upgrades: spend budgets, inference geo-pinning, repo-loaded skills, and mid-session advisor models</summary>
+    <category term="agents"/>
+    <category term="api"/>
+  </entry>
   <entry>
     <title>Anthropic's Claude Code Lets AI Sessions Talk Directly Without Human Middlemen</title>
     <link href="https://code.claude.com/docs/en/cross-session-messaging"/>
@@ -59,6 +79,16 @@
     <category term="image"/>
   </entry>
   <entry>
+    <title>Vercel's v0 Ships a Dashboard So Teams Stop Burning Credits Blindly</title>
+    <link href="https://x.com/v0/status/2085737461058248804"/>
+    <id>248987ae576cf515a5b008d647fbcd83</id>
+    <published>2026-08-07T14:38:56+00:00</published>
+    <updated>2026-08-07T14:38:56+00:00</updated>
+    <summary type="text">v0's new Usage &amp; Activity Dashboard lets teams track credit spend per member, project, and model in one place</summary>
+    <category term="vibe_coding"/>
+    <category term="api"/>
+  </entry>
+  <entry>
     <title>Suno Brings Voice Cloning to Mobile So Anyone Can Sing Their Own Songs</title>
     <link href="https://x.com/suno/status/2085731234970227145"/>
     <id>5247edeb46627f596bdf1bb421703ba7</id>
@@ -97,35 +127,5 @@
     <summary type="text">Anthropic retrained Fable 5's biology classifier, cutting biology-related fallbacks by 85% while keeping dual-use research locked behind trusted access pathways.</summary>
     <category term="llms"/>
     <category term="security"/>
-  </entry>
-  <entry>
-    <title>OpenAI's Codex Security Review Catches 74% of Real Bugs Semgrep Misses</title>
-    <link href="https://learn.chatgpt.com/docs/security/security-review"/>
-    <id>0e65325a654b06a0fde1bc50070b98d6</id>
-    <published>2026-08-06T21:45:03+00:00</published>
-    <updated>2026-08-06T21:45:03+00:00</updated>
-    <summary type="text">Codex Security Review now automatically scans GitHub PRs for vulnerabilities using full repo context, threat models, and sandbox validation â free during preview.</summary>
-    <category term="development"/>
-    <category term="security"/>
-  </entry>
-  <entry>
-    <title>Google's Gemini 3.6 Flash Hits 91.2% on the World's Hardest Reasoning Test</title>
-    <link href="https://arcprize.org/results/gemini-3-5-flash-lite"/>
-    <id>adc5d179434614815bb6fa2c49053cec</id>
-    <published>2026-08-06T20:55:14+00:00</published>
-    <updated>2026-08-06T20:55:14+00:00</updated>
-    <summary type="text">Google's Gemini 3.6 Flash hits 60.4% on ARC-AGI-2 at just $0.61 per task, while Flash-Lite offers a budget-friendly 10.3% at $0.14</summary>
-    <category term="benchmarks"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Epoch Hides a Game's Identity to Stop AI Labs From Cheating Benchmarks</title>
-    <link href="https://epoch.ai/benchmarks/mystery-game-puzzles"/>
-    <id>336afb0ab6a3bdaa1203be90a01ec70f</id>
-    <published>2026-08-06T20:31:58+00:00</published>
-    <updated>2026-08-06T20:31:58+00:00</updated>
-    <summary type="text">Epoch AI's new Mystery Game Puzzles benchmark hides its game identity to stop models from gaming the test -- Opus 5 leads at 59%</summary>
-    <category term="benchmarks"/>
-    <category term="reasoning"/>
   </entry>
 </feed>
