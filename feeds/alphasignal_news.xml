@@ -4,10 +4,20 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-07T23:57:58+00:00</updated>
+  <updated>2026-08-08T16:47:07+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>UCLA Finds AI Reward Hack Monitors Collapse to 28% on Real Cheating</title>
+    <link href="https://lichenlillc.github.io/RewardHackingMonitor/"/>
+    <id>7b146de38773c7325531fd6483445dca</id>
+    <published>2026-08-08T16:47:07+00:00</published>
+    <updated>2026-08-08T16:47:07+00:00</updated>
+    <summary type="text">A new framework exposes a critical blind spot in reward-hacking monitors: the synthetic data used to train them doesn't reflect how models actually cheat during RL.</summary>
+    <category term="post_training"/>
+    <category term="security"/>
+  </entry>
   <entry>
     <title>Ant Group's Ling 3.0 Flash Beats a 1T Model With 5B Active Parameters</title>
     <link href="https://artificialanalysis.ai/models/ling-3-0-flash"/>
@@ -77,16 +87,6 @@
     <summary type="text">Artificial Analysis rebuilds its image arena around 10 real-world use cases and 9 model capabilities, revealing where GPT Image 2's dominance ends and cheaper models take over</summary>
     <category term="benchmarks"/>
     <category term="image"/>
-  </entry>
-  <entry>
-    <title>Vercel's v0 Ships a Dashboard So Teams Stop Burning Credits Blindly</title>
-    <link href="https://x.com/v0/status/2085737461058248804"/>
-    <id>248987ae576cf515a5b008d647fbcd83</id>
-    <published>2026-08-07T14:38:56+00:00</published>
-    <updated>2026-08-07T14:38:56+00:00</updated>
-    <summary type="text">v0's new Usage &amp; Activity Dashboard lets teams track credit spend per member, project, and model in one place</summary>
-    <category term="vibe_coding"/>
-    <category term="api"/>
   </entry>
   <entry>
     <title>Suno Brings Voice Cloning to Mobile So Anyone Can Sing Their Own Songs</title>
