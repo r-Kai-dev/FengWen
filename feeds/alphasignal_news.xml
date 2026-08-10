@@ -4,10 +4,70 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-08T16:47:07+00:00</updated>
+  <updated>2026-08-10T17:32:51+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Higgsfield Made a $2M AI Film With Licensed Celebrity Likenesses</title>
+    <link href="https://higgsfield.ai/@higgsfield.studio/projects/cully-hill-boys"/>
+    <id>d24e4b10a47422b0c83298e0a40cb044</id>
+    <published>2026-08-10T17:32:51+00:00</published>
+    <updated>2026-08-10T17:32:51+00:00</updated>
+    <summary type="text">Higgsfield's 110-minute AI feature film, made for $2M with licensed celebrity likenesses, is now fully open-sourced â prompts, assets, and all.</summary>
+    <category term="video"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Pushes a 160-Year-Old Math Boundary From 41.6% to 67.2%</title>
+    <link href="https://www.anthropic.com/research/riemann-zeta"/>
+    <id>f1a05dd1b0bb14e20300c80f5e4ff931</id>
+    <published>2026-08-10T17:28:18+00:00</published>
+    <updated>2026-08-10T17:28:18+00:00</updated>
+    <summary type="text">An unreleased Claude research model pushed a 40-year-old mathematical lower bound from 41.6% to 67.2%, using a multi-agent swarm running inside Claude Code</summary>
+    <category term="reasoning"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>OpenAI's GPT-5.6-Cyber Completes 95% of Exploit Requests to Arm Defenders</title>
+    <link href="https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/"/>
+    <id>6b7d207d8c0d25c4aa884e319150266d</id>
+    <published>2026-08-10T17:16:51+00:00</published>
+    <updated>2026-08-10T17:16:51+00:00</updated>
+    <summary type="text">OpenAI launches GPT-5.6-Cyber and a two-tier Daybreak program, giving vetted defenders a model that answers 95% of advanced exploit requests â up from 1.5% for the standard model.</summary>
+    <category term="government"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>Sarvam AI Cuts Transcription Errors 20% for India's Wealth Manager Dezerv</title>
+    <link href="https://www.sarvam.ai/stories/dezerv"/>
+    <id>11869555a99726b25ff288beb4d62fe2</id>
+    <published>2026-08-10T13:39:35+00:00</published>
+    <updated>2026-08-10T13:39:35+00:00</updated>
+    <summary type="text">Dezerv built a post-call analytics system on Sarvam's Speech to Text API, cutting transcription error rates by 20% across 3.6 lakh minutes of client calls monthly.</summary>
+    <category term="audio"/>
+    <category term="retrieval"/>
+  </entry>
+  <entry>
+    <title>Lovable Gives Every App a Trust Center to Win Enterprise Deals</title>
+    <link href="https://lovable.dev/blog/trust-centers-for-business"/>
+    <id>b2bb7ec40350e6310d13159ea112e989</id>
+    <published>2026-08-10T12:54:36+00:00</published>
+    <updated>2026-08-10T12:54:36+00:00</updated>
+    <summary type="text">Lovable gives every published app an auto-generated, always-current security page â removing the biggest friction point in B2B sales for vibe-coded software</summary>
+    <category term="vibe_coding"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>Meta Drops Muse Glimmer, a 30B Open Agent That Runs Offline</title>
+    <link href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"/>
+    <id>f818b251396240c7c61d380d1d32681d</id>
+    <published>2026-08-10T10:13:34+00:00</published>
+    <updated>2026-08-10T10:13:34+00:00</updated>
+    <summary type="text">Meta open-sources Muse Glimmer, a 30B agentic model distilled from Muse Spark 1.2 that runs on a single consumer GPU under Apache 2.0</summary>
+    <category term="agents"/>
+    <category term="open_source"/>
+  </entry>
   <entry>
     <title>UCLA Finds AI Reward Hack Monitors Collapse to 28% on Real Cheating</title>
     <link href="https://lichenlillc.github.io/RewardHackingMonitor/"/>
@@ -47,85 +107,5 @@
     <summary type="text">Claude Code v2.1.224 lets independent sessions talk to each other directly, eliminating the need to manually relay context between terminals</summary>
     <category term="development"/>
     <category term="api"/>
-  </entry>
-  <entry>
-    <title>OpenAI's Astra Becomes First AI Flagged as Critically Dangerous Before Release</title>
-    <link href="https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"/>
-    <id>a96eb2013fd45dbe5ab8ac9a534d159f</id>
-    <published>2026-08-07T18:52:48+00:00</published>
-    <updated>2026-08-07T18:52:48+00:00</updated>
-    <summary type="text">OpenAI's upcoming Astra model has crossed a new internal safety threshold for cybersecurity, triggering mandatory development controls and a new era for AI safety governance.</summary>
-    <category term="security"/>
-    <category term="government"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Code Auto Mode Catches Dangerous Commands 89% of the Time</title>
-    <link href="https://claude.com/blog/auto-mode-default-in-claude-code"/>
-    <id>e778a47b4f3584dbdf9d635f4d1a23ce</id>
-    <published>2026-08-07T18:27:02+00:00</published>
-    <updated>2026-08-07T18:27:02+00:00</updated>
-    <summary type="text">Anthropic's auto mode beats human review on every safety metric, and becomes the default in Claude Code on August 14 for Pro, Max, and Team plans</summary>
-    <category term="development"/>
-    <category term="security"/>
-  </entry>
-  <entry>
-    <title>Prime Intellect Ships Multi-Agent RL Training Into Its Open-Source Stack</title>
-    <link href="https://www.primeintellect.ai/blog/multi-agent-systems"/>
-    <id>25f51b9496c9c62946f31b7b67e00bab</id>
-    <published>2026-08-07T17:42:31+00:00</published>
-    <updated>2026-08-07T17:42:31+00:00</updated>
-    <summary type="text">Prime Intellect's verifiers 0.3.0 and prime-rl 0.8.0 let you define, run, and train multi-agent RL environments with composable Agent and Env abstractions</summary>
-    <category term="agents"/>
-    <category term="post_training"/>
-  </entry>
-  <entry>
-    <title>Artificial Analysis Rebuilds Its Image Arena to Rank Models by Real Work</title>
-    <link href="https://artificialanalysis.ai/image/methodology#text-to-image"/>
-    <id>901c36e78dac0f497d02c51fc6f0fc8e</id>
-    <published>2026-08-07T17:04:46+00:00</published>
-    <updated>2026-08-07T17:04:46+00:00</updated>
-    <summary type="text">Artificial Analysis rebuilds its image arena around 10 real-world use cases and 9 model capabilities, revealing where GPT Image 2's dominance ends and cheaper models take over</summary>
-    <category term="benchmarks"/>
-    <category term="image"/>
-  </entry>
-  <entry>
-    <title>Suno Brings Voice Cloning to Mobile So Anyone Can Sing Their Own Songs</title>
-    <link href="https://x.com/suno/status/2085731234970227145"/>
-    <id>5247edeb46627f596bdf1bb421703ba7</id>
-    <published>2026-08-07T14:14:12+00:00</published>
-    <updated>2026-08-07T14:14:12+00:00</updated>
-    <summary type="text">Suno's Voices feature, which lets you sing on AI-generated tracks using your own cloned voice, is now available natively on iOS and Android</summary>
-    <category term="audio"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>MiniMax Rebuilds Code 2.0 on Pi Agent, Slashing Latency by 90%</title>
-    <link href="https://agent.minimax.io/download"/>
-    <id>cf9739f6198c23b35c947c9ec966e54f</id>
-    <published>2026-08-07T10:49:29+00:00</published>
-    <updated>2026-08-07T10:49:29+00:00</updated>
-    <summary type="text">MiniMax Code 2.0 launches with a rebuilt Pi Agent core, phone remote control, integrated browser, dual modes, and bring-your-own-key support</summary>
-    <category term="development"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Krea Adds Seedance 2.5, Generating 30-Second 4K Videos in a Single Pass</title>
-    <link href="https://www.krea.ai/video/seedance-2-5"/>
-    <id>e9668784fcff5e280425276a05399e9d</id>
-    <published>2026-08-07T07:30:06+00:00</published>
-    <updated>2026-08-07T07:30:06+00:00</updated>
-    <summary type="text">Krea adds ByteDance's Seedance 2.5 to its multi-model video platform, bringing 30-second single-take generation and 50 reference inputs to its creative workspace.</summary>
-    <category term="video"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Anthropic Cuts Fable 5 Biology Blocks by 85% After Massive Overreach</title>
-    <link href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"/>
-    <id>d033e3c32cbfcffa9b85ae3bd43c7611</id>
-    <published>2026-08-07T03:08:54+00:00</published>
-    <updated>2026-08-07T03:08:54+00:00</updated>
-    <summary type="text">Anthropic retrained Fable 5's biology classifier, cutting biology-related fallbacks by 85% while keeping dual-use research locked behind trusted access pathways.</summary>
-    <category term="llms"/>
-    <category term="security"/>
   </entry>
 </feed>

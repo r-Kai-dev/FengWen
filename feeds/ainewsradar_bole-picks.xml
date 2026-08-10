@@ -4,39 +4,193 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-09T19:20:32+00:00</updated>
+  <updated>2026-08-10T19:30:00+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Anthropic 将默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code’s auto mode on by default</title>
-    <link href="https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default"/>
-    <id>5d818bae92db0cb6ae4b76ec49617c4a</id>
-    <published>2026-08-09T19:20:32+00:00</published>
-    <updated>2026-08-09T19:20:32+00:00</updated>
-    <summary type="text">Score: 0.670\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
+    <title>使用 GitHub Copilot SDK 进行 Java 开发 / Using the GitHub Copilot SDK for Java</title>
+    <link href="https://github.blog/engineering/using-the-github-copilot-sdk-for-java"/>
+    <id>ce53f32bba45d1a1621957bc850a0014</id>
+    <published>2026-08-10T19:30:00+00:00</published>
+    <updated>2026-08-10T19:30:00+00:00</updated>
+    <summary type="text">Score: 0.848\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>构建AI原生财务职能教会我的事 / What building an AI-native finance function taught me</title>
+    <link href="https://openai.com/index/building-an-ai-native-finance-function"/>
+    <id>a6aee83c410e73a92cf20aa01f3b8d48</id>
+    <published>2026-08-10T17:00:00+00:00</published>
+    <updated>2026-08-10T17:00:00+00:00</updated>
+    <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS</title>
+    <link href="https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"/>
+    <id>7eaef8fd60e2e5896f1b022792e21a90</id>
+    <published>2026-08-10T16:25:36+00:00</published>
+    <updated>2026-08-10T16:25:36+00:00</updated>
+    <summary type="text">Score: 0.848\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…</title>
+    <link href="https://x.com/ClaudeDevs/status/2086844755770757531"/>
+    <id>3ab3d4725d18a053b6c36647888cf61c</id>
+    <published>2026-08-10T15:58:56+00:00</published>
+    <updated>2026-08-10T15:58:56+00:00</updated>
+    <summary type="text">Score: 0.794\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>用新的AI工具推动营销进化 / Evolve your marketing with new AI tools</title>
+    <link href="https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates"/>
+    <id>87219c30bffe172c74e837262c8231f0</id>
+    <published>2026-08-10T14:30:00+00:00</published>
+    <updated>2026-08-10T14:30:00+00:00</updated>
+    <summary type="text">Score: 0.828\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>网页版 Copilot 扩展对话控制 / Copilot on web expands conversation controls</title>
+    <link href="https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls"/>
+    <id>e27c24ab2082074d8fb50cfa5786a013</id>
+    <published>2026-08-10T14:27:04+00:00</published>
+    <updated>2026-08-10T14:27:04+00:00</updated>
+    <summary type="text">Score: 0.836\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GitHub 印度账单现支持自动定期付款 / GitHub billing in India now supports automatic recurring payments</title>
+    <link href="https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments"/>
+    <id>9a01a3c259cb302d4e33d2d1a87e50a1</id>
+    <published>2026-08-10T14:00:58+00:00</published>
+    <updated>2026-08-10T14:00:58+00:00</updated>
+    <summary type="text">Score: 0.827\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data</title>
+    <link href="https://www.a16z.news/p/can-agents-use-a-computer-yet-weve"/>
+    <id>83ddf5c2c81ed0e8077fd740f76e13f3</id>
+    <published>2026-08-10T14:00:46+00:00</published>
+    <updated>2026-08-10T14:00:46+00:00</updated>
+    <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI就德州负责任AI基础设施致函Abbott州长 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas</title>
+    <link href="https://openai.com/index/responsible-ai-infrastructure-texas"/>
+    <id>1c73c334d10e85ad3c26976212534387</id>
+    <published>2026-08-10T14:00:00+00:00</published>
+    <updated>2026-08-10T14:00:00+00:00</updated>
+    <summary type="text">Score: 0.910\nSources: 4 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
-    <category term="watch"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>我如何利用大型语言模型（LLM）学习复杂主题</title>
-    <link href="https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn"/>
-    <id>eedcd3b0de812c49baedda8b21712cbb</id>
-    <published>2026-08-09T19:16:49+00:00</published>
-    <updated>2026-08-09T19:16:49+00:00</updated>
-    <summary type="text">Score: 0.570\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>自定义线程订阅功能即将弃用 / Custom thread subscriptions are being deprecated</title>
+    <link href="https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated"/>
+    <id>95d206587f284689648821421a0b1c95</id>
+    <published>2026-08-10T12:45:49+00:00</published>
+    <updated>2026-08-10T12:45:49+00:00</updated>
+    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话</title>
+    <link href="https://bobdahacker.com/blog/tldv-hack"/>
+    <id>71d4d421c061aedbe5d1ade283b7a64c</id>
+    <published>2026-08-10T12:26:05+00:00</published>
+    <updated>2026-08-10T12:26:05+00:00</updated>
+    <summary type="text">Score: 0.825\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…</title>
-    <link href="https://x.com/bcherny/status/2086520950259118464"/>
-    <id>1ed6919ca5334543de8ed19d8e6eb6e2</id>
-    <published>2026-08-09T18:32:14+00:00</published>
-    <updated>2026-08-09T18:32:14+00:00</updated>
+    <title>Model ML 借助 GPT-5.6 Sol 更高效地完成金融工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol</title>
+    <link href="https://openai.com/index/model-ml"/>
+    <id>6a346bd7ee6d747e03dc9403169ce9f4</id>
+    <published>2026-08-10T12:00:00+00:00</published>
+    <updated>2026-08-10T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理 / Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team</title>
+    <link href="https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer"/>
+    <id>77bb1adf118c2c90afacc53f8eb7cbbf</id>
+    <published>2026-08-10T11:51:38.747000+00:00</published>
+    <updated>2026-08-10T11:51:38.747000+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号</title>
+    <link href="https://www.aibase.com/news/30224"/>
+    <id>65cda3e94bdd02723d81f36d3deb8e83</id>
+    <published>2026-08-10T10:36:36.049624+00:00</published>
+    <updated>2026-08-10T10:36:36.049624+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…</title>
+    <link href="https://x.com/alexandr_wang/status/2086756152034066792"/>
+    <id>0907abff6a4cfea99ef27d041ca5c5e0</id>
+    <published>2026-08-10T10:06:51+00:00</published>
+    <updated>2026-08-10T10:06:51+00:00</updated>
     <summary type="text">Score: 0.756\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
@@ -44,169 +198,68 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI 策略师：AI 实验室应与政府权力相抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power</title>
-    <link href="https://news.ycombinator.com/item?id=49232778"/>
-    <id>dd90b1bacac7f843db4df29d3b978ec2</id>
-    <published>2026-08-09T16:18:39+00:00</published>
-    <updated>2026-08-09T16:18:39+00:00</updated>
-    <summary type="text">Score: 0.540\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>让知识蒸馏便宜到可大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale</title>
+    <link href="https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"/>
+    <id>c2150bdf2eed232621926c8f4928cc73</id>
+    <published>2026-08-10T10:05:36+00:00</published>
+    <updated>2026-08-10T10:05:36+00:00</updated>
+    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属 / Human vs. AI – Diff-based line-level provenance for text under agentic editing</title>
-    <link href="https://news.ycombinator.com/item?id=49232300"/>
-    <id>b892564731a76734019d8e650781ce5c</id>
-    <published>2026-08-09T15:25:29+00:00</published>
-    <updated>2026-08-09T15:25:29+00:00</updated>
-    <summary type="text">Score: 0.538\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>网络防御窗口收窄，Daybreak 持续扩展 / Expanding Daybreak as the Cyber Defense Window Narrows</title>
+    <link href="https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"/>
+    <id>639b904f0c90fa9783118ca24d01732e</id>
+    <published>2026-08-10T10:00:00+00:00</published>
+    <updated>2026-08-10T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.826\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won</title>
-    <link href="https://news.ycombinator.com/item?id=49231838"/>
-    <id>b8be9fe9e7b4e796546dfdd7b792938c</id>
-    <published>2026-08-09T14:36:46+00:00</published>
-    <updated>2026-08-09T14:36:46+00:00</updated>
-    <summary type="text">Score: 0.535\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>Meta携Muse Glimmer回归：本地、智能体、多模态、开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source</title>
+    <link href="https://huggingface.co/blog/muse-glimmer"/>
+    <id>3be57d54d7a89f6dc9ff2d08745f30f9</id>
+    <published>2026-08-10T00:00:00+00:00</published>
+    <updated>2026-08-10T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.813\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>AI安全测试正成为安全风险 / The AI safety test is becoming a safety risk</title>
-    <link href="https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk"/>
-    <id>2d6d98e2c5693681844492e708e3c8b2</id>
-    <published>2026-08-09T14:30:00+00:00</published>
-    <updated>2026-08-09T14:30:00+00:00</updated>
-    <summary type="text">Score: 0.773\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>推出黎明蓝和黎明红 / Introducing Daybreak Blue and Daybreak Red</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>ac8ea040912b6802656b2fe613cace5e</id>
+    <published>2026-08-10T00:00:00+00:00</published>
+    <updated>2026-08-10T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling</title>
+    <link href="https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling"/>
+    <id>28e8cbce84a03acb5107ce64a611cead</id>
+    <published>2026-08-09T23:58:34+00:00</published>
+    <updated>2026-08-09T23:58:34+00:00</updated>
+    <summary type="text">Score: 0.754\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
-  </entry>
-  <entry>
-    <title>以色列初创公司被曝与针对OpenAI、Anthropic和Meta的恶意AI攻击有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta</title>
-    <link href="https://news.ycombinator.com/item?id=49231022"/>
-    <id>af201261273ee04f650fd8f863b3876b</id>
-    <published>2026-08-09T13:03:49+00:00</published>
-    <updated>2026-08-09T13:03:49+00:00</updated>
-    <summary type="text">Score: 0.528\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Amazon 绕过 Gilroy 社区投票建 AI 数据中心 / Amazon circumvents Gilroy community vote for AI data center</title>
-    <link href="https://news.ycombinator.com/item?id=49230954"/>
-    <id>304442b2411b65927f464236fe7cfd28</id>
-    <published>2026-08-09T12:52:10+00:00</published>
-    <updated>2026-08-09T12:52:10+00:00</updated>
-    <summary type="text">Score: 0.527\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>AI 代码烂得离谱 / AI Code Is Insane Trash</title>
-    <link href="https://www.youtube.com/watch?v=EwLW11Ucnps"/>
-    <id>44160c429262349efc59bc866b718616</id>
-    <published>2026-08-09T11:56:16+00:00</published>
-    <updated>2026-08-09T11:56:16+00:00</updated>
-    <summary type="text">Score: 0.587\nSources: 4 (TechURLs)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Show HN：DeepSeek-V4 潜在推理——将思考移入潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving &quot;thinking&quot; into latent space</title>
-    <link href="https://news.ycombinator.com/item?id=49230550"/>
-    <id>866b7eb718f9f59885c42da043891d16</id>
-    <published>2026-08-09T11:46:28+00:00</published>
-    <updated>2026-08-09T11:46:28+00:00</updated>
-    <summary type="text">Score: 0.527\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>软件巨头SAP因AI成本飙升暂停大部分差旅和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost</title>
-    <link href="https://news.ycombinator.com/item?id=49229412"/>
-    <id>5c9941835086d811b5c60a799ac50e45</id>
-    <published>2026-08-09T08:00:51+00:00</published>
-    <updated>2026-08-09T08:00:51+00:00</updated>
-    <summary type="text">Score: 0.546\nSources: 3 (NewsNow)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning</title>
-    <link href="https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning"/>
-    <id>9861a34c2e39b2900de33cc24f0ff893</id>
-    <published>2026-08-09T07:17:35+00:00</published>
-    <updated>2026-08-09T07:17:35+00:00</updated>
-    <summary type="text">Score: 0.730\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Seedance 2.5 上线一周新增六种创意玩法</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&amp;mid=2247509275&amp;idx=1&amp;sn=48cc15b0f9b22173ce93350da61f15dc"/>
-    <id>e196814d18bee3b264582c3028a116b8</id>
-    <published>2026-08-09T05:25:02+00:00</published>
-    <updated>2026-08-09T05:25:02+00:00</updated>
-    <summary type="text">Score: 0.732\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛</title>
-    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32"/>
-    <id>12f082cc958c97810922545f8d98214d</id>
-    <published>2026-08-09T03:30:30+00:00</published>
-    <updated>2026-08-09T03:30:30+00:00</updated>
-    <summary type="text">Score: 0.728\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战</title>
-    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31"/>
-    <id>e5af5fe5253923463a5a23bfb8f1debf</id>
-    <published>2026-08-09T03:24:44+00:00</published>
-    <updated>2026-08-09T03:24:44+00:00</updated>
-    <summary type="text">Score: 0.728\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>实时 MCP 拦截器：阻止 Agent 读取 .env 文件和执行危险命令 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents</title>
-    <link href="https://news.ycombinator.com/item?id=49228086"/>
-    <id>e807ea6e34091fd04a5e4638cdb25da9</id>
-    <published>2026-08-09T03:13:01+00:00</published>
-    <updated>2026-08-09T03:13:01+00:00</updated>
-    <summary type="text">Score: 0.510\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>ChatGPT开始屏蔽直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style</title>
-    <link href="https://news.ycombinator.com/item?id=49227718"/>
-    <id>93301d0844d7cacaca83f487a813a71a</id>
-    <published>2026-08-09T02:01:38+00:00</published>
-    <updated>2026-08-09T02:01:38+00:00</updated>
-    <summary type="text">Score: 0.508\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
   </entry>
 </feed>

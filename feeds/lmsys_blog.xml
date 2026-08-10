@@ -4,10 +4,20 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-08-07T00:00:00+00:00</updated>
+  <updated>2026-08-10T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>SGLang Adds Day-0 Support for Muse Glimmer, a Multimodal Model Built for Local Agentic Workflows</title>
+    <link href="https://lmsys.org/blog/2026-08-10-meta-muse-glimmer"/>
+    <id>85fae495f99d20b70305ee9b83aaf7af</id>
+    <published>2026-08-10T00:00:00+00:00</published>
+    <updated>2026-08-10T00:00:00+00:00</updated>
+    <summary type="text">We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang, with dedicated optimizations tailored for high-performance inference of agentic workflows o...</summary>
+    <category term="sglang"/>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>HPC-Ops Ã SGLang: High-Performance Attention, Router GEMM, and MoE Kernels from Tencent Hunyuan</title>
     <link href="https://lmsys.org/blog/2026-08-07-hpc-ops-sglang"/>
