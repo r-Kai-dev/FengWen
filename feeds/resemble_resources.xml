@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-08-10T00:00:00+00:00</updated>
+  <updated>2026-08-11T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>A Deep Dive Into Air-Gapped Deepfake Detection</title>
+    <link href="https://www.resemble.ai/resources/air-gapped-deepfake-detection-importance"/>
+    <id>65b845360136b5ea2b4e5d2b62198a38</id>
+    <published>2026-08-11T00:00:00+00:00</published>
+    <updated>2026-08-11T00:00:00+00:00</updated>
+    <summary type="text">Learn how air-gapped deepfake detection works, what compliance requires, and how to build an offline detection workflow that holds up under audit.</summary>
+    <category term="Case study"/>
+  </entry>
   <entry>
     <title>Explainable AI in Deepfake Detection Techniques</title>
     <link href="https://www.resemble.ai/resources/explainable-ai-in-deepfake-detection-techniques"/>

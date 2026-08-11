@@ -4,10 +4,110 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-10T17:32:51+00:00</updated>
+  <updated>2026-08-11T18:28:15+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Microsoft's MAI-Code-1.1-Flash Hits GitHub Copilot at 73% Lower Cost</title>
+    <link href="https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot/"/>
+    <id>4a5ec3611c88cf46e6c3912a24dabc2f</id>
+    <published>2026-08-11T18:28:15+00:00</published>
+    <updated>2026-08-11T18:28:15+00:00</updated>
+    <summary type="text">MAI-Code-1.1-Flash lands in GitHub Copilot with native vision, 25% better token efficiency, and a 73% price cut over its predecessor</summary>
+    <category term="development"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>OpenAI Finally Brings ChatGPT and Codex Desktop App to Linux</title>
+    <link href="https://openai.com/codex/"/>
+    <id>6059dc6410b24353293578de443ae333</id>
+    <published>2026-08-11T17:35:07+00:00</published>
+    <updated>2026-08-11T17:35:07+00:00</updated>
+    <summary type="text">OpenAI's unified ChatGPT desktop app â with Chat, Work, and Codex â lands on Linux for the first time via official .deb and .rpm packages</summary>
+    <category term="api"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>MiniMax Code Gains Browser Control and Autonomous Goal Mode in v3.0.54</title>
+    <link href="https://agent.minimax.io/download/?utm_media_source=X"/>
+    <id>dd4eb3ce930c10689920417cda76598a</id>
+    <published>2026-08-11T14:13:29+00:00</published>
+    <updated>2026-08-11T14:13:29+00:00</updated>
+    <summary type="text">MiniMax Code v3.0.54 adds browser automation, long-horizon Goal Mode, and keyboard shortcuts to its desktop AI coding agent</summary>
+    <category term="development"/>
+    <category term="vibe_coding"/>
+  </entry>
+  <entry>
+    <title>Databricks Acquires Electric to Give Every AI Agent its Own Postgres</title>
+    <link href="https://www.databricks.com/blog/electric-joins-databricks-bring-wasm-postgres-ai-agent-sandboxes"/>
+    <id>351acf5149c7e03ab77f06a920d2441d</id>
+    <published>2026-08-11T14:03:10+00:00</published>
+    <updated>2026-08-11T14:03:10+00:00</updated>
+    <summary type="text">Databricks acquires ElectricSQL to embed a full Postgres database inside every AI agent sandbox, syncing local state back to its Lakebase cloud platform</summary>
+    <category term="agents"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>NVIDIA's Nemotron 3.5 Lightning Cuts Agent Costs 58% Running 4x Faster</title>
+    <link href="https://x.com/nvidiaai/status/2087162151995629926"/>
+    <id>fbe5aedfb9ca2717a28fd9d197d69e21</id>
+    <published>2026-08-11T13:00:09+00:00</published>
+    <updated>2026-08-11T13:00:09+00:00</updated>
+    <summary type="text">NVIDIA's open 30B MoE model with only 3B active parameters targets the high-volume execution layer of always-on AI agents, delivering 4x faster output speed than comparable models</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Alibaba's Wan Ships a CLI So AI Agents Can Generate Videos Autonomously</title>
+    <link href="https://create.wan.video/"/>
+    <id>3faf1a5f7b287cd9b203539c93b910d8</id>
+    <published>2026-08-11T07:25:42+00:00</published>
+    <updated>2026-08-11T07:25:42+00:00</updated>
+    <summary type="text">Alibaba's Wan platform launches a CLI that lets AI agents generate images and videos programmatically, with credits synced to your account</summary>
+    <category term="video"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Sarvam AI's Indic DiarBench Tests Speech Recognition Across all 22 Indian Languages</title>
+    <link href="https://huggingface.co/datasets/sarvamai/indic-diarbench"/>
+    <id>8b9686034480180491f1e3a49db165eb</id>
+    <published>2026-08-11T07:24:31+00:00</published>
+    <updated>2026-08-11T07:24:31+00:00</updated>
+    <summary type="text">Sarvam AI releases the first open benchmark for multi-speaker speech recognition across all 22 scheduled Indian languages, exposing major gaps in commercial APIs</summary>
+    <category term="data"/>
+    <category term="audio"/>
+  </entry>
+  <entry>
+    <title>Tencent's WorldClaw Builds Editable 3D Open Worlds From a Single Text Prompt</title>
+    <link href="https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/"/>
+    <id>9bb41ab880de786e747e3705b3da2027</id>
+    <published>2026-08-11T06:48:22+00:00</published>
+    <updated>2026-08-11T06:48:22+00:00</updated>
+    <summary type="text">Tencent's WorldClaw uses an LLM agent pipeline to turn a text prompt into a fully editable, game-ready 3D open world â no video, no Gaussian splatting.</summary>
+    <category term="agents"/>
+    <category term="robotics"/>
+  </entry>
+  <entry>
+    <title>Alibaba's Wan-Animate-2 Beats Proprietary Platforms Without a Single Skeleton</title>
+    <link href="https://modelscope.cn/models/Wan-AI/Wan2.2-Animate-2-14B"/>
+    <id>7100cabc2ba2d4cc2f2ae14df5ccbd2c</id>
+    <published>2026-08-11T02:38:19+00:00</published>
+    <updated>2026-08-11T02:38:19+00:00</updated>
+    <summary type="text">Alibaba's Wan-Animate-2 ditches pose skeletons entirely, achieving real-time streaming character animation at 24 FPS with open weights under Apache 2.0</summary>
+    <category term="video"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Microsoft's MAI-Image-2.6 Jumps to #2, Beating GPT Image 2 in 3D</title>
+    <link href="https://arena.ai/leaderboard/text-to-image"/>
+    <id>ef53726700d7226989569ffc7d8f3023</id>
+    <published>2026-08-10T22:32:43+00:00</published>
+    <updated>2026-08-10T22:32:43+00:00</updated>
+    <summary type="text">Microsoft's MAI-Image-2.6 debuts at #2 on Arena's text-to-image leaderboard, closing within 45 points of GPT Image 2 across every major image category.</summary>
+    <category term="image"/>
+    <category term="benchmarks"/>
+  </entry>
   <entry>
     <title>Higgsfield Made a $2M AI Film With Licensed Celebrity Likenesses</title>
     <link href="https://higgsfield.ai/@higgsfield.studio/projects/cully-hill-boys"/>
@@ -27,85 +127,5 @@
     <summary type="text">An unreleased Claude research model pushed a 40-year-old mathematical lower bound from 41.6% to 67.2%, using a multi-agent swarm running inside Claude Code</summary>
     <category term="reasoning"/>
     <category term="llms"/>
-  </entry>
-  <entry>
-    <title>OpenAI's GPT-5.6-Cyber Completes 95% of Exploit Requests to Arm Defenders</title>
-    <link href="https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/"/>
-    <id>6b7d207d8c0d25c4aa884e319150266d</id>
-    <published>2026-08-10T17:16:51+00:00</published>
-    <updated>2026-08-10T17:16:51+00:00</updated>
-    <summary type="text">OpenAI launches GPT-5.6-Cyber and a two-tier Daybreak program, giving vetted defenders a model that answers 95% of advanced exploit requests â up from 1.5% for the standard model.</summary>
-    <category term="government"/>
-    <category term="security"/>
-  </entry>
-  <entry>
-    <title>Sarvam AI Cuts Transcription Errors 20% for India's Wealth Manager Dezerv</title>
-    <link href="https://www.sarvam.ai/stories/dezerv"/>
-    <id>11869555a99726b25ff288beb4d62fe2</id>
-    <published>2026-08-10T13:39:35+00:00</published>
-    <updated>2026-08-10T13:39:35+00:00</updated>
-    <summary type="text">Dezerv built a post-call analytics system on Sarvam's Speech to Text API, cutting transcription error rates by 20% across 3.6 lakh minutes of client calls monthly.</summary>
-    <category term="audio"/>
-    <category term="retrieval"/>
-  </entry>
-  <entry>
-    <title>Lovable Gives Every App a Trust Center to Win Enterprise Deals</title>
-    <link href="https://lovable.dev/blog/trust-centers-for-business"/>
-    <id>b2bb7ec40350e6310d13159ea112e989</id>
-    <published>2026-08-10T12:54:36+00:00</published>
-    <updated>2026-08-10T12:54:36+00:00</updated>
-    <summary type="text">Lovable gives every published app an auto-generated, always-current security page â removing the biggest friction point in B2B sales for vibe-coded software</summary>
-    <category term="vibe_coding"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>Meta Drops Muse Glimmer, a 30B Open Agent That Runs Offline</title>
-    <link href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"/>
-    <id>f818b251396240c7c61d380d1d32681d</id>
-    <published>2026-08-10T10:13:34+00:00</published>
-    <updated>2026-08-10T10:13:34+00:00</updated>
-    <summary type="text">Meta open-sources Muse Glimmer, a 30B agentic model distilled from Muse Spark 1.2 that runs on a single consumer GPU under Apache 2.0</summary>
-    <category term="agents"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>UCLA Finds AI Reward Hack Monitors Collapse to 28% on Real Cheating</title>
-    <link href="https://lichenlillc.github.io/RewardHackingMonitor/"/>
-    <id>7b146de38773c7325531fd6483445dca</id>
-    <published>2026-08-08T16:47:07+00:00</published>
-    <updated>2026-08-08T16:47:07+00:00</updated>
-    <summary type="text">A new framework exposes a critical blind spot in reward-hacking monitors: the synthetic data used to train them doesn't reflect how models actually cheat during RL.</summary>
-    <category term="post_training"/>
-    <category term="security"/>
-  </entry>
-  <entry>
-    <title>Ant Group's Ling 3.0 Flash Beats a 1T Model With 5B Active Parameters</title>
-    <link href="https://artificialanalysis.ai/models/ling-3-0-flash"/>
-    <id>932c5e0738221acb85005a005d4b1ad2</id>
-    <published>2026-08-07T23:57:58+00:00</published>
-    <updated>2026-08-07T23:57:58+00:00</updated>
-    <summary type="text">Ant Group's Ling 3.0 Flash packs 124B parameters with only 5B active at inference, beating its own 1T flagship on most benchmarks at a fraction of the compute cost.</summary>
-    <category term="llms"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Managed Agents Gets Budget Caps, Geo-Pinning and Smarter Advisor Models</title>
-    <link href="https://x.com/claudedevs/status/2085853169930957158"/>
-    <id>1757ccadfae45aeac4226affe26beec2</id>
-    <published>2026-08-07T22:18:43+00:00</published>
-    <updated>2026-08-07T22:18:43+00:00</updated>
-    <summary type="text">Anthropic ships four Managed Agents upgrades: spend budgets, inference geo-pinning, repo-loaded skills, and mid-session advisor models</summary>
-    <category term="agents"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude Code Lets AI Sessions Talk Directly Without Human Middlemen</title>
-    <link href="https://code.claude.com/docs/en/cross-session-messaging"/>
-    <id>213fb55ada3b91487cfc296d043130fb</id>
-    <published>2026-08-07T19:55:17+00:00</published>
-    <updated>2026-08-07T19:55:17+00:00</updated>
-    <summary type="text">Claude Code v2.1.224 lets independent sessions talk to each other directly, eliminating the need to manually relay context between terminals</summary>
-    <category term="development"/>
-    <category term="api"/>
   </entry>
 </feed>

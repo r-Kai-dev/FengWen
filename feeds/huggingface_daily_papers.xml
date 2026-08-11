@@ -4,14 +4,24 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/papers"/>
   <id>https://huggingface.co/papers</id>
-  <updated>2026-07-29T20:00:00.000Z</updated>
+  <updated>2026-08-06T20:00:00.000Z</updated>
+  <entry>
+    <title>Recursive Synthesis for Long-Horizon Terminal Tasks</title>
+    <link href="https://arxiv.org/abs/2608.05466"/>
+    <id>d0ae0562a3169d4b6d61c7a4c0c02461</id>
+    <published>2026-08-06T20:00:00.000Z</published>
+    <updated>2026-08-06T20:00:00.000Z</updated>
+    <summary type="text">High-quality long-horizon training data for terminal agents is expensive to produce, often costing hundreds to thousands of dollars per task, because each task must keep the instruction, environment, ... \u00b7 Upvotes: 232 \u00b7 Authors: Zhongzhi Li, Yucheng Shi, Zongxia Li</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
   <entry>
     <title>AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis</title>
     <link href="https://arxiv.org/abs/2607.28618"/>
     <id>bf62f763556efaa460e67efdecbb7ff9</id>
     <published>2026-07-29T20:00:00.000Z</published>
     <updated>2026-07-29T20:00:00.000Z</updated>
-    <summary type="text">Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul... \u00b7 Upvotes: 298 \u00b7 GitHub Stars: 12 \u00b7 Authors: Bing Yan, Gregory Wolfe, Stefano Martiniani</summary>
+    <summary type="text">Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul... \u00b7 Upvotes: 298 \u00b7 GitHub Stars: 13 \u00b7 Authors: Bing Yan, Gregory Wolfe, Stefano Martiniani</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +51,7 @@
     <id>fb8363ee0bc1d821564c7b8a6d243b65</id>
     <published>2026-07-26T20:00:00.000Z</published>
     <updated>2026-07-26T20:00:00.000Z</updated>
-    <summary type="text">We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ... \u00b7 Upvotes: 487 \u00b7 GitHub Stars: 8310 \u00b7 Authors: Kimi Team, Tongtong Bai, Yifan Bai</summary>
+    <summary type="text">We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ... \u00b7 Upvotes: 489 \u00b7 GitHub Stars: 8357 \u00b7 Authors: Kimi Team, Tongtong Bai, Yifan Bai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +61,7 @@
     <id>27ed640dcfc82755249787781d5fd531</id>
     <published>2026-07-26T20:00:00.000Z</published>
     <updated>2026-07-26T20:00:00.000Z</updated>
-    <summary type="text">Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently.... \u00b7 Upvotes: 36 \u00b7 GitHub Stars: 1353 \u00b7 Authors: Senqiao Yang, Kaichen Zhang, Zhaoyang Jia</summary>
+    <summary type="text">Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently.... \u00b7 Upvotes: 37 \u00b7 GitHub Stars: 1365 \u00b7 Authors: Senqiao Yang, Kaichen Zhang, Zhaoyang Jia</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +71,7 @@
     <id>ee1456a2e82657fa69101df30a22a01e</id>
     <published>2026-07-25T20:00:00.000Z</published>
     <updated>2026-07-25T20:00:00.000Z</updated>
-    <summary type="text">Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioni... \u00b7 Upvotes: 5 \u00b7 GitHub Stars: 1397 \u00b7 Authors: Stylianos Ploumpis, Jan Bednarik, Gaspard Zoss</summary>
+    <summary type="text">Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioni... \u00b7 Upvotes: 5 \u00b7 GitHub Stars: 1402 \u00b7 Authors: Stylianos Ploumpis, Jan Bednarik, Gaspard Zoss</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +81,7 @@
     <id>70de2083a5c27844a7ffed5f9da7ae76</id>
     <published>2026-07-21T11:26:50.000Z</published>
     <updated>2026-07-21T11:26:50.000Z</updated>
-    <summary type="text">We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation eng... \u00b7 Upvotes: 309 \u00b7 GitHub Stars: 2161 \u00b7 Authors: Fan Jiang, Zhaoxu Sun, Mengchao Wang</summary>
+    <summary type="text">We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation eng... \u00b7 Upvotes: 311 \u00b7 GitHub Stars: 2211 \u00b7 Authors: Fan Jiang, Zhaoxu Sun, Mengchao Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,17 +91,7 @@
     <id>89ebd795fd3d9430261ad6cf3165f9ae</id>
     <published>2026-07-20T20:00:00.000Z</published>
     <updated>2026-07-20T20:00:00.000Z</updated>
-    <summary type="text">Modern ASR models trained on heterogeneously annotated data treat transcription style (verbatim vs. intended) as an uncontrolled latent variable, causing measurable decoding instability, evaluation co... \u00b7 Upvotes: 6 \u00b7 GitHub Stars: 1270 \u00b7 Authors: Laurin Wagner, Mario Zusag, Bernhard Thallinger</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable</title>
-    <link href="https://arxiv.org/abs/2607.13285"/>
-    <id>bc8699f914ad297305eaed462cc1ef83</id>
-    <published>2026-07-13T20:00:00.000Z</published>
-    <updated>2026-07-13T20:00:00.000Z</updated>
-    <summary type="text">The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs... \u00b7 Upvotes: 232 \u00b7 GitHub Stars: 303 \u00b7 Authors: Ruhan Wang, Yucheng Shi, Zongxia Li</summary>
+    <summary type="text">Modern ASR models trained on heterogeneously annotated data treat transcription style (verbatim vs. intended) as an uncontrolled latent variable, causing measurable decoding instability, evaluation co... \u00b7 Upvotes: 6 \u00b7 GitHub Stars: 1279 \u00b7 Authors: Laurin Wagner, Mario Zusag, Bernhard Thallinger</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -101,7 +101,7 @@
     <id>d0e69d597b98367d26b4309bea46ec8c</id>
     <published>2026-07-13T20:00:00.000Z</published>
     <updated>2026-07-13T20:00:00.000Z</updated>
-    <summary type="text">Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent sys... \u00b7 Upvotes: 15 \u00b7 GitHub Stars: 1149 \u00b7 Authors: Hongru Cai, Yongqi Li, Ran Wei</summary>
+    <summary type="text">Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent sys... \u00b7 Upvotes: 15 \u00b7 GitHub Stars: 1150 \u00b7 Authors: Hongru Cai, Yongqi Li, Ran Wei</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

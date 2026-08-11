@@ -4,17 +4,24 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-08-07T00:00:00+00:00</updated>
+  <updated>2026-08-11T21:38:15.204169+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Introducing Grok Bot</title>
+    <link href="https://x.ai/news/introducing-grok-bot"/>
+    <id>5b75d8d227e10faa611a5f3c79b9570d</id>
+    <published>2026-08-11T21:38:15.204169+00:00</published>
+    <updated>2026-08-11T21:38:15.204169+00:00</updated>
+    <summary type="text">Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.</summary>
+  </entry>
   <entry>
     <title>Imagine Image 2.0</title>
     <link href="https://x.ai/news/grok-imagine-image-2"/>
     <id>8a72a2d18bb2c7ae4f7a38e49a84a438</id>
     <published>2026-08-07T00:00:00+00:00</published>
     <updated>2026-08-07T00:00:00+00:00</updated>
-    <summary type="text">Precise image generation and editing, built for real creative work.</summary>
   </entry>
   <entry>
     <title>Imagine Video 1.5 with References</title>
@@ -36,6 +43,7 @@
     <id>09d25a38be9b64084201be48df8bc694</id>
     <published>2026-07-28T00:00:00+00:00</published>
     <updated>2026-07-28T00:00:00+00:00</updated>
+    <summary type="text">Grok 4.5, our smartest coding model, is now available in GitHub Copilot.</summary>
   </entry>
   <entry>
     <title>Introducing Build Mode</title>

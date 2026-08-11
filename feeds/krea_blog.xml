@@ -6,8 +6,31 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-08-07T15:00:00.000Z</updated>
+  <updated>2026-08-11T00:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>Seedance 2.5: What's New, How It Works, and What You Can Do With It</title>
+    <link href="https://www.krea.ai/blog/seedance-2-5-what-s-new-how-it-works-and-what-you-can-do-with-it"/>
+    <id>https://www.krea.ai/blog/seedance-2-5-what-s-new-how-it-works-and-what-you-can-do-with-it</id>
+    <updated>2026-08-11T00:00:00.000Z</updated>
+    <published>2026-08-11T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <category term="seedance-2-5"/>
+    <summary>Seedance 2.5 explained: what changed from Seedance 2.0, how reference-guided generation works in practice, and what you can build with it on Krea.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedance-2-5-what-s-new-how-it-works-and-what-you-can-do-with-it/thumbnail.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Spot the AI</title>
+    <link href="https://www.krea.ai/blog/spot-the-ai"/>
+    <id>https://www.krea.ai/blog/spot-the-ai</id>
+    <updated>2026-08-09T00:00:00.000Z</updated>
+    <published>2026-08-09T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="case-studies"/>
+    <summary>Thanks to Cream Productions and Krea, AI and the camera end up in the same frame.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/cream-thumb.webp" type="image/webp"/>
+  </entry>
   <entry>
     <title>Bending the Kubernetes scheduler</title>
     <link href="https://www.krea.ai/blog/bending-the-kubernetes-scheduler"/>
@@ -211,7 +234,7 @@
     <author><name>The Krea Team</name></author>
     <category term="case-studies"/>
     <summary>How Taskin Goec brought an all-AI collection to Berlin Fashion Week with Krea.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/taskin.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/taskin2.0.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>7 Seedream 5 Pro Use Cases for Marketers: Ads, Product Images, and Campaign Creative (2026)</title>
@@ -549,7 +572,7 @@
     <author><name>Diego Rodriguez</name></author>
     <category term="case-studies"/>
     <summary>Krea partners with Henning Larsen Architects to integrate AI-powered design tools into their architectural workflow.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/215829f9-2115-4344-924b-56f1a0607808/1780008721866-henninglarsen-x-krea-header.jpg" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/henning.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>AI Tools That Generate Floor Plans and Building Concepts</title>
@@ -572,27 +595,5 @@
     <category term="use-cases"/>
     <summary>Photorealistic architectural rendering is one of the clearest places where AI can save time, but the phrase can mean a few different things. Sometimes you</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-ai-photorealistic-architectural-renders/agent/1779934122013-8c199f1b-69a1-4ac3-abd5-85a4c1e43955.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Moodboard Gallery in Krea 2 + Preview of Random and Auto</title>
-    <link href="https://www.krea.ai/blog/moodboard-gallery-krea-2-random-auto"/>
-    <id>https://www.krea.ai/blog/moodboard-gallery-krea-2-random-auto</id>
-    <updated>2026-05-28T00:00:00.000Z</updated>
-    <published>2026-05-28T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="product"/>
-    <summary>Moodboard Gallery now includes thousands of moodboards in Krea 2, with new Random and Auto moodboard selection modes in preview.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/moodboard-gallery-krea-2-random-auto/1779981485417-0-aiflnhrhnjj4wvfl.jpg" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Krea 2 API</title>
-    <link href="https://www.krea.ai/blog/krea-2-api-launch"/>
-    <id>https://www.krea.ai/blog/krea-2-api-launch</id>
-    <updated>2026-05-27T00:00:00.000Z</updated>
-    <published>2026-05-27T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="product"/>
-    <summary>Krea 2 is our first foundation image model, trained completely from scratch to give users full control over the look, feel, and creative direction.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/Screenshot 2026-05-27 at 08.02.32.png" type="image/webp"/>
   </entry>
 </feed>

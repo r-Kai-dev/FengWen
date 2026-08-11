@@ -4,10 +4,37 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-08-04T00:00:00+00:00</updated>
+  <updated>2026-08-11T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>LTX-2.5: The Foundation Film Is Made On</title>
+    <link href="https://ltx.io/blog/the-foundation-film-is-made-on"/>
+    <id>7bbc1dc5cef7fb0ccc9fa84e6c47f906</id>
+    <published>2026-08-11T00:00:00+00:00</published>
+    <updated>2026-08-11T00:00:00+00:00</updated>
+    <summary type="text">LTX-2.5 is here: open weights video AI with Pixel Diffusion, native multishot generation, sharper prompts, and full HDR ACES support for filmmaking teams.</summary>
+    <category term="Product Updates"/>
+  </entry>
+  <entry>
+    <title>LTX-2.5 Prompt Guide: Prompting Tips For LTX-2.5</title>
+    <link href="https://ltx.io/blog/ltx-2-5-prompt-guide"/>
+    <id>057924f80a86347556f2088ebca0f0a5</id>
+    <published>2026-08-10T00:00:00+00:00</published>
+    <updated>2026-08-10T00:00:00+00:00</updated>
+    <summary type="text">Learn how to write effective LTX-2.5 video prompts — shot design, multi-shot cuts, Dub-It dialogue, and Video Editing IC-LoRA best practices.</summary>
+    <category term="Prompting Guides"/>
+  </entry>
+  <entry>
+    <title>SDR to HDR: Automatic HDR Video Conversion with LTX-2.5</title>
+    <link href="https://ltx.io/blog/sdr-to-hdr"/>
+    <id>ebb9f75f3cf19448e1627ad41e62a8c5</id>
+    <published>2026-08-09T00:00:00+00:00</published>
+    <updated>2026-08-09T00:00:00+00:00</updated>
+    <summary type="text">LTX-2.5 turns any SDR video into true HDR, restoring clipped highlights and flat shadows and returning scene linear EXR ready for professional grading.</summary>
+    <category term="Product Updates"/>
+  </entry>
   <entry>
     <title>AI Crowd Generation: Prompting Techniques for Background Characters &amp; Extras</title>
     <link href="https://ltx.io/blog/crowd-scene-generation"/>
@@ -144,6 +171,24 @@
     <category term="Production"/>
   </entry>
   <entry>
+    <title>Best 6 Text To Video AI Generators (2026)</title>
+    <link href="https://ltx.io/blog/best-text-to-video-ai"/>
+    <id>cf93f7f05674fb77fc5610374181db84</id>
+    <published>2026-07-28T00:00:00+00:00</published>
+    <updated>2026-07-28T00:00:00+00:00</updated>
+    <summary type="text">Discover the best text to video AI tools of 2026. Transform scripts and text into professional videos—features, quality, and pricing compared.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Open Source Video Generation Models (2026 Landscape Guide)</title>
+    <link href="https://ltx.io/blog/open-source-video-generation-models-guide"/>
+    <id>71e31cd215de36f35fd9234f9a9f6971</id>
+    <published>2026-07-22T00:00:00+00:00</published>
+    <updated>2026-07-22T00:00:00+00:00</updated>
+    <summary type="text">Compare the top open source video generation models in 2026. LTX-2.3, WAN 2.2, HunyuanVideo, and CogVideoX. Covers VRAM requirements, licensing, and how to choose for your workflow.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
     <title>AI Video Prompt Guide: How To Write AI Video Prompts In 2026</title>
     <link href="https://ltx.io/blog/ai-video-prompt-guide"/>
     <id>35c2ff6463fb63dd0286b2bde9e3df0c</id>
@@ -198,21 +243,21 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
+    <title>Best Sora Alternatives Now That It's Shut Down (2026)</title>
+    <link href="https://ltx.io/blog/best-sora-alternatives"/>
+    <id>da12f6d6671badfc350705bb2672dc4a</id>
+    <published>2026-07-15T00:00:00+00:00</published>
+    <updated>2026-07-15T00:00:00+00:00</updated>
+    <summary type="text">The best Sora alternatives in 2026, compared on output quality, local inference, open-source access, pricing, and creative control for professional creators.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
     <title>Hardware Guide for AI Video Models: GPU Recommendations by Use Case</title>
     <link href="https://ltx.io/blog/hardware-for-ai-video-models"/>
     <id>f9a8ede20fc5d1da08a0e7929c1a69e9</id>
     <published>2026-07-13T00:00:00+00:00</published>
     <updated>2026-07-13T00:00:00+00:00</updated>
     <summary type="text">Match your AI video workload to the right GPU. VRAM tiers, FP8 quantization, and LTX-2.3 picks for preview, production, and LoRA training.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Open Source Video Generation Models (2026 Landscape Guide)</title>
-    <link href="https://ltx.io/blog/open-source-video-generation-models-guide"/>
-    <id>71e31cd215de36f35fd9234f9a9f6971</id>
-    <published>2026-07-13T00:00:00+00:00</published>
-    <updated>2026-07-13T00:00:00+00:00</updated>
-    <summary type="text">Compare the top open source video generation models in 2026. LTX-2.3, WAN 2.2, HunyuanVideo, and CogVideoX. Covers VRAM requirements, licensing, and how to choose for your workflow.</summary>
     <category term="Production"/>
   </entry>
   <entry>
@@ -243,7 +288,7 @@
     <category term="Product Updates"/>
   </entry>
   <entry>
-    <title>7 Best Kling AI Alternatives In 2026</title>
+    <title>7 Best Kling AI Alternatives (Updated 2026)</title>
     <link href="https://ltx.io/blog/best-kling-ai-alternatives"/>
     <id>6ee56a3c9cdf316df29428e70b88ab62</id>
     <published>2026-07-07T00:00:00+00:00</published>
@@ -277,15 +322,6 @@
     <updated>2026-07-05T00:00:00+00:00</updated>
     <summary type="text">Learn how to write effective AI image prompts in 2026. Real examples for FLUX.2 Pro, Nano Banana Pro, Z-Image, and other top models — improve accuracy, style, and creative control.</summary>
     <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>Best 6 Text To Video AI Generators (2026)</title>
-    <link href="https://ltx.io/blog/best-text-to-video-ai"/>
-    <id>cf93f7f05674fb77fc5610374181db84</id>
-    <published>2026-07-05T00:00:00+00:00</published>
-    <updated>2026-07-05T00:00:00+00:00</updated>
-    <summary type="text">Discover the best text to video AI tools of 2026. Transform scripts and text into professional videos—features, quality, and pricing compared.</summary>
-    <category term="Production"/>
   </entry>
   <entry>
     <title>How Much Does AI Video Generation Cost In 2026?</title>
@@ -351,15 +387,6 @@
     <category term="Production"/>
   </entry>
   <entry>
-    <title>Best Sora Alternatives In 2026 (Post-Sora Shutdown)</title>
-    <link href="https://ltx.io/blog/best-sora-alternatives"/>
-    <id>da12f6d6671badfc350705bb2672dc4a</id>
-    <published>2026-06-29T00:00:00+00:00</published>
-    <updated>2026-06-29T00:00:00+00:00</updated>
-    <summary type="text">The best Sora alternatives in 2026, compared on output quality, local inference, open-source access, pricing, and creative control for professional creators.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
     <title>How to Build a Pre-Visualization Pipeline With AI (2026 Guide)</title>
     <link href="https://ltx.io/blog/how-to-build-a-complete-pre-visualization-pipeline"/>
     <id>9b6ad051ab3868ea49ba38d2864377dc</id>
@@ -376,15 +403,6 @@
     <updated>2026-06-29T00:00:00+00:00</updated>
     <summary type="text">Discover how negative prompts work and why they matter. See examples and learn how to use them to control AI image generation more effectively.</summary>
     <category term="Prompting Guides"/>
-  </entry>
-  <entry>
-    <title>Elevator Pitch For Movies: What It Is &amp; How To Make One</title>
-    <link href="https://ltx.io/blog/what-is-an-elevator-pitch"/>
-    <id>f0d00f29712cad62b161a4fedd11b8be</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">Master the film elevator pitch. Learn how to craft a powerful 30-60 second pitch that captivates investors and secures funding for your project.</summary>
-    <category term="Production"/>
   </entry>
   <entry>
     <title>How To Add Music &amp; Sound To AI-Generated Video</title>
@@ -405,30 +423,12 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
-    <title>How To Make An AI Sizzle Reel (2026 Guide)</title>
-    <link href="https://ltx.io/blog/how-to-make-sizzle-reel"/>
-    <id>418a3f0746770693dd6b6974a3cb39e4</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">Learn how to make a sizzle reel that captivates audiences. Create professional pitch videos in minutes with AI, no filming required.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
     <title>How To Prompt Locations, Lighting &amp; Weather In AI Videos</title>
     <link href="https://ltx.io/blog/setting-location-lighting-and-weather"/>
     <id>5b2a177b947019bf867e8d133a303f7f</id>
     <published>2026-06-21T00:00:00+00:00</published>
     <updated>2026-06-21T00:00:00+00:00</updated>
     <summary type="text">Discover how to master virtual production with LTX Studio's intuitive prompts. Learn essential tips for controlling lighting, weather, and scene settings to create stunning visual content.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How To Use AI For Successful Advertising Campaigns In 2026</title>
-    <link href="https://ltx.io/blog/how-to-use-ai-in-advertising"/>
-    <id>0f0f39a2f232bf567597938774981492</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">AI is transforming the advertising landscape, making campaigns more efficient, creative, and impactful. In this article, we’ll explore how you can harness AI in advertising to elevate your brand—faster and more affordably than ever.</summary>
     <category term="Tutorials"/>
   </entry>
   <entry>
