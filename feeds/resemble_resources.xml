@@ -4,10 +4,37 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-08-11T00:00:00+00:00</updated>
+  <updated>2026-08-12T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>DETECT-World explained</title>
+    <link href="https://www.resemble.ai/resources/detect-world-explained"/>
+    <id>59b2a7c3e7d47b8bd1c773bd95f1a972</id>
+    <published>2026-08-12T00:00:00+00:00</published>
+    <updated>2026-08-12T00:00:00+00:00</updated>
+    <summary type="text">DETECT-World is the first world model for deepfake detection — catching unseen generators by checking physics and artifacts. Two approaches, better together.</summary>
+    <category term="Video"/>
+  </entry>
+  <entry>
+    <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>
+    <link href="https://www.resemble.ai/resources/introducing-detect-world-the-first-world-model-for-deepfake-detection"/>
+    <id>ddf8fb07f1af03f7740f5d86dd55d955</id>
+    <published>2026-08-12T00:00:00+00:00</published>
+    <updated>2026-08-12T00:00:00+00:00</updated>
+    <summary type="text">DETECT-World is the first world model for deepfake detection — catching unseen generators by checking physics, not memorizing signatures. Audio, image, and video.</summary>
+    <category term="Research"/>
+  </entry>
+  <entry>
+    <title>The H1 2026 Deepfake Threat Report</title>
+    <link href="https://www.resemble.ai/resources/h1-2026-deepfake-threat-report"/>
+    <id>414d19a6c6e50b2bbea8292fd47a1cd1</id>
+    <published>2026-08-12T00:00:00+00:00</published>
+    <updated>2026-08-12T00:00:00+00:00</updated>
+    <summary type="text">Explore Resemble AI’s H1 2026 Deepfake Threat Report. Uncover key data on rising synthetic media attacks, fraud losses, and defense strategies for enterprise.</summary>
+    <category term="Report"/>
+  </entry>
   <entry>
     <title>A Deep Dive Into Air-Gapped Deepfake Detection</title>
     <link href="https://www.resemble.ai/resources/air-gapped-deepfake-detection-importance"/>
@@ -15,7 +42,7 @@
     <published>2026-08-11T00:00:00+00:00</published>
     <updated>2026-08-11T00:00:00+00:00</updated>
     <summary type="text">Learn how air-gapped deepfake detection works, what compliance requires, and how to build an offline detection workflow that holds up under audit.</summary>
-    <category term="Case study"/>
+    <category term="Blog"/>
   </entry>
   <entry>
     <title>Explainable AI in Deepfake Detection Techniques</title>
@@ -90,33 +117,6 @@
     <category term="Blog"/>
   </entry>
   <entry>
-    <title>Deepfake Detection Platforms for Zoom and Video Meetings</title>
-    <link href="https://www.resemble.ai/resources/deepfake-detection-platforms-for-zoom-and-video-meetings"/>
-    <id>de40898818ab486b13fe57855b851659</id>
-    <published>2026-07-27T00:00:00+00:00</published>
-    <updated>2026-07-27T00:00:00+00:00</updated>
-    <summary type="text">Learn how deepfake detection for Zoom platforms works, what features matter, and how to evaluate solutions for secure video meetings.</summary>
-    <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Watchlist: Week of July 17-23, 2026</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-july-17-23-2026"/>
-    <id>f35cd48f91375a9c6e7b04823eb959a7</id>
-    <published>2026-07-24T00:00:00+00:00</published>
-    <updated>2026-07-24T00:00:00+00:00</updated>
-    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
-    <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>EU AI Act Article 50 Compliance Checklist for Providers and Deployers</title>
-    <link href="https://www.resemble.ai/resources/eu-ai-act-article-50-compliance-checklist-for-providers-and-deployers"/>
-    <id>a4744868b3953a4e4c80a341b627531c</id>
-    <published>2026-07-22T00:00:00+00:00</published>
-    <updated>2026-07-22T00:00:00+00:00</updated>
-    <summary type="text">Your practical EU AI Act Article 50 compliance checklist for providers and deployers covering voice AI, synthetic audio, deepfakes, and disclosure requirements.</summary>
-    <category term="Blog"/>
-  </entry>
-  <entry>
     <title>Top 10 Deepfake Detection Tools for Enterprise Security in 2026</title>
     <link href="https://www.resemble.ai/resources/top-10-deepfake-detection-tools-for-enterprise-security-in-2026"/>
     <id>6b2c9e80a2979e2d4e028b33c98435be</id>
@@ -124,14 +124,5 @@
     <updated>2026-07-21T00:00:00+00:00</updated>
     <summary type="text">A ranked comparison of the 10 best deepfake detection tools for enterprises in 2026, judged on independent benchmarks, real-time capability, and provenance.</summary>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Detection Guide (Deepfake 101): Threat Vectors and Four Defense Layers</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-detection-guide-deepfake-101-threat-vectors-and-four-defense-layers"/>
-    <id>fbf48b71d2ac6366660b879af800ba17</id>
-    <published>2026-07-07T00:00:00+00:00</published>
-    <updated>2026-07-07T00:00:00+00:00</updated>
-    <summary type="text">Deepfakes now cost businesses millions. Learn what they are, where they strike, why your stack misses them, and the four layers of defense every company needs. This practical guide to deepfakes for security and fraud teams breaks down core concepts, how AI deepfakes are built and how to detect deepfakes with and without automation.</summary>
-    <category term="Guide"/>
   </entry>
 </feed>

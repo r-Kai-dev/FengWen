@@ -4,10 +4,24 @@
   <icon>https://artificialanalysis.ai/favicon.ico</icon>
   <link href="https://artificialanalysis.ai/articles"/>
   <id>https://artificialanalysis.ai/articles</id>
-  <updated>2026-08-11T00:00:00+00:00</updated>
+  <updated>2026-08-12T00:00:00+00:00</updated>
   <author>
     <name>Artificial Analysis</name>
   </author>
+  <entry>
+    <title>Grok 4.6 returns SpaceXAI to the intelligence frontier and leads on cost efficiency</title>
+    <link href="https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"/>
+    <id>9c5738518c9f89bfc3b496c3d4a114d7</id>
+    <published>2026-08-12T00:00:00+00:00</published>
+    <updated>2026-08-12T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Upstage Solar Pro 4: Benchmarks and analysis</title>
+    <link href="https://artificialanalysis.ai/articles/upstage-solar-pro-4"/>
+    <id>4856d0613b2f367cc879855a10fd8c0f</id>
+    <published>2026-08-12T00:00:00+00:00</published>
+    <updated>2026-08-12T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>NVIDIA launches Nemotron 3.5 Lightning</title>
     <link href="https://artificialanalysis.ai/articles/nemotron-3-5-lightning-launch"/>
@@ -16,9 +30,16 @@
     <updated>2026-08-11T00:00:00+00:00</updated>
   </entry>
   <entry>
-    <title>Muse Glimmer</title>
+    <title>Announcing AA-AnalystAgent: an agentic benchmark for quantitative analysis on real-world spreadsheets and documents</title>
+    <link href="https://artificialanalysis.ai/articles/aa-analyst-agent"/>
+    <id>b74549987cbb230742285deea0050647</id>
+    <published>2026-08-10T00:00:00+00:00</published>
+    <updated>2026-08-10T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Muse Glimmer: Benchmarks and analysis</title>
     <link href="https://artificialanalysis.ai/articles/muse-glimmer"/>
-    <id>5365604166e0be912cfaca4f61ba6352</id>
+    <id>6fb4be23450ed2ef65f0c2bb77e98485</id>
     <published>2026-08-10T00:00:00+00:00</published>
     <updated>2026-08-10T00:00:00+00:00</updated>
   </entry>
@@ -30,9 +51,9 @@
     <updated>2026-08-06T00:00:00+00:00</updated>
   </entry>
   <entry>
-    <title>Muse Spark 1.2</title>
+    <title>Muse Spark 1.2: Benchmarks and analysis</title>
     <link href="https://artificialanalysis.ai/articles/muse-spark-1-2"/>
-    <id>2480bb5267dd6468a346474f9287e572</id>
+    <id>23aa1e9237c6308efdc5652fa1ac345b</id>
     <published>2026-08-05T00:00:00+00:00</published>
     <updated>2026-08-05T00:00:00+00:00</updated>
   </entry>
@@ -70,26 +91,5 @@
     <id>f5e72c600b58c13a51032f524a154bda</id>
     <published>2026-07-24T00:00:00+00:00</published>
     <updated>2026-07-24T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Opus 5: Fable 5 level intelligence at a lower cost per task</title>
-    <link href="https://artificialanalysis.ai/articles/opus-5"/>
-    <id>2d7e09cb957d19e744cb6dbd61b00b5a</id>
-    <published>2026-07-24T00:00:00+00:00</published>
-    <updated>2026-07-24T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>How Thinking Machines Lab’s Inkling performs on agentic knowledge work</title>
-    <link href="https://artificialanalysis.ai/articles/how-thinking-machines-lab-s-inkling-performs-on-agentic-knowledge-work"/>
-    <id>6141dca7ba5d4cafdd0c74a5ff04d144</id>
-    <published>2026-07-22T00:00:00+00:00</published>
-    <updated>2026-07-22T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Kimi K3: second only to Fable 5 on AA-Briefcase</title>
-    <link href="https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark"/>
-    <id>111f93c87c18a352d75ab4b133786fb9</id>
-    <published>2026-07-21T00:00:00+00:00</published>
-    <updated>2026-07-21T00:00:00+00:00</updated>
   </entry>
 </feed>

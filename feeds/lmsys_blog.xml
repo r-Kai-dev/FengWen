@@ -4,10 +4,22 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-08-11T00:00:00+00:00</updated>
+  <updated>2026-08-12T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>SGLang and Miles Add Day-0 Support for Qwen3.8</title>
+    <link href="https://lmsys.org/blog/2026-08-12-qwen3-8-day0-support"/>
+    <id>f620564dba56ade725ffb0f749767b1f</id>
+    <published>2026-08-12T00:00:00+00:00</published>
+    <updated>2026-08-12T00:00:00+00:00</updated>
+    <summary type="text">We are excited to announce Day-0 support for Qwen3.8-2.4T-A95B in SGLang and Miles.
+It is Qwen's largest open-source model, with 2.4T total parameters and 95B active per token,
+and its hybrid attentio...</summary>
+    <category term="sglang"/>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning</title>
     <link href="https://lmsys.org/blog/2026-08-11-nemotron-3-5-lightning"/>

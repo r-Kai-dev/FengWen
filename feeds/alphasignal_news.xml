@@ -4,128 +4,128 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-11T18:28:15+00:00</updated>
+  <updated>2026-08-12T20:20:07+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Microsoft's MAI-Code-1.1-Flash Hits GitHub Copilot at 73% Lower Cost</title>
-    <link href="https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot/"/>
-    <id>4a5ec3611c88cf46e6c3912a24dabc2f</id>
-    <published>2026-08-11T18:28:15+00:00</published>
-    <updated>2026-08-11T18:28:15+00:00</updated>
-    <summary type="text">MAI-Code-1.1-Flash lands in GitHub Copilot with native vision, 25% better token efficiency, and a 73% price cut over its predecessor</summary>
-    <category term="development"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>OpenAI Finally Brings ChatGPT and Codex Desktop App to Linux</title>
-    <link href="https://openai.com/codex/"/>
-    <id>6059dc6410b24353293578de443ae333</id>
-    <published>2026-08-11T17:35:07+00:00</published>
-    <updated>2026-08-11T17:35:07+00:00</updated>
-    <summary type="text">OpenAI's unified ChatGPT desktop app â with Chat, Work, and Codex â lands on Linux for the first time via official .deb and .rpm packages</summary>
-    <category term="api"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>MiniMax Code Gains Browser Control and Autonomous Goal Mode in v3.0.54</title>
-    <link href="https://agent.minimax.io/download/?utm_media_source=X"/>
-    <id>dd4eb3ce930c10689920417cda76598a</id>
-    <published>2026-08-11T14:13:29+00:00</published>
-    <updated>2026-08-11T14:13:29+00:00</updated>
-    <summary type="text">MiniMax Code v3.0.54 adds browser automation, long-horizon Goal Mode, and keyboard shortcuts to its desktop AI coding agent</summary>
-    <category term="development"/>
-    <category term="vibe_coding"/>
-  </entry>
-  <entry>
-    <title>Databricks Acquires Electric to Give Every AI Agent its Own Postgres</title>
-    <link href="https://www.databricks.com/blog/electric-joins-databricks-bring-wasm-postgres-ai-agent-sandboxes"/>
-    <id>351acf5149c7e03ab77f06a920d2441d</id>
-    <published>2026-08-11T14:03:10+00:00</published>
-    <updated>2026-08-11T14:03:10+00:00</updated>
-    <summary type="text">Databricks acquires ElectricSQL to embed a full Postgres database inside every AI agent sandbox, syncing local state back to its Lakebase cloud platform</summary>
+    <title>Anthropic's Claude in Chrome Now Runs Full Cowork Sessions Across Every Device</title>
+    <link href="https://support.claude.com/en/articles/12902428-use-claude-in-chrome-safely"/>
+    <id>a5ddb639ef473ef3dcec96fd36222136</id>
+    <published>2026-08-12T20:20:07+00:00</published>
+    <updated>2026-08-12T20:20:07+00:00</updated>
+    <summary type="text">Claude in Chrome's side panel now runs a full Cowork session, syncing conversations, skills, and connectors across desktop, web, and mobile</summary>
     <category term="agents"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>NVIDIA's Nemotron 3.5 Lightning Cuts Agent Costs 58% Running 4x Faster</title>
-    <link href="https://x.com/nvidiaai/status/2087162151995629926"/>
-    <id>fbe5aedfb9ca2717a28fd9d197d69e21</id>
-    <published>2026-08-11T13:00:09+00:00</published>
-    <updated>2026-08-11T13:00:09+00:00</updated>
-    <summary type="text">NVIDIA's open 30B MoE model with only 3B active parameters targets the high-volume execution layer of always-on AI agents, delivering 4x faster output speed than comparable models</summary>
-    <category term="llms"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Alibaba's Wan Ships a CLI So AI Agents Can Generate Videos Autonomously</title>
-    <link href="https://create.wan.video/"/>
-    <id>3faf1a5f7b287cd9b203539c93b910d8</id>
-    <published>2026-08-11T07:25:42+00:00</published>
-    <updated>2026-08-11T07:25:42+00:00</updated>
-    <summary type="text">Alibaba's Wan platform launches a CLI that lets AI agents generate images and videos programmatically, with credits synced to your account</summary>
-    <category term="video"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>Sarvam AI's Indic DiarBench Tests Speech Recognition Across all 22 Indian Languages</title>
-    <link href="https://huggingface.co/datasets/sarvamai/indic-diarbench"/>
-    <id>8b9686034480180491f1e3a49db165eb</id>
-    <published>2026-08-11T07:24:31+00:00</published>
-    <updated>2026-08-11T07:24:31+00:00</updated>
-    <summary type="text">Sarvam AI releases the first open benchmark for multi-speaker speech recognition across all 22 scheduled Indian languages, exposing major gaps in commercial APIs</summary>
-    <category term="data"/>
-    <category term="audio"/>
-  </entry>
-  <entry>
-    <title>Tencent's WorldClaw Builds Editable 3D Open Worlds From a Single Text Prompt</title>
-    <link href="https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/"/>
-    <id>9bb41ab880de786e747e3705b3da2027</id>
-    <published>2026-08-11T06:48:22+00:00</published>
-    <updated>2026-08-11T06:48:22+00:00</updated>
-    <summary type="text">Tencent's WorldClaw uses an LLM agent pipeline to turn a text prompt into a fully editable, game-ready 3D open world â no video, no Gaussian splatting.</summary>
+    <title>Zed Launches Delta to Replace Git Where AI Agents Write Code</title>
+    <link href="https://zed.dev/blog/introducing-delta"/>
+    <id>98d6e4a9bd500ce3bd0f3641f3d93520</id>
+    <published>2026-08-12T18:09:18+00:00</published>
+    <updated>2026-08-12T18:09:18+00:00</updated>
+    <summary type="text">Zed's new standalone app turns agent coding sessions into shared, reviewable, real-time multiplayer threads backed by a CRDT-based version control layer</summary>
+    <category term="development"/>
     <category term="agents"/>
-    <category term="robotics"/>
   </entry>
   <entry>
-    <title>Alibaba's Wan-Animate-2 Beats Proprietary Platforms Without a Single Skeleton</title>
-    <link href="https://modelscope.cn/models/Wan-AI/Wan2.2-Animate-2-14B"/>
-    <id>7100cabc2ba2d4cc2f2ae14df5ccbd2c</id>
-    <published>2026-08-11T02:38:19+00:00</published>
-    <updated>2026-08-11T02:38:19+00:00</updated>
-    <summary type="text">Alibaba's Wan-Animate-2 ditches pose skeletons entirely, achieving real-time streaming character animation at 24 FPS with open weights under Apache 2.0</summary>
-    <category term="video"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Microsoft's MAI-Image-2.6 Jumps to #2, Beating GPT Image 2 in 3D</title>
-    <link href="https://arena.ai/leaderboard/text-to-image"/>
-    <id>ef53726700d7226989569ffc7d8f3023</id>
-    <published>2026-08-10T22:32:43+00:00</published>
-    <updated>2026-08-10T22:32:43+00:00</updated>
-    <summary type="text">Microsoft's MAI-Image-2.6 debuts at #2 on Arena's text-to-image leaderboard, closing within 45 points of GPT Image 2 across every major image category.</summary>
-    <category term="image"/>
+    <title>xAI Ships Grok 4.6 to Match Claude Fable 5 at 5x Lower Cost</title>
+    <link href="https://artificialanalysis.ai/evaluations/aa-briefcase"/>
+    <id>8e82e7c2a7aff3d481e382a6fad8c461</id>
+    <published>2026-08-12T17:55:09+00:00</published>
+    <updated>2026-08-12T17:55:09+00:00</updated>
+    <summary type="text">SpaceXAI's Grok 4.6 matches Claude Fable 5 on agentic knowledge work benchmarks at a fraction of the cost, with API pricing starting at $2/M input tokens.</summary>
+    <category term="agents"/>
     <category term="benchmarks"/>
   </entry>
   <entry>
-    <title>Higgsfield Made a $2M AI Film With Licensed Celebrity Likenesses</title>
-    <link href="https://higgsfield.ai/@higgsfield.studio/projects/cully-hill-boys"/>
-    <id>d24e4b10a47422b0c83298e0a40cb044</id>
-    <published>2026-08-10T17:32:51+00:00</published>
-    <updated>2026-08-10T17:32:51+00:00</updated>
-    <summary type="text">Higgsfield's 110-minute AI feature film, made for $2M with licensed celebrity likenesses, is now fully open-sourced â prompts, assets, and all.</summary>
-    <category term="video"/>
+    <title>Nous Research's Hermes Agent Now Lets You Pack and Share Entire AI Setups</title>
+    <link href="https://x.com/nousresearch/status/2087592096769147377"/>
+    <id>a09a6aa5ed97975769a0d7d23a8b0257</id>
+    <published>2026-08-12T17:28:36+00:00</published>
+    <updated>2026-08-12T17:28:36+00:00</updated>
+    <summary type="text">Hermes Agent profiles are now a single portable file, letting you share full agent setups with credentials safely stripped out</summary>
+    <category term="development"/>
     <category term="open_source"/>
   </entry>
   <entry>
-    <title>Anthropic's Claude Pushes a 160-Year-Old Math Boundary From 41.6% to 67.2%</title>
-    <link href="https://www.anthropic.com/research/riemann-zeta"/>
-    <id>f1a05dd1b0bb14e20300c80f5e4ff931</id>
-    <published>2026-08-10T17:28:18+00:00</published>
-    <updated>2026-08-10T17:28:18+00:00</updated>
-    <summary type="text">An unreleased Claude research model pushed a 40-year-old mathematical lower bound from 41.6% to 67.2%, using a multi-agent swarm running inside Claude Code</summary>
-    <category term="reasoning"/>
+    <title>Cohere's North Micro Vision Reads Full A4 Documents Without Losing Detail</title>
+    <link href="https://huggingface.co/blog/CohereLabs/meet-north-micro-vision-instruct"/>
+    <id>204604d0423f386e47c2319da66934eb</id>
+    <published>2026-08-12T16:07:03+00:00</published>
+    <updated>2026-08-12T16:07:03+00:00</updated>
+    <summary type="text">Cohere releases a free 2.4B vision-language model that reads documents at full resolution, beating larger rivals on DocVQA and grounding tasks</summary>
+    <category term="image"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Google's Gemini Hits 1 Billion Users and Adds 14 App Connections</title>
+    <link href="https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/"/>
+    <id>a06b275e9a38b5c8920e0c6ded9a23b7</id>
+    <published>2026-08-12T15:50:11+00:00</published>
+    <updated>2026-08-12T15:50:11+00:00</updated>
+    <summary type="text">Google adds 14 new MCP-powered app connections to Gemini, spanning music, travel, health, and productivity, as the assistant crosses 1 billion monthly users</summary>
+    <category term="agents"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>Google DeepMind's SL2T Doubles Sign Language AI Accuracy, Giving Deaf Users a Voice</title>
+    <link href="https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
+    <id>fb007e6ebc61d6766d0cc5695f5ea538</id>
+    <published>2026-08-12T14:06:24+00:00</published>
+    <updated>2026-08-12T14:06:24+00:00</updated>
+    <summary type="text">Google DeepMind's SL2T model brings real-time ASL-to-English dictation to Gboard and Live Transcribe on Pixel 11, trained on 100,000+ hours across 50+ sign languages.</summary>
+    <category term="audio"/>
+    <category term="image"/>
+  </entry>
+  <entry>
+    <title>Liquid AI's LFM2.5-VL-3B Beats Models Twice Its Size Running on Your Phone</title>
+    <link href="https://playground.liquid.ai/login?callbackUrl=%2Fchat%3Fmodel%3DLFM2.5-VL-3B"/>
+    <id>82537c1ed9c9b840ebe8040274301688</id>
+    <published>2026-08-12T14:01:05+00:00</published>
+    <updated>2026-08-12T14:01:05+00:00</updated>
+    <summary type="text">Liquid AI's 3B vision-language model beats models up to 2.6x its size on screen understanding and grounding, running on-device at 20 tokens/s on a phone.</summary>
+    <category term="image"/>
     <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Sarvam AI's Indus Wins Maharashtra, Putting Sovereign AI to Work for 2,500 Officials</title>
+    <link href="https://www.sarvam.ai/partnerships/maharashtra-government"/>
+    <id>effd428329111aaf166524a5498535cc</id>
+    <published>2026-08-12T13:33:49+00:00</published>
+    <updated>2026-08-12T13:33:49+00:00</updated>
+    <summary type="text">Sarvam's Indus platform goes live for 2,500 Maharashtra officials, marking India's most ambitious state-level sovereign AI deployment to date</summary>
+    <category term="government"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Lovable Hits $13.3B Valuation After 60 Million Apps Built Without Code</title>
+    <link href="https://lovable.dev/blog/series-c"/>
+    <id>b1c302a68ece99e581aefa3dfabec6da</id>
+    <published>2026-08-12T10:01:44+00:00</published>
+    <updated>2026-08-12T10:01:44+00:00</updated>
+    <summary type="text">Lovable raises $400M at a $13.3B valuation, betting that AI-generated software will let anyone build and run a real business</summary>
+    <category term="business"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>Ant Group's Ling 3.0 Tiny Matches GPT-120B Intelligence With 15x Fewer Parameters</title>
+    <link href="https://artificialanalysis.ai/models/ling-3-0-tiny"/>
+    <id>a49d62663ea7068ab5f17e1ecb23732a</id>
+    <published>2026-08-12T02:51:30+00:00</published>
+    <updated>2026-08-12T02:51:30+00:00</updated>
+    <summary type="text">Ant Group's InclusionAI releases a 7.9B MoE reasoning model that matches GPT-class performance with just 1.3B active parameters, free and MIT-licensed.</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis's AA-AnalystAgent Benchmark Reveals Claude Opus 5 Beats GPT-5.5 on Reliability</title>
+    <link href="https://artificialanalysis.ai/evaluations/aa-analyst-agent"/>
+    <id>90ad632520d9529cc1e63a88e5ee8e3f</id>
+    <published>2026-08-11T22:23:41+00:00</published>
+    <updated>2026-08-11T22:23:41+00:00</updated>
+    <summary type="text">Artificial Analysis launches AA-AnalystAgent, a new benchmark that tests AI agents on real spreadsheets â and even the best model only passes 54% of tasks every time.</summary>
+    <category term="benchmarks"/>
+    <category term="agents"/>
   </entry>
 </feed>

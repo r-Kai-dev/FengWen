@@ -4,7 +4,25 @@
   <icon>https://fireworks.ai/favicon.ico</icon>
   <link href="https://fireworks.ai/blog"/>
   <id>https://fireworks.ai/blog</id>
-  <updated>2026-08-05T00:00:00+00:00</updated>
+  <updated>2026-08-12T00:00:00+00:00</updated>
+  <entry>
+    <title>Can open models carry readable silent signals before they speak? Reproducing J-Lens Readouts on Kimi K3 &amp; Qwen3.5-9B</title>
+    <link href="https://fireworks.ai/blog/J-Lens-Kimi-K3-Qwen"/>
+    <id>3990e533f33fd38fd88d465d8ca8ce98</id>
+    <published>2026-08-12T00:00:00+00:00</published>
+    <updated>2026-08-12T00:00:00+00:00</updated>
+    <summary type="text">Can open models carry readable silent signals before they speak? Reproducing J-Lens Readouts on Kimi K3 &amp; Qwen3.5-9B</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/0c7d947215ecf5c5fcead461b26492c437bcb046-1920x1080.svg&quot; alt=&quot;Can open models carry readable silent signals before they speak? Reproducing J-Lens Readouts on Kimi K3 &amp; Qwen3.5-9B&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Muse Glimmer from Meta on Fireworks: Ideal for your Always-On Agents</title>
+    <link href="https://fireworks.ai/blog/meta-muse-glimmer"/>
+    <id>b834c1663fe20e5ded00adb12adee35f</id>
+    <published>2026-08-10T00:00:00+00:00</published>
+    <updated>2026-08-10T00:00:00+00:00</updated>
+    <summary type="text">Muse Glimmer from Meta on Fireworks: Ideal for your Always-On Agents</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/7bd2e37fc80e973a06d3012136e6c4dc72771ad1-1906x958.png&quot; alt=&quot;Muse Glimmer from Meta on Fireworks: Ideal for your Always-On Agents&quot; /&gt;</content>
+  </entry>
   <entry>
     <title>Your AI performance stack is Fireworks + Voyage AI</title>
     <link href="https://fireworks.ai/blog/voyage-ai-models-now-on-fireworks"/>
@@ -113,14 +131,14 @@
 &lt;p&gt;Sparse attention should be cheaper than dense, but M3's data-dependent block selection usually eats the savings. The Fireworks Performance team wrote a KV-stationary kernel for NVIDIA Blackwell that loads each selected KV block once and keeps tensor cores at full 128×128 tiles: ~980 TFLOP/s, 1.9–2.4× a query-stationary baseline and ~1.6× open-source MSA.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>How Gumloop Scaled Open-Weight Model Usage 7x in 3 Weeks with Fireworks AI</title>
+    <title>How Gumloop Scaled Open-Weight Model Usage 7x in 3 Weeks with Fireworks</title>
     <link href="https://fireworks.ai/blog/gumloop"/>
-    <id>95a85e170fbc73066142db86a6023687</id>
+    <id>2d9265f7ec0595940bf57a01ec4bec75</id>
     <published>2026-07-09T15:47:30.659000+00:00</published>
     <updated>2026-07-09T15:47:30.659000+00:00</updated>
-    <summary type="text">Gumloop scaled its open-weight model usage 7x in three weeks by partnering with Fireworks AI. By optimizing its agent harness and switching to models like GLM-5.2, Gumloop achieved up to 72% cost savings while maintaining production-level quality and reliability, proving that open-weight models are </summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/f8dd5147ca6bbc74204a20241bbbf05975d89bf9-1600x900.png&quot; alt=&quot;How Gumloop Scaled Open-Weight Model Usage 7x in 3 Weeks with Fireworks AI&quot; /&gt;
-&lt;p&gt;Gumloop scaled its open-weight model usage 7x in three weeks by partnering with Fireworks AI. By optimizing its agent harness and switching to models like GLM-5.2, Gumloop achieved up to 72% cost savings while maintaining production-level quality and reliability, proving that open-weight models are now viable for complex, real-world AI workloads.&lt;/p&gt;</content>
+    <summary type="text">Gumloop scaled its open-weight model usage 7x in three weeks by partnering with Fireworks. By optimizing its agent harness and switching to models like GLM-5.2, Gumloop achieved up to 72% cost savings while maintaining production-level quality and reliability, proving that open-weight models are now</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/f8dd5147ca6bbc74204a20241bbbf05975d89bf9-1600x900.png&quot; alt=&quot;How Gumloop Scaled Open-Weight Model Usage 7x in 3 Weeks with Fireworks&quot; /&gt;
+&lt;p&gt;Gumloop scaled its open-weight model usage 7x in three weeks by partnering with Fireworks. By optimizing its agent harness and switching to models like GLM-5.2, Gumloop achieved up to 72% cost savings while maintaining production-level quality and reliability, proving that open-weight models are now viable for complex, real-world AI workloads.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Open, frontier, and yours: LangChain Deep Agents on NVIDIA Nemotron 3 Ultra, running on Fireworks</title>
@@ -139,7 +157,8 @@
     <published>2026-07-08T00:00:00+00:00</published>
     <updated>2026-07-08T00:00:00+00:00</updated>
     <summary type="text">Open-source LLMs are moving fast in 2026, with new releases closing the gap to frontier performance at a fraction of the cost. This recently refreshed article compares nine leading models across reasoning, coding, multimodality, long context, and licensing. We highlight benchmark leaders like Kimi K</summary>
-    <content type="html">&lt;p&gt;Open-source LLMs are moving fast in 2026, with new releases closing the gap to frontier performance at a fraction of the cost. This recently refreshed article compares nine leading models across reasoning, coding, multimodality, long context, and licensing. We highlight benchmark leaders like Kimi K3 and Fireworks-available standouts like GLM 5.2, plus practical guidance for picking the right route.&lt;/p&gt;</content>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;Best Open Source LLMs in 2026&quot; /&gt;
+&lt;p&gt;Open-source LLMs are moving fast in 2026, with new releases closing the gap to frontier performance at a fraction of the cost. This recently refreshed article compares nine leading models across reasoning, coding, multimodality, long context, and licensing. We highlight benchmark leaders like Kimi K3 and Fireworks-available standouts like GLM 5.2, plus practical guidance for picking the right route.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Using GLM 5.2 Fast to deliver one engineer-month in just four days and $218 of tokens</title>
@@ -162,13 +181,13 @@
 &lt;p&gt;GLM 5.2 Fast is live on Fireworks today. Across multiple 3rd party benchmarks, Fireworks consistently delivers the fastest throughput among all API inference providers. ~2x our own Standard path, on shared serverless endpoint, available for everyone, with no reserved GPUs.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Cursor Composer 2 + Fireworks AI</title>
+    <title>Cursor Composer 2 + Fireworks</title>
     <link href="https://fireworks.ai/blog/Cursor-Composer-2"/>
-    <id>a353a3a635a6e279fb37a73dbd0fb711</id>
+    <id>8f9403a7690d999f364d03c95fced37e</id>
     <published>2026-06-26T00:00:00+00:00</published>
     <updated>2026-06-26T00:00:00+00:00</updated>
     <summary type="text">Cursor built a coding model optimized for software engineering by combining continual pre-training, reinforcement learning, and production feedback.</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/221830e7e8be2cebabe225c6f982170d20cb65d1-1600x900.png&quot; alt=&quot;Cursor Composer 2 + Fireworks AI&quot; /&gt;
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/221830e7e8be2cebabe225c6f982170d20cb65d1-1600x900.png&quot; alt=&quot;Cursor Composer 2 + Fireworks&quot; /&gt;
 &lt;p&gt;Cursor built a coding model optimized for software engineering by combining continual pre-training, reinforcement learning, and production feedback.&lt;/p&gt;</content>
   </entry>
   <entry>
@@ -177,9 +196,9 @@
     <id>2160eb39020039ae1f55f7a52f7231be</id>
     <published>2026-06-26T00:00:00+00:00</published>
     <updated>2026-06-26T00:00:00+00:00</updated>
-    <summary type="text">Factory is proving that agentic software development only works at scale when teams can swap models instantly without breaking production. By standardizing on Fireworks AI for day-zero open model access and consistent performance, they cut costs to 6–20% of frontier levels while keeping their “Droid</summary>
+    <summary type="text">Factory is proving that agentic software development only works at scale when teams can swap models instantly without breaking production. By standardizing on Fireworks for day-zero open model access and consistent performance, they cut costs to 6–20% of frontier levels while keeping their “Droids” </summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/683e232562d65925a892a2e16108b45223fb9640-1600x900.png&quot; alt=&quot;How Factory Grew Open Model Usage 2-3x in Six Months on Fireworks&quot; /&gt;
-&lt;p&gt;Factory is proving that agentic software development only works at scale when teams can swap models instantly without breaking production. By standardizing on Fireworks AI for day-zero open model access and consistent performance, they cut costs to 6–20% of frontier levels while keeping their “Droids” reliable as new models ship&lt;/p&gt;</content>
+&lt;p&gt;Factory is proving that agentic software development only works at scale when teams can swap models instantly without breaking production. By standardizing on Fireworks for day-zero open model access and consistent performance, they cut costs to 6–20% of frontier levels while keeping their “Droids” reliable as new models ship&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Frontier AI at a fraction of the cost: open-source workers with a closed-source advisor</title>
@@ -218,6 +237,7 @@
     <published>2026-06-15T00:00:00+00:00</published>
     <updated>2026-06-15T00:00:00+00:00</updated>
     <summary type="text">Fireworks is moving to prepaid billing on July 1st</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;Fireworks is moving to prepaid billing on July 1st&quot; /&gt;</content>
   </entry>
   <entry>
     <title>Kimi K2.7 Code on Fireworks: Better Agents, Lower Cost per Task, Available Day-0</title>
@@ -275,9 +295,9 @@
     <id>747ac3c8b5353a74ab548ccf1ad78d19</id>
     <published>2026-06-01T00:00:00+00:00</published>
     <updated>2026-06-01T00:00:00+00:00</updated>
-    <summary type="text">Trilogy’s AI Center of Excellence evaluated open-weight models as rising inference costs and operational constraints limited scalable deployment across enterprise AI workloads. Fireworks AI provided a unified inference layer for evaluation and early production testing, enabling validation of open-we</summary>
+    <summary type="text">Trilogy’s AI Center of Excellence evaluated open-weight models as rising inference costs and operational constraints limited scalable deployment across enterprise AI workloads. Fireworks provided a unified inference layer for evaluation and early production testing, enabling validation of open-weigh</summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/17b1df72c0a40bc31e5c78dc2e3be130478217a3-1600x900.png&quot; alt=&quot;Trilogy Validates Open-Weight AI Models for Enterprise AI Workloads with Fireworks&quot; /&gt;
-&lt;p&gt;Trilogy’s AI Center of Excellence evaluated open-weight models as rising inference costs and operational constraints limited scalable deployment across enterprise AI workloads. Fireworks AI provided a unified inference layer for evaluation and early production testing, enabling validation of open-weight models under enterprise-scale latency, cost, and throughput requirements.&lt;/p&gt;</content>
+&lt;p&gt;Trilogy’s AI Center of Excellence evaluated open-weight models as rising inference costs and operational constraints limited scalable deployment across enterprise AI workloads. Fireworks provided a unified inference layer for evaluation and early production testing, enabling validation of open-weight models under enterprise-scale latency, cost, and throughput requirements.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Agents Don't Fail on Intelligence. They Fail on Execution.</title>
@@ -295,15 +315,16 @@
     <published>2026-05-19T00:00:00+00:00</published>
     <updated>2026-05-19T00:00:00+00:00</updated>
     <summary type="text">Best Open Source LLMs of May 2026: We Reviewed 7 Models</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;Best Open Source LLMs of May 2026: We Reviewed 7 Models&quot; /&gt;</content>
   </entry>
   <entry>
-    <title>Innovative Solutions Rebuilds Enterprise Services Delivery with Fireworks AI</title>
+    <title>Innovative Solutions Rebuilds Enterprise Services Delivery with Fireworks</title>
     <link href="https://fireworks.ai/blog/innovative-solutions"/>
-    <id>6e79269e5158b16267f14a4780592981</id>
+    <id>7d7a049b5a57549ecfab545568377c02</id>
     <published>2026-05-05T00:00:00+00:00</published>
     <updated>2026-05-05T00:00:00+00:00</updated>
     <summary type="text">By powering DarcyIQ with Fireworks, Innovative Solutions transformed AI inference from a linear cost center into a predictable scaling layer for multi-agent services delivery, enabling faster cycles, higher throughput, and stable economics at billions of tokens per month.</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/6cbed5389f54a0b1e191f8b84d3ee2939acb7888-5000x2813.png&quot; alt=&quot;Innovative Solutions Rebuilds Enterprise Services Delivery with Fireworks AI&quot; /&gt;
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/6cbed5389f54a0b1e191f8b84d3ee2939acb7888-5000x2813.png&quot; alt=&quot;Innovative Solutions Rebuilds Enterprise Services Delivery with Fireworks&quot; /&gt;
 &lt;p&gt;By powering DarcyIQ with Fireworks, Innovative Solutions transformed AI inference from a linear cost center into a predictable scaling layer for multi-agent services delivery, enabling faster cycles, higher throughput, and stable economics at billions of tokens per month.&lt;/p&gt;</content>
   </entry>
   <entry>
@@ -331,7 +352,8 @@
     <published>2026-04-23T00:00:00+00:00</published>
     <updated>2026-04-23T00:00:00+00:00</updated>
     <summary type="text">Compare Claude Code costs across Pro, Max, Team, Enterprise, and API usage, then learn how Fireworks can lower model costs for supported workflows.</summary>
-    <content type="html">&lt;p&gt;Compare Claude Code costs across Pro, Max, Team, Enterprise, and API usage, then learn how Fireworks can lower model costs for supported workflows.&lt;/p&gt;</content>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;Claude Code pricing: plans, API costs, and how to lower your bill&quot; /&gt;
+&lt;p&gt;Compare Claude Code costs across Pro, Max, Team, Enterprise, and API usage, then learn how Fireworks can lower model costs for supported workflows.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Own Your AI: Fireworks Training Preview</title>
@@ -396,7 +418,8 @@
     <published>2026-03-04T00:00:00+00:00</published>
     <updated>2026-03-04T00:00:00+00:00</updated>
     <summary type="text">We compared pricing, latency, and models across 8 LLM API providers. Find the best fit for production, fine-tuning, custom deployment, or prototyping.</summary>
-    <content type="html">&lt;p&gt;We compared pricing, latency, and models across 8 LLM API providers. Find the best fit for production, fine-tuning, custom deployment, or prototyping.&lt;/p&gt;</content>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;The Best 8 LLM API Providers in 2026&quot; /&gt;
+&lt;p&gt;We compared pricing, latency, and models across 8 LLM API providers. Find the best fit for production, fine-tuning, custom deployment, or prototyping.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Best LLMs for coding in 2026</title>
@@ -405,7 +428,8 @@
     <published>2026-03-02T00:00:00+00:00</published>
     <updated>2026-03-02T00:00:00+00:00</updated>
     <summary type="text">Compare GPT-5.5, Claude Opus 4.7, DeepSeek V4-Pro, Kimi K2.6, and 7 more LLMs for coding. Artificial Analysis benchmarks, Fireworks pricing, and tradeoffs.</summary>
-    <content type="html">&lt;p&gt;Compare GPT-5.5, Claude Opus 4.7, DeepSeek V4-Pro, Kimi K2.6, and 7 more LLMs for coding. Artificial Analysis benchmarks, Fireworks pricing, and tradeoffs.&lt;/p&gt;</content>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;Best LLMs for coding in 2026&quot; /&gt;
+&lt;p&gt;Compare GPT-5.5, Claude Opus 4.7, DeepSeek V4-Pro, Kimi K2.6, and 7 more LLMs for coding. Artificial Analysis benchmarks, Fireworks pricing, and tradeoffs.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>The DeepSeek Model Lineup: V3.2, R1, and Distilled Variants Mapped to Production Workloads</title>
@@ -413,8 +437,9 @@
     <id>20f5bafaae0b6dc8614fc1e728050bae</id>
     <published>2026-02-27T00:00:00+00:00</published>
     <updated>2026-02-27T00:00:00+00:00</updated>
-    <summary type="text">DeepSeek models explained: V3.2 vs R1 vs distilled variants, when to use thinking mode, tool calling limits, token costs, and how to run them on Fireworks AI.</summary>
-    <content type="html">&lt;p&gt;DeepSeek models explained: V3.2 vs R1 vs distilled variants, when to use thinking mode, tool calling limits, token costs, and how to run them on Fireworks AI.&lt;/p&gt;</content>
+    <summary type="text">DeepSeek models explained: V3.2 vs R1 vs distilled variants, when to use thinking mode, tool calling limits, token costs, and how to run them on Fireworks.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;The DeepSeek Model Lineup: V3.2, R1, and Distilled Variants Mapped to Production Workloads&quot; /&gt;
+&lt;p&gt;DeepSeek models explained: V3.2 vs R1 vs distilled variants, when to use thinking mode, tool calling limits, token costs, and how to run them on Fireworks.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>The Benchmark Gap: What It Takes to Ship Kimi K2.5</title>
@@ -426,13 +451,13 @@
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/35516314dd6fc5a2b6e56ce5fc78cc3c6f433c47-1080x591.png&quot; alt=&quot;The Benchmark Gap: What It Takes to Ship Kimi K2.5&quot; /&gt;</content>
   </entry>
   <entry>
-    <title>The Missing Piece of the OpenClaw Mania: Truly ‘Own Your AI’ with Fireworks AI</title>
+    <title>The Missing Piece of the OpenClaw Mania: Truly ‘Own Your AI’ with Fireworks</title>
     <link href="https://fireworks.ai/blog/openclaw-using-kimi2p5-on-fireworks-ai"/>
-    <id>0844a41300d68020ddc4f2e8980faeec</id>
+    <id>233c7a15bb94189a2ff115e1b8837f77</id>
     <published>2026-01-30T00:00:00+00:00</published>
     <updated>2026-01-30T00:00:00+00:00</updated>
-    <summary type="text">The Missing Piece of the OpenClaw Mania: Truly ‘Own Your AI’ with Fireworks AI</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/166f02832179cb3582358ffc5a7d372a88569c72-1280x720.png&quot; alt=&quot;The Missing Piece of the OpenClaw Mania: Truly ‘Own Your AI’ with Fireworks AI&quot; /&gt;</content>
+    <summary type="text">The Missing Piece of the OpenClaw Mania: Truly ‘Own Your AI’ with Fireworks</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/166f02832179cb3582358ffc5a7d372a88569c72-1280x720.png&quot; alt=&quot;The Missing Piece of the OpenClaw Mania: Truly ‘Own Your AI’ with Fireworks&quot; /&gt;</content>
   </entry>
   <entry>
     <title>Build powerful agents on OSS models with Blazing Fast Inference on Fireworks</title>
@@ -460,25 +485,5 @@
     <updated>2026-01-23T00:00:00+00:00</updated>
     <summary type="text">Turning Production Logs into Evaluation Datasets: A Data-Driven Approach</summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/0f48257ec0104285330680109b47340d5df0c295-1600x900.png&quot; alt=&quot;Turning Production Logs into Evaluation Datasets: A Data-Driven Approach&quot; /&gt;</content>
-  </entry>
-  <entry>
-    <title>DPO, your simplest RL pipeline with two rollouts</title>
-    <link href="https://fireworks.ai/blog/dpo-as-rl"/>
-    <id>f2c15b89299ba19359b40154e52031e5</id>
-    <published>2025-12-31T00:00:00+00:00</published>
-    <updated>2025-12-31T00:00:00+00:00</updated>
-    <summary type="text">DPO (Direct Preference Optimization) and GRPO (Group Relative Policy Optimization) are both powerful LLM fine-tuning techniques that allow models to be tuned towards generating better responses. While GRPO is a Reinforcement Learning algorithm that requires much more setup, DPO is usually much easie</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/f288bfde1d80561c0e71a0f26fe6f1a8fe034030-4096x3424.png&quot; alt=&quot;DPO, your simplest RL pipeline with two rollouts&quot; /&gt;
-&lt;p&gt;DPO (Direct Preference Optimization) and GRPO (Group Relative Policy Optimization) are both powerful LLM fine-tuning techniques that allow models to be tuned towards generating better responses. While GRPO is a Reinforcement Learning algorithm that requires much more setup, DPO is usually much easier to experiment with. So how feasible is it to build an RL-like training pipeline with just DPO?&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Self-Improving Agents, Powered by Your Evals</title>
-    <link href="https://fireworks.ai/blog/self-improving-agent"/>
-    <id>c21bf3686004c32c0f537ff0c4a50e8e</id>
-    <published>2025-12-17T00:00:00+00:00</published>
-    <updated>2025-12-17T00:00:00+00:00</updated>
-    <summary type="text">Eval Protocol is a unified eval interface that powers both prompt optimization and RL on the same evaluation function. Author your evaluator once, and instantly unlock huge gains on open-source models.</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/e937a13e40b0b4dcbca881d8d1d7502e2418928a-4800x2700.png&quot; alt=&quot;Self-Improving Agents, Powered by Your Evals&quot; /&gt;
-&lt;p&gt;Eval Protocol is a unified eval interface that powers both prompt optimization and RL on the same evaluation function. Author your evaluator once, and instantly unlock huge gains on open-source models.&lt;/p&gt;</content>
   </entry>
 </feed>
