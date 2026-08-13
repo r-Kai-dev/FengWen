@@ -4,7 +4,7 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-08-12T21:37:40.387038+00:00</updated>
+  <updated>2026-08-13T21:37:15.384824+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
@@ -12,10 +12,28 @@
     <title>Jul. 14, 2026</title>
     <link href="https://epoch.ai/publications/chips-topic-overview"/>
     <id>bdb7b7160e38783eefc8ca833fcef3c8</id>
-    <published>2026-08-12T21:37:40.387038+00:00</published>
-    <updated>2026-08-12T21:37:40.387038+00:00</updated>
+    <published>2026-08-13T21:37:15.384824+00:00</published>
+    <updated>2026-08-13T21:37:15.384824+00:00</updated>
     <summary type="text">A look at the specialized hardware driving modern AI — why chips cost tens of thousands of dollars each, and why demand continues to outstrip supply.</summary>
     <category term="Topic Overview"/>
+  </entry>
+  <entry>
+    <title>The performance per dollar of AI chips purchased each quarter has grown by an average of 49% per year</title>
+    <link href="https://epoch.ai/data-insights/chip-performance-per-dollar"/>
+    <id>821555619cf7a95b0eee967632f3fbf1</id>
+    <published>2026-08-13T00:00:00+00:00</published>
+    <updated>2026-08-13T00:00:00+00:00</updated>
+    <summary type="text">Since 2023, the average dollar spent on AI chips each quarter has yielded about 49% more performance each year in constant 2025 dollars, doubling every 1.7 years as spending shifts to each new chip generation.</summary>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>Will financing bottleneck AI compute? An Anthropic case study</title>
+    <link href="https://epoch.ai/gradient-updates/will-financing-bottleneck-ai-compute"/>
+    <id>5e22266701195bb3516ece4b7131fa64</id>
+    <published>2026-08-12T00:00:00+00:00</published>
+    <updated>2026-08-12T00:00:00+00:00</updated>
+    <summary type="text">Why Anthropic's buildout suggests that financing is unlikely to be the immediate blocker to frontier AI compute growth.</summary>
+    <category term="Newsletter"/>
   </entry>
   <entry>
     <title>AI at work: how AI is changing everyday job tasks</title>
@@ -78,24 +96,6 @@
     <published>2026-07-07T00:00:00+00:00</published>
     <updated>2026-07-07T00:00:00+00:00</updated>
     <summary type="text">The share of working days on which OpenAI's Codex collaborators merged very-high-effort code rose from about 2% in Q2 2025 to about 8% in Q2 2026.</summary>
-    <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>The missing half of AI futurism debates</title>
-    <link href="https://epoch.ai/gradient-updates/the-missing-half-of-ai-futurism-debates"/>
-    <id>63054f8151b24bd112f8d72f724eb8a8</id>
-    <published>2026-07-07T00:00:00+00:00</published>
-    <updated>2026-07-07T00:00:00+00:00</updated>
-    <summary type="text">Why we should think a little harder about what it takes to build a Dyson Sphere</summary>
-    <category term="Newsletter"/>
-  </entry>
-  <entry>
-    <title>Disclosed CVEs: 3.5× Spike After Claude Mythos</title>
-    <link href="https://epoch.ai/data-insights/cve-severity-spike"/>
-    <id>aef50681b836ffec561cbd30a667f4b0</id>
-    <published>2026-07-02T00:00:00+00:00</published>
-    <updated>2026-07-02T00:00:00+00:00</updated>
-    <summary type="text">Notable organizations disclosed ~1,300 high- and critical-severity CVEs in June 2026, roughly 3.5× the pre-Mythos monthly record. Epoch AI's breakdown of vulnerability disclosures following Anthropic's Project Glasswing.</summary>
     <category term="Data Insight"/>
   </entry>
 </feed>

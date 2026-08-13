@@ -4,128 +4,118 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-12T20:20:07+00:00</updated>
+  <updated>2026-08-13T20:15:32+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Anthropic's Claude in Chrome Now Runs Full Cowork Sessions Across Every Device</title>
-    <link href="https://support.claude.com/en/articles/12902428-use-claude-in-chrome-safely"/>
-    <id>a5ddb639ef473ef3dcec96fd36222136</id>
-    <published>2026-08-12T20:20:07+00:00</published>
-    <updated>2026-08-12T20:20:07+00:00</updated>
-    <summary type="text">Claude in Chrome's side panel now runs a full Cowork session, syncing conversations, skills, and connectors across desktop, web, and mobile</summary>
-    <category term="agents"/>
+    <title>OpenAI's Computer History Watches Your Mac So You Stop Re-explaining Yourself</title>
+    <link href="https://learn.chatgpt.com/docs/customization/computer-history"/>
+    <id>356a62bf8774df40b12013fa11eaea15</id>
+    <published>2026-08-13T20:15:32+00:00</published>
+    <updated>2026-08-13T20:15:32+00:00</updated>
+    <summary type="text">ChatGPT's Computer History replaces the screenshot-based Chronicle preview with an event-driven system that tracks your work across apps and websites without ever capturing your screen.</summary>
+    <category term="llms"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>Zed Launches Delta to Replace Git Where AI Agents Write Code</title>
-    <link href="https://zed.dev/blog/introducing-delta"/>
-    <id>98d6e4a9bd500ce3bd0f3641f3d93520</id>
-    <published>2026-08-12T18:09:18+00:00</published>
-    <updated>2026-08-12T18:09:18+00:00</updated>
-    <summary type="text">Zed's new standalone app turns agent coding sessions into shared, reviewable, real-time multiplayer threads backed by a CRDT-based version control layer</summary>
-    <category term="development"/>
-    <category term="agents"/>
+    <title>Prime Intellect's Prime Flash MoE Runs 2.4x Faster on Blackwell GPUs</title>
+    <link href="https://www.primeintellect.ai/blog/prime-flash-moe"/>
+    <id>b09e84180fdcef08f70720ce465560ae</id>
+    <published>2026-08-13T18:28:43+00:00</published>
+    <updated>2026-08-13T18:28:43+00:00</updated>
+    <summary type="text">Prime Intellect releases Blackwell-native CUDA kernels for MoE inference that fuse routing, SwiGLU, and quantization into a single pass â up to 2.4x faster than PyTorch grouped GEMM on B200s.</summary>
+    <category term="gpus"/>
+    <category term="infra"/>
   </entry>
   <entry>
-    <title>xAI Ships Grok 4.6 to Match Claude Fable 5 at 5x Lower Cost</title>
-    <link href="https://artificialanalysis.ai/evaluations/aa-briefcase"/>
-    <id>8e82e7c2a7aff3d481e382a6fad8c461</id>
-    <published>2026-08-12T17:55:09+00:00</published>
-    <updated>2026-08-12T17:55:09+00:00</updated>
-    <summary type="text">SpaceXAI's Grok 4.6 matches Claude Fable 5 on agentic knowledge work benchmarks at a fraction of the cost, with API pricing starting at $2/M input tokens.</summary>
-    <category term="agents"/>
-    <category term="benchmarks"/>
+    <title>Perplexity's Search as Code Beats OpenAI and Anthropic on 4 of 5 Benchmarks</title>
+    <link href="https://x.com/perplexity_ai/status/2087950343841915046"/>
+    <id>bbfd788f96ffba4abc90bc1be60844b5</id>
+    <published>2026-08-13T17:12:08+00:00</published>
+    <updated>2026-08-13T17:12:08+00:00</updated>
+    <summary type="text">Perplexity's Search as Code gets faster and cheaper, while SDK updates push agent action reliability from 81.9% to 92.6%</summary>
+    <category term="api"/>
+    <category term="infra"/>
   </entry>
   <entry>
-    <title>Nous Research's Hermes Agent Now Lets You Pack and Share Entire AI Setups</title>
-    <link href="https://x.com/nousresearch/status/2087592096769147377"/>
-    <id>a09a6aa5ed97975769a0d7d23a8b0257</id>
-    <published>2026-08-12T17:28:36+00:00</published>
-    <updated>2026-08-12T17:28:36+00:00</updated>
-    <summary type="text">Hermes Agent profiles are now a single portable file, letting you share full agent setups with credentials safely stripped out</summary>
-    <category term="development"/>
-    <category term="open_source"/>
+    <title>Google DeepMind's Gemini 3.7 Flash Doubles Coding Scores at Half the Price</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
+    <id>8b02befecf62fae91b235bd0e5a8e311</id>
+    <published>2026-08-13T17:04:17+00:00</published>
+    <updated>2026-08-13T17:04:17+00:00</updated>
+    <summary type="text">Gemini 3.7 Flash lands just three weeks after 3.6, with major coding and agent gains at half the price</summary>
+    <category term="llms"/>
+    <category term="api"/>
   </entry>
   <entry>
-    <title>Cohere's North Micro Vision Reads Full A4 Documents Without Losing Detail</title>
-    <link href="https://huggingface.co/blog/CohereLabs/meet-north-micro-vision-instruct"/>
-    <id>204604d0423f386e47c2319da66934eb</id>
-    <published>2026-08-12T16:07:03+00:00</published>
-    <updated>2026-08-12T16:07:03+00:00</updated>
-    <summary type="text">Cohere releases a free 2.4B vision-language model that reads documents at full resolution, beating larger rivals on DocVQA and grounding tasks</summary>
+    <title>OpenAI's GPT-5.6 Sol Hits 750 Tokens per Second on Cerebras Hardware</title>
+    <link href="https://openai.com/index/previewing-ultrafast/"/>
+    <id>a2eaf8818944e2f8cdcb86d40f5a1d56</id>
+    <published>2026-08-13T17:01:43+00:00</published>
+    <updated>2026-08-13T17:01:43+00:00</updated>
+    <summary type="text">OpenAI's Ultrafast tier runs GPT-5.6 Sol at 750 tokens per second on Cerebras hardware, up to 14x faster than standard processing, unlocking real-time frontier AI for enterprise workflows.</summary>
+    <category term="llms"/>
+    <category term="api"/>
+  </entry>
+  <entry>
+    <title>FLORA's Fashion Studio Turns Hand-Drawn Sketches Into Shopify Campaigns 3x Faster</title>
+    <link href="https://flora.ai/studio/fashion?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=2026-08_fashion-studio&amp;utm_content=video"/>
+    <id>5e94fb7b311f5ee8bae6e25d3204e6f0</id>
+    <published>2026-08-13T16:00:49+00:00</published>
+    <updated>2026-08-13T16:00:49+00:00</updated>
+    <summary type="text">FLORA's Fashion Studio collapses sketch, render, fabric swap, and model shoot into one connected workspace â available now on every plan</summary>
     <category term="image"/>
+    <category term="vibe_coding"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis' Optima Lets Any Team Build Custom AI Benchmarks</title>
+    <link href="https://artificialanalysis.ai/optima"/>
+    <id>3cc3d5035f116f5dd6676556e7cf7b99</id>
+    <published>2026-08-13T15:54:24+00:00</published>
+    <updated>2026-08-13T15:54:24+00:00</updated>
+    <summary type="text">Artificial Analysis launches Optima, letting teams build custom model benchmarks from their own data, agent traces, or plain-text descriptions â with cost and speed tracked alongside quality.</summary>
+    <category term="benchmarks"/>
+    <category term="development"/>
+  </entry>
+  <entry>
+    <title>DeepSeek Harness Opens the Agent Framework It Used to Benchmark Its Own Models</title>
+    <link href="https://github.com/deepseek-ai/deepseek-harness"/>
+    <id>8faf63706488e3fe12a91fbc195f20f4</id>
+    <published>2026-08-13T13:02:03+00:00</published>
+    <updated>2026-08-13T13:02:03+00:00</updated>
+    <summary type="text">DeepSeek open-sources its agent harness framework under MIT, where every component from models to UI is a hot-swappable plugin</summary>
+    <category term="agents"/>
     <category term="open_source"/>
   </entry>
   <entry>
-    <title>Google's Gemini Hits 1 Billion Users and Adds 14 App Connections</title>
-    <link href="https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/"/>
-    <id>a06b275e9a38b5c8920e0c6ded9a23b7</id>
-    <published>2026-08-12T15:50:11+00:00</published>
-    <updated>2026-08-12T15:50:11+00:00</updated>
-    <summary type="text">Google adds 14 new MCP-powered app connections to Gemini, spanning music, travel, health, and productivity, as the assistant crosses 1 billion monthly users</summary>
-    <category term="agents"/>
+    <title>DeepSeek V4-Pro Goes Live and Runs OpenAI's Own Coding Agent 8x Cheaper</title>
+    <link href="https://x.com/deepseek_ai/status/2087864585504305397"/>
+    <id>9716c12abc72fdb04799471e7674870e</id>
+    <published>2026-08-13T11:31:22+00:00</published>
+    <updated>2026-08-13T11:31:22+00:00</updated>
+    <summary type="text">DeepSeek-V4-Pro exits four months of preview with major agent upgrades, flexible reasoning modes, and native OpenAI Responses API support for Codex workflows</summary>
+    <category term="llms"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>Google DeepMind's SL2T Doubles Sign Language AI Accuracy, Giving Deaf Users a Voice</title>
-    <link href="https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
-    <id>fb007e6ebc61d6766d0cc5695f5ea538</id>
-    <published>2026-08-12T14:06:24+00:00</published>
-    <updated>2026-08-12T14:06:24+00:00</updated>
-    <summary type="text">Google DeepMind's SL2T model brings real-time ASL-to-English dictation to Gboard and Live Transcribe on Pixel 11, trained on 100,000+ hours across 50+ sign languages.</summary>
+    <title>Sarvam AI Opens Samvaad to Developers After 350M Real Conversations</title>
+    <link href="https://indus.sarvam.ai/samvaad/home"/>
+    <id>4f72f70a1b24346ff843ab925084e58a</id>
+    <published>2026-08-13T11:29:27+00:00</published>
+    <updated>2026-08-13T11:29:27+00:00</updated>
+    <summary type="text">Sarvam AI opens its Samvaad Voice Agents platform to everyone, backed by 350M enterprise conversations and a fresh $1.5B unicorn valuation</summary>
+    <category term="agents"/>
     <category term="audio"/>
-    <category term="image"/>
   </entry>
   <entry>
-    <title>Liquid AI's LFM2.5-VL-3B Beats Models Twice Its Size Running on Your Phone</title>
-    <link href="https://playground.liquid.ai/login?callbackUrl=%2Fchat%3Fmodel%3DLFM2.5-VL-3B"/>
-    <id>82537c1ed9c9b840ebe8040274301688</id>
-    <published>2026-08-12T14:01:05+00:00</published>
-    <updated>2026-08-12T14:01:05+00:00</updated>
-    <summary type="text">Liquid AI's 3B vision-language model beats models up to 2.6x its size on screen understanding and grounding, running on-device at 20 tokens/s on a phone.</summary>
-    <category term="image"/>
+    <title>Sakana AI's Fugu and Namazu Now Write and Run Code Inside Chat</title>
+    <link href="https://sakana.ai/chat-update/"/>
+    <id>f93ebf3ba707027d054a496ca491949f</id>
+    <published>2026-08-13T00:46:30+00:00</published>
+    <updated>2026-08-13T00:46:30+00:00</updated>
+    <summary type="text">Sakana Chat adds its orchestrator model Fugu, a refreshed Namazu, and in-browser Python execution â making frontier-grade AI accessible without an API</summary>
+    <category term="vibe_coding"/>
     <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Sarvam AI's Indus Wins Maharashtra, Putting Sovereign AI to Work for 2,500 Officials</title>
-    <link href="https://www.sarvam.ai/partnerships/maharashtra-government"/>
-    <id>effd428329111aaf166524a5498535cc</id>
-    <published>2026-08-12T13:33:49+00:00</published>
-    <updated>2026-08-12T13:33:49+00:00</updated>
-    <summary type="text">Sarvam's Indus platform goes live for 2,500 Maharashtra officials, marking India's most ambitious state-level sovereign AI deployment to date</summary>
-    <category term="government"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Lovable Hits $13.3B Valuation After 60 Million Apps Built Without Code</title>
-    <link href="https://lovable.dev/blog/series-c"/>
-    <id>b1c302a68ece99e581aefa3dfabec6da</id>
-    <published>2026-08-12T10:01:44+00:00</published>
-    <updated>2026-08-12T10:01:44+00:00</updated>
-    <summary type="text">Lovable raises $400M at a $13.3B valuation, betting that AI-generated software will let anyone build and run a real business</summary>
-    <category term="business"/>
-    <category term="llms"/>
-  </entry>
-  <entry>
-    <title>Ant Group's Ling 3.0 Tiny Matches GPT-120B Intelligence With 15x Fewer Parameters</title>
-    <link href="https://artificialanalysis.ai/models/ling-3-0-tiny"/>
-    <id>a49d62663ea7068ab5f17e1ecb23732a</id>
-    <published>2026-08-12T02:51:30+00:00</published>
-    <updated>2026-08-12T02:51:30+00:00</updated>
-    <summary type="text">Ant Group's InclusionAI releases a 7.9B MoE reasoning model that matches GPT-class performance with just 1.3B active parameters, free and MIT-licensed.</summary>
-    <category term="llms"/>
-    <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Artificial Analysis's AA-AnalystAgent Benchmark Reveals Claude Opus 5 Beats GPT-5.5 on Reliability</title>
-    <link href="https://artificialanalysis.ai/evaluations/aa-analyst-agent"/>
-    <id>90ad632520d9529cc1e63a88e5ee8e3f</id>
-    <published>2026-08-11T22:23:41+00:00</published>
-    <updated>2026-08-11T22:23:41+00:00</updated>
-    <summary type="text">Artificial Analysis launches AA-AnalystAgent, a new benchmark that tests AI agents on real spreadsheets â and even the best model only passes 54% of tasks every time.</summary>
-    <category term="benchmarks"/>
-    <category term="agents"/>
   </entry>
 </feed>

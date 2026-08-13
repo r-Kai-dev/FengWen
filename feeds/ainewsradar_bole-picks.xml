@@ -4,28 +4,80 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-12T20:15:51.977000+00:00</updated>
+  <updated>2026-08-13T19:14:12+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork</title>
-    <link href="https://claude.com/blog/cowork-chrome-side-panel"/>
-    <id>2bab4c369e746fbe1053ca572aae5c01</id>
-    <published>2026-08-12T20:15:51.977000+00:00</published>
-    <updated>2026-08-12T20:15:51.977000+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>许可证数据质量提升 / License data quality improvements</title>
+    <link href="https://github.blog/changelog/2026-08-13-license-data-quality-improvements"/>
+    <id>ecb3bce23cde6cf5bc490b4cb2ea66fb</id>
+    <published>2026-08-13T19:14:12+00:00</published>
+    <updated>2026-08-13T19:14:12+00:00</updated>
+    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>在个人仓库中屏蔽用户评论 / Block users from comments in personal repositories</title>
+    <link href="https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories"/>
+    <id>8c49db2ff2e42e165319cbf2be97df2a</id>
+    <published>2026-08-13T19:02:46+00:00</published>
+    <updated>2026-08-13T19:02:46+00:00</updated>
+    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</title>
+    <link href="https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"/>
+    <id>5e650513046cd2141e5851708c425fce</id>
+    <published>2026-08-13T17:16:04+00:00</published>
+    <updated>2026-08-13T17:16:04+00:00</updated>
+    <summary type="text">Score: 0.856\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash</title>
+    <link href="https://deepmind.google/blog/introducing-gemini-3-7-flash"/>
+    <id>8eb4c46d657c8a7426dbfeaf7fd8aac9</id>
+    <published>2026-08-13T17:04:18+00:00</published>
+    <updated>2026-08-13T17:04:18+00:00</updated>
+    <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型 / MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready &amp; Versatile Music Model</title>
+    <link href="https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model"/>
+    <id>dbc76a9eb2238fd16a22237ad89f1d07</id>
+    <published>2026-08-13T16:52:23.676000+00:00</published>
+    <updated>2026-08-13T16:52:23.676000+00:00</updated>
+    <summary type="text">Score: 0.730\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>使用 GitHub Copilot 应用编写你的第一个提示词 / Write your first prompt with the GitHub Copilot app</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app"/>
-    <id>c1c522675fcfa6f626022f1b3eeeaa5e</id>
-    <published>2026-08-12T19:00:00+00:00</published>
-    <updated>2026-08-12T19:00:00+00:00</updated>
-    <summary type="text">Score: 0.855\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas</title>
+    <link href="https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets"/>
+    <id>05868b90f9c24c237e4e9ecaa804ff7b</id>
+    <published>2026-08-13T16:45:00+00:00</published>
+    <updated>2026-08-13T16:45:00+00:00</updated>
+    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -33,61 +85,23 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Agent Plugins 1.0 现已登陆 VS Code、Copilot CLI 和 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app</title>
-    <link href="https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app"/>
-    <id>0629405f4de5ea59ff07dc48ac0f5348</id>
-    <published>2026-08-12T18:39:11+00:00</published>
-    <updated>2026-08-12T18:39:11+00:00</updated>
-    <summary type="text">Score: 0.846\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>面向组织的规则洞察现已进入公开预览 / Rule insights for organizations in public preview</title>
-    <link href="https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview"/>
-    <id>d8043c08925000f60687edae93d44b43</id>
-    <published>2026-08-12T18:30:28+00:00</published>
-    <updated>2026-08-12T18:30:28+00:00</updated>
-    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求 / Your contributors are AI-first now. Is your project？</title>
-    <link href="https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project"/>
-    <id>bd57b3ce3f8a1bf3cd144fc9ffa04e4d</id>
-    <published>2026-08-12T18:00:08+00:00</published>
-    <updated>2026-08-12T18:00:08+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…</title>
+    <link href="https://x.com/SiliconFlowAI/status/2087903227224412222"/>
+    <id>53ac20fd5c257fdb0ec318224cdf6b3c</id>
+    <published>2026-08-13T14:04:55+00:00</published>
+    <updated>2026-08-13T14:04:55+00:00</updated>
+    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality</title>
-    <link href="https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality"/>
-    <id>ba338973ed15eeeee122601e8b297fbf</id>
-    <published>2026-08-12T17:57:36.369000+00:00</published>
-    <updated>2026-08-12T17:57:36.369000+00:00</updated>
-    <summary type="text">Score: 0.790\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>推出 OlmoEarth embeddings：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis</title>
-    <link href="https://huggingface.co/blog/allenai/olmoearth-embeddings"/>
-    <id>931fb87945ac8ec4ba4dbb52b1ffeb03</id>
-    <published>2026-08-12T16:14:36+00:00</published>
-    <updated>2026-08-12T16:14:36+00:00</updated>
-    <summary type="text">Score: 0.848\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Gemini 3.7 Flash 现已登陆 GitHub Copilot / Gemini 3.7 Flash is now available in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot"/>
+    <id>1c036ef0bfbe1acf47865cd24076ab9f</id>
+    <published>2026-08-13T14:00:53+00:00</published>
+    <updated>2026-08-13T14:00:53+00:00</updated>
+    <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -95,127 +109,108 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文</title>
-    <link href="https://www.ithome.com/0/989/001.htm"/>
-    <id>32e37eb06089809f43dd6ecfae123529</id>
-    <published>2026-08-12T16:10:01+00:00</published>
-    <updated>2026-08-12T16:10:01+00:00</updated>
-    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>DeepSeek Harness v0.1 开发者预览版发布 / 🧩 DeepSeek Harness v0.1 is now available in Developer Preview！ 🔹 We're opening it up to developer…</title>
+    <link href="https://x.com/deepseek_ai/status/2087887408440164663"/>
+    <id>63b5dca98d547986e026517e24ba3995</id>
+    <published>2026-08-13T13:02:03+00:00</published>
+    <updated>2026-08-13T13:02:03+00:00</updated>
+    <summary type="text">Score: 0.730\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds</title>
+    <link href="https://cursor.com/blog/builds"/>
+    <id>c510a3f5c8405b5b42e5b57b735ced5e</id>
+    <published>2026-08-13T12:00:00+00:00</published>
+    <updated>2026-08-13T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.725\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强</title>
+    <link href="https://api-docs.deepseek.com/zh-cn/updates"/>
+    <id>3115b30d5fb5659e565743c9e8db7f01</id>
+    <published>2026-08-13T11:16:42.199000+00:00</published>
+    <updated>2026-08-13T11:16:42.199000+00:00</updated>
+    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…</title>
-    <link href="https://x.com/mustafasuleyman/status/2087570047967408396"/>
-    <id>209fd1e9f649cf23de73b7f97f5abfc2</id>
-    <published>2026-08-12T16:00:59+00:00</published>
-    <updated>2026-08-12T16:00:59+00:00</updated>
-    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>将手语AI交到用户手中 / Putting sign language AI into users’ hands</title>
-    <link href="https://deepmind.google/blog/putting-sign-language-ai-into-users-hands"/>
-    <id>e5f7fcad3625f9c47681c652f6afcb2d</id>
-    <published>2026-08-12T14:01:59+00:00</published>
-    <updated>2026-08-12T14:01:59+00:00</updated>
-    <summary type="text">Score: 0.827\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6</title>
+    <link href="https://openai.com/index/builders-guide-to-gpt-5-6"/>
+    <id>84a65d01c41c9239ceaaac873fd7f477</id>
+    <published>2026-08-13T11:00:00+00:00</published>
+    <updated>2026-08-13T11:00:00+00:00</updated>
+    <summary type="text">Score: 0.861\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
   </entry>
   <entry>
-    <title>LFM2.5-VL-3B：为边缘端带来更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge</title>
-    <link href="https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"/>
-    <id>b5f02c44b0882437161fa58a9d6d58f5</id>
-    <published>2026-08-12T14:00:51+00:00</published>
-    <updated>2026-08-12T14:00:51+00:00</updated>
-    <summary type="text">Score: 0.849\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…</title>
-    <link href="https://x.com/OpenRouter/status/2087509478480765218"/>
-    <id>a700f30abe6e0a17cb9765a5eb991c75</id>
-    <published>2026-08-12T12:00:18+00:00</published>
-    <updated>2026-08-12T12:00:18+00:00</updated>
-    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测</title>
-    <link href="https://www.aibase.com/news/30289"/>
-    <id>2da30feec811d82c8457ac5be289280e</id>
-    <published>2026-08-12T10:20:15.663331+00:00</published>
-    <updated>2026-08-12T10:20:15.663331+00:00</updated>
+    <title>Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上</title>
+    <link href="https://www.aibase.com/news/30323"/>
+    <id>e4a6d47099e1a4f0f535bc23437ae350</id>
+    <published>2026-08-13T10:28:06.675211+00:00</published>
+    <updated>2026-08-13T10:28:06.675211+00:00</updated>
     <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入</title>
-    <link href="https://www.aibase.com/news/30287"/>
-    <id>7d79e4560eb4de2256cd31a5dc33ce29</id>
-    <published>2026-08-12T10:20:15.663331+00:00</published>
-    <updated>2026-08-12T10:20:15.663331+00:00</updated>
+    <title>WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点</title>
+    <link href="https://www.aibase.com/news/30322"/>
+    <id>daf01a71f023377506ea74c9e7dd4699</id>
+    <published>2026-08-13T10:28:06.675211+00:00</published>
+    <updated>2026-08-13T10:28:06.675211+00:00</updated>
     <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业</title>
-    <link href="https://www.aibase.com/news/30288"/>
-    <id>1a81afc249e91387b95b66ea8b5487e7</id>
-    <published>2026-08-12T10:20:15.663331+00:00</published>
-    <updated>2026-08-12T10:20:15.663331+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>预览超快模式：GPT-5.6 Sol 速度最高提升 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
+    <link href="https://openai.com/index/previewing-ultrafast"/>
+    <id>200a3cd71b59f0ae24f577da42e497e6</id>
+    <published>2026-08-13T10:00:00+00:00</published>
+    <updated>2026-08-13T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.858\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&amp;mid=2247496062&amp;idx=1&amp;sn=d4c48926c5d7607f129dfea03699a6c0"/>
+    <id>ff02a2c3b21ae0d8c1a08b3116681238</id>
+    <published>2026-08-13T09:59:00+00:00</published>
+    <updated>2026-08-13T09:59:00+00:00</updated>
+    <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即</title>
-    <link href="https://www.aibase.com/news/30276"/>
-    <id>c979e3b824d5439e1b02ad2540523a19</id>
-    <published>2026-08-12T08:39:39.214680+00:00</published>
-    <updated>2026-08-12T08:39:39.214680+00:00</updated>
-    <summary type="text">Score: 0.738\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI</title>
-    <link href="https://www.ithome.com/0/988/766.htm"/>
-    <id>978df1f5a197b8a97c34e4f82d680120</id>
-    <published>2026-08-12T06:46:51+00:00</published>
-    <updated>2026-08-12T06:46:51+00:00</updated>
-    <summary type="text">Score: 0.731\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>从辅助到执行：企业如何让AI真正干活 / From assistance to execution: How enterprises put AI to work</title>
-    <link href="https://openai.com/index/how-enterprises-put-ai-to-work"/>
-    <id>bf51c4245c743b78bd379d19f6231950</id>
-    <published>2026-08-12T06:00:00+00:00</published>
-    <updated>2026-08-12T06:00:00+00:00</updated>
-    <summary type="text">Score: 0.817\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>OpenAI任命Dali Rajic为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer</title>
+    <link href="https://openai.com/index/dali-rajic-chief-revenue-officer"/>
+    <id>9a13b8d15504c7b9b7e0a80cf0a4cc39</id>
+    <published>2026-08-13T09:00:00+00:00</published>
+    <updated>2026-08-13T09:00:00+00:00</updated>
+    <summary type="text">Score: 0.823\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -223,29 +218,40 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Research Gold 号称&quot;100%人类撰写、绝不使用AI&quot;，实则全程由AI驱动</title>
-    <link href="https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai"/>
-    <id>35a3caf30ae9c4b4ba31e4dbd53c5edc</id>
-    <published>2026-08-12T02:05:42+00:00</published>
-    <updated>2026-08-12T02:05:42+00:00</updated>
-    <summary type="text">Score: 0.819\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
+    <title>新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems</title>
+    <link href="https://www.anthropic.com/research/multiagent-systems"/>
+    <id>ce0433c4c14b6ddcd7195655c5388c0a</id>
+    <published>2026-08-13T01:20:54.259000+00:00</published>
+    <updated>2026-08-13T01:20:54.259000+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6</title>
-    <link href="https://x.ai/news/grok-4-6"/>
-    <id>eeab970dcae5f501a9840d759686486e</id>
-    <published>2026-08-12T00:00:00+00:00</published>
-    <updated>2026-08-12T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.760\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
+    <title>Computer History</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>862896b632f5b3dd07b004e10e5c42ca</id>
+    <published>2026-08-13T00:00:00+00:00</published>
+    <updated>2026-08-13T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="industry"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>复现 ICML 2200 篇论文，我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML</title>
+    <link href="https://huggingface.co/blog/icml-2026-open-reproductions"/>
+    <id>0ce3c6e06f443b1b116a30e8e0beac7e</id>
+    <published>2026-08-13T00:00:00+00:00</published>
+    <updated>2026-08-13T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.813\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
 </feed>

@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-08-12T00:00:00+00:00</updated>
+  <updated>2026-08-13T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Patterns and problems in emerging multiagent systems</title>
+    <link href="https://www.anthropic.com/research/multiagent-systems"/>
+    <id>d3abc44533f08c2b02ea9bcbc2ef5a0a</id>
+    <published>2026-08-13T00:00:00+00:00</published>
+    <updated>2026-08-13T00:00:00+00:00</updated>
+    <category term="Frontier Red Team"/>
+  </entry>
   <entry>
     <title>Reviewing the evidence on worker retraining programs</title>
     <link href="https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs"/>
@@ -79,14 +87,6 @@
     <published>2026-07-06T00:00:00+00:00</published>
     <updated>2026-07-06T00:00:00+00:00</updated>
     <category term="Interpretability"/>
-  </entry>
-  <entry>
-    <title>Anthropic Economic Index report: Cadences</title>
-    <link href="https://www.anthropic.com/research/economic-index-june-2026-report"/>
-    <id>5e6525845054a0f57ba9bed37bd937f5</id>
-    <published>2026-06-26T00:00:00+00:00</published>
-    <updated>2026-06-26T00:00:00+00:00</updated>
-    <category term="Economic Research"/>
   </entry>
   <entry>
     <title>Teaching Claude why</title>

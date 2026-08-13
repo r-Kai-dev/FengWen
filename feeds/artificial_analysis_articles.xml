@@ -4,10 +4,17 @@
   <icon>https://artificialanalysis.ai/favicon.ico</icon>
   <link href="https://artificialanalysis.ai/articles"/>
   <id>https://artificialanalysis.ai/articles</id>
-  <updated>2026-08-12T00:00:00+00:00</updated>
+  <updated>2026-08-13T00:00:00+00:00</updated>
   <author>
     <name>Artificial Analysis</name>
   </author>
+  <entry>
+    <title>Gemini 3.7 Flash: On the Intelligence vs. Time per Task Pareto frontier</title>
+    <link href="https://artificialanalysis.ai/articles/gemini-3-7-time-frontier"/>
+    <id>8bd2f6e3294e7720bff6b62d12226f26</id>
+    <published>2026-08-13T00:00:00+00:00</published>
+    <updated>2026-08-13T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Grok 4.6 returns SpaceXAI to the intelligence frontier and leads on cost efficiency</title>
     <link href="https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"/>
@@ -84,12 +91,5 @@
     <id>09d2c6cb873561449b4109c8b239b5b5</id>
     <published>2026-07-29T00:00:00+00:00</published>
     <updated>2026-07-29T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Claude Opus 5: the new leader in agentic knowledge work</title>
-    <link href="https://artificialanalysis.ai/articles/claude-opus-5-leader-agentic-knowledge-work"/>
-    <id>f5e72c600b58c13a51032f524a154bda</id>
-    <published>2026-07-24T00:00:00+00:00</published>
-    <updated>2026-07-24T00:00:00+00:00</updated>
   </entry>
 </feed>
