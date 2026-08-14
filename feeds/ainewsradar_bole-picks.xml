@@ -4,200 +4,88 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-13T19:14:12+00:00</updated>
+  <updated>2026-08-14T19:15:51+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>许可证数据质量提升 / License data quality improvements</title>
-    <link href="https://github.blog/changelog/2026-08-13-license-data-quality-improvements"/>
-    <id>ecb3bce23cde6cf5bc490b4cb2ea66fb</id>
-    <published>2026-08-13T19:14:12+00:00</published>
-    <updated>2026-08-13T19:14:12+00:00</updated>
-    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Claude 文本水印机制如何运作 / How Claude's text watermark works</title>
+    <link href="https://www.anthropic.com/news/claude-text-watermark"/>
+    <id>e783e1802e37366ba60964ba582311a0</id>
+    <published>2026-08-14T19:15:51+00:00</published>
+    <updated>2026-08-14T19:15:51+00:00</updated>
+    <summary type="text">Score: 0.841\nSources: 3 (AI HOT)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>在个人仓库中屏蔽用户评论 / Block users from comments in personal repositories</title>
-    <link href="https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories"/>
-    <id>8c49db2ff2e42e165319cbf2be97df2a</id>
-    <published>2026-08-13T19:02:46+00:00</published>
-    <updated>2026-08-13T19:02:46+00:00</updated>
-    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</title>
-    <link href="https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"/>
-    <id>5e650513046cd2141e5851708c425fce</id>
-    <published>2026-08-13T17:16:04+00:00</published>
-    <updated>2026-08-13T17:16:04+00:00</updated>
-    <summary type="text">Score: 0.856\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash</title>
-    <link href="https://deepmind.google/blog/introducing-gemini-3-7-flash"/>
-    <id>8eb4c46d657c8a7426dbfeaf7fd8aac9</id>
-    <published>2026-08-13T17:04:18+00:00</published>
-    <updated>2026-08-13T17:04:18+00:00</updated>
-    <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型 / MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready &amp; Versatile Music Model</title>
-    <link href="https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model"/>
-    <id>dbc76a9eb2238fd16a22237ad89f1d07</id>
-    <published>2026-08-13T16:52:23.676000+00:00</published>
-    <updated>2026-08-13T16:52:23.676000+00:00</updated>
-    <summary type="text">Score: 0.730\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas</title>
-    <link href="https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets"/>
-    <id>05868b90f9c24c237e4e9ecaa804ff7b</id>
-    <published>2026-08-13T16:45:00+00:00</published>
-    <updated>2026-08-13T16:45:00+00:00</updated>
-    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…</title>
-    <link href="https://x.com/SiliconFlowAI/status/2087903227224412222"/>
-    <id>53ac20fd5c257fdb0ec318224cdf6b3c</id>
-    <published>2026-08-13T14:04:55+00:00</published>
-    <updated>2026-08-13T14:04:55+00:00</updated>
-    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Gemini 3.7 Flash 现已登陆 GitHub Copilot / Gemini 3.7 Flash is now available in GitHub Copilot</title>
-    <link href="https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot"/>
-    <id>1c036ef0bfbe1acf47865cd24076ab9f</id>
-    <published>2026-08-13T14:00:53+00:00</published>
-    <updated>2026-08-13T14:00:53+00:00</updated>
-    <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>DeepSeek Harness v0.1 开发者预览版发布 / 🧩 DeepSeek Harness v0.1 is now available in Developer Preview！ 🔹 We're opening it up to developer…</title>
-    <link href="https://x.com/deepseek_ai/status/2087887408440164663"/>
-    <id>63b5dca98d547986e026517e24ba3995</id>
-    <published>2026-08-13T13:02:03+00:00</published>
-    <updated>2026-08-13T13:02:03+00:00</updated>
-    <summary type="text">Score: 0.730\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds</title>
-    <link href="https://cursor.com/blog/builds"/>
-    <id>c510a3f5c8405b5b42e5b57b735ced5e</id>
-    <published>2026-08-13T12:00:00+00:00</published>
-    <updated>2026-08-13T12:00:00+00:00</updated>
-    <summary type="text">Score: 0.725\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强</title>
-    <link href="https://api-docs.deepseek.com/zh-cn/updates"/>
-    <id>3115b30d5fb5659e565743c9e8db7f01</id>
-    <published>2026-08-13T11:16:42.199000+00:00</published>
-    <updated>2026-08-13T11:16:42.199000+00:00</updated>
-    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6</title>
-    <link href="https://openai.com/index/builders-guide-to-gpt-5-6"/>
-    <id>84a65d01c41c9239ceaaac873fd7f477</id>
-    <published>2026-08-13T11:00:00+00:00</published>
-    <updated>2026-08-13T11:00:00+00:00</updated>
-    <summary type="text">Score: 0.861\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
   </entry>
   <entry>
-    <title>Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上</title>
-    <link href="https://www.aibase.com/news/30323"/>
-    <id>e4a6d47099e1a4f0f535bc23437ae350</id>
-    <published>2026-08-13T10:28:06.675211+00:00</published>
-    <updated>2026-08-13T10:28:06.675211+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…</title>
+    <link href="https://x.com/GeminiApp/status/2088326407730692538"/>
+    <id>4e10e3972baf096c7349784311ebba4e</id>
+    <published>2026-08-14T18:06:29+00:00</published>
+    <updated>2026-08-14T18:06:29+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点</title>
-    <link href="https://www.aibase.com/news/30322"/>
-    <id>daf01a71f023377506ea74c9e7dd4699</id>
-    <published>2026-08-13T10:28:06.675211+00:00</published>
-    <updated>2026-08-13T10:28:06.675211+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
+    <title>Google Gemini 的可见水印现在可以关闭了 / You can now turn off Google Gemini&amp;#8217;s visible watermarks</title>
+    <link href="https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"/>
+    <id>4bfe458420bf253b7db4deb8741571f0</id>
+    <published>2026-08-14T16:39:32+00:00</published>
+    <updated>2026-08-14T16:39:32+00:00</updated>
+    <summary type="text">Score: 0.618\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>预览超快模式：GPT-5.6 Sol 速度最高提升 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
-    <link href="https://openai.com/index/previewing-ultrafast"/>
-    <id>200a3cd71b59f0ae24f577da42e497e6</id>
-    <published>2026-08-13T10:00:00+00:00</published>
-    <updated>2026-08-13T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.858\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Grok 4.6现已登陆 GitHub Copilot / Grok 4.6 is now available in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot"/>
+    <id>2b1eff0022746a4f1304ce69a31abd68</id>
+    <published>2026-08-14T16:17:46+00:00</published>
+    <updated>2026-08-14T16:17:46+00:00</updated>
+    <summary type="text">Score: 0.849\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
   </entry>
   <entry>
-    <title>小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&amp;mid=2247496062&amp;idx=1&amp;sn=d4c48926c5d7607f129dfea03699a6c0"/>
-    <id>ff02a2c3b21ae0d8c1a08b3116681238</id>
-    <published>2026-08-13T09:59:00+00:00</published>
-    <updated>2026-08-13T09:59:00+00:00</updated>
+    <title>谷歌现已允许用户从其AI生成内容中移除可见水印 / Google will now allow users to remove visible watermark from its AI generations</title>
+    <link href="https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations"/>
+    <id>ef82a2248d2b48c114a9dd9d0e029d3e</id>
+    <published>2026-08-14T16:13:40+00:00</published>
+    <updated>2026-08-14T16:13:40+00:00</updated>
+    <summary type="text">Score: 0.637\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>如何借助 Agent 应用将软件交付工作流接入 GitHub / How to bring your software delivery workflow into GitHub with agent apps</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps"/>
+    <id>ea2324d4bb875c91770dbf4127db30ba</id>
+    <published>2026-08-14T16:00:00+00:00</published>
+    <updated>2026-08-14T16:00:00+00:00</updated>
+    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…</title>
+    <link href="https://x.com/Alibaba_Qwen/status/2088280182356611304"/>
+    <id>177131dc3ef56e24dbc5eb777f958c53</id>
+    <published>2026-08-14T15:02:48+00:00</published>
+    <updated>2026-08-14T15:02:48+00:00</updated>
     <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
@@ -205,36 +93,127 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI任命Dali Rajic为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer</title>
-    <link href="https://openai.com/index/dali-rajic-chief-revenue-officer"/>
-    <id>9a13b8d15504c7b9b7e0a80cf0a4cc39</id>
-    <published>2026-08-13T09:00:00+00:00</published>
-    <updated>2026-08-13T09:00:00+00:00</updated>
-    <summary type="text">Score: 0.823\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>OpenAI和Anthropic陷入价格战，中国AI竞争对手势头正劲 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground</title>
+    <link href="https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground"/>
+    <id>2edcba6f38e8009b3c013134d37476d8</id>
+    <published>2026-08-14T14:27:14+00:00</published>
+    <updated>2026-08-14T14:27:14+00:00</updated>
+    <summary type="text">Score: 0.764\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems</title>
-    <link href="https://www.anthropic.com/research/multiagent-systems"/>
-    <id>ce0433c4c14b6ddcd7195655c5388c0a</id>
-    <published>2026-08-13T01:20:54.259000+00:00</published>
-    <updated>2026-08-13T01:20:54.259000+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…</title>
+    <link href="https://x.com/SpaceXAI/status/2088250109188608289"/>
+    <id>11963b6d7b303a26603e5aa23836f285</id>
+    <published>2026-08-14T13:03:18+00:00</published>
+    <updated>2026-08-14T13:03:18+00:00</updated>
+    <summary type="text">Score: 0.764\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX</title>
+    <link href="https://cursor.com/blog/joining-spacex"/>
+    <id>53028cd70b06f88f0effb9be25f2a10a</id>
+    <published>2026-08-14T12:00:00+00:00</published>
+    <updated>2026-08-14T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.759\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&amp;mid=2247496140&amp;idx=1&amp;sn=5239a5fbb115c58d2ae0056bb32789ff"/>
+    <id>9c99876e23391768ba310f06aad18ca1</id>
+    <published>2026-08-14T11:25:29+00:00</published>
+    <updated>2026-08-14T11:25:29+00:00</updated>
+    <summary type="text">Score: 0.766\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>AI企业也能按Token融资：广东首推“Token贷”</title>
+    <link href="https://www.aibase.com/news/30365"/>
+    <id>12944c177e9bf2da907ac2ba6718b68c</id>
+    <published>2026-08-14T10:16:57.254156+00:00</published>
+    <updated>2026-08-14T10:16:57.254156+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Computer History</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>862896b632f5b3dd07b004e10e5c42ca</id>
-    <published>2026-08-13T00:00:00+00:00</published>
-    <updated>2026-08-13T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台</title>
+    <link href="https://www.aibase.com/news/30364"/>
+    <id>627545375a1cccd9a899f13d27114235</id>
+    <published>2026-08-14T10:16:57.254156+00:00</published>
+    <updated>2026-08-14T10:16:57.254156+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元</title>
+    <link href="https://www.aibase.com/news/30358"/>
+    <id>ac68d85a3230d96905deec3269961452</id>
+    <published>2026-08-14T08:37:45.150379+00:00</published>
+    <updated>2026-08-14T08:37:45.150379+00:00</updated>
+    <summary type="text">Score: 0.739\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲</title>
+    <link href="https://www.aibase.com/news/30362"/>
+    <id>f9851f7060b2a2ed7986193c8126149b</id>
+    <published>2026-08-14T08:37:45.150379+00:00</published>
+    <updated>2026-08-14T08:37:45.150379+00:00</updated>
+    <summary type="text">Score: 0.739\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>京东七鲜咖啡全球首发 24 小时无人店：机器人现制、AI 荐饮，落地北京银河 Soho</title>
+    <link href="https://www.aibase.com/news/30356"/>
+    <id>dbf056c99a6ec6ea9fdacd23d2892cb0</id>
+    <published>2026-08-14T08:37:45.150379+00:00</published>
+    <updated>2026-08-14T08:37:45.150379+00:00</updated>
+    <summary type="text">Score: 0.739\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&amp;mid=2247494084&amp;idx=1&amp;sn=a2e5cd9a534a4825feb3633ea1b6d492"/>
+    <id>5b1d0028b30396a563b0460c7583a9b9</id>
+    <published>2026-08-14T05:31:04+00:00</published>
+    <updated>2026-08-14T05:31:04+00:00</updated>
+    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot 每周发布（8月10日） / GitHub Copilot weekly releases — August 10</title>
+    <link href="https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10"/>
+    <id>75113a9c92b211b763545ccee226a6a7</id>
+    <published>2026-08-14T03:15:56+00:00</published>
+    <updated>2026-08-14T03:15:56+00:00</updated>
+    <summary type="text">Score: 0.812\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -242,16 +221,29 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>复现 ICML 2200 篇论文，我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML</title>
-    <link href="https://huggingface.co/blog/icml-2026-open-reproductions"/>
-    <id>0ce3c6e06f443b1b116a30e8e0beac7e</id>
-    <published>2026-08-13T00:00:00+00:00</published>
-    <updated>2026-08-13T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.813\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations</title>
+    <link href="https://huggingface.co/blog/state-of-open-models-summer-2026"/>
+    <id>de29e6aae7b569d0cdab09a3ceab9d11</id>
+    <published>2026-08-14T00:00:00+00:00</published>
+    <updated>2026-08-14T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.838\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…</title>
+    <link href="https://x.com/bcherny/status/2088014489438621990"/>
+    <id>5dafae26cc41119e374b3fa0faef38c1</id>
+    <published>2026-08-13T21:27:02+00:00</published>
+    <updated>2026-08-13T21:27:02+00:00</updated>
+    <summary type="text">Score: 0.723\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
 </feed>

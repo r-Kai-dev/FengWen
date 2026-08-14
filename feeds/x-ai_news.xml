@@ -4,10 +4,17 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-08-12T00:00:00+00:00</updated>
+  <updated>2026-08-14T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Grok 4.6 in GitHub Copilot</title>
+    <link href="https://x.ai/news/grok-4-6-github-copilot"/>
+    <id>64fa46a2c594aaaad8b3dc5e4476d615</id>
+    <published>2026-08-14T00:00:00+00:00</published>
+    <updated>2026-08-14T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>IntroducingGrok 4.6</title>
     <link href="https://x.ai/news/grok-4-6"/>
@@ -43,6 +50,7 @@
     <id>a401aa44d38a7943f88fa2809ca5bc6e</id>
     <published>2026-07-29T00:00:00+00:00</published>
     <updated>2026-07-29T00:00:00+00:00</updated>
+    <summary type="text">Introducing our most capable speech-to-speech voice model.</summary>
   </entry>
   <entry>
     <title>Grok 4.5 in GitHub Copilot</title>

@@ -4,18 +4,27 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-08-13T21:37:15.384824+00:00</updated>
+  <updated>2026-08-14T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
   <entry>
-    <title>Jul. 14, 2026</title>
-    <link href="https://epoch.ai/publications/chips-topic-overview"/>
-    <id>bdb7b7160e38783eefc8ca833fcef3c8</id>
-    <published>2026-08-13T21:37:15.384824+00:00</published>
-    <updated>2026-08-13T21:37:15.384824+00:00</updated>
-    <summary type="text">A look at the specialized hardware driving modern AI — why chips cost tens of thousands of dollars each, and why demand continues to outstrip supply.</summary>
-    <category term="Topic Overview"/>
+    <title>9 big questions benchmarks can help answer</title>
+    <link href="https://epoch.ai/gradient-updates/9-big-questions-benchmarks-can-help-answer"/>
+    <id>a322ba2d8587eb9e95b12e3b80cbe4cc</id>
+    <published>2026-08-14T00:00:00+00:00</published>
+    <updated>2026-08-14T00:00:00+00:00</updated>
+    <summary type="text">A good benchmark asks more than just “can AI do this specific task?”</summary>
+    <category term="Newsletter"/>
+  </entry>
+  <entry>
+    <title>Most AI use at work happens on free plans, except in science and tech</title>
+    <link href="https://epoch.ai/data-insights/employer-provided-ai-by-occupation"/>
+    <id>1a86b154c8c1b5bc138c44f28291b5fe</id>
+    <published>2026-08-14T00:00:00+00:00</published>
+    <updated>2026-08-14T00:00:00+00:00</updated>
+    <summary type="text">Epoch AI/Ipsos survey: 67% of AI-using workers in computer, engineering, and science jobs use employer-provided AI.</summary>
+    <category term="Data Insight"/>
   </entry>
   <entry>
     <title>The performance per dollar of AI chips purchased each quarter has grown by an average of 49% per year</title>
@@ -88,14 +97,5 @@
     <updated>2026-07-14T00:00:00+00:00</updated>
     <summary type="text">AI compute draws tens of gigawatts globally—comparable to New York state—yet a single chatbot query uses less than a microwave in 10 seconds. Epoch AI's guide to AI energy use, from training to inference to local grid impacts.</summary>
     <category term="Topic Overview"/>
-  </entry>
-  <entry>
-    <title>Contributions to OpenAI's Codex codebase show signs of AI uplift</title>
-    <link href="https://epoch.ai/data-insights/codex-engineer-effort"/>
-    <id>ca54e599c6583d78c01dc43a288b9f63</id>
-    <published>2026-07-07T00:00:00+00:00</published>
-    <updated>2026-07-07T00:00:00+00:00</updated>
-    <summary type="text">The share of working days on which OpenAI's Codex collaborators merged very-high-effort code rose from about 2% in Q2 2025 to about 8% in Q2 2026.</summary>
-    <category term="Data Insight"/>
   </entry>
 </feed>
