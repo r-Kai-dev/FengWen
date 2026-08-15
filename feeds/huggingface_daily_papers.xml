@@ -11,7 +11,7 @@
     <id>ff31056e683b049c349bea47fee72656</id>
     <published>2026-08-09T20:00:00.000Z</published>
     <updated>2026-08-09T20:00:00.000Z</updated>
-    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 604 \u00b7 GitHub Stars: 1929 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
+    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 616 \u00b7 GitHub Stars: 2250 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -26,12 +26,22 @@
     <category term="paper"/>
   </entry>
   <entry>
+    <title>LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers</title>
+    <link href="https://arxiv.org/abs/2608.06867"/>
+    <id>b3bf71e004d5f291fada95cb9e8d41d5</id>
+    <published>2026-08-06T20:00:00.000Z</published>
+    <updated>2026-08-06T20:00:00.000Z</updated>
+    <summary type="text">No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and... \u00b7 Upvotes: 94 \u00b7 GitHub Stars: 2349 \u00b7 Authors: Tao Feng, Fangxu Yu, Haozhen Zhang</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
     <title>AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis</title>
     <link href="https://arxiv.org/abs/2607.28618"/>
     <id>bf62f763556efaa460e67efdecbb7ff9</id>
     <published>2026-07-29T20:00:00.000Z</published>
     <updated>2026-07-29T20:00:00.000Z</updated>
-    <summary type="text">Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul... \u00b7 Upvotes: 298 \u00b7 GitHub Stars: 13 \u00b7 Authors: Bing Yan, Gregory Wolfe, Stefano Martiniani</summary>
+    <summary type="text">Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul... \u00b7 Upvotes: 302 \u00b7 GitHub Stars: 13 \u00b7 Authors: Bing Yan, Gregory Wolfe, Stefano Martiniani</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +51,7 @@
     <id>0f626a903e5edc962497e0bf9c3f90b2</id>
     <published>2026-07-29T20:00:00.000Z</published>
     <updated>2026-07-29T20:00:00.000Z</updated>
-    <summary type="text">GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execu... \u00b7 Upvotes: 302 \u00b7 Authors: Hanzhang Zhou, Panrong Tong, Xu Zhang</summary>
+    <summary type="text">GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execu... \u00b7 Upvotes: 303 \u00b7 Authors: Hanzhang Zhou, Panrong Tong, Xu Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +61,7 @@
     <id>fb8363ee0bc1d821564c7b8a6d243b65</id>
     <published>2026-07-26T20:00:00.000Z</published>
     <updated>2026-07-26T20:00:00.000Z</updated>
-    <summary type="text">We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ... \u00b7 Upvotes: 491 \u00b7 GitHub Stars: 8440 \u00b7 Authors: Kimi Team, Tongtong Bai, Yifan Bai</summary>
+    <summary type="text">We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ... \u00b7 Upvotes: 491 \u00b7 GitHub Stars: 8452 \u00b7 Authors: Kimi Team, Tongtong Bai, Yifan Bai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +71,7 @@
     <id>27ed640dcfc82755249787781d5fd531</id>
     <published>2026-07-26T20:00:00.000Z</published>
     <updated>2026-07-26T20:00:00.000Z</updated>
-    <summary type="text">Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently.... \u00b7 Upvotes: 37 \u00b7 GitHub Stars: 1409 \u00b7 Authors: Senqiao Yang, Kaichen Zhang, Zhaoyang Jia</summary>
+    <summary type="text">Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently.... \u00b7 Upvotes: 37 \u00b7 GitHub Stars: 1415 \u00b7 Authors: Senqiao Yang, Kaichen Zhang, Zhaoyang Jia</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +81,7 @@
     <id>ee1456a2e82657fa69101df30a22a01e</id>
     <published>2026-07-25T20:00:00.000Z</published>
     <updated>2026-07-25T20:00:00.000Z</updated>
-    <summary type="text">Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioni... \u00b7 Upvotes: 5 \u00b7 GitHub Stars: 1412 \u00b7 Authors: Stylianos Ploumpis, Jan Bednarik, Gaspard Zoss</summary>
+    <summary type="text">Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioni... \u00b7 Upvotes: 5 \u00b7 GitHub Stars: 1414 \u00b7 Authors: Stylianos Ploumpis, Jan Bednarik, Gaspard Zoss</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,17 +91,7 @@
     <id>70de2083a5c27844a7ffed5f9da7ae76</id>
     <published>2026-07-21T11:26:50.000Z</published>
     <updated>2026-07-21T11:26:50.000Z</updated>
-    <summary type="text">We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation eng... \u00b7 Upvotes: 311 \u00b7 GitHub Stars: 2345 \u00b7 Authors: Fan Jiang, Zhaoxu Sun, Mengchao Wang</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Transcription Policy as a Latent Variable: Activating Controllable Verbatim ASR with Word-Level Timing</title>
-    <link href="https://arxiv.org/abs/2607.18934"/>
-    <id>89ebd795fd3d9430261ad6cf3165f9ae</id>
-    <published>2026-07-20T20:00:00.000Z</published>
-    <updated>2026-07-20T20:00:00.000Z</updated>
-    <summary type="text">Modern ASR models trained on heterogeneously annotated data treat transcription style (verbatim vs. intended) as an uncontrolled latent variable, causing measurable decoding instability, evaluation co... \u00b7 Upvotes: 6 \u00b7 GitHub Stars: 1294 \u00b7 Authors: Laurin Wagner, Mario Zusag, Bernhard Thallinger</summary>
+    <summary type="text">We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation eng... \u00b7 Upvotes: 311 \u00b7 GitHub Stars: 2363 \u00b7 Authors: Fan Jiang, Zhaoxu Sun, Mengchao Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

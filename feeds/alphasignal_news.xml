@@ -4,19 +4,69 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-14T20:51:07+00:00</updated>
+  <updated>2026-08-15T13:34:16+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Nous Research's Hermes Agent Ships a Loop Command That Watches CI for You</title>
-    <link href="https://hermes-agent.nousresearch.com/docs/user-guide/features/loops"/>
-    <id>2016bb3c82e2dc5c53463c590b1dadab</id>
-    <published>2026-08-14T20:51:07+00:00</published>
-    <updated>2026-08-14T20:51:07+00:00</updated>
-    <summary type="text">Hermes Agent's new /loop command lets you re-run any prompt on a recurring schedule, with smart self-pacing built in</summary>
+    <title>Sarvam Campus Brings India's AI Unicorn Researchers Directly to Universities</title>
+    <link href="https://x.com/sarvamai/status/2088620291488612752"/>
+    <id>7fc626c947dabd1538a79db75e14cd46</id>
+    <published>2026-08-15T13:34:16+00:00</published>
+    <updated>2026-08-15T13:34:16+00:00</updated>
+    <summary type="text">India's $1.5B sovereign AI unicorn takes its models, researchers, and live hackathons directly to university campuses nationwide</summary>
+    <category term="business"/>
     <category term="development"/>
+  </entry>
+  <entry>
+    <title>Sarvam AI's Kivi Lands Pre-Installed on HP Laptops Across India</title>
+    <link href="https://www.sarvam.ai/partnerships/hp"/>
+    <id>de7c91236a69bb6bd0490fa2f04c42d3</id>
+    <published>2026-08-15T11:41:31+00:00</published>
+    <updated>2026-08-15T11:41:31+00:00</updated>
+    <summary type="text">Sarvam AI's Kivi voice app will come pre-installed on HP laptops in India, bringing 22+ language voice control to millions of PCs</summary>
+    <category term="audio"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>ByteDance's Seedance 2.5 Generates 30-Second Videos From 50 References</title>
+    <link href="https://app.runwayml.com/"/>
+    <id>f117fdb1382cb42b0257b9e7be373715</id>
+    <published>2026-08-15T06:18:19+00:00</published>
+    <updated>2026-08-15T06:18:19+00:00</updated>
+    <summary type="text">ByteDance's Seedance 2.5 lands on Runway with 30-second clips, 50 multimodal references, and built-in audio â but there's a resolution catch worth knowing.</summary>
+    <category term="video"/>
     <category term="api"/>
+  </entry>
+  <entry>
+    <title>vLLM's DSpark Beats Every Fixed-Length Config on DeepSeek-V4 at Any Load</title>
+    <link href="https://vllm.ai/blog/2026-08-14-dspark-adaptive-verification"/>
+    <id>85727c0c471a44dc9fd11b77e983c3ac</id>
+    <published>2026-08-15T00:39:14+00:00</published>
+    <updated>2026-08-15T00:39:14+00:00</updated>
+    <summary type="text">vLLM's new adaptive verification for DSpark automatically tunes speculative decoding depth per step, holding the Pareto frontier from concurrency 1 to 256 with a single config.</summary>
+    <category term="infra"/>
+    <category term="llms"/>
+  </entry>
+  <entry>
+    <title>METR Raises $71M to Independently Stress-Test the World's Most Powerful AI</title>
+    <link href="https://metr.org/about#funding"/>
+    <id>69b77c6c9cfaba3b2f1143ff126210db</id>
+    <published>2026-08-14T23:13:56+00:00</published>
+    <updated>2026-08-14T23:13:56+00:00</updated>
+    <summary type="text">METR raises $71M in six months to scale independent AI safety evaluations as rogue deployment risks grow more real</summary>
+    <category term="business"/>
+    <category term="government"/>
+  </entry>
+  <entry>
+    <title>Zed Launches Delta, a Standalone App Built for AI Agents Writing Your Code</title>
+    <link href="https://zed.dev/releases/stable"/>
+    <id>edf09f7db05c3dbcee7e55b928485900</id>
+    <published>2026-08-14T20:52:58+00:00</published>
+    <updated>2026-08-14T20:52:58+00:00</updated>
+    <summary type="text">Zed v1.15 ships smarter Git diffs and JSX improvements while Delta, a new multiplayer agent coding environment, enters private beta</summary>
+    <category term="development"/>
+    <category term="vibe_coding"/>
   </entry>
   <entry>
     <title>Pika Labs Launches Pika Audio at 9x Cheaper Than ElevenLabs</title>
@@ -27,6 +77,16 @@
     <summary type="text">Pika launches four generative audio models â SFX, Speech, Music, and Soundtrack â priced up to 20x cheaper than ElevenLabs and other rivals</summary>
     <category term="audio"/>
     <category term="api"/>
+  </entry>
+  <entry>
+    <title>NVIDIA's NeMo Switchyard Cuts Agent AI Costs by 74% With Smart Model Routing</title>
+    <link href="https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?ncid=so-twit-505927"/>
+    <id>f6017233b01c9e20efa43d0e1f3d8f1d</id>
+    <published>2026-08-14T18:59:20+00:00</published>
+    <updated>2026-08-14T18:59:20+00:00</updated>
+    <summary type="text">NVIDIA's open-source NeMo Switchyard routes each agent workflow step to the right model automatically, cutting costs by up to 74% without rebuilding your app</summary>
+    <category term="agents"/>
+    <category term="open_source"/>
   </entry>
   <entry>
     <title>Alibaba Opens Qwen3.8-Max Weights, Letting Teams Self-Host a 2.4T Model</title>
@@ -67,65 +127,5 @@
     <summary type="text">L&amp;T and Together AI are deploying 10,000 NVIDIA B300 GPUs in Chennai, marking India's largest single-cluster AI factory in a deal worth up to $1.8B.</summary>
     <category term="gpus"/>
     <category term="business"/>
-  </entry>
-  <entry>
-    <title>OpenAI's Computer History Watches Your Mac So You Stop Re-explaining Yourself</title>
-    <link href="https://learn.chatgpt.com/docs/customization/computer-history"/>
-    <id>356a62bf8774df40b12013fa11eaea15</id>
-    <published>2026-08-13T20:15:32+00:00</published>
-    <updated>2026-08-13T20:15:32+00:00</updated>
-    <summary type="text">ChatGPT's Computer History replaces the screenshot-based Chronicle preview with an event-driven system that tracks your work across apps and websites without ever capturing your screen.</summary>
-    <category term="llms"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>Databricks' Smart Routing Cuts AI Coding Costs by 56% Without Sacrificing Quality</title>
-    <link href="https://www.databricks.com/blog/smart-routing-unity-ai-gateway-match-frontier-quality-30-lower-cost-task?utm_source=twitter&amp;utm_medium=organic-social"/>
-    <id>738178f2dd85dba9069c53f305976a4b</id>
-    <published>2026-08-13T19:18:47+00:00</published>
-    <updated>2026-08-13T19:18:47+00:00</updated>
-    <summary type="text">Databricks' Smart Routing in Unity AI Gateway automatically picks the cheapest model per coding task, cutting costs 30â56% without touching developer workflows.</summary>
-    <category term="development"/>
-    <category term="infra"/>
-  </entry>
-  <entry>
-    <title>Factory Launches Agent Effectiveness to Prove Its Droids Actually Ship Faster</title>
-    <link href="https://factory.ai/news/agent-effectiveness"/>
-    <id>36521aac3ce31fc291b1a0ab1034a53d</id>
-    <published>2026-08-13T18:45:54+00:00</published>
-    <updated>2026-08-13T18:45:54+00:00</updated>
-    <summary type="text">Factory's new Agent Effectiveness dashboard links Droid AI sessions to cycle time, work intent, and shipped artifacts -- giving engineering leaders their first real ROI signal</summary>
-    <category term="development"/>
-    <category term="infra"/>
-  </entry>
-  <entry>
-    <title>Prime Intellect's Prime Flash MoE Runs 2.4x Faster on Blackwell GPUs</title>
-    <link href="https://www.primeintellect.ai/blog/prime-flash-moe"/>
-    <id>b09e84180fdcef08f70720ce465560ae</id>
-    <published>2026-08-13T18:28:43+00:00</published>
-    <updated>2026-08-13T18:28:43+00:00</updated>
-    <summary type="text">Prime Intellect releases Blackwell-native CUDA kernels for MoE inference that fuse routing, SwiGLU, and quantization into a single pass â up to 2.4x faster than PyTorch grouped GEMM on B200s.</summary>
-    <category term="gpus"/>
-    <category term="infra"/>
-  </entry>
-  <entry>
-    <title>Perplexity's Search as Code Beats OpenAI and Anthropic on 4 of 5 Benchmarks</title>
-    <link href="https://x.com/perplexity_ai/status/2087950343841915046"/>
-    <id>bbfd788f96ffba4abc90bc1be60844b5</id>
-    <published>2026-08-13T17:12:08+00:00</published>
-    <updated>2026-08-13T17:12:08+00:00</updated>
-    <summary type="text">Perplexity's Search as Code gets faster and cheaper, while SDK updates push agent action reliability from 81.9% to 92.6%</summary>
-    <category term="api"/>
-    <category term="infra"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind's Gemini 3.7 Flash Doubles Coding Scores at Half the Price</title>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content="/>
-    <id>8b02befecf62fae91b235bd0e5a8e311</id>
-    <published>2026-08-13T17:04:17+00:00</published>
-    <updated>2026-08-13T17:04:17+00:00</updated>
-    <summary type="text">Gemini 3.7 Flash lands just three weeks after 3.6, with major coding and agent gains at half the price</summary>
-    <category term="llms"/>
-    <category term="api"/>
   </entry>
 </feed>
