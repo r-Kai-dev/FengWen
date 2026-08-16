@@ -4,10 +4,20 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-15T13:34:16+00:00</updated>
+  <updated>2026-08-15T21:05:59+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
+  <entry>
+    <title>Prime Intellect's Fable 5 Closes 82% of the Human AI Research Gap</title>
+    <link href="https://www.primeintellect.ai/blog/measuring-autonomous-research"/>
+    <id>d203216df2ff1992379bb9e7f17aeeb6</id>
+    <published>2026-08-15T21:05:59+00:00</published>
+    <updated>2026-08-15T21:05:59+00:00</updated>
+    <summary type="text">Prime Intellect ran 153 autonomous research runs across 18 frontier models on the nanoGPT optimizer speedrun, with the best closing 82% of the gap to a record built by dozens of humans over months.</summary>
+    <category term="training_infra"/>
+    <category term="agents"/>
+  </entry>
   <entry>
     <title>Sarvam Campus Brings India's AI Unicorn Researchers Directly to Universities</title>
     <link href="https://x.com/sarvamai/status/2088620291488612752"/>
@@ -117,15 +127,5 @@
     <summary type="text">Z.ai's GLM-5.3 pushes its 743B base model further with post-training focused on agentic coding and cybersecurity, with open weights coming after safety review</summary>
     <category term="development"/>
     <category term="open_source"/>
-  </entry>
-  <entry>
-    <title>Together AI Builds India's Largest 10,000-GPU Open-Source AI Factory</title>
-    <link href="https://www.reuters.com/world/india/indias-larsen-toubro-secures-order-build-ai-factory-nvidia-2026-08-13/"/>
-    <id>817f007269842659d8ea55ae8469fd31</id>
-    <published>2026-08-13T23:24:43+00:00</published>
-    <updated>2026-08-13T23:24:43+00:00</updated>
-    <summary type="text">L&amp;T and Together AI are deploying 10,000 NVIDIA B300 GPUs in Chennai, marking India's largest single-cluster AI factory in a deal worth up to $1.8B.</summary>
-    <category term="gpus"/>
-    <category term="business"/>
   </entry>
 </feed>

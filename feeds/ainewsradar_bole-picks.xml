@@ -4,17 +4,105 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-15T20:05:54.703000+00:00</updated>
+  <updated>2026-08-16T14:44:55+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Cursor 正式被 SpaceX 收购</title>
-    <link href="https://cursor.com/blog/joining-spacex"/>
-    <id>94744300d90f9d9ae2e67b8e27dc303e</id>
-    <published>2026-08-15T20:05:54.703000+00:00</published>
-    <updated>2026-08-15T20:05:54.703000+00:00</updated>
-    <summary type="text">Score: 0.788\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>AI信用转售：经纪人收购初创未用额度再卖出</title>
+    <link href="https://vectoral.com/blog/who-are-the-token-brokers"/>
+    <id>848df6ac08cac7c550bc1f56464fec5a</id>
+    <published>2026-08-16T14:44:55+00:00</published>
+    <updated>2026-08-16T14:44:55+00:00</updated>
+    <summary type="text">Score: 0.563\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Anthropic第二季度收入据报跃升至115亿美元以上 / Anthropic revenue reportedly jumps to more than $11.5B in second quarter</title>
+    <link href="https://news.ycombinator.com/item?id=49320144"/>
+    <id>7ad61aa1c171a1fdcba8eed0019a34cd</id>
+    <published>2026-08-16T13:58:17+00:00</published>
+    <updated>2026-08-16T13:58:17+00:00</updated>
+    <summary type="text">Score: 0.532\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Show HN：一个所有用户共享记忆的公共AI / Show HN: A public AI whose memory is shared across all users</title>
+    <link href="https://news.ycombinator.com/item?id=49319814"/>
+    <id>16d0b035b8a929db183f6bf6f7df3ccc</id>
+    <published>2026-08-16T13:21:45+00:00</published>
+    <updated>2026-08-16T13:21:45+00:00</updated>
+    <summary type="text">Score: 0.532\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Claude更新核心系统提示 覆盖网页及iOS/Android应用</title>
+    <link href="https://platform.claude.com/docs/en/release-notes/system-prompts"/>
+    <id>8b48c79486ebdf7ffd600587a2c5293f</id>
+    <published>2026-08-16T12:48:21+00:00</published>
+    <updated>2026-08-16T12:48:21+00:00</updated>
+    <summary type="text">Score: 0.530\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>摒弃“感觉”的 AI 编程 / AI Coding Without the Vibes</title>
+    <link href="https://news.ycombinator.com/item?id=49318735"/>
+    <id>dde8d9fb5059b5cf1f22337adf00e0c7</id>
+    <published>2026-08-16T10:31:36+00:00</published>
+    <updated>2026-08-16T10:31:36+00:00</updated>
+    <summary type="text">Score: 0.530\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？</title>
+    <link href="https://littlelearner-ll.github.io"/>
+    <id>278b50d6e9f168a32d440a7d08e4cd64</id>
+    <published>2026-08-16T07:37:53+00:00</published>
+    <updated>2026-08-16T07:37:53+00:00</updated>
+    <summary type="text">Score: 0.544\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>ProofRun——面向 AI 编程代理的本地验证凭证 / ProofRun – a local verification receipt for AI coding agents</title>
+    <link href="https://news.ycombinator.com/item?id=49316605"/>
+    <id>127d2290ae8d00001fabcbad51722f00</id>
+    <published>2026-08-16T03:22:15+00:00</published>
+    <updated>2026-08-16T03:22:15+00:00</updated>
+    <summary type="text">Score: 0.511\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战</title>
+    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33"/>
+    <id>0d4e4e3249a44a870f3bd3dfeec2a6d8</id>
+    <published>2026-08-16T03:15:09+00:00</published>
+    <updated>2026-08-16T03:15:09+00:00</updated>
+    <summary type="text">Score: 0.728\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>新兴多智能体系统的模式与问题</title>
+    <link href="https://www.anthropic.com/research/multiagent-systems"/>
+    <id>2e5ea8d276115a3caf2bb0b7d2923ba4</id>
+    <published>2026-08-16T02:12:53+00:00</published>
+    <updated>2026-08-16T02:12:53+00:00</updated>
+    <summary type="text">Score: 0.773\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -22,185 +110,47 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>那么，AI药物发现到底进展如何？ / So How Is AI Drug Discovery Doing, Really?</title>
-    <link href="https://news.ycombinator.com/item?id=49313367"/>
-    <id>39446f12b507015698c6d221bea4f832</id>
-    <published>2026-08-15T19:12:53+00:00</published>
-    <updated>2026-08-15T19:12:53+00:00</updated>
-    <summary type="text">Score: 0.544\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <title>Show HN：我用Rust和GPUI为coding agents构建了一款原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI</title>
+    <link href="https://news.ycombinator.com/item?id=49315709"/>
+    <id>6e126911990b7da44188a6ecc8078f79</id>
+    <published>2026-08-16T00:38:44+00:00</published>
+    <updated>2026-08-16T00:38:44+00:00</updated>
+    <summary type="text">Score: 0.506\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们</title>
-    <link href="https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"/>
-    <id>4b3b77d1966fbffed1ba42ed1baacd00</id>
-    <published>2026-08-15T18:13:02+00:00</published>
-    <updated>2026-08-15T18:13:02+00:00</updated>
-    <summary type="text">Score: 0.567\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>AI现在能设计功能性病毒了，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?</title>
-    <link href="https://news.ycombinator.com/item?id=49311445"/>
-    <id>59e5f728fa3d72b6a6d00f462f669e01</id>
-    <published>2026-08-15T15:32:25+00:00</published>
-    <updated>2026-08-15T15:32:25+00:00</updated>
-    <summary type="text">Score: 0.536\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <title>AI辅助将25万行老旧天气模拟代码移植至GPU / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code</title>
+    <link href="https://news.ycombinator.com/item?id=49314967"/>
+    <id>3ad05b96734d0e2d1ec9e3dc4f77ecf9</id>
+    <published>2026-08-15T22:41:51+00:00</published>
+    <updated>2026-08-15T22:41:51+00:00</updated>
+    <summary type="text">Score: 0.506\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>软件开发中的人工智能现状 / The AI Situation in Software Development</title>
-    <link href="https://news.ycombinator.com/item?id=49310755"/>
-    <id>2fc1fb1d4a34efb6585c0899adeee526</id>
-    <published>2026-08-15T14:12:27+00:00</published>
-    <updated>2026-08-15T14:12:27+00:00</updated>
-    <summary type="text">Score: 0.536\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <title>Anthropic 详解 Claude 新水印的工作原理 / Anthropic shares more details about how Claude's new watermarks will work</title>
+    <link href="https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work"/>
+    <id>a46cd6458de5a86c8ed170ccaa367d29</id>
+    <published>2026-08-15T22:07:08+00:00</published>
+    <updated>2026-08-15T22:07:08+00:00</updated>
+    <summary type="text">Score: 0.520\nSources: 2 (Hacker News)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Yadda 3.0.0：AI Agent 时代的行为驱动开发 / Yadda 3.0.0: BDD in the Age of AI Agents</title>
-    <link href="https://news.ycombinator.com/item?id=49310495"/>
-    <id>ca311201f15882a641fdc740b8cb8667</id>
-    <published>2026-08-15T13:43:46+00:00</published>
-    <updated>2026-08-15T13:43:46+00:00</updated>
-    <summary type="text">Score: 0.531\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <title>Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD</title>
+    <link href="https://news.ycombinator.com/item?id=49314594"/>
+    <id>87a9e072fafcf741740e70f26704976b</id>
+    <published>2026-08-15T21:42:39+00:00</published>
+    <updated>2026-08-15T21:42:39+00:00</updated>
+    <summary type="text">Score: 0.498\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
-  </entry>
-  <entry>
-    <title>GenRec：Netflix 的 LLM 原生推荐之路 / GenRec: Towards LLM-Native Recommendation at Netflix</title>
-    <link href="https://news.ycombinator.com/item?id=49310177"/>
-    <id>1aa0782c829929d73102b589eeed5542</id>
-    <published>2026-08-15T12:56:56+00:00</published>
-    <updated>2026-08-15T12:56:56+00:00</updated>
-    <summary type="text">Score: 0.529\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>二手书销量激增，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?</title>
-    <link href="https://news.ycombinator.com/item?id=49310725"/>
-    <id>a7803d7442f3b12238be0e3d7c9adce6</id>
-    <published>2026-08-15T11:25:32+00:00</published>
-    <updated>2026-08-15T11:25:32+00:00</updated>
-    <summary type="text">Score: 0.531\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors</title>
-    <link href="https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors"/>
-    <id>3004bd8717ee8b4314b3de2c80d24276</id>
-    <published>2026-08-15T11:00:50+00:00</published>
-    <updated>2026-08-15T11:00:50+00:00</updated>
-    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的</title>
-    <link href="https://sankalp.bearblog.dev/autoresearch"/>
-    <id>e7604166b9d6705329b5773117bf6e6e</id>
-    <published>2026-08-15T11:00:02+00:00</published>
-    <updated>2026-08-15T11:00:02+00:00</updated>
-    <summary type="text">Score: 0.554\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>从事人工智能工作，与其说是编程，不如说是领导工作</title>
-    <link href="https://allen.bargi.org/notes/working-with-ai-feels-like-leadership"/>
-    <id>c4fc89077df918d4006a54235bf99abd</id>
-    <published>2026-08-15T10:39:41+00:00</published>
-    <updated>2026-08-15T10:39:41+00:00</updated>
-    <summary type="text">Score: 0.561\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Debian 开始就 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions</title>
-    <link href="https://news.ycombinator.com/item?id=49309050"/>
-    <id>2c9ddd832ea169bb0bbe30a9fc844fe5</id>
-    <published>2026-08-15T09:20:07+00:00</published>
-    <updated>2026-08-15T09:20:07+00:00</updated>
-    <summary type="text">Score: 0.526\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>怀疑法院用AI，男子在诉讼文件中注入提示词试图赢得官司 / Suspecting court of using AI, man injected prompts in filings to try to win case</title>
-    <link href="https://news.ycombinator.com/item?id=49308553"/>
-    <id>11e6ad1d05ac9f4f1d060ad9b682a9f5</id>
-    <published>2026-08-15T07:31:46+00:00</published>
-    <updated>2026-08-15T07:31:46+00:00</updated>
-    <summary type="text">Score: 0.519\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Show HN：ThoughtDAG —— 可编辑的LLM对话上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations</title>
-    <link href="https://news.ycombinator.com/item?id=49307700"/>
-    <id>474578c5d092029a5d2ce2abe69aedbd</id>
-    <published>2026-08-15T04:42:07+00:00</published>
-    <updated>2026-08-15T04:42:07+00:00</updated>
-    <summary type="text">Score: 0.513\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>AI驱动的测试
-
----
-
-或者更自然的译法：AI赋能测试 / AI Driven Testing</title>
-    <link href="https://app.deltix.ai"/>
-    <id>72d045b0bc1111ff8ec09cb2389b71af</id>
-    <published>2026-08-15T02:42:14+00:00</published>
-    <updated>2026-08-15T02:42:14+00:00</updated>
-    <summary type="text">Score: 0.505\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Claude Fable 5 玩得正欢 / Claude Fable 5 Having Fun</title>
-    <link href="https://news.ycombinator.com/item?id=49305642"/>
-    <id>a7c946ea925755f4f0c7f0b0a006a8e9</id>
-    <published>2026-08-14T23:01:46+00:00</published>
-    <updated>2026-08-14T23:01:46+00:00</updated>
-    <summary type="text">Score: 0.499\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>OAuth 应用的多个重定向 URI 与 token 刷新 / Multiple redirect URIs and token refresh for OAuth apps</title>
-    <link href="https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps"/>
-    <id>0d627b0bc4ae8c1975d8ee9f9423056c</id>
-    <published>2026-08-14T22:43:44+00:00</published>
-    <updated>2026-08-14T22:43:44+00:00</updated>
-    <summary type="text">Score: 0.795\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
   </entry>
 </feed>

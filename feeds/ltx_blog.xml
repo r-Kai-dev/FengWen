@@ -4,10 +4,28 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-08-13T00:00:00+00:00</updated>
+  <updated>2026-08-16T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>How Much Does AI Video Generation Actually Cost? (2026 Guide)</title>
+    <link href="https://ltx.io/blog/ai-video-generation-cost"/>
+    <id>8a9a4c586d40bf3a0648fc618a3233a3</id>
+    <published>2026-08-16T00:00:00+00:00</published>
+    <updated>2026-08-16T00:00:00+00:00</updated>
+    <summary type="text">Explore the true cost of AI video generation. We explain the technology, future trends, and specific business use cases for AI video generators.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>LTX is Part of the NVIDIA Cosmos Coalition: What It Means for Open World Models</title>
+    <link href="https://ltx.io/blog/ltx-joins-the-nvidia-cosmos-coalition"/>
+    <id>f488052397c18eda15fa87d9f220ad6a</id>
+    <published>2026-08-16T00:00:00+00:00</published>
+    <updated>2026-08-16T00:00:00+00:00</updated>
+    <summary type="text">LTX joins NVIDIA's Cosmos Coalition as a founding member alongside Runway, Black Forest Labs, and Skild AI, building on the new Cosmos 3 model.</summary>
+    <category term="Production"/>
+  </entry>
   <entry>
     <title>Best World Models in 2026 (Open &amp; Closed)</title>
     <link href="https://ltx.io/blog/best-world-models"/>
@@ -15,15 +33,6 @@
     <published>2026-08-13T00:00:00+00:00</published>
     <updated>2026-08-13T00:00:00+00:00</updated>
     <summary type="text">The best world models for physical AI and real-time environments in 2026, ranked on openness, speed, and what you can actually build on.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>LTX is Part of the NVIDIA Cosmos Coalition: What It Means for Open World Models</title>
-    <link href="https://ltx.io/blog/ltx-joins-the-nvidia-cosmos-coalition"/>
-    <id>f488052397c18eda15fa87d9f220ad6a</id>
-    <published>2026-08-13T00:00:00+00:00</published>
-    <updated>2026-08-13T00:00:00+00:00</updated>
-    <summary type="text">LTX joins NVIDIA's Cosmos Coalition as a founding member alongside Runway, Black Forest Labs, and Skild AI, building on the new Cosmos 3 model.</summary>
     <category term="Production"/>
   </entry>
   <entry>
@@ -216,7 +225,7 @@
     <category term="Production"/>
   </entry>
   <entry>
-    <title>AI Video Prompt Guide: How To Write AI Video Prompts In 2026</title>
+    <title>AI Video Prompt Guide: How To Write AI Video Prompts (2026)</title>
     <link href="https://ltx.io/blog/ai-video-prompt-guide"/>
     <id>35c2ff6463fb63dd0286b2bde9e3df0c</id>
     <published>2026-07-20T00:00:00+00:00</published>
@@ -270,6 +279,24 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
+    <title>Best Image To Video AI Tools To Use In 2026</title>
+    <link href="https://ltx.io/blog/best-image-to-video-ai-tools"/>
+    <id>37d9b46b640483dce67f8cc90d4bd657</id>
+    <published>2026-07-19T00:00:00+00:00</published>
+    <updated>2026-07-19T00:00:00+00:00</updated>
+    <summary type="text">Compare the best image to video AI tools in 2026. Covers features, pricing, motion control, and how to turn images into video with AI.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Which AI Video Model Should You Use in 2026? A Model-by-Model Guide</title>
+    <link href="https://ltx.io/blog/how-to-choose-the-right-model"/>
+    <id>b9d0ff77022959e023a91a54164aeb79</id>
+    <published>2026-07-19T00:00:00+00:00</published>
+    <updated>2026-07-19T00:00:00+00:00</updated>
+    <summary type="text">Not sure which AI generation model to use? Learn how to choose the right image and video model for your creative workflow in 2026.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
     <title>Best Sora Alternatives Now That It's Shut Down (2026)</title>
     <link href="https://ltx.io/blog/best-sora-alternatives"/>
     <id>da12f6d6671badfc350705bb2672dc4a</id>
@@ -303,6 +330,33 @@
     <published>2026-07-13T00:00:00+00:00</published>
     <updated>2026-07-13T00:00:00+00:00</updated>
     <summary type="text">Why train your own AI video model with LTX Trainer: control over the weights, local training data, custom pipelines, and no per-generation API billing.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>How to Run a Video Generation Model Locally: A Low VRAM Guide</title>
+    <link href="https://ltx.io/blog/run-video-generation-model-locally"/>
+    <id>0127949c5a6f853a60abffcee2b52600</id>
+    <published>2026-07-12T00:00:00+00:00</published>
+    <updated>2026-07-12T00:00:00+00:00</updated>
+    <summary type="text">Set up local AI video generation on consumer GPUs. Covers VRAM tiers, pipeline selection, FP8 quantization, and ComfyUI workflows.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Best 7 Animation Softwares (2026): What To Use For 2D, 3D &amp; AI Animation</title>
+    <link href="https://ltx.io/blog/best-animation-software"/>
+    <id>e439a41caf26f9e7de9a01389b914a2f</id>
+    <published>2026-07-11T00:00:00+00:00</published>
+    <updated>2026-07-11T00:00:00+00:00</updated>
+    <summary type="text">Find the best animation software for your needs. Compare 2D, 3D, motion graphics, and AI animation tools, from beginner-friendly to professional.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>How to Set Up an Image-to-Video Workflow with an Open Source Model</title>
+    <link href="https://ltx.io/blog/image-to-video-workflow"/>
+    <id>4e4052d2d68f49e0224942de223acd36</id>
+    <published>2026-07-08T00:00:00+00:00</published>
+    <updated>2026-07-08T00:00:00+00:00</updated>
+    <summary type="text">Set up a complete image-to-video workflow with LTX-2.3, the open source AI video generation model. Covers pipeline selection, image prep, and IC-LoRA adapters.</summary>
     <category term="Production"/>
   </entry>
   <entry>
@@ -351,24 +405,6 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
-    <title>How Much Does AI Video Generation Cost In 2026?</title>
-    <link href="https://ltx.io/blog/ai-video-generation-cost"/>
-    <id>8a9a4c586d40bf3a0648fc618a3233a3</id>
-    <published>2026-07-05T00:00:00+00:00</published>
-    <updated>2026-07-05T00:00:00+00:00</updated>
-    <summary type="text">Explore the true cost of AI video generation. We explain the technology, future trends, and specific business use cases for AI video generators.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>How To Choose The Right Video Generation Model In 2026</title>
-    <link href="https://ltx.io/blog/how-to-choose-the-right-model"/>
-    <id>b9d0ff77022959e023a91a54164aeb79</id>
-    <published>2026-07-05T00:00:00+00:00</published>
-    <updated>2026-07-05T00:00:00+00:00</updated>
-    <summary type="text">Not sure which AI generation model to use? Learn how to choose the right image and video model for your creative workflow in 2026.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
     <title>How To Use AI Videos To Increase Sales In 2026</title>
     <link href="https://ltx.io/blog/ai-videos-to-increase-sales"/>
     <id>497cfa8fc84e936072c6a224bf5f5b17</id>
@@ -396,33 +432,6 @@
     <category term="Production"/>
   </entry>
   <entry>
-    <title>AI Video Marketing: How To Use AI In A Video Marketing Strategy (2026)</title>
-    <link href="https://ltx.io/blog/ai-video-marketing"/>
-    <id>4d36fafd5adc2263dbd8de669863b839</id>
-    <published>2026-06-29T00:00:00+00:00</published>
-    <updated>2026-06-29T00:00:00+00:00</updated>
-    <summary type="text">A clear guide to AI video marketing. See how to add AI to every stage of video creation and optimize your strategy for better results.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Best Midjourney Alternatives In 2026 To Use Today</title>
-    <link href="https://ltx.io/blog/best-midjourney-alternatives"/>
-    <id>7316168da5695f7dc9af3e8a60a70703</id>
-    <published>2026-06-29T00:00:00+00:00</published>
-    <updated>2026-06-29T00:00:00+00:00</updated>
-    <summary type="text">Midjourney not the right fit? Discover the best free and paid alternatives in 2026, from quick free tools to full creative production platforms.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>How to Build a Pre-Visualization Pipeline With AI (2026 Guide)</title>
-    <link href="https://ltx.io/blog/how-to-build-a-complete-pre-visualization-pipeline"/>
-    <id>9b6ad051ab3868ea49ba38d2864377dc</id>
-    <published>2026-06-29T00:00:00+00:00</published>
-    <updated>2026-06-29T00:00:00+00:00</updated>
-    <summary type="text">Learn how to accelerate pre-production by building a complete pre-visualization pipeline in LTX Studio—from script breakdown through AI video generation, team review, and production handoff.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
     <title>Negative Prompts Guide: What They Are &amp; How To Use Them</title>
     <link href="https://ltx.io/blog/negative-prompts"/>
     <id>4af4291b9406aedbc84a0ce78e8f49b0</id>
@@ -430,14 +439,5 @@
     <updated>2026-06-29T00:00:00+00:00</updated>
     <summary type="text">Discover how negative prompts work and why they matter. See examples and learn how to use them to control AI image generation more effectively.</summary>
     <category term="Prompting Guides"/>
-  </entry>
-  <entry>
-    <title>How To Apply &amp; Customize Styles Using AI (2026 Guide)</title>
-    <link href="https://ltx.io/blog/how-customize-visual-styles"/>
-    <id>baba6af2badd9d1c8178d28fad2f7f97</id>
-    <published>2026-06-21T00:00:00+00:00</published>
-    <updated>2026-06-21T00:00:00+00:00</updated>
-    <summary type="text">Learn how to master LTX Studio's style controls to achieve your perfect look. From cinematic realism to bold artistic effects, discover how to customize visuals at every level of your project.</summary>
-    <category term="Tutorials"/>
   </entry>
 </feed>
