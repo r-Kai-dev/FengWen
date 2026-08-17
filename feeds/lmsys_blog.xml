@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-08-12T00:00:00+00:00</updated>
+  <updated>2026-08-17T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Advanced CUDA Graph Techniques in Inference</title>
+    <link href="https://lmsys.org/blog/2026-08-17-advanced-cuda-graph"/>
+    <id>ed1f7063865cbe3a629af1f57ed1695d</id>
+    <published>2026-08-17T00:00:00+00:00</published>
+    <updated>2026-08-17T00:00:00+00:00</updated>
+    <summary type="text">CUDA Graphs promise to remove kernel-launch overhead, but getting close to that benefit in a real inference engine requires graphing as much of the workload as possible without sacrificing compatibili...</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>SGLang and Miles Add Day-0 Support for Qwen3.8</title>
     <link href="https://lmsys.org/blog/2026-08-12-qwen3-8-day0-support"/>

@@ -113,7 +113,7 @@
     <id>753ff9893d1d8122b1dcc0f247689286</id>
     <published>2026-08-04T00:00:00+00:00</published>
     <updated>2026-08-04T00:00:00+00:00</updated>
-    <summary type="text">Prompt LTX well and it will give you almost anything you can describe. Feed it a reference frame and it will animate what’s in it. A LoRA is for the case...</summary>
+    <summary type="text">Prompt LTX well and it will give you almost anything you can describe. Feed it a reference frame and it will animate what’s in it.</summary>
     <category term="Tutorials"/>
   </entry>
   <entry>
@@ -122,7 +122,7 @@
     <id>85611a5d618fda56437539123bfb0410</id>
     <published>2026-08-03T00:00:00+00:00</published>
     <updated>2026-08-03T00:00:00+00:00</updated>
-    <summary type="text">Before you collect a single clip, you need to decide exactly what you want the LoRA to do at inference. Every later choice you make flows from this one. The...</summary>
+    <summary type="text">Before you collect a single clip, you need to decide exactly what you want the LoRA to do at inference. Every later choice you make flows from this one.</summary>
     <category term="Tutorials"/>
   </entry>
   <entry>
@@ -131,7 +131,7 @@
     <id>cc2311f1fb6cdd96eb5d72eeec0daf58</id>
     <published>2026-08-02T00:00:00+00:00</published>
     <updated>2026-08-02T00:00:00+00:00</updated>
-    <summary type="text">The dataset is the most important part of training, full stop. Investing time to create a solid training dataset will result in a much better outcome. Here’s...</summary>
+    <summary type="text">The dataset is the most important part of training, full stop. Investing time to create a solid training dataset will result in a much better outcome.</summary>
     <category term="Tutorials"/>
   </entry>
   <entry>
@@ -140,7 +140,7 @@
     <id>f101be41fdd0973d89c9fa38083c9246</id>
     <published>2026-08-01T00:00:00+00:00</published>
     <updated>2026-08-01T00:00:00+00:00</updated>
-    <summary type="text">You have a dataset, you know what you want the LoRA to learn, and you’ve picked a training mode. The next decision is what resolution and clip length to...</summary>
+    <summary type="text">You have a dataset, you know what you want the LoRA to learn, and you’ve picked a training mode.</summary>
     <category term="Tutorials"/>
   </entry>
   <entry>
@@ -149,7 +149,7 @@
     <id>d401eb0199b263416efd9a62234daca5</id>
     <published>2026-07-31T00:00:00+00:00</published>
     <updated>2026-07-31T00:00:00+00:00</updated>
-    <summary type="text">A training run is where the dataset, captions, and configuration you’ve prepared become an actual LoRA, and it commits real time and GPU compute to get...</summary>
+    <summary type="text">A training run is where the dataset, captions, and configuration you’ve prepared become an actual LoRA.</summary>
     <category term="Tutorials"/>
   </entry>
   <entry>
@@ -167,7 +167,7 @@
     <id>d79584f49165e66533b09e0ad5142c1d</id>
     <published>2026-07-30T00:00:00+00:00</published>
     <updated>2026-07-30T00:00:00+00:00</updated>
-    <summary type="text">The last five chapters followed a single path end to end: building a standard LoRA, one you invoke with a prompt to bring back a character, a style, or a...</summary>
+    <summary type="text">This chapter steps off the path. A control LoRA is driven at inference by a reference video.</summary>
     <category term="Tutorials"/>
   </entry>
   <entry>
