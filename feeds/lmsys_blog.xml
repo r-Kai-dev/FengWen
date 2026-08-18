@@ -4,12 +4,21 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-08-17T00:00:00+00:00</updated>
+  <updated>2026-08-18T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
   <entry>
-    <title>Advanced CUDA Graph Techniques in Inference</title>
+    <title>Miles v0.1: Production-level Post-training</title>
+    <link href="https://lmsys.org/blog/2026-08-18-miles-v0-1"/>
+    <id>7edce941a6cd6f2ed3d8d5797646c663</id>
+    <published>2026-08-18T00:00:00+00:00</published>
+    <updated>2026-08-18T00:00:00+00:00</updated>
+    <summary type="text">We present Miles v0.1, a full-stack production-ready system for frontier post-training, the successor to our first Miles release [1]. Building upon slime's [16] clean design, Miles optimizes every sta...</summary>
+    <category term="technical"/>
+  </entry>
+  <entry>
+    <title>Advanced CUDA Graph Techniques in SGLang</title>
     <link href="https://lmsys.org/blog/2026-08-17-advanced-cuda-graph"/>
     <id>ed1f7063865cbe3a629af1f57ed1695d</id>
     <published>2026-08-17T00:00:00+00:00</published>
@@ -26,7 +35,6 @@
     <summary type="text">We are excited to announce Day-0 support for Qwen3.8-2.4T-A95B in SGLang and Miles.
 It is Qwen's largest open-source model, with 2.4T total parameters and 95B active per token,
 and its hybrid attentio...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -37,7 +45,6 @@ and its hybrid attentio...</summary>
     <updated>2026-08-11T00:00:00+00:00</updated>
     <summary type="text">SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning, a customizable open model built to power always-on agents across local systems, the edge, the datacenter, and the cloud.
 ...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -56,7 +63,6 @@ and its hybrid attentio...</summary>
     <published>2026-08-10T00:00:00+00:00</published>
     <updated>2026-08-10T00:00:00+00:00</updated>
     <summary type="text">We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang, with dedicated optimizations tailored for high-performance inference of agentic workflows o...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -66,7 +72,6 @@ and its hybrid attentio...</summary>
     <published>2026-08-07T00:00:00+00:00</published>
     <updated>2026-08-07T00:00:00+00:00</updated>
     <summary type="text">HPC-Ops is an open-source operator library for LLM inference, deployed in Tencent's large-scale production serving. Its core operators, including Dynamic Attention and Fused MoE, play a critical role ...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -95,7 +100,6 @@ and its hybrid attentio...</summary>
     <published>2026-07-30T00:00:00+00:00</published>
     <updated>2026-07-30T00:00:00+00:00</updated>
     <summary type="text">RadixArk and Google Cloud are partnering to bring SGLang to TPUs, giving developers ultimate flexibility for running workloads on their choice of hardware.</summary>
-    <category term="sglang"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -114,7 +118,6 @@ and its hybrid attentio...</summary>
     <published>2026-07-28T00:00:00+00:00</published>
     <updated>2026-07-28T00:00:00+00:00</updated>
     <summary type="text">Quantization has moved from an advanced feature to an essential part of high-throughput LLM serving. As the number of checkpoint formats, model architectures, and hardware backends grows, the quantiza...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -126,7 +129,6 @@ and its hybrid attentio...</summary>
     <summary type="text">We are excited to announce Day-0 support for Kimi K3
 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class,
 and its hybrid architecture departs from convention in al...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -145,7 +147,6 @@ and its hybrid architecture departs from convention in al...</summary>
     <published>2026-07-15T00:00:00+00:00</published>
     <updated>2026-07-15T00:00:00+00:00</updated>
     <summary type="text">We're excited to partner with the Thinking Machines team to bring Day-0 support for Inkling to SGLang and Miles, with dedicated optimizations for its new architecture and broad feature coverage, and w...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -160,7 +161,6 @@ and its hybrid architecture departs from convention in al...</summary>
 - 2.33x faster TopK-V2 for ISL 80k
 - Indexer prologue fusion
 - Gemm kernels...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -185,7 +185,6 @@ and its hybrid architecture departs from convention in al...</summary>
 
 
 - Pr...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -197,7 +196,6 @@ and its hybrid architecture departs from convention in al...</summary>
     <summary type="text">Speculative decoding trades extra compute for fewer decode steps, and the trade
 sours as load grows: at batch size B with K speculative tokens the target
 verifies B  K tokens every step, and past a po...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -207,7 +205,6 @@ verifies B  K tokens every step, and past a po...</summary>
     <published>2026-07-02T00:00:00+00:00</published>
     <updated>2026-07-02T00:00:00+00:00</updated>
     <summary type="text">SGLang development increasingly goes beyond isolated code changes. The same repository now spans LLM serving, distributed runtime, GPU kernels, diffusion pipelines, model-specific execution paths, and...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -217,7 +214,6 @@ verifies B  K tokens every step, and past a po...</summary>
     <published>2026-06-26T00:00:00+00:00</published>
     <updated>2026-06-26T00:00:00+00:00</updated>
     <summary type="text">Mixture-of-Experts (MoE) models rely on Expert Parallelism (EP) to scale inference across multiple GPUs. In SGLang, DeepEP and EPLB provide high-performance serving under EP, but the workload seen by ...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -229,7 +225,6 @@ verifies B  K tokens every step, and past a po...</summary>
     <summary type="text">Today we are announcing end-to-end serving for MOSS-TTS-Local-Transformer-v1.5 on SGLang-Omni, together with MOSI and the OpenMOSS Team.
 
 MOSS-TTS-Local-Transformer-v1.5 is an open TTS model for 48 kH...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -239,7 +234,6 @@ MOSS-TTS-Local-Transformer-v1.5 is an open TTS model for 48 kH...</summary>
     <published>2026-06-17T00:00:00+00:00</published>
     <updated>2026-06-17T00:00:00+00:00</updated>
     <summary type="text">SGLang-JAX now supports efficient serving of inclusionAI's Ling-2.6-1T on TPU v7x. With a working baseline in place, profiling pointed to the Mixture-of-Experts (MoE) path as the main bottleneck: each...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -278,7 +272,6 @@ Following the launch of our Fellowship Program and careful review of application
     <published>2026-06-04T00:00:00+00:00</published>
     <updated>2026-06-04T00:00:00+00:00</updated>
     <summary type="text">Today we are announcing end-to-end serving for Higgs Audio v3 TTS on SGLang-Omni. Higgs Audio v3 TTS is Boson AI's text-to-speech model for conversational voice agents: it generates natural and expres...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -290,7 +283,6 @@ Following the launch of our Fellowship Program and careful review of application
     <summary type="text">We are excited to announce that SGLang and Miles support NVIDIA Nemotron 3 Ultra on Day 0\.
 
 Agentic AI systems are moving from short prompt-response interactions to persistent workflows that plan, us...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -311,7 +303,6 @@ We enabled heterogeneous Encode-Prefill-Decode (EPD) disaggregation via Dynamo a
     <published>2026-05-28T00:00:00+00:00</published>
     <updated>2026-05-28T00:00:00+00:00</updated>
     <summary type="text">The SGLang and AMD team has worked closely to unlock competitive Total Cost of Ownership (TCO) for large-scale DeepSeek-R1 disaggregated inference on AMD Instinctâ¢ MI355X GPUs. Building on SGLang's se...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -330,7 +321,6 @@ We enabled heterogeneous Encode-Prefill-Decode (EPD) disaggregation via Dynamo a
     <published>2026-04-25T00:00:00+00:00</published>
     <updated>2026-04-25T00:00:00+00:00</updated>
     <summary type="text">We are thrilled to announce Day-0 support for DeepSeek-V4 across both inference and RL training. SGLang and Miles form the first open-source stack to serve and train DeepSeek-V4 on launch day â with s...</summary>
-    <category term="sglang"/>
     <category term="blog"/>
   </entry>
   <entry>
@@ -340,7 +330,6 @@ We enabled heterogeneous Encode-Prefill-Decode (EPD) disaggregation via Dynamo a
     <published>2026-04-10T00:00:00+00:00</published>
     <updated>2026-04-10T00:00:00+00:00</updated>
     <summary type="text">Self-attention has become a major bottleneck in scaling LLMs to long contexts because of its quadratic compute and memory/IO cost. This has driven growing interest in efficient attention mechanisms. A...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -350,7 +339,6 @@ We enabled heterogeneous Encode-Prefill-Decode (EPD) disaggregation via Dynamo a
     <published>2026-03-31T00:00:00+00:00</published>
     <updated>2026-03-31T00:00:00+00:00</updated>
     <summary type="text">SGLang came to NVIDIA GTC 2026 with panels, a happy hour, a 200-person meetup, and a hands-on training lab. Three days, five events, one packed week at the center of the LLM ecosystem and left with a ...</summary>
-    <category term="sglang"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -360,7 +348,6 @@ We enabled heterogeneous Encode-Prefill-Decode (EPD) disaggregation via Dynamo a
     <published>2026-03-25T00:00:00+00:00</published>
     <updated>2026-03-25T00:00:00+00:00</updated>
     <summary type="text">To serve massive Mixture-of-Experts (MoE) models efficiently, deploying a &quot;wide&quot; Expert Parallelism (EP) strategyâoften spanning 32 GPUs or more per inference instanceâis not just an option; it is a n...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -381,7 +368,6 @@ We enabled heterogeneous Encode-Prefill-Decode (EPD) disaggregation via Dynamo a
     <summary type="text">We are excited to announce that SGLang supports NVIDIA Nemotron 3 Super on Day 0.
 
 Nemotron 3 Super is a leading open model in the Nemotron 3 family, built for running many collaborating agents togeth...</summary>
-    <category term="sglang"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -391,7 +377,6 @@ Nemotron 3 Super is a leading open model in the Nemotron 3 family, built for run
     <published>2026-02-20T00:00:00+00:00</published>
     <updated>2026-02-20T00:00:00+00:00</updated>
     <summary type="text">The SGLang team has worked closely with NVIDIA across multiple GPU generations to unlock step-function gains in inference performance for large-scale deployments of Mixture of Expert (MoE) reasoning m...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -412,7 +397,6 @@ Nemotron 3 Super is a leading open model in the Nemotron 3 family, built for run
     <summary type="text">Following our two-month progress update, we're excited to share a
 deeper dive into the advanced optimizations that make SGLang-Diffusion a production-ready framework for video
 generation. These improv...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -443,7 +427,6 @@ generation. These improv...</summary>
     <updated>2026-01-21T00:00:00+00:00</updated>
     <summary type="text">A suite of production-tested, high-impact optimizations has been developed by Novita AI for deploying GLM4-MOE models based on SGLANG.
 We introduce an end-to-end performance optimization strategy that...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -454,7 +437,6 @@ We introduce an end-to-end performance optimization strategy that...</summary>
     <updated>2026-01-16T00:00:00+00:00</updated>
     <summary type="text">Since its release in early Nov. 2025, SGLang-Diffusion has gained significant attention and widespread adoption
 within the community. We are deeply grateful for the extensive feedback and growing numb...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -464,7 +446,6 @@ within the community. We are deeply grateful for the extensive feedback and grow
     <published>2026-01-15T00:00:00+00:00</published>
     <updated>2026-01-15T00:00:00+00:00</updated>
     <summary type="text">We are excited to introduce SGLang's highly optimized Pipeline Parallelism (PP) implementation, specifically engineered to tackle the challenges of ultra-long context inference. By integrating Chunked...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -476,7 +457,6 @@ within the community. We are deeply grateful for the extensive feedback and grow
     <summary type="text">We introduce Encoder-Prefill-Decode (EPD) Disaggregation in SGLang, a novel architecture that separates vision encoding from language processing in Vision-Language Models (VLMs).  This can enable:
 
 - ...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -504,7 +484,6 @@ within the community. We are deeply grateful for the extensive feedback and grow
     <published>2025-12-17T00:00:00+00:00</published>
     <updated>2025-12-17T00:00:00+00:00</updated>
     <summary type="text">We're excited to introduce Mini-SGLang, a lightweight yet high-performance inference framework for Large Language Models (LLMs). Derived from the SGLang project, Mini-SGLang is designed to demystify t...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -514,7 +493,6 @@ within the community. We are deeply grateful for the extensive feedback and grow
     <published>2025-12-16T00:00:00+00:00</published>
     <updated>2025-12-16T00:00:00+00:00</updated>
     <summary type="text">XiaomiMiMo/MiMo-V2-Flash, with 309B total parameters and 15B activated parameters, is a new inference-centric model designed to maximize decoding efficiency. It is based on two key designs: sliding wi...</summary>
-    <category term="sglang"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -524,7 +502,6 @@ within the community. We are deeply grateful for the extensive feedback and grow
     <published>2025-12-15T00:00:00+00:00</published>
     <updated>2025-12-15T00:00:00+00:00</updated>
     <summary type="text">Jan 28th Update: NVIDIA just released their Nemotron 3 Nano model in NVFP4 precision. This model is supported by SGLang out of the box and it uses a new method called Quantization-Aware Distillation (...</summary>
-    <category term="sglang"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -545,7 +522,6 @@ within the community. We are deeply grateful for the extensive feedback and grow
     <summary type="text">(Updated on Dec 2)
 
 We are thrilled to announce a major new feature in SGLang: native support for NVIDIA Model Optimizer quantization! This integration streamlines the entire model optimization and de...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -597,7 +573,6 @@ Today, we are releasing Miles, an enterprise-grade reinforcement learning framew
     <summary type="text">We are thrilled to announce an official collaboration between SGLang and AutoRound, enabling low-bit quantization for efficient LLM inference.
 
 Through this integration, developers can now quantize la...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -608,7 +583,6 @@ Through this integration, developers can now quantize la...</summary>
     <updated>2025-11-07T00:00:00+00:00</updated>
     <summary type="text">We are excited to introduce SGLang Diffusion, which brings SGLang's state-of-the-art performance to accelerate image and video generation for diffusion models.
 SGLang Diffusion supports major open-sou...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -637,7 +611,6 @@ SGLang Diffusion supports major open-sou...</summary>
     <updated>2025-10-29T00:00:00+00:00</updated>
     <summary type="text">We're excited to introduce SGLang-Jax, a state-of-the-art open-source inference engine built entirely on Jax and XLA.
 It leverages SGLang's high-performance server architecture and uses Jax to compile...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -649,7 +622,6 @@ It leverages SGLang's high-performance server architecture and uses Jax to compi
     <summary type="text">Modern Mixture-of-Experts (MoE) language models such as DeepSeek-V3 contain hundreds of billions of parameters, but only a small subset of experts are activated per token.
 
 This sparse activation patt...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -659,7 +631,6 @@ This sparse activation patt...</summary>
     <published>2025-10-14T00:00:00+00:00</published>
     <updated>2025-10-14T00:00:00+00:00</updated>
     <summary type="text">The SGLang and NVIDIA teams have a strong track record of collaboration, consistently delivering inference optimizations and system-level improvements to ensure exceptional performance of the SGLang f...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -678,7 +649,6 @@ This sparse activation patt...</summary>
     <published>2025-09-29T00:00:00+00:00</published>
     <updated>2025-09-29T00:00:00+00:00</updated>
     <summary type="text">We are excited to announce that SGLang supports DeepSeek-V3.2 on Day 0! According to the DeepSeek tech report, it equips DeepSeek-V3.1-Terminus with DeepSeek Sparse Attention (DSA) through continued t...</summary>
-    <category term="sglang"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -697,7 +667,6 @@ This sparse activation patt...</summary>
     <published>2025-09-26T00:00:00+00:00</published>
     <updated>2025-09-26T00:00:00+00:00</updated>
     <summary type="text">Operationalizing scaled Mixture-of-Experts (MoE) models such as DeepSeek-R1 requires a careful balance of latency, throughput, and cost. The challenge is especially acute on hardware with asymmetric p...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -721,7 +690,6 @@ This sparse activation patt...</summary>
 
 
 Recently, the Thinking Machines Lab ...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -740,7 +708,6 @@ Recently, the Thinking Machines Lab ...</summary>
     <published>2025-09-10T00:00:00+00:00</published>
     <updated>2025-09-10T00:00:00+00:00</updated>
     <summary type="text">In a coding agent scenario using Qwen3-Coder-480B, the observed dialogues often stretched past 25K tokens around 8 turns per session. Without full KV cache retention, nearly every request required cos...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -752,7 +719,6 @@ Recently, the Thinking Machines Lab ...</summary>
     <summary type="text">LongCat-Flash, Meituan's open-source Agentic Mixture-of-Experts (MoE) model is now available from huggingface LongCat-Flash-Chat. Released by Meituan LongCat Team, it features:
 - 560B total params
 - 1...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -764,7 +730,6 @@ Recently, the Thinking Machines Lab ...</summary>
     <summary type="text">(Updated on Aug 29)
 
 OpenAI recently released gpt-oss, the first open source model family from OpenAI's lab since GPT-2. These models demonstrate strong math, coding, and general capabilities. Part of...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -774,7 +739,6 @@ OpenAI recently released gpt-oss, the first open source model family from OpenAI
     <published>2025-08-27T00:00:00+00:00</published>
     <updated>2025-08-27T00:00:00+00:00</updated>
     <summary type="text">We are excited to announce a major update for SGLang, focusing on deep performance optimizations and new features for the recently released openai/gpt-oss-120b model. While we had support from day zer...</summary>
-    <category term="sglang"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -785,7 +749,6 @@ OpenAI recently released gpt-oss, the first open source model family from OpenAI
     <updated>2025-07-31T00:00:00+00:00</updated>
     <summary type="text">Today, we are excited to introduce our latest flagship models GLM-4.5 and GLM-4.5-Air, along with their FP8 variants. All models are now available with day-one support on SGLang.
 GLM-4.5 and GLM-4.5-A...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -795,7 +758,6 @@ GLM-4.5 and GLM-4.5-A...</summary>
     <published>2025-07-25T00:00:00+00:00</published>
     <updated>2025-07-25T00:00:00+00:00</updated>
     <summary type="text">Speculative decoding is a powerful technique for accelerating Large Language Model (LLM) inference. In this blog post, we are excited to announce the open-sourcing of SpecForge, our new training frame...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -819,7 +781,6 @@ Released by Moonshot AI in 2025, it features:
     <published>2025-07-17T00:00:00+00:00</published>
     <updated>2025-07-17T00:00:00+00:00</updated>
     <summary type="text">SGLang now supports smooth combination of these advanced features: Multiple Token Prediction (MTP), Large-Scale Expert Parallelism (EP), and Prefill-Decode disaggregation. This integration delivers up...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -829,7 +790,6 @@ Released by Moonshot AI in 2025, it features:
     <published>2025-07-16T00:00:00+00:00</published>
     <updated>2025-07-16T00:00:00+00:00</updated>
     <summary type="text">The world of LLMs is evolving at a remarkable pace, with Visual Language Models (VLMs) at the forefront of this revolution. These models power applications that can understand and reason about both im...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -839,7 +799,6 @@ Released by Moonshot AI in 2025, it features:
     <published>2025-07-14T00:00:00+00:00</published>
     <updated>2025-07-14T00:00:00+00:00</updated>
     <summary type="text">The impressive performance of DeepSeek R1 marked a rise of giant Mixture of Experts (MoE) models in Large Language Models (LLM). However, its massive model size and unique architecture have posed new ...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -853,7 +812,6 @@ Released by Moonshot AI in 2025, it features:
 If you feel the same way, you'll share our vision:
 
 - Every field should be end-to-end RLed and every task should become an agent enviro...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -895,7 +853,6 @@ The ML Engineers spend months benchmarking models, experimenting with serving te
 
 - Zero-overhead batch scheduler: 1.1x increase in throughput.  
 - Cache-aware load balancer: up ...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -907,7 +864,6 @@ The ML Engineers spend months benchmarking models, experimenting with serving te
     <summary type="text">Weâre excited to share that Chatbot Arena now has its own dedicated website: lmarena.ai and blog!
 
 You might be wondering why weâre making this change. Over the past year, with the incredible support ...</summary>
-    <category term="chatbot"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -921,7 +877,6 @@ You might be wondering why weâre making this change. Over the past year, wi
 
 
 &lt;img src=&quot;/images/blog/redteamarena/badwords.png&quot; style=&quot;di...</summary>
-    <category term="chatbot"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -933,7 +888,6 @@ You might be wondering why weâre making this change. Over the past year, wi
     <summary type="text">We're excited to announce the release of SGLang v0.3, which brings significant performance enhancements and expanded support for novel model architectures. Here are the key updates:
 
 - Up to 7x higher...</summary>
-    <category term="sglang"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -945,7 +899,6 @@ You might be wondering why weâre making this change. Over the past year, wi
     <summary type="text">Why is GPT-4o-mini so good? Why does Claude rank so low, when anecdotal experience suggests otherwise?
 
 We have answers for you. We controlled for the effect of length and markdown, and indeed, the ra...</summary>
-    <category term="chatbot"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -955,7 +908,6 @@ We have answers for you. We controlled for the effect of length and markdown, an
     <published>2024-07-25T00:00:00+00:00</published>
     <updated>2024-07-25T00:00:00+00:00</updated>
     <summary type="text">At LMSYS.org, we've been running the Chatbot Arena platform for over a year, serving millions of users. We know firsthand how crucial efficient serving is for AI products and research. Through our ope...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -974,7 +926,6 @@ We have answers for you. We controlled for the effect of length and markdown, an
     <published>2024-06-27T00:00:00+00:00</published>
     <updated>2024-06-27T00:00:00+00:00</updated>
     <summary type="text">We added image support to Chatbot Arena! You can now chat with your favorite vision-language models from OpenAI, Anthropic, Google, and most other major LLM providers to help discover how these models...</summary>
-    <category term="chatbot"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -987,7 +938,6 @@ We have answers for you. We controlled for the effect of length and markdown, an
 
 
 Over the past few months, the community has shown a growing interest in more challenging prompts that push ...</summary>
-    <category term="chatbot"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -997,7 +947,6 @@ Over the past few months, the community has shown a growing interest in more cha
     <published>2024-05-08T00:00:00+00:00</published>
     <updated>2024-05-08T00:00:00+00:00</updated>
     <summary type="text">On April 18th, Meta released Llama 3, their newest open-weight large language model. Since then, Llama 3-70B has quickly risen to the top of the English Chatbot Arena leaderboard with over 50,000 batt...</summary>
-    <category term="chatbot"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -1016,7 +965,6 @@ Over the past few months, the community has shown a growing interest in more cha
     <published>2024-04-19T00:00:00+00:00</published>
     <updated>2024-04-19T00:00:00+00:00</updated>
     <summary type="text">Building an affordable and reliable benchmark for LLM chatbots has become a critical challenge. A high-quality benchmark should 1) robustly separate model capability, 2) reflect human preference in re...</summary>
-    <category term="chatbot"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -1026,7 +974,6 @@ Over the past few months, the community has shown a growing interest in more cha
     <published>2024-03-01T00:00:00+00:00</published>
     <updated>2024-03-01T00:00:00+00:00</updated>
     <summary type="text">Chatbot Arena (lmarena.ai) is an open-source project developed by members from LMSYS and UC Berkeley SkyLab. Our mission is to advance LLM development and understanding through live, open, and communi...</summary>
-    <category term="chatbot"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -1046,7 +993,6 @@ In this blog post, we introduce an optimization that sign...</summary>
     <published>2024-01-17T00:00:00+00:00</published>
     <updated>2024-01-17T00:00:00+00:00</updated>
     <summary type="text">Large Language Models (LLMs) are increasingly utilized for complex tasks that require multiple chained generation calls, advanced prompting techniques, control flow, and interaction with external envi...</summary>
-    <category term="sglang"/>
     <category term="technical"/>
   </entry>
   <entry>
@@ -1056,7 +1002,6 @@ In this blog post, we introduce an optimization that sign...</summary>
     <published>2023-12-07T00:00:00+00:00</published>
     <updated>2023-12-07T00:00:00+00:00</updated>
     <summary type="text">Welcome to our latest update on the Chatbot Arena, our open evaluation platform to test the most advanced LLMs. We're excited to share that over 130,000 votes that are now collected to rank the most c...</summary>
-    <category term="chatbot"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -1106,7 +1051,6 @@ To ensure result validity, we followed OpenAI's decontamination method and found
     <published>2023-07-20T00:00:00+00:00</published>
     <updated>2023-07-20T00:00:00+00:00</updated>
     <summary type="text">Since its launch three months ago, Chatbot Arena has become a widely cited LLM evaluation platform that emphasizes large-scale, community-based, and interactive human evaluation. In that short time sp...</summary>
-    <category term="chatbot"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -1128,7 +1072,6 @@ Evaluation results show that the lo...</summary>
     <summary type="text">In this blog post, we share the latest update on Chatbot Arena leaderboard, which now includes more open models and three metrics:
 
 1. Chatbot Arena Elo, based on 42K anonymous votes from Chatbot Aren...</summary>
-    <category term="chatbot"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -1150,7 +1093,6 @@ Evaluation results show that the lo...</summary>
 
 1. Google PaLM 2, chat-tuned with the code name chat-bison@001 on Google Cloud Vertex AI
 2. Anthropic Claude-...</summary>
-    <category term="chatbot"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -1160,7 +1102,6 @@ Evaluation results show that the lo...</summary>
     <published>2023-05-10T00:00:00+00:00</published>
     <updated>2023-05-10T00:00:00+00:00</updated>
     <summary type="text">We release an updated leaderboard with more models and new data we collected last week, after the announcement of the anonymous Chatbot Arena. We are actively iterating on the design of the arena and ...</summary>
-    <category term="chatbot"/>
     <category term="news"/>
   </entry>
   <entry>
@@ -1170,7 +1111,6 @@ Evaluation results show that the lo...</summary>
     <published>2023-05-03T00:00:00+00:00</published>
     <updated>2023-05-03T00:00:00+00:00</updated>
     <summary type="text">We present Chatbot Arena, a benchmark platform for large language models (LLMs) that features anonymous, randomized battles in a crowdsourced manner. In this blog post, we are releasing our initial re...</summary>
-    <category term="chatbot"/>
     <category term="technical"/>
   </entry>
   <entry>

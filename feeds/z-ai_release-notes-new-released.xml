@@ -4,10 +4,20 @@
   <icon>https://docs.z.ai/favicon.ico</icon>
   <link href="https://docs.z.ai/release-notes/new-released"/>
   <id>https://docs.z.ai/release-notes/new-released</id>
-  <updated>2026-06-16T00:00:00+00:00</updated>
+  <updated>2026-08-18T00:00:00+00:00</updated>
   <author>
     <name>Z.AI</name>
   </author>
+  <entry>
+    <title>GLM-5.3</title>
+    <link href="https://docs.z.ai/release-notes/new-released"/>
+    <id>8a961adf2ecb16457de0d8869950676c</id>
+    <published>2026-08-18T00:00:00+00:00</published>
+    <updated>2026-08-18T00:00:00+00:00</updated>
+    <summary type="text">Stronger Coding Capabilities: GLM-5.3 delivers a significant improvement in coding capabilities, achieving a 50% gain over GLM-5.2 on Z.ai Code Bench and reaching state-of-the-art (SOTA) performance among open-source models on public benchmarks, including Terminal Bench 3.0.</summary>
+    <category term="Release Notes"/>
+    <category term="Models"/>
+  </entry>
   <entry>
     <title>GLM-5.2</title>
     <link href="https://docs.z.ai/release-notes/new-released"/>

@@ -4,17 +4,39 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-17T19:46:21+00:00</updated>
+  <updated>2026-08-18T20:06:01+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order</title>
-    <link href="https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"/>
-    <id>16b7b941cd92c115b007c69064a4c9ec</id>
-    <published>2026-08-17T19:46:21+00:00</published>
-    <updated>2026-08-17T19:46:21+00:00</updated>
-    <summary type="text">Score: 0.858\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…</title>
+    <link href="https://x.com/claudeai/status/2089806039088517356"/>
+    <id>768d75bbe6086b6ebec502a982c3d2fb</id>
+    <published>2026-08-18T20:06:01+00:00</published>
+    <updated>2026-08-18T20:06:01+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures</title>
+    <link href="https://claude.com/blog/ai-ci-cd-on-call"/>
+    <id>39fb502400122912273cdf64ce0e226a</id>
+    <published>2026-08-18T19:26:08.389000+00:00</published>
+    <updated>2026-08-18T19:26:08.389000+00:00</updated>
+    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>强化国家安全领域的民主监督 / Strengthening Democratic Oversight in National Security</title>
+    <link href="https://openai.com/index/strengthening-democratic-oversight-in-national-security"/>
+    <id>d1e8bd82003a93c2facb7ef1cabdc582</id>
+    <published>2026-08-18T19:00:00+00:00</published>
+    <updated>2026-08-18T19:00:00+00:00</updated>
+    <summary type="text">Score: 0.848\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -22,23 +44,48 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>以卖书起家的Amazon正在销毁珍稀文本以训练AI / Amazon, which started off selling books, is destroying rare texts to train AI</title>
-    <link href="https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models"/>
-    <id>93d5199374e8ca2bcf0c71a78a86eaba</id>
-    <published>2026-08-17T16:38:44+00:00</published>
-    <updated>2026-08-17T16:38:44+00:00</updated>
-    <summary type="text">Score: 0.638\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
+    <title>智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?</title>
+    <link href="https://huggingface.co/blog/ibm-research/altk-evolve-hmm"/>
+    <id>ef2206a846bbd017081fcbdd8d57000e</id>
+    <published>2026-08-18T18:09:38+00:00</published>
+    <updated>2026-08-18T18:09:38+00:00</updated>
+    <summary type="text">Score: 0.878\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="multi_source"/>
-    <category term="watch"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient"/>
-    <id>6fb6a2447a9a726a2f8da996c605cd52</id>
-    <published>2026-08-17T16:00:00+00:00</published>
-    <updated>2026-08-17T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>OpenAI 暂缓前沿训练强化安全监控 / We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…</title>
+    <link href="https://x.com/merettm/status/2089776131255783823"/>
+    <id>f58397d4e610b7efa1ac2fcd819ba340</id>
+    <published>2026-08-18T18:07:10+00:00</published>
+    <updated>2026-08-18T18:07:10+00:00</updated>
+    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Code 2026年5月至8月每周限额促销 / Claude Code May–August 2026 weekly limits promotion</title>
+    <link href="https://news.ycombinator.com/item?id=49348751"/>
+    <id>8333d7dc673252e94f817d6ea4417e1f</id>
+    <published>2026-08-18T17:02:15+00:00</published>
+    <updated>2026-08-18T17:02:15+00:00</updated>
+    <summary type="text">Score: 0.591\nSources: 4 (NewsNow)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>OpenAI 在&quot;关键网络能力&quot;时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities</title>
+    <link href="https://openai.com/index/pacing-model-development-cyber-capabilities"/>
+    <id>71462699e78dfa4e2ffd1096c0f21406</id>
+    <published>2026-08-18T11:00:00+00:00</published>
+    <updated>2026-08-18T11:00:00+00:00</updated>
+    <summary type="text">Score: 0.829\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -46,167 +93,107 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南</title>
-    <link href="https://www.librarian.net/notoai"/>
-    <id>a98ba8058d853255cc97144f536fe48f</id>
-    <published>2026-08-17T14:07:56+00:00</published>
-    <updated>2026-08-17T14:07:56+00:00</updated>
-    <summary type="text">Score: 0.830\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
+    <title>OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections</title>
+    <link href="https://openai.com/index/chatgpt-for-teens"/>
+    <id>593a375ef83173e0dcf663b32ade67cc</id>
+    <published>2026-08-18T11:00:00+00:00</published>
+    <updated>2026-08-18T11:00:00+00:00</updated>
+    <summary type="text">Score: 0.862\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="multi_source"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁</title>
-    <link href="https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility"/>
-    <id>6cd624da42049e10ea80a9788c5a2e8a</id>
-    <published>2026-08-17T13:19:25+00:00</published>
-    <updated>2026-08-17T13:19:25+00:00</updated>
-    <summary type="text">Score: 0.860\nSources: 6 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
+    <title>与CodeAI合作，培养第一代AI / Partnering with CodeAI to prepare the first AI generation</title>
+    <link href="https://openai.com/index/partnering-with-codeai"/>
+    <id>c11697f631d44344f409cba0567583a4</id>
+    <published>2026-08-18T11:00:00+00:00</published>
+    <updated>2026-08-18T11:00:00+00:00</updated>
+    <summary type="text">Score: 0.829\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="multi_source"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224</title>
-    <link href="https://x.com/JensenHuang/status/2089331487342829862"/>
-    <id>bf1c5492e324a5018a8fc363d0f13567</id>
-    <published>2026-08-17T12:40:19+00:00</published>
-    <updated>2026-08-17T12:40:19+00:00</updated>
-    <summary type="text">Score: 0.754\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence</title>
-    <link href="https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence"/>
-    <id>2b53792b960ee99795321f3942a6646c</id>
-    <published>2026-08-17T12:34:51+00:00</published>
-    <updated>2026-08-17T12:34:51+00:00</updated>
-    <summary type="text">Score: 0.763\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>A 股迎来&quot;人形机器人第一股&quot;，宇树科技官宣 8 月 19 日科创板上市</title>
-    <link href="https://www.ithome.com/0/990/812.htm"/>
-    <id>80ebed73720be9e75587e3249102d14c</id>
-    <published>2026-08-17T12:25:27+00:00</published>
-    <updated>2026-08-17T12:25:27+00:00</updated>
-    <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic 详解 Claude 的隐形文本水印的工作原理 / Anthropic explains how Claude&amp;#8217;s invisible text watermarks will work</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"/>
-    <id>6c62ed73c81c04ecf2b798e44cb6f5d8</id>
-    <published>2026-08-17T10:57:13+00:00</published>
-    <updated>2026-08-17T10:57:13+00:00</updated>
-    <summary type="text">Score: 0.617\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>苹果蓄势待发！正与各大出版商密谋付费引入实时新闻</title>
-    <link href="https://www.aibase.com/news/30406"/>
-    <id>a9338b9f2c085847d6422a0c3c3e3501</id>
-    <published>2026-08-17T10:48:36.584720+00:00</published>
-    <updated>2026-08-17T10:48:36.584720+00:00</updated>
+    <title>微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法</title>
+    <link href="https://www.aibase.com/news/30444"/>
+    <id>0db593962f16ba2465f8936d36e08749</id>
+    <published>2026-08-18T10:47:07.153361+00:00</published>
+    <updated>2026-08-18T10:47:07.153361+00:00</updated>
     <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果</title>
-    <link href="https://www.aibase.com/news/30404"/>
-    <id>ce7eef5ebe9de38f6d276a777b564986</id>
-    <published>2026-08-17T09:57:44.461849+00:00</published>
-    <updated>2026-08-17T09:57:44.461849+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测</title>
+    <link href="https://www.aibase.com/news/30441"/>
+    <id>ee255041e607e6c33269469141fdeadd</id>
+    <published>2026-08-18T09:48:23.641166+00:00</published>
+    <updated>2026-08-18T09:48:23.641166+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛</title>
-    <link href="https://www.aibase.com/news/30405"/>
-    <id>08bb6c13b1f9fdafdba1fa4f6e28ed84</id>
-    <published>2026-08-17T09:57:44.461849+00:00</published>
-    <updated>2026-08-17T09:57:44.461849+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！</title>
+    <link href="https://www.aibase.com/news/30442"/>
+    <id>548e0e23b25727d15db423384a09a945</id>
+    <published>2026-08-18T09:48:23.641166+00:00</published>
+    <updated>2026-08-18T09:48:23.641166+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压</title>
-    <link href="https://www.aibase.com/news/30403"/>
-    <id>426efa4a343b0947ba3a4f724acdf748</id>
-    <published>2026-08-17T09:01:25.669947+00:00</published>
-    <updated>2026-08-17T09:01:25.669947+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>百度二季度营收313亿元，AI业务占比连续两季过半</title>
+    <link href="https://www.aibase.com/news/30443"/>
+    <id>323740afad06c4343f902f12807931dd</id>
+    <published>2026-08-18T09:48:23.641166+00:00</published>
+    <updated>2026-08-18T09:48:23.641166+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年</title>
-    <link href="https://www.aibase.com/news/30398"/>
-    <id>c880bd199b617eacbb2e9d782a43ab32</id>
-    <published>2026-08-17T09:01:25.669947+00:00</published>
-    <updated>2026-08-17T09:01:25.669947+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5</title>
+    <link href="https://www.aibase.com/news/30439"/>
+    <id>8458633fb74147a0f7556e34c3eaa62d</id>
+    <published>2026-08-18T08:53:39.267759+00:00</published>
+    <updated>2026-08-18T08:53:39.267759+00:00</updated>
+    <summary type="text">Score: 0.739\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>借助Gemini和Pixel更贴近比赛 / Get closer to the game with Gemini and Pixel</title>
-    <link href="https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships"/>
-    <id>dc837c9c96cf8163bfd75e0474d26567</id>
-    <published>2026-08-17T08:00:00+00:00</published>
-    <updated>2026-08-17T08:00:00+00:00</updated>
-    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window</title>
-    <link href="https://openai.com/index/the-defenders-window"/>
-    <id>295efe64060cc81e3bff8e0327919a8a</id>
-    <published>2026-08-17T05:30:00+00:00</published>
-    <updated>2026-08-17T05:30:00+00:00</updated>
-    <summary type="text">Score: 0.841\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元</title>
+    <link href="https://www.aibase.com/news/30429"/>
+    <id>46234811a0edeb69c52b7933c07acfb0</id>
+    <published>2026-08-18T07:04:36.209045+00:00</published>
+    <updated>2026-08-18T07:04:36.209045+00:00</updated>
+    <summary type="text">Score: 0.764\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project</title>
-    <link href="https://openai.com/index/openai-joins-ports-pike-project"/>
-    <id>62f2fca682b47dd517fda3b422818b02</id>
-    <published>2026-08-17T05:00:00+00:00</published>
-    <updated>2026-08-17T05:00:00+00:00</updated>
-    <summary type="text">Score: 0.815\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Asana借助Codex在两周内完成了原本需5年的工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex</title>
+    <link href="https://openai.com/index/asana"/>
+    <id>86a5e503b29ac2acbc07b9de8bf9b704</id>
+    <published>2026-08-18T07:00:00+00:00</published>
+    <updated>2026-08-18T07:00:00+00:00</updated>
+    <summary type="text">Score: 0.828\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -214,38 +201,53 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>面向智能时代的新政策构想 / New policy ideas for the Intelligence Age</title>
-    <link href="https://openai.com/index/new-policy-ideas-for-the-intelligence-age"/>
-    <id>c25f755fa64f5f9c1c8175c19d307156</id>
-    <published>2026-08-17T03:15:00+00:00</published>
-    <updated>2026-08-17T03:15:00+00:00</updated>
-    <summary type="text">Score: 0.812\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things</title>
-    <link href="https://simonwillison.net/2026/Aug/16/qwen-38-27b"/>
-    <id>49f07b37781697106ea6b14a547079ea</id>
-    <published>2026-08-16T22:00:39+00:00</published>
-    <updated>2026-08-16T22:00:39+00:00</updated>
+    <title>设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next</title>
+    <link href="https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii"/>
+    <id>3d2365cc6fd6e2dc2a3d1a86bf2f7ab6</id>
+    <published>2026-08-18T07:00:00+00:00</published>
+    <updated>2026-08-18T07:00:00+00:00</updated>
     <summary type="text">Score: 0.720\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Anthropic 在 Claude 文本中掺入“水印”，是对写作的扭曲。 / Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing</title>
-    <link href="https://news.ycombinator.com/item?id=49324087"/>
-    <id>f5aeea779e56e2096dd0e951dc74be7a</id>
-    <published>2026-08-16T21:53:43+00:00</published>
-    <updated>2026-08-16T21:53:43+00:00</updated>
-    <summary type="text">Score: 0.613\nSources: 5 (NewsNow)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
+    <title>Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers</title>
+    <link href="https://huggingface.co/blog/multi-vector-encoder"/>
+    <id>8c6fb9539fa4f76aefe5f5bbea23aeed</id>
+    <published>2026-08-18T00:00:00+00:00</published>
+    <updated>2026-08-18T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.847\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit</title>
+    <link href="https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit"/>
+    <id>b2f20ade2d47968088cb44cac4e3ee69</id>
+    <published>2026-08-17T23:22:25.902000+00:00</published>
+    <updated>2026-08-17T23:22:25.902000+00:00</updated>
+    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案</title>
+    <link href="https://cursor.com/changelog/origin-code-hosting"/>
+    <id>78c65610c21119407ad360f3d1523821</id>
+    <published>2026-08-17T22:14:00.748000+00:00</published>
+    <updated>2026-08-17T22:14:00.748000+00:00</updated>
+    <summary type="text">Score: 0.770\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
 </feed>
