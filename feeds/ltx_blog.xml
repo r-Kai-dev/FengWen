@@ -4,10 +4,19 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-08-16T00:00:00+00:00</updated>
+  <updated>2026-08-19T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>Meet LTX Explore: The Fastest Way to Experience LTX</title>
+    <link href="https://ltx.io/blog/meet-ltx-explore-the-fastest-way-to-experience-ltx"/>
+    <id>11dda763b60709bd6f9e47306601ee70</id>
+    <published>2026-08-19T00:00:00+00:00</published>
+    <updated>2026-08-19T00:00:00+00:00</updated>
+    <summary type="text">LTX Explore is a self-service platform that provides instant access to LTX's video generation capabilities. One prompt, one click. No API integration, no technical setup, no knowledge required.</summary>
+    <category term="Tutorials"/>
+  </entry>
   <entry>
     <title>How Much Does AI Video Generation Actually Cost? (2026 Guide)</title>
     <link href="https://ltx.io/blog/ai-video-generation-cost"/>
@@ -430,14 +439,5 @@
     <updated>2026-07-05T00:00:00+00:00</updated>
     <summary type="text">A simple guide to generative AI. Learn what it is, see real examples, and explore key trends driving the future of AI-generated content.</summary>
     <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Negative Prompts Guide: What They Are &amp; How To Use Them</title>
-    <link href="https://ltx.io/blog/negative-prompts"/>
-    <id>4af4291b9406aedbc84a0ce78e8f49b0</id>
-    <published>2026-06-29T00:00:00+00:00</published>
-    <updated>2026-06-29T00:00:00+00:00</updated>
-    <summary type="text">Discover how negative prompts work and why they matter. See examples and learn how to use them to control AI image generation more effectively.</summary>
-    <category term="Prompting Guides"/>
   </entry>
 </feed>

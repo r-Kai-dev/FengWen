@@ -4,17 +4,26 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-08-18T00:00:00+00:00</updated>
+  <updated>2026-08-19T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Pushing the Limits of Serving DeepSeek-V4-Pro</title>
+    <link href="https://lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20"/>
+    <id>057e2cb5a16d13e1861b284422d05f1f</id>
+    <published>2026-08-19T00:00:00+00:00</published>
+    <updated>2026-08-19T00:00:00+00:00</updated>
+    <summary type="text">DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts (MoE) model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU...</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Miles v0.1: Production-level Post-training</title>
     <link href="https://lmsys.org/blog/2026-08-18-miles-v0-1"/>
     <id>7edce941a6cd6f2ed3d8d5797646c663</id>
     <published>2026-08-18T00:00:00+00:00</published>
     <updated>2026-08-18T00:00:00+00:00</updated>
-    <summary type="text">We present Miles v0.1, a full-stack production-ready system for frontier post-training, the successor to our first Miles release [1]. Building upon slime's [16] clean design, Miles optimizes every sta...</summary>
+    <summary type="text">We present Miles v0.1, a full-stack production-ready system for frontier post-training, the successor to our first Miles release [\[1\]](ref-1). Building upon slime's clean design, Miles optimizes eve...</summary>
     <category term="technical"/>
   </entry>
   <entry>

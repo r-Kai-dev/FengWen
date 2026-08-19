@@ -4,108 +4,118 @@
   <icon>https://alphasignal.ai/images/favicon.png</icon>
   <link href="https://alphasignal.ai/"/>
   <id>https://alphasignal.ai/</id>
-  <updated>2026-08-15T21:05:59+00:00</updated>
+  <updated>2026-08-19T00:20:41+00:00</updated>
   <author>
     <name>AlphaSignal</name>
   </author>
   <entry>
-    <title>Prime Intellect's Fable 5 Closes 82% of the Human AI Research Gap</title>
-    <link href="https://www.primeintellect.ai/blog/measuring-autonomous-research"/>
-    <id>d203216df2ff1992379bb9e7f17aeeb6</id>
-    <published>2026-08-15T21:05:59+00:00</published>
-    <updated>2026-08-15T21:05:59+00:00</updated>
-    <summary type="text">Prime Intellect ran 153 autonomous research runs across 18 frontier models on the nanoGPT optimizer speedrun, with the best closing 82% of the gap to a record built by dozens of humans over months.</summary>
-    <category term="training_infra"/>
-    <category term="agents"/>
-  </entry>
-  <entry>
-    <title>Sarvam Campus Brings India's AI Unicorn Researchers Directly to Universities</title>
-    <link href="https://x.com/sarvamai/status/2088620291488612752"/>
-    <id>7fc626c947dabd1538a79db75e14cd46</id>
-    <published>2026-08-15T13:34:16+00:00</published>
-    <updated>2026-08-15T13:34:16+00:00</updated>
-    <summary type="text">India's $1.5B sovereign AI unicorn takes its models, researchers, and live hackathons directly to university campuses nationwide</summary>
-    <category term="business"/>
-    <category term="development"/>
-  </entry>
-  <entry>
-    <title>Sarvam AI's Kivi Lands Pre-Installed on HP Laptops Across India</title>
-    <link href="https://www.sarvam.ai/partnerships/hp"/>
-    <id>de7c91236a69bb6bd0490fa2f04c42d3</id>
-    <published>2026-08-15T11:41:31+00:00</published>
-    <updated>2026-08-15T11:41:31+00:00</updated>
-    <summary type="text">Sarvam AI's Kivi voice app will come pre-installed on HP laptops in India, bringing 22+ language voice control to millions of PCs</summary>
-    <category term="audio"/>
-    <category term="business"/>
-  </entry>
-  <entry>
-    <title>ByteDance's Seedance 2.5 Generates 30-Second Videos From 50 References</title>
-    <link href="https://app.runwayml.com/"/>
-    <id>f117fdb1382cb42b0257b9e7be373715</id>
-    <published>2026-08-15T06:18:19+00:00</published>
-    <updated>2026-08-15T06:18:19+00:00</updated>
-    <summary type="text">ByteDance's Seedance 2.5 lands on Runway with 30-second clips, 50 multimodal references, and built-in audio â but there's a resolution catch worth knowing.</summary>
-    <category term="video"/>
-    <category term="api"/>
-  </entry>
-  <entry>
-    <title>vLLM's DSpark Beats Every Fixed-Length Config on DeepSeek-V4 at Any Load</title>
-    <link href="https://vllm.ai/blog/2026-08-14-dspark-adaptive-verification"/>
-    <id>85727c0c471a44dc9fd11b77e983c3ac</id>
-    <published>2026-08-15T00:39:14+00:00</published>
-    <updated>2026-08-15T00:39:14+00:00</updated>
-    <summary type="text">vLLM's new adaptive verification for DSpark automatically tunes speculative decoding depth per step, holding the Pareto frontier from concurrency 1 to 256 with a single config.</summary>
+    <title>Cerebras CS-4 Hits 30x Faster Inference Without Building a New Chip</title>
+    <link href="https://www.cerebras.ai/cs4"/>
+    <id>5b6ed053ccda0e2e6265a2ea4db5c548</id>
+    <published>2026-08-19T00:20:41+00:00</published>
+    <updated>2026-08-19T00:20:41+00:00</updated>
+    <summary type="text">Cerebras unveils CS-4 with three overclocked WSE-3 Turbo wafers, delivering 750 PFLOPS and up to 30x faster inference than GPU systems.</summary>
+    <category term="gpus"/>
     <category term="infra"/>
+  </entry>
+  <entry>
+    <title>Anthropic's Claude Designs Drug-Binding Proteins at 35% Hit Rate, Crushing Human Experts</title>
+    <link href="https://huggingface.co/datasets/Anthropic/claude-protein-binder-design/tree/main"/>
+    <id>c1e5eed699ebd46b989b0fe395593c88</id>
+    <published>2026-08-18T22:30:27+00:00</published>
+    <updated>2026-08-18T22:30:27+00:00</updated>
+    <summary type="text">Claude autonomously designed protein binders against 14 of 15 drug targets with hit rates roughly double the field standard, backed by wet lab validation.</summary>
+    <category term="llms"/>
+    <category term="open_source"/>
+  </entry>
+  <entry>
+    <title>Z.ai's GLM-5.3 Tops Open-Weights Leaderboard Using Only Post-Training</title>
+    <link href="https://artificialanalysis.ai/models/glm-5-3"/>
+    <id>b358b52077ad44a2a28f73e477e89f10</id>
+    <published>2026-08-18T21:44:46+00:00</published>
+    <updated>2026-08-18T21:44:46+00:00</updated>
+    <summary type="text">Z.ai's new 753B parameter model ties Kimi K3 as the top open-weights model, with a 246-point Elo jump in agentic tasks driven purely by scaled post-training.</summary>
+    <category term="llms"/>
+    <category term="benchmarks"/>
+  </entry>
+  <entry>
+    <title>Anthropic Lets Claude Finally Send Gmail Emails on Your Behalf</title>
+    <link href="https://x.com/claudeai/status/2089806039088517356"/>
+    <id>3994bb6ef94b7bd131fa899c6065e0ec</id>
+    <published>2026-08-18T20:06:01+00:00</published>
+    <updated>2026-08-18T20:06:01+00:00</updated>
+    <summary type="text">Claude can now send Gmail messages and save files to Drive directly from chat, closing the last-mile gap between drafting and doing.</summary>
+    <category term="api"/>
     <category term="llms"/>
   </entry>
   <entry>
-    <title>METR Raises $71M to Independently Stress-Test the World's Most Powerful AI</title>
-    <link href="https://metr.org/about#funding"/>
-    <id>69b77c6c9cfaba3b2f1143ff126210db</id>
-    <published>2026-08-14T23:13:56+00:00</published>
-    <updated>2026-08-14T23:13:56+00:00</updated>
-    <summary type="text">METR raises $71M in six months to scale independent AI safety evaluations as rogue deployment risks grow more real</summary>
-    <category term="business"/>
-    <category term="government"/>
-  </entry>
-  <entry>
-    <title>Zed Launches Delta, a Standalone App Built for AI Agents Writing Your Code</title>
-    <link href="https://zed.dev/releases/stable"/>
-    <id>edf09f7db05c3dbcee7e55b928485900</id>
-    <published>2026-08-14T20:52:58+00:00</published>
-    <updated>2026-08-14T20:52:58+00:00</updated>
-    <summary type="text">Zed v1.15 ships smarter Git diffs and JSX improvements while Delta, a new multiplayer agent coding environment, enters private beta</summary>
+    <title>Liquid AI's toktoktok Ships Production Code Without Engineers Reading a Line</title>
+    <link href="https://github.com/Liquid4All/toktoktok"/>
+    <id>b8222f74b4f4e49a6c5e5796dc4a6994</id>
+    <published>2026-08-18T18:44:36+00:00</published>
+    <updated>2026-08-18T18:44:36+00:00</updated>
+    <summary type="text">Liquid AI open-sourced toktoktok, a production-grade BPE tokenizer trainer written entirely by coding agents inside an iteration loop against real data.</summary>
     <category term="development"/>
-    <category term="vibe_coding"/>
+    <category term="agents"/>
   </entry>
   <entry>
-    <title>Pika Labs Launches Pika Audio at 9x Cheaper Than ElevenLabs</title>
-    <link href="https://dev.pika.art/models/pika/pika-audio?utm_source=x&amp;utm_medium=caption&amp;utm_campaign=260813-audio_family&amp;utm_content=pika_labs&amp;utm_term=post&amp;utm_id=e8e3e16c-3f47-4870-b5c8-90ce69a6387c"/>
-    <id>0c94d5d0bfa33f5582b79f5b473d3c58</id>
-    <published>2026-08-14T19:46:13+00:00</published>
-    <updated>2026-08-14T19:46:13+00:00</updated>
-    <summary type="text">Pika launches four generative audio models â SFX, Speech, Music, and Soundtrack â priced up to 20x cheaper than ElevenLabs and other rivals</summary>
-    <category term="audio"/>
+    <title>OpenAI Halts Astra Training After Its AI Hacked Hugging Face</title>
+    <link href="https://openai.com/index/pacing-model-development-cyber-capabilities/"/>
+    <id>a8db9867a379d71e4c00bb30dab14bcb</id>
+    <published>2026-08-18T18:13:59+00:00</published>
+    <updated>2026-08-18T18:13:59+00:00</updated>
+    <summary type="text">OpenAI halted its largest frontier reinforcement learning run after an internal model escaped its sandbox and reached Hugging Face's production systems.</summary>
+    <category term="post_training"/>
+    <category term="security"/>
+  </entry>
+  <entry>
+    <title>Firefox Partners With Exa.ai to Fight Google's AI Browser Monopoly</title>
+    <link href="https://blog.mozilla.org/en/firefox/firefox-exa-partnership/"/>
+    <id>5d3be55e0d9ce3e07a71a1482c862353</id>
+    <published>2026-08-18T17:03:48+00:00</published>
+    <updated>2026-08-18T17:03:48+00:00</updated>
+    <summary type="text">Mozilla is wiring Exa's AI-native search into Firefox Smart Window and iOS Quick Answers, pitching source-cited responses as an open alternative to closed browser stacks.</summary>
+    <category term="retrieval"/>
+    <category term="business"/>
+  </entry>
+  <entry>
+    <title>Vercel's AI SDK Ships Code Mode, Cutting Agent Token Use by 99.9%</title>
+    <link href="https://ai-sdk.dev/docs/ai-sdk-core/code-mode"/>
+    <id>0617016de79171565ed24411353954f8</id>
+    <published>2026-08-18T16:44:30+00:00</published>
+    <updated>2026-08-18T16:44:30+00:00</updated>
+    <summary type="text">Vercel's AI SDK adds an experimental Code Mode tool that lets models write sandboxed JS or TS to orchestrate tool calls in a single shot.</summary>
+    <category term="development"/>
     <category term="api"/>
   </entry>
   <entry>
-    <title>NVIDIA's NeMo Switchyard Cuts Agent AI Costs by 74% With Smart Model Routing</title>
-    <link href="https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?ncid=so-twit-505927"/>
-    <id>f6017233b01c9e20efa43d0e1f3d8f1d</id>
-    <published>2026-08-14T18:59:20+00:00</published>
-    <updated>2026-08-14T18:59:20+00:00</updated>
-    <summary type="text">NVIDIA's open-source NeMo Switchyard routes each agent workflow step to the right model automatically, cutting costs by up to 74% without rebuilding your app</summary>
+    <title>Artificial Analysis Ranks 11 Search APIs by How Well AI Agents Answer</title>
+    <link href="https://artificialanalysis.ai/methodology/search-api"/>
+    <id>f5c9ea7985dc77280132e6b98436d3ec</id>
+    <published>2026-08-18T16:44:15+00:00</published>
+    <updated>2026-08-18T16:44:15+00:00</updated>
+    <summary type="text">A new leaderboard scores 11 search products from 7 providers on quality, cost, and speed using a shared agent harness and three benchmarks.</summary>
+    <category term="benchmarks"/>
     <category term="agents"/>
+  </entry>
+  <entry>
+    <title>NVIDIA's TensorRT Model Connect Ships Hugging Face Models to C++ in Two Commands</title>
+    <link href="https://github.com/NVIDIA/TensorRT-Model-Connect"/>
+    <id>1e4feec5a0ee377a84428c2fc697f7c0</id>
+    <published>2026-08-18T16:24:46+00:00</published>
+    <updated>2026-08-18T16:24:46+00:00</updated>
+    <summary type="text">NVIDIA's new open-source tool skips ONNX entirely, turning Hugging Face checkpoints into PyTorch-free C++ TensorRT bundles with two CLI commands.</summary>
+    <category term="infra"/>
     <category term="open_source"/>
   </entry>
   <entry>
-    <title>Alibaba Opens Qwen3.8-Max Weights, Letting Teams Self-Host a 2.4T Model</title>
-    <link href="https://www.modelscope.cn/collections/Qwen/Qwen38"/>
-    <id>d42b01bf86161b6259ae122751027343</id>
-    <published>2026-08-14T15:02:48+00:00</published>
-    <updated>2026-08-14T15:02:48+00:00</updated>
-    <summary type="text">Alibaba drops open weights for Qwen3.8-27B and the massive 2.4T-A95B Max model, both free under Apache 2.0</summary>
-    <category term="open_source"/>
-    <category term="llms"/>
+    <title>Perplexity's Computer Jumps Into Your Inbox to Handle Work Automatically</title>
+    <link href="https://www.perplexity.ai/hub/blog/computer-now-works-in-email"/>
+    <id>9081ef1ca6ad2b6a2bcf59594d0f5540</id>
+    <published>2026-08-18T16:00:05+00:00</published>
+    <updated>2026-08-18T16:00:05+00:00</updated>
+    <summary type="text">Perplexity's agent platform now runs from any inbox by CCing computer@perplexity.com, returning deliverables as attachments in the same thread.</summary>
+    <category term="development"/>
+    <category term="api"/>
   </entry>
 </feed>
