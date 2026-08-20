@@ -4,10 +4,21 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-08-19T00:00:00+00:00</updated>
+  <updated>2026-08-20T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Mooncake for Miles: From Fragmented Rollout Data to Efficient Bulk I/O</title>
+    <link href="https://lmsys.org/blog/2026-08-20-miles-mooncake-rollout-data-transfer"/>
+    <id>1fb3299e719b5b8fcea28eb26e1f6da0</id>
+    <published>2026-08-20T00:00:00+00:00</published>
+    <updated>2026-08-20T00:00:00+00:00</updated>
+    <summary type="text">Reinforcement learning for large language models combines two very different workloads: rollout generation and model training.
+
+During rollout, inference workers run the current policy on a set of pro...</summary>
+    <category term="technical"/>
+  </entry>
   <entry>
     <title>Pushing the Limits of Serving DeepSeek-V4-Pro</title>
     <link href="https://lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20"/>
@@ -23,7 +34,7 @@
     <id>7edce941a6cd6f2ed3d8d5797646c663</id>
     <published>2026-08-18T00:00:00+00:00</published>
     <updated>2026-08-18T00:00:00+00:00</updated>
-    <summary type="text">We present Miles v0.1, a full-stack production-ready system for frontier post-training, the successor to our first Miles release [\[1\]](ref-1). Building upon slime's clean design, Miles optimizes eve...</summary>
+    <summary type="text">We present Miles v0.1, a full-stack production-ready system for frontier post-training, the successor to our first Miles release. Building upon slime's clean design, Miles optimizes every stage in the...</summary>
     <category term="technical"/>
   </entry>
   <entry>
@@ -204,7 +215,7 @@ and its hybrid architecture departs from convention in al...</summary>
     <updated>2026-07-06T00:00:00+00:00</updated>
     <summary type="text">Speculative decoding trades extra compute for fewer decode steps, and the trade
 sours as load grows: at batch size B with K speculative tokens the target
-verifies B  K tokens every step, and past a po...</summary>
+verifies B K tokens every step, and past a poi...</summary>
     <category term="blog"/>
   </entry>
   <entry>
@@ -463,9 +474,9 @@ within the community. We are deeply grateful for the extensive feedback and grow
     <id>6bef4ed228e17ce3fa325db33798d61a</id>
     <published>2026-01-12T00:00:00+00:00</published>
     <updated>2026-01-12T00:00:00+00:00</updated>
-    <summary type="text">We introduce Encoder-Prefill-Decode (EPD) Disaggregation in SGLang, a novel architecture that separates vision encoding from language processing in Vision-Language Models (VLMs).  This can enable:
+    <summary type="text">We introduce Encoder-Prefill-Decode (EPD) Disaggregation in SGLang, a novel architecture that separates vision encoding from language processing in Vision-Language Models (VLMs). This can enable:
 
-- ...</summary>
+- I...</summary>
     <category term="technical"/>
   </entry>
   <entry>
@@ -860,8 +871,8 @@ The ML Engineers spend months benchmarking models, experimenting with serving te
     <updated>2024-12-04T00:00:00+00:00</updated>
     <summary type="text">Weâre excited to release SGLang v0.4, featuring significant performance improvements and new features:
 
-- Zero-overhead batch scheduler: 1.1x increase in throughput.  
-- Cache-aware load balancer: up ...</summary>
+- Zero-overhead batch scheduler: 1.1x increase in throughput. 
+- Cache-aware load balancer: up t...</summary>
     <category term="technical"/>
   </entry>
   <entry>
@@ -1019,8 +1030,8 @@ In this blog post, we introduce an optimization that sign...</summary>
     <id>3932712b1e34cf289d47b5649816d5cd</id>
     <published>2023-11-21T00:00:00+00:00</published>
     <updated>2023-11-21T00:00:00+00:00</updated>
-    <summary type="text">TL;DR: We introduce  lookahead decoding, a new, exact, and parallel decoding algorithm to accelerate LLM inference. 
-Lookahead decoding breaks the sequential dependency in autoregressive decoding by ...</summary>
+    <summary type="text">TL;DR: We introduce lookahead decoding, a new, exact, and parallel decoding algorithm to accelerate LLM inference. 
+Lookahead decoding breaks the sequential dependency in autoregressive decoding by c...</summary>
     <category term="technical"/>
   </entry>
   <entry>

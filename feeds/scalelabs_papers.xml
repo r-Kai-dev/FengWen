@@ -4,10 +4,19 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/papers"/>
   <id>https://labs.scale.com/papers</id>
-  <updated>2026-08-06T16:50:54Z</updated>
+  <updated>2026-08-20T16:28:47Z</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>CliniCARE-Bench: Clinical Calibrated Audit of Medical Reasoning in EHR</title>
+    <link href="https://labs.scale.com/papers/clinicare-bench"/>
+    <id>21ee24c17d287554a95ac88870a15b65</id>
+    <published>2026-08-20T16:28:47Z</published>
+    <updated>2026-08-20T16:28:47Z</updated>
+    <summary type="text">By Veronica Chatrath, Bryan Zhu, George Pu, Jingxuan Fan, Apaar Shanker, Varun Ursekar, Anahita Sharma, Jason Qin, Keqi Han, Soham Dinesh Tiwari, Soham Dan, Vijay Kalmath, Yuan (Christy) Li, Daniel Yue Zhang, Chenguang Wang, Zainab Doctor, Zhijun Yin, Nigam H. Shah, Yuan Xue</summary>
+    <category term="Evaluation and Alignment"/>
+  </entry>
   <entry>
     <title>HarnessOpt-Bench: Evaluating LLMs at Harness Optimization</title>
     <link href="https://labs.scale.com/papers/harnessopt-bench"/>
