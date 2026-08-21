@@ -4,10 +4,30 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-08-20T00:00:00+00:00</updated>
+  <updated>2026-08-21T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Chasing the Batch-1 Floor: Ling-3.0-flash Speculative Decode on Blackwell</title>
+    <link href="https://lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell"/>
+    <id>a20f2ac476929d62e1cb527767e61669</id>
+    <published>2026-08-21T00:00:00+00:00</published>
+    <updated>2026-08-21T00:00:00+00:00</updated>
+    <summary type="text">Batch-1 decode keeps getting more important. Xiaomi MiMo, for example, announced MiMo-V2.5-Pro UltraSpeed in June, claiming 1,000 tok/s decode on a one-trillion-parameter MoE model.
+
+Batch 1 gives an ...</summary>
+    <category term="blog"/>
+  </entry>
+  <entry>
+    <title>Fast Engine Recovery: Sub-Second Engine Restart for SGLang via Weight Cache Daemon</title>
+    <link href="https://lmsys.org/blog/2026-08-21-sglang-fast-recovery"/>
+    <id>17640e2425740b523991645e2e00a400</id>
+    <published>2026-08-21T00:00:00+00:00</published>
+    <updated>2026-08-21T00:00:00+00:00</updated>
+    <summary type="text">Nowadays, State-of-the-Art (SOTA) models are getting much bigger and reloading the model service after a crash is very expensive. Therefore, we are introducing the Weight Cache Daemon, a persistent GP...</summary>
+    <category term="technical"/>
+  </entry>
   <entry>
     <title>Mooncake for Miles: From Fragmented Rollout Data to Efficient Bulk I/O</title>
     <link href="https://lmsys.org/blog/2026-08-20-miles-mooncake-rollout-data-transfer"/>

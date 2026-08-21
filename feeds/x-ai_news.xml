@@ -4,10 +4,25 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-08-19T00:00:00+00:00</updated>
+  <updated>2026-08-21T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Grok 4.6 on Vertex AI</title>
+    <link href="https://x.ai/news/grok-4-6-vertex-ai"/>
+    <id>53ab7ac4cb3a0fc2088f25753d161553</id>
+    <published>2026-08-21T00:00:00+00:00</published>
+    <updated>2026-08-21T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Grok Bot is now included with more plans</title>
+    <link href="https://x.ai/news/grok-bot-more-plans"/>
+    <id>b7cb06b2423a7d765a35fe59a36b313d</id>
+    <published>2026-08-21T00:00:00+00:00</published>
+    <updated>2026-08-21T00:00:00+00:00</updated>
+    <summary type="text">Grok Bot is now available for SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans.</summary>
+  </entry>
   <entry>
     <title>Grok 4.6 on Amazon Bedrock</title>
     <link href="https://x.ai/news/grok-4-6-amazon-bedrock"/>
@@ -21,7 +36,6 @@
     <id>b484f392a5a53b81783f6ec190fd052c</id>
     <published>2026-08-19T00:00:00+00:00</published>
     <updated>2026-08-19T00:00:00+00:00</updated>
-    <summary type="text">Grok Build is now available on every plan, on the web and on mobile.</summary>
   </entry>
   <entry>
     <title>Grok 4.6 in GitHub Copilot</title>
@@ -36,6 +50,7 @@
     <id>39ab78953a7de9dbc5f7289059fa6c16</id>
     <published>2026-08-12T00:00:00+00:00</published>
     <updated>2026-08-12T00:00:00+00:00</updated>
+    <summary type="text">Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.</summary>
   </entry>
   <entry>
     <title>Introducing Grok Bot</title>
@@ -43,6 +58,7 @@
     <id>5b75d8d227e10faa611a5f3c79b9570d</id>
     <published>2026-08-11T00:00:00+00:00</published>
     <updated>2026-08-11T00:00:00+00:00</updated>
+    <summary type="text">Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.</summary>
   </entry>
   <entry>
     <title>Imagine Image 2.0</title>
