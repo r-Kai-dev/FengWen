@@ -4,245 +4,85 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-21T17:58:29.461000+00:00</updated>
+  <updated>2026-08-22T18:14:16+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders</title>
-    <link href="https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"/>
-    <id>3f389275d5ea975843e57359a946578d</id>
-    <published>2026-08-21T17:58:29.461000+00:00</published>
-    <updated>2026-08-21T17:58:29.461000+00:00</updated>
-    <summary type="text">Score: 0.753\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is</title>
+    <link href="https://news.ycombinator.com/item?id=49402232"/>
+    <id>c0f7a00ee0159940b49f8d8cf4ec591d</id>
+    <published>2026-08-22T18:14:16+00:00</published>
+    <updated>2026-08-22T18:14:16+00:00</updated>
+    <summary type="text">Score: 0.546\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54% / Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team</title>
-    <link href="https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell"/>
-    <id>19222361ec4bf0dc29a9f88d353ec20b</id>
-    <published>2026-08-21T17:56:25.415000+00:00</published>
-    <updated>2026-08-21T17:56:25.415000+00:00</updated>
-    <summary type="text">Score: 0.734\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>知情人士称，Anthropic IPO文件将把AI反对声浪列为风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say</title>
+    <link href="https://news.ycombinator.com/item?id=49401229"/>
+    <id>7649b0eec2cc011856956e89752a5793</id>
+    <published>2026-08-22T16:23:09+00:00</published>
+    <updated>2026-08-22T16:23:09+00:00</updated>
+    <summary type="text">Score: 0.537\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项</title>
+    <link href="https://www.ithome.com/0/993/105.htm"/>
+    <id>2de107e824f381a21530ec15ab548422</id>
+    <published>2026-08-22T14:13:48+00:00</published>
+    <updated>2026-08-22T14:13:48+00:00</updated>
+    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team</title>
-    <link href="https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery"/>
-    <id>9be8e13f4e5747c6f157f4d4ead2ee2c</id>
-    <published>2026-08-21T17:56:25.415000+00:00</published>
-    <updated>2026-08-21T17:56:25.415000+00:00</updated>
-    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory</title>
-    <link href="https://news.ycombinator.com/item?id=49390463"/>
-    <id>2470dd13503e856550a95f36a6809ce3</id>
-    <published>2026-08-21T16:27:52+00:00</published>
-    <updated>2026-08-21T16:27:52+00:00</updated>
-    <summary type="text">Score: 0.590\nSources: 4 (NewsNow)\nImportance: 多源热议</summary>
+    <title>自掘技能坟墓：好莱坞创意人员正训练AI取代自己的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs</title>
+    <link href="https://news.ycombinator.com/item?id=49399941"/>
+    <id>d4202ef6126d17d5ad5f9e3e80e55e55</id>
+    <published>2026-08-22T14:13:05+00:00</published>
+    <updated>2026-08-22T14:13:05+00:00</updated>
+    <summary type="text">Score: 0.557\nSources: 3 (NewsNow)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>Slack 上的全新 GitHub Copilot 体验。 / The new GitHub Copilot experience in Slack</title>
-    <link href="https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack"/>
-    <id>90ae4dcf71dd8c9b03eeeafeb02d4e5b</id>
-    <published>2026-08-21T16:07:15+00:00</published>
-    <updated>2026-08-21T16:07:15+00:00</updated>
-    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <title>MCP发布新路线图，初始定制协议被指不智</title>
+    <link href="https://news.ycombinator.com/item?id=49399591"/>
+    <id>1e0d563648f9482926ffd1c07f4e13bd</id>
+    <published>2026-08-22T14:10:19.326000+00:00</published>
+    <updated>2026-08-22T14:10:19.326000+00:00</updated>
+    <summary type="text">Score: 0.540\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>在 Microsoft Teams 中与 GitHub Copilot 共享智能体工作 / Shared agentic work with GitHub Copilot in Microsoft Teams</title>
-    <link href="https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams"/>
-    <id>e81b1298c50844cfa174012f760218bf</id>
-    <published>2026-08-21T16:03:36+00:00</published>
-    <updated>2026-08-21T16:03:36+00:00</updated>
-    <summary type="text">Score: 0.840\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%</title>
-    <link href="https://canews24.online/?p=71"/>
-    <id>5757cc0c54a5f848d6d3e2b9e21bee63</id>
-    <published>2026-08-21T15:25:42+00:00</published>
-    <updated>2026-08-21T15:25:42+00:00</updated>
-    <summary type="text">Score: 0.588\nSources: 4 (Buzzing)\nImportance: 多源热议</summary>
+    <title>MCP更新路线图 聚焦未来规范发布重点</title>
+    <link href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap"/>
+    <id>33b99a96a40559430ca8910c7ccf2482</id>
+    <published>2026-08-22T13:31:34+00:00</published>
+    <updated>2026-08-22T13:31:34+00:00</updated>
+    <summary type="text">Score: 0.562\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>更好的被屏蔽用户管理工具 / Better tools for managing blocked users</title>
-    <link href="https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users"/>
-    <id>a96889aa671c9576358c437b22af0ad7</id>
-    <published>2026-08-21T14:43:36+00:00</published>
-    <updated>2026-08-21T14:43:36+00:00</updated>
-    <summary type="text">Score: 0.829\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期 / The AI-Native SDLC playbook</title>
-    <link href="https://claude.com/blog/the-ai-native-sdlc-playbook"/>
-    <id>2087ebe2fc02870e0ef684d0b2f0cf01</id>
-    <published>2026-08-21T14:28:27.351000+00:00</published>
-    <updated>2026-08-21T14:28:27.351000+00:00</updated>
-    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型 / 🧮 Introducing MathForm， an open-source framework， dataset， and model for mathematical autoformaliza…</title>
-    <link href="https://x.com/OpenBMB/status/2090786300194590816"/>
-    <id>c7641e0318b6af8c7e0e6ca7505f2ce0</id>
-    <published>2026-08-21T13:01:13+00:00</published>
-    <updated>2026-08-21T13:01:13+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>从 Atari 到 EVE Online：基于 15 年游戏 AI 研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games</title>
-    <link href="https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games"/>
-    <id>aa07614a7527a0717a12c7829dedea2d</id>
-    <published>2026-08-21T11:59:48+00:00</published>
-    <updated>2026-08-21T11:59:48+00:00</updated>
-    <summary type="text">Score: 0.823\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>字节Seed再调整:预训练、强化学习与Agent研发全面重构</title>
-    <link href="https://www.aibase.com/news/30537"/>
-    <id>afa9daa026585b6faa4f41fdc59e1b8f</id>
-    <published>2026-08-21T10:48:10.708106+00:00</published>
-    <updated>2026-08-21T10:48:10.708106+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型</title>
-    <link href="https://www.aibase.com/news/30534"/>
-    <id>4c75bcfe35f4250cf811f1dbb3954c38</id>
-    <published>2026-08-21T09:52:44.950634+00:00</published>
-    <updated>2026-08-21T09:52:44.950634+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>长眼！DeepSeek Flash视觉模型突发更新，支持多模态</title>
-    <link href="https://www.aibase.com/news/30536"/>
-    <id>d8e1b305650c9067c94260289055cc99</id>
-    <published>2026-08-21T09:52:44.950634+00:00</published>
-    <updated>2026-08-21T09:52:44.950634+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆</title>
-    <link href="https://www.aibase.com/news/30535"/>
-    <id>91447c648544aa71f863879d52e0a828</id>
-    <published>2026-08-21T09:52:44.950634+00:00</published>
-    <updated>2026-08-21T09:52:44.950634+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>DeepSeek-V4-Flash-Vision-Exp 发布</title>
-    <link href="https://api-docs.deepseek.com/zh-cn/updates"/>
-    <id>7b5453b2cbb6f9707207f20191df5dba</id>
-    <published>2026-08-21T09:26:04.727000+00:00</published>
-    <updated>2026-08-21T09:26:04.727000+00:00</updated>
-    <summary type="text">Score: 0.776\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
+    <title>GPT 5.6 Sol 价格下调 20% / GPT 5.6 Sol 20% price reduction</title>
+    <link href="https://news.ycombinator.com/item?id=49396590"/>
+    <id>43ed548cafe9db6ceb7bde4c8b03ccdc</id>
+    <published>2026-08-22T04:33:06+00:00</published>
+    <updated>2026-08-22T04:33:06+00:00</updated>
+    <summary type="text">Score: 0.513\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究</title>
-    <link href="https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks"/>
-    <id>565ab9061965f7b9efe94398865ad2ab</id>
-    <published>2026-08-21T09:25:43.682000+00:00</published>
-    <updated>2026-08-21T09:25:43.682000+00:00</updated>
-    <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI</title>
-    <link href="https://www.aibase.com/news/30533"/>
-    <id>506b7091a601cfa41a308bd6ee22325d</id>
-    <published>2026-08-21T08:58:36.547886+00:00</published>
-    <updated>2026-08-21T08:58:36.547886+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型&quot;刷分&quot;现象 / Measuring benchmark optimization in speech recognition</title>
-    <link href="https://huggingface.co/blog/asr-benchmark-optimization"/>
-    <id>aac1adb3e7277120d5a06e575fba37d3</id>
-    <published>2026-08-21T00:00:00+00:00</published>
-    <updated>2026-08-21T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>已保存的视图可固定到仓库 Issues 侧边栏，现已全面可用，另有更多更新。 / Pinning saved views to the repository issues sidebar is generally available and more</title>
-    <link href="https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar"/>
-    <id>3371ceacd1875bbb201b84446b6ae544</id>
-    <published>2026-08-20T23:29:34+00:00</published>
-    <updated>2026-08-20T23:29:34+00:00</updated>
-    <summary type="text">Score: 0.796\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <category term="watch"/>
   </entry>
 </feed>
