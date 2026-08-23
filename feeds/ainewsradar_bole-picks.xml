@@ -4,83 +4,149 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-22T18:14:16+00:00</updated>
+  <updated>2026-08-23T18:27:33+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is</title>
-    <link href="https://news.ycombinator.com/item?id=49402232"/>
-    <id>c0f7a00ee0159940b49f8d8cf4ec591d</id>
-    <published>2026-08-22T18:14:16+00:00</published>
-    <updated>2026-08-22T18:14:16+00:00</updated>
-    <summary type="text">Score: 0.546\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <title>Etched Sohu 对决 Nvidia：Transformer ASIC 对比 GPU（2026）– Spheron Blog / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog</title>
+    <link href="https://news.ycombinator.com/item?id=49411178"/>
+    <id>41cbabce193992d0492672729ec7db99</id>
+    <published>2026-08-23T18:27:33+00:00</published>
+    <updated>2026-08-23T18:27:33+00:00</updated>
+    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>知情人士称，Anthropic IPO文件将把AI反对声浪列为风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say</title>
-    <link href="https://news.ycombinator.com/item?id=49401229"/>
-    <id>7649b0eec2cc011856956e89752a5793</id>
-    <published>2026-08-22T16:23:09+00:00</published>
-    <updated>2026-08-22T16:23:09+00:00</updated>
-    <summary type="text">Score: 0.537\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项</title>
-    <link href="https://www.ithome.com/0/993/105.htm"/>
-    <id>2de107e824f381a21530ec15ab548422</id>
-    <published>2026-08-22T14:13:48+00:00</published>
-    <updated>2026-08-22T14:13:48+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>自掘技能坟墓：好莱坞创意人员正训练AI取代自己的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs</title>
-    <link href="https://news.ycombinator.com/item?id=49399941"/>
-    <id>d4202ef6126d17d5ad5f9e3e80e55e55</id>
-    <published>2026-08-22T14:13:05+00:00</published>
-    <updated>2026-08-22T14:13:05+00:00</updated>
-    <summary type="text">Score: 0.557\nSources: 3 (NewsNow)\nImportance: 多源热议</summary>
+    <title>Anthropic 最强 AI 模型难以吸引用户，而更廉价的工具却日渐兴起 / Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
+    <link href="https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t"/>
+    <id>d13746fa6eb311af3955e1617e1e7384</id>
+    <published>2026-08-23T18:16:37+00:00</published>
+    <updated>2026-08-23T18:16:37+00:00</updated>
+    <summary type="text">Score: 0.635\nSources: 3 (OPML RSS)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>MCP发布新路线图，初始定制协议被指不智</title>
-    <link href="https://news.ycombinator.com/item?id=49399591"/>
-    <id>1e0d563648f9482926ffd1c07f4e13bd</id>
-    <published>2026-08-22T14:10:19.326000+00:00</published>
-    <updated>2026-08-22T14:10:19.326000+00:00</updated>
+    <title>用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats</title>
+    <link href="https://news.ycombinator.com/item?id=49410949"/>
+    <id>7893e355cc2041fd6bab453020c60a19</id>
+    <published>2026-08-23T18:01:30+00:00</published>
+    <updated>2026-08-23T18:01:30+00:00</updated>
+    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>我把1983年的Unix talk变成了我的AI界面 / I turned Unix talk from 1983 into the interface for my AI</title>
+    <link href="https://news.ycombinator.com/item?id=49410936"/>
+    <id>3c6d3e66bf00f89d6c32d06b1a258afb</id>
+    <published>2026-08-23T18:00:20+00:00</published>
+    <updated>2026-08-23T18:00:20+00:00</updated>
+    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>我的 agent.md 如何提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality</title>
+    <link href="https://news.ycombinator.com/item?id=49410932"/>
+    <id>4ba0034072de2bc03b0e34e2949e06b5</id>
+    <published>2026-08-23T17:59:52+00:00</published>
+    <updated>2026-08-23T17:59:52+00:00</updated>
+    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood</title>
+    <link href="https://news.ycombinator.com/item?id=49410628"/>
+    <id>98abc0526429ce719b85ed4217681c09</id>
+    <published>2026-08-23T17:25:03+00:00</published>
+    <updated>2026-08-23T17:25:03+00:00</updated>
     <summary type="text">Score: 0.540\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>MCP更新路线图 聚焦未来规范发布重点</title>
-    <link href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap"/>
-    <id>33b99a96a40559430ca8910c7ccf2482</id>
-    <published>2026-08-22T13:31:34+00:00</published>
-    <updated>2026-08-22T13:31:34+00:00</updated>
-    <summary type="text">Score: 0.562\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
+    <title>Erik Brynjolfsson表示，AI不太可能引发“就业末日”。 / Erik Brynjolfsson says an AI &quot;job apocalypse&quot; is unlikely</title>
+    <link href="https://news.ycombinator.com/item?id=49410480"/>
+    <id>eb913cf205e4642c06e3e7946ce716e1</id>
+    <published>2026-08-23T17:07:04+00:00</published>
+    <updated>2026-08-23T17:07:04+00:00</updated>
+    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>GPT 5.6 Sol 价格下调 20% / GPT 5.6 Sol 20% price reduction</title>
-    <link href="https://news.ycombinator.com/item?id=49396590"/>
-    <id>43ed548cafe9db6ceb7bde4c8b03ccdc</id>
-    <published>2026-08-22T04:33:06+00:00</published>
-    <updated>2026-08-22T04:33:06+00:00</updated>
-    <summary type="text">Score: 0.513\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <title>GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost</title>
+    <link href="https://news.ycombinator.com/item?id=49410097"/>
+    <id>9c5ddf7bc9aff78d5ab65667ba751a08</id>
+    <published>2026-08-23T16:24:21+00:00</published>
+    <updated>2026-08-23T16:24:21+00:00</updated>
+    <summary type="text">Score: 0.538\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day</title>
+    <link href="https://news.ycombinator.com/item?id=49409073"/>
+    <id>bc9fdc69dd388a3d8c6d010bc781702c</id>
+    <published>2026-08-23T14:23:09+00:00</published>
+    <updated>2026-08-23T14:23:09+00:00</updated>
+    <summary type="text">Score: 0.535\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备</title>
+    <link href="https://www.ithome.com/0/993/305.htm"/>
+    <id>a3b13bc13fe5236c09098c8e931e4c21</id>
+    <published>2026-08-23T14:13:31+00:00</published>
+    <updated>2026-08-23T14:13:31+00:00</updated>
+    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮</title>
+    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34"/>
+    <id>c67ec9d70bc407d49a3ea1210786708b</id>
+    <published>2026-08-23T04:03:52+00:00</published>
+    <updated>2026-08-23T04:03:52+00:00</updated>
+    <summary type="text">Score: 0.729\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图</title>
+    <link href="https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20"/>
+    <id>3fd453b60afbd6834b54cf9565262a41</id>
+    <published>2026-08-23T00:53:34.184000+00:00</published>
+    <updated>2026-08-23T00:53:34.184000+00:00</updated>
+    <summary type="text">Score: 0.726\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>NanoGPT 速通前沿</title>
+    <link href="https://www.primeintellect.ai/research/nanogpt-speedrun"/>
+    <id>de3dd6acaf1cba8c555abf0dde8f8cfc</id>
+    <published>2026-08-22T22:14:27+00:00</published>
+    <updated>2026-08-22T22:14:27+00:00</updated>
+    <summary type="text">Score: 0.521\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>

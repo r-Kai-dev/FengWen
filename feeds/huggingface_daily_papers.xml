@@ -4,14 +4,24 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/papers"/>
   <id>https://huggingface.co/papers</id>
-  <updated>2026-08-14T20:00:00.000Z</updated>
+  <updated>2026-08-16T20:00:00.000Z</updated>
+  <entry>
+    <title>FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution</title>
+    <link href="https://arxiv.org/abs/2608.16157"/>
+    <id>ce322cd925b1d960689b98de49a27747</id>
+    <published>2026-08-16T20:00:00.000Z</published>
+    <updated>2026-08-16T20:00:00.000Z</updated>
+    <summary type="text">Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal... \u00b7 Upvotes: 80 \u00b7 GitHub Stars: 2695 \u00b7 Authors: Shuo Yang, Xiaoze Fan, Melissa Pan</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
   <entry>
     <title>StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling</title>
     <link href="https://arxiv.org/abs/2608.15089"/>
     <id>519faa86d750a357aaad285fd5e41dec</id>
     <published>2026-08-14T20:00:00.000Z</published>
     <updated>2026-08-14T20:00:00.000Z</updated>
-    <summary type="text">Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro... \u00b7 Upvotes: 435 \u00b7 GitHub Stars: 315 \u00b7 Authors: Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang</summary>
+    <summary type="text">Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro... \u00b7 Upvotes: 436 \u00b7 GitHub Stars: 368 \u00b7 Authors: Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +31,7 @@
     <id>ff31056e683b049c349bea47fee72656</id>
     <published>2026-08-09T20:00:00.000Z</published>
     <updated>2026-08-09T20:00:00.000Z</updated>
-    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 708 \u00b7 GitHub Stars: 4500 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
+    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 710 \u00b7 GitHub Stars: 4879 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +51,7 @@
     <id>b3bf71e004d5f291fada95cb9e8d41d5</id>
     <published>2026-08-06T20:00:00.000Z</published>
     <updated>2026-08-06T20:00:00.000Z</updated>
-    <summary type="text">No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and... \u00b7 Upvotes: 109 \u00b7 GitHub Stars: 2482 \u00b7 Authors: Tao Feng, Fangxu Yu, Haozhen Zhang</summary>
+    <summary type="text">No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and... \u00b7 Upvotes: 109 \u00b7 GitHub Stars: 2499 \u00b7 Authors: Tao Feng, Fangxu Yu, Haozhen Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +61,7 @@
     <id>25830a5d70fafbe9ac6d0ff7039c8afe</id>
     <published>2026-08-03T20:00:00.000Z</published>
     <updated>2026-08-03T20:00:00.000Z</updated>
-    <summary type="text">Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a ... \u00b7 Upvotes: 101 \u00b7 GitHub Stars: 1628 \u00b7 Authors: Yicheng Xiao, Wenxun Dai, Xinran Qin</summary>
+    <summary type="text">Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a ... \u00b7 Upvotes: 101 \u00b7 GitHub Stars: 1640 \u00b7 Authors: Yicheng Xiao, Wenxun Dai, Xinran Qin</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +71,7 @@
     <id>10350ddf167299ffc31e6f812ba98e91</id>
     <published>2026-08-03T20:00:00.000Z</published>
     <updated>2026-08-03T20:00:00.000Z</updated>
-    <summary type="text">Human evaluation of AI systems and digital products is costly, slow, and difficult to scale. Offline evaluations are more scalable but often abstract away human diversity and interactive behavior. We ... \u00b7 Upvotes: 48 \u00b7 GitHub Stars: 1464 \u00b7 Authors: Xiaomin Li, Yuexing Hao, Jianheng Hou</summary>
+    <summary type="text">Human evaluation of AI systems and digital products is costly, slow, and difficult to scale. Offline evaluations are more scalable but often abstract away human diversity and interactive behavior. We ... \u00b7 Upvotes: 48 \u00b7 GitHub Stars: 1501 \u00b7 Authors: Xiaomin Li, Yuexing Hao, Jianheng Hou</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +91,7 @@
     <id>0f626a903e5edc962497e0bf9c3f90b2</id>
     <published>2026-07-29T20:00:00.000Z</published>
     <updated>2026-07-29T20:00:00.000Z</updated>
-    <summary type="text">GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execu... \u00b7 Upvotes: 307 \u00b7 Authors: Hanzhang Zhou, Panrong Tong, Xu Zhang</summary>
+    <summary type="text">GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execu... \u00b7 Upvotes: 308 \u00b7 Authors: Hanzhang Zhou, Panrong Tong, Xu Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,17 +101,7 @@
     <id>fb8363ee0bc1d821564c7b8a6d243b65</id>
     <published>2026-07-26T20:00:00.000Z</published>
     <updated>2026-07-26T20:00:00.000Z</updated>
-    <summary type="text">We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ... \u00b7 Upvotes: 497 \u00b7 GitHub Stars: 8576 \u00b7 Authors: Kimi Team, Tongtong Bai, Yifan Bai</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model</title>
-    <link href="https://arxiv.org/abs/2607.24904"/>
-    <id>27ed640dcfc82755249787781d5fd531</id>
-    <published>2026-07-26T20:00:00.000Z</published>
-    <updated>2026-07-26T20:00:00.000Z</updated>
-    <summary type="text">Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently.... \u00b7 Upvotes: 37 \u00b7 GitHub Stars: 1484 \u00b7 Authors: Senqiao Yang, Kaichen Zhang, Zhaoyang Jia</summary>
+    <summary type="text">We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ... \u00b7 Upvotes: 498 \u00b7 GitHub Stars: 8586 \u00b7 Authors: Kimi Team, Tongtong Bai, Yifan Bai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
