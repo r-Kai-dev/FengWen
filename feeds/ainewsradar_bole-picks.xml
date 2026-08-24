@@ -4,151 +4,236 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-23T18:27:33+00:00</updated>
+  <updated>2026-08-24T19:32:18+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Etched Sohu 对决 Nvidia：Transformer ASIC 对比 GPU（2026）– Spheron Blog / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog</title>
-    <link href="https://news.ycombinator.com/item?id=49411178"/>
-    <id>41cbabce193992d0492672729ec7db99</id>
-    <published>2026-08-23T18:27:33+00:00</published>
-    <updated>2026-08-23T18:27:33+00:00</updated>
+    <title>一个 Claude Code 技能，可恢复被阻止导出的 Kindle 高亮。 / A Claude Code skill that recovers export-blocked Kindle highlights</title>
+    <link href="https://news.ycombinator.com/item?id=49424758"/>
+    <id>eafcfb0cf713bc011dd04e3150ee4f8d</id>
+    <published>2026-08-24T19:32:18+00:00</published>
+    <updated>2026-08-24T19:32:18+00:00</updated>
     <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Anthropic 最强 AI 模型难以吸引用户，而更廉价的工具却日渐兴起 / Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
-    <link href="https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t"/>
-    <id>d13746fa6eb311af3955e1617e1e7384</id>
-    <published>2026-08-23T18:16:37+00:00</published>
-    <updated>2026-08-23T18:16:37+00:00</updated>
-    <summary type="text">Score: 0.635\nSources: 3 (OPML RSS)\nImportance: 多源热议</summary>
+    <title>LLMs 可利用推理引擎控制宿主机 / LLMs could control their host machines by exploiting inference engines</title>
+    <link href="https://news.ycombinator.com/item?id=49424387"/>
+    <id>9c84a3ddca851752c63eaaaae6e0dcbb</id>
+    <published>2026-08-24T19:03:06+00:00</published>
+    <updated>2026-08-24T19:03:06+00:00</updated>
+    <summary type="text">Score: 0.543\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议 / MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet</title>
+    <link href="https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet"/>
+    <id>4bf991c7d7a94aaf7a7379bc26b16f36</id>
+    <published>2026-08-24T18:02:29+00:00</published>
+    <updated>2026-08-24T18:02:29+00:00</updated>
+    <summary type="text">Score: 0.731\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>对人工智能的依赖将导致编程专业技能的崩溃</title>
+    <link href="https://larsfaye.com/articles/ai-coding-will-prevent-expertise"/>
+    <id>b296395bdca231d7be8e9f1842aa69a7</id>
+    <published>2026-08-24T15:52:33+00:00</published>
+    <updated>2026-08-24T15:52:33+00:00</updated>
+    <summary type="text">Score: 0.566\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats</title>
-    <link href="https://news.ycombinator.com/item?id=49410949"/>
-    <id>7893e355cc2041fd6bab453020c60a19</id>
-    <published>2026-08-23T18:01:30+00:00</published>
-    <updated>2026-08-23T18:01:30+00:00</updated>
-    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
+    <title>OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）</title>
+    <link href="https://developers.openai.com/api/docs/pricing"/>
+    <id>20938ad8c43d2467f3bae10d95fab09b</id>
+    <published>2026-08-24T15:22:43+00:00</published>
+    <updated>2026-08-24T15:22:43+00:00</updated>
+    <summary type="text">Score: 0.566\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
     <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>我把1983年的Unix talk变成了我的AI界面 / I turned Unix talk from 1983 into the interface for my AI</title>
-    <link href="https://news.ycombinator.com/item?id=49410936"/>
-    <id>3c6d3e66bf00f89d6c32d06b1a258afb</id>
-    <published>2026-08-23T18:00:20+00:00</published>
-    <updated>2026-08-23T18:00:20+00:00</updated>
-    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="watch"/>
   </entry>
   <entry>
-    <title>我的 agent.md 如何提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality</title>
-    <link href="https://news.ycombinator.com/item?id=49410932"/>
-    <id>4ba0034072de2bc03b0e34e2949e06b5</id>
-    <published>2026-08-23T17:59:52+00:00</published>
-    <updated>2026-08-23T17:59:52+00:00</updated>
-    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood</title>
-    <link href="https://news.ycombinator.com/item?id=49410628"/>
-    <id>98abc0526429ce719b85ed4217681c09</id>
-    <published>2026-08-23T17:25:03+00:00</published>
-    <updated>2026-08-23T17:25:03+00:00</updated>
-    <summary type="text">Score: 0.540\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Erik Brynjolfsson表示，AI不太可能引发“就业末日”。 / Erik Brynjolfsson says an AI &quot;job apocalypse&quot; is unlikely</title>
-    <link href="https://news.ycombinator.com/item?id=49410480"/>
-    <id>eb913cf205e4642c06e3e7946ce716e1</id>
-    <published>2026-08-23T17:07:04+00:00</published>
-    <updated>2026-08-23T17:07:04+00:00</updated>
-    <summary type="text">Score: 0.545\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost</title>
-    <link href="https://news.ycombinator.com/item?id=49410097"/>
-    <id>9c5ddf7bc9aff78d5ab65667ba751a08</id>
-    <published>2026-08-23T16:24:21+00:00</published>
-    <updated>2026-08-23T16:24:21+00:00</updated>
-    <summary type="text">Score: 0.538\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day</title>
-    <link href="https://news.ycombinator.com/item?id=49409073"/>
-    <id>bc9fdc69dd388a3d8c6d010bc781702c</id>
-    <published>2026-08-23T14:23:09+00:00</published>
-    <updated>2026-08-23T14:23:09+00:00</updated>
-    <summary type="text">Score: 0.535\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备</title>
-    <link href="https://www.ithome.com/0/993/305.htm"/>
-    <id>a3b13bc13fe5236c09098c8e931e4c21</id>
-    <published>2026-08-23T14:13:31+00:00</published>
-    <updated>2026-08-23T14:13:31+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮</title>
-    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34"/>
-    <id>c67ec9d70bc407d49a3ea1210786708b</id>
-    <published>2026-08-23T04:03:52+00:00</published>
-    <updated>2026-08-23T04:03:52+00:00</updated>
-    <summary type="text">Score: 0.729\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图</title>
-    <link href="https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20"/>
-    <id>3fd453b60afbd6834b54cf9565262a41</id>
-    <published>2026-08-23T00:53:34.184000+00:00</published>
-    <updated>2026-08-23T00:53:34.184000+00:00</updated>
+    <title>NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents</title>
+    <link href="https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents"/>
+    <id>e9f9110322b68670c0bc16bd069f8eb5</id>
+    <published>2026-08-24T15:00:19+00:00</published>
+    <updated>2026-08-24T15:00:19+00:00</updated>
     <summary type="text">Score: 0.726\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>NanoGPT 速通前沿</title>
-    <link href="https://www.primeintellect.ai/research/nanogpt-speedrun"/>
-    <id>de3dd6acaf1cba8c555abf0dde8f8cfc</id>
-    <published>2026-08-22T22:14:27+00:00</published>
-    <updated>2026-08-22T22:14:27+00:00</updated>
-    <summary type="text">Score: 0.521\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
+    <title>OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？</title>
+    <link href="https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them"/>
+    <id>9987f211c39f115030d776843961a22b</id>
+    <published>2026-08-24T15:00:00+00:00</published>
+    <updated>2026-08-24T15:00:00+00:00</updated>
+    <summary type="text">Score: 0.772\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="multi_source"/>
-    <category term="watch"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Advancing price-performance for developers with GPT‑5.6 in Kiro</title>
+    <link href="https://openai.com/index/gpt-5-6-in-kiro"/>
+    <id>67d71e793a1f0e8d72c1fff8034def76</id>
+    <published>2026-08-24T12:00:00+00:00</published>
+    <updated>2026-08-24T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.845\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代</title>
+    <link href="https://www.aibase.com/news/30580"/>
+    <id>24e5a6d8f08cc2175a164b47a36f9e61</id>
+    <published>2026-08-24T10:04:30.562942+00:00</published>
+    <updated>2026-08-24T10:04:30.562942+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元</title>
+    <link href="https://www.aibase.com/news/30579"/>
+    <id>ed180c9dd8b321018063f848b0cbf3dd</id>
+    <published>2026-08-24T10:04:30.562942+00:00</published>
+    <updated>2026-08-24T10:04:30.562942+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet</title>
+    <link href="https://www.aibase.com/news/30577"/>
+    <id>58b7f61200f5c4c72045d796c017d1f8</id>
+    <published>2026-08-24T09:05:05.419299+00:00</published>
+    <updated>2026-08-24T09:05:05.419299+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>字节整合AI办公产品，TRAE、扣子团队并入豆包</title>
+    <link href="https://www.aibase.com/news/30576"/>
+    <id>afec2011d488435e074e5c83fd3317c4</id>
+    <published>2026-08-24T09:05:05.419299+00:00</published>
+    <updated>2026-08-24T09:05:05.419299+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙</title>
+    <link href="https://www.aibase.com/news/30574"/>
+    <id>30aedc4948836354f081f092366a36d8</id>
+    <published>2026-08-24T09:05:05.419299+00:00</published>
+    <updated>2026-08-24T09:05:05.419299+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>雅虎借&quot;互联网 OG&quot;翻身：自研 AI 回答引擎 Scout 剑指 Z 世代</title>
+    <link href="https://www.aibase.com/news/30573"/>
+    <id>d78113f87d83de634c943c53e36b2ef1</id>
+    <published>2026-08-24T09:05:05.419299+00:00</published>
+    <updated>2026-08-24T09:05:05.419299+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据</title>
+    <link href="https://www.aibase.com/news/30575"/>
+    <id>65a52991c414af6bbb3bfa1f36ee54c1</id>
+    <published>2026-08-24T09:05:05.419299+00:00</published>
+    <updated>2026-08-24T09:05:05.419299+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业</title>
+    <link href="https://www.aibase.com/news/30569"/>
+    <id>804038e645d66b98786c20439af1cb53</id>
+    <published>2026-08-24T07:29:10.607465+00:00</published>
+    <updated>2026-08-24T07:29:10.607465+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OCR It——从无法复制的文档中提取文本，供您的LLM使用</title>
+    <link href="https://github.com/thiagotigaz/ocr-it"/>
+    <id>bb26854e96750e3675bcc5ec832ea96b</id>
+    <published>2026-08-24T06:25:31+00:00</published>
+    <updated>2026-08-24T06:25:31+00:00</updated>
+    <summary type="text">Score: 0.566\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.149.1</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>c7edf6f585adda5a9d94f21ff238f3a0</id>
+    <published>2026-08-24T00:00:00+00:00</published>
+    <updated>2026-08-24T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Codex MCP server 命令已弃用 / Codex MCP server command deprecated</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>38485bbacc898bbc8ff9d26c5371f954</id>
+    <published>2026-08-24T00:00:00+00:00</published>
+    <updated>2026-08-24T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.823\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》</title>
+    <link href="https://pantel.is/projects/ai-gaming-companion"/>
+    <id>7e6eb78652056e3f9ca3feff8b1aa316</id>
+    <published>2026-08-23T23:18:17+00:00</published>
+    <updated>2026-08-23T23:18:17+00:00</updated>
+    <summary type="text">Score: 0.566\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
   </entry>
 </feed>
