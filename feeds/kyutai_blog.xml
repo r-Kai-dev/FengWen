@@ -4,10 +4,18 @@
   <icon>https://kyutai.org/favicon.ico</icon>
   <link href="https://kyutai.org/blog"/>
   <id>https://kyutai.org/blog</id>
-  <updated>2026-07-10T00:00:00+00:00</updated>
+  <updated>2026-08-25T00:00:00+00:00</updated>
   <author>
     <name>Kyutai</name>
   </author>
+  <entry>
+    <title>Pocket TTS training code released</title>
+    <link href="https://kyutai.org/blog/2026-08-25-pocket-tts-training"/>
+    <id>f465586c5b629f282644ba4d43296cf7</id>
+    <published>2026-08-25T00:00:00+00:00</published>
+    <updated>2026-08-25T00:00:00+00:00</updated>
+    <summary type="text">If you have a GPU and some speech data, it's now easy to train your own Pocket TTS model.</summary>
+  </entry>
   <entry>
     <title>MuScriptor: Automatic Multi-instrument Transcription</title>
     <link href="https://kyutai.org/blog/2026-07-10-muscriptor"/>

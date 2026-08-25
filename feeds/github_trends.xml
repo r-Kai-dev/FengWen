@@ -4,485 +4,442 @@
   <icon>https://github.com/favicon.ico</icon>
   <link href="https://github.com/trending"/>
   <id>https://github.com/trending</id>
-  <updated>2026-08-24T21:21:21.950585+00:00</updated>
+  <updated>2026-08-25T21:19:35.693873+00:00</updated>
   <entry>
-    <title>akitaonrails / ai-memory</title>
-    <link href="https://github.com/akitaonrails/ai-memory"/>
-    <id>200ba3182cb66439d3f5073df165db05</id>
-    <published>2026-08-24T21:21:21.950585+00:00</published>
-    <updated>2026-08-24T21:21:21.950585+00:00</updated>
-    <summary type="text">Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</summary>
-    <content type="html">&lt;p&gt;Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;4.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;319&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;3.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>mattpocock / skills</title>
+    <link href="https://github.com/mattpocock/skills"/>
+    <id>db65aeffc320da84db587caef81809b0</id>
+    <published>2026-08-25T21:19:35.693873+00:00</published>
+    <updated>2026-08-25T21:19:35.693873+00:00</updated>
+    <summary type="text">Skills for Real Engineers. Straight from my .agents directory.</summary>
+    <content type="html">&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;236.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;20.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;50.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Shell"/>
+  </entry>
+  <entry>
+    <title>AprilNEA / OpenLogi</title>
+    <link href="https://github.com/AprilNEA/OpenLogi"/>
+    <id>d23a91bb579622b860cef6ea63d4859a</id>
+    <published>2026-08-25T21:19:35.693562+00:00</published>
+    <updated>2026-08-25T21:19:35.693562+00:00</updated>
+    <summary type="text">⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.</summary>
+    <content type="html">&lt;p&gt;⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;16.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;448&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;8.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Rust"/>
   </entry>
   <entry>
-    <title>modular / modular</title>
-    <link href="https://github.com/modular/modular"/>
-    <id>f8cb50ec2981b13aaec5b580427e277f</id>
-    <published>2026-08-24T21:21:21.950296+00:00</published>
-    <updated>2026-08-24T21:21:21.950296+00:00</updated>
-    <summary type="text">The Modular Platform (includes MAX &amp; Mojo)</summary>
-    <content type="html">&lt;p&gt;The Modular Platform (includes MAX &amp; Mojo)&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;29.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Mojo&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Mojo"/>
+    <title>1jehuang / jcode</title>
+    <link href="https://github.com/1jehuang/jcode"/>
+    <id>8abd3f7e99a1f1ef1f9bff637b4a91dd</id>
+    <published>2026-08-25T21:19:35.693228+00:00</published>
+    <updated>2026-08-25T21:19:35.693228+00:00</updated>
+    <summary type="text">The most RAM efficient harness</summary>
+    <content type="html">&lt;p&gt;The most RAM efficient harness&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;18.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;7.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Rust"/>
+  </entry>
+  <entry>
+    <title>apache / maka</title>
+    <link href="https://github.com/apache/maka"/>
+    <id>d6b0fcbdf5dddb7969d7162c031977dc</id>
+    <published>2026-08-25T21:19:35.692964+00:00</published>
+    <updated>2026-08-25T21:19:35.692964+00:00</updated>
+    <summary type="text">Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.</summary>
+    <content type="html">&lt;p&gt;Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;3.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;326&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
   </entry>
   <entry>
     <title>megadose / holehe</title>
     <link href="https://github.com/megadose/holehe"/>
     <id>c4d7a23767477a053b7a885c4bd717cb</id>
-    <published>2026-08-24T21:21:21.950027+00:00</published>
-    <updated>2026-08-24T21:21:21.950027+00:00</updated>
+    <published>2026-08-25T21:19:35.692698+00:00</published>
+    <updated>2026-08-25T21:19:35.692698+00:00</updated>
     <summary type="text">holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</summary>
     <content type="html">&lt;p&gt;holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;14.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;14.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
     <title>earendil-works / pi</title>
     <link href="https://github.com/earendil-works/pi"/>
     <id>c4a664cbcde68b1b613ca7ae350c9b79</id>
-    <published>2026-08-24T21:21:21.949761+00:00</published>
-    <updated>2026-08-24T21:21:21.949761+00:00</updated>
+    <published>2026-08-25T21:19:35.692422+00:00</published>
+    <updated>2026-08-25T21:19:35.692422+00:00</updated>
     <summary type="text">AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI</summary>
     <content type="html">&lt;p&gt;AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;96.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;20.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;97.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;12.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;20.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
   <entry>
-    <title>1jehuang / jcode</title>
-    <link href="https://github.com/1jehuang/jcode"/>
-    <id>8abd3f7e99a1f1ef1f9bff637b4a91dd</id>
-    <published>2026-08-24T21:21:21.949456+00:00</published>
-    <updated>2026-08-24T21:21:21.949456+00:00</updated>
-    <summary type="text">The most RAM efficient harness</summary>
-    <content type="html">&lt;p&gt;The most RAM efficient harness&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;18.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;7.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
+    <title>modular / modular</title>
+    <link href="https://github.com/modular/modular"/>
+    <id>f8cb50ec2981b13aaec5b580427e277f</id>
+    <published>2026-08-25T21:19:35.692134+00:00</published>
+    <updated>2026-08-25T21:19:35.692134+00:00</updated>
+    <summary type="text">The Modular Platform (includes MAX &amp; Mojo)</summary>
+    <content type="html">&lt;p&gt;The Modular Platform (includes MAX &amp; Mojo)&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;29.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Mojo&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Mojo"/>
   </entry>
   <entry>
-    <title>mattpocock / skills</title>
-    <link href="https://github.com/mattpocock/skills"/>
-    <id>db65aeffc320da84db587caef81809b0</id>
-    <published>2026-08-24T21:21:21.949197+00:00</published>
-    <updated>2026-08-24T21:21:21.949197+00:00</updated>
-    <summary type="text">Skills for Real Engineers. Straight from my .agents directory.</summary>
-    <content type="html">&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;235.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;20.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;50.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Shell"/>
-  </entry>
-  <entry>
-    <title>volcengine / OpenViking</title>
-    <link href="https://github.com/volcengine/OpenViking"/>
-    <id>4c0a0f5cabd99efb660a3b238fd51233</id>
-    <published>2026-08-24T21:21:21.948887+00:00</published>
-    <updated>2026-08-24T21:21:21.948887+00:00</updated>
-    <summary type="text">Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.</summary>
-    <content type="html">&lt;p&gt;Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;32.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>bojieli / ai-agent-book</title>
+    <link href="https://github.com/bojieli/ai-agent-book"/>
+    <id>32dac2c04a087f7dbdf17f8db79d6dde</id>
+    <published>2026-08-25T21:19:35.691869+00:00</published>
+    <updated>2026-08-25T21:19:35.691869+00:00</updated>
+    <summary type="text">《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码</summary>
+    <content type="html">&lt;p&gt;《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;42.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;23.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
     <title>citrolabs / ego-lite</title>
     <link href="https://github.com/citrolabs/ego-lite"/>
     <id>5106318fbe22ab4ad6eb368853e0c016</id>
-    <published>2026-08-24T21:21:21.948613+00:00</published>
-    <updated>2026-08-24T21:21:21.948613+00:00</updated>
+    <published>2026-08-25T21:19:35.691594+00:00</published>
+    <updated>2026-08-25T21:19:35.691594+00:00</updated>
     <summary type="text">The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.</summary>
     <content type="html">&lt;p&gt;The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;13.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;690&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;11.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;13.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;699&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;11.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="JavaScript"/>
+  </entry>
+  <entry>
+    <title>diegosouzapw / OmniRoute</title>
+    <link href="https://github.com/diegosouzapw/OmniRoute"/>
+    <id>f3e959c6b6ce15e1d29cb1fad543dcde</id>
+    <published>2026-08-25T21:19:35.691291+00:00</published>
+    <updated>2026-08-25T21:19:35.691291+00:00</updated>
+    <summary type="text">Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors</summary>
+    <content type="html">&lt;p&gt;Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;55.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;7.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;26.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
+  </entry>
+  <entry>
+    <title>volcengine / OpenViking</title>
+    <link href="https://github.com/volcengine/OpenViking"/>
+    <id>4c0a0f5cabd99efb660a3b238fd51233</id>
+    <published>2026-08-25T21:19:35.690973+00:00</published>
+    <updated>2026-08-25T21:19:35.690973+00:00</updated>
+    <summary type="text">Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.</summary>
+    <content type="html">&lt;p&gt;Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;33.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
   </entry>
   <entry>
     <title>cactus-compute / needle</title>
     <link href="https://github.com/cactus-compute/needle"/>
     <id>4e421e8ffd84b556f258dd9070db4f76</id>
-    <published>2026-08-24T21:21:21.948323+00:00</published>
-    <updated>2026-08-24T21:21:21.948323+00:00</updated>
+    <published>2026-08-25T21:19:35.690696+00:00</published>
+    <updated>2026-08-25T21:19:35.690696+00:00</updated>
     <summary type="text">14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</summary>
     <content type="html">&lt;p&gt;14MB foundation model for tiny devices; phones, wearables, smart home, and robots.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;8.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;582&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>bojieli / ai-agent-book</title>
-    <link href="https://github.com/bojieli/ai-agent-book"/>
-    <id>32dac2c04a087f7dbdf17f8db79d6dde</id>
-    <published>2026-08-24T21:21:21.948057+00:00</published>
-    <updated>2026-08-24T21:21:21.948057+00:00</updated>
-    <summary type="text">《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码</summary>
-    <content type="html">&lt;p&gt;《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;41.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;23.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;9.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;590&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
     <title>pingdotgg / t3code</title>
     <link href="https://github.com/pingdotgg/t3code"/>
     <id>7ed33941c884ed3394f1243690850802</id>
-    <published>2026-08-24T21:21:21.947787+00:00</published>
-    <updated>2026-08-24T21:21:21.947787+00:00</updated>
-    <content type="html">&lt;p&gt;⭐ &lt;strong&gt;20.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <published>2026-08-25T21:19:35.690391+00:00</published>
+    <updated>2026-08-25T21:19:35.690391+00:00</updated>
+    <content type="html">&lt;p&gt;⭐ &lt;strong&gt;20.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>diegosouzapw / OmniRoute</title>
-    <link href="https://github.com/diegosouzapw/OmniRoute"/>
-    <id>f3e959c6b6ce15e1d29cb1fad543dcde</id>
-    <published>2026-08-24T21:21:21.947484+00:00</published>
-    <updated>2026-08-24T21:21:21.947484+00:00</updated>
-    <summary type="text">Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors</summary>
-    <content type="html">&lt;p&gt;Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;54.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;7.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;27.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>virgiliojr94 / book-to-skill</title>
-    <link href="https://github.com/virgiliojr94/book-to-skill"/>
-    <id>f3eb042b314fc0f775cf41b3668cbd9c</id>
-    <published>2026-08-24T21:21:21.947157+00:00</published>
-    <updated>2026-08-24T21:21:21.947157+00:00</updated>
-    <summary type="text">Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.</summary>
-    <content type="html">&lt;p&gt;Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;25.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;15.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
   </entry>
   <entry>
     <title>microsoft / AI-For-Beginners</title>
     <link href="https://github.com/microsoft/AI-For-Beginners"/>
     <id>4ef749962bef560b95fdc75747aff70f</id>
-    <published>2026-08-24T21:21:21.946832+00:00</published>
-    <updated>2026-08-24T21:21:21.946832+00:00</updated>
+    <published>2026-08-25T21:19:35.690116+00:00</published>
+    <updated>2026-08-25T21:19:35.690116+00:00</updated>
     <summary type="text">12 Weeks, 24 Lessons, AI for All!</summary>
     <content type="html">&lt;p&gt;12 Weeks, 24 Lessons, AI for All!&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;66.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;12.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;14.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Jupyter Notebook&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;67.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;12.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;14.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Jupyter Notebook&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Jupyter Notebook"/>
   </entry>
   <entry>
-    <title>zhaoxuya520 / reverse-skill</title>
-    <link href="https://github.com/zhaoxuya520/reverse-skill"/>
-    <id>e2eb40c3500c32ac1b124c1eebd20b0b</id>
-    <published>2026-08-24T21:21:21.946552+00:00</published>
-    <updated>2026-08-24T21:21:21.946552+00:00</updated>
-    <summary type="text">Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端</summary>
-    <content type="html">&lt;p&gt;Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;28.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;19.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;PowerShell&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="PowerShell"/>
-  </entry>
-  <entry>
-    <title>basecamp / omarchy</title>
-    <link href="https://github.com/basecamp/omarchy"/>
-    <id>1e0fc912fdccbef933fd631841abacfc</id>
-    <published>2026-08-24T21:21:21.946252+00:00</published>
-    <updated>2026-08-24T21:21:21.946252+00:00</updated>
-    <summary type="text">Beautiful, Modern &amp; Opinionated Linux</summary>
-    <content type="html">&lt;p&gt;Beautiful, Modern &amp; Opinionated Linux&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;30.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Shell"/>
+    <title>virgiliojr94 / book-to-skill</title>
+    <link href="https://github.com/virgiliojr94/book-to-skill"/>
+    <id>f3eb042b314fc0f775cf41b3668cbd9c</id>
+    <published>2026-08-25T21:19:35.689846+00:00</published>
+    <updated>2026-08-25T21:19:35.689846+00:00</updated>
+    <summary type="text">Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.</summary>
+    <content type="html">&lt;p&gt;Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;25.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;15.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
   </entry>
   <entry>
     <title>ayghri / i-have-adhd</title>
     <link href="https://github.com/ayghri/i-have-adhd"/>
     <id>93525dc9b76bcbf76b7a6199b708a85a</id>
-    <published>2026-08-24T21:21:21.945974+00:00</published>
-    <updated>2026-08-24T21:21:21.945974+00:00</updated>
+    <published>2026-08-25T21:19:35.689528+00:00</published>
+    <updated>2026-08-25T21:19:35.689528+00:00</updated>
     <summary type="text">A skill to stop your coding agent from burying the answer. ADHD-friendly output.</summary>
     <content type="html">&lt;p&gt;A skill to stop your coding agent from burying the answer. ADHD-friendly output.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;23.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;14.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;24.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;14.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
-    <title>TencentCloud / TencentDB-Agent-Memory</title>
-    <link href="https://github.com/TencentCloud/TencentDB-Agent-Memory"/>
-    <id>c34d930f3f93a6c6a0428b452744e0f4</id>
-    <published>2026-08-24T21:21:21.945684+00:00</published>
-    <updated>2026-08-24T21:21:21.945684+00:00</updated>
-    <summary type="text">TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</summary>
-    <content type="html">&lt;p&gt;TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;24.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;14.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
+    <title>zhaoxuya520 / reverse-skill</title>
+    <link href="https://github.com/zhaoxuya520/reverse-skill"/>
+    <id>e2eb40c3500c32ac1b124c1eebd20b0b</id>
+    <published>2026-08-25T21:19:35.689210+00:00</published>
+    <updated>2026-08-25T21:19:35.689210+00:00</updated>
+    <summary type="text">Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端</summary>
+    <content type="html">&lt;p&gt;Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;29.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;19.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;PowerShell&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="PowerShell"/>
   </entry>
   <entry>
     <title>block / buzz</title>
     <link href="https://github.com/block/buzz"/>
     <id>ed0a30ab5e1645b79cbcda9a1b9bb6ea</id>
-    <published>2026-08-24T21:21:21.945350+00:00</published>
-    <updated>2026-08-24T21:21:21.945350+00:00</updated>
+    <published>2026-08-25T21:19:35.688920+00:00</published>
+    <updated>2026-08-25T21:19:35.688920+00:00</updated>
     <summary type="text">A hive mind communication platform</summary>
     <content type="html">&lt;p&gt;A hive mind communication platform&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;30.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;24.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;30.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;21.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Rust"/>
   </entry>
   <entry>
-    <title>cursor / plugins</title>
-    <link href="https://github.com/cursor/plugins"/>
-    <id>a6e8a8b4693f58d53a47f417718626bb</id>
-    <published>2026-08-24T21:21:20.605075+00:00</published>
-    <updated>2026-08-24T21:21:20.605075+00:00</updated>
-    <summary type="text">Cursor plugin specification and official plugins</summary>
-    <content type="html">&lt;p&gt;Cursor plugin specification and official plugins&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;5.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;403&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
+    <title>basecamp / omarchy</title>
+    <link href="https://github.com/basecamp/omarchy"/>
+    <id>1e0fc912fdccbef933fd631841abacfc</id>
+    <published>2026-08-25T21:19:35.688631+00:00</published>
+    <updated>2026-08-25T21:19:35.688631+00:00</updated>
+    <summary type="text">Beautiful, Modern &amp; Opinionated Linux</summary>
+    <content type="html">&lt;p&gt;Beautiful, Modern &amp; Opinionated Linux&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;31.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Shell"/>
   </entry>
   <entry>
-    <title>Tencent / AI-Infra-Guard</title>
-    <link href="https://github.com/Tencent/AI-Infra-Guard"/>
-    <id>696ea5d08d910ceebd73707218d230a5</id>
-    <published>2026-08-24T21:21:20.604811+00:00</published>
-    <updated>2026-08-24T21:21:20.604811+00:00</updated>
-    <summary type="text">A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.</summary>
-    <content type="html">&lt;p&gt;A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;5.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;537&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
+    <title>TencentCloud / TencentDB-Agent-Memory</title>
+    <link href="https://github.com/TencentCloud/TencentDB-Agent-Memory"/>
+    <id>c34d930f3f93a6c6a0428b452744e0f4</id>
+    <published>2026-08-25T21:19:35.688264+00:00</published>
+    <updated>2026-08-25T21:19:35.688264+00:00</updated>
+    <summary type="text">TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</summary>
+    <content type="html">&lt;p&gt;TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;24.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;15.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
   </entry>
   <entry>
     <title>eneskirca / nodeterm</title>
     <link href="https://github.com/eneskirca/nodeterm"/>
     <id>ddfafda9084bede80dd1ea9db683467c</id>
-    <published>2026-08-24T21:21:20.604543+00:00</published>
-    <updated>2026-08-24T21:21:20.604543+00:00</updated>
+    <published>2026-08-25T21:19:34.173011+00:00</published>
+    <updated>2026-08-25T21:19:34.173011+00:00</updated>
     <summary type="text">Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.</summary>
     <content type="html">&lt;p&gt;Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;1.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;121&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;496&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>apache / maka</title>
-    <link href="https://github.com/apache/maka"/>
-    <id>d6b0fcbdf5dddb7969d7162c031977dc</id>
-    <published>2026-08-24T21:21:20.604266+00:00</published>
-    <updated>2026-08-24T21:21:20.604266+00:00</updated>
-    <summary type="text">Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.</summary>
-    <content type="html">&lt;p&gt;Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;2.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;305&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;859&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>jundot / omlx</title>
-    <link href="https://github.com/jundot/omlx"/>
-    <id>b7ba62957963cf849dcff4f04d28c377</id>
-    <published>2026-08-24T21:21:20.604008+00:00</published>
-    <updated>2026-08-24T21:21:20.604008+00:00</updated>
-    <summary type="text">LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar</summary>
-    <content type="html">&lt;p&gt;LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;20.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>public-apis / public-apis</title>
-    <link href="https://github.com/public-apis/public-apis"/>
-    <id>2880336b180a7d4827cf951b4a33a643</id>
-    <published>2026-08-24T21:21:20.603453+00:00</published>
-    <updated>2026-08-24T21:21:20.603453+00:00</updated>
-    <summary type="text">A collective list of free APIs</summary>
-    <content type="html">&lt;p&gt;A collective list of free APIs&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;469.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;51.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;8.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>cordiverse / cordis</title>
-    <link href="https://github.com/cordiverse/cordis"/>
-    <id>dd429d560e143c72076d1ecbd28c3465</id>
-    <published>2026-08-24T21:21:20.603189+00:00</published>
-    <updated>2026-08-24T21:21:20.603189+00:00</updated>
-    <summary type="text">Meta-Framework of Spatiotemporal Composability</summary>
-    <content type="html">&lt;p&gt;Meta-Framework of Spatiotemporal Composability&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;7.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;430&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>AprilNEA / OpenLogi</title>
-    <link href="https://github.com/AprilNEA/OpenLogi"/>
-    <id>d23a91bb579622b860cef6ea63d4859a</id>
-    <published>2026-08-24T21:21:20.602065+00:00</published>
-    <updated>2026-08-24T21:21:20.602065+00:00</updated>
-    <summary type="text">⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.</summary>
-    <content type="html">&lt;p&gt;⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;15.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;428&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;6.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
-  </entry>
-  <entry>
-    <title>harry0703 / MoneyPrinterTurbo</title>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo"/>
-    <id>7c2e5e2e386b6dad44af4a9b7fa639b9</id>
-    <published>2026-08-24T21:21:20.601741+00:00</published>
-    <updated>2026-08-24T21:21:20.601741+00:00</updated>
-    <summary type="text">利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</summary>
-    <content type="html">&lt;p&gt;利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;115.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;17.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;11.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>tinyhumansai / openhuman</title>
-    <link href="https://github.com/tinyhumansai/openhuman"/>
-    <id>1f1b8428233f26aa3432fab9e37bb719</id>
-    <published>2026-08-24T21:21:19.335746+00:00</published>
-    <updated>2026-08-24T21:21:19.335746+00:00</updated>
-    <summary type="text">Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.</summary>
-    <content type="html">&lt;p&gt;Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;37.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;515&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
-  </entry>
-  <entry>
-    <title>VoltAgent / awesome-agent-skills</title>
-    <link href="https://github.com/VoltAgent/awesome-agent-skills"/>
-    <id>9b1d005199011732723ee8e99562cef6</id>
-    <published>2026-08-24T21:21:19.335446+00:00</published>
-    <updated>2026-08-24T21:21:19.335446+00:00</updated>
-    <summary type="text">A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.</summary>
-    <content type="html">&lt;p&gt;A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;31.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;600&lt;/strong&gt; stars today&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>freestylefly / awesome-gpt-image-2</title>
-    <link href="https://github.com/freestylefly/awesome-gpt-image-2"/>
-    <id>471f70ee21260fd910bee5d45d572275</id>
-    <published>2026-08-24T21:21:19.335135+00:00</published>
-    <updated>2026-08-24T21:21:19.335135+00:00</updated>
-    <summary type="text">Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中</summary>
-    <content type="html">&lt;p&gt;Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;15.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="JavaScript"/>
-  </entry>
-  <entry>
-    <title>dani-garcia / vaultwarden</title>
-    <link href="https://github.com/dani-garcia/vaultwarden"/>
-    <id>3e37ee4bb226aa9883448b2b7985e64d</id>
-    <published>2026-08-24T21:21:19.334866+00:00</published>
-    <updated>2026-08-24T21:21:19.334866+00:00</updated>
-    <summary type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</summary>
-    <content type="html">&lt;p&gt;Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;66.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;176&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
-  </entry>
-  <entry>
-    <title>tashfeenahmed / freellmapi</title>
-    <link href="https://github.com/tashfeenahmed/freellmapi"/>
-    <id>0d69f1344be0d14c3b96bbe58f48a608</id>
-    <published>2026-08-24T21:21:19.334554+00:00</published>
-    <updated>2026-08-24T21:21:19.334554+00:00</updated>
-    <summary type="text">7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.</summary>
-    <content type="html">&lt;p&gt;7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;19.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;153&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>rohitg00 / ai-engineering-from-scratch</title>
-    <link href="https://github.com/rohitg00/ai-engineering-from-scratch"/>
-    <id>94a565ba87fe735f7c6a694281c4777b</id>
-    <published>2026-08-24T21:21:19.334004+00:00</published>
-    <updated>2026-08-24T21:21:19.334004+00:00</updated>
-    <summary type="text">Learn it. Build it. Ship it for others.</summary>
-    <content type="html">&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;48.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;8.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;330&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>AgriciDaniel / claude-obsidian</title>
-    <link href="https://github.com/AgriciDaniel/claude-obsidian"/>
-    <id>9f1edac6dc0094829fc4c92a5425a0e7</id>
-    <published>2026-08-24T21:21:19.333691+00:00</published>
-    <updated>2026-08-24T21:21:19.333691+00:00</updated>
-    <summary type="text">Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.</summary>
-    <content type="html">&lt;p&gt;Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;11.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;272&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>openclaw / openclaw</title>
-    <link href="https://github.com/openclaw/openclaw"/>
-    <id>c52f4d1e197dbadbced741eb746668a6</id>
-    <published>2026-08-24T21:21:19.333392+00:00</published>
-    <updated>2026-08-24T21:21:19.333392+00:00</updated>
-    <summary type="text">Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</summary>
-    <content type="html">&lt;p&gt;Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;387.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;81.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;160&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;1.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;126&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;529&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
   <entry>
     <title>PostHog / posthog</title>
     <link href="https://github.com/PostHog/posthog"/>
     <id>f91a107b0b4b436687639f75e50cab3b</id>
-    <published>2026-08-24T21:21:19.333073+00:00</published>
-    <updated>2026-08-24T21:21:19.333073+00:00</updated>
+    <published>2026-08-25T21:19:34.172745+00:00</published>
+    <updated>2026-08-25T21:19:34.172745+00:00</updated>
     <summary type="text">🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.</summary>
     <content type="html">&lt;p&gt;🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;38.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;106&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;39.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
-    <title>anthropics / claude-plugins-community</title>
-    <link href="https://github.com/anthropics/claude-plugins-community"/>
-    <id>4be887caa71c44f6c49f8a8fac288485</id>
-    <published>2026-08-24T21:21:19.332059+00:00</published>
-    <updated>2026-08-24T21:21:19.332059+00:00</updated>
-    <summary type="text">Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.</summary>
-    <content type="html">&lt;p&gt;Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;1.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;150&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;490&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>Tencent / AI-Infra-Guard</title>
+    <link href="https://github.com/Tencent/AI-Infra-Guard"/>
+    <id>696ea5d08d910ceebd73707218d230a5</id>
+    <published>2026-08-25T21:19:34.172472+00:00</published>
+    <updated>2026-08-25T21:19:34.172472+00:00</updated>
+    <summary type="text">A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.</summary>
+    <content type="html">&lt;p&gt;A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;5.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;541&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
-    <title>NousResearch / hermes-agent</title>
-    <link href="https://github.com/NousResearch/hermes-agent"/>
-    <id>a7fc8d42353b05a7a7280c9d3213cbd3</id>
-    <published>2026-08-24T21:21:19.331771+00:00</published>
-    <updated>2026-08-24T21:21:19.331771+00:00</updated>
-    <summary type="text">The agent that grows with you</summary>
-    <content type="html">&lt;p&gt;The agent that grows with you&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;235.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;47.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;899&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>public-apis / public-apis</title>
+    <link href="https://github.com/public-apis/public-apis"/>
+    <id>2880336b180a7d4827cf951b4a33a643</id>
+    <published>2026-08-25T21:19:34.172180+00:00</published>
+    <updated>2026-08-25T21:19:34.172180+00:00</updated>
+    <summary type="text">A collective list of free APIs</summary>
+    <content type="html">&lt;p&gt;A collective list of free APIs&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;470.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;51.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;7.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
-    <title>makeplane / plane</title>
-    <link href="https://github.com/makeplane/plane"/>
-    <id>f3286bdd81737c8f81b54f5d996e54ee</id>
-    <published>2026-08-24T21:21:19.331460+00:00</published>
-    <updated>2026-08-24T21:21:19.331460+00:00</updated>
-    <summary type="text">🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.</summary>
-    <content type="html">&lt;p&gt;🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;57.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;5.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;268&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>multica-ai / andrej-karpathy-skills</title>
-    <link href="https://github.com/multica-ai/andrej-karpathy-skills"/>
-    <id>d99d90780f4cb410a43e6eeb93cdb106</id>
-    <published>2026-08-24T21:21:19.331179+00:00</published>
-    <updated>2026-08-24T21:21:19.331179+00:00</updated>
-    <summary type="text">A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</summary>
-    <content type="html">&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;206.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;21.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;491&lt;/strong&gt; stars today&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>MadsLorentzen / ai-job-search</title>
-    <link href="https://github.com/MadsLorentzen/ai-job-search"/>
-    <id>1014fedd0bd6fe008e01d2e3e7322df6</id>
-    <published>2026-08-24T21:21:19.330899+00:00</published>
-    <updated>2026-08-24T21:21:19.330899+00:00</updated>
-    <summary type="text">The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</summary>
-    <content type="html">&lt;p&gt;The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;33.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;378&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>jundot / omlx</title>
+    <link href="https://github.com/jundot/omlx"/>
+    <id>b7ba62957963cf849dcff4f04d28c377</id>
+    <published>2026-08-25T21:19:34.171908+00:00</published>
+    <updated>2026-08-25T21:19:34.171908+00:00</updated>
+    <summary type="text">LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar</summary>
+    <content type="html">&lt;p&gt;LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;20.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
     <title>openai / codex</title>
     <link href="https://github.com/openai/codex"/>
     <id>3776a45f2277de7834351da126afafca</id>
-    <published>2026-08-24T21:21:19.330553+00:00</published>
-    <updated>2026-08-24T21:21:19.330553+00:00</updated>
+    <published>2026-08-25T21:19:34.171628+00:00</published>
+    <updated>2026-08-25T21:19:34.171628+00:00</updated>
     <summary type="text">Lightweight coding agent that runs in your terminal</summary>
     <content type="html">&lt;p&gt;Lightweight coding agent that runs in your terminal&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;117.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;17.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;118.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;18.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;10.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Rust"/>
   </entry>
   <entry>
-    <title>Alishahryar1 / free-claude-code</title>
-    <link href="https://github.com/Alishahryar1/free-claude-code"/>
-    <id>c28fbbe5add8518f3b44c74021f7c6f1</id>
-    <published>2026-08-24T21:21:19.330196+00:00</published>
-    <updated>2026-08-24T21:21:19.330196+00:00</updated>
-    <summary type="text">Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)</summary>
-    <content type="html">&lt;p&gt;Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;48.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;8.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;889&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>freestylefly / awesome-gpt-image-2</title>
+    <link href="https://github.com/freestylefly/awesome-gpt-image-2"/>
+    <id>471f70ee21260fd910bee5d45d572275</id>
+    <published>2026-08-25T21:19:34.171326+00:00</published>
+    <updated>2026-08-25T21:19:34.171326+00:00</updated>
+    <summary type="text">Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中</summary>
+    <content type="html">&lt;p&gt;Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;17.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="JavaScript"/>
+  </entry>
+  <entry>
+    <title>anthropics / claude-plugins-community</title>
+    <link href="https://github.com/anthropics/claude-plugins-community"/>
+    <id>4be887caa71c44f6c49f8a8fac288485</id>
+    <published>2026-08-25T21:19:34.170501+00:00</published>
+    <updated>2026-08-25T21:19:34.170501+00:00</updated>
+    <summary type="text">Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.</summary>
+    <content type="html">&lt;p&gt;Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;1.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;176&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;877&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>harry0703 / MoneyPrinterTurbo</title>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo"/>
+    <id>7c2e5e2e386b6dad44af4a9b7fa639b9</id>
+    <published>2026-08-25T21:19:34.169919+00:00</published>
+    <updated>2026-08-25T21:19:34.169919+00:00</updated>
+    <summary type="text">利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</summary>
+    <content type="html">&lt;p&gt;利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;116.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;17.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;10.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>asciimoo / hister</title>
+    <link href="https://github.com/asciimoo/hister"/>
+    <id>36e84c21f4fbb8dc00e6d76180969ce6</id>
+    <published>2026-08-25T21:19:32.764069+00:00</published>
+    <updated>2026-08-25T21:19:32.764069+00:00</updated>
+    <summary type="text">Your own search engine</summary>
+    <content type="html">&lt;p&gt;Your own search engine&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;2.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;121&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;166&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Go"/>
+  </entry>
+  <entry>
+    <title>anthropics / claude-plugins-official</title>
+    <link href="https://github.com/anthropics/claude-plugins-official"/>
+    <id>dea4f980546f0b27fba31bcc732d6699</id>
+    <published>2026-08-25T21:19:32.763530+00:00</published>
+    <updated>2026-08-25T21:19:32.763530+00:00</updated>
+    <summary type="text">Official, Anthropic-managed directory of high quality Claude Code Plugins.</summary>
+    <content type="html">&lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;34.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;47&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>DietrichGebert / ponytail</title>
+    <link href="https://github.com/DietrichGebert/ponytail"/>
+    <id>0d31366e87f8dac5761290543fbff968</id>
+    <published>2026-08-25T21:19:32.763097+00:00</published>
+    <updated>2026-08-25T21:19:32.763097+00:00</updated>
+    <summary type="text">Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</summary>
+    <content type="html">&lt;p&gt;Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;110.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;6.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;944&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="JavaScript"/>
+  </entry>
+  <entry>
+    <title>marin-community / marin</title>
+    <link href="https://github.com/marin-community/marin"/>
+    <id>ee6b368f26ca7de6aac956b5475a00f0</id>
+    <published>2026-08-25T21:19:32.762751+00:00</published>
+    <updated>2026-08-25T21:19:32.762751+00:00</updated>
+    <summary type="text">Open-source framework for the research and development of foundation models.</summary>
+    <content type="html">&lt;p&gt;Open-source framework for the research and development of foundation models.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;2.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;190&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;277&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>multica-ai / andrej-karpathy-skills</title>
+    <link href="https://github.com/multica-ai/andrej-karpathy-skills"/>
+    <id>d99d90780f4cb410a43e6eeb93cdb106</id>
+    <published>2026-08-25T21:19:32.762033+00:00</published>
+    <updated>2026-08-25T21:19:32.762033+00:00</updated>
+    <summary type="text">A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</summary>
+    <content type="html">&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;207.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;21.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;828&lt;/strong&gt; stars today&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Shubhamsaboo / awesome-llm-apps</title>
+    <link href="https://github.com/Shubhamsaboo/awesome-llm-apps"/>
+    <id>b4638f774873bc60fd737fd12cb966f0</id>
+    <published>2026-08-25T21:19:32.761765+00:00</published>
+    <updated>2026-08-25T21:19:32.761765+00:00</updated>
+    <summary type="text">100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.</summary>
+    <content type="html">&lt;p&gt;100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;134.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;19.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;161&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>tinyhumansai / openhuman</title>
+    <link href="https://github.com/tinyhumansai/openhuman"/>
+    <id>1f1b8428233f26aa3432fab9e37bb719</id>
+    <published>2026-08-25T21:19:32.761183+00:00</published>
+    <updated>2026-08-25T21:19:32.761183+00:00</updated>
+    <summary type="text">Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.</summary>
+    <content type="html">&lt;p&gt;Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;37.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;541&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Rust"/>
+  </entry>
+  <entry>
+    <title>rohitg00 / ai-engineering-from-scratch</title>
+    <link href="https://github.com/rohitg00/ai-engineering-from-scratch"/>
+    <id>94a565ba87fe735f7c6a694281c4777b</id>
+    <published>2026-08-25T21:19:32.760901+00:00</published>
+    <updated>2026-08-25T21:19:32.760901+00:00</updated>
+    <summary type="text">Learn it. Build it. Ship it for others.</summary>
+    <content type="html">&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;48.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;8.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;572&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>AgriciDaniel / claude-obsidian</title>
+    <link href="https://github.com/AgriciDaniel/claude-obsidian"/>
+    <id>9f1edac6dc0094829fc4c92a5425a0e7</id>
+    <published>2026-08-25T21:19:32.760574+00:00</published>
+    <updated>2026-08-25T21:19:32.760574+00:00</updated>
+    <summary type="text">Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.</summary>
+    <content type="html">&lt;p&gt;Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;12.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;810&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>TauricResearch / TradingAgents</title>
+    <link href="https://github.com/TauricResearch/TradingAgents"/>
+    <id>5d56edf0789b5e89f65df511c58d442d</id>
+    <published>2026-08-25T21:19:32.760208+00:00</published>
+    <updated>2026-08-25T21:19:32.760208+00:00</updated>
+    <summary type="text">TradingAgents: Multi-Agents LLM Financial Trading Framework</summary>
+    <content type="html">&lt;p&gt;TradingAgents: Multi-Agents LLM Financial Trading Framework&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;100.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;19.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;191&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>MadsLorentzen / ai-job-search</title>
+    <link href="https://github.com/MadsLorentzen/ai-job-search"/>
+    <id>1014fedd0bd6fe008e01d2e3e7322df6</id>
+    <published>2026-08-25T21:19:32.759301+00:00</published>
+    <updated>2026-08-25T21:19:32.759301+00:00</updated>
+    <summary type="text">The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</summary>
+    <content type="html">&lt;p&gt;The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;35.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;12.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
 </feed>

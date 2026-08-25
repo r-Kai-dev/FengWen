@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-08-14T00:00:00+00:00</updated>
+  <updated>2026-08-25T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Funding better evaluations of AI’s impact on wellbeing</title>
+    <link href="https://www.anthropic.com/news/wellbeing-research-grants"/>
+    <id>0e2f2b4e35edf08c7df0fef2e37b50b5</id>
+    <published>2026-08-25T00:00:00+00:00</published>
+    <updated>2026-08-25T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
   <entry>
     <title>How Claude’s text watermark works</title>
     <link href="https://www.anthropic.com/news/claude-text-watermark"/>
@@ -69,7 +77,7 @@
     <id>4a22f22f2a632683023f9faf8026ed04</id>
     <published>2026-07-22T00:00:00+00:00</published>
     <updated>2026-07-22T00:00:00+00:00</updated>
-    <category term="Economic Research"/>
+    <category term="Economics"/>
   </entry>
   <entry>
     <title>Ask Claude about the Anthropic Economic Index</title>
@@ -78,14 +86,6 @@
     <published>2026-07-22T00:00:00+00:00</published>
     <updated>2026-07-22T00:00:00+00:00</updated>
     <category term="Product"/>
-  </entry>
-  <entry>
-    <title>Anthropic is donating another $20 million to Public First Action</title>
-    <link href="https://www.anthropic.com/news/donation-public-first-action"/>
-    <id>4ef4097f11ea7f77e4081d8bdb194f13</id>
-    <published>2026-07-21T00:00:00+00:00</published>
-    <updated>2026-07-21T00:00:00+00:00</updated>
-    <category term="Announcements"/>
   </entry>
   <entry>
     <title>The Making of Claude Code</title>
