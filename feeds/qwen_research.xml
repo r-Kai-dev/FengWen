@@ -4,10 +4,19 @@
   <icon>https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico</icon>
   <link href="https://qwen.ai/research"/>
   <id>https://qwen.ai/research</id>
-  <updated>2026-08-03T00:00:00+00:00</updated>
+  <updated>2026-08-26T00:00:00+00:00</updated>
   <author>
     <name>Qwen (Alibaba)</name>
   </author>
+  <entry>
+    <title>Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency</title>
+    <link href="https://qwen.ai/blog?id=qwen3.8-flash-next"/>
+    <id>1935839d34628b645c82e65b9aceb2ea</id>
+    <published>2026-08-26T00:00:00+00:00</published>
+    <updated>2026-08-26T00:00:00+00:00</updated>
+    <summary type="text">In this release we are opening the weights of Qwen3.8-Flash-Next, a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4. It plays the same role that Qwen3-Next played for Qwen3.5: the hybrid Gated DeltaNet + Gated Attention design introduced at that time has since been used across the Qwen3.5, Qwen3.6, Qwen3.7 and Qwen3.8 series. We are again releasing the...</summary>
+    <category term="Open-Source"/>
+  </entry>
   <entry>
     <title>Qwen3.8-Max: A New Bar for Coding and Cowork</title>
     <link href="https://qwen.ai/blog?id=qwen3.8"/>
@@ -42,15 +51,6 @@
     <published>2026-06-16T00:00:00+00:00</published>
     <updated>2026-06-16T00:00:00+00:00</updated>
     <summary type="text">The Qwen family of foundation models already gives strong perception and reasoning about the physical world. But seeing is not acting: the gap between vision and language understanding and physical control remains the central bottleneck for embodied intelligence. The Qwen-Robot Suite bridges this gap with three foundation models — Qwen-RobotNav, Qwen-RobotManip, and Qwen-RobotWorld. Nav unifies...</summary>
-    <category term="Release"/>
-  </entry>
-  <entry>
-    <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
-    <link href="https://qwen.ai/blog?id=qwen-robotnav"/>
-    <id>86da19abd19f5862f69006826f51a800</id>
-    <published>2026-06-16T00:00:00+00:00</published>
-    <updated>2026-06-16T00:00:00+00:00</updated>
-    <summary type="text">Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a...</summary>
     <category term="Release"/>
   </entry>
 </feed>

@@ -4,10 +4,20 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-08-13</updated>
+  <updated>2026-08-26</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>CliniCARE-Bench: Clinical AI Agents Can Be Right for the Wrong Reasons</title>
+    <link href="https://labs.scale.com/blog/clinicare-bench"/>
+    <id>dddc469572875095cb4b626b7affbb86</id>
+    <published>2026-08-26</published>
+    <updated>2026-08-26</updated>
+    <summary type="text">We evaluated 16 agentic systems on 25 clinical care scenarios over 750 real patient cases. Every single system committed to an answer more often than the evidence allowed, and up to one in five correct verdicts rested on an investigation the case authors had explicitly prohibited. — By Veronica Chatrath, Bryan Zhu, Yuan (Emily) Xue</summary>
+    <category term="Agents"/>
+    <category term="Enterprise"/>
+  </entry>
   <entry>
     <title>Can Robots Learn from Watching Us?</title>
     <link href="https://labs.scale.com/blog/can-robots-learn-from-watching-us"/>

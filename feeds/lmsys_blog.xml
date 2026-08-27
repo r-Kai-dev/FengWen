@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-08-21T00:00:00+00:00</updated>
+  <updated>2026-08-26T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Qwen3.8-Flash-Next: Day-0 Support in SGLang</title>
+    <link href="https://lmsys.org/blog/2026-08-26-qwen-flash-next"/>
+    <id>0628e786579c9c4f98cfec61382fcc2e</id>
+    <published>2026-08-26T00:00:00+00:00</published>
+    <updated>2026-08-26T00:00:00+00:00</updated>
+    <summary type="text">Today, the Qwen team open-sourced Qwen3.8-Flash-Next, a multimodal MoE model and an early preview of the Qwen4 architecture. It plays the same role for Qwen4 that Qwen3-Next played for Qwen3.5. The Ga...</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Chasing the Batch-1 Floor: Ling-3.0-flash Speculative Decode on Blackwell</title>
     <link href="https://lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell"/>

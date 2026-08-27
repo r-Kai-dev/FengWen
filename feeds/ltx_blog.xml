@@ -4,10 +4,37 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-08-19T00:00:00+00:00</updated>
+  <updated>2026-08-26T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>How To Use A Community LoRA With LTX-2.5</title>
+    <link href="https://ltx.io/blog/how-to-use-a-community-lora"/>
+    <id>b1074b62c327a881e87b4783e4e97ff6</id>
+    <published>2026-08-26T00:00:00+00:00</published>
+    <updated>2026-08-26T00:00:00+00:00</updated>
+    <summary type="text">How to load, tune, and stack community LoRAs with LTX-2.5, plus what the new architecture means for your existing LTX-2.3 adapters.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>Integrating AI Video Generation Into A VFX Pipeline</title>
+    <link href="https://ltx.io/blog/integrating-ai-video-into-vfx-pipeline"/>
+    <id>41a1779e7eb32bab216047937bf53468</id>
+    <published>2026-08-26T00:00:00+00:00</published>
+    <updated>2026-08-26T00:00:00+00:00</updated>
+    <summary type="text">A practical guide to integrating AI video generation into a VFX pipeline with LTX-2.5: where it fits, which pipeline to use, and how to move the frames.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Open Source vs Closed Source Video Models</title>
+    <link href="https://ltx.io/blog/open-source-vs-closed-source-video-models"/>
+    <id>ad966544fe9211fdff47839133f45eab</id>
+    <published>2026-08-26T00:00:00+00:00</published>
+    <updated>2026-08-26T00:00:00+00:00</updated>
+    <summary type="text">Open source vs closed source AI video models compared: control, cost, IP, and deployment, plus where an open source ai video generator like LTX-2.5 fits.</summary>
+    <category term="Production"/>
+  </entry>
   <entry>
     <title>Meet LTX Explore: The Fastest Way to Experience LTX</title>
     <link href="https://ltx.io/blog/meet-ltx-explore-the-fastest-way-to-experience-ltx"/>
@@ -402,33 +429,6 @@
     <published>2026-07-05T00:00:00+00:00</published>
     <updated>2026-07-05T00:00:00+00:00</updated>
     <summary type="text">Compare the best AI image generators in 2026 for creating stunning visuals. Professional tools for marketers, designers, and filmmakers, ranked and reviewed.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>AI Image Prompts: Image Prompting Guide With Examples (2026)</title>
-    <link href="https://ltx.io/blog/ai-image-prompt-guide"/>
-    <id>981c62b1c76c0be85285bc0a48f00dbc</id>
-    <published>2026-07-05T00:00:00+00:00</published>
-    <updated>2026-07-05T00:00:00+00:00</updated>
-    <summary type="text">Learn how to write effective AI image prompts in 2026. Real examples for FLUX.2 Pro, Nano Banana Pro, Z-Image, and other top models — improve accuracy, style, and creative control.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How To Use AI Videos To Increase Sales In 2026</title>
-    <link href="https://ltx.io/blog/ai-videos-to-increase-sales"/>
-    <id>497cfa8fc84e936072c6a224bf5f5b17</id>
-    <published>2026-07-05T00:00:00+00:00</published>
-    <updated>2026-07-05T00:00:00+00:00</updated>
-    <summary type="text">How sales teams use AI video to drive conversions at every funnel stage — and why LTX Studio is the only tool that covers the full production workflow.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>The Best AI Video Workflow Guide &amp; Tool Stack (2026)</title>
-    <link href="https://ltx.io/blog/ai-video-workflow"/>
-    <id>dfc715f0b85d29d9d2fb4b2d5b6b759c</id>
-    <published>2026-07-05T00:00:00+00:00</published>
-    <updated>2026-07-05T00:00:00+00:00</updated>
-    <summary type="text">Stop losing time to tool-switching and handoffs. Learn how to build an AI video workflow that takes your project from concept to export in one place.</summary>
     <category term="Production"/>
   </entry>
   <entry>

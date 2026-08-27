@@ -4,7 +4,35 @@
   <icon>https://fireworks.ai/favicon.ico</icon>
   <link href="https://fireworks.ai/blog"/>
   <id>https://fireworks.ai/blog</id>
-  <updated>2026-08-12T00:00:00+00:00</updated>
+  <updated>2026-08-26T01:09:39.750000+00:00</updated>
+  <entry>
+    <title>DeepSeek V4 Pro: Tops SWE-Bench &amp; Cuts Cost per Task by 3x vs. Fable 5</title>
+    <link href="https://fireworks.ai/blog/DeepSeekV4Pro-Fable5"/>
+    <id>fe2db69e38207b6d38426a687e70b688</id>
+    <published>2026-08-26T01:09:39.750000+00:00</published>
+    <updated>2026-08-26T01:09:39.750000+00:00</updated>
+    <summary type="text">DeepSeek V4 Pro: Tops SWE-Bench &amp; Cuts Cost per Task by 3x vs. Fable 5</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/b15943d497068ccdc9fae6b6991d68c6f2e1f553-1920x1080.svg&quot; alt=&quot;DeepSeek V4 Pro: Tops SWE-Bench &amp; Cuts Cost per Task by 3x vs. Fable 5&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>DeepSeek V4 Pro is Redefining Security Agent Economics</title>
+    <link href="https://fireworks.ai/blog/DeepSeek-V4-Pro-Security"/>
+    <id>6bd1fd0323baa35ef3a3fde973041126</id>
+    <published>2026-08-26T00:42:01.853000+00:00</published>
+    <updated>2026-08-26T00:42:01.853000+00:00</updated>
+    <summary type="text">DeepSeek V4 Pro is Redefining Security Agent Economics</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/56a91b9c555658c79f69c6ad01cd14c479955596-1920x1080.svg&quot; alt=&quot;DeepSeek V4 Pro is Redefining Security Agent Economics&quot; /&gt;</content>
+  </entry>
+  <entry>
+    <title>Post-training Kimi K3 with Harvey for long-horizon legal work</title>
+    <link href="https://fireworks.ai/blog/post-training-kimi-k3-with-harvey-for-long-horizon-legal-work"/>
+    <id>26240d7007ff8ec4e1440b49762db9f8</id>
+    <published>2026-08-26T00:00:00+00:00</published>
+    <updated>2026-08-26T00:00:00+00:00</updated>
+    <summary type="text">Harvey recently announced its first model, Tenet, post-trained in collaboration with Fireworks for long-horizon legal work.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/03a83820f4a30b93b5a95a5b68ccdf8ce38bc67f-1600x900.png&quot; alt=&quot;Post-training Kimi K3 with Harvey for long-horizon legal work&quot; /&gt;
+&lt;p&gt;Harvey recently announced its first model, Tenet, post-trained in collaboration with Fireworks for long-horizon legal work.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Can open models carry readable silent signals before they speak? Reproducing J-Lens Readouts on Kimi K3 &amp; Qwen3.5-9B</title>
     <link href="https://fireworks.ai/blog/J-Lens-Kimi-K3-Qwen"/>
@@ -458,32 +486,5 @@
     <updated>2026-01-30T00:00:00+00:00</updated>
     <summary type="text">The Missing Piece of the OpenClaw Mania: Truly ‘Own Your AI’ with Fireworks</summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/166f02832179cb3582358ffc5a7d372a88569c72-1280x720.png&quot; alt=&quot;The Missing Piece of the OpenClaw Mania: Truly ‘Own Your AI’ with Fireworks&quot; /&gt;</content>
-  </entry>
-  <entry>
-    <title>Build powerful agents on OSS models with Blazing Fast Inference on Fireworks</title>
-    <link href="https://fireworks.ai/blog/blazing-fast-inference-on-top-oss-models"/>
-    <id>3efa0955e764f8dd698a9fc79ad17662</id>
-    <published>2026-01-27T00:00:00+00:00</published>
-    <updated>2026-01-27T00:00:00+00:00</updated>
-    <summary type="text">Build powerful agents on OSS models with Blazing Fast Inference on Fireworks</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/406d566e817f3fd84f4c8711926d08c179484eac-4800x2700.png&quot; alt=&quot;Build powerful agents on OSS models with Blazing Fast Inference on Fireworks&quot; /&gt;</content>
-  </entry>
-  <entry>
-    <title>Kimi K2.5 is Live on Fireworks: Vibe Coding, Agents, and Full-Parameter RFT</title>
-    <link href="https://fireworks.ai/blog/kimi-k2p5"/>
-    <id>29e08e85d48dbcd32324e778d0f8dc41</id>
-    <published>2026-01-26T00:00:00+00:00</published>
-    <updated>2026-01-26T00:00:00+00:00</updated>
-    <summary type="text">Kimi K2.5 is Live on Fireworks: Vibe Coding, Agents, and Full-Parameter RFT</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/88bc8b13ec3f5684bb3ba998d9b9d855f29d4e9e-4800x2700.png&quot; alt=&quot;Kimi K2.5 is Live on Fireworks: Vibe Coding, Agents, and Full-Parameter RFT&quot; /&gt;</content>
-  </entry>
-  <entry>
-    <title>Turning Production Logs into Evaluation Datasets: A Data-Driven Approach</title>
-    <link href="https://fireworks.ai/blog/Turning-Production-Logs-into-Evaluation-Datasets"/>
-    <id>27d34955f7dfa9a9d43ca8c9c735dc29</id>
-    <published>2026-01-23T00:00:00+00:00</published>
-    <updated>2026-01-23T00:00:00+00:00</updated>
-    <summary type="text">Turning Production Logs into Evaluation Datasets: A Data-Driven Approach</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/0f48257ec0104285330680109b47340d5df0c295-1600x900.png&quot; alt=&quot;Turning Production Logs into Evaluation Datasets: A Data-Driven Approach&quot; /&gt;</content>
   </entry>
 </feed>

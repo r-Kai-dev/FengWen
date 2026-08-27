@@ -4,14 +4,34 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/papers"/>
   <id>https://huggingface.co/papers</id>
-  <updated>2026-08-16T20:00:00.000Z</updated>
+  <updated>2026-08-23T20:00:00.000Z</updated>
+  <entry>
+    <title>Prime Agent: A Self-Improving RLM Harness</title>
+    <link href="https://arxiv.org/abs/2608.23552"/>
+    <id>a43e1614250242d15ddc73077e4814bf</id>
+    <published>2026-08-23T20:00:00.000Z</published>
+    <updated>2026-08-23T20:00:00.000Z</updated>
+    <summary type="text">Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long... \u00b7 Upvotes: 39 \u00b7 GitHub Stars: 18642 \u00b7 Authors: Seth Karten, Alex L. Zhang, Kevin Thomas</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
   <entry>
     <title>FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution</title>
     <link href="https://arxiv.org/abs/2608.16157"/>
     <id>ce322cd925b1d960689b98de49a27747</id>
     <published>2026-08-16T20:00:00.000Z</published>
     <updated>2026-08-16T20:00:00.000Z</updated>
-    <summary type="text">Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal... \u00b7 Upvotes: 93 \u00b7 GitHub Stars: 7304 \u00b7 Authors: Shuo Yang, Xiaoze Fan, Melissa Pan</summary>
+    <summary type="text">Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal... \u00b7 Upvotes: 97 \u00b7 GitHub Stars: 8271 \u00b7 Authors: Shuo Yang, Xiaoze Fan, Melissa Pan</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture</title>
+    <link href="https://arxiv.org/abs/2608.15875"/>
+    <id>1baf6dbae514d7ad8ad4de62979178d2</id>
+    <published>2026-08-15T20:00:00.000Z</published>
+    <updated>2026-08-15T20:00:00.000Z</updated>
+    <summary type="text">Vision-language-action (VLA) models have become a dominant paradigm for generalist embodied agents, demonstrating strong complex and long-horizon task completion in structured settings. Yet it remains... \u00b7 Upvotes: 91 \u00b7 GitHub Stars: 2611 \u00b7 Authors: GigaBrain Team, Angen Ye, Axiang Sun</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +41,7 @@
     <id>519faa86d750a357aaad285fd5e41dec</id>
     <published>2026-08-14T20:00:00.000Z</published>
     <updated>2026-08-14T20:00:00.000Z</updated>
-    <summary type="text">Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro... \u00b7 Upvotes: 438 \u00b7 GitHub Stars: 497 \u00b7 Authors: Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang</summary>
+    <summary type="text">Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro... \u00b7 Upvotes: 441 \u00b7 GitHub Stars: 544 \u00b7 Authors: Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +51,7 @@
     <id>ff31056e683b049c349bea47fee72656</id>
     <published>2026-08-09T20:00:00.000Z</published>
     <updated>2026-08-09T20:00:00.000Z</updated>
-    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 752 \u00b7 GitHub Stars: 5892 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
+    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 756 \u00b7 GitHub Stars: 6342 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +61,7 @@
     <id>4b901c5ea2885743689e415c67ccd092</id>
     <published>2026-08-09T20:00:00.000Z</published>
     <updated>2026-08-09T20:00:00.000Z</updated>
-    <summary type="text">Macaron-V1 is an open agent-model family for experiential intelligence: learning from experience in real environments and continuing to learn after deployment. It is organized around two system goals.... \u00b7 Upvotes: 340 \u00b7 Authors: Mind Lab, Vin Bo, Asher Cai</summary>
+    <summary type="text">Macaron-V1 is an open agent-model family for experiential intelligence: learning from experience in real environments and continuing to learn after deployment. It is organized around two system goals.... \u00b7 Upvotes: 341 \u00b7 Authors: Mind Lab, Vin Bo, Asher Cai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,27 +71,7 @@
     <id>b3bf71e004d5f291fada95cb9e8d41d5</id>
     <published>2026-08-06T20:00:00.000Z</published>
     <updated>2026-08-06T20:00:00.000Z</updated>
-    <summary type="text">No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and... \u00b7 Upvotes: 109 \u00b7 GitHub Stars: 2532 \u00b7 Authors: Tao Feng, Fangxu Yu, Haozhen Zhang</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion</title>
-    <link href="https://arxiv.org/abs/2608.03974"/>
-    <id>25830a5d70fafbe9ac6d0ff7039c8afe</id>
-    <published>2026-08-03T20:00:00.000Z</published>
-    <updated>2026-08-03T20:00:00.000Z</updated>
-    <summary type="text">Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a ... \u00b7 Upvotes: 102 \u00b7 GitHub Stars: 1656 \u00b7 Authors: Yicheng Xiao, Wenxun Dai, Xinran Qin</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>MatrAIx: Simulating the World with 8.3 Billion Persona Agents</title>
-    <link href="https://arxiv.org/abs/2608.04205"/>
-    <id>10350ddf167299ffc31e6f812ba98e91</id>
-    <published>2026-08-03T20:00:00.000Z</published>
-    <updated>2026-08-03T20:00:00.000Z</updated>
-    <summary type="text">Human evaluation of AI systems and digital products is costly, slow, and difficult to scale. Offline evaluations are more scalable but often abstract away human diversity and interactive behavior. We ... \u00b7 Upvotes: 49 \u00b7 GitHub Stars: 1556 \u00b7 Authors: Xiaomin Li, Yuexing Hao, Jianheng Hou</summary>
+    <summary type="text">No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and... \u00b7 Upvotes: 109 \u00b7 GitHub Stars: 2548 \u00b7 Authors: Tao Feng, Fangxu Yu, Haozhen Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -101,7 +101,7 @@
     <id>fb8363ee0bc1d821564c7b8a6d243b65</id>
     <published>2026-07-26T20:00:00.000Z</published>
     <updated>2026-07-26T20:00:00.000Z</updated>
-    <summary type="text">We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ... \u00b7 Upvotes: 506 \u00b7 GitHub Stars: 8618 \u00b7 Authors: Kimi Team, Tongtong Bai, Yifan Bai</summary>
+    <summary type="text">We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ... \u00b7 Upvotes: 508 \u00b7 GitHub Stars: 8628 \u00b7 Authors: Kimi Team, Tongtong Bai, Yifan Bai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

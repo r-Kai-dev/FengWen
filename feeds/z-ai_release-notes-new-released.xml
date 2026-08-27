@@ -4,10 +4,20 @@
   <icon>https://docs.z.ai/favicon.ico</icon>
   <link href="https://docs.z.ai/release-notes/new-released"/>
   <id>https://docs.z.ai/release-notes/new-released</id>
-  <updated>2026-08-18T00:00:00+00:00</updated>
+  <updated>2026-08-26T00:00:00+00:00</updated>
   <author>
     <name>Z.AI</name>
   </author>
+  <entry>
+    <title>GLM-5.3-Flash</title>
+    <link href="https://docs.z.ai/release-notes/new-released"/>
+    <id>0b7fcf14a61aef6a22644aa5add04d4f</id>
+    <published>2026-08-26T00:00:00+00:00</published>
+    <updated>2026-08-26T00:00:00+00:00</updated>
+    <summary type="text">Native visual capabilities enable the model to observe interfaces, rendering results, and interaction feedback—creating a closed loop across code, browsers, and GUIs. Efficient hybrid architecture: Combines linear and sparse attention with 320B total parameters and 18B activated, significantly reducing compute and KV-cache requirements.</summary>
+    <category term="Release Notes"/>
+    <category term="Models"/>
+  </entry>
   <entry>
     <title>GLM-5.3</title>
     <link href="https://docs.z.ai/release-notes/new-released"/>

@@ -6,8 +6,75 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-08-11T00:00:00.000Z</updated>
+  <updated>2026-08-26T00:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>Kling 3.0 API Access: Guide, Pricing, Code Examples for multi-shot AI video</title>
+    <link href="https://www.krea.ai/blog/kling-3-0-api-access-guide-pricing-code-examples-for-multi-shot-ai-video"/>
+    <id>https://www.krea.ai/blog/kling-3-0-api-access-guide-pricing-code-examples-for-multi-shot-ai-video</id>
+    <updated>2026-08-26T00:00:00.000Z</updated>
+    <published>2026-08-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Call the Kling 3.0 API on Krea: endpoint, working JavaScript and Python, measured prices and render times, and the multi_prompt field that directs timed shots.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/kling-3-0-api-access-guide-pricing-code-examples-for-multi-shot-ai-video/agent/thumbnail.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.0 API Access: Guide, Pricing, Code Examples for video generation</title>
+    <link href="https://www.krea.ai/blog/seedance-2-0-api-access-guide-pricing-code-examples-for-video-generation"/>
+    <id>https://www.krea.ai/blog/seedance-2-0-api-access-guide-pricing-code-examples-for-video-generation</id>
+    <updated>2026-08-26T00:00:00.000Z</updated>
+    <published>2026-08-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Seedance 2.0 API access on Krea: the endpoint, a runnable file, every parameter, measured generation times, and what a 1080p clip actually costs.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/seedance-2-0-api-access-guide-pricing-code-examples-for-video-generation/agent/thumbnail.mp4" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.5 API Access: Guide, Features, Code Examples for long-form video</title>
+    <link href="https://www.krea.ai/blog/seedance-2-5-api-access-guide-features-code-examples-for-long-form-video"/>
+    <id>https://www.krea.ai/blog/seedance-2-5-api-access-guide-features-code-examples-for-long-form-video</id>
+    <updated>2026-08-26T00:00:00.000Z</updated>
+    <published>2026-08-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Seedance 2.5 API access: 30 second single-shot generations, 30 reference images, and how it differs from Seedance 2.0, with runnable code and measured render times.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/seedance-2-5-api-access-guide-features-code-examples-for-long-form-video/agent/thumbnail.mp4" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.5 Makes a Full 30-Second UGC Ad in One Shot (2026 Guide)</title>
+    <link href="https://www.krea.ai/blog/seedance-2-5-makes-a-full-30-second-ugc-ad-in-one-shot-2026-guide"/>
+    <id>https://www.krea.ai/blog/seedance-2-5-makes-a-full-30-second-ugc-ad-in-one-shot-2026-guide</id>
+    <updated>2026-08-26T00:00:00.000Z</updated>
+    <published>2026-08-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Make a full 30-second UGC video ad in one Seedance 2.5 generation from two reference images. The exact prompts, the script rules, and measured render times.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/seedance-2-5-makes-a-full-30-second-ugc-ad-in-one-shot-2026-guide/agent/thumbnail.mp4" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.5 vs Kling 3.0: Which AI Video Model Should You Choose?</title>
+    <link href="https://www.krea.ai/blog/seedance-2-5-vs-kling-3-0-which-ai-video-model-should-you-choose"/>
+    <id>https://www.krea.ai/blog/seedance-2-5-vs-kling-3-0-which-ai-video-model-should-you-choose</id>
+    <updated>2026-08-26T00:00:00.000Z</updated>
+    <published>2026-08-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="seedance-2-5"/>
+    <summary>Seedance 2.5 vs Kling 3.0: compare AI video model limits, references, duration, resolution, and pricing to pick the right one fast.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/seedance-2-5-vs-kling-3-0-which-ai-video-model-should-you-choose/agent/thumbnail.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.5 vs Seedance 2.0: Tested on a Real Fashion Brief</title>
+    <link href="https://www.krea.ai/blog/seedance-2-5-vs-seedance-2-0-tested-on-a-real-fashion-brief"/>
+    <id>https://www.krea.ai/blog/seedance-2-5-vs-seedance-2-0-tested-on-a-real-fashion-brief</id>
+    <updated>2026-08-26T00:00:00.000Z</updated>
+    <published>2026-08-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Seedance 2.5 vs Seedance 2.0, tested on Krea with a real fashion brief: matched generations checking truth to the clothes, prompt alignment, multi-reference handling, take length, and native resolution.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/seedance-2-5-vs-seedance-2-0-tested-on-a-real-fashion-brief/agent/thumbnail.jpg" type="image/webp"/>
+  </entry>
   <entry>
     <title>Best Color Combinations: 5 Aesthetic Palettes to Try in 2026</title>
     <link href="https://www.krea.ai/blog/best-color-combinations-5-aesthetic-palettes-to-try-in-2026"/>
@@ -98,7 +165,7 @@
     <link rel="enclosure" href="https://s.krea.ai/train-in-cluster-infer-anywhere/hero.webp" type="image/webp"/>
   </entry>
   <entry>
-    <title>10 Best MiniMax H3 Prompts for AI Film, Influencers, and Omni-Reference (2026)</title>
+    <title>MiniMax H3 Prompting Guide: 10 Best Prompts for AI Film, Influencers, and Omni-Reference (2026)</title>
     <link href="https://www.krea.ai/blog/10-best-minimax-h3-prompts-for-ai-film-influencers-and-omni-reference-2026"/>
     <id>https://www.krea.ai/blog/10-best-minimax-h3-prompts-for-ai-film-influencers-and-omni-reference-2026</id>
     <updated>2026-08-05T00:00:00.000Z</updated>
@@ -106,7 +173,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <category term="hailuo-3"/>
-    <summary>Discover 10 MiniMax H3 prompts for AI film, influencers, and omni-reference setups that keep timing, audio, and references coherent in 2026.</summary>
+    <summary>A practical MiniMax H3 (Hailuo 3) prompting guide: how to structure a prompt brief, plus 10 copy-paste prompts for AI film, influencer continuity, and omni-reference control.</summary>
     <link rel="enclosure" href="https://s.krea.ai/thumbnail.webp" type="image/webp"/>
   </entry>
   <entry>
@@ -290,7 +357,7 @@
     <published>2026-07-16T00:00:00.000Z</published>
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
-    <summary>Explore the best AI video models on Krea in 2026, ranked for quality, character continuity, motion, audio, and creative control.</summary>
+    <summary>Compare Veo 3.1, Seedance 2.5, Kling 3.0, Sora 2, and Runway Gen-4.5 on Krea in 2026, ranked for quality, character continuity, motion, audio, and creative control.</summary>
     <link rel="enclosure" href="https://s.krea.ai/the-5-best-ai-video-models-on-krea-in-2026/thumbnail.jpg" type="image/webp"/>
   </entry>
   <entry>
@@ -529,71 +596,5 @@
     <category term="guides"/>
     <summary>Learn how to switch to Krea API mode, create an API token, name it, and store it safely after creation.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-create-api-token-in-krea/agent/1780617924953-06-token-name-ready-redacted.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Introducing Krea 2 Turbo</title>
-    <link href="https://www.krea.ai/blog/krea-2-turbo"/>
-    <id>https://www.krea.ai/blog/krea-2-turbo</id>
-    <updated>2026-06-03T00:00:00.000Z</updated>
-    <published>2026-06-03T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="product"/>
-    <summary>Generate high-quality images in just 2 seconds with a faster Krea 2 experience, compatible with style references, moodboards, and LoRAs.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/dynamic_vibrant_minimal_illustration_of_a_rabbit_riding_a_motocross_bike_mid-air_extreme_wide_angle_i3dghnrmc0189glbqpgq_2.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>&quot;Reality is so boring&quot; – Krea Podcast with Boldtron, Serialcut, and Remembering_orion</title>
-    <link href="https://www.krea.ai/blog/krea-podcast-episode-1"/>
-    <id>https://www.krea.ai/blog/krea-podcast-episode-1</id>
-    <updated>2026-06-02T00:00:00.000Z</updated>
-    <published>2026-06-02T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="podcast"/>
-    <summary>A short Krea podcast interview with Boldtron on AI, creative confidence, surreal image-making and creating the things you wish existed.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/gYL2cYou2X0-HD.jpg" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>AI Tools for Generating Lifestyle Product Shots</title>
-    <link href="https://www.krea.ai/blog/ai-tools-lifestyle-product-shots"/>
-    <id>https://www.krea.ai/blog/ai-tools-lifestyle-product-shots</id>
-    <updated>2026-05-29T00:00:00.000Z</updated>
-    <published>2026-05-29T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>If you are short on time: Krea 2 inside Krea is the best fit when you want flexible lifestyle product shots, campaign concepts, and editable product scenes in</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/ai-tools-lifestyle-product-shots/1780079378980-0-c43b7911-4a8d-4c95-8564-3c5bd32bae46.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>AI Tools for Creating Product Mockups and Packaging Renders</title>
-    <link href="https://www.krea.ai/blog/ai-tools-product-mockups-packaging-renders"/>
-    <id>https://www.krea.ai/blog/ai-tools-product-mockups-packaging-renders</id>
-    <updated>2026-05-29T00:00:00.000Z</updated>
-    <published>2026-05-29T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>If you are short on time: Krea 2 is the best fit when you want fast creative directions for product mockups, packaging concepts, and launch visuals. Use a</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/ai-tools-product-mockups-packaging-renders/1780080664910-0-d0f91406-7650-4425-b690-2b6c259ecd83.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>LoRAs for Krea 2 Are Coming to Train Tool</title>
-    <link href="https://www.krea.ai/blog/public-loras-krea-2-train"/>
-    <id>https://www.krea.ai/blog/public-loras-krea-2-train</id>
-    <updated>2026-05-29T00:00:00.000Z</updated>
-    <published>2026-05-29T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="product"/>
-    <summary>A preview of Krea 2 LoRA training in Krea Train, where creators can train styles, characters, and objects, then keep them private or share them publicly.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-loras-available-to-everyone/1780351035099-hjwbbgjawaanilq.jpg" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>We are partnering with Henning Larsen</title>
-    <link href="https://www.krea.ai/blog/we-are-partnering-with-henning-larsen"/>
-    <id>https://www.krea.ai/blog/we-are-partnering-with-henning-larsen</id>
-    <updated>2026-05-29T00:00:00.000Z</updated>
-    <published>2026-05-29T00:00:00.000Z</published>
-    <author><name>Diego Rodriguez</name></author>
-    <category term="case-studies"/>
-    <summary>Krea partners with Henning Larsen Architects to integrate AI-powered design tools into their architectural workflow.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/henning.webp" type="image/webp"/>
   </entry>
 </feed>
