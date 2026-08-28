@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-08-26T00:00:00+00:00</updated>
+  <updated>2026-08-27T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>The Deepfake Watchlist: Week of August 21-27, 2026</title>
+    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-august-21-27-2026"/>
+    <id>8a531416b48bb64ec741f4fc0e5c7776</id>
+    <published>2026-08-27T00:00:00+00:00</published>
+    <updated>2026-08-27T00:00:00+00:00</updated>
+    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
+    <category term="Deepfake Watchlist"/>
+  </entry>
   <entry>
     <title>DETECT-World Is Live on Eden AI: Deepfake Detection Through a Single API</title>
     <link href="https://www.resemble.ai/resources/detect-world-eden-ai-deepfake-detection-api"/>
@@ -106,15 +115,6 @@
     <updated>2026-08-12T00:00:00+00:00</updated>
     <summary type="text">Explore Resemble AI’s H1 2026 Deepfake Threat Report. Uncover key data on rising synthetic media attacks, fraud losses, and defense strategies for enterprise.</summary>
     <category term="Report"/>
-  </entry>
-  <entry>
-    <title>A Deep Dive Into Air-Gapped Deepfake Detection</title>
-    <link href="https://www.resemble.ai/resources/air-gapped-deepfake-detection-importance"/>
-    <id>65b845360136b5ea2b4e5d2b62198a38</id>
-    <published>2026-08-11T00:00:00+00:00</published>
-    <updated>2026-08-11T00:00:00+00:00</updated>
-    <summary type="text">Learn how air-gapped deepfake detection works, what compliance requires, and how to build an offline detection workflow that holds up under audit.</summary>
-    <category term="Blog"/>
   </entry>
   <entry>
     <title>Top 10 Deepfake Detection Tools for Enterprise Security in 2026</title>

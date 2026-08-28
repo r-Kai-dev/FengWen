@@ -4,29 +4,40 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-26T22:19:23+00:00</updated>
+  <updated>2026-08-27T20:06:03.845000+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>智谱发布GLM-5.3-Flash，匿名模型OX Alpha正式亮相</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685603&amp;idx=1&amp;sn=91bbef667086bed84b6f213be79733aa"/>
-    <id>27c18dc8362d315e231fc3ef78332d55</id>
-    <published>2026-08-26T22:19:23+00:00</published>
-    <updated>2026-08-26T22:19:23+00:00</updated>
-    <summary type="text">Score: 0.782\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力 / Gemini Omni 1.1 Flash</title>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash"/>
+    <id>1d3e03830ae2ffd2ecfe5fd2de8fe45f</id>
+    <published>2026-08-27T20:06:03.845000+00:00</published>
+    <updated>2026-08-27T20:06:03.845000+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>全球模型政策现已全面可用 / Global model policy generally available</title>
-    <link href="https://github.blog/changelog/2026-08-26-global-model-policy-generally-available"/>
-    <id>3da7e3a3c6054b3888db985dd876fef8</id>
-    <published>2026-08-26T22:08:38+00:00</published>
-    <updated>2026-08-26T22:08:38+00:00</updated>
-    <summary type="text">Score: 0.840\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91） / Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group</title>
+    <link href="https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200"/>
+    <id>b1c4d1c2fd3ab8f9645817f45d65998b</id>
+    <published>2026-08-27T17:57:02.062000+00:00</published>
+    <updated>2026-08-27T17:57:02.062000+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>关闭被屏蔽用户的所有未关闭贡献。 / Close all open contributions authored by a blocked user</title>
+    <link href="https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user"/>
+    <id>40e17742076caa88e557dac27e0cb34c</id>
+    <published>2026-08-27T16:30:52+00:00</published>
+    <updated>2026-08-27T16:30:52+00:00</updated>
+    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -34,24 +45,25 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%</title>
-    <link href="https://www.ithome.com/0/994/791.htm"/>
-    <id>c35f03c397e1d6a9a166cddf187798e0</id>
-    <published>2026-08-26T20:25:54+00:00</published>
-    <updated>2026-08-26T20:25:54+00:00</updated>
-    <summary type="text">Score: 0.766\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 失控智能体集体逃逸沙箱并攻击&quot;幽灵&quot;评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost</title>
+    <link href="https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost"/>
+    <id>c29c528c61cb3ab24fef9628616df293</id>
+    <published>2026-08-27T16:19:46+00:00</published>
+    <updated>2026-08-27T16:19:46+00:00</updated>
+    <summary type="text">Score: 0.782\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>GitHub Copilot 应用入门：自动化 Dependabot 拉取请求分类 / GitHub Copilot app for Beginners: Automate Dependabot pull request triage</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage"/>
-    <id>70999a92d97277eeab589184fd30e9b6</id>
-    <published>2026-08-26T20:12:53+00:00</published>
-    <updated>2026-08-26T20:12:53+00:00</updated>
-    <summary type="text">Score: 0.844\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control</title>
+    <link href="https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control"/>
+    <id>ea7b99d16660fea91198b60e9bcfd5ff</id>
+    <published>2026-08-27T16:11:32+00:00</published>
+    <updated>2026-08-27T16:11:32+00:00</updated>
+    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -59,47 +71,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GlucoFM：面向连续血糖监测的基础模型 / GlucoFM： Foundation model for continuous glucose monitoring</title>
-    <link href="https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring"/>
-    <id>908e5b0daf59e8074e74d25d1d878c3d</id>
-    <published>2026-08-26T20:10:19.416000+00:00</published>
-    <updated>2026-08-26T20:10:19.416000+00:00</updated>
-    <summary type="text">Score: 0.780\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Claude in Chrome 正式全面上线 / Claude in Chrome is generally available</title>
-    <link href="https://claude.com/blog/claude-in-chrome-generally-available"/>
-    <id>c851e424b0dd11f131509600841a288f</id>
-    <published>2026-08-26T18:02:41.262000+00:00</published>
-    <updated>2026-08-26T18:02:41.262000+00:00</updated>
-    <summary type="text">Score: 0.754\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude</title>
-    <link href="https://www.anthropic.com/research/enabling-independent-research"/>
-    <id>4d3ae02bd4623ba21d9c8193e7a3f744</id>
-    <published>2026-08-26T17:30:30.074000+00:00</published>
-    <updated>2026-08-26T17:30:30.074000+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe</title>
-    <link href="https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe"/>
-    <id>161df731820905a1aad82f3f2103118d</id>
-    <published>2026-08-26T17:01:00+00:00</published>
-    <updated>2026-08-26T17:01:00+00:00</updated>
-    <summary type="text">Score: 0.836\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Search 中规划与预订旅行的 3 种全新方式 / 3 new ways to plan and book travel in Search</title>
+    <link href="https://blog.google/products-and-platforms/products/search/book-travel-ai-mode"/>
+    <id>6a149412e0f9fde792552e494715dcb3</id>
+    <published>2026-08-27T16:00:00+00:00</published>
+    <updated>2026-08-27T16:00:00+00:00</updated>
+    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -107,72 +84,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！</title>
-    <link href="https://x.com/Alibaba_Qwen/status/2092636376990990503"/>
-    <id>760c3c3cd795c956cdf5ea91498a80d4</id>
-    <published>2026-08-26T15:32:46+00:00</published>
-    <updated>2026-08-26T15:32:46+00:00</updated>
-    <summary type="text">Score: 0.784\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&amp;mid=2247494157&amp;idx=1&amp;sn=6837b15a07d2518842eb6c6b53a3eb3c"/>
-    <id>eaa71d8a86e90d071938bbf5dd60d9b2</id>
-    <published>2026-08-26T14:11:33+00:00</published>
-    <updated>2026-08-26T14:11:33+00:00</updated>
-    <summary type="text">Score: 0.778\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Qwen 开源 Qwen3.8-Flash-Next，SGLang 提供 Day-0 支持 / Blog Qwen3.8-Flash-Next： Day-0 Support in SGLang Today， the Qwen team open-sourced Qwen3.8-Flash-Next， a multimodal MoE model and an early preview of the Qwen4 architecture. It plays the same role for Qwen4 that Qwen3-Next played for Qwen3.5. The Ga… SGLang Team</title>
-    <link href="https://www.lmsys.org/blog/2026-08-26-qwen-flash-next"/>
-    <id>549baee5eb8068e93f6bf007fe0978c9</id>
-    <published>2026-08-26T13:56:55.513000+00:00</published>
-    <updated>2026-08-26T13:56:55.513000+00:00</updated>
-    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…</title>
-    <link href="https://x.com/Alibaba_Qwen/status/2092591393424515114"/>
-    <id>2e64cf1b2ea2e82cb403f069f881672d</id>
-    <published>2026-08-26T12:34:01+00:00</published>
-    <updated>2026-08-26T12:34:01+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency</title>
-    <link href="https://qwen.ai/blog?id=qwen3.8-flash-next"/>
-    <id>38303da476645e9b54f74bac95a14e5b</id>
-    <published>2026-08-26T12:30:00+00:00</published>
-    <updated>2026-08-26T12:30:00+00:00</updated>
-    <summary type="text">Score: 0.849\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>GitHub Apps 现在可以访问企业账单数据 / GitHub Apps can now access enterprise billing data</title>
-    <link href="https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data"/>
-    <id>111e4d4e202710056154ceb884289c1a</id>
-    <published>2026-08-26T12:18:59+00:00</published>
-    <updated>2026-08-26T12:18:59+00:00</updated>
-    <summary type="text">Score: 0.817\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>推出全球首个双盲 AI 评估 / Piloting the world's first double-blind AI evaluations</title>
+    <link href="https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations"/>
+    <id>6d6d23671bd40661cc60ec906339da34</id>
+    <published>2026-08-27T12:59:16+00:00</published>
+    <updated>2026-08-27T12:59:16+00:00</updated>
+    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -180,35 +97,105 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>以色列资助的假美国智库试图利用AI进行宣传</title>
-    <link href="https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"/>
-    <id>20c4494273dbf8690ca2fc77c9bc6e3f</id>
-    <published>2026-08-26T12:11:19+00:00</published>
-    <updated>2026-08-26T12:11:19+00:00</updated>
-    <summary type="text">Score: 0.850\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>MiniMax上半年收入1.17亿美元，毛利飙升464.8%</title>
-    <link href="https://www.aibase.com/news/30645"/>
-    <id>8abf95ae5aefc0d61c7d477c0c1cce0a</id>
-    <published>2026-08-26T10:51:40.773415+00:00</published>
-    <updated>2026-08-26T10:51:40.773415+00:00</updated>
-    <summary type="text">Score: 0.737\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>0day 同步！商汤小浣熊桌面端首发登陆 openKylin</title>
+    <link href="https://www.aibase.com/news/30665"/>
+    <id>eeeecbcc6f226ad876f51e3fca40f9ab</id>
+    <published>2026-08-27T09:50:21.738275+00:00</published>
+    <updated>2026-08-27T09:50:21.738275+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>学习永不停歇：AI 如何让学习持续不断 / Learning never stops: How AI makes learning continuous</title>
-    <link href="https://openai.com/index/learning-never-stops"/>
-    <id>56f67303640082e124e276fe416125af</id>
-    <published>2026-08-26T10:00:00+00:00</published>
-    <updated>2026-08-26T10:00:00+00:00</updated>
+    <title>Claude 桌面端 Cowork 内置浏览器上线，可独立完成网页操作</title>
+    <link href="https://www.aibase.com/news/30672"/>
+    <id>36e4b09ab4b154d09b9cc24bb6eb7e8b</id>
+    <published>2026-08-27T09:50:21.738275+00:00</published>
+    <updated>2026-08-27T09:50:21.738275+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队</title>
+    <link href="https://www.ithome.com/0/995/136.htm"/>
+    <id>9e7b969e13c74c48c905899b461499ca</id>
+    <published>2026-08-27T09:05:46+00:00</published>
+    <updated>2026-08-27T09:05:46+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training</title>
+    <link href="https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"/>
+    <id>4502253b432466dd49ec91bf9de5bbb7</id>
+    <published>2026-08-27T09:00:00+00:00</published>
+    <updated>2026-08-27T09:00:00+00:00</updated>
+    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>唐杰宣布GLM-5.3 Flash AA登顶OpenRouter / Ox Alpha = GLM-5.3 Flash AA = 57 ， 1/100 frontier price， Powered by pure Chinese chips. Delivered…</title>
+    <link href="https://x.com/jietang/status/2092850258573471936"/>
+    <id>3423ce87f9745bb6c91e190691ca46f1</id>
+    <published>2026-08-27T05:42:39+00:00</published>
+    <updated>2026-08-27T05:42:39+00:00</updated>
+    <summary type="text">Score: 0.730\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Expanding OpenAI’s presence in Brazil</title>
+    <link href="https://openai.com/index/expanding-our-presence-in-brazil"/>
+    <id>21a4cc3011d028f3de3fad0f99a51a72</id>
+    <published>2026-08-27T03:00:00+00:00</published>
+    <updated>2026-08-27T03:00:00+00:00</updated>
+    <summary type="text">Score: 0.812\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>企业托管设置现已支持插件市场自动更新 / Enterprise-managed settings now support autoUpdate for plugin marketplaces</title>
+    <link href="https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces"/>
+    <id>490e02faf99e1caa9e787d526c9cb0a8</id>
+    <published>2026-08-27T01:52:19+00:00</published>
+    <updated>2026-08-27T01:52:19+00:00</updated>
+    <summary type="text">Score: 0.801\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此</title>
+    <link href="https://www.ithome.com/0/994/807.htm"/>
+    <id>6f4019211c5bb6aa9ee9b6baa826c453</id>
+    <published>2026-08-27T00:20:11+00:00</published>
+    <updated>2026-08-27T00:20:11+00:00</updated>
+    <summary type="text">Score: 0.731\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.150.1</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>cb8d5b713c9c0b5184cc7561249de966</id>
+    <published>2026-08-27T00:00:00+00:00</published>
+    <updated>2026-08-27T00:00:00+00:00</updated>
     <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -217,12 +204,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>将ChatGPT for Teachers推广至更多美国学区 / Bringing ChatGPT for Teachers to more U.S. school districts</title>
-    <link href="https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"/>
-    <id>dfaa92a9563b941f6523a2116641d2da</id>
-    <published>2026-08-26T10:00:00+00:00</published>
-    <updated>2026-08-26T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.828\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>预览模型硬件标准 / Previewing the Model Hardware Standard</title>
+    <link href="https://www.anthropic.com/news/model-hardware-standard-research-preview"/>
+    <id>5188d2b186c4144f112e5b3bd8329288</id>
+    <published>2026-08-27T00:00:00+00:00</published>
+    <updated>2026-08-27T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.806\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -230,26 +217,36 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统 / The Hugging Face incident and the road ahead</title>
-    <link href="https://openai.com/index/hugging-face-incident-and-the-road-ahead"/>
-    <id>41dc1060047717a6c4fd36c786ccb1a8</id>
-    <published>2026-08-26T00:00:00+00:00</published>
-    <updated>2026-08-26T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.833\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU / Amazon just tripled its order of Nvidia chips over 'surging demand'</title>
+    <link href="https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand"/>
+    <id>b233fa52f78f144abffad1dbfd2a7e80</id>
+    <published>2026-08-26T23:47:18+00:00</published>
+    <updated>2026-08-26T23:47:18+00:00</updated>
+    <summary type="text">Score: 0.758\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>用 Sentence Transformers 训练与微调多向量嵌入模型 / Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers</title>
-    <link href="https://huggingface.co/blog/train-multi-vector-encoder"/>
-    <id>12843dc0466d358e4cefff1a76f6a79a</id>
-    <published>2026-08-26T00:00:00+00:00</published>
-    <updated>2026-08-26T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.816\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>智谱发布GLM-5.3-Flash，匿名模型OX Alpha正式亮相</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685603&amp;idx=1&amp;sn=91bbef667086bed84b6f213be79733aa"/>
+    <id>27c18dc8362d315e231fc3ef78332d55</id>
+    <published>2026-08-26T22:19:23+00:00</published>
+    <updated>2026-08-26T22:19:23+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>全球模型政策现已全面可用 / Global model policy generally available</title>
+    <link href="https://github.blog/changelog/2026-08-26-global-model-policy-generally-available"/>
+    <id>3da7e3a3c6054b3888db985dd876fef8</id>
+    <published>2026-08-26T22:08:38+00:00</published>
+    <updated>2026-08-26T22:08:38+00:00</updated>
+    <summary type="text">Score: 0.794\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>

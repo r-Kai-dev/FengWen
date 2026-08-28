@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-08-24T00:00:00+00:00</updated>
+  <updated>2026-08-27T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>An update on AI’s most important number</title>
+    <link href="https://epoch.ai/gradient-updates/an-update-on-ais-most-important-number"/>
+    <id>4a4a7b23ebe22e1e03c59b9fcf091b21</id>
+    <published>2026-08-27T00:00:00+00:00</published>
+    <updated>2026-08-27T00:00:00+00:00</updated>
+    <summary type="text">How quickly are Anthropic and OpenAI growing their revenue?</summary>
+    <category term="Newsletter"/>
+  </entry>
   <entry>
     <title>The Nvidia-sized hole in US GDP statistics</title>
     <link href="https://epoch.ai/publications/the-nvidia-sized-hole-in-us-gdp-statistics"/>
@@ -88,14 +97,5 @@
     <updated>2026-07-22T00:00:00+00:00</updated>
     <summary type="text">Expert assessments and cyber benchmarks led us to expect that frontier models were capable of executing this kind of cyberattack</summary>
     <category term="Newsletter"/>
-  </entry>
-  <entry>
-    <title>AI detectors rarely flag human writing, but sometimes miss AI text imitating real authors</title>
-    <link href="https://epoch.ai/data-insights/ai-detectors-false-negatives"/>
-    <id>2299f3347fb93ef244b2070ee330cd16</id>
-    <published>2026-07-15T00:00:00+00:00</published>
-    <updated>2026-07-15T00:00:00+00:00</updated>
-    <summary type="text">We tested Pangram, GPTZero, and Originality.ai on human and AI text. All three caught nearly every passage written from a simple prompt, but missed roughly one in five passages imitating a specific author's style.</summary>
-    <category term="Data Insight"/>
   </entry>
 </feed>
