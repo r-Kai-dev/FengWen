@@ -11,7 +11,7 @@
     <id>a74323681ed4eb2dc6059c9e65cf27b5</id>
     <published>2026-08-23T20:00:00.000Z</published>
     <updated>2026-08-23T20:00:00.000Z</updated>
-    <summary type="text">Video generation is progressing beyond isolated clips toward long-form narratives and interactive worlds, requiring models to preserve identities, follow user controls, and remain stable over extended... \u00b7 Upvotes: 19 \u00b7 GitHub Stars: 1968 \u00b7 Authors: Nan Duan, Haoyang Huang, Weiyang Jin</summary>
+    <summary type="text">Video generation is progressing beyond isolated clips toward long-form narratives and interactive worlds, requiring models to preserve identities, follow user controls, and remain stable over extended... \u00b7 Upvotes: 19 \u00b7 GitHub Stars: 1970 \u00b7 Authors: Nan Duan, Haoyang Huang, Weiyang Jin</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +21,7 @@
     <id>a43e1614250242d15ddc73077e4814bf</id>
     <published>2026-08-23T20:00:00.000Z</published>
     <updated>2026-08-23T20:00:00.000Z</updated>
-    <summary type="text">Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long... \u00b7 Upvotes: 43 \u00b7 GitHub Stars: 18945 \u00b7 Authors: Seth Karten, Alex L. Zhang, Kevin Thomas</summary>
+    <summary type="text">Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long... \u00b7 Upvotes: 45 \u00b7 GitHub Stars: 19041 \u00b7 Authors: Seth Karten, Alex L. Zhang, Kevin Thomas</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +31,7 @@
     <id>ce322cd925b1d960689b98de49a27747</id>
     <published>2026-08-16T20:00:00.000Z</published>
     <updated>2026-08-16T20:00:00.000Z</updated>
-    <summary type="text">Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal... \u00b7 Upvotes: 100 \u00b7 GitHub Stars: 9251 \u00b7 Authors: Shuo Yang, Xiaoze Fan, Melissa Pan</summary>
+    <summary type="text">Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal... \u00b7 Upvotes: 102 \u00b7 GitHub Stars: 9519 \u00b7 Authors: Shuo Yang, Xiaoze Fan, Melissa Pan</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +41,7 @@
     <id>06207a7e06e705713e7559db7404d4d8</id>
     <published>2026-08-16T20:00:00.000Z</published>
     <updated>2026-08-16T20:00:00.000Z</updated>
-    <summary type="text">A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollo... \u00b7 Upvotes: 339 \u00b7 GitHub Stars: 268 \u00b7 Authors: Weiliang Chen, Haowen Sun, Jun Gao</summary>
+    <summary type="text">A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollo... \u00b7 Upvotes: 339 \u00b7 GitHub Stars: 270 \u00b7 Authors: Weiliang Chen, Haowen Sun, Jun Gao</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +51,7 @@
     <id>1baf6dbae514d7ad8ad4de62979178d2</id>
     <published>2026-08-15T20:00:00.000Z</published>
     <updated>2026-08-15T20:00:00.000Z</updated>
-    <summary type="text">Vision-language-action (VLA) models have become a dominant paradigm for generalist embodied agents, demonstrating strong complex and long-horizon task completion in structured settings. Yet it remains... \u00b7 Upvotes: 98 \u00b7 GitHub Stars: 2623 \u00b7 Authors: GigaBrain Team, Angen Ye, Axiang Sun</summary>
+    <summary type="text">Vision-language-action (VLA) models have become a dominant paradigm for generalist embodied agents, demonstrating strong complex and long-horizon task completion in structured settings. Yet it remains... \u00b7 Upvotes: 101 \u00b7 GitHub Stars: 2623 \u00b7 Authors: GigaBrain Team, Angen Ye, Axiang Sun</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +61,7 @@
     <id>519faa86d750a357aaad285fd5e41dec</id>
     <published>2026-08-14T20:00:00.000Z</published>
     <updated>2026-08-14T20:00:00.000Z</updated>
-    <summary type="text">Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro... \u00b7 Upvotes: 445 \u00b7 GitHub Stars: 636 \u00b7 Authors: Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang</summary>
+    <summary type="text">Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro... \u00b7 Upvotes: 445 \u00b7 GitHub Stars: 689 \u00b7 Authors: Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +71,7 @@
     <id>ff31056e683b049c349bea47fee72656</id>
     <published>2026-08-09T20:00:00.000Z</published>
     <updated>2026-08-09T20:00:00.000Z</updated>
-    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 761 \u00b7 GitHub Stars: 8544 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
+    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 762 \u00b7 GitHub Stars: 8661 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,7 +91,7 @@
     <id>b3bf71e004d5f291fada95cb9e8d41d5</id>
     <published>2026-08-06T20:00:00.000Z</published>
     <updated>2026-08-06T20:00:00.000Z</updated>
-    <summary type="text">No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and... \u00b7 Upvotes: 109 \u00b7 GitHub Stars: 2619 \u00b7 Authors: Tao Feng, Fangxu Yu, Haozhen Zhang</summary>
+    <summary type="text">No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and... \u00b7 Upvotes: 110 \u00b7 GitHub Stars: 2639 \u00b7 Authors: Tao Feng, Fangxu Yu, Haozhen Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

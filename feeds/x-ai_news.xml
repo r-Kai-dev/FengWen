@@ -4,10 +4,18 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-08-26T00:00:00+00:00</updated>
+  <updated>2026-08-29T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Grok Bot now works with X</title>
+    <link href="https://x.ai/news/grok-bot-and-x"/>
+    <id>3aee9e3e243df7d995ac9dd9d412aa02</id>
+    <published>2026-08-29T00:00:00+00:00</published>
+    <updated>2026-08-29T00:00:00+00:00</updated>
+    <summary type="text">Grok Bot now has a tighter integration with X.</summary>
+  </entry>
   <entry>
     <title>Grok 4.6 on Microsoft Foundry</title>
     <link href="https://x.ai/news/grok-4-6-microsoft-foundry"/>
@@ -21,7 +29,6 @@
     <id>b7cb06b2423a7d765a35fe59a36b313d</id>
     <published>2026-08-26T00:00:00+00:00</published>
     <updated>2026-08-26T00:00:00+00:00</updated>
-    <summary type="text">Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.</summary>
   </entry>
   <entry>
     <title>Grok 4.6 on Gemini Enterprise Agent Platform</title>
@@ -43,6 +50,7 @@
     <id>b484f392a5a53b81783f6ec190fd052c</id>
     <published>2026-08-19T00:00:00+00:00</published>
     <updated>2026-08-19T00:00:00+00:00</updated>
+    <summary type="text">Grok Build is now available on every plan, on the web and on mobile.</summary>
   </entry>
   <entry>
     <title>Grok 4.6 in GitHub Copilot</title>
