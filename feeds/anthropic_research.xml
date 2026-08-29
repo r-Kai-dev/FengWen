@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-08-26T00:00:00+00:00</updated>
+  <updated>2026-08-28T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Automated researchers can reliably mitigate alignment failures</title>
+    <link href="https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"/>
+    <id>4a0dc406beb00c7af7156ecd5e7dcaeb</id>
+    <published>2026-08-28T00:00:00+00:00</published>
+    <updated>2026-08-28T00:00:00+00:00</updated>
+    <category term="Alignment"/>
+  </entry>
   <entry>
     <title>Enabling independent research on how people use Claude</title>
     <link href="https://www.anthropic.com/research/enabling-independent-research"/>
@@ -79,14 +87,6 @@
     <published>2026-07-13T00:00:00+00:00</published>
     <updated>2026-07-13T00:00:00+00:00</updated>
     <category term="Societal Impacts"/>
-  </entry>
-  <entry>
-    <title>Claude plays robotics</title>
-    <link href="https://www.anthropic.com/research/claude-plays-robotics"/>
-    <id>1ccd182b8b4b4cc1de76aece0332afd6</id>
-    <published>2026-07-09T00:00:00+00:00</published>
-    <updated>2026-07-09T00:00:00+00:00</updated>
-    <category term="Frontier Red Team"/>
   </entry>
   <entry>
     <title>A global workspace in language models</title>

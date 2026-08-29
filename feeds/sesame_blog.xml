@@ -4,10 +4,18 @@
   <icon>https://www.sesame.com/favicon.svg</icon>
   <link href="https://www.sesame.com/blog"/>
   <id>https://www.sesame.com/blog</id>
-  <updated>2026-05-27T00:00:00+00:00</updated>
+  <updated>2026-08-28T00:00:00+00:00</updated>
   <author>
     <name>Sesame</name>
   </author>
+  <entry>
+    <title>TurnBench: measuring the timing of conversation</title>
+    <link href="https://www.sesame.com/blog/turnbench"/>
+    <id>1b9ad5449af4d558cd4f3b1fff3e7c62</id>
+    <published>2026-08-28T00:00:00+00:00</published>
+    <updated>2026-08-28T00:00:00+00:00</updated>
+    <summary type="text">An open benchmark for turn-taking in spoken dialogue: 30 hours of triple-annotated dyadic speech, a scoring protocol grounded in conversation analysis, and results for 14 systems.</summary>
+  </entry>
   <entry>
     <title>Getting started</title>
     <link href="https://www.sesame.com/blog/getting-started"/>

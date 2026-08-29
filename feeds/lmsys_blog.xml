@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-08-27T00:00:00+00:00</updated>
+  <updated>2026-08-28T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Infer-forge: Harness, Loop, and Graph Engineering Around SGLang</title>
+    <link href="https://lmsys.org/blog/2026-08-28-infer-forge-loop-engineering"/>
+    <id>194b77171ad040996c9ef6cbea318388</id>
+    <published>2026-08-28T00:00:00+00:00</published>
+    <updated>2026-08-28T00:00:00+00:00</updated>
+    <summary type="text">Inference optimization may look local in code, but its validity is global. A kernel, communication path, or scheduling change becomes meaningful only at a specific deployment point defined by the mode...</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>MiniMax-H3 on 8ÃH200: 1.95Ã Lossless, Up to 6.24Ã at 0.76â0.91 SSIM</title>
     <link href="https://lmsys.org/blog/2026-08-27-minimax-h3-h200"/>

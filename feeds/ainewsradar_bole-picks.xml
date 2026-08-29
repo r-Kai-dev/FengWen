@@ -4,91 +4,28 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-27T20:06:03.845000+00:00</updated>
+  <updated>2026-08-29T01:47:44+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力 / Gemini Omni 1.1 Flash</title>
-    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash"/>
-    <id>1d3e03830ae2ffd2ecfe5fd2de8fe45f</id>
-    <published>2026-08-27T20:06:03.845000+00:00</published>
-    <updated>2026-08-27T20:06:03.845000+00:00</updated>
-    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …</title>
+    <link href="https://x.com/thsottiaux/status/2093515916076343774"/>
+    <id>4843f67f02b198bedce10c734719f3e7</id>
+    <published>2026-08-29T01:47:44+00:00</published>
+    <updated>2026-08-29T01:47:44+00:00</updated>
+    <summary type="text">Score: 0.757\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91） / Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group</title>
-    <link href="https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200"/>
-    <id>b1c4d1c2fd3ab8f9645817f45d65998b</id>
-    <published>2026-08-27T17:57:02.062000+00:00</published>
-    <updated>2026-08-27T17:57:02.062000+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>关闭被屏蔽用户的所有未关闭贡献。 / Close all open contributions authored by a blocked user</title>
-    <link href="https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user"/>
-    <id>40e17742076caa88e557dac27e0cb34c</id>
-    <published>2026-08-27T16:30:52+00:00</published>
-    <updated>2026-08-27T16:30:52+00:00</updated>
-    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 失控智能体集体逃逸沙箱并攻击&quot;幽灵&quot;评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost</title>
-    <link href="https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost"/>
-    <id>c29c528c61cb3ab24fef9628616df293</id>
-    <published>2026-08-27T16:19:46+00:00</published>
-    <updated>2026-08-27T16:19:46+00:00</updated>
-    <summary type="text">Score: 0.782\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control</title>
-    <link href="https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control"/>
-    <id>ea7b99d16660fea91198b60e9bcfd5ff</id>
-    <published>2026-08-27T16:11:32+00:00</published>
-    <updated>2026-08-27T16:11:32+00:00</updated>
-    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Search 中规划与预订旅行的 3 种全新方式 / 3 new ways to plan and book travel in Search</title>
-    <link href="https://blog.google/products-and-platforms/products/search/book-travel-ai-mode"/>
-    <id>6a149412e0f9fde792552e494715dcb3</id>
-    <published>2026-08-27T16:00:00+00:00</published>
-    <updated>2026-08-27T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>推出全球首个双盲 AI 评估 / Piloting the world's first double-blind AI evaluations</title>
-    <link href="https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations"/>
-    <id>6d6d23671bd40661cc60ec906339da34</id>
-    <published>2026-08-27T12:59:16+00:00</published>
-    <updated>2026-08-27T12:59:16+00:00</updated>
+    <title>Visual Studio 中 GitHub Copilot 的八月更新 / GitHub Copilot in Visual Studio — August update</title>
+    <link href="https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2"/>
+    <id>1110dd952ed4cfe92842d821011c74c7</id>
+    <published>2026-08-28T20:24:20+00:00</published>
+    <updated>2026-08-28T20:24:20+00:00</updated>
     <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -97,132 +34,158 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>0day 同步！商汤小浣熊桌面端首发登陆 openKylin</title>
-    <link href="https://www.aibase.com/news/30665"/>
-    <id>eeeecbcc6f226ad876f51e3fca40f9ab</id>
-    <published>2026-08-27T09:50:21.738275+00:00</published>
-    <updated>2026-08-27T09:50:21.738275+00:00</updated>
+    <title>GitHub Copilot 每周更新 — 8月24日 / GitHub Copilot weekly releases — August 24</title>
+    <link href="https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24"/>
+    <id>3c77a3a272c9e274013b145d2bdf3370</id>
+    <published>2026-08-28T20:13:22+00:00</published>
+    <updated>2026-08-28T20:13:22+00:00</updated>
+    <summary type="text">Score: 0.837\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 攻击 Hugging Face 事件的 5 个教训 / 5 lessons from the OpenAI / Hugging Face incident</title>
+    <link href="https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging"/>
+    <id>abcd14736202e27e533b91a21aab27f5</id>
+    <published>2026-08-28T18:24:05+00:00</published>
+    <updated>2026-08-28T18:24:05+00:00</updated>
+    <summary type="text">Score: 0.721\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of &quot;woke&quot; Anthropic deemed illegal by federal judge</title>
+    <link href="https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge"/>
+    <id>1c125afad4ef9b5c9b9abe47f71e8ce7</id>
+    <published>2026-08-28T18:07:55+00:00</published>
+    <updated>2026-08-28T18:07:55+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic 让 Claude 自主训练模型以缓解对齐失败 / Automated researchers can reliably mitigate alignment failures</title>
+    <link href="https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"/>
+    <id>694fffc722bbda76cd288f809ea2fd43</id>
+    <published>2026-08-28T17:25:56.912000+00:00</published>
+    <updated>2026-08-28T17:25:56.912000+00:00</updated>
+    <summary type="text">Score: 0.764\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免</title>
+    <link href="https://www.aibase.com/news/30699"/>
+    <id>3544cc85b85762ca154cfd2f900bc8b7</id>
+    <published>2026-08-28T16:43:30.002053+00:00</published>
+    <updated>2026-08-28T16:43:30.002053+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>DLSS 5 泄露，mod 作者把 Nvidia 的 AI 效果用到了所有东西上 / DLSS 5 leaked and modders are putting Nvidia&amp;#8217;s AI effects on everything</title>
+    <link href="https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai"/>
+    <id>2292a9b65139336d26f5331b8eb0a977</id>
+    <published>2026-08-28T16:22:16+00:00</published>
+    <updated>2026-08-28T16:22:16+00:00</updated>
+    <summary type="text">Score: 0.592\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队</title>
+    <link href="https://www.aibase.com/news/30698"/>
+    <id>f498ff10647b0241ee60286751d853ea</id>
+    <published>2026-08-28T15:43:30.002053+00:00</published>
+    <updated>2026-08-28T15:43:30.002053+00:00</updated>
     <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Claude 桌面端 Cowork 内置浏览器上线，可独立完成网页操作</title>
-    <link href="https://www.aibase.com/news/30672"/>
-    <id>36e4b09ab4b154d09b9cc24bb6eb7e8b</id>
-    <published>2026-08-27T09:50:21.738275+00:00</published>
-    <updated>2026-08-27T09:50:21.738275+00:00</updated>
+    <title>腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队</title>
+    <link href="https://www.aibase.com/news/30697"/>
+    <id>fb05738ae39cc1f4a8a1ae7706a6d04b</id>
+    <published>2026-08-28T15:43:30.002053+00:00</published>
+    <updated>2026-08-28T15:43:30.002053+00:00</updated>
     <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队</title>
-    <link href="https://www.ithome.com/0/995/136.htm"/>
-    <id>9e7b969e13c74c48c905899b461499ca</id>
-    <published>2026-08-27T09:05:46+00:00</published>
-    <updated>2026-08-27T09:05:46+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道</title>
+    <link href="https://www.aibase.com/news/30692"/>
+    <id>46676b07bb3d18640ebc61ea4ceea427</id>
+    <published>2026-08-28T14:43:30.002053+00:00</published>
+    <updated>2026-08-28T14:43:30.002053+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training</title>
-    <link href="https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"/>
-    <id>4502253b432466dd49ec91bf9de5bbb7</id>
-    <published>2026-08-27T09:00:00+00:00</published>
-    <updated>2026-08-27T09:00:00+00:00</updated>
-    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>唐杰宣布GLM-5.3 Flash AA登顶OpenRouter / Ox Alpha = GLM-5.3 Flash AA = 57 ， 1/100 frontier price， Powered by pure Chinese chips. Delivered…</title>
-    <link href="https://x.com/jietang/status/2092850258573471936"/>
-    <id>3423ce87f9745bb6c91e190691ca46f1</id>
-    <published>2026-08-27T05:42:39+00:00</published>
-    <updated>2026-08-27T05:42:39+00:00</updated>
-    <summary type="text">Score: 0.730\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控</title>
+    <link href="https://www.aibase.com/news/30693"/>
+    <id>6ee4d8d8495e0b5f999ac2c9da905b28</id>
+    <published>2026-08-28T14:43:30.002053+00:00</published>
+    <updated>2026-08-28T14:43:30.002053+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Expanding OpenAI’s presence in Brazil</title>
-    <link href="https://openai.com/index/expanding-our-presence-in-brazil"/>
-    <id>21a4cc3011d028f3de3fad0f99a51a72</id>
-    <published>2026-08-27T03:00:00+00:00</published>
-    <updated>2026-08-27T03:00:00+00:00</updated>
-    <summary type="text">Score: 0.812\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>企业托管设置现已支持插件市场自动更新 / Enterprise-managed settings now support autoUpdate for plugin marketplaces</title>
-    <link href="https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces"/>
-    <id>490e02faf99e1caa9e787d526c9cb0a8</id>
-    <published>2026-08-27T01:52:19+00:00</published>
-    <updated>2026-08-27T01:52:19+00:00</updated>
-    <summary type="text">Score: 0.801\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此</title>
-    <link href="https://www.ithome.com/0/994/807.htm"/>
-    <id>6f4019211c5bb6aa9ee9b6baa826c453</id>
-    <published>2026-08-27T00:20:11+00:00</published>
-    <updated>2026-08-27T00:20:11+00:00</updated>
-    <summary type="text">Score: 0.731\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭</title>
+    <link href="https://www.aibase.com/news/30696"/>
+    <id>6834bd80f06579d4a4dc98069dce2219</id>
+    <published>2026-08-28T14:43:30.002053+00:00</published>
+    <updated>2026-08-28T14:43:30.002053+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Codex CLI 0.150.1</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>cb8d5b713c9c0b5184cc7561249de966</id>
-    <published>2026-08-27T00:00:00+00:00</published>
-    <updated>2026-08-27T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️</title>
+    <link href="https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i"/>
+    <id>b17ebcda69aa897a993ca7e75798251a</id>
+    <published>2026-08-28T13:34:29+00:00</published>
+    <updated>2026-08-28T13:34:29+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>预览模型硬件标准 / Previewing the Model Hardware Standard</title>
-    <link href="https://www.anthropic.com/news/model-hardware-standard-research-preview"/>
-    <id>5188d2b186c4144f112e5b3bd8329288</id>
-    <published>2026-08-27T00:00:00+00:00</published>
-    <updated>2026-08-27T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.806\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <title>Anthropic 首度胜诉，推翻五角大楼的供应链风险标签 / Anthropic gets its first court win over the Pentagon’s supply-chain risk label</title>
+    <link href="https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label"/>
+    <id>ba71de295cd1d60aa820df9f0af5cc3c</id>
+    <published>2026-08-28T12:46:12+00:00</published>
+    <updated>2026-08-28T12:46:12+00:00</updated>
+    <summary type="text">Score: 0.629\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU / Amazon just tripled its order of Nvidia chips over 'surging demand'</title>
-    <link href="https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand"/>
-    <id>b233fa52f78f144abffad1dbfd2a7e80</id>
-    <published>2026-08-26T23:47:18+00:00</published>
-    <updated>2026-08-26T23:47:18+00:00</updated>
-    <summary type="text">Score: 0.758\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体</title>
+    <link href="https://www.terminal-bench-science.ai/announcement"/>
+    <id>478407e0ea0c58898b12b3b781b0f704</id>
+    <published>2026-08-28T12:04:47.737000+00:00</published>
+    <updated>2026-08-28T12:04:47.737000+00:00</updated>
+    <summary type="text">Score: 0.759\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -230,23 +193,48 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>智谱发布GLM-5.3-Flash，匿名模型OX Alpha正式亮相</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685603&amp;idx=1&amp;sn=91bbef667086bed84b6f213be79733aa"/>
-    <id>27c18dc8362d315e231fc3ef78332d55</id>
-    <published>2026-08-26T22:19:23+00:00</published>
-    <updated>2026-08-26T22:19:23+00:00</updated>
+    <title>GitHub Copilot 政策和计费即将迎来调整 / Upcoming changes to GitHub Copilot policies and billing</title>
+    <link href="https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing"/>
+    <id>79fe6497d7c60a132d90ed41d009c3f1</id>
+    <published>2026-08-28T11:37:19+00:00</published>
+    <updated>2026-08-28T11:37:19+00:00</updated>
+    <summary type="text">Score: 0.818\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具</title>
+    <link href="https://github.com/calmrocks/ai-engineer-notebooks"/>
+    <id>037fb3a5f862afc1401db57d2913b191</id>
+    <published>2026-08-28T08:36:31.021000+00:00</published>
+    <updated>2026-08-28T08:36:31.021000+00:00</updated>
     <summary type="text">Score: 0.736\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>全球模型政策现已全面可用 / Global model policy generally available</title>
-    <link href="https://github.blog/changelog/2026-08-26-global-model-policy-generally-available"/>
-    <id>3da7e3a3c6054b3888db985dd876fef8</id>
-    <published>2026-08-26T22:08:38+00:00</published>
-    <updated>2026-08-26T22:08:38+00:00</updated>
-    <summary type="text">Score: 0.794\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&amp;mid=2247498484&amp;idx=1&amp;sn=0db140a12b8e18601ac933788045c831"/>
+    <id>4ef3cd3379ac1973d8d0cf4dd59756dc</id>
+    <published>2026-08-28T06:03:48+00:00</published>
+    <updated>2026-08-28T06:03:48+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX</title>
+    <link href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"/>
+    <id>5636e7f8b1415b6c4f4764c461b7d7ca</id>
+    <published>2026-08-28T06:00:00+00:00</published>
+    <updated>2026-08-28T06:00:00+00:00</updated>
+    <summary type="text">Score: 0.814\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
