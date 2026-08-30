@@ -4,165 +4,86 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-29T18:38:52+00:00</updated>
+  <updated>2026-08-30T14:06:54+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>LLMs让我不再精明，却敢闯未知领域</title>
-    <link href="https://news.ycombinator.com/item?id=49492184"/>
-    <id>143a96d3a5b7d5ec3ee5735c49c9a74c</id>
-    <published>2026-08-29T18:38:52+00:00</published>
-    <updated>2026-08-29T18:38:52+00:00</updated>
-    <summary type="text">Score: 0.546\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>好的文化才是最大的生产力提升秘诀，而非AI / Good Culture Is the Biggest Productivity Hack, Not AI</title>
-    <link href="https://news.ycombinator.com/item?id=49491568"/>
-    <id>328f95f04f1a099f2a62327436c0cd62</id>
-    <published>2026-08-29T17:19:47+00:00</published>
-    <updated>2026-08-29T17:19:47+00:00</updated>
-    <summary type="text">Score: 0.571\nSources: 3 (NewsNow)\nImportance: 多源热议</summary>
+    <title>METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告</title>
+    <link href="https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack"/>
+    <id>bc3e46ecfb3ba2fcb816e05b40e5a84a</id>
+    <published>2026-08-30T14:06:54+00:00</published>
+    <updated>2026-08-30T14:06:54+00:00</updated>
+    <summary type="text">Score: 0.570\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%</title>
-    <link href="https://news.ycombinator.com/item?id=49491282"/>
-    <id>563fd66d42e9eec71608ecda41c27eb0</id>
-    <published>2026-08-29T16:37:05+00:00</published>
-    <updated>2026-08-29T16:37:05+00:00</updated>
-    <summary type="text">Score: 0.537\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Debian 投票通过允许负责任地使用生成式 AI / Debian votes to allow &quot;responsible use of generative AI&quot;</title>
-    <link href="https://news.ycombinator.com/item?id=49489982"/>
-    <id>4057b26d30d6396446106e3320c81f5c</id>
-    <published>2026-08-29T14:02:10+00:00</published>
-    <updated>2026-08-29T14:02:10+00:00</updated>
-    <summary type="text">Score: 0.562\nSources: 3 (NewsNow)\nImportance: 多源热议</summary>
+    <title>默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中</title>
+    <link href="https://github.com/anthropics/claude-code/issues/66504"/>
+    <id>5a144748d694834d416b08f6969dcabd</id>
+    <published>2026-08-30T12:50:54+00:00</published>
+    <updated>2026-08-30T12:50:54+00:00</updated>
+    <summary type="text">Score: 0.563\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>开放世界多智能体环境中的自主数学发现</title>
-    <link href="https://arxiv.org/abs/2608.23691"/>
-    <id>dfdd254d7ce1856711aebf48c1af0fa6</id>
-    <published>2026-08-29T07:32:16.981000+00:00</published>
-    <updated>2026-08-29T07:32:16.981000+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据</title>
-    <link href="https://terminalbytes.com/run-qwen-3-8-27b-locally"/>
-    <id>391bd3a93694eff4e69eedd27b360b0d</id>
-    <published>2026-08-29T07:00:22.003000+00:00</published>
-    <updated>2026-08-29T07:00:22.003000+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御</title>
-    <link href="https://www.ithome.com/0/995/896.htm"/>
-    <id>1d79542978ba1df0c2b7dd5662f32c13</id>
-    <published>2026-08-29T04:31:21+00:00</published>
-    <updated>2026-08-29T04:31:21+00:00</updated>
-    <summary type="text">Score: 0.728\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 和 Anthropic 正在毁掉旧金山 / OpenAI and Anthropic are ruining San Francisco</title>
-    <link href="https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php"/>
-    <id>e11847aebdea91246a11ccc87310f266</id>
-    <published>2026-08-29T01:50:40+00:00</published>
-    <updated>2026-08-29T01:50:40+00:00</updated>
-    <summary type="text">Score: 0.503\nSources: 2 (Hacker News)\nImportance: 值得关注</summary>
+    <title>软件团队每周五禁用AI编码助手以防技能退化</title>
+    <link href="https://noaifridays.com"/>
+    <id>4ed69ac357c4b5ac006fdee848986c13</id>
+    <published>2026-08-30T12:31:05+00:00</published>
+    <updated>2026-08-30T12:31:05+00:00</updated>
+    <summary type="text">Score: 0.534\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>关于Cursor被SpaceX收购后的决定</title>
-    <link href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"/>
-    <id>5636e7f8b1415b6c4f4764c461b7d7ca</id>
-    <published>2026-08-29T01:47:53+00:00</published>
-    <updated>2026-08-29T01:47:53+00:00</updated>
-    <summary type="text">Score: 0.504\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>公平工作委员会谴责“完全错误”的AI法律建议 / Fair Work Commission condemns 'plain wrong' AI legal advice</title>
+    <link href="https://news.ycombinator.com/item?id=49497357"/>
+    <id>fa40cf2e1a1e470d844d8afb81d859bc</id>
+    <published>2026-08-30T10:20:11+00:00</published>
+    <updated>2026-08-30T10:20:11+00:00</updated>
+    <summary type="text">Score: 0.531\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …</title>
-    <link href="https://x.com/thsottiaux/status/2093515916076343774"/>
-    <id>4843f67f02b198bedce10c734719f3e7</id>
-    <published>2026-08-29T01:47:44+00:00</published>
-    <updated>2026-08-29T01:47:44+00:00</updated>
-    <summary type="text">Score: 0.739\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over &quot;one of the largest and most blatant ongoing thefts of intellectual property in history&quot;</title>
+    <link href="https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history"/>
+    <id>031857a5bbd001c86a71cd66af0e33cb</id>
+    <published>2026-08-30T08:50:20+00:00</published>
+    <updated>2026-08-30T08:50:20+00:00</updated>
+    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>StemDeck，一款免费、开源且本地化的AI茎叶分离器</title>
-    <link href="https://github.com/stemdeckapp/stemdeck"/>
-    <id>2e451aefd23c8982109638991af6437b</id>
-    <published>2026-08-29T01:24:13+00:00</published>
-    <updated>2026-08-29T01:24:13+00:00</updated>
-    <summary type="text">Score: 0.543\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Codex CLI 0.151.0</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>370d4521cea0058d5a1f2b569adb926a</id>
-    <published>2026-08-29T00:00:00+00:00</published>
-    <updated>2026-08-29T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.818\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>我不小心把LLM内存变成了程序分析</title>
-    <link href="https://pwning.systems/posts/llm-memory-program-analysis"/>
-    <id>097551fa3bd7395a5c2306ed9db9da62</id>
-    <published>2026-08-28T23:27:45+00:00</published>
-    <updated>2026-08-28T23:27:45+00:00</updated>
-    <summary type="text">Score: 0.536\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮</title>
+    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35"/>
+    <id>897d4b320720400d8a76b9bde3dcb47c</id>
+    <published>2026-08-30T04:21:04+00:00</published>
+    <updated>2026-08-30T04:21:04+00:00</updated>
+    <summary type="text">Score: 0.732\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>用 AI 识别假冒化妆品 / Identifying fake cosmetics using AI</title>
-    <link href="https://news.ycombinator.com/item?id=49484925"/>
-    <id>73ec2d83c2f1f7dc34a9c0e5daf2f5c7</id>
-    <published>2026-08-28T22:18:27+00:00</published>
-    <updated>2026-08-28T22:18:27+00:00</updated>
-    <summary type="text">Score: 0.502\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长</title>
+    <link href="https://x.com/AYi_AInotes/status/2093864816079208512"/>
+    <id>e184b424119ed8b89096e2af33d4ccf6</id>
+    <published>2026-08-30T00:54:08+00:00</published>
+    <updated>2026-08-30T00:54:08+00:00</updated>
+    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
 </feed>
