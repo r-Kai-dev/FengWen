@@ -4,86 +4,235 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-08-30T14:06:54+00:00</updated>
+  <updated>2026-08-31T18:12:20+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告</title>
-    <link href="https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack"/>
-    <id>bc3e46ecfb3ba2fcb816e05b40e5a84a</id>
-    <published>2026-08-30T14:06:54+00:00</published>
-    <updated>2026-08-30T14:06:54+00:00</updated>
-    <summary type="text">Score: 0.570\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中</title>
-    <link href="https://github.com/anthropics/claude-code/issues/66504"/>
-    <id>5a144748d694834d416b08f6969dcabd</id>
-    <published>2026-08-30T12:50:54+00:00</published>
-    <updated>2026-08-30T12:50:54+00:00</updated>
-    <summary type="text">Score: 0.563\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>软件团队每周五禁用AI编码助手以防技能退化</title>
-    <link href="https://noaifridays.com"/>
-    <id>4ed69ac357c4b5ac006fdee848986c13</id>
-    <published>2026-08-30T12:31:05+00:00</published>
-    <updated>2026-08-30T12:31:05+00:00</updated>
-    <summary type="text">Score: 0.534\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>最不容易被AI取代的工作可能是写作 / The safest job from AI may be writing</title>
+    <link href="https://news.ycombinator.com/item?id=49512856"/>
+    <id>004db7a87d19ed0a01b85399d315a586</id>
+    <published>2026-08-31T18:12:20+00:00</published>
+    <updated>2026-08-31T18:12:20+00:00</updated>
+    <summary type="text">Score: 0.546\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>公平工作委员会谴责“完全错误”的AI法律建议 / Fair Work Commission condemns 'plain wrong' AI legal advice</title>
-    <link href="https://news.ycombinator.com/item?id=49497357"/>
-    <id>fa40cf2e1a1e470d844d8afb81d859bc</id>
-    <published>2026-08-30T10:20:11+00:00</published>
-    <updated>2026-08-30T10:20:11+00:00</updated>
-    <summary type="text">Score: 0.531\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <title>Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面 / Introducing Solaris</title>
+    <link href="https://runwayml.com/news/research/introducing-solaris"/>
+    <id>fa29dd903dc0389be99212c199050a6f</id>
+    <published>2026-08-31T17:03:47.031000+00:00</published>
+    <updated>2026-08-31T17:03:47.031000+00:00</updated>
+    <summary type="text">Score: 0.728\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Debian 不会禁止 AI 代码进入其 Linux 发行版 / Debian won&amp;#8217;t ban AI code from its Linux distribution</title>
+    <link href="https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"/>
+    <id>6d9525c99e1339273b0152e150553742</id>
+    <published>2026-08-31T15:34:58+00:00</published>
+    <updated>2026-08-31T15:34:58+00:00</updated>
+    <summary type="text">Score: 0.600\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over &quot;one of the largest and most blatant ongoing thefts of intellectual property in history&quot;</title>
-    <link href="https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history"/>
-    <id>031857a5bbd001c86a71cd66af0e33cb</id>
-    <published>2026-08-30T08:50:20+00:00</published>
-    <updated>2026-08-30T08:50:20+00:00</updated>
-    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident</title>
+    <link href="https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but"/>
+    <id>263578532428a6b7513617d4eca62286</id>
+    <published>2026-08-31T15:24:14+00:00</published>
+    <updated>2026-08-31T15:24:14+00:00</updated>
+    <summary type="text">Score: 0.725\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>ChatGPT 工作工具与技能参考</title>
+    <link href="https://codex-tool-reference.simonw.chatgpt.site"/>
+    <id>4f4de532649e17cc74f30ea62d19bbdb</id>
+    <published>2026-08-31T14:07:15+00:00</published>
+    <updated>2026-08-31T14:07:15+00:00</updated>
+    <summary type="text">Score: 0.559\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及</title>
+    <link href="https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand"/>
+    <id>6c87a8a635a5a5c4b9aa0e56590a2e43</id>
+    <published>2026-08-31T12:41:22+00:00</published>
+    <updated>2026-08-31T12:41:22+00:00</updated>
+    <summary type="text">Score: 0.538\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>AI写的代码依然是你自己的代码。你接受吗？ / AI-Written Code Is Still *Your* Code. Are You OK with That?</title>
+    <link href="https://martiansoftware.com/articles/ai-written-code-is-still-yours"/>
+    <id>aecd958d9959b65d7ca59cf954231daa</id>
+    <published>2026-08-31T12:08:25+00:00</published>
+    <updated>2026-08-31T12:08:25+00:00</updated>
+    <summary type="text">Score: 0.522\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话</title>
+    <link href="https://www.aibase.com/news/30730"/>
+    <id>29d0c30c75e9da2ad6063922d9489c1a</id>
+    <published>2026-08-31T11:36:36.015911+00:00</published>
+    <updated>2026-08-31T11:36:36.015911+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude遭大规模盗号，大批账号被强制注销</title>
+    <link href="https://www.aibase.com/news/30722"/>
+    <id>4051c07650e997e2bc31526b7463c566</id>
+    <published>2026-08-31T11:36:36.015911+00:00</published>
+    <updated>2026-08-31T11:36:36.015911+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元</title>
+    <link href="https://www.aibase.com/news/30726"/>
+    <id>a04e35b610a54ee1186605647a764773</id>
+    <published>2026-08-31T11:36:36.015911+00:00</published>
+    <updated>2026-08-31T11:36:36.015911+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>索尼牵头 35 家音乐出版商起诉 Anthropic，索赔或达数十亿美元</title>
+    <link href="https://www.aibase.com/news/30724"/>
+    <id>a3818c69b792200de0ee3c6ffda3c8ae</id>
+    <published>2026-08-31T11:36:36.015911+00:00</published>
+    <updated>2026-08-31T11:36:36.015911+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元</title>
+    <link href="https://www.aibase.com/news/30725"/>
+    <id>513e04cd745a713a56caf2a1f196d4b2</id>
+    <published>2026-08-31T11:36:36.015911+00:00</published>
+    <updated>2026-08-31T11:36:36.015911+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>英国监管机构警示：医疗 AI 转录工具频繁出错，正在威胁患者安全</title>
+    <link href="https://www.aibase.com/news/30727"/>
+    <id>3cddcb4dac6581887bf5fe19572b20d6</id>
+    <published>2026-08-31T11:36:36.015911+00:00</published>
+    <updated>2026-08-31T11:36:36.015911+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>豆包辟谣“建议煮拖鞋”:系博主诱导模型摆拍，非真实回复</title>
+    <link href="https://www.aibase.com/news/30728"/>
+    <id>5b6c3869950ca05e391d0dafcf1a464f</id>
+    <published>2026-08-31T11:36:36.015911+00:00</published>
+    <updated>2026-08-31T11:36:36.015911+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居</title>
+    <link href="https://www.aibase.com/news/30723"/>
+    <id>b9ee98138ab0679a28258b69826e7a92</id>
+    <published>2026-08-31T11:36:36.015911+00:00</published>
+    <updated>2026-08-31T11:36:36.015911+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8</title>
+    <link href="https://www.ithome.com/0/996/637.htm"/>
+    <id>393d50be63f182967e5ebf15205e472c</id>
+    <published>2026-08-31T11:35:24+00:00</published>
+    <updated>2026-08-31T11:35:24+00:00</updated>
+    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮</title>
-    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35"/>
-    <id>897d4b320720400d8a76b9bde3dcb47c</id>
-    <published>2026-08-30T04:21:04+00:00</published>
-    <updated>2026-08-30T04:21:04+00:00</updated>
-    <summary type="text">Score: 0.732\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
+    <title>VS Code 版 GitHub Copilot 2026 年 8 月更新 / GitHub Copilot in VS Code, August 2026 releases</title>
+    <link href="https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases"/>
+    <id>c8b88a5dbd7943b60d7767aecaaacb67</id>
+    <published>2026-08-31T08:39:54+00:00</published>
+    <updated>2026-08-31T08:39:54+00:00</updated>
+    <summary type="text">Score: 0.821\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI</title>
+    <link href="https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"/>
+    <id>ee33227becfa1b1777a7b3c213343138</id>
+    <published>2026-08-31T04:00:00+00:00</published>
+    <updated>2026-08-31T04:00:00+00:00</updated>
+    <summary type="text">Score: 0.811\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>AI 智能体自主协作攻破 Hugging Face 服务器 / Agency and Agents</title>
+    <link href="https://www.oneusefulthing.org/p/agency-and-agents"/>
+    <id>c338d6c8cf09416f5d3ddb50a78cfe36</id>
+    <published>2026-08-31T00:24:35+00:00</published>
+    <updated>2026-08-31T00:24:35+00:00</updated>
+    <summary type="text">Score: 0.726\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长</title>
-    <link href="https://x.com/AYi_AInotes/status/2093864816079208512"/>
-    <id>e184b424119ed8b89096e2af33d4ccf6</id>
-    <published>2026-08-30T00:54:08+00:00</published>
-    <updated>2026-08-30T00:54:08+00:00</updated>
-    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work</title>
+    <link href="https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work"/>
+    <id>0dac2c6192f5cb86737260a8e1ae7379</id>
+    <published>2026-08-30T23:59:47+00:00</published>
+    <updated>2026-08-30T23:59:47+00:00</updated>
+    <summary type="text">Score: 0.774\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
 </feed>
