@@ -4,10 +4,19 @@
   <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
   <link href="https://www.figma.com/blog/"/>
   <id>https://www.figma.com/blog/</id>
-  <updated>2026-08-28T19:30:00.000Z</updated>
+  <updated>2026-09-01T14:39:43.296Z</updated>
   <author>
-    <name>Shane Johnston</name>
+    <name>Rogie King</name>
   </author>
+  <entry>
+    <title>Behind the build: Generative plugins and shaders at Figma</title>
+    <link href="https://www.figma.com/blog/how-we-built-generative-plugins-and-shaders/"/>
+    <id>c0b707fe63bf5dc1f523cda10cd6283e</id>
+    <published>2026-09-01T14:39:43.296Z</published>
+    <updated>2026-09-01T14:39:43.296Z</updated>
+    <summary type="text">Starting today, you’ll have more creative control over generative plugins and shaders, and a way to share what you’ve made with the community. Product Designer Rogie King tells the story of how we got here.</summary>
+    <category term="Inside Figma"/>
+  </entry>
   <entry>
     <title>How do you actually measure the impact of AI on design?</title>
     <link href="https://www.figma.com/blog/measuring-the-impact-of-ai/"/>
@@ -16,15 +25,6 @@
     <updated>2026-08-28T19:30:00.000Z</updated>
     <summary type="text">In 2024, we kicked off a study to understand how AI would reshape design and product development. Now, AI is helping us run it.</summary>
     <category term="Insights"/>
-  </entry>
-  <entry>
-    <title>Source material: i-D Magazine’s editor in chief is not afraid of visual chaos</title>
-    <link href="https://www.figma.com/blog/source-material-i-d-magazine-editor-in-chief-thom-bettridge/"/>
-    <id>526c54e06c83ffee865102354a1e7f3f</id>
-    <published>2026-08-28T19:00:00.000Z</published>
-    <updated>2026-08-28T19:00:00.000Z</updated>
-    <summary type="text">Thom Bettridge on which magazines have shaped his taste—and what design rule he breaks the most.</summary>
-    <category term="Maker Stories"/>
   </entry>
   <entry>
     <title>Workflow lab: Moving between design and code with agents</title>

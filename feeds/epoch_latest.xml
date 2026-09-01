@@ -4,10 +4,18 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-08-27T00:00:00+00:00</updated>
+  <updated>2026-09-01T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>The ECI frontier has advanced by 14 points per year since the introduction of reasoning models</title>
+    <link href="https://epoch.ai/data-insights/eci-frontier-trend"/>
+    <id>eb33b18bb1b8abef47d53225fc088ca2</id>
+    <published>2026-09-01T00:00:00+00:00</published>
+    <updated>2026-09-01T00:00:00+00:00</updated>
+    <category term="Data Insight"/>
+  </entry>
   <entry>
     <title>An update on AI’s most important number</title>
     <link href="https://epoch.ai/gradient-updates/an-update-on-ais-most-important-number"/>
@@ -88,14 +96,5 @@
     <updated>2026-07-29T00:00:00+00:00</updated>
     <summary type="text">Even with automated AI R&amp;D producing millions of virtual researchers, progress may be capped by our ability to divide, coordinate, and recombine their work. Epoch AI on why parallelization technology is a missing parameter in intelligence explosion models.</summary>
     <category term="Report"/>
-  </entry>
-  <entry>
-    <title>OpenAI accidentally hacked Hugging Face — should we have seen it coming?</title>
-    <link href="https://epoch.ai/gradient-updates/openai-accidentally-hacked-hugging-face"/>
-    <id>92034918d28e96ddbab7843e72ad9e04</id>
-    <published>2026-07-22T00:00:00+00:00</published>
-    <updated>2026-07-22T00:00:00+00:00</updated>
-    <summary type="text">Expert assessments and cyber benchmarks led us to expect that frontier models were capable of executing this kind of cyberattack</summary>
-    <category term="Newsletter"/>
   </entry>
 </feed>

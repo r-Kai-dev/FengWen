@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-08-07T00:00:00+00:00</updated>
+  <updated>2026-09-01T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
+    <link href="https://allenai.org/blog/benchmirt"/>
+    <id>aa4dfb0147e6973270e073deee34218d</id>
+    <published>2026-09-01T00:00:00+00:00</published>
+    <updated>2026-09-01T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
     <link href="https://allenai.org/blog/tutormoments"/>
@@ -63,12 +70,5 @@
     <id>9c42812e65c1dc62f3ce5b38953718eb</id>
     <published>2026-05-19T00:00:00+00:00</published>
     <updated>2026-05-19T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Introducing AIMIP: The AI weather and climate model intercomparison project</title>
-    <link href="https://allenai.org/blog/aimip"/>
-    <id>658ce06018369fb23894374ca7c6300f</id>
-    <published>2026-05-13T00:00:00+00:00</published>
-    <updated>2026-05-13T00:00:00+00:00</updated>
   </entry>
 </feed>

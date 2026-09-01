@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-08-31T00:00:00+00:00</updated>
+  <updated>2026-09-01T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Deepfake Detection Heatmap: What It Shows, How It Works, and Why It Matters for Enterprise Review</title>
+    <link href="https://www.resemble.ai/resources/deepfake-detection-heatmap"/>
+    <id>6debf84072c313ee3dff2b6a46f66193</id>
+    <published>2026-09-01T00:00:00+00:00</published>
+    <updated>2026-09-01T00:00:00+00:00</updated>
+    <summary type="text">See how deepfake detection heatmaps reveal flagged regions, reduce false positives, and help review teams document synthetic media decisions.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>Deepfake Detection Methods Enterprises Should Know in 2026</title>
     <link href="https://www.resemble.ai/resources/deepfake-detection-methods-enterprises-should-know-in-2026"/>
@@ -97,15 +106,6 @@
     <updated>2026-08-13T00:00:00+00:00</updated>
     <summary type="text">Resemble AI is committed to delivering the best deepfake detection models for audio, video, and image. This explains why a former voice AI company made the decision, what happens to Chatterbox and DramaBox, and how Resemble's five detection APIs fit together.</summary>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>DETECT-World explained</title>
-    <link href="https://www.resemble.ai/resources/detect-world-explained"/>
-    <id>59b2a7c3e7d47b8bd1c773bd95f1a972</id>
-    <published>2026-08-12T00:00:00+00:00</published>
-    <updated>2026-08-12T00:00:00+00:00</updated>
-    <summary type="text">DETECT-World is the first world model for deepfake detection — catching unseen generators by checking physics and artifacts. Two approaches, better together.</summary>
-    <category term="Video"/>
   </entry>
   <entry>
     <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>

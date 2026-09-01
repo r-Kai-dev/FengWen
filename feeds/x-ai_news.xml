@@ -4,10 +4,17 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-08-29T00:00:00+00:00</updated>
+  <updated>2026-09-01T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Biosecurity at the frontier</title>
+    <link href="https://x.ai/news/biosafety-at-the-frontier"/>
+    <id>a510fb21172b7637d3c10ce1058ef700</id>
+    <published>2026-09-01T00:00:00+00:00</published>
+    <updated>2026-09-01T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Grok Bot now works with X</title>
     <link href="https://x.ai/news/grok-bot-and-x"/>
@@ -43,6 +50,7 @@
     <id>fd8a26cbcea9a9d6189d467423ea33a1</id>
     <published>2026-08-19T00:00:00+00:00</published>
     <updated>2026-08-19T00:00:00+00:00</updated>
+    <summary type="text">Grok 4.6 is now available via Amazon Bedrock.</summary>
   </entry>
   <entry>
     <title>Grok Build on web and mobile</title>

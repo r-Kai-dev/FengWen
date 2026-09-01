@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-08-31T00:00:00+00:00</updated>
+  <updated>2026-09-01T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Developing Enterprise Frontier Safeguards with our customers</title>
+    <link href="https://www.anthropic.com/news/enterprise-frontier-safeguards"/>
+    <id>b04d14ece30058fafef37216c3b746cd</id>
+    <published>2026-09-01T00:00:00+00:00</published>
+    <updated>2026-09-01T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
   <entry>
     <title>Improving our alignment and security efforts</title>
     <link href="https://www.anthropic.com/news/improving-alignment-security-efforts"/>
@@ -71,14 +79,6 @@
     <updated>2026-07-30T00:00:00+00:00</updated>
   </entry>
   <entry>
-    <title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
-    <link href="https://www.anthropic.com/news/cognizant-anthropic"/>
-    <id>44b113bc2ee714297ec14ff1089e86f7</id>
-    <published>2026-07-27T00:00:00+00:00</published>
-    <updated>2026-07-27T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-  </entry>
-  <entry>
     <title>Our position on open-weights models</title>
     <link href="https://www.anthropic.com/news/position-open-weights-models"/>
     <id>18540f448ce53746502d3a0387841d95</id>
@@ -101,13 +101,5 @@
     <published>2026-07-06T00:00:00+00:00</published>
     <updated>2026-07-06T00:00:00+00:00</updated>
     <category term="Features"/>
-  </entry>
-  <entry>
-    <title>Introducing Claude Sonnet 5</title>
-    <link href="https://www.anthropic.com/news/claude-sonnet-5"/>
-    <id>604fce1fbac8bf8f3ded699016f1b59c</id>
-    <published>2026-06-30T00:00:00+00:00</published>
-    <updated>2026-06-30T00:00:00+00:00</updated>
-    <category term="Product"/>
   </entry>
 </feed>
