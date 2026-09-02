@@ -4,10 +4,19 @@
   <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
   <link href="https://www.figma.com/blog/"/>
   <id>https://www.figma.com/blog/</id>
-  <updated>2026-09-01T14:39:43.296Z</updated>
+  <updated>2026-09-02T20:28:00.000Z</updated>
   <author>
-    <name>Rogie King</name>
+    <name>Jenny Xie</name>
   </author>
+  <entry>
+    <title>How Coinbase used Code Connect to guide agents and shrink token costs</title>
+    <link href="https://www.figma.com/blog/how-coinbase-used-code-connect-to-shrink-token-costs/"/>
+    <id>794d075eb7aa40ab2c26b8553abd9f0f</id>
+    <published>2026-09-02T20:28:00.000Z</published>
+    <updated>2026-09-02T20:28:00.000Z</updated>
+    <summary type="text">The Coinbase Design System team put Code Connect to the test against coding agents—and found that it boosted design system adherence while cutting token costs by an average of 22.5%.</summary>
+    <category term="Maker Stories"/>
+  </entry>
   <entry>
     <title>Behind the build: Generative plugins and shaders at Figma</title>
     <link href="https://www.figma.com/blog/how-we-built-generative-plugins-and-shaders/"/>
@@ -25,15 +34,6 @@
     <updated>2026-08-28T19:30:00.000Z</updated>
     <summary type="text">In 2024, we kicked off a study to understand how AI would reshape design and product development. Now, AI is helping us run it.</summary>
     <category term="Insights"/>
-  </entry>
-  <entry>
-    <title>Workflow lab: Moving between design and code with agents</title>
-    <link href="https://www.figma.com/blog/workflow-lab-moving-between-design-and-code-with-agents/"/>
-    <id>e339520de4a738d267804d59c430ccb8</id>
-    <published>2026-08-26T22:00:00.000Z</published>
-    <updated>2026-08-26T22:00:00.000Z</updated>
-    <summary type="text">Coding agents are reshaping how developers build, but they’re only as good as the input they’re given. This workflow explores how context keeps code and canvas in sync.</summary>
-    <category term="Working Well"/>
   </entry>
   <entry>
     <title>Digital tools, human expression: The visual identity behind Config 2026</title>
