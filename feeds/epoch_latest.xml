@@ -9,6 +9,15 @@
     <name>Epoch AI</name>
   </author>
   <entry>
+    <title>Announcing FrontierMath Erdős</title>
+    <link href="https://epoch.ai/latest/announcing-frontiermath-erdos"/>
+    <id>77132975b8b056ef64ec6ffd157f9b95</id>
+    <published>2026-09-01T00:00:00+00:00</published>
+    <updated>2026-09-01T00:00:00+00:00</updated>
+    <summary type="text">A benchmark of 68 significant Erdős problems, open as of August 2026, curated by Thomas Bloom and formalized in Lean. AI systems must prove or disprove them within a fixed budget.</summary>
+    <category term="Update"/>
+  </entry>
+  <entry>
     <title>The ECI frontier has advanced by 14 points per year since the introduction of reasoning models</title>
     <link href="https://epoch.ai/data-insights/eci-frontier-trend"/>
     <id>eb33b18bb1b8abef47d53225fc088ca2</id>
@@ -87,14 +96,5 @@
     <updated>2026-07-31T00:00:00+00:00</updated>
     <summary type="text">Notable organizations disclosed ~2,500 high- and critical-severity CVEs in July 2026, about 5× the pre-Mythos monthly record. Epoch AI's updated breakdown of vulnerability disclosures following Anthropic's Project Glasswing.</summary>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>Will parallelization limits delay an intelligence explosion?</title>
-    <link href="https://epoch.ai/publications/parallelization-constraints-could-delay-a-technological-singularity"/>
-    <id>1bf4a34ff42e847a8235c930d2787d6e</id>
-    <published>2026-07-29T00:00:00+00:00</published>
-    <updated>2026-07-29T00:00:00+00:00</updated>
-    <summary type="text">Even with automated AI R&amp;D producing millions of virtual researchers, progress may be capped by our ability to divide, coordinate, and recombine their work. Epoch AI on why parallelization technology is a missing parameter in intelligence explosion models.</summary>
-    <category term="Report"/>
   </entry>
 </feed>

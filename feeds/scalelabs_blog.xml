@@ -4,10 +4,29 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-08-26</updated>
+  <updated>2026-09-03</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>Introducing READY: What It Takes to Deploy an AI Agent</title>
+    <link href="https://labs.scale.com/blog/ready"/>
+    <id>36e8d86a633b80fa9a2b3f8467c7563a</id>
+    <published>2026-09-03</published>
+    <updated>2026-09-03</updated>
+    <summary type="text">Today we're introducing READY (Reliable Enterprise Agent Deployment), a suite of industry-specific benchmarks that measure agents the way enterprises actually use them: working alongside people, inside real workflows.  — By Yuan (Emily) Xue, Veronica Chatrath, Bryan Zhu</summary>
+    <category term="Agents"/>
+    <category term="Enterprise"/>
+  </entry>
+  <entry>
+    <title>Who Grades the Graders? Rethinking Verifier Design for Computer-Use Agents</title>
+    <link href="https://labs.scale.com/blog/verifier-design-for-cua"/>
+    <id>4e5100ec6b90c16ca0f9704331e2a6a3</id>
+    <published>2026-09-02</published>
+    <updated>2026-09-02</updated>
+    <summary type="text">As Computer Use Agents (CUA) take on complex professional tasks like processing emails, creating spreadsheets, drawing 3D diagrams, and drafting financial memos, verifiers are at the heart of providing evaluation and training signals around their capabilities. Benchmarks like OSWorld 2.0 and Agents' Last Exam use these verifiers, in the form of programmatic checks, to measure whether an agent is capable of completing production-grade work. — By Mark Shi, Manasi Sharma, William Loo, Upasana Prabhu , Weijun Luo, Chris Liu, Judah Engel, Minglai Yang , Chenguang Wang, Lucy Ogaz, Mohamed Elfeki, Chetan Rane, Ying Liu, Daniel Yue Zhang</summary>
+    <category term="Agents"/>
+  </entry>
   <entry>
     <title>CliniCARE-Bench: Clinical AI Agents Can Be Right for the Wrong Reasons</title>
     <link href="https://labs.scale.com/blog/clinicare-bench"/>

@@ -4,14 +4,34 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/papers"/>
   <id>https://huggingface.co/papers</id>
-  <updated>2026-08-26T20:00:00.000Z</updated>
+  <updated>2026-08-31T20:00:00.000Z</updated>
+  <entry>
+    <title>StudentSim: Training LLM-based Student Simulators</title>
+    <link href="https://arxiv.org/abs/2609.01591"/>
+    <id>7577abb1e2d6b8f8a59bcbf22dcd8e94</id>
+    <published>2026-08-31T20:00:00.000Z</published>
+    <updated>2026-08-31T20:00:00.000Z</updated>
+    <summary type="text">AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to coll... \u00b7 Upvotes: 478 \u00b7 GitHub Stars: 10 \u00b7 Authors: Ke Yang, Chenglong Wang, Michel Galley</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving</title>
+    <link href="https://arxiv.org/abs/2609.00111"/>
+    <id>a9921847e9c477ef963c46c554bd6541</id>
+    <published>2026-08-30T20:00:00.000Z</published>
+    <updated>2026-08-30T20:00:00.000Z</updated>
+    <summary type="text">We present Qwen-Drive-1.0, an initial step towards a vision-language foundation model for autonomous driving. Qwen-Drive-1.0 retains the architecture of the pretrained vision-language model (VLM) and ... \u00b7 Upvotes: 361 \u00b7 Authors: Xin Zhou, Zongchuang Zhao, Zhibo Yang</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
   <entry>
     <title>Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models</title>
     <link href="https://arxiv.org/abs/2608.27550"/>
     <id>cd835cba923694921226974cedf74e88</id>
     <published>2026-08-26T20:00:00.000Z</published>
     <updated>2026-08-26T20:00:00.000Z</updated>
-    <summary type="text">Scaling robot data is crucial for building generalist Vision-Language-Action (VLA) models, yet robot trajectories are harder to scale than web-scale image-text data because embodied collection is cost... \u00b7 Upvotes: 86 \u00b7 GitHub Stars: 3576 \u00b7 Authors: Senqiao Yang, Chengyao Wang, Yuxin Chen</summary>
+    <summary type="text">Scaling robot data is crucial for building generalist Vision-Language-Action (VLA) models, yet robot trajectories are harder to scale than web-scale image-text data because embodied collection is cost... \u00b7 Upvotes: 89 \u00b7 GitHub Stars: 3576 \u00b7 Authors: Senqiao Yang, Chengyao Wang, Yuxin Chen</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +61,7 @@
     <id>06207a7e06e705713e7559db7404d4d8</id>
     <published>2026-08-16T20:00:00.000Z</published>
     <updated>2026-08-16T20:00:00.000Z</updated>
-    <summary type="text">A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollo... \u00b7 Upvotes: 339 \u00b7 GitHub Stars: 283 \u00b7 Authors: Weiliang Chen, Haowen Sun, Jun Gao</summary>
+    <summary type="text">A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollo... \u00b7 Upvotes: 339 \u00b7 GitHub Stars: 286 \u00b7 Authors: Weiliang Chen, Haowen Sun, Jun Gao</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -66,32 +86,12 @@
     <category term="paper"/>
   </entry>
   <entry>
-    <title>Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination</title>
-    <link href="https://arxiv.org/abs/2608.14391"/>
-    <id>eac476cb74fd8d5906a465622f910558</id>
-    <published>2026-08-13T20:00:00.000Z</published>
-    <updated>2026-08-13T20:00:00.000Z</updated>
-    <summary type="text">Recent video generators can fabricate realistic depictions of wars, disasters, public emergencies, and other real-world crises, creating substantial risks of misinformation. Existing benchmarks, howev... \u00b7 Upvotes: 282 \u00b7 GitHub Stars: 101 \u00b7 Authors: Shuo Liang, Yixing Ma, Pengfei Zhou</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill</title>
-    <link href="https://arxiv.org/abs/2608.11924"/>
-    <id>c96ac04d438c1f1cb95170aee99d6864</id>
-    <published>2026-08-11T20:00:00.000Z</published>
-    <updated>2026-08-11T20:00:00.000Z</updated>
-    <summary type="text">Turning a research idea into a complete paper requires more than text generation: the system must retrieve literature, design and execute experiments, revise claims according to evidence, produce publ... \u00b7 Upvotes: 290 \u00b7 GitHub Stars: 869 \u00b7 Authors: Zhuoyang Qian, Biao Wu, Yiran Wang</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
     <title>BDH-CQ: In-Context Learning with Recurrent Latent Reasoning</title>
     <link href="https://arxiv.org/abs/2608.09888"/>
     <id>ff31056e683b049c349bea47fee72656</id>
     <published>2026-08-09T20:00:00.000Z</published>
     <updated>2026-08-09T20:00:00.000Z</updated>
-    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 767 \u00b7 GitHub Stars: 10309 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
+    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 770 \u00b7 GitHub Stars: 10309 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

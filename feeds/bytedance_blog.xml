@@ -15,7 +15,7 @@
     <published>2026-08-04T16:00:00+00:00</published>
     <updated>2026-08-04T16:00:00+00:00</updated>
     <summary type="text">As a native audio-visual full-duplex LLM, SeedRealtime can jointly understand audio, visual, and temporal information, accurately identify the interaction target and user intent, delivering a brand-new &quot;watch, listen, and speak&quot; experience.</summary>
-    <category term="Models"/>
+    <category term="Audio"/>
   </entry>
   <entry>
     <title>One-take Creation, Flexible Referencing: Introducing Seedance 2.5</title>
@@ -24,7 +24,7 @@
     <published>2026-07-30T16:00:00+00:00</published>
     <updated>2026-07-30T16:00:00+00:00</updated>
     <summary type="text">30-second long-form storytelling with fully upgraded multimodal referencing and editing capabilities.</summary>
-    <category term="Models"/>
+    <category term="Visual"/>
   </entry>
   <entry>
     <title>From Speech to Audio Creation | Introducing the Seed Audio 1.0 Audio Creation Model</title>
@@ -33,7 +33,7 @@
     <published>2026-07-19T16:00:00+00:00</published>
     <updated>2026-07-19T16:00:00+00:00</updated>
     <summary type="text">A unified framework for joint modeling of voice, sound effects, ambient sound, and other audio elements.</summary>
-    <category term="Models"/>
+    <category term="Audio"/>
   </entry>
   <entry>
     <title>Beyond Generation, It Understands Design | Introducing Seedream 5.0 Pro</title>
@@ -42,7 +42,7 @@
     <published>2026-07-07T16:00:00+00:00</published>
     <updated>2026-07-07T16:00:00+00:00</updated>
     <summary type="text">A multimodal image generation model that features advanced reasoning and efficient content creation.</summary>
-    <category term="Models"/>
+    <category term="Visual"/>
   </entry>
   <entry>
     <title>EdgeBench: Measuring Real-World Environment Learning and Discovering a New Scaling Law</title>
@@ -51,7 +51,7 @@
     <published>2026-07-06T16:00:00+00:00</published>
     <updated>2026-07-06T16:00:00+00:00</updated>
     <summary type="text">Agents exhibit a clear log-sigmoid pattern in environment learning.</summary>
-    <category term="Research"/>
+    <category term="Frontier research"/>
   </entry>
   <entry>
     <title>Seed2.1 Officially Released: Advancing AI Productivity</title>
@@ -60,7 +60,7 @@
     <published>2026-06-23T00:02:42+00:00</published>
     <updated>2026-06-23T00:02:42+00:00</updated>
     <summary type="text">Enhanced agent &amp; coding capabilities for reliable delivery in complex scenarios.</summary>
-    <category term="Models"/>
+    <category term="Foundation models"/>
   </entry>
   <entry>
     <title>Seed-2.1-Preview Model Release on Arena</title>
@@ -77,7 +77,7 @@
     <published>2026-04-22T16:00:00+00:00</published>
     <updated>2026-04-22T16:00:00+00:00</updated>
     <summary type="text">State-of-the-art (SOTA) performance in both geometry and texture &amp; material generation.</summary>
-    <category term="Models"/>
+    <category term="Frontier research"/>
   </entry>
   <entry>
     <title>Introducing Seed Full-Duplex Speech LLM: Attentive Listening, Robust Interference Suppression, Enabling More Natural Interaction</title>
@@ -86,6 +86,6 @@
     <published>2026-04-08T16:00:00+00:00</published>
     <updated>2026-04-08T16:00:00+00:00</updated>
     <summary type="text">As a native full-duplex speech LLM, it achieves high-precision interference suppression and adaptive endpoint detection.</summary>
-    <category term="Models"/>
+    <category term="Audio"/>
   </entry>
 </feed>

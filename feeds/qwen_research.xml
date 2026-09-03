@@ -4,10 +4,28 @@
   <icon>https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico</icon>
   <link href="https://qwen.ai/research"/>
   <id>https://qwen.ai/research</id>
-  <updated>2026-08-26T00:00:00+00:00</updated>
+  <updated>2026-09-03T00:00:00+00:00</updated>
   <author>
     <name>Qwen (Alibaba)</name>
   </author>
+  <entry>
+    <title>E-Commerce Bench: Long-Horizon Operations, Multi-Dimensional Evaluation</title>
+    <link href="https://qwen.ai/blog?id=e-commerce-bench"/>
+    <id>a06688d63ba1a0dd33e0a201125258c1</id>
+    <published>2026-09-03T00:00:00+00:00</published>
+    <updated>2026-09-03T00:00:00+00:00</updated>
+    <summary type="text">Agent benchmarks over the past few years have mostly followed one pattern. A goal is handed to the model, and the model tries to reach it within a bounded number of turns, whether that means finding the treasure in a maze, producing a report, or fixing a piece of code. Performance is then scored on the quality of the deliverable or on how much of the task got done, and evaluations of this kind...</summary>
+    <category term="Open-Source"/>
+  </entry>
+  <entry>
+    <title>Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving</title>
+    <link href="https://qwen.ai/blog?id=qwen-drive-1.0"/>
+    <id>af0fec6e3e95bfa94186212c9d7026e9</id>
+    <published>2026-09-03T00:00:00+00:00</published>
+    <updated>2026-09-03T00:00:00+00:00</updated>
+    <summary type="text">We introduce Qwen-Drive-1.0, the first vision-language foundation model for autonomous driving that unifies 3D perception and visual question answering at the pretraining stage and further extends to motion planning, while keeping the pretrained VLM architecture entirely untouched. Built on the natively multimodal Qwen3.5-4B, it attaches two external modules. A BEV perception head serves as an...</summary>
+    <category term="Open-Source"/>
+  </entry>
   <entry>
     <title>Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency</title>
     <link href="https://qwen.ai/blog?id=qwen3.8-flash-next"/>
@@ -33,24 +51,6 @@
     <published>2026-07-21T00:00:00+00:00</published>
     <updated>2026-07-21T00:00:00+00:00</updated>
     <summary type="text">We are launching Qwen-Image-3.0, the third-generation foundational image generation model in the Qwen-Image series. If the keyword for Qwen-Image-1.0 was &quot;Precision&quot;, and the keywords for Qwen-Image-2.0 were &quot;Precision, Variety, Completeness, Beauty, and Authenticity&quot;, then the core of Qwen-Image-3.0 comes down to a single word — &quot;Real&quot; (实). This &quot;Real&quot; is embodied across three dimensions:...</summary>
-    <category term="Release"/>
-  </entry>
-  <entry>
-    <title>Qwen-AgentWorld: Language World Models for General Agents</title>
-    <link href="https://qwen.ai/blog?id=qwen-agentworld"/>
-    <id>338924772472812ce526a9fcb61b8347</id>
-    <published>2026-06-23T00:00:00+00:00</published>
-    <updated>2026-06-23T00:00:00+00:00</updated>
-    <summary type="text">Today we release Qwen-AgentWorld, a native language world model that simulates agent environments across seven domains: Native world modeling: environment modeling is the training objective from continual pre-training onward (CPT → SFT → RL), not a post hoc adaptation on top of a general-purpose LLM. Seven domains, one model: a single model simulates text-based (MCP, Search, Terminal, SWE)...</summary>
-    <category term="Open-Source"/>
-  </entry>
-  <entry>
-    <title>Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence</title>
-    <link href="https://qwen.ai/blog?id=qwen-robotsuite"/>
-    <id>a7ad18e9319b9fea9d3dd0457b328e67</id>
-    <published>2026-06-16T00:00:00+00:00</published>
-    <updated>2026-06-16T00:00:00+00:00</updated>
-    <summary type="text">The Qwen family of foundation models already gives strong perception and reasoning about the physical world. But seeing is not acting: the gap between vision and language understanding and physical control remains the central bottleneck for embodied intelligence. The Qwen-Robot Suite bridges this gap with three foundation models — Qwen-RobotNav, Qwen-RobotManip, and Qwen-RobotWorld. Nav unifies...</summary>
     <category term="Release"/>
   </entry>
 </feed>

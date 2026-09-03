@@ -4,97 +4,17 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-02T05:53:00.693629+00:00</updated>
+  <updated>2026-09-03T14:04:59+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%</title>
-    <link href="https://www.aibase.com/news/30767"/>
-    <id>36143fe343176b92742d8a841d8954bb</id>
-    <published>2026-09-02T05:53:00.693629+00:00</published>
-    <updated>2026-09-02T05:53:00.693629+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI CEO直说“不喜欢智能眼镜”：跟戴摄像机的人讲话很不舒服，扎克伯格暂时松口气</title>
-    <link href="https://www.aibase.com/news/30765"/>
-    <id>9d61542b2c0b9dc1cdfe045139b40bbd</id>
-    <published>2026-09-02T05:53:00.693629+00:00</published>
-    <updated>2026-09-02T05:53:00.693629+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>美团 LongCat-2.0 上线 Cline 免费试用 / LongCat-2.0 is now free to try in @cline ！ 🐱</title>
-    <link href="https://x.com/Meituan_LongCat/status/2094996391387111865"/>
-    <id>58396f642261e9f5604dad75b92995ac</id>
-    <published>2026-09-02T03:50:37+00:00</published>
-    <updated>2026-09-02T03:50:37+00:00</updated>
-    <summary type="text">Score: 0.747\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685772&amp;idx=1&amp;sn=a073c30899a7f420147673def8209609"/>
-    <id>21af997b81f7193073f3378b0c0b4fc3</id>
-    <published>2026-09-02T03:32:20+00:00</published>
-    <updated>2026-09-02T03:32:20+00:00</updated>
-    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿 / 🏆 #1 overall on Code Arena， and top of the Pareto frontier at $5/MToken. Thanks！ @arena Give Qwen3…</title>
-    <link href="https://x.com/Alibaba_Qwen/status/2094982928371794077"/>
-    <id>504c101b334de0978cbec9124559c492</id>
-    <published>2026-09-02T02:57:07+00:00</published>
-    <updated>2026-09-02T02:57:07+00:00</updated>
-    <summary type="text">Score: 0.748\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Nvidia 接近以 129 亿美元收购 Hugging Face / Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…</title>
-    <link href="https://x.com/rohanpaul_ai/status/2094975190468010368"/>
-    <id>d6619576e6ac04156c58784cedbb0ec6</id>
-    <published>2026-09-02T02:26:22+00:00</published>
-    <updated>2026-09-02T02:26:22+00:00</updated>
-    <summary type="text">Score: 0.789\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…</title>
-    <link href="https://x.com/trq212/status/2094945951865520458"/>
-    <id>70a845440fcb6f9f5a3024f56469bd10</id>
-    <published>2026-09-02T00:30:11+00:00</published>
-    <updated>2026-09-02T00:30:11+00:00</updated>
-    <summary type="text">Score: 0.748\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Enterprise Live Migrations 从 GHES 到 ghe.com 现已全面可用 / Enterprise Live Migrations from GHES to ghe.com generally available</title>
-    <link href="https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available"/>
-    <id>821547691754f1dbea83492afaf4a1ec</id>
-    <published>2026-09-01T22:24:27+00:00</published>
-    <updated>2026-09-01T22:24:27+00:00</updated>
-    <summary type="text">Score: 0.826\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>CodeQL 2.26.4 提升 GitHub Actions 安全检测能力 / CodeQL 2.26.4 improves GitHub actions security detections</title>
+    <link href="https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections"/>
+    <id>442555a2b63efe4597074ee353bd7042</id>
+    <published>2026-09-03T14:04:59+00:00</published>
+    <updated>2026-09-03T14:04:59+00:00</updated>
+    <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -102,12 +22,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>BenchMIRT：LLM基准测试到底在衡量什么？ / BenchMIRT: What are LLM benchmarks actually measuring?</title>
-    <link href="https://huggingface.co/blog/allenai/benchmirt"/>
-    <id>e6833ba94e7e935bec28a341ce888185</id>
-    <published>2026-09-01T21:39:07+00:00</published>
-    <updated>2026-09-01T21:39:07+00:00</updated>
-    <summary type="text">Score: 0.850\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>NeoMME：一个高效的多模态原生及多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
+    <link href="https://huggingface.co/blog/Hcompany/neomme"/>
+    <id>639b84f27f2ea596952cf3c87755250d</id>
+    <published>2026-09-03T13:13:48+00:00</published>
+    <updated>2026-09-03T13:13:48+00:00</updated>
+    <summary type="text">Score: 0.856\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -115,63 +35,37 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>我们于2026年8月发布的最新AI新闻 / The latest AI news we announced in August 2026</title>
-    <link href="https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026"/>
-    <id>c205362a910262471f575a2ef1a22029</id>
-    <published>2026-09-01T20:45:00+00:00</published>
-    <updated>2026-09-01T20:45:00+00:00</updated>
-    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…</title>
-    <link href="https://x.com/ArtificialAnlys/status/2094881171066978525"/>
-    <id>f9ce4d60cdc8dcaf6aa321d4bb56157b</id>
-    <published>2026-09-01T20:12:46+00:00</published>
-    <updated>2026-09-01T20:12:46+00:00</updated>
-    <summary type="text">Score: 0.762\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face</title>
+    <link href="https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face"/>
+    <id>54f2bca31472531e2c346acd75c18574</id>
+    <published>2026-09-03T11:59:49+00:00</published>
+    <updated>2026-09-03T11:59:49+00:00</updated>
+    <summary type="text">Score: 0.842\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Copilot 代码审查现在可以批准 pull requests 了 / Copilot code review can now approve pull requests</title>
-    <link href="https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests"/>
-    <id>5b5ce020182382960ff988d672d69d6c</id>
-    <published>2026-09-01T19:25:57+00:00</published>
-    <updated>2026-09-01T19:25:57+00:00</updated>
-    <summary type="text">Score: 0.827\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
-    <link href="https://www.anthropic.com/claude-fable-and-mythos-5-1"/>
-    <id>2f0003a6e43c4aa28545c221d478f880</id>
-    <published>2026-09-01T18:01:24+00:00</published>
-    <updated>2026-09-01T18:01:24+00:00</updated>
-    <summary type="text">Score: 0.905\nSources: 3 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini</title>
-    <link href="https://deepmind.google/blog/introducing-agentic-video-in-gemini"/>
-    <id>155e6b958a0d091f1f8f2ab5ec68d85a</id>
-    <published>2026-09-01T17:08:51+00:00</published>
-    <updated>2026-09-01T17:08:51+00:00</updated>
-    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>AI 绩效评估从&quot;用量&quot;转向&quot;产出&quot;：Meta 弃用采用率仪表盘与 Token 指标</title>
+    <link href="https://www.aibase.com/news/30802"/>
+    <id>8790f7765bd772463a46eb1b3f064fa8</id>
+    <published>2026-09-03T09:50:56.715547+00:00</published>
+    <updated>2026-09-03T09:50:56.715547+00:00</updated>
+    <summary type="text">Score: 0.755\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.153.0</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>bc080e6e5073508e1dff5e68d7ee3d49</id>
+    <published>2026-09-03T00:00:00+00:00</published>
+    <updated>2026-09-03T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.831\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -179,12 +73,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>AI原生公司如何将工作流程转化为运营能力 / How AI-native companies turn workflows into operating capability</title>
-    <link href="https://openai.com/index/ai-native-company-workflows"/>
-    <id>32465e9dfc873dc8161e2bdda5b2d914</id>
-    <published>2026-09-01T17:00:00+00:00</published>
-    <updated>2026-09-01T17:00:00+00:00</updated>
-    <summary type="text">Score: 0.821\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层 / Give Your Coding Agents a Memory You Own</title>
+    <link href="https://huggingface.co/blog/funes"/>
+    <id>0971583036d74f13cda9e40d3003b2e9</id>
+    <published>2026-09-03T00:00:00+00:00</published>
+    <updated>2026-09-03T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -192,64 +86,173 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace</title>
-    <link href="https://blog.google/products-and-platforms/products/workspace/google-pics"/>
-    <id>5fcba3dcfa9ab69b8c260b4f01d6f4a8</id>
-    <published>2026-09-01T16:00:00+00:00</published>
-    <updated>2026-09-01T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.836\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv</title>
+    <link href="https://huggingface.co/blog/train-to-paint-with-code"/>
+    <id>9be53e4f836ea296b66365df789c30f7</id>
+    <published>2026-09-03T00:00:00+00:00</published>
+    <updated>2026-09-03T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>通过100步GRPO微调350M模型，实现更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps</title>
+    <link href="https://huggingface.co/blog/grpo-with-trl-ifstruct"/>
+    <id>85dc1e948e7632918144a0cd1f861404</id>
+    <published>2026-09-03T00:00:00+00:00</published>
+    <updated>2026-09-03T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用</title>
+    <link href="https://www.ithome.com/0/997/732.htm"/>
+    <id>6eaddffce03f6385c650913b6f66b13b</id>
+    <published>2026-09-02T23:50:05+00:00</published>
+    <updated>2026-09-02T23:50:05+00:00</updated>
+    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告</title>
+    <link href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation"/>
+    <id>de46ca9bea54f1b57d9c678b9253abac</id>
+    <published>2026-09-02T23:08:47+00:00</published>
+    <updated>2026-09-02T23:08:47+00:00</updated>
+    <summary type="text">Score: 0.835\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Claude Fable 5.1 已正式登陆 GitHub Copilot / Claude Fable 5.1 is generally available in GitHub Copilot</title>
-    <link href="https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot"/>
-    <id>88054a8df4ab3ec31af2d224b21b6ba6</id>
-    <published>2026-09-01T14:29:23+00:00</published>
-    <updated>2026-09-01T14:29:23+00:00</updated>
-    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards</title>
-    <link href="https://openai.com/index/path-to-astra"/>
-    <id>4db60b0eebb213def1c72a92de496e90</id>
-    <published>2026-09-01T13:00:00+00:00</published>
-    <updated>2026-09-01T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.863\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
   </entry>
   <entry>
-    <title>路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治</title>
-    <link href="https://www.ithome.com/0/997/147.htm"/>
-    <id>5754f827edd93b48b4a40b72d774f9c2</id>
-    <published>2026-09-01T12:40:19+00:00</published>
-    <updated>2026-09-01T12:40:19+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…</title>
+    <link href="https://x.com/kimmonismus/status/2095265444999410146"/>
+    <id>95d5c8750923ce91fbb9ac8cdb55dbd8</id>
+    <published>2026-09-02T21:39:44+00:00</published>
+    <updated>2026-09-02T21:39:44+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>医疗保健组织现在可以将电子病历和更多行业数据连接到ChatGPT / Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
-    <link href="https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"/>
-    <id>f091cc37464d2432adb71a9ed873e656</id>
-    <published>2026-09-01T12:00:00+00:00</published>
-    <updated>2026-09-01T12:00:00+00:00</updated>
-    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
+    <link href="https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my"/>
+    <id>0e4f547d7449d82e4fa71d9cad51e3c3</id>
+    <published>2026-09-02T21:00:00+00:00</published>
+    <updated>2026-09-02T21:00:00+00:00</updated>
+    <summary type="text">Score: 0.803\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…</title>
+    <link href="https://x.com/claudeai/status/2095226833293685100"/>
+    <id>f0e7eda3043f95d22d1b9d11bc652a43</id>
+    <published>2026-09-02T19:06:19+00:00</published>
+    <updated>2026-09-02T19:06:19+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>企业托管设置支持任意默认模型 / Enterprise-managed settings support any default model</title>
+    <link href="https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model"/>
+    <id>d8cd7d1053814a608527905ce188c0d2</id>
+    <published>2026-09-02T18:51:12+00:00</published>
+    <updated>2026-09-02T18:51:12+00:00</updated>
+    <summary type="text">Score: 0.799\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>内容排除功能现已全面登陆 Copilot 应用及 CLI / Content exclusions generally available in Copilot app and CLI</title>
+    <link href="https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli"/>
+    <id>7d0586251799ebd2d513405f765e3832</id>
+    <published>2026-09-02T18:14:23+00:00</published>
+    <updated>2026-09-02T18:14:23+00:00</updated>
+    <summary type="text">Score: 0.805\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality"/>
+    <id>4615149be300718a311e557dbaf10700</id>
+    <published>2026-09-02T18:00:00+00:00</published>
+    <updated>2026-09-02T18:00:00+00:00</updated>
+    <summary type="text">Score: 0.797\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>美国司法部就 OpenAI 版权诉讼提交意见书支持训练属于合理使用 / The Trump administration has now formally put the U.S. government behind OpenAI's core fair-use argu…</title>
+    <link href="https://x.com/rohanpaul_ai/status/2095197606884573208"/>
+    <id>3964eb094d42be26dd578e422c2a63cb</id>
+    <published>2026-09-02T17:10:11+00:00</published>
+    <updated>2026-09-02T17:10:11+00:00</updated>
+    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions</title>
+    <link href="https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions"/>
+    <id>d9e2288e01e72d02c508a4bc4ef4dbee</id>
+    <published>2026-09-02T16:29:43.634000+00:00</published>
+    <updated>2026-09-02T16:29:43.634000+00:00</updated>
+    <summary type="text">Score: 0.733\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
+    <link href="https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber"/>
+    <id>c2c45f6163f22560086fc64674f057b1</id>
+    <published>2026-09-02T16:18:31+00:00</published>
+    <updated>2026-09-02T16:18:31+00:00</updated>
+    <summary type="text">Score: 0.802\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>为政府与企业打造主动式网络防御 / Proactive cyber defense for governments and enterprises</title>
+    <link href="https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program"/>
+    <id>c1fb98c296dfc5201341bd967204789b</id>
+    <published>2026-09-02T15:40:00+00:00</published>
+    <updated>2026-09-02T15:40:00+00:00</updated>
+    <summary type="text">Score: 0.792\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>

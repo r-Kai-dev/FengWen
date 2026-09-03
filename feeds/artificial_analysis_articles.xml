@@ -4,14 +4,28 @@
   <icon>https://artificialanalysis.ai/favicon.ico</icon>
   <link href="https://artificialanalysis.ai/articles"/>
   <id>https://artificialanalysis.ai/articles</id>
-  <updated>2026-09-02T00:00:00+00:00</updated>
+  <updated>2026-09-03T00:00:00+00:00</updated>
   <author>
     <name>Artificial Analysis</name>
   </author>
   <entry>
+    <title>Benchmarking GPT-6 Astra</title>
+    <link href="https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra"/>
+    <id>09f7478e384d65a062f4e45fd43881fb</id>
+    <published>2026-09-03T00:00:00+00:00</published>
+    <updated>2026-09-03T00:00:00+00:00</updated>
+  </entry>
+  <entry>
     <title>Google has released Gemini 3.8 Flash, its fourth Flash model in under four months</title>
     <link href="https://artificialanalysis.ai/articles/gemini-3-8-flash"/>
     <id>9feecd7048ea3efb6397ade8d396dd95</id>
+    <published>2026-09-02T00:00:00+00:00</published>
+    <updated>2026-09-02T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Muse Spark 1.3: Meta reaches the frontier</title>
+    <link href="https://artificialanalysis.ai/articles/muse-spark-1-3"/>
+    <id>97da7ed8c4d2a74b9e4b3694134a0ef2</id>
     <published>2026-09-02T00:00:00+00:00</published>
     <updated>2026-09-02T00:00:00+00:00</updated>
   </entry>
@@ -77,19 +91,5 @@
     <id>4856d0613b2f367cc879855a10fd8c0f</id>
     <published>2026-08-12T00:00:00+00:00</published>
     <updated>2026-08-12T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA launches Nemotron 3.5 Lightning</title>
-    <link href="https://artificialanalysis.ai/articles/nemotron-3-5-lightning-launch"/>
-    <id>c06e83f1c739454a5d8fd7e057998ca5</id>
-    <published>2026-08-11T00:00:00+00:00</published>
-    <updated>2026-08-11T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Announcing AA-AnalystAgent: an agentic benchmark for quantitative analysis on real-world spreadsheets and documents</title>
-    <link href="https://artificialanalysis.ai/articles/aa-analyst-agent"/>
-    <id>b74549987cbb230742285deea0050647</id>
-    <published>2026-08-10T00:00:00+00:00</published>
-    <updated>2026-08-10T00:00:00+00:00</updated>
   </entry>
 </feed>
