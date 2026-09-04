@@ -4,10 +4,28 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-09-01T00:00:00+00:00</updated>
+  <updated>2026-09-04T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Largest AI Data Center Power: Doubling every 10 months</title>
+    <link href="https://epoch.ai/data-insights/frontier-data-center-power"/>
+    <id>b61d41efa58113892c05892108e0efa6</id>
+    <published>2026-09-04T00:00:00+00:00</published>
+    <updated>2026-09-04T00:00:00+00:00</updated>
+    <summary type="text">Since mid-2024, the record for the largest AI data center by IT power capacity has doubled every ten months. Epoch AI's analysis of frontier data center power trends through 2028.</summary>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>Will Huawei catch up to Nvidia by 2030?</title>
+    <link href="https://epoch.ai/publications/huaweis-roadmap-to-2031"/>
+    <id>0296545e2af87e4e77b04db1726a3ce5</id>
+    <published>2026-09-04T00:00:00+00:00</published>
+    <updated>2026-09-04T00:00:00+00:00</updated>
+    <summary type="text">Huawei plans major gains in AI chip performance by 2030, but US export controls cap its most important scaling levers. Epoch AI estimates Huawei will produce less than 4% as much AI compute as Nvidia in 2026, a share that could be around 1% by 2028 without access to foreign memory.</summary>
+    <category term="Report"/>
+  </entry>
   <entry>
     <title>Announcing FrontierMath Erdős</title>
     <link href="https://epoch.ai/latest/announcing-frontiermath-erdos"/>
@@ -78,23 +96,5 @@
     <updated>2026-08-12T00:00:00+00:00</updated>
     <summary type="text">Why Anthropic's buildout suggests that financing is unlikely to be the immediate blocker to frontier AI compute growth.</summary>
     <category term="Newsletter"/>
-  </entry>
-  <entry>
-    <title>AI at work: how AI is changing everyday job tasks</title>
-    <link href="https://epoch.ai/publications/one-in-five-workers-delegate-work-to-ai"/>
-    <id>eeb3fbeed4b84e36a93d4727455fd930</id>
-    <published>2026-08-06T00:00:00+00:00</published>
-    <updated>2026-08-06T00:00:00+00:00</updated>
-    <summary type="text">One in five US workers say AI now does work they once handed to a coworker or contractor, per a new Epoch AI/Ipsos survey of 1,106 employed adults.</summary>
-    <category term="Report"/>
-  </entry>
-  <entry>
-    <title>Disclosed CVEs: July Reached 5× the Pre-Mythos Record</title>
-    <link href="https://epoch.ai/data-insights/cve-severity-spike-july-2026"/>
-    <id>e6d8b516a2371c1f927ca28d768082c4</id>
-    <published>2026-07-31T00:00:00+00:00</published>
-    <updated>2026-07-31T00:00:00+00:00</updated>
-    <summary type="text">Notable organizations disclosed ~2,500 high- and critical-severity CVEs in July 2026, about 5× the pre-Mythos monthly record. Epoch AI's updated breakdown of vulnerability disclosures following Anthropic's Project Glasswing.</summary>
-    <category term="Data Insight"/>
   </entry>
 </feed>

@@ -19,7 +19,7 @@
     <category term="Enterprise"/>
   </entry>
   <entry>
-    <title>Who Grades the Graders? Rethinking Verifier Design for Computer-Use Agents</title>
+    <title>Who Grades the Graders? Rethinking Verifier Design for Computer Use Agents</title>
     <link href="https://labs.scale.com/blog/verifier-design-for-cua"/>
     <id>4e5100ec6b90c16ca0f9704331e2a6a3</id>
     <published>2026-09-02</published>
@@ -157,16 +157,6 @@
     <category term="Evaluation and Alignment"/>
   </entry>
   <entry>
-    <title>Voice Showdown: An In-the-Wild Preference Arena for Voice AI</title>
-    <link href="https://labs.scale.com/blog/voice-showdown"/>
-    <id>0b1ea3aea669c3eae0f33bd490438196</id>
-    <published>2026-03-20</published>
-    <updated>2026-03-20</updated>
-    <summary type="text">Voice Showdown is the first large-scale preference arena for voice AI, ranking models through blind comparisons embedded in real user conversations across 60+ languages. — By Advait Gosai, Janie Gu, Bing Liu, Mohamed Elfeki</summary>
-    <category term="Evaluation and Alignment"/>
-    <category term="Multimodal"/>
-  </entry>
-  <entry>
     <title>Agentic Rubrics: Teaching AI to Verify Code the Way Developers Do</title>
     <link href="https://labs.scale.com/blog/agentic-rubrics"/>
     <id>0f6ddf0346a95ec90bb183ee4f3f7d2b</id>
@@ -206,16 +196,6 @@
     <category term="Agents"/>
     <category term="Evaluation and Alignment"/>
     <category term="Science of Data"/>
-  </entry>
-  <entry>
-    <title>How Profession Shapes LLM Usage: Insights from Scale Showdown</title>
-    <link href="https://labs.scale.com/blog/showdown-insights"/>
-    <id>6f1141fa386e7c992a4b56ef74d9cc12</id>
-    <published>2026-01-28</published>
-    <updated>2026-01-28</updated>
-    <summary type="text">We analyze 580k+ production prompts and 100k+ preference battles from Scale Showdown to study how profession shapes LLM usage. We find that professional backgroundâindependent of topicâpredicts prompt difficulty, task type, and model preference, with domain experts asking harder in-domain questions and ranking models differently. These results motivate profession-aware evaluation of LLMs in expert workflows. — By Janie Gu, Jaehwan Jeong, David Lee, Bing Liu, Zihao Wang</summary>
-    <category term="Evaluation and Alignment"/>
-    <category term="Enterprise"/>
   </entry>
   <entry>
     <title>MoReBench: Evaluating the Process of AI Moral Reasoning</title>

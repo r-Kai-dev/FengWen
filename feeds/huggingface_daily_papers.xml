@@ -4,14 +4,24 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/papers"/>
   <id>https://huggingface.co/papers</id>
-  <updated>2026-08-31T20:00:00.000Z</updated>
+  <updated>2026-09-01T20:00:00.000Z</updated>
+  <entry>
+    <title>Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills</title>
+    <link href="https://arxiv.org/abs/2609.02749"/>
+    <id>3e5d741d1b190d14e8530671ddbd8c12</id>
+    <published>2026-09-01T20:00:00.000Z</published>
+    <updated>2026-09-01T20:00:00.000Z</updated>
+    <summary type="text">Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this... \u00b7 Upvotes: 514 \u00b7 GitHub Stars: 173 \u00b7 Authors: Jianlyu Chen, Yuyang Hu, Hongjin Qian</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
   <entry>
     <title>StudentSim: Training LLM-based Student Simulators</title>
     <link href="https://arxiv.org/abs/2609.01591"/>
     <id>7577abb1e2d6b8f8a59bcbf22dcd8e94</id>
     <published>2026-08-31T20:00:00.000Z</published>
     <updated>2026-08-31T20:00:00.000Z</updated>
-    <summary type="text">AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to coll... \u00b7 Upvotes: 478 \u00b7 GitHub Stars: 10 \u00b7 Authors: Ke Yang, Chenglong Wang, Michel Galley</summary>
+    <summary type="text">AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to coll... \u00b7 Upvotes: 480 \u00b7 GitHub Stars: 33 \u00b7 Authors: Ke Yang, Chenglong Wang, Michel Galley</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +31,7 @@
     <id>a9921847e9c477ef963c46c554bd6541</id>
     <published>2026-08-30T20:00:00.000Z</published>
     <updated>2026-08-30T20:00:00.000Z</updated>
-    <summary type="text">We present Qwen-Drive-1.0, an initial step towards a vision-language foundation model for autonomous driving. Qwen-Drive-1.0 retains the architecture of the pretrained vision-language model (VLM) and ... \u00b7 Upvotes: 361 \u00b7 Authors: Xin Zhou, Zongchuang Zhao, Zhibo Yang</summary>
+    <summary type="text">We present Qwen-Drive-1.0, an initial step towards a vision-language foundation model for autonomous driving. Qwen-Drive-1.0 retains the architecture of the pretrained vision-language model (VLM) and ... \u00b7 Upvotes: 369 \u00b7 Authors: Xin Zhou, Zongchuang Zhao, Zhibo Yang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +41,7 @@
     <id>cd835cba923694921226974cedf74e88</id>
     <published>2026-08-26T20:00:00.000Z</published>
     <updated>2026-08-26T20:00:00.000Z</updated>
-    <summary type="text">Scaling robot data is crucial for building generalist Vision-Language-Action (VLA) models, yet robot trajectories are harder to scale than web-scale image-text data because embodied collection is cost... \u00b7 Upvotes: 89 \u00b7 GitHub Stars: 3576 \u00b7 Authors: Senqiao Yang, Chengyao Wang, Yuxin Chen</summary>
+    <summary type="text">Scaling robot data is crucial for building generalist Vision-Language-Action (VLA) models, yet robot trajectories are harder to scale than web-scale image-text data because embodied collection is cost... \u00b7 Upvotes: 91 \u00b7 GitHub Stars: 3591 \u00b7 Authors: Senqiao Yang, Chengyao Wang, Yuxin Chen</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +51,7 @@
     <id>a43e1614250242d15ddc73077e4814bf</id>
     <published>2026-08-23T20:00:00.000Z</published>
     <updated>2026-08-23T20:00:00.000Z</updated>
-    <summary type="text">Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long... \u00b7 Upvotes: 48 \u00b7 GitHub Stars: 19617 \u00b7 Authors: Seth Karten, Alex L. Zhang, Kevin Thomas</summary>
+    <summary type="text">Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long... \u00b7 Upvotes: 48 \u00b7 GitHub Stars: 19837 \u00b7 Authors: Seth Karten, Alex L. Zhang, Kevin Thomas</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,17 +61,7 @@
     <id>ce322cd925b1d960689b98de49a27747</id>
     <published>2026-08-16T20:00:00.000Z</published>
     <updated>2026-08-16T20:00:00.000Z</updated>
-    <summary type="text">Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal... \u00b7 Upvotes: 107 \u00b7 GitHub Stars: 10988 \u00b7 Authors: Shuo Yang, Xiaoze Fan, Melissa Pan</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>HarnessEval-W: Agentifying the Evaluation of Visual Worlds</title>
-    <link href="https://arxiv.org/abs/2608.16859"/>
-    <id>06207a7e06e705713e7559db7404d4d8</id>
-    <published>2026-08-16T20:00:00.000Z</published>
-    <updated>2026-08-16T20:00:00.000Z</updated>
-    <summary type="text">A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollo... \u00b7 Upvotes: 339 \u00b7 GitHub Stars: 286 \u00b7 Authors: Weiliang Chen, Haowen Sun, Jun Gao</summary>
+    <summary type="text">Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal... \u00b7 Upvotes: 107 \u00b7 GitHub Stars: 11631 \u00b7 Authors: Shuo Yang, Xiaoze Fan, Melissa Pan</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +71,7 @@
     <id>1baf6dbae514d7ad8ad4de62979178d2</id>
     <published>2026-08-15T20:00:00.000Z</published>
     <updated>2026-08-15T20:00:00.000Z</updated>
-    <summary type="text">Vision-language-action (VLA) models have become a dominant paradigm for generalist embodied agents, demonstrating strong complex and long-horizon task completion in structured settings. Yet it remains... \u00b7 Upvotes: 103 \u00b7 GitHub Stars: 2630 \u00b7 Authors: GigaBrain Team, Angen Ye, Axiang Sun</summary>
+    <summary type="text">Vision-language-action (VLA) models have become a dominant paradigm for generalist embodied agents, demonstrating strong complex and long-horizon task completion in structured settings. Yet it remains... \u00b7 Upvotes: 103 \u00b7 GitHub Stars: 2633 \u00b7 Authors: GigaBrain Team, Angen Ye, Axiang Sun</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +81,7 @@
     <id>519faa86d750a357aaad285fd5e41dec</id>
     <published>2026-08-14T20:00:00.000Z</published>
     <updated>2026-08-14T20:00:00.000Z</updated>
-    <summary type="text">Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro... \u00b7 Upvotes: 445 \u00b7 GitHub Stars: 843 \u00b7 Authors: Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang</summary>
+    <summary type="text">Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro... \u00b7 Upvotes: 446 \u00b7 GitHub Stars: 960 \u00b7 Authors: Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,7 +91,7 @@
     <id>ff31056e683b049c349bea47fee72656</id>
     <published>2026-08-09T20:00:00.000Z</published>
     <updated>2026-08-09T20:00:00.000Z</updated>
-    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 770 \u00b7 GitHub Stars: 10309 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
+    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 772 \u00b7 GitHub Stars: 10582 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -111,7 +111,7 @@
     <id>b3bf71e004d5f291fada95cb9e8d41d5</id>
     <published>2026-08-06T20:00:00.000Z</published>
     <updated>2026-08-06T20:00:00.000Z</updated>
-    <summary type="text">No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and... \u00b7 Upvotes: 111 \u00b7 GitHub Stars: 2742 \u00b7 Authors: Tao Feng, Fangxu Yu, Haozhen Zhang</summary>
+    <summary type="text">No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and... \u00b7 Upvotes: 111 \u00b7 GitHub Stars: 2766 \u00b7 Authors: Tao Feng, Fangxu Yu, Haozhen Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

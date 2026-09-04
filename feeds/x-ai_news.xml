@@ -4,10 +4,17 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-09-03T00:00:00+00:00</updated>
+  <updated>2026-09-04T00:00:00+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
+  <entry>
+    <title>Setting Grok Bot loose on procurement</title>
+    <link href="https://x.ai/news/grok-bot-procurement"/>
+    <id>839a86d26cc566e13953f4f0461dac4b</id>
+    <published>2026-09-04T00:00:00+00:00</published>
+    <updated>2026-09-04T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Designing Grok Bot for a world of persistent agents</title>
     <link href="https://x.ai/news/designing-grok-bot"/>
@@ -43,6 +50,7 @@
     <id>980ad9297232265183f77f0c41bcce2c</id>
     <published>2026-08-26T00:00:00+00:00</published>
     <updated>2026-08-26T00:00:00+00:00</updated>
+    <summary type="text">Grok 4.6 is now available via Microsoft Foundry.</summary>
   </entry>
   <entry>
     <title>Grok Bot is now included with more plans</title>

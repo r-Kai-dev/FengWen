@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-08-28T00:00:00+00:00</updated>
+  <updated>2026-09-04T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Formalizing Fermat's Last Theorem</title>
+    <link href="https://www.anthropic.com/research/formalizing-fermats-last-theorem"/>
+    <id>21f14ee6002e9543e67ca00bf4431f10</id>
+    <published>2026-09-04T00:00:00+00:00</published>
+    <updated>2026-09-04T00:00:00+00:00</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Automated researchers can reliably mitigate alignment failures</title>
     <link href="https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"/>
@@ -79,14 +87,6 @@
     <published>2026-07-14T00:00:00+00:00</published>
     <updated>2026-07-14T00:00:00+00:00</updated>
     <category term="Economics"/>
-  </entry>
-  <entry>
-    <title>Claude’s values across models and languages</title>
-    <link href="https://www.anthropic.com/research/claude-values-models-languages"/>
-    <id>91c422df408c96ae2263de8787a12cb1</id>
-    <published>2026-07-13T00:00:00+00:00</published>
-    <updated>2026-07-13T00:00:00+00:00</updated>
-    <category term="Societal Impacts"/>
   </entry>
   <entry>
     <title>A global workspace in language models</title>
