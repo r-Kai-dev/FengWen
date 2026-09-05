@@ -4,183 +4,183 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/models"/>
   <id>https://huggingface.co/models</id>
-  <updated>2026-09-04T22:40:30.809423+00:00</updated>
+  <updated>2026-09-05T22:31:05.080681+00:00</updated>
   <entry>
-    <title>tencent/Hy4-preview</title>
-    <link href="https://huggingface.co/tencent/Hy4-preview"/>
-    <id>987b2d02b76578e9c917d5de3ef78ff4</id>
-    <published>2026-09-04T22:40:30.809423+00:00</published>
-    <updated>2026-09-04T22:40:30.809423+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 5,684 \u00b7 Likes: 429</summary>
-    <category term="text-generation"/>
+    <title>openai/clip-vit-base-patch32</title>
+    <link href="https://huggingface.co/openai/clip-vit-base-patch32"/>
+    <id>17027ee08fb11a4c318ec51a2ec97a90</id>
+    <published>2026-09-05T22:31:05.080681+00:00</published>
+    <updated>2026-09-05T22:31:05.080681+00:00</updated>
+    <summary type="text">Type: zero-shot-image-classification \u00b7 Downloads: 20,755,211 \u00b7 Likes: 1207</summary>
+    <category term="zero-shot-image-classification"/>
   </entry>
   <entry>
     <title>distilbert/distilbert-base-uncased</title>
     <link href="https://huggingface.co/distilbert/distilbert-base-uncased"/>
     <id>6cdfaf8bfa4b1e3e1f0b62a37bddaf4e</id>
-    <published>2026-09-04T22:40:30.809416+00:00</published>
-    <updated>2026-09-04T22:40:30.809416+00:00</updated>
-    <summary type="text">Type: fill-mask \u00b7 Downloads: 7,067,963 \u00b7 Likes: 1127</summary>
+    <published>2026-09-05T22:31:05.080671+00:00</published>
+    <updated>2026-09-05T22:31:05.080671+00:00</updated>
+    <summary type="text">Type: fill-mask \u00b7 Downloads: 7,101,423 \u00b7 Likes: 1150</summary>
     <category term="fill-mask"/>
+  </entry>
+  <entry>
+    <title>DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF</title>
+    <link href="https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"/>
+    <id>6463bb74d04edac5c18c098606d77785</id>
+    <published>2026-09-05T22:31:05.080661+00:00</published>
+    <updated>2026-09-05T22:31:05.080661+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 174,405 \u00b7 Likes: 216</summary>
+    <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>facebook/mms-300m</title>
     <link href="https://huggingface.co/facebook/mms-300m"/>
     <id>7a1731a5fb71b427f6436894819d5076</id>
-    <published>2026-09-04T22:40:30.809409+00:00</published>
-    <updated>2026-09-04T22:40:30.809409+00:00</updated>
-    <summary type="text">Downloads: 12,823 \u00b7 Likes: 230</summary>
-  </entry>
-  <entry>
-    <title>google-bert/bert-base-uncased</title>
-    <link href="https://huggingface.co/google-bert/bert-base-uncased"/>
-    <id>cb9271b678a4c4d3b806ea23e4e7009e</id>
-    <published>2026-09-04T22:40:30.809402+00:00</published>
-    <updated>2026-09-04T22:40:30.809402+00:00</updated>
-    <summary type="text">Type: fill-mask \u00b7 Downloads: 58,675,189 \u00b7 Likes: 2945</summary>
-    <category term="fill-mask"/>
-  </entry>
-  <entry>
-    <title>openai-community/gpt2</title>
-    <link href="https://huggingface.co/openai-community/gpt2"/>
-    <id>ed17eb9bb5b193ec76a815ece852d142</id>
-    <published>2026-09-04T22:40:30.809396+00:00</published>
-    <updated>2026-09-04T22:40:30.809396+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 14,607,268 \u00b7 Likes: 3652</summary>
-    <category term="text-generation"/>
-  </entry>
-  <entry>
-    <title>FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree</title>
-    <link href="https://huggingface.co/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree"/>
-    <id>478e01aaac981dd23cb360c390636b7b</id>
-    <published>2026-09-04T22:40:30.809390+00:00</published>
-    <updated>2026-09-04T22:40:30.809390+00:00</updated>
-    <summary type="text">Type: text-to-video \u00b7 Likes: 269</summary>
-    <category term="text-to-video"/>
-  </entry>
-  <entry>
-    <title>sentence-transformers/all-MiniLM-L6-v2</title>
-    <link href="https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"/>
-    <id>cf89534aa17fa13981cc4c7ada901bcc</id>
-    <published>2026-09-04T22:40:30.809384+00:00</published>
-    <updated>2026-09-04T22:40:30.809384+00:00</updated>
-    <summary type="text">Type: sentence-similarity \u00b7 Downloads: 253,789,790 \u00b7 Likes: 5509</summary>
-    <category term="sentence-similarity"/>
+    <published>2026-09-05T22:31:05.080651+00:00</published>
+    <updated>2026-09-05T22:31:05.080651+00:00</updated>
+    <summary type="text">Downloads: 12,961 \u00b7 Likes: 255</summary>
   </entry>
   <entry>
     <title>unsloth/Qwen3.8-Flash-Next-GGUF</title>
     <link href="https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF"/>
     <id>2f5d41b55957c79257c05cac7fd424ba</id>
-    <published>2026-09-04T22:40:30.809377+00:00</published>
-    <updated>2026-09-04T22:40:30.809377+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 702,251 \u00b7 Likes: 782</summary>
+    <published>2026-09-05T22:31:05.080640+00:00</published>
+    <updated>2026-09-05T22:31:05.080640+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 780,823 \u00b7 Likes: 796</summary>
     <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>google-bert/bert-base-uncased</title>
+    <link href="https://huggingface.co/google-bert/bert-base-uncased"/>
+    <id>cb9271b678a4c4d3b806ea23e4e7009e</id>
+    <published>2026-09-05T22:31:05.080631+00:00</published>
+    <updated>2026-09-05T22:31:05.080631+00:00</updated>
+    <summary type="text">Type: fill-mask \u00b7 Downloads: 56,175,564 \u00b7 Likes: 2980</summary>
+    <category term="fill-mask"/>
   </entry>
   <entry>
     <title>MiniMaxAI/MiniMax-H3</title>
     <link href="https://huggingface.co/MiniMaxAI/MiniMax-H3"/>
     <id>5f3ee38a1b2871651b30fa39bd58ee1e</id>
-    <published>2026-09-04T22:40:30.809354+00:00</published>
-    <updated>2026-09-04T22:40:30.809354+00:00</updated>
-    <summary type="text">Type: image-text-to-video \u00b7 Downloads: 5,118,457 \u00b7 Likes: 4901</summary>
+    <published>2026-09-05T22:31:05.080622+00:00</published>
+    <updated>2026-09-05T22:31:05.080622+00:00</updated>
+    <summary type="text">Type: image-text-to-video \u00b7 Downloads: 5,057,414 \u00b7 Likes: 4934</summary>
     <category term="image-text-to-video"/>
+  </entry>
+  <entry>
+    <title>openai-community/gpt2</title>
+    <link href="https://huggingface.co/openai-community/gpt2"/>
+    <id>ed17eb9bb5b193ec76a815ece852d142</id>
+    <published>2026-09-05T22:31:05.080612+00:00</published>
+    <updated>2026-09-05T22:31:05.080612+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 14,739,982 \u00b7 Likes: 3694</summary>
+    <category term="text-generation"/>
   </entry>
   <entry>
     <title>BreezeBlue/Breeze-TTS-2</title>
     <link href="https://huggingface.co/BreezeBlue/Breeze-TTS-2"/>
     <id>a5926fc72bbb2c0a5577e87519e77ac6</id>
-    <published>2026-09-04T22:40:30.809347+00:00</published>
-    <updated>2026-09-04T22:40:30.809347+00:00</updated>
-    <summary type="text">Type: text-to-speech \u00b7 Downloads: 5,388 \u00b7 Likes: 423</summary>
+    <published>2026-09-05T22:31:05.080602+00:00</published>
+    <updated>2026-09-05T22:31:05.080602+00:00</updated>
+    <summary type="text">Type: text-to-speech \u00b7 Downloads: 5,962 \u00b7 Likes: 448</summary>
     <category term="text-to-speech"/>
+  </entry>
+  <entry>
+    <title>sentence-transformers/all-MiniLM-L6-v2</title>
+    <link href="https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"/>
+    <id>cf89534aa17fa13981cc4c7ada901bcc</id>
+    <published>2026-09-05T22:31:05.080592+00:00</published>
+    <updated>2026-09-05T22:31:05.080592+00:00</updated>
+    <summary type="text">Type: sentence-similarity \u00b7 Downloads: 255,006,933 \u00b7 Likes: 5554</summary>
+    <category term="sentence-similarity"/>
   </entry>
   <entry>
     <title>unsloth/Qwen3.8-27B-GGUF</title>
     <link href="https://huggingface.co/unsloth/Qwen3.8-27B-GGUF"/>
     <id>c64cec5959a503521c428a05329dc145</id>
-    <published>2026-09-04T22:40:30.809341+00:00</published>
-    <updated>2026-09-04T22:40:30.809341+00:00</updated>
-    <summary type="text">Downloads: 9,951,693 \u00b7 Likes: 3500</summary>
+    <published>2026-09-05T22:31:05.080582+00:00</published>
+    <updated>2026-09-05T22:31:05.080582+00:00</updated>
+    <summary type="text">Downloads: 10,157,510 \u00b7 Likes: 3540</summary>
   </entry>
   <entry>
     <title>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF</title>
     <link href="https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF"/>
     <id>46403a33814727d8c736fef5481405e2</id>
-    <published>2026-09-04T22:40:30.809335+00:00</published>
-    <updated>2026-09-04T22:40:30.809335+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 206,575 \u00b7 Likes: 302</summary>
-    <category term="image-text-to-text"/>
-  </entry>
-  <entry>
-    <title>Lightricks/LTX-2.5</title>
-    <link href="https://huggingface.co/Lightricks/LTX-2.5"/>
-    <id>ad1ed3b785225533b61ac0d0743b44dd</id>
-    <published>2026-09-04T22:40:30.809329+00:00</published>
-    <updated>2026-09-04T22:40:30.809329+00:00</updated>
-    <summary type="text">Type: image-to-video \u00b7 Downloads: 1,399,511 \u00b7 Likes: 2776</summary>
-    <category term="image-to-video"/>
-  </entry>
-  <entry>
-    <title>XHToken/Spark-X2.5-4B</title>
-    <link href="https://huggingface.co/XHToken/Spark-X2.5-4B"/>
-    <id>acdca2479d12da11b716b0322669b63b</id>
-    <published>2026-09-04T22:40:30.809322+00:00</published>
-    <updated>2026-09-04T22:40:30.809322+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 3,524 \u00b7 Likes: 463</summary>
-    <category term="text-generation"/>
-  </entry>
-  <entry>
-    <title>google/timesfm-3.0-pytorch</title>
-    <link href="https://huggingface.co/google/timesfm-3.0-pytorch"/>
-    <id>c35c6095517eef33e42d92f9ac67c2c0</id>
-    <published>2026-09-04T22:40:30.809316+00:00</published>
-    <updated>2026-09-04T22:40:30.809316+00:00</updated>
-    <summary type="text">Type: time-series-forecasting \u00b7 Downloads: 105,304 \u00b7 Likes: 422</summary>
-    <category term="time-series-forecasting"/>
-  </entry>
-  <entry>
-    <title>zai-org/GLM-5.3-Flash</title>
-    <link href="https://huggingface.co/zai-org/GLM-5.3-Flash"/>
-    <id>b6ce48c76156db197b5f61212f8a7b58</id>
-    <published>2026-09-04T22:40:30.809309+00:00</published>
-    <updated>2026-09-04T22:40:30.809309+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 654,957 \u00b7 Likes: 2041</summary>
+    <published>2026-09-05T22:31:05.080572+00:00</published>
+    <updated>2026-09-05T22:31:05.080572+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 297,493 \u00b7 Likes: 401</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>zai-org/GLM-5.3</title>
     <link href="https://huggingface.co/zai-org/GLM-5.3"/>
     <id>48505e43c64bf3a71e2434727dcfbb76</id>
-    <published>2026-09-04T22:40:30.809302+00:00</published>
-    <updated>2026-09-04T22:40:30.809302+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 303,534 \u00b7 Likes: 1694</summary>
+    <published>2026-09-05T22:31:05.080562+00:00</published>
+    <updated>2026-09-05T22:31:05.080562+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 370,417 \u00b7 Likes: 1717</summary>
+    <category term="text-generation"/>
+  </entry>
+  <entry>
+    <title>Lightricks/LTX-2.5</title>
+    <link href="https://huggingface.co/Lightricks/LTX-2.5"/>
+    <id>ad1ed3b785225533b61ac0d0743b44dd</id>
+    <published>2026-09-05T22:31:05.080551+00:00</published>
+    <updated>2026-09-05T22:31:05.080551+00:00</updated>
+    <summary type="text">Type: image-to-video \u00b7 Downloads: 1,484,329 \u00b7 Likes: 2877</summary>
+    <category term="image-to-video"/>
+  </entry>
+  <entry>
+    <title>zai-org/GLM-5.3-Flash</title>
+    <link href="https://huggingface.co/zai-org/GLM-5.3-Flash"/>
+    <id>b6ce48c76156db197b5f61212f8a7b58</id>
+    <published>2026-09-05T22:31:05.080541+00:00</published>
+    <updated>2026-09-05T22:31:05.080541+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 727,610 \u00b7 Likes: 2077</summary>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>google/timesfm-3.0-pytorch</title>
+    <link href="https://huggingface.co/google/timesfm-3.0-pytorch"/>
+    <id>c35c6095517eef33e42d92f9ac67c2c0</id>
+    <published>2026-09-05T22:31:05.080530+00:00</published>
+    <updated>2026-09-05T22:31:05.080530+00:00</updated>
+    <summary type="text">Type: time-series-forecasting \u00b7 Downloads: 123,025 \u00b7 Likes: 453</summary>
+    <category term="time-series-forecasting"/>
+  </entry>
+  <entry>
+    <title>XHToken/Spark-X2.5-4B</title>
+    <link href="https://huggingface.co/XHToken/Spark-X2.5-4B"/>
+    <id>acdca2479d12da11b716b0322669b63b</id>
+    <published>2026-09-05T22:31:05.080518+00:00</published>
+    <updated>2026-09-05T22:31:05.080518+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 4,755 \u00b7 Likes: 535</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>Qwen/Qwen3.8-Flash-Next</title>
     <link href="https://huggingface.co/Qwen/Qwen3.8-Flash-Next"/>
     <id>bcd6732b5899de1c0bbbc6ff04e9c570</id>
-    <published>2026-09-04T22:40:30.809294+00:00</published>
-    <updated>2026-09-04T22:40:30.809294+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 351,374 \u00b7 Likes: 4869</summary>
+    <published>2026-09-05T22:31:05.080506+00:00</published>
+    <updated>2026-09-05T22:31:05.080506+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 401,327 \u00b7 Likes: 4913</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>Qwen/Qwen3.8-27B</title>
     <link href="https://huggingface.co/Qwen/Qwen3.8-27B"/>
     <id>89a437a1253842104936226abc840781</id>
-    <published>2026-09-04T22:40:30.809285+00:00</published>
-    <updated>2026-09-04T22:40:30.809285+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 5,739,341 \u00b7 Likes: 13940</summary>
+    <published>2026-09-05T22:31:05.080492+00:00</published>
+    <updated>2026-09-05T22:31:05.080492+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 6,024,467 \u00b7 Likes: 14033</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp</title>
     <link href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp"/>
     <id>72cd3a0d6c01bb25163d4cd10f36ef8e</id>
-    <published>2026-09-04T22:40:30.809258+00:00</published>
-    <updated>2026-09-04T22:40:30.809258+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 133,024 \u00b7 Likes: 592</summary>
+    <published>2026-09-05T22:31:05.080459+00:00</published>
+    <updated>2026-09-05T22:31:05.080459+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 184,542 \u00b7 Likes: 674</summary>
     <category term="image-text-to-text"/>
   </entry>
 </feed>

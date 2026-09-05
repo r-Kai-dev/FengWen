@@ -4,90 +4,41 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-04T18:37:00.305000+00:00</updated>
+  <updated>2026-09-05T18:26:17+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem</title>
-    <link href="https://www.anthropic.com/research/formalizing-fermats-last-theorem"/>
-    <id>c21c581b77bf7db55383350c9f8c55e0</id>
-    <published>2026-09-04T18:37:00.305000+00:00</published>
-    <updated>2026-09-04T18:37:00.305000+00:00</updated>
-    <summary type="text">Score: 0.792\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架 / OpenAI has acknowledged the &quot;wiki incident&quot; and says its rules for disclosing agent failures need to…</title>
+    <link href="https://x.com/rohanpaul_ai/status/2096303922378088854"/>
+    <id>332e1338af3933a2d84c10a91eb3ed39</id>
+    <published>2026-09-05T18:26:17+00:00</published>
+    <updated>2026-09-05T18:26:17+00:00</updated>
+    <summary type="text">Score: 0.799\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking / A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…</title>
-    <link href="https://x.com/rohanpaul_ai/status/2095931182903107971"/>
-    <id>a4dcc7577ddc2b7d3e9e8e57d7b83f5f</id>
-    <published>2026-09-04T17:45:09+00:00</published>
-    <updated>2026-09-04T17:45:09+00:00</updated>
-    <summary type="text">Score: 0.775\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure</title>
+    <link href="https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure"/>
+    <id>70337f6a92dca9e865a1235ec69c6fd3</id>
+    <published>2026-09-05T18:05:27+00:00</published>
+    <updated>2026-09-05T18:05:27+00:00</updated>
+    <summary type="text">Score: 0.820\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信 / OpenAI's rogue agents were caught communicating via public wikis</title>
-    <link href="https://simonwillison.net/2026/Sep/4/rogue-agent-wikis"/>
-    <id>893efbbfa0d3f60d336f664de967a565</id>
-    <published>2026-09-04T17:38:48+00:00</published>
-    <updated>2026-09-04T17:38:48+00:00</updated>
-    <summary type="text">Score: 0.786\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections</title>
-    <link href="https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections"/>
-    <id>1b79f978c556c0d488eb0a2fb3b78c27</id>
-    <published>2026-09-04T17:23:35+00:00</published>
-    <updated>2026-09-04T17:23:35+00:00</updated>
-    <summary type="text">Score: 0.795\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration"/>
-    <id>3c3d7f146683ffd43b2a56c6e94be739</id>
-    <published>2026-09-04T16:04:14+00:00</published>
-    <updated>2026-09-04T16:04:14+00:00</updated>
-    <summary type="text">Score: 0.860\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>英伟达两年从零建起近千亿美元股权投资组合</title>
-    <link href="https://www.ithome.com/0/998/620.htm"/>
-    <id>b77c97b8edcee5189397cc5171fb600b</id>
-    <published>2026-09-04T14:59:33+00:00</published>
-    <updated>2026-09-04T14:59:33+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法 / This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …</title>
-    <link href="https://x.com/kimmonismus/status/2095837763517988869"/>
-    <id>b51f0f0d07050a14e90c13c5715075e9</id>
-    <published>2026-09-04T11:33:56+00:00</published>
-    <updated>2026-09-04T11:33:56+00:00</updated>
+    <title>OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words</title>
+    <link href="https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words"/>
+    <id>54d3289f44429b7f37192003c21b57ed</id>
+    <published>2026-09-05T13:31:04+00:00</published>
+    <updated>2026-09-05T13:31:04+00:00</updated>
     <summary type="text">Score: 0.772\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
@@ -95,96 +46,36 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单</title>
-    <link href="https://www.aibase.com/news/30838"/>
-    <id>0ac0f4e68c320e8be336e0ce9cb28e27</id>
-    <published>2026-09-04T11:24:46.747480+00:00</published>
-    <updated>2026-09-04T11:24:46.747480+00:00</updated>
-    <summary type="text">Score: 0.748\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测 / Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward</title>
-    <link href="https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward"/>
-    <id>979efcd5b40c1be196cfd8d4997a044a</id>
-    <published>2026-09-04T11:07:36+00:00</published>
-    <updated>2026-09-04T11:07:36+00:00</updated>
-    <summary type="text">Score: 0.790\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra / excited for Astra on Azure！</title>
-    <link href="https://x.com/gdb/status/2095730639094079594"/>
-    <id>d3221b21a43c25dd13338c10bce154e9</id>
-    <published>2026-09-04T04:28:15+00:00</published>
-    <updated>2026-09-04T04:28:15+00:00</updated>
-    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位</title>
-    <link href="https://x.com/AYi_AInotes/status/2095700816980222311"/>
-    <id>6375b0dd9b44d52b55b88ca8c4ab7e9f</id>
-    <published>2026-09-04T02:29:45+00:00</published>
-    <updated>2026-09-04T02:29:45+00:00</updated>
-    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制</title>
+    <link href="https://www.ithome.com/0/998/814.htm"/>
+    <id>d6a385fc60af0b6b32470aa4c939f843</id>
+    <published>2026-09-05T11:43:16+00:00</published>
+    <updated>2026-09-05T11:43:16+00:00</updated>
+    <summary type="text">Score: 0.776\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线</title>
-    <link href="https://x.com/frxiaobei/status/2095682473745363068"/>
-    <id>0ceb37ceaf4c35ac433ac23fbab89953</id>
-    <published>2026-09-04T01:16:52+00:00</published>
-    <updated>2026-09-04T01:16:52+00:00</updated>
-    <summary type="text">Score: 0.765\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685905&amp;idx=1&amp;sn=2a6327daa3fb1d5573a824afd63af7f6"/>
+    <id>13737c74464cd8d988e41d5bac217413</id>
+    <published>2026-09-05T11:39:52+00:00</published>
+    <updated>2026-09-05T11:39:52+00:00</updated>
+    <summary type="text">Score: 0.764\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻 / brilliant fit.</title>
-    <link href="https://x.com/steipete/status/2095678161052901828"/>
-    <id>8a46e72e6d407f3bebde5454e20c8d06</id>
-    <published>2026-09-04T00:59:44+00:00</published>
-    <updated>2026-09-04T00:59:44+00:00</updated>
-    <summary type="text">Score: 0.788\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Codex CLI 0.153.3</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>88caeb0ad90652392da8d1b021d1e2c3</id>
-    <published>2026-09-04T00:00:00+00:00</published>
-    <updated>2026-09-04T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold</title>
-    <link href="https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold"/>
-    <id>0b39587c3c21cebe13ead058e81096fa</id>
-    <published>2026-09-03T21:16:11+00:00</published>
-    <updated>2026-09-03T21:16:11+00:00</updated>
-    <summary type="text">Score: 0.770\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki 'incident'</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"/>
+    <id>505d3a3c1f30db8d446f27ed6818131a</id>
+    <published>2026-09-05T11:15:55+00:00</published>
+    <updated>2026-09-05T11:15:55+00:00</updated>
+    <summary type="text">Score: 0.809\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -192,66 +83,167 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>npm 支持多个受信任的发布配置 / Multiple trusted publishing configurations for npm</title>
-    <link href="https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm"/>
-    <id>a7e3b512aa620eef025014674909e4b4</id>
-    <published>2026-09-03T20:34:34+00:00</published>
-    <updated>2026-09-03T20:34:34+00:00</updated>
-    <summary type="text">Score: 0.793\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9% / GPT-6 Astra</title>
-    <link href="https://simonwillison.net/2026/Sep/3/gpt6-astra"/>
-    <id>acf4d550830ee0db43b059d196c1adef</id>
-    <published>2026-09-03T20:18:41+00:00</published>
-    <updated>2026-09-03T20:18:41+00:00</updated>
-    <summary type="text">Score: 0.771\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>费马大定理的 Lean 4 机器检查完整证明开源发布</title>
+    <link href="https://github.com/anthropics/fermats-last-theorem"/>
+    <id>42502ecfe7eff28ff087006e627c113d</id>
+    <published>2026-09-05T07:56:50.597000+00:00</published>
+    <updated>2026-09-05T07:56:50.597000+00:00</updated>
+    <summary type="text">Score: 0.762\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线</title>
-    <link href="https://arcprize.org/blog/astra"/>
-    <id>a659ba86ad1ef5ef51f22c90cb7b1c0c</id>
-    <published>2026-09-03T19:45:00+00:00</published>
-    <updated>2026-09-03T19:45:00+00:00</updated>
-    <summary type="text">Score: 0.791\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
+    <title>塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起</title>
+    <link href="https://www.ithome.com/0/998/758.htm"/>
+    <id>4857f79e0d2664c4a392f795db054331</id>
+    <published>2026-09-05T07:53:01+00:00</published>
+    <updated>2026-09-05T07:53:01+00:00</updated>
+    <summary type="text">Score: 0.774\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>AI 处理事件，工程师与系统失去联系</title>
+    <link href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"/>
+    <id>929b1b0e74367c8e65561d9f46cde1de</id>
+    <published>2026-09-05T07:52:50+00:00</published>
+    <updated>2026-09-05T07:52:50+00:00</updated>
+    <summary type="text">Score: 0.549\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…</title>
-    <link href="https://x.com/fchollet/status/2095598451115614371"/>
-    <id>f29a03657cd10c8672f88799ec410ea4</id>
-    <published>2026-09-03T19:42:59+00:00</published>
-    <updated>2026-09-03T19:42:59+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol</title>
+    <link href="https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol"/>
+    <id>59b1b023753dfa2d873553c5cfbeccbd</id>
+    <published>2026-09-05T07:41:03+00:00</published>
+    <updated>2026-09-05T07:41:03+00:00</updated>
+    <summary type="text">Score: 0.770\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GPT-6 Astra 用于代码审查：收益、隐私与成本 / GPT-6 Astra in code review: Gains, privacy, and cost</title>
+    <link href="https://news.ycombinator.com/item?id=49572875"/>
+    <id>d1ec51e640482d29b359d753e36baf62</id>
+    <published>2026-09-05T03:38:56+00:00</published>
+    <updated>2026-09-05T03:38:56+00:00</updated>
+    <summary type="text">Score: 0.517\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出</title>
+    <link href="https://www.ithome.com/0/998/661.htm"/>
+    <id>d9a72c7297df510c6191ba543e68ced1</id>
+    <published>2026-09-05T00:42:24+00:00</published>
+    <updated>2026-09-05T00:42:24+00:00</updated>
+    <summary type="text">Score: 0.756\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Spotify的Portal将我的Claude Code代币使用量减少了90%</title>
+    <link href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"/>
+    <id>516cae027ea3cb524c2f9b6b6868babd</id>
+    <published>2026-09-04T23:38:50+00:00</published>
+    <updated>2026-09-04T23:38:50+00:00</updated>
+    <summary type="text">Score: 0.543\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明</title>
+    <link href="https://www.ithome.com/0/998/638.htm"/>
+    <id>c71c310e4aa482695f3cb87a1779dbe8</id>
+    <published>2026-09-04T23:20:46+00:00</published>
+    <updated>2026-09-04T23:20:46+00:00</updated>
+    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元</title>
+    <link href="https://www.ithome.com/0/998/630.htm"/>
+    <id>fd4fcbdf1083b6eed4670968be7df95e</id>
+    <published>2026-09-04T22:52:38+00:00</published>
+    <updated>2026-09-04T22:52:38+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！</title>
+    <link href="https://x.com/sama/status/2096008528834244741"/>
+    <id>584af4c5e63617d68712afff7cc3d21d</id>
+    <published>2026-09-04T22:52:29+00:00</published>
+    <updated>2026-09-04T22:52:29+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>部分 GitHub Copilot 模型即将弃用 / Upcoming deprecation of selected GitHub Copilot models</title>
-    <link href="https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models"/>
-    <id>ef7c81b6115352df2dfaecd16d1a5de3</id>
-    <published>2026-09-03T19:40:14+00:00</published>
-    <updated>2026-09-03T19:40:14+00:00</updated>
-    <summary type="text">Score: 0.799\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…</title>
+    <link href="https://x.com/kimmonismus/status/2096007967749349844"/>
+    <id>86c70ff499605c06af20df69a3562683</id>
+    <published>2026-09-04T22:50:16+00:00</published>
+    <updated>2026-09-04T22:50:16+00:00</updated>
+    <summary type="text">Score: 0.734\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot 每周更新——8月31日 / GitHub Copilot weekly releases — August 31</title>
+    <link href="https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31"/>
+    <id>59a7851ff37f290a763463bdc0c0d991</id>
+    <published>2026-09-04T21:05:01+00:00</published>
+    <updated>2026-09-04T21:05:01+00:00</updated>
+    <summary type="text">Score: 0.803\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …</title>
+    <link href="https://x.com/OpenAI/status/2095968413646737608"/>
+    <id>6373a82f4a0764b500c8bdf9bdc0875f</id>
+    <published>2026-09-04T20:13:05+00:00</published>
+    <updated>2026-09-04T20:13:05+00:00</updated>
+    <summary type="text">Score: 0.769\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>人工智能现在能设计电路板了吗？</title>
+    <link href="https://eebench.org/blog/can-ai-design-circuit-boards-yet"/>
+    <id>02d947392a8db3d18e5cf27a586a45ea</id>
+    <published>2026-09-04T19:48:29+00:00</published>
+    <updated>2026-09-04T19:48:29+00:00</updated>
+    <summary type="text">Score: 0.527\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
   </entry>
 </feed>
