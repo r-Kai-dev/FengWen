@@ -4,10 +4,46 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-08-26T00:00:00+00:00</updated>
+  <updated>2026-09-07T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>Private Deployment of AI Video Models: On-Premise Benefits &amp; Meaning</title>
+    <link href="https://ltx.io/blog/private-deployment-ai-video-models"/>
+    <id>d4649a26c81d9307aba86d1a81c371d9</id>
+    <published>2026-09-07T00:00:00+00:00</published>
+    <updated>2026-09-07T00:00:00+00:00</updated>
+    <summary type="text">Why enterprises run AI video models privately: data privacy, IP protection, and cost control, plus how LTX-2.5 supports local and on-premise deployment.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>What Training Data Do You Need To Fine-Tune A Video Generation Model?</title>
+    <link href="https://ltx.io/blog/video-model-training-data"/>
+    <id>46e2c5cff6d5b06f2bdf6f89b9edb6f0</id>
+    <published>2026-09-07T00:00:00+00:00</published>
+    <updated>2026-09-07T00:00:00+00:00</updated>
+    <summary type="text">What training data do you need to fine-tune a video generation model? A practical guide to datasets, clip rules, and captions for LTX-2.5 LoRA training.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Best 5 Video Generation APIs In 2026 (Compared)</title>
+    <link href="https://ltx.io/blog/best-video-generation-apis"/>
+    <id>578345de026e1cc212df5a75ce952fd4</id>
+    <published>2026-09-06T00:00:00+00:00</published>
+    <updated>2026-09-06T00:00:00+00:00</updated>
+    <summary type="text">Comparing the best video generation APIs in 2026 by access model, deployment, native audio, and pricing, so you can choose the right one for production.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Understanding LTX's API Pricing: How to Estimate Your Spend</title>
+    <link href="https://ltx.io/blog/ltx-api-pricing-explained"/>
+    <id>9a6ff197322a38f46176bd78968946c3</id>
+    <published>2026-09-03T00:00:00+00:00</published>
+    <updated>2026-09-03T00:00:00+00:00</updated>
+    <summary type="text">How LTX API pricing works: the per-second cost by model tier and resolution, the SKU system, prepaid vs postpaid billing, and how to estimate your spend.</summary>
+    <category term="Production"/>
+  </entry>
   <entry>
     <title>How To Use A Community LoRA With LTX-2.5</title>
     <link href="https://ltx.io/blog/how-to-use-a-community-lora"/>
@@ -403,41 +439,5 @@
     <updated>2026-07-08T00:00:00+00:00</updated>
     <summary type="text">LTX announces its evolution into an open world models company, building foundational AI that understands and simulates physical reality for film, robotics, and industry</summary>
     <category term="Product Updates"/>
-  </entry>
-  <entry>
-    <title>7 Best Kling AI Alternatives (Updated 2026)</title>
-    <link href="https://ltx.io/blog/best-kling-ai-alternatives"/>
-    <id>6ee56a3c9cdf316df29428e70b88ab62</id>
-    <published>2026-07-07T00:00:00+00:00</published>
-    <updated>2026-07-07T00:00:00+00:00</updated>
-    <summary type="text">The best Kling alternatives in 2026 — compared on production workflow, character consistency, output quality, pricing, and creative control.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>10 Best Storyboard Techniques For 2026 Filmmakers</title>
-    <link href="https://ltx.io/blog/storyboard-techniques"/>
-    <id>3e81d9c5a90c006d4a383084fb6cab4c</id>
-    <published>2026-07-05T00:00:00+00:00</published>
-    <updated>2026-07-05T00:00:00+00:00</updated>
-    <summary type="text">Explore time-saving storyboard strategies that sharpen communication, improve planning, and elevate your final cut.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>6 Best AI Image Generators For Creatives In 2026</title>
-    <link href="https://ltx.io/blog/best-ai-image-generator"/>
-    <id>8488a3ce3b5404f13c627e7a4d3bddd1</id>
-    <published>2026-07-05T00:00:00+00:00</published>
-    <updated>2026-07-05T00:00:00+00:00</updated>
-    <summary type="text">Compare the best AI image generators in 2026 for creating stunning visuals. Professional tools for marketers, designers, and filmmakers, ranked and reviewed.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>What Is Generative AI? Examples &amp; Trends For 2026</title>
-    <link href="https://ltx.io/blog/what-is-generative-ai"/>
-    <id>5c5ce0ab6f398c6bf9609699b2e4394c</id>
-    <published>2026-07-05T00:00:00+00:00</published>
-    <updated>2026-07-05T00:00:00+00:00</updated>
-    <summary type="text">A simple guide to generative AI. Learn what it is, see real examples, and explore key trends driving the future of AI-generated content.</summary>
-    <category term="Production"/>
   </entry>
 </feed>

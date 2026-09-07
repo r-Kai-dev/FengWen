@@ -4,159 +4,231 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-06T18:23:14+00:00</updated>
+  <updated>2026-09-07T18:12:41+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its &quot;automated research intern&quot; milestone. i.e. a human…</title>
-    <link href="https://x.com/rohanpaul_ai/status/2096665545190043737"/>
-    <id>9fb8825a2939295a8510b581cfd9088f</id>
-    <published>2026-09-06T18:23:14+00:00</published>
-    <updated>2026-09-06T18:23:14+00:00</updated>
-    <summary type="text">Score: 0.792\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk</title>
+    <link href="https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk"/>
+    <id>b0fb9295c29ba78f14ee281d366db397</id>
+    <published>2026-09-07T18:12:41+00:00</published>
+    <updated>2026-09-07T18:12:41+00:00</updated>
+    <summary type="text">Score: 0.773\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>How we monitor internal coding agents for misalignment</title>
-    <link href="https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"/>
-    <id>64e77e2a4dfcfe9710a0970fdb1ea2a2</id>
-    <published>2026-09-06T16:37:55+00:00</published>
-    <updated>2026-09-06T16:37:55+00:00</updated>
-    <summary type="text">Score: 0.539\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <title>Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制</title>
+    <link href="https://news.ycombinator.com/item?id=49600233"/>
+    <id>0fbc17f1b1ffbdf09c0e1b617ba19688</id>
+    <published>2026-09-07T16:40:32+00:00</published>
+    <updated>2026-09-07T16:40:32+00:00</updated>
+    <summary type="text">Score: 0.542\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>对AI既惊讶又恐惧还厌恶企业破坏开放网络</title>
-    <link href="https://beza1e1.tuxen.de/ai_feelings.html"/>
-    <id>ac45eec56a478cb4e1b6e2334f91dcfe</id>
-    <published>2026-09-06T15:00:19+00:00</published>
-    <updated>2026-09-06T15:00:19+00:00</updated>
+    <title>AI技术对就业的初步影响呈积极态势 / Initial effects of AI technology on employment look positive</title>
+    <link href="https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"/>
+    <id>7126660072c31bb0de874d9f6601235e</id>
+    <published>2026-09-07T10:38:32+00:00</published>
+    <updated>2026-09-07T10:38:32+00:00</updated>
+    <summary type="text">Score: 0.522\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明</title>
+    <link href="https://www.aibase.com/news/30876"/>
+    <id>22010f14a5a10a05941063c1f3daad72</id>
+    <published>2026-09-07T10:19:09.320727+00:00</published>
+    <updated>2026-09-07T10:19:09.320727+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队</title>
+    <link href="https://www.aibase.com/news/30874"/>
+    <id>012ea611f22a611e95557ff14305de13</id>
+    <published>2026-09-07T10:19:09.320727+00:00</published>
+    <updated>2026-09-07T10:19:09.320727+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍</title>
+    <link href="https://www.aibase.com/news/30871"/>
+    <id>036f81f46f7aef7d708962823cd4c7ab</id>
+    <published>2026-09-07T10:19:09.320727+00:00</published>
+    <updated>2026-09-07T10:19:09.320727+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架</title>
+    <link href="https://www.aibase.com/news/30872"/>
+    <id>7c9d818734fb58d73d998c9b2cbfd43d</id>
+    <published>2026-09-07T10:19:09.320727+00:00</published>
+    <updated>2026-09-07T10:19:09.320727+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%</title>
+    <link href="https://www.aibase.com/news/30875"/>
+    <id>15d75aa046e0f9e4954ee371d4d4af3c</id>
+    <published>2026-09-07T10:19:09.320727+00:00</published>
+    <updated>2026-09-07T10:19:09.320727+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>千问办公推出业内首个&quot;多人工作台&quot;，一句话生成可承载百人协作的业务网页</title>
+    <link href="https://www.aibase.com/news/30873"/>
+    <id>3303b1d0f7a0d5e1134871f43f882add</id>
+    <published>2026-09-07T10:19:09.320727+00:00</published>
+    <updated>2026-09-07T10:19:09.320727+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫</title>
+    <link href="https://www.aibase.com/news/30880"/>
+    <id>6bc1c857cfedb3a30f8c31f092252c62</id>
+    <published>2026-09-07T10:19:09.320727+00:00</published>
+    <updated>2026-09-07T10:19:09.320727+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手</title>
+    <link href="https://www.aibase.com/news/30879"/>
+    <id>5efd7a27bcdbf0c511f28123df31ad93</id>
+    <published>2026-09-07T10:19:09.320727+00:00</published>
+    <updated>2026-09-07T10:19:09.320727+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”</title>
+    <link href="https://www.aibase.com/news/30877"/>
+    <id>080e6e0e17e9aeef0879ec00526b0309</id>
+    <published>2026-09-07T10:19:09.320727+00:00</published>
+    <updated>2026-09-07T10:19:09.320727+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语</title>
+    <link href="https://www.aibase.com/news/30883"/>
+    <id>8684cdbb94af215372787f55d1bb464d</id>
+    <published>2026-09-07T10:19:09.320727+00:00</published>
+    <updated>2026-09-07T10:19:09.320727+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降</title>
+    <link href="https://www.aibase.com/news/30882"/>
+    <id>85276415805390b2578ad30031f3f1a4</id>
+    <published>2026-09-07T10:19:09.320727+00:00</published>
+    <updated>2026-09-07T10:19:09.320727+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>基于AMD GPU的vLLM中的推测性解码</title>
+    <link href="https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus"/>
+    <id>cb2ff2c235a9a6dfd8f095c3b5ee4908</id>
+    <published>2026-09-07T09:26:41+00:00</published>
+    <updated>2026-09-07T09:26:41+00:00</updated>
     <summary type="text">Score: 0.563\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>人工智能关机——保持人性</title>
-    <link href="https://keepitfree.ai/announcements/a/i-shuts-down-stay-human"/>
-    <id>e480730afd3f39799e40e764b07356f3</id>
-    <published>2026-09-06T14:34:34+00:00</published>
-    <updated>2026-09-06T14:34:34+00:00</updated>
-    <summary type="text">Score: 0.536\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI</title>
+    <link href="https://news.ycombinator.com/item?id=49594189"/>
+    <id>9de26513952c851b99682b50086fe527</id>
+    <published>2026-09-07T05:23:31+00:00</published>
+    <updated>2026-09-07T05:23:31+00:00</updated>
+    <summary type="text">Score: 0.512\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind</title>
-    <link href="https://openai.com/index/an-alien-mind"/>
-    <id>e56f130150a7a0a8318755c6a43c4fef</id>
-    <published>2026-09-06T09:00:00+00:00</published>
-    <updated>2026-09-06T09:00:00+00:00</updated>
-    <summary type="text">Score: 0.852\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI</title>
-    <link href="https://openai.com/index/research-acceleration-view-inside-openai"/>
-    <id>b14a968689d76d0bcc7d49c049b0b417</id>
-    <published>2026-09-06T08:00:00+00:00</published>
-    <updated>2026-09-06T08:00:00+00:00</updated>
-    <summary type="text">Score: 0.850\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化</title>
-    <link href="https://www.ithome.com/0/998/927.htm"/>
-    <id>7b4b3f06b0c8946b8e69a052e88c5026</id>
-    <published>2026-09-06T06:46:16+00:00</published>
-    <updated>2026-09-06T06:46:16+00:00</updated>
-    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AI不会让人人成为工具制造者，也难改企业运作方式</title>
-    <link href="https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"/>
-    <id>d4276eb781979b131c8ff1b91e86cee1</id>
-    <published>2026-09-06T02:12:46+00:00</published>
-    <updated>2026-09-06T02:12:46+00:00</updated>
-    <summary type="text">Score: 0.534\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>Coop——运行 Claude Code 和 Codex 的隔离 VM 环境 / Coop – Isolated VM Environments for Running Claude Code and Codex</title>
+    <link href="https://news.ycombinator.com/item?id=49593842"/>
+    <id>21c59bab8c600d9bf38597c9f1f28827</id>
+    <published>2026-09-07T04:18:28+00:00</published>
+    <updated>2026-09-07T04:18:28+00:00</updated>
+    <summary type="text">Score: 0.512\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>GPT-6 Astra 搭载于机械臂 / GPT-6 Astra on robot arms</title>
-    <link href="https://news.ycombinator.com/item?id=49582582"/>
-    <id>5d49f6de97014540d79e4d5544331b81</id>
-    <published>2026-09-06T01:52:45+00:00</published>
-    <updated>2026-09-06T01:52:45+00:00</updated>
-    <summary type="text">Score: 0.541\nSources: 3 (NewsNow)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>OKF Agent Memory：为AI编程Agent打造的Git原生持久化记忆 / OKF Agent Memory – Git-native persistent memory for AI coding agents</title>
-    <link href="https://news.ycombinator.com/item?id=49581240"/>
-    <id>f361e7edcbc34f118e6405d9fbe1935e</id>
-    <published>2026-09-05T22:15:52+00:00</published>
-    <updated>2026-09-05T22:15:52+00:00</updated>
-    <summary type="text">Score: 0.504\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>美国最大两大学区实施AI暂停令 / America's Two Largest School Districts Impose AI Moratoriums</title>
-    <link href="https://news.ycombinator.com/item?id=49580980"/>
-    <id>e1cf4239332907ff9ed5ce1883305b3e</id>
-    <published>2026-09-05T21:43:22+00:00</published>
-    <updated>2026-09-05T21:43:22+00:00</updated>
-    <summary type="text">Score: 0.499\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分 / GPT-6 Astra from OpenAI claimed a top spot on WebDev Arena， surpassing recently released Claude Fabl…</title>
-    <link href="https://x.com/testingcatalog/status/2096350628054176240"/>
-    <id>4f93d48ec9bb1716669be8dfdaf014b1</id>
-    <published>2026-09-05T21:31:52+00:00</published>
-    <updated>2026-09-05T21:31:52+00:00</updated>
-    <summary type="text">Score: 0.731\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战</title>
+    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36"/>
+    <id>42e0e391024b90ef654d7cecf87cbe3f</id>
+    <published>2026-09-07T03:26:50+00:00</published>
+    <updated>2026-09-07T03:26:50+00:00</updated>
+    <summary type="text">Score: 0.728\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>大语言模型像病毒传播，或致认知依赖</title>
-    <link href="https://arxiv.org/abs/2609.03344"/>
-    <id>9b0bd2d1fb0901ba852f5c02489f8569</id>
-    <published>2026-09-05T20:02:35+00:00</published>
-    <updated>2026-09-05T20:02:35+00:00</updated>
-    <summary type="text">Score: 0.499\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>MathKernel：证据感知的多引擎数学内核及 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server</title>
+    <link href="https://news.ycombinator.com/item?id=49592366"/>
+    <id>5fe0d3edf548d3bc11cdba08aa1182b0</id>
+    <published>2026-09-07T00:21:01+00:00</published>
+    <updated>2026-09-07T00:21:01+00:00</updated>
+    <summary type="text">Score: 0.512\nSources: 2 (NewsNow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
+  </entry>
+  <entry>
+    <title>支持乌克兰独立新闻业 / Supporting independent journalism in Ukraine</title>
+    <link href="https://openai.com/index/supporting-independent-journalism-in-ukraine"/>
+    <id>17ea7eecdd0013dfe858f74047491a59</id>
+    <published>2026-09-07T00:00:00+00:00</published>
+    <updated>2026-09-07T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.806\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
 </feed>
