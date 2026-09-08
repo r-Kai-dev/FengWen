@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-09-04T00:00:00+00:00</updated>
+  <updated>2026-09-08T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Latency Scaling Differences for GPT and Claude Models</title>
+    <link href="https://epoch.ai/publications/long-context-latency-scaling-gpt-vs-claude"/>
+    <id>cd7ca901d721e6f06eb8ba7485e05126</id>
+    <published>2026-09-08T00:00:00+00:00</published>
+    <updated>2026-09-08T00:00:00+00:00</updated>
+    <summary type="text">Epoch AI measures long-context latency scaling across four frontier models. GPT-5.6 Terra and Sol show quadratic time-to-first-token growth with context length, while Claude Sonnet 5 and Opus 5 stay near-linear.</summary>
+    <category term="Report"/>
+  </entry>
   <entry>
     <title>Largest AI Data Center Power: Doubling every 10 months</title>
     <link href="https://epoch.ai/data-insights/frontier-data-center-power"/>
@@ -87,14 +96,5 @@
     <updated>2026-08-13T00:00:00+00:00</updated>
     <summary type="text">Since 2023, the average dollar spent on AI chips each quarter has yielded about 49% more performance each year in constant 2025 dollars, doubling every 1.7 years as spending shifts to each new chip generation.</summary>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>Will financing bottleneck AI compute? An Anthropic case study</title>
-    <link href="https://epoch.ai/gradient-updates/will-financing-bottleneck-ai-compute"/>
-    <id>5e22266701195bb3516ece4b7131fa64</id>
-    <published>2026-08-12T00:00:00+00:00</published>
-    <updated>2026-08-12T00:00:00+00:00</updated>
-    <summary type="text">Why Anthropic's buildout suggests that financing is unlikely to be the immediate blocker to frontier AI compute growth.</summary>
-    <category term="Newsletter"/>
   </entry>
 </feed>

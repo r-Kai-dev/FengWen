@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-09-03T00:00:00+00:00</updated>
+  <updated>2026-09-08T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Deepfake Video Conference Scams: How They Work and How to Prevent Them</title>
+    <link href="https://www.resemble.ai/resources/deepfake-video-conference"/>
+    <id>bd02fc035faf0953ce72cbb6735ddb74</id>
+    <published>2026-09-08T00:00:00+00:00</published>
+    <updated>2026-09-08T00:00:00+00:00</updated>
+    <summary type="text">Learn how a deepfake video conference scam works, key warning signs to watch for, business risks involved, and proven strategies to prevent fraud and loss.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>The Deepfake Watchlist: Week of August 28 – September 3, 2026</title>
     <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-august-28-september-3-2026"/>
@@ -106,15 +115,6 @@
     <updated>2026-08-14T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>Why a former voice AI company went all in on deepfake detection</title>
-    <link href="https://www.resemble.ai/resources/why-a-former-voice-ai-company-went-all-in-on-deepfake-detection"/>
-    <id>12c54aee7d266866ee95e0ec0960db1c</id>
-    <published>2026-08-13T00:00:00+00:00</published>
-    <updated>2026-08-13T00:00:00+00:00</updated>
-    <summary type="text">Resemble AI is committed to delivering the best deepfake detection models for audio, video, and image. This explains why a former voice AI company made the decision, what happens to Chatterbox and DramaBox, and how Resemble's five detection APIs fit together.</summary>
-    <category term="Blog"/>
   </entry>
   <entry>
     <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>
