@@ -4,7 +4,17 @@
   <icon>https://fireworks.ai/favicon.ico</icon>
   <link href="https://fireworks.ai/blog"/>
   <id>https://fireworks.ai/blog</id>
-  <updated>2026-08-31T00:00:00+00:00</updated>
+  <updated>2027-09-09T00:00:00+00:00</updated>
+  <entry>
+    <title>Making the leap to specialized intelligence</title>
+    <link href="https://fireworks.ai/blog/making-the-leap-to-specialized-intelligence"/>
+    <id>acb2e4f0ec816388827b3257f10f08ea</id>
+    <published>2027-09-09T00:00:00+00:00</published>
+    <updated>2027-09-09T00:00:00+00:00</updated>
+    <summary type="text">The road to building specialized intelligence typically follows four stages from renting the closed frontier to training your own custom models, we walk you through what it takes to get there.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/8ca016c84dfe98da349b46d99c3fb5e916298e96-1600x900.png&quot; alt=&quot;Making the leap to specialized intelligence&quot; /&gt;
+&lt;p&gt;The road to building specialized intelligence typically follows four stages from renting the closed frontier to training your own custom models, we walk you through what it takes to get there.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Train past the frontier: Training API now generally available</title>
     <link href="https://fireworks.ai/blog/train-past-the-frontier-training-api-now-generally-available"/>
@@ -478,14 +488,5 @@
     <summary type="text">DeepSeek models explained: V3.2 vs R1 vs distilled variants, when to use thinking mode, tool calling limits, token costs, and how to run them on Fireworks.</summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;The DeepSeek Model Lineup: V3.2, R1, and Distilled Variants Mapped to Production Workloads&quot; /&gt;
 &lt;p&gt;DeepSeek models explained: V3.2 vs R1 vs distilled variants, when to use thinking mode, tool calling limits, token costs, and how to run them on Fireworks.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>The Benchmark Gap: What It Takes to Ship Kimi K2.5</title>
-    <link href="https://fireworks.ai/blog/quality-first-with-kimi-k2p5"/>
-    <id>f0dd76fff72c64ae7dd3f480c5e6eeb5</id>
-    <published>2026-02-03T00:00:00+00:00</published>
-    <updated>2026-02-03T00:00:00+00:00</updated>
-    <summary type="text">The Benchmark Gap: What It Takes to Ship Kimi K2.5</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/35516314dd6fc5a2b6e56ce5fc78cc3c6f433c47-1080x591.png&quot; alt=&quot;The Benchmark Gap: What It Takes to Ship Kimi K2.5&quot; /&gt;</content>
   </entry>
 </feed>

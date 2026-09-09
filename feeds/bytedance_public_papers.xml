@@ -4,10 +4,46 @@
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <link href="https://seed.bytedance.com/en/public_papers"/>
   <id>https://seed.bytedance.com/en/public_papers</id>
-  <updated>2026-07-05T16:00:00+00:00</updated>
+  <updated>2026-08-18T12:00:00+00:00</updated>
   <author>
     <name>ByteDance Seed</name>
   </author>
+  <entry>
+    <title>Chain-of-Experience for Continual LLM Improvement</title>
+    <link href="https://seed.bytedance.com/en/public_papers/chain-of-experience-for-continual-llm-improvement"/>
+    <id>c750fce0476ab90542e41a34d82b8a74</id>
+    <published>2026-08-18T12:00:00+00:00</published>
+    <updated>2026-08-18T12:00:00+00:00</updated>
+    <summary type="text">Humans continuously learn from experience, whereas conventional large language model (LLM) evaluations ignore the models' ability to improve through inference-time interaction. In this paper, we study how LLMs learn from iterative experience at test time, a setting we refer to as Chain-of-Experience (CoE), where models accumulate experiential traces through iterative interactions with self or environmental feedback to form a continual improvement loop beyond zero-shot inference. We instantiate C</summary>
+    <category term="Computation and Language"/>
+  </entry>
+  <entry>
+    <title>Harness-IF: Evaluating Instruction Following Across Instruction Surfaces in Coding Agents</title>
+    <link href="https://seed.bytedance.com/en/public_papers/harness-if-evaluating-instruction-following-across-instruction-surfaces-in-coding-agents"/>
+    <id>c37b0daada4363e6b85b83be1878fb9b</id>
+    <published>2026-08-12T12:00:00+00:00</published>
+    <updated>2026-08-12T12:00:00+00:00</updated>
+    <summary type="text">When a coding agent obeys a rule, it may simply have been going to do that anyway. Existing instruction-following benchmarks cannot tell the difference: they concentrate rules in the user turn, while coding-agent benchmarks emphasize final task success. We introduce Harness-IF, which scores operational rules one at a time from execution evidence: 60 realistic multi-turn coding items drawn from a 642-rule library, 256 rules receiving verdicts, placed on the five configurable surfaces a deployed a</summary>
+    <category term="Artificial Intelligence"/>
+  </entry>
+  <entry>
+    <title>GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?</title>
+    <link href="https://seed.bytedance.com/en/public_papers/gst-bench-can-vlms-develop-global-spatial-awareness-from-video"/>
+    <id>857a2aa581df36f0b2c940d4feb3b23b</id>
+    <published>2026-08-06T12:00:00+00:00</published>
+    <updated>2026-08-06T12:00:00+00:00</updated>
+    <summary type="text">Spatial intelligence is fundamental to embodied agents, yet existing benchmarks focus on local spatial perception from single or few viewpoints, overlooking global spatial awareness over continuous, long-horizon visual streams. To address this limitation, we introduce the Global-Spatial-Temporal Benchmark (GST-Bench), a VQA benchmark for global spatial intelligence in video understanding, comprising human-verified questions derived from 6,790 minutes of synthetically generated video. It requires</summary>
+    <category term="Computer Vision and Pattern Recognition"/>
+  </entry>
+  <entry>
+    <title>Sample-Efficient Learning from Agent Experience</title>
+    <link href="https://seed.bytedance.com/en/public_papers/sample-efficient-learning-from-agent-experience"/>
+    <id>a1b7b094e36382a7d81d8c3b75dad70e</id>
+    <published>2026-07-23T12:00:00+00:00</published>
+    <updated>2026-07-23T12:00:00+00:00</updated>
+    <summary type="text">Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disappear once that experience is removed from the context. Separately, context distillation provides a mechanism for internalizing contextual information into model weights. However, applying it to agents' interacti</summary>
+    <category term="Computation and Language"/>
+  </entry>
   <entry>
     <title>EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments</title>
     <link href="https://seed.bytedance.com/en/public_papers/edgebench-unveiling-scaling-laws-of-learning-from-real-world-environments"/>
@@ -15,6 +51,15 @@
     <published>2026-07-05T16:00:00+00:00</published>
     <updated>2026-07-05T16:00:00+00:00</updated>
     <summary type="text">Pretraining scaling laws reveal that model capability improves predictably with data and compute. But learning from real world environments after deployment remains far less understood. Analyzing roughly 38,000 hours of agent interaction with the environment across 134 real world tasks, we find, to the best of our knowledge, the first evidence that overall performance during environment learning follows a log-sigmoid scaling law with remarkably high precision, reaching R^2 = 0.998. Across model </summary>
+    <category term="Computation and Language"/>
+  </entry>
+  <entry>
+    <title>MSQA: A Natively Sourced Multilingual and Multicultural SimpleQA Benchmark</title>
+    <link href="https://seed.bytedance.com/en/public_papers/msqa-a-natively-sourced-multilingual-and-multicultural-simpleqa-benchmark"/>
+    <id>d14e9083646d2b5c2cc554d4c258bbcf</id>
+    <published>2026-07-01T12:00:00+00:00</published>
+    <updated>2026-07-01T12:00:00+00:00</updated>
+    <summary type="text">Multilingual fluency often invites a stronger assumption: a model that can speak a user's language must also understand the culture encoded by that language. We call this the Illusion of Cultural Alignment. To test this assumption directly, we introduce MSQA, a benchmark of 1,064 natively sourced questions across 11 language groups, five cultural dimensions, and three difficulty tiers. Unlike translated benchmarks, MSQA targets locally grounded knowledge and reduces shortcuts from English-centri</summary>
     <category term="Computation and Language"/>
   </entry>
   <entry>
@@ -126,15 +171,6 @@
     <category term="Computer Vision and Pattern Recognition"/>
   </entry>
   <entry>
-    <title>Continuous Latent Diffusion Language Model</title>
-    <link href="https://seed.bytedance.com/en/public_papers/continuous-latent-diffusion-language-model"/>
-    <id>17213cf261fc051267644708d3039368</id>
-    <published>2026-05-06T16:00:00+00:00</published>
-    <updated>2026-05-06T16:00:00+00:00</updated>
-    <summary type="text">Large language models have achieved remarkable success under the autoregressive paradigm, yet high-quality text generation need not be tied to a fixed left-to-right order. Existing alternatives still struggle to jointly achieve generation efficiency, scalable representation learning, and effective global semantic modeling. We propose Cola DLM, a hierarchical latent diffusion language model that frames text generation through hierarchical information decomposition. Cola DLM first learns a stable </summary>
-    <category term="Computation and Language"/>
-  </entry>
-  <entry>
     <title>TDDFT Gradients and Nonadiabatic Couplings with Minimal Auxiliary Basis Set Approximation for Fewest-Switches Surface Hopping Dynamics</title>
     <link href="https://seed.bytedance.com/en/public_papers/tddft-gradients-and-nonadiabatic-couplings-with-minimal-auxiliary-basis-set-approximation-for-fewest-switches-surface-hopping-dynamics"/>
     <id>9a1c57639197e6dc923df563c859a080</id>
@@ -142,50 +178,5 @@
     <updated>2026-05-06T16:00:00+00:00</updated>
     <summary type="text">The electronic structure calculations remain a major bottleneck in ab initio nonadiabatic molecular dynamics. We develop an efficient TDDFT-based FSSH implementation in the GPU4PySCF package for medium-sized molecular systems. Our approach combines density fitting, TDDFT with minimal auxiliary basis sets (TDDFT-ris), and an approximate Z-vector solver to reduce the computational cost of TDDFT excited states and derivative coupling calculations. These approximations introduce negligible errors in</summary>
     <category term="Chemical Physics"/>
-  </entry>
-  <entry>
-    <title>Agentic Discovery of Exchange-Correlation Density Functionals</title>
-    <link href="https://seed.bytedance.com/en/public_papers/agentic-discovery-of-exchange-correlation-density-functionals"/>
-    <id>234dea71d3d2cb97a3680b6a3174c892</id>
-    <published>2026-05-05T16:00:00+00:00</published>
-    <updated>2026-05-05T16:00:00+00:00</updated>
-    <summary type="text">The development of accurate exchange-correlation (XC) functionals remains a longstanding challenge in density functional theory (DFT). The vast majority of XC functionals have been hand designed by human researchers combining physical insight, exact constraints, and empirical fitting. Recent advances in large language models enable a systematic, automated alternative to this human-driven design loop. This report presents an agentic search system in which an LLM proposes structured functional-for</summary>
-    <category term="Artificial Intelligence"/>
-  </entry>
-  <entry>
-    <title>Video Generation with Predictive Latents</title>
-    <link href="https://seed.bytedance.com/en/public_papers/video-generation-with-predictive-latents"/>
-    <id>9d624909bc5da089b48d533bbe707806</id>
-    <published>2026-05-03T16:00:00+00:00</published>
-    <updated>2026-05-03T16:00:00+00:00</updated>
-    <summary type="text">Video Variational Autoencoder (VAE) enables latent video generative modeling by mapping the visual world into compact spatiotemporal latent spaces, improving training efficiency and stability. While existing video VAEs achieve commendable reconstruction quality, continued optimization of reconstruction does not necessarily translate into improved generative performance. How to enhance the diffusability of video latents remains a critical and unresolved challenge. In this work, inspired by princi</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>CARD: Coarse-to-fine Autoregressive Modeling with Radix-based Decomposition for Transferable Free Energy Estimation</title>
-    <link href="https://seed.bytedance.com/en/public_papers/card-coarse-to-fine-autoregressive-modeling-with-radix-based-decomposition-for-transferable-free-energy-estimation"/>
-    <id>5024ce1eb434fc2b23d1f7979b4f7680</id>
-    <published>2026-04-30T16:00:00+00:00</published>
-    <updated>2026-04-30T16:00:00+00:00</updated>
-    <summary type="text">Estimating free energy differences quantifies thermodynamic preferences in molecular interactions, which is central to chemistry and drug discovery. Despite fruitful progress, existing methods still face key limitations: classical computational approaches remain prohibitively expensive due to their reliance on extensive molecular dynamics simulations, while deep learning-based methods are constrained by either less-expressive generative models or input dimensions tied to a specific system, resul</summary>
-    <category term="Machine Learning"/>
-  </entry>
-  <entry>
-    <title>End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer</title>
-    <link href="https://seed.bytedance.com/en/public_papers/end-to-end-autoregressive-image-generation-with-1d-semantic-tokenizer"/>
-    <id>47819616b35194fc1c63921bb5f60adc</id>
-    <published>2026-04-30T16:00:00+00:00</published>
-    <updated>2026-04-30T16:00:00+00:00</updated>
-    <summary type="text">Autoregressive image modeling relies on visual tokenizers to compress images into compact latent representations. We design an end-to-end training pipeline that jointly optimizes reconstruction and generation, enabling direct supervision from generation results to the tokenizer. This contrasts with prior two-stage approaches that train tokenizers and generative models separately. We further investigate leveraging vision foundation models to improve 1D tokenizers for autoregressive modeling. Our </summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>Leveraging Verifier-Based Reinforcement Learning in Image Editing</title>
-    <link href="https://seed.bytedance.com/en/public_papers/leveraging-verifier-based-reinforcement-learning-in-image-editing"/>
-    <id>999c4e885c6e95635906d001d1c897a2</id>
-    <published>2026-04-29T16:00:00+00:00</published>
-    <updated>2026-04-29T16:00:00+00:00</updated>
-    <summary type="text">While Reinforcement Learning from Human Feedback (RLHF) has become a pivotal paradigm for text-to-image generation, its application to image editing remains largely unexplored. A key bottleneck is the lack of a robust general reward model for all editing tasks. Existing edit reward models usually give overall scores without detailed checks, ignoring different instruction requirements and causing biased rewards. To address this, we argue that the key is to move from a simple scorer to a reasoning</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
   </entry>
 </feed>

@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-09-04T00:00:00+00:00</updated>
+  <updated>2026-09-09T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>An alignment assessment of recent cybersecurity incidents</title>
+    <link href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"/>
+    <id>9da08f67f378b2efa5a323f4e3bfef2b</id>
+    <published>2026-09-09T00:00:00+00:00</published>
+    <updated>2026-09-09T00:00:00+00:00</updated>
+    <category term="Alignment"/>
+  </entry>
   <entry>
     <title>Formalizing Fermat's Last Theorem</title>
     <link href="https://www.anthropic.com/research/formalizing-fermats-last-theorem"/>
@@ -79,21 +87,5 @@
     <published>2026-07-24T00:00:00+00:00</published>
     <updated>2026-07-24T00:00:00+00:00</updated>
     <category term="Frontier Red Team"/>
-  </entry>
-  <entry>
-    <title>How Canada uses Claude: Findings from the Anthropic Economic Index</title>
-    <link href="https://www.anthropic.com/research/how-canada-uses-claude"/>
-    <id>42fe934cf8a98cd3c01aabfb8773d0e7</id>
-    <published>2026-07-14T00:00:00+00:00</published>
-    <updated>2026-07-14T00:00:00+00:00</updated>
-    <category term="Economics"/>
-  </entry>
-  <entry>
-    <title>A global workspace in language models</title>
-    <link href="https://www.anthropic.com/research/global-workspace"/>
-    <id>e2df8b580d7c8a77e0db01cb593f855e</id>
-    <published>2026-07-06T00:00:00+00:00</published>
-    <updated>2026-07-06T00:00:00+00:00</updated>
-    <category term="Interpretability"/>
   </entry>
 </feed>

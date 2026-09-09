@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-09-08T00:00:00+00:00</updated>
+  <updated>2026-09-09T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Introducing the AI Chip Users Explorer</title>
+    <link href="https://epoch.ai/latest/introducing-the-ai-chip-users-explorer"/>
+    <id>51e80d3e4a51e1ee1b8c80f009198f31</id>
+    <published>2026-09-09T00:00:00+00:00</published>
+    <updated>2026-09-09T00:00:00+00:00</updated>
+    <summary type="text">A first look at Epoch AI's data on compute usage across five leading labs.</summary>
+    <category term="Update"/>
+  </entry>
   <entry>
     <title>Latency Scaling Differences for GPT and Claude Models</title>
     <link href="https://epoch.ai/publications/long-context-latency-scaling-gpt-vs-claude"/>
@@ -86,15 +95,6 @@
     <published>2026-08-14T00:00:00+00:00</published>
     <updated>2026-08-14T00:00:00+00:00</updated>
     <summary type="text">Epoch AI/Ipsos survey: 67% of AI-using workers in computer, engineering, and science jobs use employer-provided AI.</summary>
-    <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>The performance per dollar of AI chips purchased each quarter has grown by an average of 49% per year</title>
-    <link href="https://epoch.ai/data-insights/chip-performance-per-dollar"/>
-    <id>821555619cf7a95b0eee967632f3fbf1</id>
-    <published>2026-08-13T00:00:00+00:00</published>
-    <updated>2026-08-13T00:00:00+00:00</updated>
-    <summary type="text">Since 2023, the average dollar spent on AI chips each quarter has yielded about 49% more performance each year in constant 2025 dollars, doubling every 1.7 years as spending shifts to each new chip generation.</summary>
     <category term="Data Insight"/>
   </entry>
 </feed>
