@@ -36,6 +36,15 @@
     <category term="Production"/>
   </entry>
   <entry>
+    <title>Synthetic Data Generation With World Models For Robotics, AV &amp; Computer Vision</title>
+    <link href="https://ltx.io/blog/synthetic-data-generation"/>
+    <id>f27f9b59685f8b0a77853893da592b60</id>
+    <published>2026-09-06T00:00:00+00:00</published>
+    <updated>2026-09-06T00:00:00+00:00</updated>
+    <summary type="text">How world models generate synthetic data for robotics, autonomous vehicles, and computer vision, and where open models like LTX-2.5 fit in the pipeline.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
     <title>How To Create Good Camera Motion With An AI Video Model</title>
     <link href="https://ltx.io/blog/camera-motion-with-ai-video"/>
     <id>60b464469d1a00abcfbdd356fbf4d631</id>
@@ -78,6 +87,15 @@
     <published>2026-09-01T00:00:00+00:00</published>
     <updated>2026-09-01T00:00:00+00:00</updated>
     <summary type="text">How AI motion synthesis fits an animation pipeline from blocking to final render, using LTX-2.5 keyframe interpolation, IC-LoRA motion transfer, and STG.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>AI Video Resolution Guide: HDR, 4K, 1080p &amp; More</title>
+    <link href="https://ltx.io/blog/ai-video-resolution-guide"/>
+    <id>bedbcc5bb1ff20ff82974b479b1ec500</id>
+    <published>2026-08-31T00:00:00+00:00</published>
+    <updated>2026-08-31T00:00:00+00:00</updated>
+    <summary type="text">An AI video resolution guide to 4K vs 1080p in AI video generation, native vs upscaled output, and how LTX-2.3 reaches higher resolution with upsampling.</summary>
     <category term="Production"/>
   </entry>
   <entry>
@@ -420,24 +438,6 @@
     <published>2026-07-15T00:00:00+00:00</published>
     <updated>2026-07-15T00:00:00+00:00</updated>
     <summary type="text">The best Sora alternatives in 2026, compared on output quality, local inference, open-source access, pricing, and creative control for professional creators.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Hardware Guide for AI Video Models: GPU Recommendations by Use Case</title>
-    <link href="https://ltx.io/blog/hardware-for-ai-video-models"/>
-    <id>f9a8ede20fc5d1da08a0e7929c1a69e9</id>
-    <published>2026-07-13T00:00:00+00:00</published>
-    <updated>2026-07-13T00:00:00+00:00</updated>
-    <summary type="text">Match your AI video workload to the right GPU. VRAM tiers, FP8 quantization, and LTX-2.3 picks for preview, production, and LoRA training.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Why Train Your Own AI Video Model? Control, IP Protection, and Custom Pipelines</title>
-    <link href="https://ltx.io/blog/why-train-your-own-ai-video-model"/>
-    <id>6061767a49ac99d5ef09a7408a878232</id>
-    <published>2026-07-13T00:00:00+00:00</published>
-    <updated>2026-07-13T00:00:00+00:00</updated>
-    <summary type="text">Why train your own AI video model with LTX Trainer: control over the weights, local training data, custom pipelines, and no per-generation API billing.</summary>
     <category term="Production"/>
   </entry>
 </feed>

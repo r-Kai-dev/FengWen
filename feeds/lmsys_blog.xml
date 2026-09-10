@@ -4,10 +4,21 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-08-28T00:00:00+00:00</updated>
+  <updated>2026-09-10T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>SGLang and Miles Add Day-0 Support for DeepSeek-V4.1</title>
+    <link href="https://lmsys.org/blog/2026-09-10-deepseek-v41"/>
+    <id>72e5e2a7fbf2be7210b5d706a2bc2c52</id>
+    <published>2026-09-10T00:00:00+00:00</published>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <summary type="text">DeepSeek-V4.1 introduces several architecture choices that shape the serving stack.
+
+Low-ratio compression and sliding-window attention (SWA). Each layer maintains an fp8 sliding-window cache for its ...</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Infer-forge: Harness, Loop, and Graph Engineering Around SGLang</title>
     <link href="https://lmsys.org/blog/2026-08-28-infer-forge-loop-engineering"/>

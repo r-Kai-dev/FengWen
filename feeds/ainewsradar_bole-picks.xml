@@ -4,64 +4,28 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-09T19:28:17.117000+00:00</updated>
+  <updated>2026-09-10T17:28:52.100000+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents</title>
-    <link href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"/>
-    <id>35134f05cc27ea30ec282d64fb6f2766</id>
-    <published>2026-09-09T19:28:17.117000+00:00</published>
-    <updated>2026-09-09T19:28:17.117000+00:00</updated>
-    <summary type="text">Score: 0.782\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models</title>
+    <link href="https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"/>
+    <id>ff5a5c68e1b0e8ca5196fc61ebfdf2b8</id>
+    <published>2026-09-10T17:28:52.100000+00:00</published>
+    <updated>2026-09-10T17:28:52.100000+00:00</updated>
+    <summary type="text">Score: 0.777\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…</title>
-    <link href="https://x.com/AnthropicAI/status/2097762642958135398"/>
-    <id>4a28e88fb15f32ed251aeef9d9a0e692</id>
-    <published>2026-09-09T19:02:43+00:00</published>
-    <updated>2026-09-09T19:02:43+00:00</updated>
-    <summary type="text">Score: 0.787\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.</title>
-    <link href="https://mistral.ai/news/legacy-code-modernization"/>
-    <id>a403fb5f291d6907c79832c8a9470c8f</id>
-    <published>2026-09-09T18:59:11.761000+00:00</published>
-    <updated>2026-09-09T18:59:11.761000+00:00</updated>
-    <summary type="text">Score: 0.778\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元 / I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…</title>
-    <link href="https://x.com/natolambert/status/2097745018421236154"/>
-    <id>e632dc81ff14beba0e802890df502442</id>
-    <published>2026-09-09T17:52:41+00:00</published>
-    <updated>2026-09-09T17:52:41+00:00</updated>
-    <summary type="text">Score: 0.802\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GitHub Advanced Security 扩大试用范围 / GitHub Advanced Security expands trial availability</title>
-    <link href="https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability"/>
-    <id>4d85606fae0d39aceb5d57ffd9adde44</id>
-    <published>2026-09-09T17:33:34+00:00</published>
-    <updated>2026-09-09T17:33:34+00:00</updated>
+    <title>通过 cache-mode 控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode</title>
+    <link href="https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode"/>
+    <id>8a93a4df7bcec36167bd846aef213aa3</id>
+    <published>2026-09-10T17:26:59+00:00</published>
+    <updated>2026-09-10T17:26:59+00:00</updated>
     <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -70,12 +34,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>阻止含暴露密钥的合并请求被合入 / Block pull requests with exposed secrets from merging</title>
-    <link href="https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging"/>
-    <id>b472eee30434a45ea6d7fbac1f103695</id>
-    <published>2026-09-09T17:14:02+00:00</published>
-    <updated>2026-09-09T17:14:02+00:00</updated>
-    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>MAI-Code-1-Flash deprecated</title>
+    <link href="https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated"/>
+    <id>191da33462cc6d64c4871a9db6c08b17</id>
+    <published>2026-09-10T16:54:01+00:00</published>
+    <updated>2026-09-10T16:54:01+00:00</updated>
+    <summary type="text">Score: 0.837\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -83,102 +47,25 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board</title>
-    <link href="https://openai.com/index/paul-christiano-joins-openai-foundation-board"/>
-    <id>40fc85c9180f6a09fb059a49d3c53e5d</id>
-    <published>2026-09-09T17:00:00+00:00</published>
-    <updated>2026-09-09T17:00:00+00:00</updated>
-    <summary type="text">Score: 0.845\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>用 Search 的全新足球功能，为比赛做好准备 / Get ready for the game with new football features in Search</title>
-    <link href="https://blog.google/products-and-platforms/products/search/football-features-google-search"/>
-    <id>9ed5fa3b542c77617f42f28174c51f83</id>
-    <published>2026-09-09T16:00:00+00:00</published>
-    <updated>2026-09-09T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>逐帧复刻一段70年的爱情故事 / Recreating a 70-year love story frame by frame</title>
-    <link href="https://blog.google/innovation-and-ai/technology/ai/love-rendered-film"/>
-    <id>ee2042487ca91957369d4f154f34880a</id>
-    <published>2026-09-09T16:00:00+00:00</published>
-    <updated>2026-09-09T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>IBM 发布最先进的 Granite Time Series PatchTST-FM-r2 模型，采用商业友好许可。 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
-    <link href="https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"/>
-    <id>97bac12dfce8fd87552bcf78c2824440</id>
-    <published>2026-09-09T15:36:24+00:00</published>
-    <updated>2026-09-09T15:36:24+00:00</updated>
-    <summary type="text">Score: 0.850\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用</title>
-    <link href="https://www.aibase.com/news/30937"/>
-    <id>c65b8d079a9d62ef062e9f1405242d1d</id>
-    <published>2026-09-09T15:07:23.866705+00:00</published>
-    <updated>2026-09-09T15:07:23.866705+00:00</updated>
-    <summary type="text">Score: 0.756\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers&quot; hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark</title>
+    <link href="https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark"/>
+    <id>d5147e16a499b4e81b5b93cab39feb26</id>
+    <published>2026-09-10T16:33:44+00:00</published>
+    <updated>2026-09-10T16:33:44+00:00</updated>
+    <summary type="text">Score: 0.809\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻 / GPT-6 Astra， looped transformers， and hidden reasoning</title>
-    <link href="https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"/>
-    <id>42eb9d01b75f3e6b93a6ce474af9d6ac</id>
-    <published>2026-09-09T14:37:47+00:00</published>
-    <updated>2026-09-09T14:37:47+00:00</updated>
-    <summary type="text">Score: 0.826\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="multi_source"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future</title>
-    <link href="https://www.anthropic.com/institute/econ-scenarios"/>
-    <id>aadd1e18260e82e59fd43c858f4cd8ef</id>
-    <published>2026-09-09T13:27:40.545000+00:00</published>
-    <updated>2026-09-09T13:27:40.545000+00:00</updated>
-    <summary type="text">Score: 0.775\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>使用 agentic autofix 修复代码质量发现的问题 / Remediate Code Quality findings with agentic autofix</title>
-    <link href="https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix"/>
-    <id>3a8fcebad55b6be2bf63479ea91d0bbe</id>
-    <published>2026-09-09T12:21:01+00:00</published>
-    <updated>2026-09-09T12:21:01+00:00</updated>
-    <summary type="text">Score: 0.826\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>一位研究人员如何用 Codex 和 ChatGPT 寻找新型抗菌分子 / How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
+    <link href="https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"/>
+    <id>ccad0935ff948ba82e8f038529895468</id>
+    <published>2026-09-10T16:00:00+00:00</published>
+    <updated>2026-09-10T16:00:00+00:00</updated>
+    <summary type="text">Score: 0.859\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -186,72 +73,185 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs</title>
-    <link href="https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs"/>
-    <id>48b65f3fcfa9b67603b48706e782d709</id>
-    <published>2026-09-09T10:27:37+00:00</published>
-    <updated>2026-09-09T10:27:37+00:00</updated>
-    <summary type="text">Score: 0.778\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>借助 Search 备战下一场重要比赛的 3 种方法 / 3 ways to prep for your next big race with Search</title>
+    <link href="https://blog.google/products-and-platforms/products/search/running-race-training-tips"/>
+    <id>c03a80a8ab9141590d4524a7868a8a1f</id>
+    <published>2026-09-10T16:00:00+00:00</published>
+    <updated>2026-09-10T16:00:00+00:00</updated>
+    <summary type="text">Score: 0.835\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周 / Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.</title>
+    <link href="https://x.com/WorkBuddy_AI/status/2098076348749324362"/>
+    <id>7f33f9d1cb7d5c3e64b16dfde26307ca</id>
+    <published>2026-09-10T15:49:16+00:00</published>
+    <updated>2026-09-10T15:49:16+00:00</updated>
+    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作 / Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…</title>
+    <link href="https://x.com/GoogleAI/status/2098072879480947085"/>
+    <id>9b0d7dd368dba6bafa55e3f19276dbca</id>
+    <published>2026-09-10T15:35:29+00:00</published>
+    <updated>2026-09-10T15:35:29+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Xcode 27 runner 镜像现已在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27</title>
+    <link href="https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27"/>
+    <id>582253a5fe05becc25d9f5b6256893c8</id>
+    <published>2026-09-10T15:15:36+00:00</published>
+    <updated>2026-09-10T15:15:36+00:00</updated>
+    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发</title>
+    <link href="https://shopify.engineering/back-to-native"/>
+    <id>3adb16bdf825daa5cc9422c156a73c2f</id>
+    <published>2026-09-10T15:04:41.487000+00:00</published>
+    <updated>2026-09-10T15:04:41.487000+00:00</updated>
+    <summary type="text">Score: 0.783\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明</title>
-    <link href="https://www.ithome.com/1/000/353.htm"/>
-    <id>f74b73f8174e96d775050ce5be0fbede</id>
-    <published>2026-09-09T09:34:47+00:00</published>
-    <updated>2026-09-09T09:34:47+00:00</updated>
-    <summary type="text">Score: 0.773\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work</title>
+    <link href="https://openai.com/index/put-data-to-work"/>
+    <id>9cb557d6fe01833d44fbf1b44afc16f7</id>
+    <published>2026-09-10T15:00:00+00:00</published>
+    <updated>2026-09-10T15:00:00+00:00</updated>
+    <summary type="text">Score: 0.840\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents</title>
+    <link href="https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents"/>
+    <id>f321e5b33ccc9f39d225008ad600115c</id>
+    <published>2026-09-10T12:40:51+00:00</published>
+    <updated>2026-09-10T12:40:51+00:00</updated>
+    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识 / The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…</title>
-    <link href="https://x.com/thexpin/status/2097615997616406833"/>
-    <id>86f3c758db54ada389617276be1754f1</id>
-    <published>2026-09-09T09:20:00+00:00</published>
-    <updated>2026-09-09T09:20:00+00:00</updated>
-    <summary type="text">Score: 0.772\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….</title>
+    <link href="https://x.com/kimmonismus/status/2097962333767102665"/>
+    <id>7dd1db8c5bd0ae8c4edacea86a52ef40</id>
+    <published>2026-09-10T08:16:13+00:00</published>
+    <updated>2026-09-10T08:16:13+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明 / friends are regularly surprised when i say i don't think math is （yet） &quot;solved，&quot; so in the wake of t…</title>
-    <link href="https://x.com/Thom_Wolf/status/2097615465698713666"/>
-    <id>7196b4473f4a8f598fee31f29afb6ca6</id>
-    <published>2026-09-09T09:17:53+00:00</published>
-    <updated>2026-09-09T09:17:53+00:00</updated>
-    <summary type="text">Score: 0.757\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse</title>
+    <link href="https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse"/>
+    <id>6ddabf3e6e1213d0a48f77c525f071d8</id>
+    <published>2026-09-10T07:31:01+00:00</published>
+    <updated>2026-09-10T07:31:01+00:00</updated>
+    <summary type="text">Score: 0.783\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…</title>
-    <link href="https://x.com/rohanpaul_ai/status/2097605329123147987"/>
-    <id>584552591d4e89d256d8545d2de0b74c</id>
-    <published>2026-09-09T08:37:36+00:00</published>
-    <updated>2026-09-09T08:37:36+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>诺奖得主阿吉翁:AI时代，比以往任何时候都更需要重视手工劳动和软技能</title>
+    <link href="https://www.aibase.com/news/30954"/>
+    <id>965ea1886727e2066e04727d33c35005</id>
+    <published>2026-09-10T06:01:40.918143+00:00</published>
+    <updated>2026-09-10T06:01:40.918143+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>DeepSeek 发布 V4.1-Flash，API 价格同步下调</title>
+    <link href="https://api-docs.deepseek.com/zh-cn/updates"/>
+    <id>7403d9cd83216eef6fbe494350f1ab1a</id>
+    <published>2026-09-10T05:58:04.695000+00:00</published>
+    <updated>2026-09-10T05:58:04.695000+00:00</updated>
+    <summary type="text">Score: 0.756\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争 / On the Navier-Stokes Millennium Prize Problem</title>
-    <link href="https://simonwillison.net/2026/Sep/8/on-navier-stokes"/>
-    <id>05ffa1883edea7371d17b4cc4bd663be</id>
-    <published>2026-09-08T23:55:12+00:00</published>
-    <updated>2026-09-08T23:55:12+00:00</updated>
-    <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>DeepSeek 发布 V4.1 Flash：552B MoE 多模态模型，同步开源并下调 API 定价</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485817&amp;idx=1&amp;sn=627dd80114901f3fd8717e2c13feaf6a"/>
+    <id>ae821705b1a60f4fd38d92b813afe79f</id>
+    <published>2026-09-10T05:44:15+00:00</published>
+    <updated>2026-09-10T05:44:15+00:00</updated>
+    <summary type="text">Score: 0.774\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow</title>
+    <link href="https://huggingface.co/blog/gradio-workflow-1111"/>
+    <id>20d102a224da34a92454da062206b767</id>
+    <published>2026-09-10T00:00:00+00:00</published>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.815\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 在 API 中推出全双工语音模型 GPT-Live-1 / Build more natural voice experiences with GPT‑Live‑1 in the API</title>
+    <link href="https://openai.com/index/introducing-gpt-live-1-in-the-api"/>
+    <id>c88c2f962755e17dc83818bb7b74a860</id>
+    <published>2026-09-10T00:00:00+00:00</published>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.840\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Anthropic 发布 Claude Mythos 5 网络安全事件对齐评估，METR 将独立调查 / Anthropic just published its alignment assessment and says removing training exercises that taught M…</title>
+    <link href="https://x.com/rohanpaul_ai/status/2097776787115901018"/>
+    <id>53c6f77587b9c075e477bbaac394d940</id>
+    <published>2026-09-09T19:58:55+00:00</published>
+    <updated>2026-09-09T19:58:55+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>

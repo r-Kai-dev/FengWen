@@ -4,10 +4,26 @@
   <icon>https://cognition.com/favicon.ico</icon>
   <link href="https://cognition.com/blog"/>
   <id>https://cognition.com/blog</id>
-  <updated>2026-09-09T00:00:00+00:00</updated>
+  <updated>2026-09-10T00:00:00+00:00</updated>
   <author>
     <name>Cognition</name>
   </author>
+  <entry>
+    <title>Introducing SWE-2: Pushing the Pareto Frontier</title>
+    <link href="https://cognition.com/blog/swe-2"/>
+    <id>9611e0c32318488b4c6b57b179959e94</id>
+    <published>2026-09-10T00:00:00+00:00</published>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <summary type="text">Today we’re introducing SWE-2, our most advanced coding model yet. SWE-2 delivers highly competitive agentic coding performance across multiple effort levels, pushing the Pareto frontier of capability and inference cost.</summary>
+  </entry>
+  <entry>
+    <title>Welcoming Dioxus to Cognition</title>
+    <link href="https://cognition.com/blog/welcoming-dioxus"/>
+    <id>55e879c9fb8796454dbc20a3868300f5</id>
+    <published>2026-09-10T00:00:00+00:00</published>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <summary type="text">Jonathan Kelley and the Dioxus team are joining Cognition. We will continue supporting Dioxus, Blitz, Taffy, and Subsecond while increasing investment in Dioxus-Native and Blitz.</summary>
+  </entry>
   <entry>
     <title>Factoring RSA-260</title>
     <link href="https://cognition.com/blog/factoring-rsa-260"/>

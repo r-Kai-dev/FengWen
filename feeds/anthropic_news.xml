@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-09-01T00:00:00+00:00</updated>
+  <updated>2026-09-10T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Detecting and countering misuse of AI: September 2026</title>
+    <link href="https://www.anthropic.com/news/threat-intelligence-report-september-2026"/>
+    <id>95826761e8f42af135da9c1d95506518</id>
+    <published>2026-09-10T00:00:00+00:00</published>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
   <entry>
     <title>Developing Enterprise Frontier Safeguards with our customers</title>
     <link href="https://www.anthropic.com/news/enterprise-frontier-safeguards"/>
@@ -95,13 +103,5 @@
     <published>2026-07-24T00:00:00+00:00</published>
     <updated>2026-07-24T00:00:00+00:00</updated>
     <category term="Product"/>
-  </entry>
-  <entry>
-    <title>The Making of Claude Code</title>
-    <link href="https://www.anthropic.com/news/making-of-claude-code"/>
-    <id>6bd67bd55a090b3e377ce9da32514401</id>
-    <published>2026-07-06T00:00:00+00:00</published>
-    <updated>2026-07-06T00:00:00+00:00</updated>
-    <category term="Features"/>
   </entry>
 </feed>

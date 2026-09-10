@@ -16,6 +16,16 @@
 &lt;p&gt;The road to building specialized intelligence typically follows four stages from renting the closed frontier to training your own custom models, we walk you through what it takes to get there.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>Gen-1 Slides: Opus 5-level decks at a fraction of the cost</title>
+    <link href="https://fireworks.ai/blog/gen-1-slides-opus-5-level-decks-at-a-fraction-of-the-cost"/>
+    <id>5aff531b018386615424a50adab57249</id>
+    <published>2026-09-10T00:00:00+00:00</published>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <summary type="text">Genspark partnered with Fireworks Lab to post-train MiniMax M3 into Gen-1 Slides, a model that produces Opus 5-level decks at roughly one-tenth the cost per finished deck. </summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/d2bad3f3d6c81b770cde4fe256f9ee2b2b155b72-1600x900.png&quot; alt=&quot;Gen-1 Slides: Opus 5-level decks at a fraction of the cost&quot; /&gt;
+&lt;p&gt;Genspark partnered with Fireworks Lab to post-train MiniMax M3 into Gen-1 Slides, a model that produces Opus 5-level decks at roughly one-tenth the cost per finished deck. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>Train past the frontier: Training API now generally available</title>
     <link href="https://fireworks.ai/blog/train-past-the-frontier-training-api-now-generally-available"/>
     <id>2c6b3fab666de7fabc76961c0045d038</id>
@@ -478,15 +488,5 @@
     <summary type="text">Compare GPT-5.5, Claude Opus 4.7, DeepSeek V4-Pro, Kimi K2.6, and 7 more LLMs for coding. Artificial Analysis benchmarks, Fireworks pricing, and tradeoffs.</summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;Best LLMs for coding in 2026&quot; /&gt;
 &lt;p&gt;Compare GPT-5.5, Claude Opus 4.7, DeepSeek V4-Pro, Kimi K2.6, and 7 more LLMs for coding. Artificial Analysis benchmarks, Fireworks pricing, and tradeoffs.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>The DeepSeek Model Lineup: V3.2, R1, and Distilled Variants Mapped to Production Workloads</title>
-    <link href="https://fireworks.ai/blog/deepseek-models"/>
-    <id>20f5bafaae0b6dc8614fc1e728050bae</id>
-    <published>2026-02-27T00:00:00+00:00</published>
-    <updated>2026-02-27T00:00:00+00:00</updated>
-    <summary type="text">DeepSeek models explained: V3.2 vs R1 vs distilled variants, when to use thinking mode, tool calling limits, token costs, and how to run them on Fireworks.</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;The DeepSeek Model Lineup: V3.2, R1, and Distilled Variants Mapped to Production Workloads&quot; /&gt;
-&lt;p&gt;DeepSeek models explained: V3.2 vs R1 vs distilled variants, when to use thinking mode, tool calling limits, token costs, and how to run them on Fireworks.&lt;/p&gt;</content>
   </entry>
 </feed>

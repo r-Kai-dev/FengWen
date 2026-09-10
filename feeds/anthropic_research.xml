@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-09-09T00:00:00+00:00</updated>
+  <updated>2026-09-10T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Measuring tactical intelligence targeting and conventional weapons capabilities of AI models</title>
+    <link href="https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"/>
+    <id>8e3ab6abffeea2f26f8bbb92b1c7514f</id>
+    <published>2026-09-10T00:00:00+00:00</published>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <category term="Frontier Red Team"/>
+  </entry>
   <entry>
     <title>An alignment assessment of recent cybersecurity incidents</title>
     <link href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"/>
@@ -78,14 +86,6 @@
     <id>b587ed7eaf40a601302b1537e0174e18</id>
     <published>2026-07-28T00:00:00+00:00</published>
     <updated>2026-07-28T00:00:00+00:00</updated>
-    <category term="Frontier Red Team"/>
-  </entry>
-  <entry>
-    <title>Project Pilot: Can AI control a drone?</title>
-    <link href="https://www.anthropic.com/research/project-pilot"/>
-    <id>faa379ad9aa5c8fde1266a7fd209af5d</id>
-    <published>2026-07-24T00:00:00+00:00</published>
-    <updated>2026-07-24T00:00:00+00:00</updated>
     <category term="Frontier Red Team"/>
   </entry>
 </feed>
