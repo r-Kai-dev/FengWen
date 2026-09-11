@@ -6,12 +6,22 @@
   <id>https://huggingface.co/papers</id>
   <updated>2026-09-07T20:00:00.000Z</updated>
   <entry>
+    <title>Miles v0.1: Production-Level Post-Training</title>
+    <link href="https://arxiv.org/abs/2609.08368"/>
+    <id>46bb7a10e61a4113d482d3eb7775dd57</id>
+    <published>2026-09-07T20:00:00.000Z</published>
+    <updated>2026-09-07T20:00:00.000Z</updated>
+    <summary type="text">We present Miles v0.1, a full-stack, production-ready system for frontier post-training. Building upon the clean design of slime, Miles designs each stage of the reinforcement-learning (RL) training l... \u00b7 Upvotes: 52 \u00b7 GitHub Stars: 2793 \u00b7 Authors: RadixArk, Tom Chen, Mao Cheng</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
     <title>NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness</title>
     <link href="https://arxiv.org/abs/2609.08183"/>
     <id>3af0b9cd55d45a337fd571dd45fb4080</id>
     <published>2026-09-07T20:00:00.000Z</published>
     <updated>2026-09-07T20:00:00.000Z</updated>
-    <summary type="text">Recursive self-improvement (RSI) requires a concrete mechanism through which an AI system observes its capabilities and converts that evidence into the next round of learning. We present NeoHorse-1, a... \u00b7 Upvotes: 386 \u00b7 GitHub Stars: 111 \u00b7 Authors: NeoHorse Team, Guoliang Cao, Guohao Dai</summary>
+    <summary type="text">Recursive self-improvement (RSI) requires a concrete mechanism through which an AI system observes its capabilities and converts that evidence into the next round of learning. We present NeoHorse-1, a... \u00b7 Upvotes: 393 \u00b7 GitHub Stars: 134 \u00b7 Authors: NeoHorse Team, Guoliang Cao, Guohao Dai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +41,7 @@
     <id>3e5d741d1b190d14e8530671ddbd8c12</id>
     <published>2026-09-01T20:00:00.000Z</published>
     <updated>2026-09-01T20:00:00.000Z</updated>
-    <summary type="text">Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this... \u00b7 Upvotes: 540 \u00b7 GitHub Stars: 260 \u00b7 Authors: Jianlyu Chen, Yuyang Hu, Hongjin Qian</summary>
+    <summary type="text">Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this... \u00b7 Upvotes: 542 \u00b7 GitHub Stars: 267 \u00b7 Authors: Jianlyu Chen, Yuyang Hu, Hongjin Qian</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +51,17 @@
     <id>7577abb1e2d6b8f8a59bcbf22dcd8e94</id>
     <published>2026-08-31T20:00:00.000Z</published>
     <updated>2026-08-31T20:00:00.000Z</updated>
-    <summary type="text">AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to coll... \u00b7 Upvotes: 486 \u00b7 GitHub Stars: 42 \u00b7 Authors: Ke Yang, Chenglong Wang, Michel Galley</summary>
+    <summary type="text">AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to coll... \u00b7 Upvotes: 486 \u00b7 GitHub Stars: 43 \u00b7 Authors: Ke Yang, Chenglong Wang, Michel Galley</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Scaling Automatic Research Agents via World Models</title>
+    <link href="https://arxiv.org/abs/2608.12564"/>
+    <id>dd4d55b15499c6d3767dbb70c22bdc9b</id>
+    <published>2026-08-28T20:00:00.000Z</published>
+    <updated>2026-08-28T20:00:00.000Z</updated>
+    <summary type="text">Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently impl... \u00b7 Upvotes: 437 \u00b7 GitHub Stars: 7 \u00b7 Authors: Xiyuan Yang, Sheikh Sarwar, Jingru Cheng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +71,7 @@
     <id>cd835cba923694921226974cedf74e88</id>
     <published>2026-08-26T20:00:00.000Z</published>
     <updated>2026-08-26T20:00:00.000Z</updated>
-    <summary type="text">Scaling robot data is crucial for building generalist Vision-Language-Action (VLA) models, yet robot trajectories are harder to scale than web-scale image-text data because embodied collection is cost... \u00b7 Upvotes: 95 \u00b7 GitHub Stars: 3635 \u00b7 Authors: Senqiao Yang, Chengyao Wang, Yuxin Chen</summary>
+    <summary type="text">Scaling robot data is crucial for building generalist Vision-Language-Action (VLA) models, yet robot trajectories are harder to scale than web-scale image-text data because embodied collection is cost... \u00b7 Upvotes: 95 \u00b7 GitHub Stars: 3638 \u00b7 Authors: Senqiao Yang, Chengyao Wang, Yuxin Chen</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +81,7 @@
     <id>a43e1614250242d15ddc73077e4814bf</id>
     <published>2026-08-23T20:00:00.000Z</published>
     <updated>2026-08-23T20:00:00.000Z</updated>
-    <summary type="text">Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long... \u00b7 Upvotes: 52 \u00b7 GitHub Stars: 20459 \u00b7 Authors: Seth Karten, Alex L. Zhang, Kevin Thomas</summary>
+    <summary type="text">Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long... \u00b7 Upvotes: 52 \u00b7 GitHub Stars: 20564 \u00b7 Authors: Seth Karten, Alex L. Zhang, Kevin Thomas</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +91,7 @@
     <id>e462be794d17e39b74611333ab7830d0</id>
     <published>2026-08-22T20:00:00.000Z</published>
     <updated>2026-08-22T20:00:00.000Z</updated>
-    <summary type="text">Autonomous research systems are increasingly capable of executing long research workflows, yet automation alone does not ensure that the resulting process remains scientifically grounded. We introduce... \u00b7 Upvotes: 21 \u00b7 GitHub Stars: 2924 \u00b7 Authors: Yiming Ren, Xiang Liu, Qumeng Sun</summary>
+    <summary type="text">Autonomous research systems are increasingly capable of executing long research workflows, yet automation alone does not ensure that the resulting process remains scientifically grounded. We introduce... \u00b7 Upvotes: 22 \u00b7 GitHub Stars: 3428 \u00b7 Authors: Yiming Ren, Xiang Liu, Qumeng Sun</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +101,7 @@
     <id>ce322cd925b1d960689b98de49a27747</id>
     <published>2026-08-16T20:00:00.000Z</published>
     <updated>2026-08-16T20:00:00.000Z</updated>
-    <summary type="text">Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal... \u00b7 Upvotes: 109 \u00b7 GitHub Stars: 12377 \u00b7 Authors: Shuo Yang, Xiaoze Fan, Melissa Pan</summary>
+    <summary type="text">Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal... \u00b7 Upvotes: 109 \u00b7 GitHub Stars: 12454 \u00b7 Authors: Shuo Yang, Xiaoze Fan, Melissa Pan</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,17 +111,7 @@
     <id>519faa86d750a357aaad285fd5e41dec</id>
     <published>2026-08-14T20:00:00.000Z</published>
     <updated>2026-08-14T20:00:00.000Z</updated>
-    <summary type="text">Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro... \u00b7 Upvotes: 446 \u00b7 GitHub Stars: 1068 \u00b7 Authors: Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>BDH-CQ: In-Context Learning with Recurrent Latent Reasoning</title>
-    <link href="https://arxiv.org/abs/2608.09888"/>
-    <id>ff31056e683b049c349bea47fee72656</id>
-    <published>2026-08-09T20:00:00.000Z</published>
-    <updated>2026-08-09T20:00:00.000Z</updated>
-    <summary type="text">We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model... \u00b7 Upvotes: 779 \u00b7 GitHub Stars: 11234 \u00b7 Authors: Björn Engdahl, Adrian Kosowski, Jan Chorowski</summary>
+    <summary type="text">Long-horizon agents can fail even when their underlying models can solve the constituent steps. They may lose track of mutable state, fail to reactivate lessons from earlier executions, skip known pro... \u00b7 Upvotes: 446 \u00b7 GitHub Stars: 1076 \u00b7 Authors: Ziheng Qin, Yaxin Lu, Zhangyang Atlas Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -111,7 +121,7 @@
     <id>b3bf71e004d5f291fada95cb9e8d41d5</id>
     <published>2026-08-06T20:00:00.000Z</published>
     <updated>2026-08-06T20:00:00.000Z</updated>
-    <summary type="text">No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and... \u00b7 Upvotes: 111 \u00b7 GitHub Stars: 2818 \u00b7 Authors: Tao Feng, Fangxu Yu, Haozhen Zhang</summary>
+    <summary type="text">No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and... \u00b7 Upvotes: 111 \u00b7 GitHub Stars: 2832 \u00b7 Authors: Tao Feng, Fangxu Yu, Haozhen Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
