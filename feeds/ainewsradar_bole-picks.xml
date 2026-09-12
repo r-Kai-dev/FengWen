@@ -4,205 +4,134 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-11T18:26:10+00:00</updated>
+  <updated>2026-09-12T19:23:46.657985+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github"/>
-    <id>aa7ebe83800ca48f7fe65c3ac71175dd</id>
-    <published>2026-09-11T18:26:10+00:00</published>
-    <updated>2026-09-11T18:26:10+00:00</updated>
-    <summary type="text">Score: 0.866\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Perplexity 把端到端系统交给 GPT-6 Astra / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
+    <link href="https://openai.com/index/perplexity-improving-accuracy-with-astra"/>
+    <id>a67a2707bad038a729c20d2da719401e</id>
+    <published>2026-09-12T19:23:46.657985+00:00</published>
+    <updated>2026-09-12T19:23:46.657985+00:00</updated>
+    <summary type="text">Score: 0.860\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
   </entry>
   <entry>
-    <title>Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement</title>
-    <link href="https://www.dwarkesh.com/p/john-beren-charlie"/>
-    <id>3336748a7057558ea4506aaf36f2993f</id>
-    <published>2026-09-11T16:28:11+00:00</published>
-    <updated>2026-09-11T16:28:11+00:00</updated>
-    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160</title>
+    <link href="https://x.com/OpenAIDevs/status/2098827327832822014"/>
+    <id>4f4042efc8845cbd4baa2493ef5f3a25</id>
+    <published>2026-09-12T17:33:23+00:00</published>
+    <updated>2026-09-12T17:33:23+00:00</updated>
+    <summary type="text">Score: 0.835\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6</title>
+    <link href="https://suno.com/blog/introducing-v6"/>
+    <id>42d4ed6380c41e4eeddb33f37014f676</id>
+    <published>2026-09-12T16:39:24.855000+00:00</published>
+    <updated>2026-09-12T16:39:24.855000+00:00</updated>
+    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议</title>
-    <link href="https://www.aibase.com/news/31002"/>
-    <id>879ab17a1ad787d5119b67bf2c0be957</id>
-    <published>2026-09-11T15:02:07.120890+00:00</published>
-    <updated>2026-09-11T15:02:07.120890+00:00</updated>
-    <summary type="text">Score: 0.756\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…</title>
+    <link href="https://x.com/sama/status/2098811563415150910"/>
+    <id>dafe8da231d84539c63b74243378624c</id>
+    <published>2026-09-12T16:30:45+00:00</published>
+    <updated>2026-09-12T16:30:45+00:00</updated>
+    <summary type="text">Score: 0.766\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”</title>
-    <link href="https://www.aibase.com/news/31003"/>
-    <id>93eb9c3b4b3b0f22670d21fa2eae60e5</id>
-    <published>2026-09-11T15:02:07.120890+00:00</published>
-    <updated>2026-09-11T15:02:07.120890+00:00</updated>
-    <summary type="text">Score: 0.756\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <title>Anthropic掌门人Dario Amodei呼吁放慢AI发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down</title>
+    <link href="https://www.bbc.com/news/articles/c14dpgm0rg4o"/>
+    <id>3007e13e9dfc95a461154e9299ae6d24</id>
+    <published>2026-09-12T15:37:39+00:00</published>
+    <updated>2026-09-12T15:37:39+00:00</updated>
+    <summary type="text">Score: 0.539\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>Show HN: Hacker News，不含人工智能</title>
-    <link href="https://hcker.news/?ai=exclude"/>
-    <id>a7cfe20bc86a1b12908161b1fa1029d3</id>
-    <published>2026-09-11T15:01:19+00:00</published>
-    <updated>2026-09-11T15:01:19+00:00</updated>
-    <summary type="text">Score: 0.564\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>英伟达是人工智能领域的“中央银行”</title>
+    <link href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"/>
+    <id>99b7a5bbee74dadc46272d860e1c2bb7</id>
+    <published>2026-09-12T15:08:27+00:00</published>
+    <updated>2026-09-12T15:08:27+00:00</updated>
+    <summary type="text">Score: 0.539\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）</title>
+    <link href="https://www.minitap.ai/blog/i-expected-better-from-google"/>
+    <id>c7ddef345b94b8967547a06f4a86ad28</id>
+    <published>2026-09-12T02:39:39+00:00</published>
+    <updated>2026-09-12T02:39:39+00:00</updated>
+    <summary type="text">Score: 0.791\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>Meta 表示在提出侵入性个人问题后，将调整 AI 建议 / Meta says it&amp;#8217;s changing AI suggestions after posing invasive personal questions</title>
-    <link href="https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions"/>
-    <id>9d398707f4f33d5b224814f560e4b591</id>
-    <published>2026-09-11T14:25:21+00:00</published>
-    <updated>2026-09-11T14:25:21+00:00</updated>
-    <summary type="text">Score: 0.602\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <title>英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元</title>
+    <link href="https://www.ithome.com/1/001/488.htm"/>
+    <id>af20c86c53cbb899d7cd015319a8e6ee</id>
+    <published>2026-09-11T23:22:39+00:00</published>
+    <updated>2026-09-11T23:22:39+00:00</updated>
+    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析</title>
+    <link href="https://www.rubyhack.ai"/>
+    <id>bd764c49d3283bfb46333bf24b0a0f5b</id>
+    <published>2026-09-11T23:17:42+00:00</published>
+    <updated>2026-09-11T23:17:42+00:00</updated>
+    <summary type="text">Score: 0.801\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论</title>
+    <link href="https://www.dwarkesh.com/p/john-beren-charlie"/>
+    <id>3336748a7057558ea4506aaf36f2993f</id>
+    <published>2026-09-11T21:35:29+00:00</published>
+    <updated>2026-09-11T21:35:29+00:00</updated>
+    <summary type="text">Score: 0.520\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data</title>
-    <link href="https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data"/>
-    <id>509b25caaf3c0ae2a10a921d8c445d51</id>
-    <published>2026-09-11T13:50:28+00:00</published>
-    <updated>2026-09-11T13:50:28+00:00</updated>
-    <summary type="text">Score: 0.811\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>小米开源工业级目标说话人语音识别大模型 CocktailASR-1</title>
-    <link href="https://www.aibase.com/news/31001"/>
-    <id>cef9f5e7a4f40155f1834a840ec6a164</id>
-    <published>2026-09-11T11:28:41.323392+00:00</published>
-    <updated>2026-09-11T11:28:41.323392+00:00</updated>
-    <summary type="text">Score: 0.747\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
-    <link href="https://openai.com/index/scaling-storage-one-billion-users-part-one"/>
-    <id>289749a7c7bbbdf1e7a9d152867a3105</id>
-    <published>2026-09-11T10:00:00+00:00</published>
-    <updated>2026-09-11T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.836\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试</title>
-    <link href="https://www.aibase.com/news/30999"/>
-    <id>4a67d3462bd3ee5049e7b6f953d5b274</id>
-    <published>2026-09-11T09:42:06.729473+00:00</published>
-    <updated>2026-09-11T09:42:06.729473+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发</title>
-    <link href="https://www.aibase.com/news/30993"/>
-    <id>2c7dd42c71eb19cbf0e07d6134cb00d8</id>
-    <published>2026-09-11T09:42:06.729473+00:00</published>
-    <updated>2026-09-11T09:42:06.729473+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用</title>
-    <link href="https://www.aibase.com/news/30995"/>
-    <id>1c14dce200b36b72d4c26dc63fd41ab7</id>
-    <published>2026-09-11T09:42:06.729473+00:00</published>
-    <updated>2026-09-11T09:42:06.729473+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话</title>
-    <link href="https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7"/>
-    <id>34e659b768a7bd6ec85b5fd2152dfc05</id>
-    <published>2026-09-11T05:00:34+00:00</published>
-    <updated>2026-09-11T05:00:34+00:00</updated>
-    <summary type="text">Score: 0.577\nSources: 2 (OPML RSS)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&amp;mid=2247511119&amp;idx=1&amp;sn=0f53b5017e41b16afc9b201966ce2bda"/>
-    <id>24ca6f2096be23fc544e1f73da35e1bd</id>
-    <published>2026-09-11T04:24:28+00:00</published>
-    <updated>2026-09-11T04:24:28+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级</title>
-    <link href="https://www.aibase.com/news/30980"/>
-    <id>9b7e808cd62155801fd70b9053edcf54</id>
-    <published>2026-09-11T01:06:08.301665+00:00</published>
-    <updated>2026-09-11T01:06:08.301665+00:00</updated>
-    <summary type="text">Score: 0.760\nSources: 2 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot 每周发布 — 9月7日 / GitHub Copilot weekly releases — September 7</title>
-    <link href="https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7"/>
-    <id>d09adf502ebb47bfe3547dcd08274b16</id>
-    <published>2026-09-10T22:55:07+00:00</published>
-    <updated>2026-09-10T22:55:07+00:00</updated>
-    <summary type="text">Score: 0.805\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot 应用入门：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser"/>
-    <id>77064d50cac950edc117341a523f8ad7</id>
-    <published>2026-09-10T21:31:19+00:00</published>
-    <updated>2026-09-10T21:31:19+00:00</updated>
+    <title>将 VS Code Agents 加入 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics</title>
+    <link href="https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics"/>
+    <id>72d19b04e067f4e7f895f8718363bc6d</id>
+    <published>2026-09-11T21:30:30+00:00</published>
+    <updated>2026-09-11T21:30:30+00:00</updated>
     <summary type="text">Score: 0.803\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -211,38 +140,23 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>全新改版的仓库 Pull Request 页面开启公开预览 / Refreshed repository pull requests page in public preview</title>
-    <link href="https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview"/>
-    <id>b222e521491fa584fa85956aeca8b513</id>
-    <published>2026-09-10T21:27:17+00:00</published>
-    <updated>2026-09-10T21:27:17+00:00</updated>
-    <summary type="text">Score: 0.794\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek</title>
-    <link href="https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"/>
-    <id>719b70190a1c2fecc5563a88670071c6</id>
-    <published>2026-09-10T20:57:30+00:00</published>
-    <updated>2026-09-10T20:57:30+00:00</updated>
-    <summary type="text">Score: 0.766\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>Y Combinator的Garry Tan也希望美国开放权重AI实验室“distill”前沿模型 / Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</title>
+    <link href="https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too"/>
+    <id>f396e0bb78ab69b6f84c0db303dab741</id>
+    <published>2026-09-11T20:59:47+00:00</published>
+    <updated>2026-09-11T20:59:47+00:00</updated>
+    <summary type="text">Score: 0.599\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>AI Scan 面向 pull request API 开放公开预览 / AI Scan for pull request APIs in public preview</title>
-    <link href="https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview"/>
-    <id>3d0a51b7b6d074ee873d94735807a5ea</id>
-    <published>2026-09-10T20:20:58+00:00</published>
-    <updated>2026-09-10T20:20:58+00:00</updated>
-    <summary type="text">Score: 0.792\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Copilot 代码审查中的自动解决与分析更新 / Auto-resolution and analysis updates in Copilot code review</title>
+    <link href="https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review"/>
+    <id>849cdbcf3d995abc006f98ea5d5fd833</id>
+    <published>2026-09-11T20:00:07+00:00</published>
+    <updated>2026-09-11T20:00:07+00:00</updated>
+    <summary type="text">Score: 0.800\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
