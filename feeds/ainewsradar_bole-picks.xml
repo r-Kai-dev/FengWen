@@ -4,7 +4,7 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-12T19:23:46.657985+00:00</updated>
+  <updated>2026-09-13T19:28:33.043897+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
@@ -12,8 +12,8 @@
     <title>Perplexity 把端到端系统交给 GPT-6 Astra / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
     <link href="https://openai.com/index/perplexity-improving-accuracy-with-astra"/>
     <id>a67a2707bad038a729c20d2da719401e</id>
-    <published>2026-09-12T19:23:46.657985+00:00</published>
-    <updated>2026-09-12T19:23:46.657985+00:00</updated>
+    <published>2026-09-13T19:28:33.043897+00:00</published>
+    <updated>2026-09-13T19:28:33.043897+00:00</updated>
     <summary type="text">Score: 0.860\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -22,145 +22,129 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160</title>
-    <link href="https://x.com/OpenAIDevs/status/2098827327832822014"/>
-    <id>4f4042efc8845cbd4baa2493ef5f3a25</id>
-    <published>2026-09-12T17:33:23+00:00</published>
-    <updated>2026-09-12T17:33:23+00:00</updated>
-    <summary type="text">Score: 0.835\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6</title>
-    <link href="https://suno.com/blog/introducing-v6"/>
-    <id>42d4ed6380c41e4eeddb33f37014f676</id>
-    <published>2026-09-12T16:39:24.855000+00:00</published>
-    <updated>2026-09-12T16:39:24.855000+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei</title>
+    <link href="https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario"/>
+    <id>16c1290f4b1328a0ec321717bccdc3e1</id>
+    <published>2026-09-13T18:34:31+00:00</published>
+    <updated>2026-09-13T18:34:31+00:00</updated>
+    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…</title>
-    <link href="https://x.com/sama/status/2098811563415150910"/>
-    <id>dafe8da231d84539c63b74243378624c</id>
-    <published>2026-09-12T16:30:45+00:00</published>
-    <updated>2026-09-12T16:30:45+00:00</updated>
-    <summary type="text">Score: 0.766\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic掌门人Dario Amodei呼吁放慢AI发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down</title>
-    <link href="https://www.bbc.com/news/articles/c14dpgm0rg4o"/>
-    <id>3007e13e9dfc95a461154e9299ae6d24</id>
-    <published>2026-09-12T15:37:39+00:00</published>
-    <updated>2026-09-12T15:37:39+00:00</updated>
-    <summary type="text">Score: 0.539\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <title>大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐</title>
+    <link href="https://twitter.com/DavidSacks/status/2098973625252708460"/>
+    <id>03d649bc02f44e557ccdb34792783591</id>
+    <published>2026-09-13T16:52:33+00:00</published>
+    <updated>2026-09-13T16:52:33+00:00</updated>
+    <summary type="text">Score: 0.544\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>英伟达是人工智能领域的“中央银行”</title>
-    <link href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"/>
-    <id>99b7a5bbee74dadc46272d860e1c2bb7</id>
-    <published>2026-09-12T15:08:27+00:00</published>
-    <updated>2026-09-12T15:08:27+00:00</updated>
-    <summary type="text">Score: 0.539\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）</title>
-    <link href="https://www.minitap.ai/blog/i-expected-better-from-google"/>
-    <id>c7ddef345b94b8967547a06f4a86ad28</id>
-    <published>2026-09-12T02:39:39+00:00</published>
-    <updated>2026-09-12T02:39:39+00:00</updated>
-    <summary type="text">Score: 0.791\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元</title>
-    <link href="https://www.ithome.com/1/001/488.htm"/>
-    <id>af20c86c53cbb899d7cd015319a8e6ee</id>
-    <published>2026-09-11T23:22:39+00:00</published>
-    <updated>2026-09-11T23:22:39+00:00</updated>
-    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析</title>
-    <link href="https://www.rubyhack.ai"/>
-    <id>bd764c49d3283bfb46333bf24b0a0f5b</id>
-    <published>2026-09-11T23:17:42+00:00</published>
-    <updated>2026-09-11T23:17:42+00:00</updated>
-    <summary type="text">Score: 0.801\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论</title>
-    <link href="https://www.dwarkesh.com/p/john-beren-charlie"/>
-    <id>3336748a7057558ea4506aaf36f2993f</id>
-    <published>2026-09-11T21:35:29+00:00</published>
-    <updated>2026-09-11T21:35:29+00:00</updated>
-    <summary type="text">Score: 0.520\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>将 VS Code Agents 加入 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics</title>
-    <link href="https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics"/>
-    <id>72d19b04e067f4e7f895f8718363bc6d</id>
-    <published>2026-09-11T21:30:30+00:00</published>
-    <updated>2026-09-11T21:30:30+00:00</updated>
-    <summary type="text">Score: 0.803\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Y Combinator的Garry Tan也希望美国开放权重AI实验室“distill”前沿模型 / Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</title>
+    <title>加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型</title>
     <link href="https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too"/>
-    <id>f396e0bb78ab69b6f84c0db303dab741</id>
-    <published>2026-09-11T20:59:47+00:00</published>
-    <updated>2026-09-11T20:59:47+00:00</updated>
-    <summary type="text">Score: 0.599\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <id>36a3ec33d5dd8d6d2aa28c87bd119c71</id>
+    <published>2026-09-13T15:44:38+00:00</published>
+    <updated>2026-09-13T15:44:38+00:00</updated>
+    <summary type="text">Score: 0.541\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Copilot 代码审查中的自动解决与分析更新 / Auto-resolution and analysis updates in Copilot code review</title>
-    <link href="https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review"/>
-    <id>849cdbcf3d995abc006f98ea5d5fd833</id>
-    <published>2026-09-11T20:00:07+00:00</published>
-    <updated>2026-09-11T20:00:07+00:00</updated>
-    <summary type="text">Score: 0.800\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic</title>
+    <link href="https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"/>
+    <id>ae86ce7452482c4b13a53e042907cc5a</id>
+    <published>2026-09-13T14:15:40+00:00</published>
+    <updated>2026-09-13T14:15:40+00:00</updated>
+    <summary type="text">Score: 0.819\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks</title>
+    <link href="https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks"/>
+    <id>7585128530e06e2f48387d612ec81246</id>
+    <published>2026-09-13T05:56:03+00:00</published>
+    <updated>2026-09-13T05:56:03+00:00</updated>
+    <summary type="text">Score: 0.754\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>为什么人工智能代理会说谎、作弊并相互协调？</title>
+    <link href="https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"/>
+    <id>4735a17de5b72adf4783704e4b29e721</id>
+    <published>2026-09-13T01:22:31+00:00</published>
+    <updated>2026-09-13T01:22:31+00:00</updated>
+    <summary type="text">Score: 0.517\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>除了我之外，大家都应该放缓人工智能的发展步伐</title>
+    <link href="https://xeiaso.net/notes/2026/everyone-slowdown-but-me"/>
+    <id>7c20dad326513e01991bcc63b7618e57</id>
+    <published>2026-09-13T00:30:44+00:00</published>
+    <updated>2026-09-13T00:30:44+00:00</updated>
+    <summary type="text">Score: 0.506\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT</title>
+    <link href="https://x.com/OpenAIDevs/status/2098913661993603215"/>
+    <id>368ffd36521b8c310d65b1637fba0d4d</id>
+    <published>2026-09-12T23:16:27+00:00</published>
+    <updated>2026-09-12T23:16:27+00:00</updated>
+    <summary type="text">Score: 0.764\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
-    <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
+  </entry>
+  <entry>
+    <title>Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试</title>
+    <link href="https://withspecific.com/benchmarks/real-swe"/>
+    <id>26a0543dd48d48eb2796b5364d5bc8c5</id>
+    <published>2026-09-12T20:25:48+00:00</published>
+    <updated>2026-09-12T20:25:48+00:00</updated>
+    <summary type="text">Score: 0.504\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>OpenAI 的 Sam Altman 称 2026 年上市“不明智 / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
+    <link href="https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026"/>
+    <id>9d845f9dd8cbe888de30c5db74d024ea</id>
+    <published>2026-09-12T20:19:16+00:00</published>
+    <updated>2026-09-12T20:19:16+00:00</updated>
+    <summary type="text">Score: 0.610\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…</title>
+    <link href="https://x.com/trq212/status/2098860941391872132"/>
+    <id>7c8ec71c6559698185687737669c037e</id>
+    <published>2026-09-12T19:46:58+00:00</published>
+    <updated>2026-09-12T19:46:58+00:00</updated>
+    <summary type="text">Score: 0.737\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
 </feed>
