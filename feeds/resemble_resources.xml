@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-09-10T00:00:00+00:00</updated>
+  <updated>2026-09-14T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>AI Watermarking: Tools and Techniques Guide</title>
+    <link href="https://www.resemble.ai/resources/ai-watermarking-tools-techniques-guide"/>
+    <id>21586359e2f7a1dfca6912773752d823</id>
+    <published>2026-09-14T00:00:00+00:00</published>
+    <updated>2026-09-14T00:00:00+00:00</updated>
+    <summary type="text">Learn how an AI watermarking tool works, key techniques, limitations, verification methods, and evaluation criteria for synthetic media workflows.</summary>
+    <category term="Guide"/>
+  </entry>
   <entry>
     <title>The Deepfake Watchlist: Week of September 4–10, 2026</title>
     <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-september-4-10-2026"/>
@@ -106,15 +115,6 @@
     <updated>2026-08-20T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>Guide to Leading Tools for Corporate Deepfake Audio Detection</title>
-    <link href="https://www.resemble.ai/resources/tools-for-corporate-deepfake-audio-detection"/>
-    <id>cf07500e153bb8c53d7bc78593a0c1d6</id>
-    <published>2026-08-19T00:00:00+00:00</published>
-    <updated>2026-08-19T00:00:00+00:00</updated>
-    <summary type="text">Explore leading tools for corporate deepfake audio detection. Compare features, use cases, and trade-offs to fit security or fraud workflows efficiently</summary>
-    <category term="Guide"/>
   </entry>
   <entry>
     <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>

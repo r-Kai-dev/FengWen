@@ -4,10 +4,19 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-09-03</updated>
+  <updated>2026-09-10</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>RUBRIC DROPOUT: A SIMPLE WAY TO MITIGATE REWARD HACKING IN RUBRIC-AS-REWARD RL</title>
+    <link href="https://labs.scale.com/blog/rubric-dropout"/>
+    <id>e14961bc18f218d84df36344800fec29</id>
+    <published>2026-09-10</published>
+    <updated>2026-09-10</updated>
+    <summary type="text">Rubric-based RL can quietly learn to game its reward: the training judge keeps assigning higher scores even as true quality declines. A one-line fix, inspired by neural-network dropout, mitigates the problem at virtually no additional cost. — By Minglai Yang , Xinyu Guo, Utkarsh Tyagi, Mian Zhang, Razvan Dumitru, Sunjie Hou, Yunzhong He, Daniel Yue Zhang, Ying Liu</summary>
+    <category term="Evaluation and Alignment"/>
+  </entry>
   <entry>
     <title>Introducing READY: What It Takes to Deploy an AI Agent</title>
     <link href="https://labs.scale.com/blog/ready"/>
@@ -208,6 +217,7 @@
     <category term="Evaluation and Alignment"/>
     <category term="Reasoning"/>
     <category term="Safety &amp; Oversight"/>
+    <category term="Preparedness and Policy"/>
   </entry>
   <entry>
     <title>Training Robust Multi-Turn LM Agents with On-Policy Expert Corrections</title>

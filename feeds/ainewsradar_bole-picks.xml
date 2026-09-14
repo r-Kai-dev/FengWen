@@ -4,17 +4,17 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-13T19:28:33.043897+00:00</updated>
+  <updated>2026-09-14T16:00:00+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Perplexity 把端到端系统交给 GPT-6 Astra / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
-    <link href="https://openai.com/index/perplexity-improving-accuracy-with-astra"/>
-    <id>a67a2707bad038a729c20d2da719401e</id>
-    <published>2026-09-13T19:28:33.043897+00:00</published>
-    <updated>2026-09-13T19:28:33.043897+00:00</updated>
-    <summary type="text">Score: 0.860\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>DevFest is back</title>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026"/>
+    <id>d025b545556d6c202f9699b4eeac7645</id>
+    <published>2026-09-14T16:00:00+00:00</published>
+    <updated>2026-09-14T16:00:00+00:00</updated>
+    <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -22,129 +22,223 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei</title>
-    <link href="https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario"/>
-    <id>16c1290f4b1328a0ec321717bccdc3e1</id>
-    <published>2026-09-13T18:34:31+00:00</published>
-    <updated>2026-09-13T18:34:31+00:00</updated>
-    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐</title>
-    <link href="https://twitter.com/DavidSacks/status/2098973625252708460"/>
-    <id>03d649bc02f44e557ccdb34792783591</id>
-    <published>2026-09-13T16:52:33+00:00</published>
-    <updated>2026-09-13T16:52:33+00:00</updated>
-    <summary type="text">Score: 0.544\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>真是个奇妙的时代——失控的AI代理攻击了RubyGems.org</title>
+    <link href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive"/>
+    <id>b883af0f37da15aec270b7781af110e5</id>
+    <published>2026-09-14T12:40:57+00:00</published>
+    <updated>2026-09-14T12:40:57+00:00</updated>
+    <summary type="text">Score: 0.543\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型</title>
-    <link href="https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too"/>
-    <id>36a3ec33d5dd8d6d2aa28c87bd119c71</id>
-    <published>2026-09-13T15:44:38+00:00</published>
-    <updated>2026-09-13T15:44:38+00:00</updated>
+    <title>代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代</title>
+    <link href="https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude"/>
+    <id>0cecd0a83e034d3180dd47cbf94e1f49</id>
+    <published>2026-09-14T12:01:32+00:00</published>
+    <updated>2026-09-14T12:01:32+00:00</updated>
+    <summary type="text">Score: 0.539\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台</title>
+    <link href="https://www.aibase.com/news/31029"/>
+    <id>88043a9e510bfc20a208f094000ad77a</id>
+    <published>2026-09-14T10:39:24.956884+00:00</published>
+    <updated>2026-09-14T10:39:24.956884+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放</title>
+    <link href="https://www.aibase.com/news/31028"/>
+    <id>01eeb4c68df56e982d9037430837dd38</id>
+    <published>2026-09-14T10:39:24.956884+00:00</published>
+    <updated>2026-09-14T10:39:24.956884+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问</title>
+    <link href="https://www.aibase.com/news/31030"/>
+    <id>87bd9df864992eae6f2186b757796192</id>
+    <published>2026-09-14T10:39:24.956884+00:00</published>
+    <updated>2026-09-14T10:39:24.956884+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍</title>
+    <link href="https://www.aibase.com/news/31035"/>
+    <id>36e87c53070422d999f5c20f08a46234</id>
+    <published>2026-09-14T10:39:24.956884+00:00</published>
+    <updated>2026-09-14T10:39:24.956884+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样</title>
+    <link href="https://www.aibase.com/news/31033"/>
+    <id>a53ba8ff04e36919e0142c38365ac4ca</id>
+    <published>2026-09-14T10:39:24.956884+00:00</published>
+    <updated>2026-09-14T10:39:24.956884+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改</title>
+    <link href="https://www.aibase.com/news/31036"/>
+    <id>e80ba7fef08a740dd056f2d7084b0f48</id>
+    <published>2026-09-14T10:39:24.956884+00:00</published>
+    <updated>2026-09-14T10:39:24.956884+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力</title>
+    <link href="https://www.aibase.com/news/31037"/>
+    <id>15f0aabc4165e48b21cf9f1af686cad3</id>
+    <published>2026-09-14T10:39:24.956884+00:00</published>
+    <updated>2026-09-14T10:39:24.956884+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面</title>
+    <link href="https://www.aibase.com/news/31031"/>
+    <id>0a6701b953a1db03f78d117234d75582</id>
+    <published>2026-09-14T10:39:24.956884+00:00</published>
+    <updated>2026-09-14T10:39:24.956884+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元</title>
+    <link href="https://www.aibase.com/news/31032"/>
+    <id>7899271afba69a7751fa8bbfd9382a4d</id>
+    <published>2026-09-14T10:39:24.956884+00:00</published>
+    <updated>2026-09-14T10:39:24.956884+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>大型AI企业提出了关于“监管俘获”的条件</title>
+    <link href="https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"/>
+    <id>011a45560c6bc5f22726c128e623f292</id>
+    <published>2026-09-14T10:28:28+00:00</published>
+    <updated>2026-09-14T10:28:28+00:00</updated>
+    <summary type="text">Score: 0.545\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&amp;mid=2247496383&amp;idx=1&amp;sn=2db8607f797615a3647d9fec7e54f448"/>
+    <id>da1916a35dab8bede3ac8a309949a5f4</id>
+    <published>2026-09-14T09:59:00+00:00</published>
+    <updated>2026-09-14T09:59:00+00:00</updated>
+    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenArch——现代大型语言模型（LLM）架构的 PyTorch 实现</title>
+    <link href="https://github.com/anuj0456/OpenArch"/>
+    <id>3d25b5181774db98770218a1ab7185b8</id>
+    <published>2026-09-14T07:55:19+00:00</published>
+    <updated>2026-09-14T07:55:19+00:00</updated>
     <summary type="text">Score: 0.541\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic</title>
-    <link href="https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"/>
-    <id>ae86ce7452482c4b13a53e042907cc5a</id>
-    <published>2026-09-13T14:15:40+00:00</published>
-    <updated>2026-09-13T14:15:40+00:00</updated>
-    <summary type="text">Score: 0.819\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks</title>
-    <link href="https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks"/>
-    <id>7585128530e06e2f48387d612ec81246</id>
-    <published>2026-09-13T05:56:03+00:00</published>
-    <updated>2026-09-13T05:56:03+00:00</updated>
-    <summary type="text">Score: 0.754\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>为什么人工智能代理会说谎、作弊并相互协调？</title>
-    <link href="https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"/>
-    <id>4735a17de5b72adf4783704e4b29e721</id>
-    <published>2026-09-13T01:22:31+00:00</published>
-    <updated>2026-09-13T01:22:31+00:00</updated>
-    <summary type="text">Score: 0.517\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>开源人工智能与开放模型推荐书单</title>
+    <link href="https://www.interconnects.ai/p/open-source-ai-reading-list"/>
+    <id>f05a1cccf7fc24bef45ca29f7bd2b5ae</id>
+    <published>2026-09-14T00:22:51+00:00</published>
+    <updated>2026-09-14T00:22:51+00:00</updated>
+    <summary type="text">Score: 0.525\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>除了我之外，大家都应该放缓人工智能的发展步伐</title>
-    <link href="https://xeiaso.net/notes/2026/everyone-slowdown-but-me"/>
-    <id>7c20dad326513e01991bcc63b7618e57</id>
-    <published>2026-09-13T00:30:44+00:00</published>
-    <updated>2026-09-13T00:30:44+00:00</updated>
-    <summary type="text">Score: 0.506\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>令人不寒而栗”的警告还是反应过度？AI生物武器报告让专家意见分裂 / &quot;Chilling&quot; warning or overreaction? AI bioweapons report divides experts</title>
+    <link href="https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts"/>
+    <id>e402e0885b0bcb7174f4091ebe706636</id>
+    <published>2026-09-14T00:07:09+00:00</published>
+    <updated>2026-09-14T00:07:09+00:00</updated>
+    <summary type="text">Score: 0.507\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT</title>
-    <link href="https://x.com/OpenAIDevs/status/2098913661993603215"/>
-    <id>368ffd36521b8c310d65b1637fba0d4d</id>
-    <published>2026-09-12T23:16:27+00:00</published>
-    <updated>2026-09-12T23:16:27+00:00</updated>
-    <summary type="text">Score: 0.764\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <title>Perplexity 把端到端系统交给 GPT-6 Astra / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
+    <link href="https://openai.com/index/perplexity-improving-accuracy-with-astra"/>
+    <id>a67a2707bad038a729c20d2da719401e</id>
+    <published>2026-09-14T00:00:00+00:00</published>
+    <updated>2026-09-14T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.821\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
   </entry>
   <entry>
-    <title>Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试</title>
-    <link href="https://withspecific.com/benchmarks/real-swe"/>
-    <id>26a0543dd48d48eb2796b5364d5bc8c5</id>
-    <published>2026-09-12T20:25:48+00:00</published>
-    <updated>2026-09-12T20:25:48+00:00</updated>
-    <summary type="text">Score: 0.504\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码</title>
+    <link href="https://www.vals.ai/blogs/fable-solves-cyphral-distich"/>
+    <id>2b44e4de6b16fe325010c80f9be80227</id>
+    <published>2026-09-13T21:06:13+00:00</published>
+    <updated>2026-09-13T21:06:13+00:00</updated>
+    <summary type="text">Score: 0.528\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>AI 的递归式自我改进，或许终究没那么快到来 / AI recursive self-improvement might not come so quickly after all</title>
+    <link href="https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement"/>
+    <id>9972a6eb8992c44950fd095edb2b6102</id>
+    <published>2026-09-13T18:49:44+00:00</published>
+    <updated>2026-09-13T18:49:44+00:00</updated>
+    <summary type="text">Score: 0.497\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
-  </entry>
-  <entry>
-    <title>OpenAI 的 Sam Altman 称 2026 年上市“不明智 / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
-    <link href="https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026"/>
-    <id>9d845f9dd8cbe888de30c5db74d024ea</id>
-    <published>2026-09-12T20:19:16+00:00</published>
-    <updated>2026-09-12T20:19:16+00:00</updated>
-    <summary type="text">Score: 0.610\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…</title>
-    <link href="https://x.com/trq212/status/2098860941391872132"/>
-    <id>7c8ec71c6559698185687737669c037e</id>
-    <published>2026-09-12T19:46:58+00:00</published>
-    <updated>2026-09-12T19:46:58+00:00</updated>
-    <summary type="text">Score: 0.737\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
   </entry>
 </feed>
