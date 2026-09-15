@@ -4,10 +4,46 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-09-07T00:00:00+00:00</updated>
+  <updated>2026-09-14T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>Should I Rent, Buy Or Burst My GPU: GPU Costs For Video Generation</title>
+    <link href="https://ltx.io/blog/gpu-costs-for-video-generation"/>
+    <id>8ab1a091a2d51a5eba4c2384249bd9f6</id>
+    <published>2026-09-14T00:00:00+00:00</published>
+    <updated>2026-09-14T00:00:00+00:00</updated>
+    <summary type="text">Rent, buy or burst GPUs for AI video? Compare H100, H200 and RTX 5090 costs against per-second APIs, and find the utilization point where each one wins.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Deploying LTX-2.5 On-Premise: Requirements and Setup</title>
+    <link href="https://ltx.io/blog/deploying-ltx-on-premise"/>
+    <id>7a9f3c673f764cc3c4fc951b9ddc7c66</id>
+    <published>2026-09-09T00:00:00+00:00</published>
+    <updated>2026-09-09T00:00:00+00:00</updated>
+    <summary type="text">What it takes to run LTX-2.5 on your own hardware: the VRAM floor, CUDA and attention backends, the gated weight download, and what the license costs.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Guidance, Steps &amp; Samplers: Settings That Change Your Video Output</title>
+    <link href="https://ltx.io/blog/guidance-steps-samplers"/>
+    <id>638d14de10634c73cddb23b7757d8f95</id>
+    <published>2026-09-08T00:00:00+00:00</published>
+    <updated>2026-09-08T00:00:00+00:00</updated>
+    <summary type="text">Classifier-free guidance, denoising steps and samplers in LTX-2.5, what each control changes in a generated video, and which values to reach for first.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>GGUF vs Safetensors: Model File Formats for Video Generation</title>
+    <link href="https://ltx.io/blog/gguf-vs-safetensors"/>
+    <id>8331ba650079415cd598c5be1a6932bd</id>
+    <published>2026-09-07T00:00:00+00:00</published>
+    <updated>2026-09-07T00:00:00+00:00</updated>
+    <summary type="text">GGUF or safetensors for video models? Compare what each format stores, how quantization works, the VRAM impact, and which LTX-2.5 file you should download.</summary>
+    <category term="Production"/>
+  </entry>
   <entry>
     <title>Private Deployment of AI Video Models: On-Premise Benefits &amp; Meaning</title>
     <link href="https://ltx.io/blog/private-deployment-ai-video-models"/>
@@ -45,6 +81,24 @@
     <category term="Production"/>
   </entry>
   <entry>
+    <title>Video-to-Video With Open Models: Restyle, Transform &amp; Structure Control</title>
+    <link href="https://ltx.io/blog/video-to-video-with-open-models"/>
+    <id>b85fb9a099d99e4f3c8ab74dd3f73ac4</id>
+    <published>2026-09-06T00:00:00+00:00</published>
+    <updated>2026-09-06T00:00:00+00:00</updated>
+    <summary type="text">Video-to-video AI with open models. How the LTX-2.5 pipelines restyle footage, hold structure and render HDR output, and which one to run for a given job.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Where To Run LTX-2.5: Self-Host, API, Or Hosted Platform</title>
+    <link href="https://ltx.io/blog/where-to-run-ltx-2-5"/>
+    <id>f413677f9c1b6e363a6495fd3d075fab</id>
+    <published>2026-09-05T00:00:00+00:00</published>
+    <updated>2026-09-05T00:00:00+00:00</updated>
+    <summary type="text">Four ways to run LTX-2.5 compared: the LTX API from $0.09 a second, self-hosting the open weights, Hugging Face, and platforms like fal and Replicate.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
     <title>How To Create Good Camera Motion With An AI Video Model</title>
     <link href="https://ltx.io/blog/camera-motion-with-ai-video"/>
     <id>60b464469d1a00abcfbdd356fbf4d631</id>
@@ -54,12 +108,30 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
+    <title>How To Evaluate A Video Generation Model</title>
+    <link href="https://ltx.io/blog/how-to-evaluate-a-video-generation-model"/>
+    <id>4a11a9f5b6e8a520efebbb6ad816c8ab</id>
+    <published>2026-09-04T00:00:00+00:00</published>
+    <updated>2026-09-04T00:00:00+00:00</updated>
+    <summary type="text">AI model benchmarks rarely answer your question. A repeatable method for evaluating a video generation model on the footage and hardware you actually have.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
     <title>Multimodal Conditioning In Video Generation Explained</title>
     <link href="https://ltx.io/blog/multimodal-conditioning"/>
     <id>91990f2d87f8d6b661daa865586b3342</id>
     <published>2026-09-04T00:00:00+00:00</published>
     <updated>2026-09-04T00:00:00+00:00</updated>
     <summary type="text">Combine text, image, keyframe, and reference video signals to steer AI video. LTX-2.5 conditioning taxonomy, decision matrix, failure modes.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Free AI Video Generation: What Open Weights Actually Means</title>
+    <link href="https://ltx.io/blog/free-ai-video-generation"/>
+    <id>802865c830bd8469fd5d187c4c5039c0</id>
+    <published>2026-09-03T00:00:00+00:00</published>
+    <updated>2026-09-03T00:00:00+00:00</updated>
+    <summary type="text">Free AI video generation means two different things. One is a credit-limited trial. The other is open weights you download and run. Here is the difference.</summary>
     <category term="Production"/>
   </entry>
   <entry>
@@ -78,6 +150,15 @@
     <published>2026-09-02T00:00:00+00:00</published>
     <updated>2026-09-02T00:00:00+00:00</updated>
     <summary type="text">A practical guide to fine-tuning LTX-2.5. Learn LoRA versus full fine-tuning, hardware needs, dataset prep, config, and running your own trained model.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Water Simulation: How To Add Water To A Video With AI</title>
+    <link href="https://ltx.io/blog/add-water-to-video"/>
+    <id>0ee541ce182d7b5ece4aae8b21a8ee9b</id>
+    <published>2026-09-02T00:00:00+00:00</published>
+    <updated>2026-09-02T00:00:00+00:00</updated>
+    <summary type="text">Adding water to a shot no longer needs a fluid solver. Here is how to pick a pipeline, write the prompt, fix a bad take, and get the element into comp.</summary>
     <category term="Production"/>
   </entry>
   <entry>
@@ -357,87 +438,6 @@
     <published>2026-07-22T00:00:00+00:00</published>
     <updated>2026-07-22T00:00:00+00:00</updated>
     <summary type="text">Compare the top open source video generation models in 2026. LTX-2.5, WAN 2.2, HunyuanVideo, and CogVideoX. Covers VRAM requirements, licensing, and how to choose for your workflow.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>AI Video Prompt Guide: How To Write AI Video Prompts (2026)</title>
-    <link href="https://ltx.io/blog/ai-video-prompt-guide"/>
-    <id>35c2ff6463fb63dd0286b2bde9e3df0c</id>
-    <published>2026-07-20T00:00:00+00:00</published>
-    <updated>2026-07-20T00:00:00+00:00</updated>
-    <summary type="text">A complete AI video prompt guide. Discover how prompting works, see real examples, and improve quality, style, and control in AI videos.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>ComfyUI Tutorial: How to Install and Run an Open-Source AI Video Model Locally</title>
-    <link href="https://ltx.io/blog/how-to-install-and-run-an-ai-video-model"/>
-    <id>298d23ad0a2367f562485b26d7f87775</id>
-    <published>2026-07-20T00:00:00+00:00</published>
-    <updated>2026-07-20T00:00:00+00:00</updated>
-    <summary type="text">A step-by-step guide to installing an open-source AI video model in ComfyUI locally, covering setup, model downloads, prompting, and your first render.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>Corporate Video Production: What It Costs &amp; How To Do It</title>
-    <link href="https://ltx.io/blog/corporate-video-production"/>
-    <id>58fe20143bfb4068fd5c24e919d38718</id>
-    <published>2026-07-20T00:00:00+00:00</published>
-    <updated>2026-07-20T00:00:00+00:00</updated>
-    <summary type="text">Explore 2026 corporate video production costs and see top examples. Learn how to plan, budget, and create effective videos for any business.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Creative Trends Mid-Year Report: Top 7 Trends Happening In 2026</title>
-    <link href="https://ltx.io/blog/creative-trends-report"/>
-    <id>7bf89232eccd4c0f260c6706c47d04a6</id>
-    <published>2026-07-20T00:00:00+00:00</published>
-    <updated>2026-07-20T00:00:00+00:00</updated>
-    <summary type="text">From AI pre-viz to audio-driven video, discover the 7 trends reshaping creative production in 2026. See how studios and agencies are already moving faster.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>How to Add Native HDR Output to Video for VFX Workflows</title>
-    <link href="https://ltx.io/blog/how-to-add-native-hdr-output"/>
-    <id>bed6731607f2f982e4456b711853e41e</id>
-    <published>2026-07-20T00:00:00+00:00</published>
-    <updated>2026-07-20T00:00:00+00:00</updated>
-    <summary type="text">A new IC-LoRA brings native 16-bit HDR EXR output to AI-generated video, finally closing a real gap between AI clips and true VFX production pipelines.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>LTX Trainer Tutorial: How to Colorize Black and White Footage</title>
-    <link href="https://ltx.io/blog/ltx-trainer-tutorial"/>
-    <id>917775e4790f8747875d45ab87fc1fda</id>
-    <published>2026-07-20T00:00:00+00:00</published>
-    <updated>2026-07-20T00:00:00+00:00</updated>
-    <summary type="text">See how an IC-LoRA was trained to colorize black-and-white footage using a new open-source trainer, with an AI coding agent handling the setup work.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>Best Image To Video AI Tools To Use In 2026</title>
-    <link href="https://ltx.io/blog/best-image-to-video-ai-tools"/>
-    <id>37d9b46b640483dce67f8cc90d4bd657</id>
-    <published>2026-07-19T00:00:00+00:00</published>
-    <updated>2026-07-19T00:00:00+00:00</updated>
-    <summary type="text">Compare the best image to video AI tools in 2026. Covers features, pricing, motion control, and how to turn images into video with AI.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Which AI Video Model Should You Use in 2026? A Model-by-Model Guide</title>
-    <link href="https://ltx.io/blog/how-to-choose-the-right-model"/>
-    <id>b9d0ff77022959e023a91a54164aeb79</id>
-    <published>2026-07-19T00:00:00+00:00</published>
-    <updated>2026-07-19T00:00:00+00:00</updated>
-    <summary type="text">Not sure which AI generation model to use? Learn how to choose the right image and video model for your creative workflow in 2026.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>Best Sora Alternatives Now That It's Shut Down (2026)</title>
-    <link href="https://ltx.io/blog/best-sora-alternatives"/>
-    <id>da12f6d6671badfc350705bb2672dc4a</id>
-    <published>2026-07-15T00:00:00+00:00</published>
-    <updated>2026-07-15T00:00:00+00:00</updated>
-    <summary type="text">The best Sora alternatives in 2026, compared on output quality, local inference, open-source access, pricing, and creative control for professional creators.</summary>
     <category term="Production"/>
   </entry>
 </feed>
