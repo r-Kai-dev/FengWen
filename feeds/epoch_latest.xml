@@ -4,10 +4,28 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-09-14T00:00:00+00:00</updated>
+  <updated>2026-09-16T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>GPT-6 Astra leads on math benchmarks, but not on software engineering</title>
+    <link href="https://epoch.ai/data-insights/astra-eci-breakdown"/>
+    <id>10fdf95cf87863ae96d84c5262dbf8ce</id>
+    <published>2026-09-16T00:00:00+00:00</published>
+    <updated>2026-09-16T00:00:00+00:00</updated>
+    <summary type="text">OpenAI's GPT-6 Astra tops the Epoch Capabilities Index (ECI) with a score of 166, ahead of Claude Fable 5.1 at 164 and GPT-5.6 Sol at 162. Its Math-ECI of 170 sets a new record, but on software engineering benchmarks its SWE-ECI of 164 still lags behind Fable 5.1's 167.</summary>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>Scaling Our Global AI Data Center Research</title>
+    <link href="https://epoch.ai/latest/scaling-ai-data-centers-research"/>
+    <id>14f6fde16f537fcc8af72a0717e82cf1</id>
+    <published>2026-09-16T00:00:00+00:00</published>
+    <updated>2026-09-16T00:00:00+00:00</updated>
+    <summary type="text">Epoch AI's AI Data Centers explorer now covers an estimated 44% of global AI compute across 86 sites, with a redesigned interface and expanding global coverage.</summary>
+    <category term="Update"/>
+  </entry>
   <entry>
     <title>Near-daily AI use among US adults has more than doubled in six months</title>
     <link href="https://epoch.ai/data-insights/near-daily-ai-use-doubled"/>
@@ -78,23 +96,5 @@
     <updated>2026-08-27T00:00:00+00:00</updated>
     <summary type="text">How quickly are Anthropic and OpenAI growing their revenue?</summary>
     <category term="Newsletter"/>
-  </entry>
-  <entry>
-    <title>The Nvidia-sized hole in US GDP statistics</title>
-    <link href="https://epoch.ai/publications/the-nvidia-sized-hole-in-us-gdp-statistics"/>
-    <id>b32e6452a80f3ada206847583bb0e0b6</id>
-    <published>2026-08-24T00:00:00+00:00</published>
-    <updated>2026-08-24T00:00:00+00:00</updated>
-    <summary type="text">US GDP growth has been underestimated by about 0.3 percentage points because statistics miss most of Nvidia's US-generated income, a gap that could widen to 2 points by 2028. Epoch AI traces the accounting gap through Nvidia's fabless chip supply chain.</summary>
-    <category term="Report"/>
-  </entry>
-  <entry>
-    <title>Most AI use at work happens on free plans, except in science and tech</title>
-    <link href="https://epoch.ai/data-insights/employer-provided-ai-by-occupation"/>
-    <id>1a86b154c8c1b5bc138c44f28291b5fe</id>
-    <published>2026-08-14T00:00:00+00:00</published>
-    <updated>2026-08-14T00:00:00+00:00</updated>
-    <summary type="text">Epoch AI/Ipsos survey: 67% of AI-using workers in computer, engineering, and science jobs use employer-provided AI.</summary>
-    <category term="Data Insight"/>
   </entry>
 </feed>
