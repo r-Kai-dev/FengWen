@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-09-16T00:00:00+00:00</updated>
+  <updated>2026-09-17T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Trade data consistent with $3B of chips smuggled to China via Malaysia</title>
+    <link href="https://epoch.ai/data-insights/malaysia-china-chip-smuggling"/>
+    <id>510f03922e608b2f8ffb714515642fdb</id>
+    <published>2026-09-17T00:00:00+00:00</published>
+    <updated>2026-09-17T00:00:00+00:00</updated>
+    <summary type="text">Epoch AI's analysis of trade data finds a pattern consistent with $3B worth of chips smuggled to China via Malaysia. China recorded $3.8B of server imports from Malaysia in 2024–25; Malaysia recorded only $0.6B of exports.</summary>
+    <category term="Data Insight"/>
+  </entry>
   <entry>
     <title>GPT-6 Astra leads on math benchmarks, but not on software engineering</title>
     <link href="https://epoch.ai/data-insights/astra-eci-breakdown"/>
@@ -87,14 +96,5 @@
     <published>2026-09-01T00:00:00+00:00</published>
     <updated>2026-09-01T00:00:00+00:00</updated>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>An update on AI’s most important number</title>
-    <link href="https://epoch.ai/gradient-updates/an-update-on-ais-most-important-number"/>
-    <id>4a4a7b23ebe22e1e03c59b9fcf091b21</id>
-    <published>2026-08-27T00:00:00+00:00</published>
-    <updated>2026-08-27T00:00:00+00:00</updated>
-    <summary type="text">How quickly are Anthropic and OpenAI growing their revenue?</summary>
-    <category term="Newsletter"/>
   </entry>
 </feed>

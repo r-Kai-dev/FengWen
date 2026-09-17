@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-09-10T00:00:00+00:00</updated>
+  <updated>2026-09-17T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>How Claude is uplifting biomolecular modeling</title>
+    <link href="https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"/>
+    <id>e4c5ed744fd5f0f56941d2432a1d5c7c</id>
+    <published>2026-09-17T00:00:00+00:00</published>
+    <updated>2026-09-17T00:00:00+00:00</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Measuring tactical intelligence targeting and conventional weapons capabilities of AI models</title>
     <link href="https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"/>
@@ -79,13 +87,5 @@
     <published>2026-08-10T00:00:00+00:00</published>
     <updated>2026-08-10T00:00:00+00:00</updated>
     <category term="Science"/>
-  </entry>
-  <entry>
-    <title>Discovering cryptographic weaknesses with Claude</title>
-    <link href="https://www.anthropic.com/research/discovering-cryptographic-weaknesses"/>
-    <id>b587ed7eaf40a601302b1537e0174e18</id>
-    <published>2026-07-28T00:00:00+00:00</published>
-    <updated>2026-07-28T00:00:00+00:00</updated>
-    <category term="Frontier Red Team"/>
   </entry>
 </feed>

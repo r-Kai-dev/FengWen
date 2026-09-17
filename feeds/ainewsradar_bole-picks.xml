@@ -4,41 +4,17 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-16T16:28:29+00:00</updated>
+  <updated>2026-09-17T20:00:00+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…</title>
-    <link href="https://x.com/bcherny/status/2100260544087535639"/>
-    <id>46a94a0dc5c2413d82479b82cef8fc5c</id>
-    <published>2026-09-16T16:28:29+00:00</published>
-    <updated>2026-09-16T16:28:29+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude</title>
-    <link href="https://claude.com/blog/cowork-is-now-claude"/>
-    <id>7a6974cdd6805213f3f66728b07015f2</id>
-    <published>2026-09-16T16:26:25+00:00</published>
-    <updated>2026-09-16T16:26:25+00:00</updated>
-    <summary type="text">Score: 0.849\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>帮助老年人日常生活中使用 AI / Helping older adults use AI in everyday life</title>
-    <link href="https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"/>
-    <id>2a77bc6fecf28a310ab2607e0f8e5d78</id>
-    <published>2026-09-16T16:00:00+00:00</published>
-    <updated>2026-09-16T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>让全球数据更易于探索 / Making global data easier to explore</title>
+    <link href="https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform"/>
+    <id>7ec1d442b2a70d711765575a753f5deb</id>
+    <published>2026-09-17T20:00:00+00:00</published>
+    <updated>2026-09-17T20:00:00+00:00</updated>
+    <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -46,46 +22,212 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Anthropic让模型自认道德主体会加剧对齐难题</title>
-    <link href="https://mustafa-suleyman.ai/a-warning-about-model-welfare"/>
-    <id>333f1c7b13fa81fe9bb7317c9a19b0e0</id>
-    <published>2026-09-16T14:27:47+00:00</published>
-    <updated>2026-09-16T14:27:47+00:00</updated>
-    <summary type="text">Score: 0.543\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling</title>
+    <link href="https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"/>
+    <id>f9419783fa1098538eebf3092eb2a7b1</id>
+    <published>2026-09-17T19:49:41.095000+00:00</published>
+    <updated>2026-09-17T19:49:41.095000+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal</title>
+    <link href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal"/>
+    <id>5ae95a0cd1fba83910d7c85e132c5fab</id>
+    <published>2026-09-17T19:46:08+00:00</published>
+    <updated>2026-09-17T19:46:08+00:00</updated>
+    <summary type="text">Score: 0.815\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic"/>
+    <id>059d12529fada49e6f2a0edaefdf485a</id>
+    <published>2026-09-17T19:28:24+00:00</published>
+    <updated>2026-09-17T19:28:24+00:00</updated>
+    <summary type="text">Score: 0.783\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation</title>
+    <link href="https://claude.com/blog/projects-redesigned"/>
+    <id>3a2a9533bcec42b7d70d94811e9c0da8</id>
+    <published>2026-09-17T17:52:08.951000+00:00</published>
+    <updated>2026-09-17T17:52:08.951000+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.</title>
+    <link href="https://qwen.ai/blog?id=qwen3.8-omni-flash"/>
+    <id>451960896c931c262a5bafee8fac2e71</id>
+    <published>2026-09-17T17:18:08.568000+00:00</published>
+    <updated>2026-09-17T17:18:08.568000+00:00</updated>
+    <summary type="text">Score: 0.775\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale</title>
+    <link href="https://www.goodfire.com/research/reward-hacking-activation-monitors"/>
+    <id>3f5c99eade86ca44a2d6eef2564020b1</id>
+    <published>2026-09-17T16:38:32.383000+00:00</published>
+    <updated>2026-09-17T16:38:32.383000+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Ubuntu 26 正式发布及最新迁移指南 / Ubuntu 26 generally available and latest migration</title>
+    <link href="https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration"/>
+    <id>9e6cd8333497a86c5b7df1f2e5763ea2</id>
+    <published>2026-09-17T16:27:16+00:00</published>
+    <updated>2026-09-17T16:27:16+00:00</updated>
+    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GitHub Actions 工作流执行保护功能正式发布 / Workflow execution protections in GitHub Actions generally available</title>
+    <link href="https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available"/>
+    <id>58a7578a314029a22a663fbc2d94b5c6</id>
+    <published>2026-09-17T15:45:26+00:00</published>
+    <updated>2026-09-17T15:45:26+00:00</updated>
+    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， &amp; recursive self-improvement</title>
+    <link href="https://www.dwarkesh.com/p/noam-brown"/>
+    <id>814c6b19b617343f6331092df6a6246f</id>
+    <published>2026-09-17T15:38:13+00:00</published>
+    <updated>2026-09-17T15:38:13+00:00</updated>
+    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …</title>
+    <link href="https://x.com/UnslothAI/status/2100601458458804381"/>
+    <id>aab4716f9af6a0d75495d897b02c8ea7</id>
+    <published>2026-09-17T15:03:09+00:00</published>
+    <updated>2026-09-17T15:03:09+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上为更多数据中心找到空间 / Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers</title>
+    <link href="https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers"/>
+    <id>3ebdd12e3eb7d7270c4a03f33accf810</id>
+    <published>2026-09-17T13:38:33+00:00</published>
+    <updated>2026-09-17T13:38:33+00:00</updated>
+    <summary type="text">Score: 0.645\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>微软 AI CEO 警告&quot;模型福利&quot;论调 / https://x.com/i/article/2100222503125917696</title>
-    <link href="https://x.com/mustafasuleyman/status/2100223594534150428"/>
-    <id>96b6e9d18b2e34620ad93b25ed84910d</id>
-    <published>2026-09-16T14:01:39+00:00</published>
-    <updated>2026-09-16T14:01:39+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级</title>
+    <link href="https://www.aibase.com/news/31132"/>
+    <id>2af7a2efc0c87ffc07ec2932e241f3ab</id>
+    <published>2026-09-17T09:59:48.000631+00:00</published>
+    <updated>2026-09-17T09:59:48.000631+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>何夕2077 AI 深度信号周报 2026 W37</title>
-    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37"/>
-    <id>e890ba54e98bc45aac5fdca964cedddd</id>
-    <published>2026-09-16T13:29:54+00:00</published>
-    <updated>2026-09-16T13:29:54+00:00</updated>
-    <summary type="text">Score: 0.751\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
+    <title>​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能</title>
+    <link href="https://www.aibase.com/news/31134"/>
+    <id>d98e218646658098c18d4494ccd8ecc6</id>
+    <published>2026-09-17T09:59:48.000631+00:00</published>
+    <updated>2026-09-17T09:59:48.000631+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资</title>
+    <link href="https://www.aibase.com/news/31133"/>
+    <id>1fdb6f5eb2b20cc69586e28c6ccdacb7</id>
+    <published>2026-09-17T09:59:48.000631+00:00</published>
+    <updated>2026-09-17T09:59:48.000631+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>千问APP升级未成年人保护模式，让青少年安全地用好AI</title>
+    <link href="https://www.aibase.com/news/31139"/>
+    <id>1dbc663b530d1b6be9cc0a4b90bfcb46</id>
+    <published>2026-09-17T09:59:48.000631+00:00</published>
+    <updated>2026-09-17T09:59:48.000631+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot</title>
+    <link href="https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot"/>
+    <id>999d72b85e3a89b2c94fd9d300679e9c</id>
+    <published>2026-09-17T00:26:43+00:00</published>
+    <updated>2026-09-17T00:26:43+00:00</updated>
+    <summary type="text">Score: 0.832\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致 / Trade data consistent with $3B of chips smuggled to China via Malaysia</title>
+    <link href="https://epoch.ai/data-insights/malaysia-china-chip-smuggling"/>
+    <id>1ebac5e774dba6b79a8b799f9e4e403d</id>
+    <published>2026-09-17T00:00:00+00:00</published>
+    <updated>2026-09-17T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.728\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Code scanning 的 AI Scan 不再依赖 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup</title>
-    <link href="https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup"/>
-    <id>f34c8a0a8b797a5c873856afcc5d1f95</id>
-    <published>2026-09-16T13:26:06+00:00</published>
-    <updated>2026-09-16T13:26:06+00:00</updated>
-    <summary type="text">Score: 0.827\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>推出面向法律领域的 Astra / Introducing Astra for Law</title>
+    <link href="https://openai.com/index/astra-for-law"/>
+    <id>18fdc69cf71a9b077cfc41013e765b93</id>
+    <published>2026-09-17T00:00:00+00:00</published>
+    <updated>2026-09-17T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.806\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -93,153 +235,15 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI</title>
-    <link href="https://openai.com/index/reimagining-advertising-with-ai"/>
-    <id>da1cfb5319e81da6682c56d38995920f</id>
-    <published>2026-09-16T13:00:00+00:00</published>
-    <updated>2026-09-16T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.884\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="multi_source"/>
+    <title>OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： &quot;You do not answer to corporatio…</title>
+    <link href="https://x.com/AISafetyMemes/status/2100358777895780704"/>
+    <id>0f4472f69e3de5cca2c8f51d30bfc85d</id>
+    <published>2026-09-16T22:58:50+00:00</published>
+    <updated>2026-09-16T22:58:50+00:00</updated>
+    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型</title>
-    <link href="https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model"/>
-    <id>0a6ae15edfb109f736f049ba05c66b30</id>
-    <published>2026-09-16T12:19:55+00:00</published>
-    <updated>2026-09-16T12:19:55+00:00</updated>
-    <summary type="text">Score: 0.562\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>如何将 AI 使用与商业价值挂钩 / How to connect AI usage to business value</title>
-    <link href="https://openai.com/index/how-to-connect-ai-usage-to-business-value"/>
-    <id>7e4f3cc8d17339315cfa9634d6279658</id>
-    <published>2026-09-16T12:00:00+00:00</published>
-    <updated>2026-09-16T12:00:00+00:00</updated>
-    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手</title>
-    <link href="https://www.aibase.com/news/31097"/>
-    <id>fa4b5359a5cde4d7539a9f51e4e00747</id>
-    <published>2026-09-16T09:57:21.447226+00:00</published>
-    <updated>2026-09-16T09:57:21.447226+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
     <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运</title>
-    <link href="https://www.aibase.com/news/31099"/>
-    <id>1fbe3e3f5b56f6d828168c00b5732ca6</id>
-    <published>2026-09-16T09:57:21.447226+00:00</published>
-    <updated>2026-09-16T09:57:21.447226+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通</title>
-    <link href="https://www.aibase.com/news/31092"/>
-    <id>1cfcd94a420569ed49f387f2ed298ed9</id>
-    <published>2026-09-16T09:57:21.447226+00:00</published>
-    <updated>2026-09-16T09:57:21.447226+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练</title>
-    <link href="https://www.aibase.com/news/31098"/>
-    <id>0b281f8cba14d31877bd1d3a549d869b</id>
-    <published>2026-09-16T09:57:21.447226+00:00</published>
-    <updated>2026-09-16T09:57:21.447226+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%</title>
-    <link href="https://www.aibase.com/news/31095"/>
-    <id>bf80895e0491ab82bb9764e5676badf0</id>
-    <published>2026-09-16T09:57:21.447226+00:00</published>
-    <updated>2026-09-16T09:57:21.447226+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型</title>
-    <link href="https://www.aibase.com/news/31091"/>
-    <id>3be1d922ee46fbfcfa8229d75ee3d2a4</id>
-    <published>2026-09-16T09:57:21.447226+00:00</published>
-    <updated>2026-09-16T09:57:21.447226+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试</title>
-    <link href="https://www.aibase.com/news/31089"/>
-    <id>34024f1953fa0334a82216fc3025d007</id>
-    <published>2026-09-16T09:57:21.447226+00:00</published>
-    <updated>2026-09-16T09:57:21.447226+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>在大语言模型时代学习编程</title>
-    <link href="https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms"/>
-    <id>7ea472509094fa02d5c8e2a5f9b62fcf</id>
-    <published>2026-09-16T09:12:34+00:00</published>
-    <updated>2026-09-16T09:12:34+00:00</updated>
-    <summary type="text">Score: 0.553\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>员工如何解锁新的工作方式 / How workers are unlocking new ways of working</title>
-    <link href="https://openai.com/index/unlocking-new-ways-of-working"/>
-    <id>67a920bc823713aa86d72e0c47dea15b</id>
-    <published>2026-09-16T09:00:00+00:00</published>
-    <updated>2026-09-16T09:00:00+00:00</updated>
-    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Mistral X Mozilla：私密、多语言的 AI 浏览体验</title>
-    <link href="https://mistral.ai/news/mistral-x-mozilla"/>
-    <id>96bce1f2056010661fa81e698d69b53f</id>
-    <published>2026-09-16T08:08:57+00:00</published>
-    <updated>2026-09-16T08:08:57+00:00</updated>
-    <summary type="text">Score: 0.551\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
   </entry>
 </feed>

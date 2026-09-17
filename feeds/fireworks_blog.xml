@@ -4,16 +4,16 @@
   <icon>https://fireworks.ai/favicon.ico</icon>
   <link href="https://fireworks.ai/blog"/>
   <id>https://fireworks.ai/blog</id>
-  <updated>2027-09-09T00:00:00+00:00</updated>
+  <updated>2026-09-17T00:00:00+00:00</updated>
   <entry>
-    <title>Making the leap to specialized intelligence</title>
-    <link href="https://fireworks.ai/blog/making-the-leap-to-specialized-intelligence"/>
-    <id>acb2e4f0ec816388827b3257f10f08ea</id>
-    <published>2027-09-09T00:00:00+00:00</published>
-    <updated>2027-09-09T00:00:00+00:00</updated>
-    <summary type="text">The road to building specialized intelligence typically follows four stages from renting the closed frontier to training your own custom models, we walk you through what it takes to get there.</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/8ca016c84dfe98da349b46d99c3fb5e916298e96-1600x900.png&quot; alt=&quot;Making the leap to specialized intelligence&quot; /&gt;
-&lt;p&gt;The road to building specialized intelligence typically follows four stages from renting the closed frontier to training your own custom models, we walk you through what it takes to get there.&lt;/p&gt;</content>
+    <title>Phylo brings frontier AI to more scientists with open models on Fireworks</title>
+    <link href="https://fireworks.ai/blog/phylo-brings-frontier-ai-to-more-scientists-with-open-models-on-fireworks"/>
+    <id>5631820bd4f0814ce82d2fd61229294b</id>
+    <published>2026-09-17T00:00:00+00:00</published>
+    <updated>2026-09-17T00:00:00+00:00</updated>
+    <summary type="text">Phylo cut inference cost 60% while doubling users month-on-month, running Biomni Lab's long-horizon biology agents on open models on Fireworks.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/ad28b63d77cf8d9320b2c469278dcc6624a84006-7680x4320.png&quot; alt=&quot;Phylo brings frontier AI to more scientists with open models on Fireworks&quot; /&gt;
+&lt;p&gt;Phylo cut inference cost 60% while doubling users month-on-month, running Biomni Lab's long-horizon biology agents on open models on Fireworks.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>DeepSeek-V4.1-Flash on Fireworks: Astra-level DeepSWE at 1/15th the cost</title>
@@ -34,6 +34,16 @@
     <summary type="text">Genspark partnered with Fireworks Lab to post-train MiniMax M3 into Gen-1 Slides, a model that produces Opus 5-level decks at roughly one-tenth the cost per finished deck. </summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/d2bad3f3d6c81b770cde4fe256f9ee2b2b155b72-1600x900.png&quot; alt=&quot;Gen-1 Slides: Opus 5-level decks at a fraction of the cost&quot; /&gt;
 &lt;p&gt;Genspark partnered with Fireworks Lab to post-train MiniMax M3 into Gen-1 Slides, a model that produces Opus 5-level decks at roughly one-tenth the cost per finished deck. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Making the leap to specialized intelligence</title>
+    <link href="https://fireworks.ai/blog/making-the-leap-to-specialized-intelligence"/>
+    <id>acb2e4f0ec816388827b3257f10f08ea</id>
+    <published>2026-09-10T00:00:00+00:00</published>
+    <updated>2026-09-10T00:00:00+00:00</updated>
+    <summary type="text">The road to building specialized intelligence typically follows four stages from renting the closed frontier to training your own custom models, we walk you through what it takes to get there.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/8ca016c84dfe98da349b46d99c3fb5e916298e96-1600x900.png&quot; alt=&quot;Making the leap to specialized intelligence&quot; /&gt;
+&lt;p&gt;The road to building specialized intelligence typically follows four stages from renting the closed frontier to training your own custom models, we walk you through what it takes to get there.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Train past the frontier: Training API now generally available</title>
@@ -478,15 +488,5 @@
     <updated>2026-03-06T00:00:00+00:00</updated>
     <summary type="text">Inference Providers vs. API Routers: where do tokens come from?</summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/65fd50656ae6a4510078ce7f0db593e4b4acd9ec-1672x941.png&quot; alt=&quot;Inference Providers vs. API Routers: where do tokens come from?&quot; /&gt;</content>
-  </entry>
-  <entry>
-    <title>The Best 8 LLM API Providers in 2026</title>
-    <link href="https://fireworks.ai/blog/best-llm-api-providers"/>
-    <id>a0278ec2f3326ac8451a265f3b9fc996</id>
-    <published>2026-03-04T00:00:00+00:00</published>
-    <updated>2026-03-04T00:00:00+00:00</updated>
-    <summary type="text">We compared pricing, latency, and models across 8 LLM API providers. Find the best fit for production, fine-tuning, custom deployment, or prototyping.</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;The Best 8 LLM API Providers in 2026&quot; /&gt;
-&lt;p&gt;We compared pricing, latency, and models across 8 LLM API providers. Find the best fit for production, fine-tuning, custom deployment, or prototyping.&lt;/p&gt;</content>
   </entry>
 </feed>

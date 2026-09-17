@@ -4,10 +4,19 @@
   <icon>https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico</icon>
   <link href="https://qwen.ai/research"/>
   <id>https://qwen.ai/research</id>
-  <updated>2026-09-03T00:00:00+00:00</updated>
+  <updated>2026-09-18T00:00:00+00:00</updated>
   <author>
     <name>Qwen (Alibaba)</name>
   </author>
+  <entry>
+    <title>Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery.</title>
+    <link href="https://qwen.ai/blog?id=qwen3.8-omni-flash"/>
+    <id>b5b99132c7bf588e17fae30a92f06672</id>
+    <published>2026-09-18T00:00:00+00:00</published>
+    <updated>2026-09-18T00:00:00+00:00</updated>
+    <summary type="text">Today, we are launching Qwen3.8-Omni-Flash, our next-generation native omnimodal model. Its core objective is to strengthen agent capabilities in real-world productivity scenarios, advancing omnimodal models from “understanding omnimodal content” to “planning tasks, calling tools, and completing creative work.” Building on general agentic capabilities in coding, text-based knowledge work, and...</summary>
+    <category term="Release"/>
+  </entry>
   <entry>
     <title>E-Commerce Bench: Long-Horizon Operations, Multi-Dimensional Evaluation</title>
     <link href="https://qwen.ai/blog?id=e-commerce-bench"/>
@@ -43,14 +52,5 @@
     <updated>2026-08-03T00:00:00+00:00</updated>
     <summary type="text">Today, we are officially releasing Qwen 3.8-Max, the most capable model in the Qwen family to date. This also marks the first time we will open-source the weights of a Qwen-Max-class model — the open weights will be released next week. Built upon the architectural foundation of Qwen 3.5, Qwen 3.8-Max scales to 2.4 trillion parameters, delivering comprehensive improvements across coding, work,...</summary>
     <category term="Open-Source"/>
-  </entry>
-  <entry>
-    <title>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</title>
-    <link href="https://qwen.ai/blog?id=qwen-image-3.0"/>
-    <id>61f0c43d9dffb78ae1b1e418b2a9a0f8</id>
-    <published>2026-07-21T00:00:00+00:00</published>
-    <updated>2026-07-21T00:00:00+00:00</updated>
-    <summary type="text">We are launching Qwen-Image-3.0, the third-generation foundational image generation model in the Qwen-Image series. If the keyword for Qwen-Image-1.0 was &quot;Precision&quot;, and the keywords for Qwen-Image-2.0 were &quot;Precision, Variety, Completeness, Beauty, and Authenticity&quot;, then the core of Qwen-Image-3.0 comes down to a single word — &quot;Real&quot; (实). This &quot;Real&quot; is embodied across three dimensions:...</summary>
-    <category term="Release"/>
   </entry>
 </feed>

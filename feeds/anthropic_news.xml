@@ -4,10 +4,25 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-09-10T00:00:00+00:00</updated>
+  <updated>2026-09-17T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Introducing the Life Sciences Verification Program</title>
+    <link href="https://www.anthropic.com/news/life-sciences-verification-program"/>
+    <id>df4186c4846bcd41ba0b79ccdd9226c1</id>
+    <published>2026-09-17T00:00:00+00:00</published>
+    <updated>2026-09-17T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
+  <entry>
+    <title>Measurements for understanding the pace of AI development inside frontier labs</title>
+    <link href="https://www.anthropic.com/news/measuring-pace-of-ai-development"/>
+    <id>6458701ce0cd8b0121fbf3b2369c4edf</id>
+    <published>2026-09-17T00:00:00+00:00</published>
+    <updated>2026-09-17T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Detecting and countering misuse of AI: September 2026</title>
     <link href="https://www.anthropic.com/news/threat-intelligence-report-september-2026"/>
@@ -87,21 +102,5 @@
     <published>2026-07-30T00:00:00+00:00</published>
     <updated>2026-07-30T00:00:00+00:00</updated>
     <category term="Announcements"/>
-  </entry>
-  <entry>
-    <title>Our position on open-weights models</title>
-    <link href="https://www.anthropic.com/news/position-open-weights-models"/>
-    <id>18540f448ce53746502d3a0387841d95</id>
-    <published>2026-07-27T00:00:00+00:00</published>
-    <updated>2026-07-27T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-  </entry>
-  <entry>
-    <title>Introducing Claude Opus 5</title>
-    <link href="https://www.anthropic.com/news/claude-opus-5"/>
-    <id>e929acb819c0b71ec6c571a680122fda</id>
-    <published>2026-07-24T00:00:00+00:00</published>
-    <updated>2026-07-24T00:00:00+00:00</updated>
-    <category term="Product"/>
   </entry>
 </feed>
