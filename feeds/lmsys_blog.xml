@@ -20,6 +20,15 @@ Low-ratio compression and sliding-window attention (SWA). Each layer maintains a
     <category term="blog"/>
   </entry>
   <entry>
+    <title>Running DeepSeek-V4-Flash and Kimi-K3 on Consumer Hardware with SSD Expert Pack</title>
+    <link href="https://lmsys.org/blog/2026-08-29-sglang-ssd-expert-pack"/>
+    <id>e17a1b8b3cbc6938b5f49df3d27b15d6</id>
+    <published>2026-08-29T00:00:00+00:00</published>
+    <updated>2026-08-29T00:00:00+00:00</updated>
+    <summary type="text">SGLang brings the core idea of SSD-LLaMA to MoE inference: keep routed experts that do not fit in VRAM and host RAM on an NVMe SSD, load only the experts selected by the router, and use Expert Pack la...</summary>
+    <category term="blog"/>
+  </entry>
+  <entry>
     <title>Infer-forge: Harness, Loop, and Graph Engineering Around SGLang</title>
     <link href="https://lmsys.org/blog/2026-08-28-infer-forge-loop-engineering"/>
     <id>194b77171ad040996c9ef6cbea318388</id>

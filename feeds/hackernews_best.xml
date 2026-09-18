@@ -4,16 +4,205 @@
   <icon>https://news.ycombinator.com/favicon.ico</icon>
   <link href="https://news.ycombinator.com/best"/>
   <id>https://news.ycombinator.com/best</id>
-  <updated>2026-09-17T20:36:13+00:00</updated>
+  <updated>2026-09-18T21:00:32+00:00</updated>
   <author>
     <name>Hacker News</name>
   </author>
   <entry>
-    <title>Bend – A language that blocks AI mistakes via proof, on CPU and GPU</title>
+    <title>Claude Code now reads AGENTS.md if there is no Claude.md</title>
+    <link href="https://news.ycombinator.com/item?id=49760187"/>
+    <id>78848c01b015113df83d26cfbd316bad</id>
+    <published>2026-09-18T21:00:32+00:00</published>
+    <updated>2026-09-18T21:00:32+00:00</updated>
+  </entry>
+  <entry>
+    <title>Korea raises data breach fines to 10% of revenue</title>
+    <link href="https://news.ycombinator.com/item?id=49759466"/>
+    <id>0f59fc9eff1141613561cbedeaef953b</id>
+    <published>2026-09-18T20:02:54+00:00</published>
+    <updated>2026-09-18T20:02:54+00:00</updated>
+  </entry>
+  <entry>
+    <title>Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</title>
+    <link href="https://news.ycombinator.com/item?id=49758736"/>
+    <id>813c53928229e74c2898fe3d5488ba20</id>
+    <published>2026-09-18T19:03:09+00:00</published>
+    <updated>2026-09-18T19:03:09+00:00</updated>
+  </entry>
+  <entry>
+    <title>Border agents can search cellphones without a warrant or reasonable suspicion</title>
+    <link href="https://news.ycombinator.com/item?id=49758028"/>
+    <id>b096d9a337bfaab4e96aaa6007e18ddd</id>
+    <published>2026-09-18T18:08:32+00:00</published>
+    <updated>2026-09-18T18:08:32+00:00</updated>
+  </entry>
+  <entry>
+    <title>US Military had close call after using AI for hallucinated intelligence report</title>
+    <link href="https://news.ycombinator.com/item?id=49757520"/>
+    <id>d917d7a1d5eb858922f61cd14fbd703a</id>
+    <published>2026-09-18T17:28:01+00:00</published>
+    <updated>2026-09-18T17:28:01+00:00</updated>
+  </entry>
+  <entry>
+    <title>There's no point at which turning your brain off will work</title>
+    <link href="https://news.ycombinator.com/item?id=49757178"/>
+    <id>92644186b5b5a23a2511ab6e446f7358</id>
+    <published>2026-09-18T17:02:52+00:00</published>
+    <updated>2026-09-18T17:02:52+00:00</updated>
+  </entry>
+  <entry>
+    <title>North Korean nuclear test sets off years of earthquakes</title>
+    <link href="https://news.ycombinator.com/item?id=49755160"/>
+    <id>ae01aac5577f4583ec207606d43e71f5</id>
+    <published>2026-09-18T14:45:32+00:00</published>
+    <updated>2026-09-18T14:45:32+00:00</updated>
+  </entry>
+  <entry>
+    <title>I vibed a proof of Conway's conjecture</title>
+    <link href="https://news.ycombinator.com/item?id=49755024"/>
+    <id>64eb8708a2a883979e242f9e265e16b9</id>
+    <published>2026-09-18T14:36:10+00:00</published>
+    <updated>2026-09-18T14:36:10+00:00</updated>
+  </entry>
+  <entry>
+    <title>Cloudflare Quick Tunnels</title>
+    <link href="https://news.ycombinator.com/item?id=49754785"/>
+    <id>2a93731049261718173ab22b32c3e01a</id>
+    <published>2026-09-18T14:18:41+00:00</published>
+    <updated>2026-09-18T14:18:41+00:00</updated>
+  </entry>
+  <entry>
+    <title>An empirical study of harness design for coding agents</title>
+    <link href="https://news.ycombinator.com/item?id=49753878"/>
+    <id>61ee2e56f8364e7383c57e19f4ff6530</id>
+    <published>2026-09-18T13:06:30+00:00</published>
+    <updated>2026-09-18T13:06:30+00:00</updated>
+  </entry>
+  <entry>
+    <title>I don't like passkeys</title>
+    <link href="https://news.ycombinator.com/item?id=49753211"/>
+    <id>30688acc4a31aa7293fa7cb738413964</id>
+    <published>2026-09-18T12:06:50+00:00</published>
+    <updated>2026-09-18T12:06:50+00:00</updated>
+  </entry>
+  <entry>
+    <title>Bend 2 and the Vibe-Coding Trap</title>
+    <link href="https://news.ycombinator.com/item?id=49753179"/>
+    <id>fb78daa3ca2ee2d126818fa1299a96f5</id>
+    <published>2026-09-18T12:03:55+00:00</published>
+    <updated>2026-09-18T12:03:55+00:00</updated>
+  </entry>
+  <entry>
+    <title>Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him</title>
+    <link href="https://news.ycombinator.com/item?id=49752614"/>
+    <id>57d8ab3c08e59f804390ffc9082c0b3b</id>
+    <published>2026-09-18T11:01:44+00:00</published>
+    <updated>2026-09-18T11:01:44+00:00</updated>
+  </entry>
+  <entry>
+    <title>ZCode, the GLM coding agent, silently uploads your Git history</title>
+    <link href="https://news.ycombinator.com/item?id=49752422"/>
+    <id>65992716463305643da29c0cf9a21345</id>
+    <published>2026-09-18T10:35:28+00:00</published>
+    <updated>2026-09-18T10:35:28+00:00</updated>
+  </entry>
+  <entry>
+    <title>Microsoft exec called AI scraping 'the largest theft of labor in human history'</title>
+    <link href="https://news.ycombinator.com/item?id=49752056"/>
+    <id>21b3d9cef2ee95965891c50143670d98</id>
+    <published>2026-09-18T09:45:07+00:00</published>
+    <updated>2026-09-18T09:45:07+00:00</updated>
+  </entry>
+  <entry>
+    <title>OpenJev</title>
+    <link href="https://news.ycombinator.com/item?id=49752041"/>
+    <id>143d758d14a312c407bf02d1552cec68</id>
+    <published>2026-09-18T09:42:22+00:00</published>
+    <updated>2026-09-18T09:42:22+00:00</updated>
+  </entry>
+  <entry>
+    <title>Inside ZCode: Silently uploading your Git history to the cloud</title>
+    <link href="https://news.ycombinator.com/item?id=49750694"/>
+    <id>e8ac1dbba4c8d7f320c064a5ca910073</id>
+    <published>2026-09-18T06:11:17+00:00</published>
+    <updated>2026-09-18T06:11:17+00:00</updated>
+  </entry>
+  <entry>
+    <title>Jemalloc 5.4.0</title>
+    <link href="https://news.ycombinator.com/item?id=49750152"/>
+    <id>ba2837c62c00c50750f7775ed50cc942</id>
+    <published>2026-09-18T04:20:24+00:00</published>
+    <updated>2026-09-18T04:20:24+00:00</updated>
+  </entry>
+  <entry>
+    <title>The scourge of x86 emulation</title>
+    <link href="https://news.ycombinator.com/item?id=49750094"/>
+    <id>e886c3f2c3d58e4daf2fb06b8576d048</id>
+    <published>2026-09-18T04:09:48+00:00</published>
+    <updated>2026-09-18T04:09:48+00:00</updated>
+  </entry>
+  <entry>
+    <title>Pre-Greek: The lost language hidden within Ancient Greek</title>
+    <link href="https://news.ycombinator.com/item?id=49749771"/>
+    <id>9a8aa6f9692d32e66e4819c1086ac512</id>
+    <published>2026-09-18T03:04:38+00:00</published>
+    <updated>2026-09-18T03:04:38+00:00</updated>
+  </entry>
+  <entry>
+    <title>A heap overflow and SSO misconfiguration to compromise OpenAI internal repos</title>
+    <link href="https://news.ycombinator.com/item?id=49749656"/>
+    <id>53cd7d8be3b3da244b76f7f6178ba7a0</id>
+    <published>2026-09-18T02:47:24+00:00</published>
+    <updated>2026-09-18T02:47:24+00:00</updated>
+  </entry>
+  <entry>
+    <title>Qwen 3.8 Omni Flash</title>
+    <link href="https://news.ycombinator.com/item?id=49747925"/>
+    <id>e381b54e339e94ccf4cc1b27b8dfe373</id>
+    <published>2026-09-17T23:05:48+00:00</published>
+    <updated>2026-09-17T23:05:48+00:00</updated>
+  </entry>
+  <entry>
+    <title>How to Write with an LLM</title>
+    <link href="https://news.ycombinator.com/item?id=49747070"/>
+    <id>4bda5b07a29d8d8dc124c13ad2de6485</id>
+    <published>2026-09-17T21:48:38+00:00</published>
+    <updated>2026-09-17T21:48:38+00:00</updated>
+  </entry>
+  <entry>
+    <title>Sex, AI, and the Apocalypse</title>
+    <link href="https://news.ycombinator.com/item?id=49746654"/>
+    <id>4012041d1d1575ea51331536f1d75036</id>
+    <published>2026-09-17T21:15:52+00:00</published>
+    <updated>2026-09-17T21:15:52+00:00</updated>
+  </entry>
+  <entry>
+    <title>Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint</title>
+    <link href="https://news.ycombinator.com/item?id=49746618"/>
+    <id>54d30bf3f8c94d7d48f7faf574277533</id>
+    <published>2026-09-17T21:13:31+00:00</published>
+    <updated>2026-09-17T21:13:31+00:00</updated>
+  </entry>
+  <entry>
+    <title>Flet 1.0 – Build cross-platform apps in Python</title>
+    <link href="https://news.ycombinator.com/item?id=49746290"/>
+    <id>233011c8e9b366b57c9b68156f9d8382</id>
+    <published>2026-09-17T20:44:28+00:00</published>
+    <updated>2026-09-17T20:44:28+00:00</updated>
+  </entry>
+  <entry>
+    <title>Bend – a language that blocks AI mistakes via proof and runs on GPUs</title>
     <link href="https://news.ycombinator.com/item?id=49746163"/>
     <id>cdaab5051e5abae83425a5e89c8b0c19</id>
     <published>2026-09-17T20:36:13+00:00</published>
     <updated>2026-09-17T20:36:13+00:00</updated>
+  </entry>
+  <entry>
+    <title>More than 100k people in Japan are now aged 100 or older</title>
+    <link href="https://news.ycombinator.com/item?id=49746117"/>
+    <id>063f327e83ca6b4216cae23020a202d9</id>
+    <published>2026-09-17T20:33:00+00:00</published>
+    <updated>2026-09-17T20:33:00+00:00</updated>
   </entry>
   <entry>
     <title>Astra for Law</title>
@@ -35,6 +224,13 @@
     <id>0c113cc212c2d1b9768cd0d8d442a77d</id>
     <published>2026-09-17T16:25:37+00:00</published>
     <updated>2026-09-17T16:25:37+00:00</updated>
+  </entry>
+  <entry>
+    <title>CrowdSec Source Code Leak</title>
+    <link href="https://news.ycombinator.com/item?id=49742355"/>
+    <id>644b038dd8981d218752449458f9625f</id>
+    <published>2026-09-17T15:34:01+00:00</published>
+    <updated>2026-09-17T15:34:01+00:00</updated>
   </entry>
   <entry>
     <title>Rate limits on GitLab.com are changing</title>
@@ -161,201 +357,5 @@
     <id>2c1fc5766ff5c76fafebc73810ae1635</id>
     <published>2026-09-16T22:10:13+00:00</published>
     <updated>2026-09-16T22:10:13+00:00</updated>
-  </entry>
-  <entry>
-    <title>Breaking the 1.58-bit Barrier for Ternary LLMs</title>
-    <link href="https://news.ycombinator.com/item?id=49732931"/>
-    <id>3907b4f759d9095794f42460fcb2a49d</id>
-    <published>2026-09-16T20:59:24+00:00</published>
-    <updated>2026-09-16T20:59:24+00:00</updated>
-  </entry>
-  <entry>
-    <title>Backups Aren't Simple</title>
-    <link href="https://news.ycombinator.com/item?id=49732513"/>
-    <id>8c583ffd9dfdc181eeb4e86dc12a3f34</id>
-    <published>2026-09-16T20:27:16+00:00</published>
-    <updated>2026-09-16T20:27:16+00:00</updated>
-  </entry>
-  <entry>
-    <title>Xiaomi Mimo 2.6 live post-training dashboard</title>
-    <link href="https://news.ycombinator.com/item?id=49732270"/>
-    <id>dd0c22484dcfe067843a8b3177faa584</id>
-    <published>2026-09-16T20:09:18+00:00</published>
-    <updated>2026-09-16T20:09:18+00:00</updated>
-  </entry>
-  <entry>
-    <title>Fed hikes rates as inflation worries push up bond yields</title>
-    <link href="https://news.ycombinator.com/item?id=49731356"/>
-    <id>1155b389d9ab344491ca0d487492795c</id>
-    <published>2026-09-16T18:55:21+00:00</published>
-    <updated>2026-09-16T18:55:21+00:00</updated>
-  </entry>
-  <entry>
-    <title>Training a 4B model to produce 81% faster query plans than Postgres</title>
-    <link href="https://news.ycombinator.com/item?id=49731285"/>
-    <id>c5c6781e068e0fba454b90f4b004c4c8</id>
-    <published>2026-09-16T18:50:00+00:00</published>
-    <updated>2026-09-16T18:50:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Reverse-engineered Jev-like model</title>
-    <link href="https://news.ycombinator.com/item?id=49731282"/>
-    <id>e215f6fff154a00abc6b4c48e643be1c</id>
-    <published>2026-09-16T18:49:57+00:00</published>
-    <updated>2026-09-16T18:49:57+00:00</updated>
-  </entry>
-  <entry>
-    <title>Vectorized and performance-portable Quicksort (2022)</title>
-    <link href="https://news.ycombinator.com/item?id=49731054"/>
-    <id>805821331bb2454a6ae534b9f9b7bde5</id>
-    <published>2026-09-16T18:31:35+00:00</published>
-    <updated>2026-09-16T18:31:35+00:00</updated>
-  </entry>
-  <entry>
-    <title>ER visits for gambling disorders doubled after expanded online gambling market</title>
-    <link href="https://news.ycombinator.com/item?id=49730239"/>
-    <id>ba90d54c6b2a6354c63fec83742606ea</id>
-    <published>2026-09-16T17:27:37+00:00</published>
-    <updated>2026-09-16T17:27:37+00:00</updated>
-  </entry>
-  <entry>
-    <title>Claude Cowork and chat are now one Claude</title>
-    <link href="https://news.ycombinator.com/item?id=49729412"/>
-    <id>804d9a1a4b3df66d3e3a8154a6694223</id>
-    <published>2026-09-16T16:26:25+00:00</published>
-    <updated>2026-09-16T16:26:25+00:00</updated>
-  </entry>
-  <entry>
-    <title>Small programming tricks</title>
-    <link href="https://news.ycombinator.com/item?id=49729000"/>
-    <id>238b5d877c9da201309811b441dfcbd5</id>
-    <published>2026-09-16T15:56:47+00:00</published>
-    <updated>2026-09-16T15:56:47+00:00</updated>
-  </entry>
-  <entry>
-    <title>Can we stop with the uptime percentages?</title>
-    <link href="https://news.ycombinator.com/item?id=49728733"/>
-    <id>db4a025034498aef93cde4d21d9ae8f5</id>
-    <published>2026-09-16T15:40:04+00:00</published>
-    <updated>2026-09-16T15:40:04+00:00</updated>
-  </entry>
-  <entry>
-    <title>The DeepMind Institute</title>
-    <link href="https://news.ycombinator.com/item?id=49727659"/>
-    <id>829d0ab822b28c15d55b553bd98d200e</id>
-    <published>2026-09-16T14:32:11+00:00</published>
-    <updated>2026-09-16T14:32:11+00:00</updated>
-  </entry>
-  <entry>
-    <title>PS5 Linux lead quits: &quot;a bunch of noobs using LLMs&quot; that &quot;they don't understand&quot;</title>
-    <link href="https://news.ycombinator.com/item?id=49727627"/>
-    <id>c92739da20cf2a00e9318dd0efdbbe0e</id>
-    <published>2026-09-16T14:30:36+00:00</published>
-    <updated>2026-09-16T14:30:36+00:00</updated>
-  </entry>
-  <entry>
-    <title>A warning about 'model welfare'</title>
-    <link href="https://news.ycombinator.com/item?id=49727580"/>
-    <id>eceef1f6953943b42f902c49d9953e0c</id>
-    <published>2026-09-16T14:27:47+00:00</published>
-    <updated>2026-09-16T14:27:47+00:00</updated>
-  </entry>
-  <entry>
-    <title>OpenAI expands ChatGPT ads with Sponsored Agents</title>
-    <link href="https://news.ycombinator.com/item?id=49727041"/>
-    <id>7fe30a5ec93ca73883863e65f36659cf</id>
-    <published>2026-09-16T13:51:15+00:00</published>
-    <updated>2026-09-16T13:51:15+00:00</updated>
-  </entry>
-  <entry>
-    <title>Dream-RSI: Recursive Self-Improvement through Evolving Worlds</title>
-    <link href="https://news.ycombinator.com/item?id=49726955"/>
-    <id>18ea786d171fc2d381e038b676152b82</id>
-    <published>2026-09-16T13:44:40+00:00</published>
-    <updated>2026-09-16T13:44:40+00:00</updated>
-  </entry>
-  <entry>
-    <title>Hackers Got Inside a Flock Camera</title>
-    <link href="https://news.ycombinator.com/item?id=49726586"/>
-    <id>15b1e573aa2f8ff1bf6ec6da1f998950</id>
-    <published>2026-09-16T13:18:47+00:00</published>
-    <updated>2026-09-16T13:18:47+00:00</updated>
-  </entry>
-  <entry>
-    <title>Wax motor</title>
-    <link href="https://news.ycombinator.com/item?id=49726007"/>
-    <id>2c1ff508b000142d268cf17210e911ad</id>
-    <published>2026-09-16T12:35:14+00:00</published>
-    <updated>2026-09-16T12:35:14+00:00</updated>
-  </entry>
-  <entry>
-    <title>DeepSeek v4.1 Flash Is Now Our Best Hacking Model</title>
-    <link href="https://news.ycombinator.com/item?id=49725800"/>
-    <id>f5dee4abd31419b2059e31971ea17084</id>
-    <published>2026-09-16T12:19:55+00:00</published>
-    <updated>2026-09-16T12:19:55+00:00</updated>
-  </entry>
-  <entry>
-    <title>Original Sony PlayStation 2 security chip 'broken wide open' after 26 years</title>
-    <link href="https://news.ycombinator.com/item?id=49725356"/>
-    <id>11855a97b327cb7f622601db31f46fff</id>
-    <published>2026-09-16T11:49:40+00:00</published>
-    <updated>2026-09-16T11:49:40+00:00</updated>
-  </entry>
-  <entry>
-    <title>The Google Play app review process now regularly takes longer than a week</title>
-    <link href="https://news.ycombinator.com/item?id=49724927"/>
-    <id>dc83eb8bbba0a3c24e3a87846ef2c8d8</id>
-    <published>2026-09-16T11:19:11+00:00</published>
-    <updated>2026-09-16T11:19:11+00:00</updated>
-  </entry>
-  <entry>
-    <title>Nvidia announces native GPU programming in Rust</title>
-    <link href="https://news.ycombinator.com/item?id=49724881"/>
-    <id>4a2e7a34a369e5dacc2aad398a3e7296</id>
-    <published>2026-09-16T11:15:53+00:00</published>
-    <updated>2026-09-16T11:15:53+00:00</updated>
-  </entry>
-  <entry>
-    <title>Salesforce Global Outage</title>
-    <link href="https://news.ycombinator.com/item?id=49724488"/>
-    <id>f88c85d6c08980be57324acf9ec2d1cc</id>
-    <published>2026-09-16T10:37:08+00:00</published>
-    <updated>2026-09-16T10:37:08+00:00</updated>
-  </entry>
-  <entry>
-    <title>EU chief opens door for Canada to become 'associate member'</title>
-    <link href="https://news.ycombinator.com/item?id=49724141"/>
-    <id>566986a3531a601912fa8600589a8b9a</id>
-    <published>2026-09-16T09:54:05+00:00</published>
-    <updated>2026-09-16T09:54:05+00:00</updated>
-  </entry>
-  <entry>
-    <title>Learning Programming in an Age of LLMs</title>
-    <link href="https://news.ycombinator.com/item?id=49723873"/>
-    <id>687829e3370556556e9b1f68f4e313f0</id>
-    <published>2026-09-16T09:12:34+00:00</published>
-    <updated>2026-09-16T09:12:34+00:00</updated>
-  </entry>
-  <entry>
-    <title>Mistral X Mozilla: Private, Multilingual AI Browsing</title>
-    <link href="https://news.ycombinator.com/item?id=49723408"/>
-    <id>0497e401855a12e54227a33f666d76d9</id>
-    <published>2026-09-16T08:08:57+00:00</published>
-    <updated>2026-09-16T08:08:57+00:00</updated>
-  </entry>
-  <entry>
-    <title>Apple Reference Image: A New Approach for Verified Photography</title>
-    <link href="https://news.ycombinator.com/item?id=49721322"/>
-    <id>fe307e5edbe36c2f760a8fdc29bbe0d3</id>
-    <published>2026-09-16T02:07:31+00:00</published>
-    <updated>2026-09-16T02:07:31+00:00</updated>
-  </entry>
-  <entry>
-    <title>Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA</title>
-    <link href="https://news.ycombinator.com/item?id=49719938"/>
-    <id>d0f7cdfbd01672198ca2b2e6a3bc93a0</id>
-    <published>2026-09-15T22:50:55+00:00</published>
-    <updated>2026-09-15T22:50:55+00:00</updated>
   </entry>
 </feed>

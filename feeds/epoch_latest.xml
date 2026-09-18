@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-09-17T00:00:00+00:00</updated>
+  <updated>2026-09-18T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>In August, 25% of math preprints acknowledged AI use, up from 4% in April</title>
+    <link href="https://epoch.ai/data-insights/math-preprints-disclosed-ai-use"/>
+    <id>e4456c5b24019b6b59d14966f81bc965</id>
+    <published>2026-09-18T00:00:00+00:00</published>
+    <updated>2026-09-18T00:00:00+00:00</updated>
+    <summary type="text">Acknowledgments of AI use in arXiv math preprints rose from 4% in April 2026 to 25% in August, with 6% crediting AI with a substantial research contribution.</summary>
+    <category term="Data Insight"/>
+  </entry>
   <entry>
     <title>Trade data consistent with $3B of chips smuggled to China via Malaysia</title>
     <link href="https://epoch.ai/data-insights/malaysia-china-chip-smuggling"/>
@@ -79,15 +88,6 @@
     <updated>2026-09-04T00:00:00+00:00</updated>
     <summary type="text">Huawei plans major gains in AI chip performance by 2030, but US export controls cap its most important scaling levers. Epoch AI estimates Huawei will produce less than 4% as much AI compute as Nvidia in 2026, a share that could be around 1% by 2028 without access to foreign memory.</summary>
     <category term="Report"/>
-  </entry>
-  <entry>
-    <title>Announcing FrontierMath Erdős</title>
-    <link href="https://epoch.ai/latest/announcing-frontiermath-erdos"/>
-    <id>77132975b8b056ef64ec6ffd157f9b95</id>
-    <published>2026-09-01T00:00:00+00:00</published>
-    <updated>2026-09-01T00:00:00+00:00</updated>
-    <summary type="text">A benchmark of 68 significant Erdős problems, open as of August 2026, curated by Thomas Bloom and formalized in Lean. AI systems must prove or disprove them within a fixed budget.</summary>
-    <category term="Update"/>
   </entry>
   <entry>
     <title>The ECI frontier has advanced by 14 points per year since the introduction of reasoning models</title>

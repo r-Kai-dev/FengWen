@@ -9,6 +9,15 @@
     <name>Qwen (Alibaba)</name>
   </author>
   <entry>
+    <title>Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning.</title>
+    <link href="https://qwen.ai/blog?id=qwen3.8-livetranslate"/>
+    <id>f90670257f967f8bca20108c5410b440</id>
+    <published>2026-09-18T00:00:00+00:00</published>
+    <updated>2026-09-18T00:00:00+00:00</updated>
+    <summary type="text">Simultaneous interpretation is not only about translating fast — it must also hear clearly and translate accurately. Qwen3.8-LiveTranslate rebuilds real-time simultaneous interpretation with an Interleave architecture, improving faithfulness, fluency, and conciseness across the board, while average lagging (LAAL) drops from 2.8 seconds to 2.3 seconds. We want simultaneous interpretation to...</summary>
+    <category term="Release"/>
+  </entry>
+  <entry>
     <title>Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery.</title>
     <link href="https://qwen.ai/blog?id=qwen3.8-omni-flash"/>
     <id>b5b99132c7bf588e17fae30a92f06672</id>
@@ -42,15 +51,6 @@
     <published>2026-08-26T00:00:00+00:00</published>
     <updated>2026-08-26T00:00:00+00:00</updated>
     <summary type="text">In this release we are opening the weights of Qwen3.8-Flash-Next, a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4. It plays the same role that Qwen3-Next played for Qwen3.5: the hybrid Gated DeltaNet + Gated Attention design introduced at that time has since been used across the Qwen3.5, Qwen3.6, Qwen3.7 and Qwen3.8 series. We are again releasing the...</summary>
-    <category term="Open-Source"/>
-  </entry>
-  <entry>
-    <title>Qwen3.8-Max: A New Bar for Coding and Cowork</title>
-    <link href="https://qwen.ai/blog?id=qwen3.8"/>
-    <id>4c753e084614cbb98bdd76433e07d28e</id>
-    <published>2026-08-03T00:00:00+00:00</published>
-    <updated>2026-08-03T00:00:00+00:00</updated>
-    <summary type="text">Today, we are officially releasing Qwen 3.8-Max, the most capable model in the Qwen family to date. This also marks the first time we will open-source the weights of a Qwen-Max-class model — the open weights will be released next week. Built upon the architectural foundation of Qwen 3.5, Qwen 3.8-Max scales to 2.4 trillion parameters, delivering comprehensive improvements across coding, work,...</summary>
     <category term="Open-Source"/>
   </entry>
 </feed>

@@ -6,8 +6,35 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-09-16T00:00:00.000Z</updated>
+  <updated>2026-09-18T00:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>How to Edit Video with Krea Agent: Cut, Extend and Export Generated Clips (2026)</title>
+    <link href="https://www.krea.ai/blog/how-to-edit-video-with-krea-agent"/>
+    <id>https://www.krea.ai/blog/how-to-edit-video-with-krea-agent</id>
+    <updated>2026-09-18T00:00:00.000Z</updated>
+    <published>2026-09-18T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="krea agent"/>
+    <category term="ai video editor"/>
+    <category term="video editing"/>
+    <category term="ai video generation"/>
+    <category term="seedance 2.5"/>
+    <summary>Krea Agent now has a timeline video editor. Put generated clips on a timeline, cut them, extend a clip with a new generation, add audio, and export one MP4. A step-by-step guide.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-edit-video-with-krea-agent/agent/1789758923746-hero.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Reve to Sunset in 2026: Alternative AI Generators</title>
+    <link href="https://www.krea.ai/blog/reve-sunset-2026-alternative-ai-generators"/>
+    <id>https://www.krea.ai/blog/reve-sunset-2026-alternative-ai-generators</id>
+    <updated>2026-09-18T00:00:00.000Z</updated>
+    <published>2026-09-18T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Reve sunsets image generation on September 27, 2026. What to export before October 31, and the best Reve alternative for AI images: Krea 2, with prices.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/reve-sunset-2026-alternative-ai-generators/agent/hero.png" type="image/webp"/>
+  </entry>
   <entry>
     <title>Best Free QR Code Generators in 2026 (and How to Make a Branded One with AI)</title>
     <link href="https://www.krea.ai/blog/best-free-qr-code-generators-and-ai-branded-qr-codes-in-2026"/>
@@ -550,33 +577,5 @@
     <category term="seedance-2-5"/>
     <summary>Seedance 2.5 explained: what changed from Seedance 2.0, how reference-guided generation works in practice, and what you can build with it on Krea.</summary>
     <link rel="enclosure" href="https://s.krea.ai/seedance-2-5-what-s-new-how-it-works-and-what-you-can-do-with-it/thumbnail.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Spot the AI</title>
-    <link href="https://www.krea.ai/blog/spot-the-ai"/>
-    <id>https://www.krea.ai/blog/spot-the-ai</id>
-    <updated>2026-08-09T00:00:00.000Z</updated>
-    <published>2026-08-09T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="case-studies"/>
-    <summary>Cream Productions used Krea to generate period-accurate 1980s New York shots for The Westies, blending AI and live-action footage in the same sequences.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/cream-thumbnail.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Bending the Kubernetes scheduler</title>
-    <link href="https://www.krea.ai/blog/bending-the-kubernetes-scheduler"/>
-    <id>https://www.krea.ai/blog/bending-the-kubernetes-scheduler</id>
-    <updated>2026-08-07T15:00:00.000Z</updated>
-    <published>2026-08-07T15:00:00.000Z</published>
-    <author><name>Gabriel Menezes</name></author>
-    <category term="engineering"/>
-    <category term="kubernetes"/>
-    <category term="scheduler"/>
-    <category term="gpu scheduling"/>
-    <category term="kueue"/>
-    <category term="descheduler"/>
-    <category term="infrastructure"/>
-    <summary>How we make the default Kubernetes scheduler pack GPU workloads into the cluster first, and spill to overflow capacity only when it's full.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/bending-the-kubernetes-scheduler/hero.webp" type="image/webp"/>
   </entry>
 </feed>
