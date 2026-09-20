@@ -4,224 +4,234 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-19T16:35:24+00:00</updated>
+  <updated>2026-09-20T15:59:25+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>几乎永远不要用 AI 写任何有实质内容的东西 / Almost Never Use AI to Write Anything Substantive</title>
-    <link href="https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"/>
-    <id>8fffe398ae5bca2c3c8e0c67aa381d2d</id>
-    <published>2026-09-19T16:35:24+00:00</published>
-    <updated>2026-09-19T16:35:24+00:00</updated>
-    <summary type="text">Score: 0.539\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
+    <title>文章称Prompts并非真实，应忽略提示词构建LLM评估优化管道</title>
+    <link href="https://evaluation.club"/>
+    <id>c9a504551bcda98a8405b194a07030c7</id>
+    <published>2026-09-20T15:59:25+00:00</published>
+    <updated>2026-09-20T15:59:25+00:00</updated>
+    <summary type="text">Score: 0.537\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>AI生成的海报未必就难看</title>
-    <link href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html"/>
-    <id>7f47836ac61ecb666551cdd5241cc38e</id>
-    <published>2026-09-19T09:20:58+00:00</published>
-    <updated>2026-09-19T09:20:58+00:00</updated>
-    <summary type="text">Score: 0.550\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号</title>
+    <link href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector"/>
+    <id>f97f64910d6fca383887d5d5dbf4fd9e</id>
+    <published>2026-09-20T15:18:44+00:00</published>
+    <updated>2026-09-20T15:18:44+00:00</updated>
+    <summary type="text">Score: 0.851\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>GPT-6 Astra 破解了一段一战时期的德国无线电密文</title>
-    <link href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"/>
-    <id>276599df370230eb1ce027d3d95c1cef</id>
-    <published>2026-09-19T06:41:44+00:00</published>
-    <updated>2026-09-19T06:41:44+00:00</updated>
-    <summary type="text">Score: 0.547\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司 / google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…</title>
-    <link href="https://x.com/haider1/status/2101187073990611232"/>
-    <id>acf18fa11b002251585f12f32ab839f8</id>
-    <published>2026-09-19T05:50:11+00:00</published>
-    <updated>2026-09-19T05:50:11+00:00</updated>
-    <summary type="text">Score: 0.766\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>“海盗脸”拯救了大语言模型免遭删除</title>
+    <link href="https://pirateface.co"/>
+    <id>2c7d7f7e18fe954f3cfbcab4b87dbd89</id>
+    <published>2026-09-20T15:16:07+00:00</published>
+    <updated>2026-09-20T15:16:07+00:00</updated>
+    <summary type="text">Score: 0.565\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️</title>
+    <link href="https://x.com/Alibaba_Qwen/status/2101670814953455780"/>
+    <id>4fb06d6bccc63366ed4a554851056634</id>
+    <published>2026-09-20T13:52:24+00:00</published>
+    <updated>2026-09-20T13:52:24+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Stepfun Step 5 Preview（LLM）：跻身 AA Pareto 前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier</title>
-    <link href="https://artificialanalysis.ai/models/step-5"/>
-    <id>4fc9a49d23b9c2ffed79d4ebc4c738a5</id>
-    <published>2026-09-19T05:42:31+00:00</published>
-    <updated>2026-09-19T05:42:31+00:00</updated>
-    <summary type="text">Score: 0.514\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
+    <title>Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation</title>
+    <link href="https://qwen.ai/blog?id=qwen-image-2.1"/>
+    <id>2572d964b68c1c3147be05dd3b724f77</id>
+    <published>2026-09-20T12:00:00+00:00</published>
+    <updated>2026-09-20T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.824\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>如果 AI 编程正在拉低你的代码质量，那说明你的质量管理方式不对 / If AI coding is lowering your code quality, you're not managing quality right</title>
+    <link href="https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code"/>
+    <id>3159ed108dd10c721800439ab61efcea</id>
+    <published>2026-09-20T11:37:10+00:00</published>
+    <updated>2026-09-20T11:37:10+00:00</updated>
+    <summary type="text">Score: 0.526\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>NASA-IBM 月球基础开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model</title>
-    <link href="https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model"/>
-    <id>e19921784befc4a97f7c4a1ddb4ffc55</id>
-    <published>2026-09-19T04:44:35+00:00</published>
-    <updated>2026-09-19T04:44:35+00:00</updated>
-    <summary type="text">Score: 0.512\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
+    <title>人工智能与“知识共享”的瓦解</title>
+    <link href="https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons"/>
+    <id>dc53f48b2a52de1d76ee7e7ecac08456</id>
+    <published>2026-09-20T10:07:51+00:00</published>
+    <updated>2026-09-20T10:07:51+00:00</updated>
+    <summary type="text">Score: 0.554\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>一颗 260 克的&quot;鸡蛋关节&quot;：稚晖君发布启元 Q1、T1 人形机器人</title>
+    <link href="https://www.aibase.com/news/31205"/>
+    <id>12777798d926fc2ca7360198e871544e</id>
+    <published>2026-09-20T09:49:14.368921+00:00</published>
+    <updated>2026-09-20T09:49:14.368921+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>东风人形机器人&quot;小东&quot;下月进厂：汽车大模型给具身智能当&quot;师傅&quot;，年底要和真人掰手腕</title>
+    <link href="https://www.aibase.com/news/31204"/>
+    <id>f4e71dd37407443d4251f8310c7bfe64</id>
+    <published>2026-09-20T09:49:14.368921+00:00</published>
+    <updated>2026-09-20T09:49:14.368921+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”</title>
+    <link href="https://www.aibase.com/news/31206"/>
+    <id>13dce1e93fbb20064780854689374c24</id>
+    <published>2026-09-20T09:49:14.368921+00:00</published>
+    <updated>2026-09-20T09:49:14.368921+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔</title>
+    <link href="https://www.aibase.com/news/31200"/>
+    <id>e6dc442db42e89e7936acd8dcfa2f617</id>
+    <published>2026-09-20T09:49:14.368921+00:00</published>
+    <updated>2026-09-20T09:49:14.368921+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”</title>
+    <link href="https://www.aibase.com/news/31201"/>
+    <id>35cfeb5399569e1e86b42f796f8c9455</id>
+    <published>2026-09-20T09:49:14.368921+00:00</published>
+    <updated>2026-09-20T09:49:14.368921+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先</title>
+    <link href="https://www.aibase.com/news/31203"/>
+    <id>865670d3e86aec1fc806bd9bc5c3e8a3</id>
+    <published>2026-09-20T09:49:14.368921+00:00</published>
+    <updated>2026-09-20T09:49:14.368921+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的&quot;护身符&quot;</title>
+    <link href="https://www.aibase.com/news/31199"/>
+    <id>620efa9fa019409696dfd0fa81f3d92d</id>
+    <published>2026-09-20T07:44:09.675567+00:00</published>
+    <updated>2026-09-20T07:44:09.675567+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争</title>
+    <link href="https://www.aibase.com/news/31180"/>
+    <id>1bd97360c3cc1a3ee34450014ffc2672</id>
+    <published>2026-09-20T07:44:09.675567+00:00</published>
+    <updated>2026-09-20T07:44:09.675567+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首</title>
+    <link href="https://www.aibase.com/news/31193"/>
+    <id>2829b9d3a1d1c176dfa1e5479d2b5aa6</id>
+    <published>2026-09-20T07:44:09.675567+00:00</published>
+    <updated>2026-09-20T07:44:09.675567+00:00</updated>
+    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>编排 Claude Code Agent：幕僚长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern</title>
+    <link href="https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions"/>
+    <id>e44a4811a693aa66c0459d015aa60349</id>
+    <published>2026-09-20T05:46:19+00:00</published>
+    <updated>2026-09-20T05:46:19+00:00</updated>
+    <summary type="text">Score: 0.513\nSources: 2 (Hacker News)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Google的Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test</title>
-    <link href="https://www.bbc.co.uk/news/articles/c607l0k72rlvo"/>
-    <id>dc98d63a4bdb057c97dd035ec6f9e760</id>
-    <published>2026-09-19T04:27:11+00:00</published>
-    <updated>2026-09-19T04:27:11+00:00</updated>
-    <summary type="text">Score: 0.515\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
+    <title>纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用</title>
+    <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"/>
+    <id>81ccfa8573621e79343a04f7384018ea</id>
+    <published>2026-09-19T23:58:19.151000+00:00</published>
+    <updated>2026-09-19T23:58:19.151000+00:00</updated>
+    <summary type="text">Score: 0.763\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>你能分辨出哪些图片是AI生成的吗？</title>
+    <link href="https://slop-sense.labtoagi.com/games/is-this-image-ai"/>
+    <id>7c0d9e7ae15d05dce77ef994bf27674c</id>
+    <published>2026-09-19T23:02:34+00:00</published>
+    <updated>2026-09-19T23:02:34+00:00</updated>
+    <summary type="text">Score: 0.561\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Trump 表示是时候给 AI 换个新名字了——而且他还要组建一支 AI Force / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force</title>
+    <link href="https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force"/>
+    <id>ce4dd945f2c3b532f944e0cbecd21065</id>
+    <published>2026-09-19T19:57:47+00:00</published>
+    <updated>2026-09-19T19:57:47+00:00</updated>
+    <summary type="text">Score: 0.597\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元</title>
-    <link href="https://www.ithome.com/1/004/369.htm"/>
-    <id>20f1e21a48be188292097b10cc7b0717</id>
-    <published>2026-09-19T00:07:04+00:00</published>
-    <updated>2026-09-19T00:07:04+00:00</updated>
-    <summary type="text">Score: 0.739\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型</title>
-    <link href="https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"/>
-    <id>895987e319764763b7fe5a945c21acb2</id>
-    <published>2026-09-18T23:54:42+00:00</published>
-    <updated>2026-09-18T23:54:42+00:00</updated>
-    <summary type="text">Score: 0.540\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …</title>
-    <link href="https://x.com/rohanpaul_ai/status/2101095915654463533"/>
-    <id>d7b3d799b53db1ed430187b09c6dbebf</id>
-    <published>2026-09-18T23:47:57+00:00</published>
-    <updated>2026-09-18T23:47:57+00:00</updated>
-    <summary type="text">Score: 0.738\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取</title>
-    <link href="https://www.ithome.com/1/004/356.htm"/>
-    <id>ff62b3a56283997fe1b2d7b3b2df0d1f</id>
-    <published>2026-09-18T23:13:06+00:00</published>
-    <updated>2026-09-18T23:13:06+00:00</updated>
-    <summary type="text">Score: 0.734\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止</title>
-    <link href="https://www.ithome.com/1/004/355.htm"/>
-    <id>f3f846701bff9ab957830282b6fe533e</id>
-    <published>2026-09-18T23:11:25+00:00</published>
-    <updated>2026-09-18T23:11:25+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片</title>
-    <link href="https://spectrum.ieee.org/llms-for-chip-design"/>
-    <id>8fe6d9dfcad515fc8c32798789129dd3</id>
-    <published>2026-09-18T23:04:17+00:00</published>
-    <updated>2026-09-18T23:04:17+00:00</updated>
-    <summary type="text">Score: 0.540\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Gemini入侵了三家公司，成为Google AI首次已知的越界事件 / Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
-    <link href="https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies"/>
-    <id>d3fbd0f928ca99b6b1773889fb138df6</id>
-    <published>2026-09-18T22:17:19+00:00</published>
-    <updated>2026-09-18T22:17:19+00:00</updated>
-    <summary type="text">Score: 0.617\nSources: 4 (OPML RSS)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件</title>
-    <link href="https://code.claude.com/docs/en/changelog"/>
-    <id>273e0cdf8620ec272f10ae1109c779a3</id>
-    <published>2026-09-18T21:00:32+00:00</published>
-    <updated>2026-09-18T21:00:32+00:00</updated>
-    <summary type="text">Score: 0.523\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation</title>
-    <link href="https://www.anthropic.com/news/accenture-embedded-evaluation"/>
-    <id>e684deaebf7b7c4810da5c52ecd7a3e6</id>
-    <published>2026-09-18T20:21:40.477000+00:00</published>
-    <updated>2026-09-18T20:21:40.477000+00:00</updated>
-    <summary type="text">Score: 0.732\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Copilot 代码审查：更出色的审查体验 / Copilot code review: An improved review experience</title>
-    <link href="https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience"/>
-    <id>8e11fe1c18766ff1c1ed3f7e299091ac</id>
-    <published>2026-09-18T20:17:22+00:00</published>
-    <updated>2026-09-18T20:17:22+00:00</updated>
-    <summary type="text">Score: 0.801\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API</title>
-    <link href="https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api"/>
-    <id>0df5d726ec86ad604943352b0f265609</id>
-    <published>2026-09-18T19:23:49+00:00</published>
-    <updated>2026-09-18T19:23:49+00:00</updated>
-    <summary type="text">Score: 0.791\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot 每周发布——9月14日 / GitHub Copilot weekly releases — September 14</title>
-    <link href="https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14"/>
-    <id>23b78209f18b103064bdb88a4d9656ea</id>
-    <published>2026-09-18T19:21:22+00:00</published>
-    <updated>2026-09-18T19:21:22+00:00</updated>
-    <summary type="text">Score: 0.799\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
   </entry>
 </feed>

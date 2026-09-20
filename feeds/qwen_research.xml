@@ -4,10 +4,19 @@
   <icon>https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico</icon>
   <link href="https://qwen.ai/research"/>
   <id>https://qwen.ai/research</id>
-  <updated>2026-09-18T00:00:00+00:00</updated>
+  <updated>2026-09-20T00:00:00+00:00</updated>
   <author>
     <name>Qwen (Alibaba)</name>
   </author>
+  <entry>
+    <title>Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation</title>
+    <link href="https://qwen.ai/blog?id=qwen-image-2.1"/>
+    <id>60ae8d143fd0ec70f0113d27cb6de5cd</id>
+    <published>2026-09-20T00:00:00+00:00</published>
+    <updated>2026-09-20T00:00:00+00:00</updated>
+    <summary type="text">We are excited to open-source Qwen-Image-2.1, an image model in the Qwen family that balances generation quality, inference efficiency, and cost. Qwen-Image-2.1 unifies text-to-image generation and image editing in a single model, with just 7B parameters in its visual generation component and native support for generating and editing transparent images. This update introduces four key...</summary>
+    <category term="Open-Source"/>
+  </entry>
   <entry>
     <title>Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning.</title>
     <link href="https://qwen.ai/blog?id=qwen3.8-livetranslate"/>
@@ -42,15 +51,6 @@
     <published>2026-09-03T00:00:00+00:00</published>
     <updated>2026-09-03T00:00:00+00:00</updated>
     <summary type="text">We introduce Qwen-Drive-1.0, the first vision-language foundation model for autonomous driving that unifies 3D perception and visual question answering at the pretraining stage and further extends to motion planning, while keeping the pretrained VLM architecture entirely untouched. Built on the natively multimodal Qwen3.5-4B, it attaches two external modules. A BEV perception head serves as an...</summary>
-    <category term="Open-Source"/>
-  </entry>
-  <entry>
-    <title>Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency</title>
-    <link href="https://qwen.ai/blog?id=qwen3.8-flash-next"/>
-    <id>1935839d34628b645c82e65b9aceb2ea</id>
-    <published>2026-08-26T00:00:00+00:00</published>
-    <updated>2026-08-26T00:00:00+00:00</updated>
-    <summary type="text">In this release we are opening the weights of Qwen3.8-Flash-Next, a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4. It plays the same role that Qwen3-Next played for Qwen3.5: the hybrid Gated DeltaNet + Gated Attention design introduced at that time has since been used across the Qwen3.5, Qwen3.6, Qwen3.7 and Qwen3.8 series. We are again releasing the...</summary>
     <category term="Open-Source"/>
   </entry>
 </feed>
