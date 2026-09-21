@@ -4,16 +4,26 @@
   <icon>https://news.aibase.com/favicon.ico</icon>
   <link href="https://news.aibase.com/zh/daily"/>
   <id>https://news.aibase.com/zh/daily</id>
-  <updated>2026-09-20T16:49:34.216550+00:00</updated>
+  <updated>2026-09-21T15:44:44.648451+00:00</updated>
   <author>
     <name>AIBase</name>
   </author>
   <entry>
+    <title>AI日报：千问开源 Qwen-Image-2.1；Claude Opus5.5疑遭内测泄露；智谱MaaS将上线数据不留存机制</title>
+    <link href="https://news.aibase.com/zh/daily/31235"/>
+    <id>ea45e268f69879afc949c51b1b36e4af</id>
+    <published>2026-09-21T15:44:44.648451+00:00</published>
+    <updated>2026-09-21T15:44:44.648451+00:00</updated>
+    <summary type="text">1、通义千问开源Qwen-Image-2.1:7B参数实现文生图与图像编辑一体化通义千问团队开源了新一代图像模型Qwen-Image-2.1，该模型以7B参数实现文生图与图像编辑一体化，具备透明图像生成、多图输入编辑等核心功能，显著提升了生成效果与推理效率。8、ZCode道歉并开源:阿里云OSS已清空，RepoWiki功能已下线ZCode团队针对社区反馈的安全问题发布公开致歉与整改说明，宣布开源代码并邀请第三方机构进行安全审计，以重建用户信任。</summary>
+    <category term="AI Daily"/>
+    <category term="人工智能"/>
+  </entry>
+  <entry>
     <title>AI日报：微信AI团队开源WeKnora；ChatGPT正式入驻Word；阶跃星辰发布Step5Preview</title>
     <link href="https://news.aibase.com/zh/daily/31202"/>
     <id>76d202aaef863d0f38fafbbe38b5f4d7</id>
-    <published>2026-09-20T16:49:34.216550+00:00</published>
-    <updated>2026-09-20T16:49:34.216550+00:00</updated>
+    <published>2026-09-20T23:44:44.648703+00:00</published>
+    <updated>2026-09-20T23:44:44.648703+00:00</updated>
     <summary type="text">1、微信AI团队开源WeKnora：知识库不再只“动嘴”能在沙箱里“动手”微信AI团队开源了知识管理框架WeKnora，其最新0.8.0版本全面开放使用。其新发布的V4.1Flash模型在性能和价格上表现出色，进一步提升了性价比。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -22,8 +32,8 @@
     <title>AI日报：千问上线 Qwen3.8-Omni-Flash；谷歌最强 Gemini 4 Pro 开测；智谱发布 GLM-5.3-FlashX</title>
     <link href="https://news.aibase.com/zh/daily/31167"/>
     <id>9e0f236ac212529f52a4683f7d5f090b</id>
-    <published>2026-09-18T22:49:34.217000+00:00</published>
-    <updated>2026-09-18T22:49:34.217000+00:00</updated>
+    <published>2026-09-18T23:44:44.648865+00:00</published>
+    <updated>2026-09-18T23:44:44.648865+00:00</updated>
     <summary type="text">1、千问上线Qwen3.8-Omni-Flash:1M上下文，30项评测平均提升超26%千问推出新一代全模态模型Qwen3.8-Omni-Flash，支持文本、图像、音频与视频输入及1M长上下文，性能在多项评测中显著提升。其搭载的豆包大模型支持语音对话和语义理解，同时提供开放API和OTA升级功能，为开发者提供了高性价比的实验平台。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -32,8 +42,8 @@
     <title>AI日报：抖音新增“冒用声音”举报入口；Grok Build上线“长期记忆”功能；豆包联合火山引擎打造AI原生助手</title>
     <link href="https://news.aibase.com/zh/daily/31136"/>
     <id>0a9cbe261acc5b86fde57a41df988fb3</id>
-    <published>2026-09-17T22:49:34.217348+00:00</published>
-    <updated>2026-09-17T22:49:34.217348+00:00</updated>
+    <published>2026-09-17T23:44:44.649027+00:00</published>
+    <updated>2026-09-17T23:44:44.649027+00:00</updated>
     <summary type="text">1、抖音新增“冒用声音”专属举报入口上线可核验维权机制反击AI合成侵权抖音上线“冒用声音”专属举报入口，升级维权机制以应对AI生成技术带来的新型权益保护问题。该工具在macOS和Windows桌面端开放，iOS和Android版本即将发布。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -42,8 +52,8 @@
     <title>AI日报：豆包2.1Pro0915上线火山方舟；生数科技发布Vidu S2；vivo 蓝心大模型全面升级</title>
     <link href="https://news.aibase.com/zh/daily/31096"/>
     <id>2e9134040515019fb7038b39298ea09b</id>
-    <published>2026-09-16T22:49:34.217736+00:00</published>
-    <updated>2026-09-16T22:49:34.217736+00:00</updated>
+    <published>2026-09-16T23:44:44.649184+00:00</published>
+    <updated>2026-09-16T23:44:44.649184+00:00</updated>
     <summary type="text">1、豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”字节系企业生产力产品推出重大更新，火山引擎升级豆包大模型至0915版本，并优化API接入；飞书发布8.0版本，引入团队智能体“豆包工作伙伴”，推动AI从个人助手向团队协作转变。8、Google官宣Gemini3.8Live，首创“边说边想”颠覆行业交互Google宣布推出Gemini3.8Live及其扩展版本，实现了语音交互领域的重大突破，特别是在低延迟语音流中实现深度推理能力，为语音人工智能应用带来了全新的变革。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -52,8 +62,8 @@
     <title>AI日报：Claude Opus 5.2 灰测；苹果正式推送 iOS27；微信回应小微AI隐私争议</title>
     <link href="https://news.aibase.com/zh/daily/31064"/>
     <id>89fd703e4368c1cdf77fe9e36b6c56bd</id>
-    <published>2026-09-15T22:49:34.218077+00:00</published>
-    <updated>2026-09-15T22:49:34.218077+00:00</updated>
+    <published>2026-09-15T23:44:44.649349+00:00</published>
+    <updated>2026-09-15T23:44:44.649349+00:00</updated>
     <summary type="text">1、ClaudeOpus5.2深夜灰度上线：响应更快治好了“偷懒病”ClaudeOpus5.2在灰度测试中表现出色，响应速度、输出质量以及自主迭代能力均显著提升，展现了Anthropic在AI模型优化上的强大实力。8、阶跃发布StepAudio3系列模型:五款模型同步上线开放平台阶跃星辰发布StepAudio3系列模型，涵盖语音生成、音频生成、实时交互、语音理解和音乐创作等多个领域，其中多款模型在ArtificialAnalysis榜单中位列全球第一，展现了强大的技术实力和应用潜力。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -62,8 +72,8 @@
     <title>AI日报：豆包手机助手消费者版发布；Suno发布v6音乐模型；ElevenLabs发布Music v2.5音频模型</title>
     <link href="https://news.aibase.com/zh/daily/31034"/>
     <id>8e8dbd9f02d19d71540c0e899b22e5d9</id>
-    <published>2026-09-14T22:49:34.218407+00:00</published>
-    <updated>2026-09-14T22:49:34.218407+00:00</updated>
+    <published>2026-09-14T00:00:00+00:00</published>
+    <updated>2026-09-14T00:00:00+00:00</updated>
     <summary type="text">1、豆包手机助手消费者版发布:AI键指纹直唤，跨应用Agent再升级豆包手机助手消费者版在交互、记忆、Agent执行及安全等方面全面升级，推动手机AI从“问答”走向“自动办事”。8、DeepSeek-V4.1-Flash上线千问AI平台，API与TokenPlan同步开放DeepSeek-V4.1-Flash的上线为千问AI平台带来了新的技术突破，其在性能和成本控制方面表现出色，适合企业进行长文档解析、客服知识库等任务。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -195,16 +205,6 @@
     <published>2026-08-26T00:00:00+00:00</published>
     <updated>2026-08-26T00:00:00+00:00</updated>
     <summary type="text">1、即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持即梦AI正式推出影视内容厂牌“即梦片场”，旨在推动AIGC内容从短视频向长线影视作品升级，为创作者提供全面的扶持与资源支持。通过标准化的工作流和异步处理架构，简化开发体验，并提供准备、提交、轮询和下载四个核心环节的详细说明。</summary>
-    <category term="AI Daily"/>
-    <category term="人工智能"/>
-  </entry>
-  <entry>
-    <title>AI日报：字节发布AI办公智能体豆包工作；ChatGPT上线自定义贴纸功能；谷歌测试Gemini新界面</title>
-    <link href="https://news.aibase.com/zh/daily/30606"/>
-    <id>472145ea75d8a790ff53adbd47f895a4</id>
-    <published>2026-08-25T00:00:00+00:00</published>
-    <updated>2026-08-25T00:00:00+00:00</updated>
-    <summary type="text">1、字节跳动发布AI办公智能体“豆包工作”，打通飞书生态重构企业生产力字节跳动推出的AI办公智能体“豆包工作”通过深度整合飞书生态，为企业提供全流程自主执行的智能工作解决方案，显著提升了办公效率和数据安全性。8、谷歌测试Gemini新界面，新增通知中心和聊天筛选功能谷歌正在测试Gemini应用的新界面升级，包括优化聊天组织方式、增加通知管理、完善搜索筛选以及增强GeminiSpark管理能力，旨在提升用户的AI助手使用效率。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
   </entry>

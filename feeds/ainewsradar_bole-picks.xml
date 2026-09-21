@@ -4,234 +4,248 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-20T15:59:25+00:00</updated>
+  <updated>2026-09-21T20:18:52+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>文章称Prompts并非真实，应忽略提示词构建LLM评估优化管道</title>
-    <link href="https://evaluation.club"/>
-    <id>c9a504551bcda98a8405b194a07030c7</id>
-    <published>2026-09-20T15:59:25+00:00</published>
-    <updated>2026-09-20T15:59:25+00:00</updated>
-    <summary type="text">Score: 0.537\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号</title>
-    <link href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector"/>
-    <id>f97f64910d6fca383887d5d5dbf4fd9e</id>
-    <published>2026-09-20T15:18:44+00:00</published>
-    <updated>2026-09-20T15:18:44+00:00</updated>
-    <summary type="text">Score: 0.851\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>“海盗脸”拯救了大语言模型免遭删除</title>
-    <link href="https://pirateface.co"/>
-    <id>2c7d7f7e18fe954f3cfbcab4b87dbd89</id>
-    <published>2026-09-20T15:16:07+00:00</published>
-    <updated>2026-09-20T15:16:07+00:00</updated>
-    <summary type="text">Score: 0.565\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️</title>
-    <link href="https://x.com/Alibaba_Qwen/status/2101670814953455780"/>
-    <id>4fb06d6bccc63366ed4a554851056634</id>
-    <published>2026-09-20T13:52:24+00:00</published>
-    <updated>2026-09-20T13:52:24+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&amp;mid=2247484969&amp;idx=1&amp;sn=76c4757b26a2b646e1b690bf78c386d8"/>
+    <id>6bc00f1ba1f8392c3c6eb3668f4674de</id>
+    <published>2026-09-21T20:18:52+00:00</published>
+    <updated>2026-09-21T20:18:52+00:00</updated>
+    <summary type="text">Score: 0.772\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation</title>
-    <link href="https://qwen.ai/blog?id=qwen-image-2.1"/>
-    <id>2572d964b68c1c3147be05dd3b724f77</id>
-    <published>2026-09-20T12:00:00+00:00</published>
-    <updated>2026-09-20T12:00:00+00:00</updated>
-    <summary type="text">Score: 0.824\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>如果 AI 编程正在拉低你的代码质量，那说明你的质量管理方式不对 / If AI coding is lowering your code quality, you're not managing quality right</title>
-    <link href="https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code"/>
-    <id>3159ed108dd10c721800439ab61efcea</id>
-    <published>2026-09-20T11:37:10+00:00</published>
-    <updated>2026-09-20T11:37:10+00:00</updated>
-    <summary type="text">Score: 0.526\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>人工智能与“知识共享”的瓦解</title>
-    <link href="https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons"/>
-    <id>dc53f48b2a52de1d76ee7e7ecac08456</id>
-    <published>2026-09-20T10:07:51+00:00</published>
-    <updated>2026-09-20T10:07:51+00:00</updated>
-    <summary type="text">Score: 0.554\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>一颗 260 克的&quot;鸡蛋关节&quot;：稚晖君发布启元 Q1、T1 人形机器人</title>
-    <link href="https://www.aibase.com/news/31205"/>
-    <id>12777798d926fc2ca7360198e871544e</id>
-    <published>2026-09-20T09:49:14.368921+00:00</published>
-    <updated>2026-09-20T09:49:14.368921+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>东风人形机器人&quot;小东&quot;下月进厂：汽车大模型给具身智能当&quot;师傅&quot;，年底要和真人掰手腕</title>
-    <link href="https://www.aibase.com/news/31204"/>
-    <id>f4e71dd37407443d4251f8310c7bfe64</id>
-    <published>2026-09-20T09:49:14.368921+00:00</published>
-    <updated>2026-09-20T09:49:14.368921+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”</title>
-    <link href="https://www.aibase.com/news/31206"/>
-    <id>13dce1e93fbb20064780854689374c24</id>
-    <published>2026-09-20T09:49:14.368921+00:00</published>
-    <updated>2026-09-20T09:49:14.368921+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔</title>
-    <link href="https://www.aibase.com/news/31200"/>
-    <id>e6dc442db42e89e7936acd8dcfa2f617</id>
-    <published>2026-09-20T09:49:14.368921+00:00</published>
-    <updated>2026-09-20T09:49:14.368921+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”</title>
-    <link href="https://www.aibase.com/news/31201"/>
-    <id>35cfeb5399569e1e86b42f796f8c9455</id>
-    <published>2026-09-20T09:49:14.368921+00:00</published>
-    <updated>2026-09-20T09:49:14.368921+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先</title>
-    <link href="https://www.aibase.com/news/31203"/>
-    <id>865670d3e86aec1fc806bd9bc5c3e8a3</id>
-    <published>2026-09-20T09:49:14.368921+00:00</published>
-    <updated>2026-09-20T09:49:14.368921+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的&quot;护身符&quot;</title>
-    <link href="https://www.aibase.com/news/31199"/>
-    <id>620efa9fa019409696dfd0fa81f3d92d</id>
-    <published>2026-09-20T07:44:09.675567+00:00</published>
-    <updated>2026-09-20T07:44:09.675567+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争</title>
-    <link href="https://www.aibase.com/news/31180"/>
-    <id>1bd97360c3cc1a3ee34450014ffc2672</id>
-    <published>2026-09-20T07:44:09.675567+00:00</published>
-    <updated>2026-09-20T07:44:09.675567+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首</title>
-    <link href="https://www.aibase.com/news/31193"/>
-    <id>2829b9d3a1d1c176dfa1e5479d2b5aa6</id>
-    <published>2026-09-20T07:44:09.675567+00:00</published>
-    <updated>2026-09-20T07:44:09.675567+00:00</updated>
-    <summary type="text">Score: 0.740\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>编排 Claude Code Agent：幕僚长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern</title>
-    <link href="https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions"/>
-    <id>e44a4811a693aa66c0459d015aa60349</id>
-    <published>2026-09-20T05:46:19+00:00</published>
-    <updated>2026-09-20T05:46:19+00:00</updated>
-    <summary type="text">Score: 0.513\nSources: 2 (Hacker News)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用</title>
-    <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"/>
-    <id>81ccfa8573621e79343a04f7384018ea</id>
-    <published>2026-09-19T23:58:19.151000+00:00</published>
-    <updated>2026-09-19T23:58:19.151000+00:00</updated>
-    <summary type="text">Score: 0.763\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>你能分辨出哪些图片是AI生成的吗？</title>
-    <link href="https://slop-sense.labtoagi.com/games/is-this-image-ai"/>
-    <id>7c0d9e7ae15d05dce77ef994bf27674c</id>
-    <published>2026-09-19T23:02:34+00:00</published>
-    <updated>2026-09-19T23:02:34+00:00</updated>
-    <summary type="text">Score: 0.561\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…</title>
+    <link href="https://x.com/rohanpaul_ai/status/2102128625126605059"/>
+    <id>b8ff58d376be21094d94c6db819b51f8</id>
+    <published>2026-09-21T20:11:34+00:00</published>
+    <updated>2026-09-21T20:11:34+00:00</updated>
+    <summary type="text">Score: 0.783\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Trump 表示是时候给 AI 换个新名字了——而且他还要组建一支 AI Force / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force</title>
-    <link href="https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force"/>
-    <id>ce4dd945f2c3b532f944e0cbecd21065</id>
-    <published>2026-09-19T19:57:47+00:00</published>
-    <updated>2026-09-19T19:57:47+00:00</updated>
-    <summary type="text">Score: 0.597\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
+    <title>小米 MiMo-V2.6-Pro 发布，登顶 Artificial Analysis 开源权重模型智能指数 / MiMo-V2.6-Pro debuts as the top open weights model on the Artificial Analysis Intelligence Index （46…</title>
+    <link href="https://x.com/ArtificialAnlys/status/2102128560962187701"/>
+    <id>27d28e47e5eb143860883a370d7ae448</id>
+    <published>2026-09-21T20:11:19+00:00</published>
+    <updated>2026-09-21T20:11:19+00:00</updated>
+    <summary type="text">Score: 0.744\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7</title>
+    <link href="https://artificialanalysis.ai/articles/benchmarking-grok-4-7"/>
+    <id>75003bfac734335764898f33685a05f3</id>
+    <published>2026-09-21T19:41:25.079000+00:00</published>
+    <updated>2026-09-21T19:41:25.079000+00:00</updated>
+    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp;amp； OpenAI， for agentic coding. When factori…</title>
+    <link href="https://x.com/elonmusk/status/2102082011233931762"/>
+    <id>29d75f9a1182cdacf7d892d6752397d9</id>
+    <published>2026-09-21T17:06:20+00:00</published>
+    <updated>2026-09-21T17:06:20+00:00</updated>
+    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56 / Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…</title>
+    <link href="https://x.com/ArtificialAnlys/status/2102074898327932987"/>
+    <id>229cee1a3dfe6c11d4c2a78b733eae54</id>
+    <published>2026-09-21T16:38:05+00:00</published>
+    <updated>2026-09-21T16:38:05+00:00</updated>
+    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Grok 4.7 现已上线 GitHub Copilot / Grok 4.7 is now available in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot"/>
+    <id>92cd6e67c493cf799d8a64c9040b25fd</id>
+    <published>2026-09-21T14:54:12+00:00</published>
+    <updated>2026-09-21T14:54:12+00:00</updated>
+    <summary type="text">Score: 0.845\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>像物理学家一样修剪LLM：把模块移除当作Ising优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
+    <link href="https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"/>
+    <id>2c30af2a0f78aef25566884a7da0fcc6</id>
+    <published>2026-09-21T13:44:34+00:00</published>
+    <updated>2026-09-21T13:44:34+00:00</updated>
+    <summary type="text">Score: 0.850\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up</title>
+    <link href="https://linear.app/now/ci-bottleneck-reworked"/>
+    <id>95ff6d31664f2b714d5f3b4cf95b8bc2</id>
+    <published>2026-09-21T12:26:00+00:00</published>
+    <updated>2026-09-21T12:26:00+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="multi_source"/>
-    <category term="watch"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Higgsfield AI 借助 GPT-6 Astra 一天内上线全新视频功能 / Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
+    <link href="https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"/>
+    <id>a90a90a23c04af64b8a0a5e04d9e640b</id>
+    <published>2026-09-21T12:00:00+00:00</published>
+    <updated>2026-09-21T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>数学与人工智能咨询小组 / Advisory Group on Mathematics and Artificial Intelligence</title>
+    <link href="https://openai.com/index/advisory-group-on-mathematics-and-ai"/>
+    <id>4a7fbca2a199089b97e9b79cc786aa52</id>
+    <published>2026-09-21T12:00:00+00:00</published>
+    <updated>2026-09-21T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.855\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Nathan Lambert 撰文分析开源模型的中美实力格局 / The current balance of power in open models</title>
+    <link href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open"/>
+    <id>d90f2864f4a13da83e147412f9648c1e</id>
+    <published>2026-09-21T11:56:56+00:00</published>
+    <updated>2026-09-21T11:56:56+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级</title>
+    <link href="https://www.ithome.com/1/005/418.htm"/>
+    <id>22c1defe492e0f49ae3c5345bdee99f1</id>
+    <published>2026-09-21T11:52:52+00:00</published>
+    <updated>2026-09-21T11:52:52+00:00</updated>
+    <summary type="text">Score: 0.763\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上</title>
+    <link href="https://www.aibase.com/news/31241"/>
+    <id>5f08aea3ef1e0f874ba7511d231ccb2f</id>
+    <published>2026-09-21T10:44:34.815175+00:00</published>
+    <updated>2026-09-21T10:44:34.815175+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元</title>
+    <link href="https://www.aibase.com/news/31231"/>
+    <id>fc166727c661ed5232e34c0dd7fd3d0d</id>
+    <published>2026-09-21T10:44:34.815175+00:00</published>
+    <updated>2026-09-21T10:44:34.815175+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>为下一阶段 AI 建立标准 / Building standards for the next phase of AI</title>
+    <link href="https://openai.com/index/building-standards-next-phase-ai"/>
+    <id>8706a4ddb5e30005460d1eae64189671</id>
+    <published>2026-09-21T10:00:00+00:00</published>
+    <updated>2026-09-21T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484344&amp;idx=1&amp;sn=047cf702ff02ab334e3ea2ba8e34b4a6"/>
+    <id>cb187ecef1f6dfedee44443f330ec970</id>
+    <published>2026-09-21T07:54:32+00:00</published>
+    <updated>2026-09-21T07:54:32+00:00</updated>
+    <summary type="text">Score: 0.733\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI Academy 拓展全新学习路径 / Expanding OpenAI Academy with new learning paths</title>
+    <link href="https://openai.com/index/expanding-openai-academy-with-new-learning-paths"/>
+    <id>0e5bffe127e774d5ccad4399da5a7167</id>
+    <published>2026-09-21T07:00:00+00:00</published>
+    <updated>2026-09-21T07:00:00+00:00</updated>
+    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>tokenizers v1：编码、解码与扩展，实测 / tokenizers v1: encode, decode and scaling, measured</title>
+    <link href="https://huggingface.co/blog/tokenizers-v1"/>
+    <id>dc8a0d4b49532dfff464530fa9087770</id>
+    <published>2026-09-21T00:00:00+00:00</published>
+    <updated>2026-09-21T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.813\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>xAI 发布 Grok 4.7，主打编码与知识工作 / Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More</title>
+    <link href="https://x.ai/news/grok-4-7"/>
+    <id>ce7a585e557611c7f58e39c1c14dcdcd</id>
+    <published>2026-09-21T00:00:00+00:00</published>
+    <updated>2026-09-21T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.748\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
 </feed>

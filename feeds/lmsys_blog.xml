@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-09-10T00:00:00+00:00</updated>
+  <updated>2026-09-16T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Accelerating Long-Context and Agentic Inference with NVFP4 KV Cache</title>
+    <link href="https://lmsys.org/blog/2026-09-16-nvfp4-kv-cache"/>
+    <id>87e9611328d3dc35bb0391a3a5669d3c</id>
+    <published>2026-09-16T00:00:00+00:00</published>
+    <updated>2026-09-16T00:00:00+00:00</updated>
+    <summary type="text">The KV cache is a fundamental building block of the modern LLM inference system. The context from multiple conversation rounds in agent sessions is cached as keys and values (KV) in GPU memory, allowi...</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>SGLang and Miles Add Day-0 Support for DeepSeek-V4.1</title>
     <link href="https://lmsys.org/blog/2026-09-10-deepseek-v41"/>
