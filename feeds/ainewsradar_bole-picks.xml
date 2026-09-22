@@ -4,136 +4,102 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-21T20:18:52+00:00</updated>
+  <updated>2026-09-22T19:41:37.417000+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&amp;mid=2247484969&amp;idx=1&amp;sn=76c4757b26a2b646e1b690bf78c386d8"/>
-    <id>6bc00f1ba1f8392c3c6eb3668f4674de</id>
-    <published>2026-09-21T20:18:52+00:00</published>
-    <updated>2026-09-21T20:18:52+00:00</updated>
-    <summary type="text">Score: 0.772\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降 / GPT-6 Sol and Luna push the cost efficiency frontier</title>
+    <link href="https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier"/>
+    <id>e8bc970320e05893cd14c943364508ab</id>
+    <published>2026-09-22T19:41:37.417000+00:00</published>
+    <updated>2026-09-22T19:41:37.417000+00:00</updated>
+    <summary type="text">Score: 0.793\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…</title>
-    <link href="https://x.com/rohanpaul_ai/status/2102128625126605059"/>
-    <id>b8ff58d376be21094d94c6db819b51f8</id>
-    <published>2026-09-21T20:11:34+00:00</published>
-    <updated>2026-09-21T20:11:34+00:00</updated>
-    <summary type="text">Score: 0.783\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>小米 MiMo-V2.6-Pro 发布，登顶 Artificial Analysis 开源权重模型智能指数 / MiMo-V2.6-Pro debuts as the top open weights model on the Artificial Analysis Intelligence Index （46…</title>
-    <link href="https://x.com/ArtificialAnlys/status/2102128560962187701"/>
-    <id>27d28e47e5eb143860883a370d7ae448</id>
-    <published>2026-09-21T20:11:19+00:00</published>
-    <updated>2026-09-21T20:11:19+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7</title>
-    <link href="https://artificialanalysis.ai/articles/benchmarking-grok-4-7"/>
-    <id>75003bfac734335764898f33685a05f3</id>
-    <published>2026-09-21T19:41:25.079000+00:00</published>
-    <updated>2026-09-21T19:41:25.079000+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp;amp； OpenAI， for agentic coding. When factori…</title>
-    <link href="https://x.com/elonmusk/status/2102082011233931762"/>
-    <id>29d75f9a1182cdacf7d892d6752397d9</id>
-    <published>2026-09-21T17:06:20+00:00</published>
-    <updated>2026-09-21T17:06:20+00:00</updated>
-    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56 / Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…</title>
-    <link href="https://x.com/ArtificialAnlys/status/2102074898327932987"/>
-    <id>229cee1a3dfe6c11d4c2a78b733eae54</id>
-    <published>2026-09-21T16:38:05+00:00</published>
-    <updated>2026-09-21T16:38:05+00:00</updated>
-    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Grok 4.7 现已上线 GitHub Copilot / Grok 4.7 is now available in GitHub Copilot</title>
-    <link href="https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot"/>
-    <id>92cd6e67c493cf799d8a64c9040b25fd</id>
-    <published>2026-09-21T14:54:12+00:00</published>
-    <updated>2026-09-21T14:54:12+00:00</updated>
-    <summary type="text">Score: 0.845\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>像物理学家一样修剪LLM：把模块移除当作Ising优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
-    <link href="https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"/>
-    <id>2c30af2a0f78aef25566884a7da0fcc6</id>
-    <published>2026-09-21T13:44:34+00:00</published>
-    <updated>2026-09-21T13:44:34+00:00</updated>
-    <summary type="text">Score: 0.850\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up</title>
-    <link href="https://linear.app/now/ci-bottleneck-reworked"/>
-    <id>95ff6d31664f2b714d5f3b4cf95b8bc2</id>
-    <published>2026-09-21T12:26:00+00:00</published>
-    <updated>2026-09-21T12:26:00+00:00</updated>
-    <summary type="text">Score: 0.741\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children</title>
+    <link href="https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477"/>
+    <id>f793f23c3194f16f9b8d87d514b0f403</id>
+    <published>2026-09-22T19:03:38+00:00</published>
+    <updated>2026-09-22T19:03:38+00:00</updated>
+    <summary type="text">Score: 0.832\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Higgsfield AI 借助 GPT-6 Astra 一天内上线全新视频功能 / Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
-    <link href="https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"/>
-    <id>a90a90a23c04af64b8a0a5e04d9e640b</id>
-    <published>2026-09-21T12:00:00+00:00</published>
-    <updated>2026-09-21T12:00:00+00:00</updated>
-    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5</title>
+    <link href="https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release"/>
+    <id>cb18b38a7100b4538330be57063dbf7e</id>
+    <published>2026-09-22T18:59:35+00:00</published>
+    <updated>2026-09-22T18:59:35+00:00</updated>
+    <summary type="text">Score: 0.800\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>数学与人工智能咨询小组 / Advisory Group on Mathematics and Artificial Intelligence</title>
-    <link href="https://openai.com/index/advisory-group-on-mathematics-and-ai"/>
-    <id>4a7fbca2a199089b97e9b79cc786aa52</id>
-    <published>2026-09-21T12:00:00+00:00</published>
-    <updated>2026-09-21T12:00:00+00:00</updated>
-    <summary type="text">Score: 0.855\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…</title>
+    <link href="https://x.com/OpenRouter/status/2102463839283617992"/>
+    <id>24d07d0c6f485e90f3ca3ae210323585</id>
+    <published>2026-09-22T18:23:35+00:00</published>
+    <updated>2026-09-22T18:23:35+00:00</updated>
+    <summary type="text">Score: 0.778\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…</title>
+    <link href="https://x.com/ArtificialAnlys/status/2102462962758033624"/>
+    <id>4c7338a3cbb5d7a26816b5ae1e4842b2</id>
+    <published>2026-09-22T18:20:06+00:00</published>
+    <updated>2026-09-22T18:20:06+00:00</updated>
+    <summary type="text">Score: 0.799\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50% / GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…</title>
+    <link href="https://x.com/sherwinwu/status/2102462783707344907"/>
+    <id>6155297716065526682cbb9337e3c75f</id>
+    <published>2026-09-22T18:19:24+00:00</published>
+    <updated>2026-09-22T18:19:24+00:00</updated>
+    <summary type="text">Score: 0.778\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …</title>
+    <link href="https://x.com/ChatGPT/status/2102462020339613966"/>
+    <id>df7609ade6fd12d85b056e4dc47f73e6</id>
+    <published>2026-09-22T18:16:22+00:00</published>
+    <updated>2026-09-22T18:16:22+00:00</updated>
+    <summary type="text">Score: 0.778\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50% / Introducing GPT-6 Sol and Luna</title>
+    <link href="https://openai.com/index/introducing-gpt-6-sol-and-luna"/>
+    <id>46d2f9d21a4366f62a4aa4b3b5796fd9</id>
+    <published>2026-09-22T18:00:00+00:00</published>
+    <updated>2026-09-22T18:00:00+00:00</updated>
+    <summary type="text">Score: 0.904\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="multi_source"/>
@@ -142,57 +108,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Nathan Lambert 撰文分析开源模型的中美实力格局 / The current balance of power in open models</title>
-    <link href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open"/>
-    <id>d90f2864f4a13da83e147412f9648c1e</id>
-    <published>2026-09-21T11:56:56+00:00</published>
-    <updated>2026-09-21T11:56:56+00:00</updated>
-    <summary type="text">Score: 0.736\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级</title>
-    <link href="https://www.ithome.com/1/005/418.htm"/>
-    <id>22c1defe492e0f49ae3c5345bdee99f1</id>
-    <published>2026-09-21T11:52:52+00:00</published>
-    <updated>2026-09-21T11:52:52+00:00</updated>
-    <summary type="text">Score: 0.763\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上</title>
-    <link href="https://www.aibase.com/news/31241"/>
-    <id>5f08aea3ef1e0f874ba7511d231ccb2f</id>
-    <published>2026-09-21T10:44:34.815175+00:00</published>
-    <updated>2026-09-21T10:44:34.815175+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元</title>
-    <link href="https://www.aibase.com/news/31231"/>
-    <id>fc166727c661ed5232e34c0dd7fd3d0d</id>
-    <published>2026-09-21T10:44:34.815175+00:00</published>
-    <updated>2026-09-21T10:44:34.815175+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>为下一阶段 AI 建立标准 / Building standards for the next phase of AI</title>
-    <link href="https://openai.com/index/building-standards-next-phase-ai"/>
-    <id>8706a4ddb5e30005460d1eae64189671</id>
-    <published>2026-09-21T10:00:00+00:00</published>
-    <updated>2026-09-21T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Claude Opus 5.5 现已上线 GitHub Copilot / Claude Opus 5.5 is now available in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot"/>
+    <id>eeb40fcd1b48d37ace0f450b0b727e1a</id>
+    <published>2026-09-22T17:10:23+00:00</published>
+    <updated>2026-09-22T17:10:23+00:00</updated>
+    <summary type="text">Score: 0.852\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -200,23 +121,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线</title>
-    <link href="https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484344&amp;idx=1&amp;sn=047cf702ff02ab334e3ea2ba8e34b4a6"/>
-    <id>cb187ecef1f6dfedee44443f330ec970</id>
-    <published>2026-09-21T07:54:32+00:00</published>
-    <updated>2026-09-21T07:54:32+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI Academy 拓展全新学习路径 / Expanding OpenAI Academy with new learning paths</title>
-    <link href="https://openai.com/index/expanding-openai-academy-with-new-learning-paths"/>
-    <id>0e5bffe127e774d5ccad4399da5a7167</id>
-    <published>2026-09-21T07:00:00+00:00</published>
-    <updated>2026-09-21T07:00:00+00:00</updated>
-    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 现已推出 / OpenAI’s GPT-6 Sol and GPT-6 Luna now available</title>
+    <link href="https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available"/>
+    <id>fc53934aebe687e2a3f9daf202dcfbb6</id>
+    <published>2026-09-22T17:00:14+00:00</published>
+    <updated>2026-09-22T17:00:14+00:00</updated>
+    <summary type="text">Score: 0.852\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -224,28 +134,133 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>tokenizers v1：编码、解码与扩展，实测 / tokenizers v1: encode, decode and scaling, measured</title>
-    <link href="https://huggingface.co/blog/tokenizers-v1"/>
-    <id>dc8a0d4b49532dfff464530fa9087770</id>
-    <published>2026-09-21T00:00:00+00:00</published>
-    <updated>2026-09-21T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.813\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>xAI 发布 Grok 4.7，主打编码与知识工作 / Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More</title>
-    <link href="https://x.ai/news/grok-4-7"/>
-    <id>ce7a585e557611c7f58e39c1c14dcdcd</id>
-    <published>2026-09-21T00:00:00+00:00</published>
-    <updated>2026-09-21T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.748\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index</title>
+    <link href="https://artificialanalysis.ai/articles/claude-opus-5-5"/>
+    <id>8cc56ad21cffa53d467eac977eea6f08</id>
+    <published>2026-09-22T16:41:45+00:00</published>
+    <updated>2026-09-22T16:41:45+00:00</updated>
+    <summary type="text">Score: 0.825\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
     <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型</title>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.280"/>
+    <id>4c1b066dc6de0649790da56ac594b586</id>
+    <published>2026-09-22T16:38:14+00:00</published>
+    <updated>2026-09-22T16:38:14+00:00</updated>
+    <summary type="text">Score: 0.820\nSources: 2 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40% / Introducing Claude Opus 5.5</title>
+    <link href="https://www.anthropic.com/claude-opus-5-5"/>
+    <id>14140b586e90c28996fdd2c151e58f53</id>
+    <published>2026-09-22T16:29:05+00:00</published>
+    <updated>2026-09-22T16:29:05+00:00</updated>
+    <summary type="text">Score: 0.900\nSources: 3 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse</title>
+    <link href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day"/>
+    <id>b43e1df2a50dfefbff498d6c257c0dc0</id>
+    <published>2026-09-22T14:35:15+00:00</published>
+    <updated>2026-09-22T14:35:15+00:00</updated>
+    <summary type="text">Score: 0.837\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>SSH 的安全性改进 / Security improvements for SSH</title>
+    <link href="https://github.blog/changelog/2026-09-22-security-improvements-for-ssh"/>
+    <id>e6a505fb21d79837fb23b806a3d71676</id>
+    <published>2026-09-22T14:11:47+00:00</published>
+    <updated>2026-09-22T14:11:47+00:00</updated>
+    <summary type="text">Score: 0.829\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.156.0</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>86a9d3cdcbe543b4e4cd391f91a08c6d</id>
+    <published>2026-09-22T00:00:00+00:00</published>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GPT-6 的 Sol 和 Luna 已在 Codex 和 ChatGPT 中投入使用 / GPT-6 Sol and Luna in Codex and ChatGPT Work</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>626e6d0032a19f800f6097a0db124072</id>
+    <published>2026-09-22T00:00:00+00:00</published>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>UK AISI 与 EvalEval 如何让基准测试结果可复现 / How UK AISI and EvalEval Are Making Benchmark Results Reproducible</title>
+    <link href="https://huggingface.co/blog/evaleval-aisi"/>
+    <id>671eedf373d183ee9b46e7a327fbaae2</id>
+    <published>2026-09-22T00:00:00+00:00</published>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants</title>
+    <link href="https://huggingface.co/blog/transformers-llama-cpp-quants"/>
+    <id>beb3138ac33928c40d478900c78cf8a8</id>
+    <published>2026-09-22T00:00:00+00:00</published>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>有效第三方评估的优先事项与原则 / Priorities and principles for effective third party assessments</title>
+    <link href="https://openai.com/index/priorities-principles-third-party-assessments"/>
+    <id>20094d6e12e768e2e4cf8dc99989775c</id>
+    <published>2026-09-22T00:00:00+00:00</published>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.806\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
 </feed>

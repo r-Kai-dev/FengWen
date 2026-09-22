@@ -4,10 +4,18 @@
   <icon>https://cognition.com/favicon.ico</icon>
   <link href="https://cognition.com/blog"/>
   <id>https://cognition.com/blog</id>
-  <updated>2026-09-15T00:00:00+00:00</updated>
+  <updated>2026-09-22T00:00:00+00:00</updated>
   <author>
     <name>Cognition</name>
   </author>
+  <entry>
+    <title>Building the Future of Software Engineering in Latin America</title>
+    <link href="https://cognition.com/blog/devin-comes-to-sao-paulo"/>
+    <id>8213892d71885e76034e03ce59dff37a</id>
+    <published>2026-09-22T00:00:00+00:00</published>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <summary type="text">Cognition is expanding into Latin America, starting in São Paulo, building on years of work with the region’s largest banks, consumer leaders, and technology companies.</summary>
+  </entry>
   <entry>
     <title>Cognition and AWS team up to help ambitious teams ship more, faster</title>
     <link href="https://cognition.com/blog/aws-sca"/>
@@ -22,7 +30,6 @@
     <id>482665770328abb269d8d9b848173795</id>
     <published>2026-09-11T00:00:00+00:00</published>
     <updated>2026-09-11T00:00:00+00:00</updated>
-    <summary type="text">Fusion is the most efficient frontier harness for Fable and Astra, up to 39% more efficient compared to other model harnesses across major coding benchmarks. Today, we’re making it available in Devin Desktop and CLI.</summary>
   </entry>
   <entry>
     <title>Introducing SWE-2: Pushing the Pareto Frontier</title>
@@ -38,6 +45,7 @@
     <id>55e879c9fb8796454dbc20a3868300f5</id>
     <published>2026-09-10T00:00:00+00:00</published>
     <updated>2026-09-10T00:00:00+00:00</updated>
+    <summary type="text">Jonathan Kelley and the Dioxus team are joining Cognition. We will continue supporting Dioxus, Blitz, Taffy, and Subsecond while increasing investment in Dioxus-Native and Blitz.</summary>
   </entry>
   <entry>
     <title>Factoring RSA-260</title>

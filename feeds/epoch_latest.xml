@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-09-18T00:00:00+00:00</updated>
+  <updated>2026-09-22T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>The plunging price of thought</title>
+    <link href="https://epoch.ai/publications/the-plunging-price-of-thought"/>
+    <id>cf3abdea77842ad89c2b806be62c8e3b</id>
+    <published>2026-09-22T00:00:00+00:00</published>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <summary type="text">Epoch AI measures how fast the cost of a given level of AI performance is falling across five benchmarks covering math, science and games of skill: about 47% per quarter, or 13x per year, since 2023, faster than electricity, compute, batteries or DNA sequencing ever fell.</summary>
+    <category term="Report"/>
+  </entry>
   <entry>
     <title>In August, 25% of math preprints acknowledged AI use, up from 4% in April</title>
     <link href="https://epoch.ai/data-insights/math-preprints-disclosed-ai-use"/>
@@ -88,13 +97,5 @@
     <updated>2026-09-04T00:00:00+00:00</updated>
     <summary type="text">Huawei plans major gains in AI chip performance by 2030, but US export controls cap its most important scaling levers. Epoch AI estimates Huawei will produce less than 4% as much AI compute as Nvidia in 2026, a share that could be around 1% by 2028 without access to foreign memory.</summary>
     <category term="Report"/>
-  </entry>
-  <entry>
-    <title>The ECI frontier has advanced by 14 points per year since the introduction of reasoning models</title>
-    <link href="https://epoch.ai/data-insights/eci-frontier-trend"/>
-    <id>eb33b18bb1b8abef47d53225fc088ca2</id>
-    <published>2026-09-01T00:00:00+00:00</published>
-    <updated>2026-09-01T00:00:00+00:00</updated>
-    <category term="Data Insight"/>
   </entry>
 </feed>

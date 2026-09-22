@@ -4,10 +4,20 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-09-10</updated>
+  <updated>2026-09-22</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>SWE-Bench Pro V2: A Cleaner, Harder-to-Game Leaderboard</title>
+    <link href="https://labs.scale.com/blog/swe-bench-pro-v2"/>
+    <id>3adb4d4890cd0109381b3b3694905f23</id>
+    <published>2026-09-22</published>
+    <updated>2026-09-22</updated>
+    <summary type="text">When SWE Bench Pro originally launched a little over a year ago, it was a significant entry into the open source benchmark space and changed how the field measured coding agents. 
+However, we know that benchmarks built on open source GitHub issues have real limitations. We see that as a reason to keep iterating on SWE Bench Pro rather than retire it.  — By Soham Dan, Jeff Da, Sanyam Bhutani, Miguel Romero Calvo, Ying Liu, Daniel Yue Zhang</summary>
+    <category term="Evaluation and Alignment"/>
+  </entry>
   <entry>
     <title>RUBRIC DROPOUT: A SIMPLE WAY TO MITIGATE REWARD HACKING IN RUBRIC-AS-REWARD RL</title>
     <link href="https://labs.scale.com/blog/rubric-dropout"/>
