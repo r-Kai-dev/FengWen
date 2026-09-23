@@ -4,10 +4,19 @@
   <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
   <link href="https://www.figma.com/blog/"/>
   <id>https://www.figma.com/blog/</id>
-  <updated>2026-09-21T17:24:00.000Z</updated>
+  <updated>2026-09-23T15:56:00.000Z</updated>
   <author>
-    <name>Figma</name>
+    <name>David Curran</name>
   </author>
+  <entry>
+    <title>The power of product-based learning</title>
+    <link href="https://www.figma.com/blog/the-power-of-product-based-learning/"/>
+    <id>25c778b2c1fec16ec417c409f4dfacb4</id>
+    <published>2026-09-23T15:56:00.000Z</published>
+    <updated>2026-09-23T15:56:00.000Z</updated>
+    <summary type="text">There’s a big difference between having an idea and making it real, and in that space is where learning happens. Here’s how teachers are using Figma to give their students hands-on design experiences.</summary>
+    <category term="Working Well"/>
+  </entry>
   <entry>
     <title>Source material: Graphic designer Aitana Picó wants us to appreciate bad trends</title>
     <link href="https://www.figma.com/blog/source-material-aitana-pico/"/>
@@ -25,15 +34,6 @@
     <updated>2026-09-16T12:00:00.000Z</updated>
     <summary type="text">Community publishing is now live for Weave tools. Here are a few tools that stand out, from turning a moodboard into a realistic room mockup to previewing your next nail set.</summary>
     <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>How Coinbase used Code Connect to guide agents and shrink token costs</title>
-    <link href="https://www.figma.com/blog/how-coinbase-used-code-connect-to-shrink-token-costs/"/>
-    <id>794d075eb7aa40ab2c26b8553abd9f0f</id>
-    <published>2026-09-02T20:28:00.000Z</published>
-    <updated>2026-09-02T20:28:00.000Z</updated>
-    <summary type="text">The Coinbase Design System team put Code Connect to the test against coding agents—and found that it boosted design system adherence while cutting token costs by an average of 22.5%.</summary>
-    <category term="Maker Stories"/>
   </entry>
   <entry>
     <title>Digital tools, human expression: The visual identity behind Config 2026</title>

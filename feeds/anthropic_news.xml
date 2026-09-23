@@ -4,10 +4,26 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-09-18T00:00:00+00:00</updated>
+  <updated>2026-09-23T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
+    <link href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"/>
+    <id>0daf5c74f779e601c781370b6b72c256</id>
+    <published>2026-09-23T00:00:00+00:00</published>
+    <updated>2026-09-23T00:00:00+00:00</updated>
+    <category term="Science"/>
+  </entry>
+  <entry>
+    <title>The Situation Report</title>
+    <link href="https://www.anthropic.com/news/ebola-response"/>
+    <id>21bce6406c70d042883fd108188ed88a</id>
+    <published>2026-09-22T00:00:00+00:00</published>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <category term="Features"/>
+  </entry>
   <entry>
     <title>Partnering with Accenture on embedded evaluation</title>
     <link href="https://www.anthropic.com/news/accenture-embedded-evaluation"/>
@@ -95,13 +111,5 @@
     <published>2026-08-07T00:00:00+00:00</published>
     <updated>2026-08-07T00:00:00+00:00</updated>
     <category term="Product"/>
-  </entry>
-  <entry>
-    <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
-    <link href="https://www.anthropic.com/news/tino-cuellar"/>
-    <id>90902858b87fb4e2d320650f511de513</id>
-    <published>2026-08-04T00:00:00+00:00</published>
-    <updated>2026-08-04T00:00:00+00:00</updated>
-    <category term="Announcements"/>
   </entry>
 </feed>

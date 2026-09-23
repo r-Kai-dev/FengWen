@@ -4,10 +4,19 @@
   <icon>https://hunyuan-blog-web-prod-1258344703.cos.ap-guangzhou.myqcloud.com/favicon.png</icon>
   <link href="https://hunyuan.tencent.com/research"/>
   <id>https://hunyuan.tencent.com/research</id>
-  <updated>2026-08-27T16:00:00+00:00</updated>
+  <updated>2026-09-21T16:00:00+00:00</updated>
   <author>
     <name>Tencent Hunyuan</name>
   </author>
+  <entry>
+    <title>When Do Larger Batches Help Scale LLM Reinforcement Learning?</title>
+    <link href="https://hunyuan.tencent.com/research/100116"/>
+    <id>4b09168a93bd3fa29fd59267aa4bf96e</id>
+    <published>2026-09-21T16:00:00+00:00</published>
+    <updated>2026-09-21T16:00:00+00:00</updated>
+    <summary type="text">Larger batches expose more parallelism by processing more sequences per update, but under a fixed sample budget, they also leave fewer opportunities to update the model. When does this trade-off reduce wall-clock time-to-target in reinforcement learning? For large language models, answering this question requires accounting for the online generation of training trajectories and the computational asymmetry between generation and training. We develop a framework that connects samples-to-target with end-to-end throughput: a larger batch accelerates training only when its throughput gain exceeds its samples-to-target penalty. This framework also suggests a simple practical strategy—first establish approximate batch-size invariance, then optimize throughput within that regime. Experiments with </summary>
+    <category term="RL Team"/>
+  </entry>
   <entry>
     <title>Introducing Hy4 preview</title>
     <link href="https://hunyuan.tencent.com/research/hy4-preview"/>

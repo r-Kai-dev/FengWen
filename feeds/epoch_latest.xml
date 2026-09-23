@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-09-22T00:00:00+00:00</updated>
+  <updated>2026-09-23T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Can AI Spot Mistakes in IKEA Assembly?</title>
+    <link href="https://epoch.ai/publications/furniture-assembly"/>
+    <id>4068ea92dff5bb7490dfa942068d3fbc</id>
+    <published>2026-09-23T00:00:00+00:00</published>
+    <updated>2026-09-23T00:00:00+00:00</updated>
+    <summary type="text">AI model scores on Epoch AI's IKEA furniture assembly benchmark jumped from 28% to 80% in 10 months, with open-weight models trailing closed-weight models by about 7 months. Epoch AI's test of visual and spatial reasoning across 60 photos from three furniture builds.</summary>
+    <category term="Report"/>
+  </entry>
   <entry>
     <title>The plunging price of thought</title>
     <link href="https://epoch.ai/publications/the-plunging-price-of-thought"/>
@@ -88,14 +97,5 @@
     <updated>2026-09-04T00:00:00+00:00</updated>
     <summary type="text">Since mid-2024, the record for the largest AI data center by IT power capacity has doubled every ten months. Epoch AI's analysis of frontier data center power trends through 2028.</summary>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>Will Huawei catch up to Nvidia by 2030?</title>
-    <link href="https://epoch.ai/publications/huaweis-roadmap-to-2031"/>
-    <id>0296545e2af87e4e77b04db1726a3ce5</id>
-    <published>2026-09-04T00:00:00+00:00</published>
-    <updated>2026-09-04T00:00:00+00:00</updated>
-    <summary type="text">Huawei plans major gains in AI chip performance by 2030, but US export controls cap its most important scaling levers. Epoch AI estimates Huawei will produce less than 4% as much AI compute as Nvidia in 2026, a share that could be around 1% by 2028 without access to foreign memory.</summary>
-    <category term="Report"/>
   </entry>
 </feed>
