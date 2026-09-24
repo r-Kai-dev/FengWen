@@ -4,10 +4,37 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-09-14T00:00:00+00:00</updated>
+  <updated>2026-09-24T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>Camera Movement Prompt Guide: Shot Language For Video Models</title>
+    <link href="https://ltx.io/blog/camera-movement-prompt-guide"/>
+    <id>0eb83fa97365c177866405a64342f869</id>
+    <published>2026-09-24T00:00:00+00:00</published>
+    <updated>2026-09-24T00:00:00+00:00</updated>
+    <summary type="text">Camera movement types, shot sizes and blocking, written as prompt text an LTX-2.5 model acts on. Where camera terms belong, and how long a move can hold.</summary>
+    <category term="Prompting Guides"/>
+  </entry>
+  <entry>
+    <title>Best Open Source Text-to-Speech Models</title>
+    <link href="https://ltx.io/blog/best-open-source-text-to-speech-models"/>
+    <id>621ac6f83b78d9b4980f14106c3fb886</id>
+    <published>2026-09-22T00:00:00+00:00</published>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <summary type="text">Six open source text to speech models compared on licence, languages, voice cloning and footprint, with the licence traps that decide what you can ship.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>How To Make Longer AI Videos</title>
+    <link href="https://ltx.io/blog/how-to-make-longer-ai-videos"/>
+    <id>660b778ebce5dd6bc1a5690e9639c7df</id>
+    <published>2026-09-19T00:00:00+00:00</published>
+    <updated>2026-09-19T00:00:00+00:00</updated>
+    <summary type="text">Longer AI videos come from chaining LTX-2.5 generations. Here are the three documented methods, the frame-count rule, and how to hide the seams cleanly.</summary>
+    <category term="Tutorials"/>
+  </entry>
   <entry>
     <title>Should I Rent, Buy Or Burst My GPU: GPU Costs For Video Generation</title>
     <link href="https://ltx.io/blog/gpu-costs-for-video-generation"/>
@@ -87,6 +114,24 @@
     <published>2026-09-06T00:00:00+00:00</published>
     <updated>2026-09-06T00:00:00+00:00</updated>
     <summary type="text">Video-to-video AI with open models. How the LTX-2.5 pipelines restyle footage, hold structure and render HDR output, and which one to run for a given job.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>What Is Model Distillation? Dev vs Distilled Explained</title>
+    <link href="https://ltx.io/blog/what-is-model-distillation"/>
+    <id>77e9a94173d71c58d3ba5b1391409a7a</id>
+    <published>2026-09-06T00:00:00+00:00</published>
+    <updated>2026-09-06T00:00:00+00:00</updated>
+    <summary type="text">Model distillation explained for video generation, and exactly how the LTX-2.5 dev and distilled transformers differ on steps, pipelines and memory use.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>LTX-2.5 VRAM &amp; Cost Calculator</title>
+    <link href="https://ltx.io/blog/ltx-vram-cost-calculator"/>
+    <id>77a5aef938977fce143e14c247df76be</id>
+    <published>2026-09-05T00:00:00+00:00</published>
+    <updated>2026-09-05T00:00:00+00:00</updated>
+    <summary type="text">Work out exactly how much VRAM LTX-2.5 needs for your resolution and clip length, what your levers are when it does not fit, and what a generation costs.</summary>
     <category term="Production"/>
   </entry>
   <entry>
@@ -394,50 +439,5 @@
     <updated>2026-07-30T00:00:00+00:00</updated>
     <summary type="text">This chapter steps off the path. A control LoRA is driven at inference by a reference video.</summary>
     <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>Relight Exterior Footage to Any Sun Direction: Relight IC-LoRA For LTX-2.3</title>
-    <link href="https://ltx.io/blog/relight-exterior-footage-to-any-sun-direction"/>
-    <id>873ecd1de9719e8b001a85d53b67add3</id>
-    <published>2026-07-29T00:00:00+00:00</published>
-    <updated>2026-07-29T00:00:00+00:00</updated>
-    <summary type="text">Relight IC-LoRA for LTX-2.3 rewrites sunlight in exterior footage to any direction and look using a light-direction sphere. Full relight in a single pass.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Remove People and Shadows from Video: Clean Plate LoRA</title>
-    <link href="https://ltx.io/blog/remove-people-and-shadows-from-video"/>
-    <id>713d916ce2371cd7fa2d71cec2b417b3</id>
-    <published>2026-07-29T00:00:00+00:00</published>
-    <updated>2026-07-29T00:00:00+00:00</updated>
-    <summary type="text">Clean Plate LoRA for LTX-2.3 removes people, vehicles, and their shadows from video, then inpaints a seamless background in a single pass. No manual roto.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Turn Static Frames Into Looping Motion: Cinemagraph LoRA</title>
-    <link href="https://ltx.io/blog/turn-static-frames-into-looping-motion"/>
-    <id>b6651f32c0ed1613b2427daea8015a66</id>
-    <published>2026-07-29T00:00:00+00:00</published>
-    <updated>2026-07-29T00:00:00+00:00</updated>
-    <summary type="text">Cinemagraph LoRA for LTX-2.3: animate a single element while everything else stays perfectly frozen. Generate seamless loops from one image and prompt.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>What Is Conditioning in Generative AI (2026 Guide)?</title>
-    <link href="https://ltx.io/blog/conditioning-in-generative-ai"/>
-    <id>498e65565c6517bbcfc1a695d2ff8e10</id>
-    <published>2026-07-29T00:00:00+00:00</published>
-    <updated>2026-07-29T00:00:00+00:00</updated>
-    <summary type="text">Conditioning provides the control signals that guide an AI video model toward a desired result. Learn how it works in LTX.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Best 6 Text To Video AI Generators (2026)</title>
-    <link href="https://ltx.io/blog/best-text-to-video-ai"/>
-    <id>cf93f7f05674fb77fc5610374181db84</id>
-    <published>2026-07-28T00:00:00+00:00</published>
-    <updated>2026-07-28T00:00:00+00:00</updated>
-    <summary type="text">Discover the best text to video AI tools of 2026. Transform scripts and text into professional videos—features, quality, and pricing compared.</summary>
-    <category term="Production"/>
   </entry>
 </feed>

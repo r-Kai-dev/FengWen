@@ -4,12 +4,21 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-09-23T00:00:00+00:00</updated>
+  <updated>2026-09-24T23:42:23.605651+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
   <entry>
-    <title>Can AI Spot Mistakes in IKEA Assembly?</title>
+    <title>Sep. 24, 2026</title>
+    <link href="https://epoch.ai/publications/huaweis-roadmap-to-2031"/>
+    <id>0296545e2af87e4e77b04db1726a3ce5</id>
+    <published>2026-09-24T23:42:23.605651+00:00</published>
+    <updated>2026-09-24T23:42:23.605651+00:00</updated>
+    <summary type="text">Huawei plans major gains in AI chip performance by 2030, but US export controls cap its most important scaling levers. Epoch AI estimates Huawei will produce less than 4% as much AI compute as Nvidia in 2026, a share that could be around 1% by 2028 without access to foreign memory.</summary>
+    <category term="Report"/>
+  </entry>
+  <entry>
+    <title>Can AI spot mistakes in IKEA assembly?</title>
     <link href="https://epoch.ai/publications/furniture-assembly"/>
     <id>4068ea92dff5bb7490dfa942068d3fbc</id>
     <published>2026-09-23T00:00:00+00:00</published>
@@ -88,14 +97,5 @@
     <updated>2026-09-08T00:00:00+00:00</updated>
     <summary type="text">Epoch AI measures long-context latency scaling across four frontier models. GPT-5.6 Terra and Sol show quadratic time-to-first-token growth with context length, while Claude Sonnet 5 and Opus 5 stay near-linear.</summary>
     <category term="Report"/>
-  </entry>
-  <entry>
-    <title>Largest AI Data Center Power: Doubling every 10 months</title>
-    <link href="https://epoch.ai/data-insights/frontier-data-center-power"/>
-    <id>b61d41efa58113892c05892108e0efa6</id>
-    <published>2026-09-04T00:00:00+00:00</published>
-    <updated>2026-09-04T00:00:00+00:00</updated>
-    <summary type="text">Since mid-2024, the record for the largest AI data center by IT power capacity has doubled every ten months. Epoch AI's analysis of frontier data center power trends through 2028.</summary>
-    <category term="Data Insight"/>
   </entry>
 </feed>

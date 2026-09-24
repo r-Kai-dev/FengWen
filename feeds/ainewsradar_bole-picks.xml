@@ -4,29 +4,17 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-23T18:46:48+00:00</updated>
+  <updated>2026-09-24T20:00:00+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…</title>
-    <link href="https://x.com/rohanpaul_ai/status/2102832068157984990"/>
-    <id>3be930264f81d5f9d5282dd8a7001501</id>
-    <published>2026-09-23T18:46:48+00:00</published>
-    <updated>2026-09-23T18:46:48+00:00</updated>
-    <summary type="text">Score: 0.790\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>如何使用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</title>
-    <link href="https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"/>
-    <id>ca12d5a7691508f9dffbf37c1fe9f3d8</id>
-    <published>2026-09-23T18:41:40+00:00</published>
-    <updated>2026-09-23T18:41:40+00:00</updated>
-    <summary type="text">Score: 0.866\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>当聊天是错误的 UI 时 / When chat is the wrong UI</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui"/>
+    <id>6521bb79e01d061bf56c92b36c643422</id>
+    <published>2026-09-24T20:00:00+00:00</published>
+    <updated>2026-09-24T20:00:00+00:00</updated>
+    <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -34,176 +22,11 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>在 GitHub Copilot 应用中渲染巨型拉取请求 / Rendering huge pull requests in the GitHub Copilot app</title>
-    <link href="https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app"/>
-    <id>52b93b0cbdc52e8a5d61fdba7902dacd</id>
-    <published>2026-09-23T18:29:49+00:00</published>
-    <updated>2026-09-23T18:29:49+00:00</updated>
-    <summary type="text">Score: 0.847\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats</title>
-    <link href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"/>
-    <id>aa7a2baae2f3dc66b1c4e78700c88558</id>
-    <published>2026-09-23T18:06:47+00:00</published>
-    <updated>2026-09-23T18:06:47+00:00</updated>
-    <summary type="text">Score: 0.882\nSources: 3 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：</title>
-    <link href="https://x.com/gdb/status/2102821706041819401"/>
-    <id>46f2b48038baf03aa94983ca635dc2ce</id>
-    <published>2026-09-23T18:05:37+00:00</published>
-    <updated>2026-09-23T18:05:37+00:00</updated>
-    <summary type="text">Score: 0.774\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google Beam 扩展至新地区，新增合作伙伴与客户 / Google Beam expands with new regions, partners, and customers</title>
-    <link href="https://blog.google/innovation-and-ai/technology/research/google-beam-expansion"/>
-    <id>5899e5b18a94d227a72dd1df600ebd91</id>
-    <published>2026-09-23T18:00:00+00:00</published>
-    <updated>2026-09-23T18:00:00+00:00</updated>
-    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…</title>
-    <link href="https://x.com/thsottiaux/status/2102814202117411196"/>
-    <id>07d1301b3e26c39c50c21258071c60ec</id>
-    <published>2026-09-23T17:35:48+00:00</published>
-    <updated>2026-09-23T17:35:48+00:00</updated>
-    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK</title>
-    <link href="https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk"/>
-    <id>27e51971b184aa397db4dcd02e48a413</id>
-    <published>2026-09-23T17:09:01.108000+00:00</published>
-    <updated>2026-09-23T17:09:01.108000+00:00</updated>
-    <summary type="text">Score: 0.802\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名 / Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…</title>
-    <link href="https://x.com/arena/status/2102806554340974612"/>
-    <id>8fd19603563a2a93fec3e59229e9aa68</id>
-    <published>2026-09-23T17:05:25+00:00</published>
-    <updated>2026-09-23T17:05:25+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>以安全的服务器端内存推进 Private AI Compute / Advancing Private AI Compute with secure, server-side memory</title>
-    <link href="https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"/>
-    <id>3e9eb0470c77d1e706e34b569902a1fb</id>
-    <published>2026-09-23T16:00:57+00:00</published>
-    <updated>2026-09-23T16:00:57+00:00</updated>
-    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Two years of OpenAI Academy</title>
-    <link href="https://openai.com/index/two-years-of-openai-academy"/>
-    <id>dd2f1e9fa127e6b8298fc2ac992efcaf</id>
-    <published>2026-09-23T16:00:00+00:00</published>
-    <updated>2026-09-23T16:00:00+00:00</updated>
-    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello</title>
-    <link href="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech"/>
-    <id>f1e770378dbbfbb91b24cd676c262eae</id>
-    <published>2026-09-23T15:25:14+00:00</published>
-    <updated>2026-09-23T15:25:14+00:00</updated>
-    <summary type="text">Score: 0.840\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot 应用中的本地沙箱 / Local sandboxing in the GitHub Copilot app</title>
-    <link href="https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app"/>
-    <id>86f7926980986d74e981ae8e3875c328</id>
-    <published>2026-09-23T15:00:57+00:00</published>
-    <updated>2026-09-23T15:00:57+00:00</updated>
-    <summary type="text">Score: 0.845\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>谁在何时说话一目了然：用 NVIDIA Nemotron 3 Diarization 构建实时多说话人 AI / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**</title>
-    <link href="https://huggingface.co/blog/nvidia/nemotron-diarization"/>
-    <id>074d219948eceae57d4cfe52e3cc4468</id>
-    <published>2026-09-23T13:17:01+00:00</published>
-    <updated>2026-09-23T13:17:01+00:00</updated>
-    <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Harvey 借助 GPT-6 Astra 将法律语境转化为更优质的文书草稿 / Harvey turns legal context into stronger drafts with GPT-6 Astra</title>
-    <link href="https://openai.com/index/harvey-from-context-to-confidence-with-astra"/>
-    <id>7baf9b4e20a5b38913ae8834b813da2e</id>
-    <published>2026-09-23T12:00:00+00:00</published>
-    <updated>2026-09-23T12:00:00+00:00</updated>
-    <summary type="text">Score: 0.845\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>invideo 如何借助 GPT‑6 Astra 将调色效率提升 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra</title>
-    <link href="https://openai.com/index/invideo-builds-with-gpt-6-astra"/>
-    <id>b6f0bdfc5e5fa012605b9891897e7081</id>
-    <published>2026-09-23T12:00:00+00:00</published>
-    <updated>2026-09-23T12:00:00+00:00</updated>
+    <title>GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</title>
+    <link href="https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent"/>
+    <id>053004cdba43338db504e32138bbf3d0</id>
+    <published>2026-09-24T18:26:12+00:00</published>
+    <updated>2026-09-24T18:26:12+00:00</updated>
     <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -212,24 +35,24 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks</title>
-    <link href="https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks"/>
-    <id>37365c606b614a0b85fb3f4a465fa046</id>
-    <published>2026-09-23T05:18:36+00:00</published>
-    <updated>2026-09-23T05:18:36+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
+    <link href="https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context"/>
+    <id>4e5107a96ea18adc4030e53ec6b3cbc6</id>
+    <published>2026-09-24T16:38:37.757000+00:00</published>
+    <updated>2026-09-24T16:38:37.757000+00:00</updated>
+    <summary type="text">Score: 0.758\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenTelemetry 在 GitHub Copilot 应用中的应用 / OpenTelemetry in the GitHub Copilot app</title>
-    <link href="https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app"/>
-    <id>fec9849721d7b827f0251d6c1c8c7050</id>
-    <published>2026-09-23T02:14:54+00:00</published>
-    <updated>2026-09-23T02:14:54+00:00</updated>
-    <summary type="text">Score: 0.810\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>推出搭载 Live Avatar 的 Gemini 3.8 Live / Introducing Gemini 3.8 Live with Live Avatar</title>
+    <link href="https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar"/>
+    <id>96d4744753a9dd6484448719b4c4886e</id>
+    <published>2026-09-24T16:20:39+00:00</published>
+    <updated>2026-09-24T16:20:39+00:00</updated>
+    <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -237,12 +60,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Codex CLI 0.156.1</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>db7f947d4bc1d353fd784efddb061a95</id>
-    <published>2026-09-23T00:00:00+00:00</published>
-    <updated>2026-09-23T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark</title>
+    <link href="https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"/>
+    <id>01b502532bac4c21ca7eb39053e96e3d</id>
+    <published>2026-09-24T14:08:57+00:00</published>
+    <updated>2026-09-24T14:08:57+00:00</updated>
+    <summary type="text">Score: 0.850\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -250,16 +73,180 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war</title>
-    <link href="https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna"/>
-    <id>d4ecfeeb9f7bb36b39882803433fab7b</id>
-    <published>2026-09-22T23:46:41+00:00</published>
-    <updated>2026-09-22T23:46:41+00:00</updated>
-    <summary type="text">Score: 0.773\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face</title>
+    <link href="https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face"/>
+    <id>0dc033699d09543694f99ec8340b81af</id>
+    <published>2026-09-24T14:01:05+00:00</published>
+    <updated>2026-09-24T14:01:05+00:00</updated>
+    <summary type="text">Score: 0.799\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law</title>
+    <link href="https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law"/>
+    <id>5d480555216fbd43e6cf51022442e5b1</id>
+    <published>2026-09-24T12:54:19+00:00</published>
+    <updated>2026-09-24T12:54:19+00:00</updated>
+    <summary type="text">Score: 0.800\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / &quot;I think the answer is we have to shut the labs down&quot; - Jensen Huang</title>
+    <link href="https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to"/>
+    <id>121d174625f72af41ccd992c492a6e9d</id>
+    <published>2026-09-24T12:27:50+00:00</published>
+    <updated>2026-09-24T12:27:50+00:00</updated>
+    <summary type="text">Score: 0.739\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式</title>
+    <link href="https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"/>
+    <id>146350f07d6abf3f8482ac9adfa1be56</id>
+    <published>2026-09-24T11:54:38+00:00</published>
+    <updated>2026-09-24T11:54:38+00:00</updated>
+    <summary type="text">Score: 0.847\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件</title>
+    <link href="https://www.aibase.com/news/31347"/>
+    <id>c25a9fd4be938ebf6717eb5b8a8d8845</id>
+    <published>2026-09-24T10:01:40.207549+00:00</published>
+    <updated>2026-09-24T10:01:40.207549+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
     <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga</title>
+    <link href="https://x.com/Thom_Wolf/status/2103054896438136973"/>
+    <id>8352831f6443fa0680d1d7e55ca07c5e</id>
+    <published>2026-09-24T09:32:14+00:00</published>
+    <updated>2026-09-24T09:32:14+00:00</updated>
+    <summary type="text">Score: 0.780\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…</title>
+    <link href="https://x.com/arena/status/2102952767614779403"/>
+    <id>9d53f17fd1755a56987b3e783afeb85e</id>
+    <published>2026-09-24T02:46:25+00:00</published>
+    <updated>2026-09-24T02:46:25+00:00</updated>
+    <summary type="text">Score: 0.748\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…</title>
+    <link href="https://x.com/ClaudeDevs/status/2102940480736821610"/>
+    <id>bba31678d47dd259025951af8e4e0ea4</id>
+    <published>2026-09-24T01:57:36+00:00</published>
+    <updated>2026-09-24T01:57:36+00:00</updated>
+    <summary type="text">Score: 0.756\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 称与苹果的 ChatGPT 合作表现远低于预期</title>
+    <link href="https://www.ithome.com/1/006/548.htm"/>
+    <id>eee72f5315f3570dab8ac6fb6fe49805</id>
+    <published>2026-09-24T01:12:13+00:00</published>
+    <updated>2026-09-24T01:12:13+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It</title>
+    <link href="https://openrouter.ai/blog/insights/kimi-k3-open-source"/>
+    <id>f0a7d5ad6f8f9f53b17c2f6ad43f37b9</id>
+    <published>2026-09-24T00:00:00+00:00</published>
+    <updated>2026-09-24T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.736\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…</title>
+    <link href="https://x.com/natolambert/status/2102872133244183038"/>
+    <id>48d7f9ab5c3c1587bfe09ef19d2a2f4c</id>
+    <published>2026-09-23T21:26:00+00:00</published>
+    <updated>2026-09-23T21:26:00+00:00</updated>
+    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>更多请求和配置 Copilot 代码审查的方式 / More ways to request and configure Copilot code reviews</title>
+    <link href="https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews"/>
+    <id>8d63b030be4f1d41c9e8d5fc2873f655</id>
+    <published>2026-09-23T21:25:58+00:00</published>
+    <updated>2026-09-23T21:25:58+00:00</updated>
+    <summary type="text">Score: 0.801\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…</title>
+    <link href="https://x.com/ClaudeDevs/status/2102871550974427462"/>
+    <id>bf791f804d05ded6cf60f33b4af6366d</id>
+    <published>2026-09-23T21:23:41+00:00</published>
+    <updated>2026-09-23T21:23:41+00:00</updated>
+    <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</title>
+    <link href="https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"/>
+    <id>022fbdf8db86a281e8ea2709877ae0e1</id>
+    <published>2026-09-23T21:01:48+00:00</published>
+    <updated>2026-09-23T21:01:48+00:00</updated>
+    <summary type="text">Score: 0.805\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Node 20 在 GitHub Actions 中已不再可用 / Node 20 is no longer available in GitHub Actions</title>
+    <link href="https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions"/>
+    <id>2a946f2b678308b4c0c4a39876a0d433</id>
+    <published>2026-09-23T20:46:07+00:00</published>
+    <updated>2026-09-23T20:46:07+00:00</updated>
+    <summary type="text">Score: 0.792\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
 </feed>
