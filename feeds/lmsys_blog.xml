@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-09-16T00:00:00+00:00</updated>
+  <updated>2026-09-25T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Scaling JEV-like Decision Models with SGLang</title>
+    <link href="https://lmsys.org/blog/2026-09-25-sglang-decision-models"/>
+    <id>4c35589b46c74366c2746b690b26b24d</id>
+    <published>2026-09-25T00:00:00+00:00</published>
+    <updated>2026-09-25T00:00:00+00:00</updated>
+    <summary type="text">A customer asks whether an order has shipped. An agent already has the order ID and three possible next actions: query the order-status service, search general delivery-policy documentation, or ask th...</summary>
+    <category term="technical"/>
+  </entry>
   <entry>
     <title>Accelerating Long-Context and Agentic Inference with NVFP4 KV Cache</title>
     <link href="https://lmsys.org/blog/2026-09-16-nvfp4-kv-cache"/>

@@ -11,7 +11,7 @@
     <id>724b2d7bf0e2ecceeaea6a90c51f7385</id>
     <published>2026-09-16T20:00:00.000Z</published>
     <updated>2026-09-16T20:00:00.000Z</updated>
-    <summary type="text">As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedb... \u00b7 Upvotes: 130 \u00b7 GitHub Stars: 3034 \u00b7 Authors: Haozhe Liu, Tian Ye, Sensen Gao</summary>
+    <summary type="text">As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedb... \u00b7 Upvotes: 130 \u00b7 GitHub Stars: 3072 \u00b7 Authors: Haozhe Liu, Tian Ye, Sensen Gao</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +21,7 @@
     <id>6dce6615efc3decdf4b6653cb0f6824a</id>
     <published>2026-09-14T20:00:00.000Z</published>
     <updated>2026-09-14T20:00:00.000Z</updated>
-    <summary type="text">We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMN... \u00b7 Upvotes: 740 \u00b7 GitHub Stars: 4278 \u00b7 Authors: Xingxuan Zhang, Gang Ren, Hao Yuan</summary>
+    <summary type="text">We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMN... \u00b7 Upvotes: 753 \u00b7 GitHub Stars: 4288 \u00b7 Authors: Xingxuan Zhang, Gang Ren, Hao Yuan</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +31,7 @@
     <id>dacca5abf83fddb0a182c5e1498bcc7b</id>
     <published>2026-09-13T20:00:00.000Z</published>
     <updated>2026-09-13T20:00:00.000Z</updated>
-    <summary type="text">As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers. We introduce Atria Dawn Preview, a foundati... \u00b7 Upvotes: 425 \u00b7 GitHub Stars: 551 \u00b7 Authors: Honglin Guo, Tao Gui, Yicheng Chen</summary>
+    <summary type="text">As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers. We introduce Atria Dawn Preview, a foundati... \u00b7 Upvotes: 426 \u00b7 GitHub Stars: 553 \u00b7 Authors: Honglin Guo, Tao Gui, Yicheng Chen</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,17 +41,17 @@
     <id>0173b994e7eaffb8ddae4ce62dee9ef9</id>
     <published>2026-09-09T20:00:00.000Z</published>
     <updated>2026-09-09T20:00:00.000Z</updated>
-    <summary type="text">We present Vidu S2, which comprises Vidu S2-Avatar, a real-time interactive digital-character model, and Vidu S2-Editing, a real-time video editing model. Moreover, we explore the feasibility of real-... \u00b7 Upvotes: 698 \u00b7 GitHub Stars: 489 \u00b7 Authors: Jintao Zhang, Kai Jiang, Jintao Chen</summary>
+    <summary type="text">We present Vidu S2, which comprises Vidu S2-Avatar, a real-time interactive digital-character model, and Vidu S2-Editing, a real-time video editing model. Moreover, we explore the feasibility of real-... \u00b7 Upvotes: 699 \u00b7 GitHub Stars: 494 \u00b7 Authors: Jintao Zhang, Kai Jiang, Jintao Chen</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
   <entry>
-    <title>Continual Learning Mechanisms Compose for Long-Horizon Memorization</title>
-    <link href="https://arxiv.org/abs/2609.06986"/>
-    <id>174ce03889017ff52fd406211737e6a7</id>
-    <published>2026-09-06T20:00:00.000Z</published>
-    <updated>2026-09-06T20:00:00.000Z</updated>
-    <summary type="text">Language models may need to internalize information that arrives over time and retain it through many subsequent updates. To study this challenge, we introduce long-horizon memorization, a setting in ... \u00b7 Upvotes: 373 \u00b7 GitHub Stars: 21 \u00b7 Authors: Zheyuan Zhang, Alvin Zhang, Daniel Khashabi</summary>
+    <title>Miles v0.1: Production-Level Post-Training</title>
+    <link href="https://arxiv.org/abs/2609.08368"/>
+    <id>46bb7a10e61a4113d482d3eb7775dd57</id>
+    <published>2026-09-07T20:00:00.000Z</published>
+    <updated>2026-09-07T20:00:00.000Z</updated>
+    <summary type="text">We present Miles v0.1, a full-stack, production-ready system for frontier post-training. Building upon the clean design of slime, Miles designs each stage of the reinforcement-learning (RL) training l... \u00b7 Upvotes: 58 \u00b7 GitHub Stars: 2987 \u00b7 Authors: RadixArk, Tom Chen, Mao Cheng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +61,17 @@
     <id>3e5d741d1b190d14e8530671ddbd8c12</id>
     <published>2026-09-01T20:00:00.000Z</published>
     <updated>2026-09-01T20:00:00.000Z</updated>
-    <summary type="text">Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this... \u00b7 Upvotes: 391 \u00b7 GitHub Stars: 307 \u00b7 Authors: Jianlyu Chen, Yuyang Hu, Hongjin Qian</summary>
+    <summary type="text">Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this... \u00b7 Upvotes: 391 \u00b7 GitHub Stars: 309 \u00b7 Authors: Jianlyu Chen, Yuyang Hu, Hongjin Qian</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>StudentSim: Training LLM-based Student Simulators</title>
+    <link href="https://arxiv.org/abs/2609.01591"/>
+    <id>7577abb1e2d6b8f8a59bcbf22dcd8e94</id>
+    <published>2026-08-31T20:00:00.000Z</published>
+    <updated>2026-08-31T20:00:00.000Z</updated>
+    <summary type="text">AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to coll... \u00b7 Upvotes: 387 \u00b7 GitHub Stars: 49 \u00b7 Authors: Ke Yang, Chenglong Wang, Michel Galley</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,37 +91,27 @@
     <id>cd835cba923694921226974cedf74e88</id>
     <published>2026-08-26T20:00:00.000Z</published>
     <updated>2026-08-26T20:00:00.000Z</updated>
-    <summary type="text">Scaling robot data is crucial for building generalist Vision-Language-Action (VLA) models, yet robot trajectories are harder to scale than web-scale image-text data because embodied collection is cost... \u00b7 Upvotes: 83 \u00b7 GitHub Stars: 3724 \u00b7 Authors: Senqiao Yang, Chengyao Wang, Yuxin Chen</summary>
+    <summary type="text">Scaling robot data is crucial for building generalist Vision-Language-Action (VLA) models, yet robot trajectories are harder to scale than web-scale image-text data because embodied collection is cost... \u00b7 Upvotes: 83 \u00b7 GitHub Stars: 3728 \u00b7 Authors: Senqiao Yang, Chengyao Wang, Yuxin Chen</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
   <entry>
-    <title>Apodex 1.1: Scaling Agentic Intelligence for Complex Work</title>
-    <link href="https://arxiv.org/abs/2608.23283"/>
-    <id>1923605c7199f0451128ae229434481c</id>
-    <published>2026-08-23T20:00:00.000Z</published>
-    <updated>2026-08-23T20:00:00.000Z</updated>
-    <summary type="text">General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state main... \u00b7 Upvotes: 210 \u00b7 GitHub Stars: 4592 \u00b7 Authors: Apodex Team, B. An, B. Li</summary>
+    <title>VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction</title>
+    <link href="https://arxiv.org/abs/2608.26005"/>
+    <id>c64c1878c92c10c5b00eb5732fdd742a</id>
+    <published>2026-08-25T20:00:00.000Z</published>
+    <updated>2026-08-25T20:00:00.000Z</updated>
+    <summary type="text">Conversational systems, such as duplex speech language models (SLMs), still lack a streaming, accurate, and empathetic memory system as their soul. We introduce VoiceMem, a simple memory architecture ... \u00b7 Upvotes: 162 \u00b7 GitHub Stars: 2354 \u00b7 Authors: Zhifei Xie, Jiaqi Lang, Ze An</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
   <entry>
-    <title>Prime Agent: A Self-Improving RLM Harness</title>
-    <link href="https://arxiv.org/abs/2608.23552"/>
-    <id>a43e1614250242d15ddc73077e4814bf</id>
-    <published>2026-08-23T20:00:00.000Z</published>
-    <updated>2026-08-23T20:00:00.000Z</updated>
-    <summary type="text">Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long... \u00b7 Upvotes: 56 \u00b7 GitHub Stars: 21277 \u00b7 Authors: Seth Karten, Alex L. Zhang, Kevin Thomas</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>AutoResearch: Insight In, Hallucination Out</title>
-    <link href="https://arxiv.org/abs/2608.17906"/>
-    <id>e462be794d17e39b74611333ab7830d0</id>
-    <published>2026-08-22T20:00:00.000Z</published>
-    <updated>2026-08-22T20:00:00.000Z</updated>
-    <summary type="text">Autonomous research systems are increasingly capable of executing long research workflows, yet automation alone does not ensure that the resulting process remains scientifically grounded. We introduce... \u00b7 Upvotes: 24 \u00b7 GitHub Stars: 3245 \u00b7 Authors: Yiming Ren, Xiang Liu, Qumeng Sun</summary>
+    <title>GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture</title>
+    <link href="https://arxiv.org/abs/2608.15875"/>
+    <id>1baf6dbae514d7ad8ad4de62979178d2</id>
+    <published>2026-08-15T20:00:00.000Z</published>
+    <updated>2026-08-15T20:00:00.000Z</updated>
+    <summary type="text">Vision-language-action (VLA) models have become a dominant paradigm for generalist embodied agents, demonstrating strong complex and long-horizon task completion in structured settings. Yet it remains... \u00b7 Upvotes: 39 \u00b7 GitHub Stars: 2660 \u00b7 Authors: GigaBrain Team, Angen Ye, Axiang Sun</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-09-24T00:00:00+00:00</updated>
+  <updated>2026-09-25T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Yes, Claude can do Nine Loops</title>
+    <link href="https://www.anthropic.com/research/yes-claude-can-do-nine-loops"/>
+    <id>e49f13343fd51222c0a5cd34efbfd0f1</id>
+    <published>2026-09-25T00:00:00+00:00</published>
+    <updated>2026-09-25T00:00:00+00:00</updated>
+    <category term="Science"/>
+  </entry>
   <entry>
     <title>Project Swap: What happens when agents trade for us?</title>
     <link href="https://www.anthropic.com/research/project-swap"/>
@@ -94,13 +102,5 @@
     <published>2026-08-13T00:00:00+00:00</published>
     <updated>2026-08-13T00:00:00+00:00</updated>
     <category term="Frontier Red Team"/>
-  </entry>
-  <entry>
-    <title>Reviewing the evidence on worker retraining programs</title>
-    <link href="https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs"/>
-    <id>3e3eb6b1f6e9db93d0b1c0f1e8f9fb76</id>
-    <published>2026-08-12T00:00:00+00:00</published>
-    <updated>2026-08-12T00:00:00+00:00</updated>
-    <category term="Economics"/>
   </entry>
 </feed>

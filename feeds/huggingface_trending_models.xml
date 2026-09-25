@@ -4,184 +4,184 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/models"/>
   <id>https://huggingface.co/models</id>
-  <updated>2026-09-24T23:41:54.187083+00:00</updated>
-  <entry>
-    <title>harshatheg/Qwen-2.5-1B-RLCD</title>
-    <link href="https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD"/>
-    <id>ccf61d4cb555b8291cd76ca8f25b291f</id>
-    <published>2026-09-24T23:41:54.187083+00:00</published>
-    <updated>2026-09-24T23:41:54.187083+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Likes: 565</summary>
-    <category term="text-generation"/>
-  </entry>
+  <updated>2026-09-25T23:43:27.626082+00:00</updated>
   <entry>
     <title>yandex/AliceAI-Foundation-80B-A3B-Base</title>
     <link href="https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base"/>
     <id>de13a06756eaa808bd3b25e17038e63e</id>
-    <published>2026-09-24T23:41:54.187079+00:00</published>
-    <updated>2026-09-24T23:41:54.187079+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 2,678 \u00b7 Likes: 321</summary>
+    <published>2026-09-25T23:43:27.626082+00:00</published>
+    <updated>2026-09-25T23:43:27.626082+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 2,911 \u00b7 Likes: 333</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>netease-youdao/Confucius4-R2T2</title>
     <link href="https://huggingface.co/netease-youdao/Confucius4-R2T2"/>
     <id>d16b59c5b89f1e94b093ea3124ca2e8f</id>
-    <published>2026-09-24T23:41:54.187074+00:00</published>
-    <updated>2026-09-24T23:41:54.187074+00:00</updated>
-    <summary type="text">Type: automatic-speech-recognition \u00b7 Downloads: 4,930 \u00b7 Likes: 390</summary>
+    <published>2026-09-25T23:43:27.626075+00:00</published>
+    <updated>2026-09-25T23:43:27.626075+00:00</updated>
+    <summary type="text">Type: automatic-speech-recognition \u00b7 Downloads: 5,827 \u00b7 Likes: 410</summary>
     <category term="automatic-speech-recognition"/>
   </entry>
   <entry>
-    <title>prism-ml/Ternary-Bonsai-2-27B-mlx-2bit</title>
-    <link href="https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-mlx-2bit"/>
-    <id>301fc6bc7ab5b5b7825895b2378e2c8d</id>
-    <published>2026-09-24T23:41:54.187069+00:00</published>
-    <updated>2026-09-24T23:41:54.187069+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 51,644 \u00b7 Likes: 368</summary>
-    <category term="text-generation"/>
+    <title>nvidia/Nemotron-3-Diarization</title>
+    <link href="https://huggingface.co/nvidia/Nemotron-3-Diarization"/>
+    <id>f6416dce3148c48364e22c1b50114273</id>
+    <published>2026-09-25T23:43:27.626068+00:00</published>
+    <updated>2026-09-25T23:43:27.626068+00:00</updated>
+    <summary type="text">Type: voice-activity-detection \u00b7 Downloads: 11,459 \u00b7 Likes: 340</summary>
+    <category term="voice-activity-detection"/>
   </entry>
   <entry>
     <title>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF</title>
     <link href="https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF"/>
     <id>46403a33814727d8c736fef5481405e2</id>
-    <published>2026-09-24T23:41:54.187065+00:00</published>
-    <updated>2026-09-24T23:41:54.187065+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 1,465,429 \u00b7 Likes: 1654</summary>
+    <published>2026-09-25T23:43:27.626061+00:00</published>
+    <updated>2026-09-25T23:43:27.626061+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 1,510,016 \u00b7 Likes: 1701</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>Lightricks/LTX-2.5</title>
     <link href="https://huggingface.co/Lightricks/LTX-2.5"/>
     <id>ad1ed3b785225533b61ac0d0743b44dd</id>
-    <published>2026-09-24T23:41:54.187060+00:00</published>
-    <updated>2026-09-24T23:41:54.187060+00:00</updated>
-    <summary type="text">Type: image-to-video \u00b7 Downloads: 1,637,601 \u00b7 Likes: 5003</summary>
+    <published>2026-09-25T23:43:27.626055+00:00</published>
+    <updated>2026-09-25T23:43:27.626055+00:00</updated>
+    <summary type="text">Type: image-to-video \u00b7 Downloads: 1,598,133 \u00b7 Likes: 5104</summary>
     <category term="image-to-video"/>
-  </entry>
-  <entry>
-    <title>XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B</title>
-    <link href="https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B"/>
-    <id>302b631f5d0b1976eee9de6f4cc4ebff</id>
-    <published>2026-09-24T23:41:54.187056+00:00</published>
-    <updated>2026-09-24T23:41:54.187056+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 5,705 \u00b7 Likes: 429</summary>
-    <category term="image-text-to-text"/>
-  </entry>
-  <entry>
-    <title>XiaomiMiMo/MiMo-V2.6-Flash-RL</title>
-    <link href="https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL"/>
-    <id>df535e79da8bf765cf0e1373d19ac3f8</id>
-    <published>2026-09-24T23:41:54.187051+00:00</published>
-    <updated>2026-09-24T23:41:54.187051+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 18,821 \u00b7 Likes: 446</summary>
-    <category term="text-generation"/>
-  </entry>
-  <entry>
-    <title>AlexWortega/openjev</title>
-    <link href="https://huggingface.co/AlexWortega/openjev"/>
-    <id>70c636dd8d2394367357ec82dac85fd3</id>
-    <published>2026-09-24T23:41:54.187046+00:00</published>
-    <updated>2026-09-24T23:41:54.187046+00:00</updated>
-    <summary type="text">Type: text-classification \u00b7 Likes: 555</summary>
-    <category term="text-classification"/>
-  </entry>
-  <entry>
-    <title>XiaomiMiMo/MiMo-V2.6-Pro-RL</title>
-    <link href="https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL"/>
-    <id>1be6e89517bdf3e2c49bf5f2ef752837</id>
-    <published>2026-09-24T23:41:54.187041+00:00</published>
-    <updated>2026-09-24T23:41:54.187041+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 9,841 \u00b7 Likes: 477</summary>
-    <category term="text-generation"/>
-  </entry>
-  <entry>
-    <title>TaichuAI/ZDTaichu5.0-9B</title>
-    <link href="https://huggingface.co/TaichuAI/ZDTaichu5.0-9B"/>
-    <id>d2d0f60f4ffc0a2362b3dfcb92ea7614</id>
-    <published>2026-09-24T23:41:54.187036+00:00</published>
-    <updated>2026-09-24T23:41:54.187036+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 8,313 \u00b7 Likes: 1039</summary>
-    <category term="image-text-to-text"/>
-  </entry>
-  <entry>
-    <title>Qwen/Qwen3.8-27B</title>
-    <link href="https://huggingface.co/Qwen/Qwen3.8-27B"/>
-    <id>89a437a1253842104936226abc840781</id>
-    <published>2026-09-24T23:41:54.187031+00:00</published>
-    <updated>2026-09-24T23:41:54.187031+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 6,765,008 \u00b7 Likes: 16219</summary>
-    <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>deepseek-ai/DeepSeek-V4.1-Flash</title>
     <link href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"/>
     <id>d293112e34c463f5f1a1298100c1132d</id>
-    <published>2026-09-24T23:41:54.187026+00:00</published>
-    <updated>2026-09-24T23:41:54.187026+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 606,028 \u00b7 Likes: 3714</summary>
+    <published>2026-09-25T23:43:27.626048+00:00</published>
+    <updated>2026-09-25T23:43:27.626048+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 621,396 \u00b7 Likes: 3752</summary>
     <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>AlexWortega/openjev</title>
+    <link href="https://huggingface.co/AlexWortega/openjev"/>
+    <id>70c636dd8d2394367357ec82dac85fd3</id>
+    <published>2026-09-25T23:43:27.626041+00:00</published>
+    <updated>2026-09-25T23:43:27.626041+00:00</updated>
+    <summary type="text">Type: text-classification \u00b7 Likes: 577</summary>
+    <category term="text-classification"/>
+  </entry>
+  <entry>
+    <title>XiaomiMiMo/MiMo-V2.6-Flash-RL</title>
+    <link href="https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL"/>
+    <id>df535e79da8bf765cf0e1373d19ac3f8</id>
+    <published>2026-09-25T23:43:27.626034+00:00</published>
+    <updated>2026-09-25T23:43:27.626034+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 20,473 \u00b7 Likes: 462</summary>
+    <category term="text-generation"/>
+  </entry>
+  <entry>
+    <title>Qwen/Qwen3.8-27B</title>
+    <link href="https://huggingface.co/Qwen/Qwen3.8-27B"/>
+    <id>89a437a1253842104936226abc840781</id>
+    <published>2026-09-25T23:43:27.626028+00:00</published>
+    <updated>2026-09-25T23:43:27.626028+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 6,579,319 \u00b7 Likes: 16280</summary>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B</title>
+    <link href="https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B"/>
+    <id>302b631f5d0b1976eee9de6f4cc4ebff</id>
+    <published>2026-09-25T23:43:27.626021+00:00</published>
+    <updated>2026-09-25T23:43:27.626021+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 6,652 \u00b7 Likes: 477</summary>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>TaichuAI/ZDTaichu5.0-9B</title>
+    <link href="https://huggingface.co/TaichuAI/ZDTaichu5.0-9B"/>
+    <id>d2d0f60f4ffc0a2362b3dfcb92ea7614</id>
+    <published>2026-09-25T23:43:27.626014+00:00</published>
+    <updated>2026-09-25T23:43:27.626014+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 9,498 \u00b7 Likes: 1048</summary>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>XiaomiMiMo/MiMo-V2.6-Pro-RL</title>
+    <link href="https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL"/>
+    <id>1be6e89517bdf3e2c49bf5f2ef752837</id>
+    <published>2026-09-25T23:43:27.626007+00:00</published>
+    <updated>2026-09-25T23:43:27.626007+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 42,062 \u00b7 Likes: 498</summary>
+    <category term="text-generation"/>
+  </entry>
+  <entry>
+    <title>Edge0/Audio8-ASR-Infinite</title>
+    <link href="https://huggingface.co/Edge0/Audio8-ASR-Infinite"/>
+    <id>c0446c70bc114f62f963d7968a788625</id>
+    <published>2026-09-25T23:43:27.626000+00:00</published>
+    <updated>2026-09-25T23:43:27.626000+00:00</updated>
+    <summary type="text">Type: automatic-speech-recognition \u00b7 Downloads: 2,853 \u00b7 Likes: 551</summary>
+    <category term="automatic-speech-recognition"/>
   </entry>
   <entry>
     <title>Altworld/Hemmingway-1</title>
     <link href="https://huggingface.co/Altworld/Hemmingway-1"/>
     <id>1bd51a5b17ea1c0a47d97a47aba13bb5</id>
-    <published>2026-09-24T23:41:54.187021+00:00</published>
-    <updated>2026-09-24T23:41:54.187021+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 4,541 \u00b7 Likes: 631</summary>
+    <published>2026-09-25T23:43:27.625990+00:00</published>
+    <updated>2026-09-25T23:43:27.625990+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 4,978 \u00b7 Likes: 675</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>Comfy-Org/Qwen-Image-2.1</title>
     <link href="https://huggingface.co/Comfy-Org/Qwen-Image-2.1"/>
     <id>4e1a85768dc1f8a3034a24b52a2bc297</id>
-    <published>2026-09-24T23:41:54.187017+00:00</published>
-    <updated>2026-09-24T23:41:54.187017+00:00</updated>
-    <summary type="text">Downloads: 2,858,923 \u00b7 Likes: 682</summary>
+    <published>2026-09-25T23:43:27.625982+00:00</published>
+    <updated>2026-09-25T23:43:27.625982+00:00</updated>
+    <summary type="text">Downloads: 3,266,380 \u00b7 Likes: 734</summary>
+  </entry>
+  <entry>
+    <title>prism-ml/Ternary-Bonsai-2-27B-gguf</title>
+    <link href="https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf"/>
+    <id>890aa4c098ae42d9aa046e1ec3eade16</id>
+    <published>2026-09-25T23:43:27.625974+00:00</published>
+    <updated>2026-09-25T23:43:27.625974+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 3,109,078 \u00b7 Likes: 2089</summary>
+    <category term="text-generation"/>
   </entry>
   <entry>
     <title>XingChen-AGI/Xing4.0-29B-A4B</title>
     <link href="https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B"/>
     <id>200dd9f77e49c9ea0de1eded741ed995</id>
-    <published>2026-09-24T23:41:54.187011+00:00</published>
-    <updated>2026-09-24T23:41:54.187011+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 41,923 \u00b7 Likes: 1646</summary>
+    <published>2026-09-25T23:43:27.625963+00:00</published>
+    <updated>2026-09-25T23:43:27.625963+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 42,950 \u00b7 Likes: 1685</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
     <link href="https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"/>
     <id>41b1452975878c8b0d325db022235393</id>
-    <published>2026-09-24T23:41:54.187006+00:00</published>
-    <updated>2026-09-24T23:41:54.187006+00:00</updated>
-    <summary type="text">Type: text-to-image \u00b7 Downloads: 575,697 \u00b7 Likes: 1627</summary>
+    <published>2026-09-25T23:43:27.625955+00:00</published>
+    <updated>2026-09-25T23:43:27.625955+00:00</updated>
+    <summary type="text">Type: text-to-image \u00b7 Downloads: 715,906 \u00b7 Likes: 1782</summary>
     <category term="text-to-image"/>
-  </entry>
-  <entry>
-    <title>prism-ml/Ternary-Bonsai-2-27B-gguf</title>
-    <link href="https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf"/>
-    <id>890aa4c098ae42d9aa046e1ec3eade16</id>
-    <published>2026-09-24T23:41:54.186998+00:00</published>
-    <updated>2026-09-24T23:41:54.186998+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 2,991,233 \u00b7 Likes: 2038</summary>
-    <category term="text-generation"/>
   </entry>
   <entry>
     <title>Qwen/Qwen-Image-2.1</title>
     <link href="https://huggingface.co/Qwen/Qwen-Image-2.1"/>
     <id>c6234579b9e8eadac18d701f92edfe22</id>
-    <published>2026-09-24T23:41:54.186990+00:00</published>
-    <updated>2026-09-24T23:41:54.186990+00:00</updated>
-    <summary type="text">Type: text-to-image \u00b7 Downloads: 37,618 \u00b7 Likes: 2192</summary>
+    <published>2026-09-25T23:43:27.625944+00:00</published>
+    <updated>2026-09-25T23:43:27.625944+00:00</updated>
+    <summary type="text">Type: text-to-image \u00b7 Downloads: 42,469 \u00b7 Likes: 2319</summary>
     <category term="text-to-image"/>
   </entry>
   <entry>
     <title>convaiinnovations/laya</title>
     <link href="https://huggingface.co/convaiinnovations/laya"/>
     <id>960dfa0d756cbba230d9dbb4bd4b3e55</id>
-    <published>2026-09-24T23:41:54.186961+00:00</published>
-    <updated>2026-09-24T23:41:54.186961+00:00</updated>
-    <summary type="text">Type: text-classification \u00b7 Likes: 3393</summary>
+    <published>2026-09-25T23:43:27.625913+00:00</published>
+    <updated>2026-09-25T23:43:27.625913+00:00</updated>
+    <summary type="text">Type: text-classification \u00b7 Likes: 3680</summary>
     <category term="text-classification"/>
   </entry>
 </feed>

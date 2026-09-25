@@ -4,54 +4,140 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-24T20:00:00+00:00</updated>
+  <updated>2026-09-25T19:48:56+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>当聊天是错误的 UI 时 / When chat is the wrong UI</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui"/>
-    <id>6521bb79e01d061bf56c92b36c643422</id>
-    <published>2026-09-24T20:00:00+00:00</published>
-    <updated>2026-09-24T20:00:00+00:00</updated>
-    <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</title>
-    <link href="https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent"/>
-    <id>053004cdba43338db504e32138bbf3d0</id>
-    <published>2026-09-24T18:26:12+00:00</published>
-    <updated>2026-09-24T18:26:12+00:00</updated>
-    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
-    <link href="https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context"/>
-    <id>4e5107a96ea18adc4030e53ec6b3cbc6</id>
-    <published>2026-09-24T16:38:37.757000+00:00</published>
-    <updated>2026-09-24T16:38:37.757000+00:00</updated>
-    <summary type="text">Score: 0.758\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿 / GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…</title>
+    <link href="https://x.com/arena/status/2103572481206538439"/>
+    <id>3062ff6364c54e7141f975ab0d5895df</id>
+    <published>2026-09-25T19:48:56+00:00</published>
+    <updated>2026-09-25T19:48:56+00:00</updated>
+    <summary type="text">Score: 0.751\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>推出搭载 Live Avatar 的 Gemini 3.8 Live / Introducing Gemini 3.8 Live with Live Avatar</title>
-    <link href="https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar"/>
-    <id>96d4744753a9dd6484448719b4c4886e</id>
-    <published>2026-09-24T16:20:39+00:00</published>
-    <updated>2026-09-24T16:20:39+00:00</updated>
+    <title>Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…</title>
+    <link href="https://x.com/sama/status/2103567198690349362"/>
+    <id>2e246912e07b72978c04fc5e02b509cc</id>
+    <published>2026-09-25T19:27:57+00:00</published>
+    <updated>2026-09-25T19:27:57+00:00</updated>
+    <summary type="text">Score: 0.756\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Proaction 借助 Codex 拉动销售额增长 60%，省下 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex</title>
+    <link href="https://openai.com/index/proaction"/>
+    <id>68dc2e00cc7506f0cf2e38a83c889dc9</id>
+    <published>2026-09-25T19:00:00+00:00</published>
+    <updated>2026-09-25T19:00:00+00:00</updated>
+    <summary type="text">Score: 0.856\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GitHub Actions API 和 UI 中的查询结果变更 / Changes to query results in the GitHub Actions API and UI</title>
+    <link href="https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui"/>
+    <id>3fc6cd4d784930471cfa1d7b044ba240</id>
+    <published>2026-09-25T18:17:06+00:00</published>
+    <updated>2026-09-25T18:17:06+00:00</updated>
+    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…</title>
+    <link href="https://x.com/ClaudeDevs/status/2103548467729887677"/>
+    <id>dd0a9cfa32d9053089b05dea0c9c2b89</id>
+    <published>2026-09-25T18:13:31+00:00</published>
+    <updated>2026-09-25T18:13:31+00:00</updated>
+    <summary type="text">Score: 0.792\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude</title>
+    <link href="https://claude.com/blog/build-plugins-for-claude"/>
+    <id>a38f36050032bef234e84d90f33ae62f</id>
+    <published>2026-09-25T18:09:06.824000+00:00</published>
+    <updated>2026-09-25T18:09:06.824000+00:00</updated>
+    <summary type="text">Score: 0.732\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流 / GitHub Copilot app for Beginners: How to build custom workflows with canvases</title>
+    <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases"/>
+    <id>258cb5eae28949fb40790b5eac0ec2a7</id>
+    <published>2026-09-25T18:00:00+00:00</published>
+    <updated>2026-09-25T18:00:00+00:00</updated>
+    <summary type="text">Score: 0.871\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops</title>
+    <link href="https://www.anthropic.com/research/yes-claude-can-do-nine-loops"/>
+    <id>8e0e40c4ebebebbdcfb8f8e5b061bdac</id>
+    <published>2026-09-25T17:59:19.824000+00:00</published>
+    <updated>2026-09-25T17:59:19.824000+00:00</updated>
+    <summary type="text">Score: 0.817\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…</title>
+    <link href="https://x.com/AnthropicAI/status/2103541577083719888"/>
+    <id>ea0fee69ee1cbdc24fbf213ea5bdb689</id>
+    <published>2026-09-25T17:46:08+00:00</published>
+    <updated>2026-09-25T17:46:08+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Agent 自动修复现已支持 Copilot Memory / Agentic autofix now uses Copilot Memory</title>
+    <link href="https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory"/>
+    <id>0bd897f5a36da3ddfcee714360cb4a64</id>
+    <published>2026-09-25T17:25:50+00:00</published>
+    <updated>2026-09-25T17:25:50+00:00</updated>
+    <summary type="text">Score: 0.844\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot 每周发布 — 9月21日 / GitHub Copilot weekly releases — September 21</title>
+    <link href="https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21"/>
+    <id>16c0f1cee5c5f58be91e474345a47a6e</id>
+    <published>2026-09-25T16:42:48+00:00</published>
+    <updated>2026-09-25T16:42:48+00:00</updated>
     <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -60,12 +146,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark</title>
-    <link href="https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"/>
-    <id>01b502532bac4c21ca7eb39053e96e3d</id>
-    <published>2026-09-24T14:08:57+00:00</published>
-    <updated>2026-09-24T14:08:57+00:00</updated>
-    <summary type="text">Score: 0.850\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GitHub Copilot 的 Slack 和 Microsoft Teams 集成更新 / Updates to GitHub Copilot for Slack and Microsoft Teams</title>
+    <link href="https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams"/>
+    <id>f34e89715deded1a169d51e0142af1e7</id>
+    <published>2026-09-25T16:33:42+00:00</published>
+    <updated>2026-09-25T16:33:42+00:00</updated>
+    <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -73,47 +159,50 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face</title>
-    <link href="https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face"/>
-    <id>0dc033699d09543694f99ec8340b81af</id>
-    <published>2026-09-24T14:01:05+00:00</published>
-    <updated>2026-09-24T14:01:05+00:00</updated>
-    <summary type="text">Score: 0.799\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts</title>
+    <link href="https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts"/>
+    <id>48e930b0343d3e096ffa54b210134778</id>
+    <published>2026-09-25T15:48:14+00:00</published>
+    <updated>2026-09-25T15:48:14+00:00</updated>
+    <summary type="text">Score: 0.808\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate</title>
+    <link href="https://cognition.com/blog/1b-run-rate"/>
+    <id>841864016d3bdd85d1120d3816f6e634</id>
+    <published>2026-09-25T15:42:15.643000+00:00</published>
+    <updated>2026-09-25T15:42:15.643000+00:00</updated>
+    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law</title>
-    <link href="https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law"/>
-    <id>5d480555216fbd43e6cf51022442e5b1</id>
-    <published>2026-09-24T12:54:19+00:00</published>
-    <updated>2026-09-24T12:54:19+00:00</updated>
-    <summary type="text">Score: 0.800\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Anthropic 创始人拟在 IPO 前谋求投票控制权 / Anthropic's founders seek voting control ahead of IPO</title>
+    <link href="https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo"/>
+    <id>f934ee852211b6cbb6f4d6dc27b9fd0c</id>
+    <published>2026-09-25T15:40:03+00:00</published>
+    <updated>2026-09-25T15:40:03+00:00</updated>
+    <summary type="text">Score: 0.792\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
+    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / &quot;I think the answer is we have to shut the labs down&quot; - Jensen Huang</title>
-    <link href="https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to"/>
-    <id>121d174625f72af41ccd992c492a6e9d</id>
-    <published>2026-09-24T12:27:50+00:00</published>
-    <updated>2026-09-24T12:27:50+00:00</updated>
-    <summary type="text">Score: 0.739\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式</title>
-    <link href="https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"/>
-    <id>146350f07d6abf3f8482ac9adfa1be56</id>
-    <published>2026-09-24T11:54:38+00:00</published>
-    <updated>2026-09-24T11:54:38+00:00</updated>
-    <summary type="text">Score: 0.847\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
+    <title>美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk</title>
+    <link href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"/>
+    <id>18b6a67f1cae40a47edd300b9c96f257</id>
+    <published>2026-09-25T15:29:25+00:00</published>
+    <updated>2026-09-25T15:29:25+00:00</updated>
+    <summary type="text">Score: 0.826\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -121,128 +210,47 @@
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件</title>
-    <link href="https://www.aibase.com/news/31347"/>
-    <id>c25a9fd4be938ebf6717eb5b8a8d8845</id>
-    <published>2026-09-24T10:01:40.207549+00:00</published>
-    <updated>2026-09-24T10:01:40.207549+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…</title>
+    <link href="https://x.com/satyanadella/status/2103455884366188544"/>
+    <id>1f4b9c7682ebb7c5b91ef2be950e8336</id>
+    <published>2026-09-25T12:05:37+00:00</published>
+    <updated>2026-09-25T12:05:37+00:00</updated>
+    <summary type="text">Score: 0.732\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga</title>
-    <link href="https://x.com/Thom_Wolf/status/2103054896438136973"/>
-    <id>8352831f6443fa0680d1d7e55ca07c5e</id>
-    <published>2026-09-24T09:32:14+00:00</published>
-    <updated>2026-09-24T09:32:14+00:00</updated>
-    <summary type="text">Score: 0.780\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议 / Trump admin using AI to deny medical care for seniors in disastrous experiment</title>
+    <link href="https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment"/>
+    <id>135456ae6b89334d185c332808aaff2a</id>
+    <published>2026-09-25T11:00:28+00:00</published>
+    <updated>2026-09-25T11:00:28+00:00</updated>
+    <summary type="text">Score: 0.786\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…</title>
-    <link href="https://x.com/arena/status/2102952767614779403"/>
-    <id>9d53f17fd1755a56987b3e783afeb85e</id>
-    <published>2026-09-24T02:46:25+00:00</published>
-    <updated>2026-09-24T02:46:25+00:00</updated>
-    <summary type="text">Score: 0.748\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站</title>
+    <link href="https://www.ithome.com/1/007/144.htm"/>
+    <id>d99eb3779a5e8cdd8d82f1d1038fdfd2</id>
+    <published>2026-09-25T07:02:05+00:00</published>
+    <updated>2026-09-25T07:02:05+00:00</updated>
+    <summary type="text">Score: 0.757\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…</title>
-    <link href="https://x.com/ClaudeDevs/status/2102940480736821610"/>
-    <id>bba31678d47dd259025951af8e4e0ea4</id>
-    <published>2026-09-24T01:57:36+00:00</published>
-    <updated>2026-09-24T01:57:36+00:00</updated>
-    <summary type="text">Score: 0.756\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 称与苹果的 ChatGPT 合作表现远低于预期</title>
-    <link href="https://www.ithome.com/1/006/548.htm"/>
-    <id>eee72f5315f3570dab8ac6fb6fe49805</id>
-    <published>2026-09-24T01:12:13+00:00</published>
-    <updated>2026-09-24T01:12:13+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It</title>
-    <link href="https://openrouter.ai/blog/insights/kimi-k3-open-source"/>
-    <id>f0a7d5ad6f8f9f53b17c2f6ad43f37b9</id>
-    <published>2026-09-24T00:00:00+00:00</published>
-    <updated>2026-09-24T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.736\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…</title>
-    <link href="https://x.com/natolambert/status/2102872133244183038"/>
-    <id>48d7f9ab5c3c1587bfe09ef19d2a2f4c</id>
-    <published>2026-09-23T21:26:00+00:00</published>
-    <updated>2026-09-23T21:26:00+00:00</updated>
-    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>更多请求和配置 Copilot 代码审查的方式 / More ways to request and configure Copilot code reviews</title>
-    <link href="https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews"/>
-    <id>8d63b030be4f1d41c9e8d5fc2873f655</id>
-    <published>2026-09-23T21:25:58+00:00</published>
-    <updated>2026-09-23T21:25:58+00:00</updated>
-    <summary type="text">Score: 0.801\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…</title>
-    <link href="https://x.com/ClaudeDevs/status/2102871550974427462"/>
-    <id>bf791f804d05ded6cf60f33b4af6366d</id>
-    <published>2026-09-23T21:23:41+00:00</published>
-    <updated>2026-09-23T21:23:41+00:00</updated>
-    <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</title>
-    <link href="https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"/>
-    <id>022fbdf8db86a281e8ea2709877ae0e1</id>
-    <published>2026-09-23T21:01:48+00:00</published>
-    <updated>2026-09-23T21:01:48+00:00</updated>
-    <summary type="text">Score: 0.805\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Node 20 在 GitHub Actions 中已不再可用 / Node 20 is no longer available in GitHub Actions</title>
-    <link href="https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions"/>
-    <id>2a946f2b678308b4c0c4a39876a0d433</id>
-    <published>2026-09-23T20:46:07+00:00</published>
-    <updated>2026-09-23T20:46:07+00:00</updated>
-    <summary type="text">Score: 0.792\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Codex CLI 0.157.0</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>9702361b6dae9588dbeabb31a9df9e2c</id>
+    <published>2026-09-25T00:00:00+00:00</published>
+    <updated>2026-09-25T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
