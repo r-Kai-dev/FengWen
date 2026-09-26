@@ -11,7 +11,17 @@
     <id>724b2d7bf0e2ecceeaea6a90c51f7385</id>
     <published>2026-09-16T20:00:00.000Z</published>
     <updated>2026-09-16T20:00:00.000Z</updated>
-    <summary type="text">As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedb... \u00b7 Upvotes: 130 \u00b7 GitHub Stars: 3072 \u00b7 Authors: Haozhe Liu, Tian Ye, Sensen Gao</summary>
+    <summary type="text">As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedb... \u00b7 Upvotes: 135 \u00b7 GitHub Stars: 3098 \u00b7 Authors: Haozhe Liu, Tian Ye, Sensen Gao</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction</title>
+    <link href="https://arxiv.org/abs/2609.18063"/>
+    <id>2ef08ac71bb2a87b42ef740ae01540f7</id>
+    <published>2026-09-15T20:00:00.000Z</published>
+    <updated>2026-09-15T20:00:00.000Z</updated>
+    <summary type="text">Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. ... \u00b7 Upvotes: 16 \u00b7 GitHub Stars: 2098 \u00b7 Authors: Yu Lin, Yiming Wang, Runyuan Cai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +31,7 @@
     <id>6dce6615efc3decdf4b6653cb0f6824a</id>
     <published>2026-09-14T20:00:00.000Z</published>
     <updated>2026-09-14T20:00:00.000Z</updated>
-    <summary type="text">We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMN... \u00b7 Upvotes: 753 \u00b7 GitHub Stars: 4288 \u00b7 Authors: Xingxuan Zhang, Gang Ren, Hao Yuan</summary>
+    <summary type="text">We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMN... \u00b7 Upvotes: 775 \u00b7 GitHub Stars: 4298 \u00b7 Authors: Xingxuan Zhang, Gang Ren, Hao Yuan</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +51,7 @@
     <id>0173b994e7eaffb8ddae4ce62dee9ef9</id>
     <published>2026-09-09T20:00:00.000Z</published>
     <updated>2026-09-09T20:00:00.000Z</updated>
-    <summary type="text">We present Vidu S2, which comprises Vidu S2-Avatar, a real-time interactive digital-character model, and Vidu S2-Editing, a real-time video editing model. Moreover, we explore the feasibility of real-... \u00b7 Upvotes: 699 \u00b7 GitHub Stars: 494 \u00b7 Authors: Jintao Zhang, Kai Jiang, Jintao Chen</summary>
+    <summary type="text">We present Vidu S2, which comprises Vidu S2-Avatar, a real-time interactive digital-character model, and Vidu S2-Editing, a real-time video editing model. Moreover, we explore the feasibility of real-... \u00b7 Upvotes: 699 \u00b7 GitHub Stars: 495 \u00b7 Authors: Jintao Zhang, Kai Jiang, Jintao Chen</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +61,7 @@
     <id>46bb7a10e61a4113d482d3eb7775dd57</id>
     <published>2026-09-07T20:00:00.000Z</published>
     <updated>2026-09-07T20:00:00.000Z</updated>
-    <summary type="text">We present Miles v0.1, a full-stack, production-ready system for frontier post-training. Building upon the clean design of slime, Miles designs each stage of the reinforcement-learning (RL) training l... \u00b7 Upvotes: 58 \u00b7 GitHub Stars: 2987 \u00b7 Authors: RadixArk, Tom Chen, Mao Cheng</summary>
+    <summary type="text">We present Miles v0.1, a full-stack, production-ready system for frontier post-training. Building upon the clean design of slime, Miles designs each stage of the reinforcement-learning (RL) training l... \u00b7 Upvotes: 58 \u00b7 GitHub Stars: 3001 \u00b7 Authors: RadixArk, Tom Chen, Mao Cheng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +71,7 @@
     <id>3e5d741d1b190d14e8530671ddbd8c12</id>
     <published>2026-09-01T20:00:00.000Z</published>
     <updated>2026-09-01T20:00:00.000Z</updated>
-    <summary type="text">Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this... \u00b7 Upvotes: 391 \u00b7 GitHub Stars: 309 \u00b7 Authors: Jianlyu Chen, Yuyang Hu, Hongjin Qian</summary>
+    <summary type="text">Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this... \u00b7 Upvotes: 391 \u00b7 GitHub Stars: 310 \u00b7 Authors: Jianlyu Chen, Yuyang Hu, Hongjin Qian</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +81,7 @@
     <id>7577abb1e2d6b8f8a59bcbf22dcd8e94</id>
     <published>2026-08-31T20:00:00.000Z</published>
     <updated>2026-08-31T20:00:00.000Z</updated>
-    <summary type="text">AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to coll... \u00b7 Upvotes: 387 \u00b7 GitHub Stars: 49 \u00b7 Authors: Ke Yang, Chenglong Wang, Michel Galley</summary>
+    <summary type="text">AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to coll... \u00b7 Upvotes: 401 \u00b7 GitHub Stars: 49 \u00b7 Authors: Ke Yang, Chenglong Wang, Michel Galley</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +91,7 @@
     <id>dd4d55b15499c6d3767dbb70c22bdc9b</id>
     <published>2026-08-28T20:00:00.000Z</published>
     <updated>2026-08-28T20:00:00.000Z</updated>
-    <summary type="text">Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently impl... \u00b7 Upvotes: 477 \u00b7 GitHub Stars: 32 \u00b7 Authors: Xiyuan Yang, Sheikh Sarwar, Jingru Cheng</summary>
+    <summary type="text">Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently impl... \u00b7 Upvotes: 479 \u00b7 GitHub Stars: 32 \u00b7 Authors: Xiyuan Yang, Sheikh Sarwar, Jingru Cheng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,7 +101,7 @@
     <id>cd835cba923694921226974cedf74e88</id>
     <published>2026-08-26T20:00:00.000Z</published>
     <updated>2026-08-26T20:00:00.000Z</updated>
-    <summary type="text">Scaling robot data is crucial for building generalist Vision-Language-Action (VLA) models, yet robot trajectories are harder to scale than web-scale image-text data because embodied collection is cost... \u00b7 Upvotes: 83 \u00b7 GitHub Stars: 3728 \u00b7 Authors: Senqiao Yang, Chengyao Wang, Yuxin Chen</summary>
+    <summary type="text">Scaling robot data is crucial for building generalist Vision-Language-Action (VLA) models, yet robot trajectories are harder to scale than web-scale image-text data because embodied collection is cost... \u00b7 Upvotes: 83 \u00b7 GitHub Stars: 3730 \u00b7 Authors: Senqiao Yang, Chengyao Wang, Yuxin Chen</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -101,17 +111,7 @@
     <id>c64c1878c92c10c5b00eb5732fdd742a</id>
     <published>2026-08-25T20:00:00.000Z</published>
     <updated>2026-08-25T20:00:00.000Z</updated>
-    <summary type="text">Conversational systems, such as duplex speech language models (SLMs), still lack a streaming, accurate, and empathetic memory system as their soul. We introduce VoiceMem, a simple memory architecture ... \u00b7 Upvotes: 162 \u00b7 GitHub Stars: 2354 \u00b7 Authors: Zhifei Xie, Jiaqi Lang, Ze An</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture</title>
-    <link href="https://arxiv.org/abs/2608.15875"/>
-    <id>1baf6dbae514d7ad8ad4de62979178d2</id>
-    <published>2026-08-15T20:00:00.000Z</published>
-    <updated>2026-08-15T20:00:00.000Z</updated>
-    <summary type="text">Vision-language-action (VLA) models have become a dominant paradigm for generalist embodied agents, demonstrating strong complex and long-horizon task completion in structured settings. Yet it remains... \u00b7 Upvotes: 39 \u00b7 GitHub Stars: 2660 \u00b7 Authors: GigaBrain Team, Angen Ye, Axiang Sun</summary>
+    <summary type="text">Conversational systems, such as duplex speech language models (SLMs), still lack a streaming, accurate, and empathetic memory system as their soul. We introduce VoiceMem, a simple memory architecture ... \u00b7 Upvotes: 162 \u00b7 GitHub Stars: 2088 \u00b7 Authors: Zhifei Xie, Jiaqi Lang, Ze An</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
