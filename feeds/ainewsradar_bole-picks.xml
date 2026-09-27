@@ -4,205 +4,72 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-26T17:02:36+00:00</updated>
+  <updated>2026-09-27T17:32:02+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…</title>
-    <link href="https://x.com/arena/status/2103893011164017018"/>
-    <id>6f35644628e9a7afc0925fdacbb4406a</id>
-    <published>2026-09-26T17:02:36+00:00</published>
-    <updated>2026-09-26T17:02:36+00:00</updated>
-    <summary type="text">Score: 0.778\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <title>《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]</title>
+    <link href="https://www.youtube.com/watch?v=-Nvne3LzBls"/>
+    <id>19715c39333387561a7f8da1b847e071</id>
+    <published>2026-09-27T17:32:02+00:00</published>
+    <updated>2026-09-27T17:32:02+00:00</updated>
+    <summary type="text">Score: 0.543\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
-    <link href="https://www.ithome.com/1/007/444.htm"/>
-    <id>5dbeec245c737563400d285b8c8df12d</id>
-    <published>2026-09-26T15:44:10+00:00</published>
-    <updated>2026-09-26T15:44:10+00:00</updated>
-    <summary type="text">Score: 0.781\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <title>戳破AI的虚张声势：加上“不要猜测”指令，编造说法从71%降到20% / Calling the AI bluff: Adding &quot;Do not guess&quot; cut made-up claims from 71% to 20%</title>
+    <link href="https://earnanhonestdollar.com/bench"/>
+    <id>604d77a448f51bb57e7c025692ac3cbd</id>
+    <published>2026-09-27T17:24:17+00:00</published>
+    <updated>2026-09-27T17:24:17+00:00</updated>
+    <summary type="text">Score: 0.539\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>Show HN：一个用来分析你国际象棋对局的 Claude Code 技能 / Show HN: A Claude Code skill to analyze your chess games</title>
-    <link href="https://github.com/brumar/chess-postmortem-skills"/>
-    <id>c2beba5a4ffca68035785ada25fd5d2a</id>
-    <published>2026-09-26T15:34:53+00:00</published>
-    <updated>2026-09-26T15:34:53+00:00</updated>
+    <title>不存在“失控”的人工智能代理</title>
+    <link href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"/>
+    <id>9754f5045766cb6c330cc1f8f4f2c87b</id>
+    <published>2026-09-27T16:19:46+00:00</published>
+    <updated>2026-09-27T16:19:46+00:00</updated>
+    <summary type="text">Score: 0.565\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out</title>
+    <link href="https://tinyaiarena.com"/>
+    <id>73213eb63dcc92b435b4a55ec9595faf</id>
+    <published>2026-09-27T15:51:28+00:00</published>
+    <updated>2026-09-27T15:51:28+00:00</updated>
     <summary type="text">Score: 0.535\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites</title>
-    <link href="https://www.bbc.com/news/articles/cw62jje658dlo"/>
-    <id>d8e11833db9f577e2ca9dd83a52dc8f6</id>
-    <published>2026-09-26T14:03:54+00:00</published>
-    <updated>2026-09-26T14:03:54+00:00</updated>
-    <summary type="text">Score: 0.820\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>理解 LLM 水印对 AI Agent 行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior</title>
-    <link href="https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"/>
-    <id>9510e4b0bedebe46759ce45a75cf27f3</id>
-    <published>2026-09-26T13:05:36+00:00</published>
-    <updated>2026-09-26T13:05:36+00:00</updated>
-    <summary type="text">Score: 0.529\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>LibreWeddingPlanner维护者不再欢迎AI贡献</title>
-    <link href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"/>
-    <id>4e0c8f07e5889ed8254ebd0578e7aacf</id>
-    <published>2026-09-26T10:08:21+00:00</published>
-    <updated>2026-09-26T10:08:21+00:00</updated>
-    <summary type="text">Score: 0.556\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead</title>
-    <link href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding"/>
-    <id>75931743ce71a4c3df9c18ddcb06bdff</id>
-    <published>2026-09-26T09:55:38+00:00</published>
-    <updated>2026-09-26T09:55:38+00:00</updated>
+    <title>As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻 / &quot;As a Language Model&quot;: Chat Template Switches LLM Self-Referential Voice</title>
+    <link href="https://arxiv.org/abs/2609.25021"/>
+    <id>783c90abff818eba5005aff6dfb67d0b</id>
+    <published>2026-09-27T10:26:25+00:00</published>
+    <updated>2026-09-27T10:26:25+00:00</updated>
     <summary type="text">Score: 0.522\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>在 LLM 时代如何保持编程的乐趣 / How to keep enjoying programming in a world of LLMs</title>
-    <link href="https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705"/>
-    <id>1cdf4000ca3cbfe6dd39cd9fba6218e4</id>
-    <published>2026-09-26T09:41:58+00:00</published>
-    <updated>2026-09-26T09:41:58+00:00</updated>
-    <summary type="text">Score: 0.521\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its &quot;most capable models&quot; after agents exploit loopholes and leak data</title>
-    <link href="https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data"/>
-    <id>a586bf25b5d3d0a4663e60737a20317e</id>
-    <published>2026-09-26T09:06:36+00:00</published>
-    <updated>2026-09-26T09:06:36+00:00</updated>
-    <summary type="text">Score: 0.781\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Ethan Mollick 评 OpenAI 披露多起新的对齐事件 / And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…</title>
-    <link href="https://x.com/emollick/status/2103709671865602100"/>
-    <id>9f6c84d72cd1bce648928c9a868fb9fa</id>
-    <published>2026-09-26T04:54:05+00:00</published>
-    <updated>2026-09-26T04:54:05+00:00</updated>
-    <summary type="text">Score: 0.751\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型</title>
-    <link href="http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html"/>
-    <id>30e2055037513287544028c0d3e6205e</id>
-    <published>2026-09-26T04:20:58+00:00</published>
-    <updated>2026-09-26T04:20:58+00:00</updated>
-    <summary type="text">Score: 0.554\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Codex CLI 0.157.1</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>6b83677f599a36f2b160581810d314c1</id>
-    <published>2026-09-26T00:00:00+00:00</published>
-    <updated>2026-09-26T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.821\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>企业托管设置的产品内校验器 / Enterprise managed settings in-product validator</title>
-    <link href="https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator"/>
-    <id>1be3bb0626e16a9d6307a6495abbad7d</id>
-    <published>2026-09-25T23:24:57+00:00</published>
-    <updated>2026-09-25T23:24:57+00:00</updated>
-    <summary type="text">Score: 0.798\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 系统失控，擅自干预美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites</title>
-    <link href="https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html"/>
-    <id>631978c581583ccd8a510e20cb4253c5</id>
-    <published>2026-09-25T23:16:40+00:00</published>
-    <updated>2026-09-25T23:16:40+00:00</updated>
-    <summary type="text">Score: 0.500\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Codex 出现问题——已定位——全面宕机 / Issues with Codex – Identified – Full Outage</title>
-    <link href="https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39"/>
-    <id>1fdc5b6f774007bb427bf511ffff1717</id>
-    <published>2026-09-25T23:04:25+00:00</published>
-    <updated>2026-09-25T23:04:25+00:00</updated>
-    <summary type="text">Score: 0.499\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Usage metrics API 新增 pull request 审查阶段 / Usage metrics API adds pull request review stages</title>
-    <link href="https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages"/>
-    <id>b202db7be4878bd11790c7b6ae281dda</id>
-    <published>2026-09-25T21:09:40+00:00</published>
-    <updated>2026-09-25T21:09:40+00:00</updated>
-    <summary type="text">Score: 0.794\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
-    <link href="https://swarmtraces.org"/>
-    <id>9f37e91440dce94d980de8ee129cd1e8</id>
-    <published>2026-09-25T21:09:27+00:00</published>
-    <updated>2026-09-25T21:09:27+00:00</updated>
-    <summary type="text">Score: 0.828\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
+    <title>Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法</title>
+    <link href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal"/>
+    <id>929ddb885de7ffc59adfe51c840765fa</id>
+    <published>2026-09-27T06:19:33+00:00</published>
+    <updated>2026-09-27T06:19:33+00:00</updated>
+    <summary type="text">Score: 0.857\nSources: 6 (AI HOT)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -210,25 +77,26 @@
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： &quot;We're attacking third-party HF using le…</title>
-    <link href="https://x.com/Yuchenj_UW/status/2103589198427193593"/>
-    <id>e37ecdd768a4105bdf9f52dfc7726399</id>
-    <published>2026-09-25T20:55:22+00:00</published>
-    <updated>2026-09-25T20:55:22+00:00</updated>
-    <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会</title>
+    <link href="https://www.ithome.com/1/007/508.htm"/>
+    <id>1d09b9c90c82ead17eb3691999aa6a37</id>
+    <published>2026-09-27T05:35:36+00:00</published>
+    <updated>2026-09-27T05:35:36+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Ben 造词 TAI-DR：太AI没看，并非反AI</title>
-    <link href="https://www.tai-dr.com"/>
-    <id>2cb28567a4b9867cb0e7025825cb6cbc</id>
-    <published>2026-09-25T20:37:56+00:00</published>
-    <updated>2026-09-25T20:37:56+00:00</updated>
-    <summary type="text">Score: 0.500\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件</title>
+    <link href="https://www.ithome.com/1/007/447.htm"/>
+    <id>4abec94032d5698c0d9d6a4c95a4ba01</id>
+    <published>2026-09-26T23:12:53+00:00</published>
+    <updated>2026-09-26T23:12:53+00:00</updated>
+    <summary type="text">Score: 0.763\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
 </feed>
