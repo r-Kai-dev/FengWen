@@ -4,72 +4,189 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-27T17:32:02+00:00</updated>
+  <updated>2026-09-28T21:40:50+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]</title>
-    <link href="https://www.youtube.com/watch?v=-Nvne3LzBls"/>
-    <id>19715c39333387561a7f8da1b847e071</id>
-    <published>2026-09-27T17:32:02+00:00</published>
-    <updated>2026-09-27T17:32:02+00:00</updated>
-    <summary type="text">Score: 0.543\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>Claude Sonnet 5.5 发布，官方附上开发使用指南 / Claude Sonnet 5.5 is out! We wrote a guide for building with it:</title>
+    <link href="https://x.com/ClaudeDevs/status/2104687805876367793"/>
+    <id>f87d1b8e79c36d43041d27fe541c5f13</id>
+    <published>2026-09-28T21:40:50+00:00</published>
+    <updated>2026-09-28T21:40:50+00:00</updated>
+    <summary type="text">Score: 0.838\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>戳破AI的虚张声势：加上“不要猜测”指令，编造说法从71%降到20% / Calling the AI bluff: Adding &quot;Do not guess&quot; cut made-up claims from 71% to 20%</title>
-    <link href="https://earnanhonestdollar.com/bench"/>
-    <id>604d77a448f51bb57e7c025692ac3cbd</id>
-    <published>2026-09-27T17:24:17+00:00</published>
-    <updated>2026-09-27T17:24:17+00:00</updated>
-    <summary type="text">Score: 0.539\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion</title>
+    <link href="https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"/>
+    <id>ba3df09160b89f2cd41952466bc91bd8</id>
+    <published>2026-09-28T21:31:35+00:00</published>
+    <updated>2026-09-28T21:31:35+00:00</updated>
+    <summary type="text">Score: 0.795\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>不存在“失控”的人工智能代理</title>
-    <link href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"/>
-    <id>9754f5045766cb6c330cc1f8f4f2c87b</id>
-    <published>2026-09-27T16:19:46+00:00</published>
-    <updated>2026-09-27T16:19:46+00:00</updated>
-    <summary type="text">Score: 0.565\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05 / GPT-6 Luna (Max) by @OpenAI is #23 in Agent Arena with +1.6% net improvement across 8K real-world agentic sessions from our global commun...</title>
+    <link href="https://x.com/arena/status/2104673568776990762"/>
+    <id>209fae531160de786773510f9a575302</id>
+    <published>2026-09-28T20:44:16+00:00</published>
+    <updated>2026-09-28T20:44:16+00:00</updated>
+    <summary type="text">Score: 0.778\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out</title>
-    <link href="https://tinyaiarena.com"/>
-    <id>73213eb63dcc92b435b4a55ec9595faf</id>
-    <published>2026-09-27T15:51:28+00:00</published>
-    <updated>2026-09-27T15:51:28+00:00</updated>
-    <summary type="text">Score: 0.535\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion</title>
+    <link href="https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion"/>
+    <id>52c099fa87dedd5f5af53a3e3769de08</id>
+    <published>2026-09-28T20:39:33+00:00</published>
+    <updated>2026-09-28T20:39:33+00:00</updated>
+    <summary type="text">Score: 0.799\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻 / &quot;As a Language Model&quot;: Chat Template Switches LLM Self-Referential Voice</title>
-    <link href="https://arxiv.org/abs/2609.25021"/>
-    <id>783c90abff818eba5005aff6dfb67d0b</id>
-    <published>2026-09-27T10:26:25+00:00</published>
-    <updated>2026-09-27T10:26:25+00:00</updated>
-    <summary type="text">Score: 0.522\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案 / We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026</title>
+    <link href="https://rdi.berkeley.edu/blog/trustworthy-benchmarks"/>
+    <id>a3f66c1fe4efc93439576d1c0653df39</id>
+    <published>2026-09-28T20:33:40.624772+00:00</published>
+    <updated>2026-09-28T20:33:40.624772+00:00</updated>
+    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法</title>
-    <link href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal"/>
-    <id>929ddb885de7ffc59adfe51c840765fa</id>
-    <published>2026-09-27T06:19:33+00:00</published>
-    <updated>2026-09-27T06:19:33+00:00</updated>
-    <summary type="text">Score: 0.857\nSources: 6 (AI HOT)\nImportance: 多源热议</summary>
+    <title>World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD</title>
+    <link href="https://www.worldlabs.ai/blog/amd-announcement"/>
+    <id>9a0115adcf2b1b4d72f4af8fd5c766d0</id>
+    <published>2026-09-28T20:18:05+00:00</published>
+    <updated>2026-09-28T20:18:05+00:00</updated>
+    <summary type="text">Score: 0.826\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Self-hosted runner 版本强制执行日期已变更 / Self-hosted runner version enforcement date has moved</title>
+    <link href="https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved"/>
+    <id>66f5645bb1237acdd72e48ae8ceffdb8</id>
+    <published>2026-09-28T19:22:46+00:00</published>
+    <updated>2026-09-28T19:22:46+00:00</updated>
+    <summary type="text">Score: 0.836\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变 / Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.</title>
+    <link href="https://x.com/rohanpaul_ai/status/2104649406536683789"/>
+    <id>a8361da09679b570630ce92318e9ad02</id>
+    <published>2026-09-28T19:08:15+00:00</published>
+    <updated>2026-09-28T19:08:15+00:00</updated>
+    <summary type="text">Score: 0.792\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>观看 Future Vision XPRIZE 获奖预告片 The Gifted。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.</title>
+    <link href="https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize"/>
+    <id>50ba4517371dc038066ef68554988bf8</id>
+    <published>2026-09-28T19:00:00+00:00</published>
+    <updated>2026-09-28T19:00:00+00:00</updated>
+    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...</title>
+    <link href="https://x.com/ClaudeDevs/status/2104641318555353400"/>
+    <id>84603bb016f7a70f025c35e9f8160888</id>
+    <published>2026-09-28T18:36:07+00:00</published>
+    <updated>2026-09-28T18:36:07+00:00</updated>
+    <summary type="text">Score: 0.827\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5 / Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...</title>
+    <link href="https://x.com/ArtificialAnlys/status/2104640155843989864"/>
+    <id>39df61f1f23297400d2ea05568b54b20</id>
+    <published>2026-09-28T18:31:30+00:00</published>
+    <updated>2026-09-28T18:31:30+00:00</updated>
+    <summary type="text">Score: 0.787\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:</title>
+    <link href="https://x.com/AnthropicAI/status/2104633259925630995"/>
+    <id>0314fcc516d68506c91990d3c889c7fb</id>
+    <published>2026-09-28T18:04:06+00:00</published>
+    <updated>2026-09-28T18:04:06+00:00</updated>
+    <summary type="text">Score: 0.777\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Sonnet 5.5 in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot"/>
+    <id>937eaf023bc638459af8d224ba72be44</id>
+    <published>2026-09-28T18:03:57+00:00</published>
+    <updated>2026-09-28T18:03:57+00:00</updated>
+    <summary type="text">Score: 0.849\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task</title>
+    <link href="https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task"/>
+    <id>c8847bce23c7b656c9523733d2f0e780</id>
+    <published>2026-09-28T18:02:10+00:00</published>
+    <updated>2026-09-28T18:02:10+00:00</updated>
+    <summary type="text">Score: 0.783\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5</title>
+    <link href="https://www.anthropic.com/claude-sonnet-5-5"/>
+    <id>7e84fada6f02c1b0335d5274a16ac2be</id>
+    <published>2026-09-28T17:58:11+00:00</published>
+    <updated>2026-09-28T17:58:11+00:00</updated>
+    <summary type="text">Score: 0.848\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
@@ -77,26 +194,67 @@
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会</title>
-    <link href="https://www.ithome.com/1/007/508.htm"/>
-    <id>1d09b9c90c82ead17eb3691999aa6a37</id>
-    <published>2026-09-27T05:35:36+00:00</published>
-    <updated>2026-09-27T05:35:36+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents</title>
+    <link href="https://huggingface.co/blog/Hcompany/holo4"/>
+    <id>0c4fadb6fa8281655d2cc934f9df5421</id>
+    <published>2026-09-28T09:44:05+00:00</published>
+    <updated>2026-09-28T09:44:05+00:00</updated>
+    <summary type="text">Score: 0.830\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
-    <category term="industry"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件</title>
-    <link href="https://www.ithome.com/1/007/447.htm"/>
-    <id>4abec94032d5698c0d9d6a4c95a4ba01</id>
-    <published>2026-09-26T23:12:53+00:00</published>
-    <updated>2026-09-26T23:12:53+00:00</updated>
-    <summary type="text">Score: 0.763\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.</title>
+    <link href="https://x.com/JensenHuang/status/2104499465055023424"/>
+    <id>70cf75077f406241998393a46708bcb3</id>
+    <published>2026-09-28T09:12:26+00:00</published>
+    <updated>2026-09-28T09:12:26+00:00</updated>
+    <summary type="text">Score: 0.784\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Lenfest Institute 获 OpenAI 扩大支持，里程碑项目再扩容 / The Lenfest Institute grows landmark program with expanded OpenAI support</title>
+    <link href="https://openai.com/index/lenfest-ai-collaborative-expansion"/>
+    <id>b841013eba40e74abad66b52d84a7d2e</id>
+    <published>2026-09-28T07:00:00+00:00</published>
+    <updated>2026-09-28T07:00:00+00:00</updated>
+    <summary type="text">Score: 0.816\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Basis 借助 GPT-6 Astra 将税务工作簿处理速度提升一倍 / Basis completes a tax workbook 2x faster with GPT-6 Astra</title>
+    <link href="https://openai.com/index/basis-tax-workbook-with-astra"/>
+    <id>a8825f3dea3fbf4ba98a64c32af38007</id>
+    <published>2026-09-28T00:00:00+00:00</published>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.810\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.158.0</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>93c3f183765f93d4463f0366bcbd5d6b</id>
+    <published>2026-09-28T00:00:00+00:00</published>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.816\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
 </feed>

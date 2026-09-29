@@ -4,10 +4,18 @@
   <icon>https://kyutai.org/favicon.ico</icon>
   <link href="https://kyutai.org/blog"/>
   <id>https://kyutai.org/blog</id>
-  <updated>2026-08-25T00:00:00+00:00</updated>
+  <updated>2026-09-28T00:00:00+00:00</updated>
   <author>
     <name>Kyutai</name>
   </author>
+  <entry>
+    <title>Building a Pocket TTS with a drifting objective</title>
+    <link href="https://kyutai.org/blog/2026-09-28-pocket-tts-drifting"/>
+    <id>f120e7add06226ca49fda0652fcf34b0</id>
+    <published>2026-09-28T00:00:00+00:00</published>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <summary type="text">We trained the Pocket TTS sampler head with drifting instead of flow matching: one step, no Jacobian, same quality.</summary>
+  </entry>
   <entry>
     <title>Pocket TTS training code released</title>
     <link href="https://kyutai.org/blog/2026-08-25-pocket-tts-training"/>
