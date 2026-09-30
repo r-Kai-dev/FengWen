@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-09-28T00:00:00+00:00</updated>
+  <updated>2026-09-29T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Imperceptible Audio Watermark: Techniques, Tools, and What Teams Need to Know</title>
+    <link href="https://www.resemble.ai/resources/imperceptible-audio-watermark-techniques-tools"/>
+    <id>b639a011154d2ea9bd82c05584aa5e72</id>
+    <published>2026-09-29T00:00:00+00:00</published>
+    <updated>2026-09-29T00:00:00+00:00</updated>
+    <summary type="text">Learn how imperceptible audio watermarking works, which techniques are used, and how to evaluate tools for synthetic media provenance and fraud prevention.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>Top 6 AI Deepfake Fraud Detection Techniques for Cybersecurity</title>
     <link href="https://www.resemble.ai/resources/ai-deepfake-fraud-detection-techniques-cybersecurity"/>
@@ -106,15 +115,6 @@
     <updated>2026-09-03T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>Deepfake Detection Heatmap: What It Shows, How It Works, and Why It Matters for Enterprise Review</title>
-    <link href="https://www.resemble.ai/resources/deepfake-detection-heatmap"/>
-    <id>6debf84072c313ee3dff2b6a46f66193</id>
-    <published>2026-09-01T00:00:00+00:00</published>
-    <updated>2026-09-01T00:00:00+00:00</updated>
-    <summary type="text">See how deepfake detection heatmaps reveal flagged regions, reduce false positives, and help review teams document synthetic media decisions.</summary>
-    <category term="Blog"/>
   </entry>
   <entry>
     <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>
