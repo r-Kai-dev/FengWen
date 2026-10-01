@@ -4,10 +4,28 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-09-29T00:00:00+00:00</updated>
+  <updated>2026-09-30T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Deepfake Detection for Telecom Fraud Prevention</title>
+    <link href="https://www.resemble.ai/resources/deepfake-detection-for-telecom-fraud-prevention"/>
+    <id>64d157461b8dd43467b5265b3a6f4b63</id>
+    <published>2026-09-30T00:00:00+00:00</published>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <summary type="text">How CSPs and fraud teams detect AI voice deepfakes in real time. Verdicts, confidence scores, and API/on-prem options with Resemble Detect.</summary>
+    <category term="Blog"/>
+  </entry>
+  <entry>
+    <title>Resemble AI for Microsoft Teams</title>
+    <link href="https://www.resemble.ai/resources/resemble-ai-for-microsoft-teams"/>
+    <id>e366a435f4e984397eb17bccc34defb6</id>
+    <published>2026-09-30T00:00:00+00:00</published>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <summary type="text">Resemble AI for Microsoft Teams brings real-time audio and video deepfake detection into your Teams meetings. A one-page overview to share with your team.</summary>
+    <category term="Guide"/>
+  </entry>
   <entry>
     <title>Imperceptible Audio Watermark: Techniques, Tools, and What Teams Need to Know</title>
     <link href="https://www.resemble.ai/resources/imperceptible-audio-watermark-techniques-tools"/>
@@ -97,24 +115,6 @@
     <updated>2026-09-09T00:00:00+00:00</updated>
     <summary type="text">Evaluate a hybrid cloud deepfake detection solution for audio, video, and image review. Learn what enterprise security teams should check before deployment.</summary>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>Deepfake Video Conference Scams: How They Work and How to Prevent Them</title>
-    <link href="https://www.resemble.ai/resources/deepfake-video-conference"/>
-    <id>bd02fc035faf0953ce72cbb6735ddb74</id>
-    <published>2026-09-08T00:00:00+00:00</published>
-    <updated>2026-09-08T00:00:00+00:00</updated>
-    <summary type="text">Learn how a deepfake video conference scam works, key warning signs to watch for, business risks involved, and proven strategies to prevent fraud and loss.</summary>
-    <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Watchlist: Week of August 28 – September 3, 2026</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-august-28-september-3-2026"/>
-    <id>eb9821f00807e65d0630d74162d7c449</id>
-    <published>2026-09-03T00:00:00+00:00</published>
-    <updated>2026-09-03T00:00:00+00:00</updated>
-    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them</summary>
-    <category term="Deepfake Watchlist"/>
   </entry>
   <entry>
     <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>

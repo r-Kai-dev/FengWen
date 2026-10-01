@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-09-29T00:00:00+00:00</updated>
+  <updated>2026-09-30T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>What work can robots do?</title>
+    <link href="https://www.anthropic.com/research/what-work-can-robots-do"/>
+    <id>1ffa5de207f734eece170f0731650db2</id>
+    <published>2026-09-30T00:00:00+00:00</published>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <category term="Economics"/>
+  </entry>
   <entry>
     <title>GLM-5.3 and the spread of advanced cyber capabilities</title>
     <link href="https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"/>
@@ -94,13 +102,5 @@
     <published>2026-08-28T00:00:00+00:00</published>
     <updated>2026-08-28T00:00:00+00:00</updated>
     <category term="Alignment"/>
-  </entry>
-  <entry>
-    <title>Enabling independent research on how people use Claude</title>
-    <link href="https://www.anthropic.com/research/enabling-independent-research"/>
-    <id>5805202a08bd1273d3b5e6d8f58b3527</id>
-    <published>2026-08-26T00:00:00+00:00</published>
-    <updated>2026-08-26T00:00:00+00:00</updated>
-    <category term="Societal Impacts"/>
   </entry>
 </feed>

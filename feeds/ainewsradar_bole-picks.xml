@@ -4,65 +4,28 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-29T19:32:30+00:00</updated>
+  <updated>2026-09-30T21:09:24+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元 / Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...</title>
-    <link href="https://x.com/rohanpaul_ai/status/2105017898343575731"/>
-    <id>5f30cd6f25f3d5e0bebc5965f045a9a4</id>
-    <published>2026-09-29T19:32:30+00:00</published>
-    <updated>2026-09-29T19:32:30+00:00</updated>
-    <summary type="text">Score: 0.790\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price</title>
+    <link href="https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price"/>
+    <id>024fab06380e9c02738d9f4a3853a36e</id>
+    <published>2026-09-30T21:09:24+00:00</published>
+    <updated>2026-09-30T21:09:24+00:00</updated>
+    <summary type="text">Score: 0.788\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍 / UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor</title>
-    <link href="https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor"/>
-    <id>768f807d97548afe71e36f6b9c08be62</id>
-    <published>2026-09-29T19:24:12+00:00</published>
-    <updated>2026-09-29T19:24:12+00:00</updated>
-    <summary type="text">Score: 0.786\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Dependabot 的仓库自定义运行器设置 / Repository custom runner settings for Dependabot</title>
-    <link href="https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot"/>
-    <id>64dcfce5d8fff6fc04449a902395a782</id>
-    <published>2026-09-29T19:10:00+00:00</published>
-    <updated>2026-09-29T19:10:00+00:00</updated>
-    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，ChatGPT Work 和 Codex 周用户超 3500 万</title>
-    <link href="https://www.ithome.com/1/008/532.htm"/>
-    <id>73322e28b783a962733bf0f72e68eacf</id>
-    <published>2026-09-29T18:47:22+00:00</published>
-    <updated>2026-09-29T18:47:22+00:00</updated>
-    <summary type="text">Score: 0.776\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>通过外部自定义属性引入业务上下文 / Bring business context with external custom properties</title>
-    <link href="https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties"/>
-    <id>35b81de9928ff143989faf3a8db77856</id>
-    <published>2026-09-29T18:40:27+00:00</published>
-    <updated>2026-09-29T18:40:27+00:00</updated>
+    <title>npm 可信发布新增 dist-tag 权限可选开启 / Opt-in dist-tag permissions for npm trusted publishing</title>
+    <link href="https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing"/>
+    <id>7e1b2a52daf97a6ffa01621926b62ddd</id>
+    <published>2026-09-30T21:03:09+00:00</published>
+    <updated>2026-09-30T21:03:09+00:00</updated>
     <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -71,109 +34,23 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...</title>
-    <link href="https://x.com/arena/status/2104998408616558940"/>
-    <id>2288d12afcc799e25a3caa63b90d89c3</id>
-    <published>2026-09-29T18:15:04+00:00</published>
-    <updated>2026-09-29T18:15:04+00:00</updated>
-    <summary type="text">Score: 0.796\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...</title>
+    <link href="https://x.com/ArtificialAnlys/status/2105392625788637299"/>
+    <id>97b806c470841ac741e1f82ad179ddbb</id>
+    <published>2026-09-30T20:21:32+00:00</published>
+    <updated>2026-09-30T20:21:32+00:00</updated>
+    <summary type="text">Score: 0.786\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.</title>
-    <link href="https://x.com/OpenAIDevs/status/2104993035507712318"/>
-    <id>580f6132d08d39e1cbfe5df5dc377a76</id>
-    <published>2026-09-29T17:53:43+00:00</published>
-    <updated>2026-09-29T17:53:43+00:00</updated>
-    <summary type="text">Score: 0.822\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用 / You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...</title>
-    <link href="https://x.com/thsottiaux/status/2104991529416999243"/>
-    <id>176e1a6b4b13b70a0d32843776a97215</id>
-    <published>2026-09-29T17:47:44+00:00</published>
-    <updated>2026-09-29T17:47:44+00:00</updated>
-    <summary type="text">Score: 0.767\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GPT-6.1 Sol in GitHub Copilot</title>
-    <link href="https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot"/>
-    <id>98421e0a6083836c086d3633d0acc17d</id>
-    <published>2026-09-29T17:02:27+00:00</published>
-    <updated>2026-09-29T17:02:27+00:00</updated>
-    <summary type="text">Score: 0.849\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择 / Why has Shopify dropped React Native?</title>
-    <link href="https://newsletter.pragmaticengineer.com/p/shopify-native-mobile"/>
-    <id>fad4177bfdf01b392d0e0c738d687155</id>
-    <published>2026-09-29T15:53:19+00:00</published>
-    <updated>2026-09-29T15:53:19+00:00</updated>
-    <summary type="text">Score: 0.772\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...</title>
-    <link href="https://x.com/ClementDelangue/status/2104960836796342729"/>
-    <id>7c28d5c99f6afeb0629aa4773215c10c</id>
-    <published>2026-09-29T15:45:46+00:00</published>
-    <updated>2026-09-29T15:45:46+00:00</updated>
-    <summary type="text">Score: 0.795\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction</title>
-    <link href="https://huggingface.co/blog/nvidia/kumo-tabular"/>
-    <id>d69c2c9dc8b8c049e78db08c3c327b97</id>
-    <published>2026-09-29T15:30:38+00:00</published>
-    <updated>2026-09-29T15:30:38+00:00</updated>
-    <summary type="text">Score: 0.845\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release</title>
-    <link href="https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release"/>
-    <id>3d8ff8abbb4095b8661d5f26966a409b</id>
-    <published>2026-09-29T14:22:31+00:00</published>
-    <updated>2026-09-29T14:22:31+00:00</updated>
-    <summary type="text">Score: 0.795\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>把源头搞对，而不只是把事实搞对：面向 MCP Agents 的源头感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
-    <link href="https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"/>
-    <id>ddbf7215623635a9ec919f69eb1c9dc0</id>
-    <published>2026-09-29T13:07:00+00:00</published>
-    <updated>2026-09-29T13:07:00+00:00</updated>
+    <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
+    <link href="https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence"/>
+    <id>74e29b555a55e62b11079cc950b00e40</id>
+    <published>2026-09-30T20:01:45+00:00</published>
+    <updated>2026-09-30T20:01:45+00:00</updated>
     <summary type="text">Score: 0.848\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -182,52 +59,180 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GPT-6.1 Sol 正式发布 / Introducing GPT-6.1 Sol</title>
-    <link href="https://openai.com/index/introducing-gpt-6-1-sol"/>
-    <id>f0349df2044355e5df7a39a0d6d23a57</id>
-    <published>2026-09-29T10:00:00+00:00</published>
-    <updated>2026-09-29T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.883\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....</title>
+    <link href="https://x.com/AravSrinivas/status/2105369479190601754"/>
+    <id>51dabb83fc81db68f0deeca584f02f25</id>
+    <published>2026-09-30T18:49:34+00:00</published>
+    <updated>2026-09-30T18:49:34+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves</title>
+    <link href="https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves"/>
+    <id>2638bf87b6b40419d5b901272d00c018</id>
+    <published>2026-09-30T18:47:01+00:00</published>
+    <updated>2026-09-30T18:47:01+00:00</updated>
+    <summary type="text">Score: 0.782\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...</title>
+    <link href="https://x.com/arena/status/2105367591174995999"/>
+    <id>5b4bcb645260882ce847f333567dfb02</id>
+    <published>2026-09-30T18:42:04+00:00</published>
+    <updated>2026-09-30T18:42:04+00:00</updated>
+    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Jensen Huang 称行业领袖在白宫签署超级智能协定 / Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence.</title>
+    <link href="https://x.com/JensenHuang/status/2105348324484342238"/>
+    <id>1b060479a36ca1883cfd11230686852e</id>
+    <published>2026-09-30T17:25:30+00:00</published>
+    <updated>2026-09-30T17:25:30+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GitHub Advanced Security trials for GitHub Team</title>
+    <link href="https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team"/>
+    <id>4f7a11b74d6e751e93632b8781f53c2a</id>
+    <published>2026-09-30T16:48:24+00:00</published>
+    <updated>2026-09-30T16:48:24+00:00</updated>
+    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
   </entry>
   <entry>
-    <title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
-    <link href="https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"/>
-    <id>ec389857d43e5e33710a94e25efbefaa</id>
-    <published>2026-09-29T09:03:41+00:00</published>
-    <updated>2026-09-29T09:03:41+00:00</updated>
-    <summary type="text">Score: 0.828\nSources: 4 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
+    <title>FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns</title>
+    <link href="https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns"/>
+    <id>db74f4203b4d24d261fef9547637d102</id>
+    <published>2026-09-30T16:20:04+00:00</published>
+    <updated>2026-09-30T16:20:04+00:00</updated>
+    <summary type="text">Score: 0.785\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="multi_source"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Codex CLI 0.159.0</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>d68f38967cd6b5814ccbf3a861e09bc1</id>
-    <published>2026-09-29T00:00:00+00:00</published>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.843\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio</title>
+    <link href="https://deepmind.google/blog/introducing-synthid-bio"/>
+    <id>e55f5486928147486883df61d9dddca5</id>
+    <published>2026-09-30T15:03:07+00:00</published>
+    <updated>2026-09-30T15:03:07+00:00</updated>
+    <summary type="text">Score: 0.828\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
   </entry>
   <entry>
-    <title>GPT-6.1 Sol 现已上线 Codex 和 ChatGPT Work / GPT-6.1 Sol in Codex and ChatGPT Work</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>2c69d529e395f63e16a751ce75b5ed36</id>
-    <published>2026-09-29T00:00:00+00:00</published>
-    <updated>2026-09-29T00:00:00+00:00</updated>
+    <title>HydraFusion 现已登陆 VS Code 和 GitHub Copilot 应用 / HydraFusion in VS Code and the GitHub Copilot app</title>
+    <link href="https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app"/>
+    <id>95a42233a48f3691792746d96eaf02ec</id>
+    <published>2026-09-30T14:31:19+00:00</published>
+    <updated>2026-09-30T14:31:19+00:00</updated>
+    <summary type="text">Score: 0.835\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Hugging Face CEO 称收到数千条私信，将花几天逐一处理 / I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...</title>
+    <link href="https://x.com/ClementDelangue/status/2105276853632094607"/>
+    <id>6919a5651696ad048bf8f2f070647b47</id>
+    <published>2026-09-30T12:41:30+00:00</published>
+    <updated>2026-09-30T12:41:30+00:00</updated>
+    <summary type="text">Score: 0.758\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>LG 联手微软秀智能家居语音助手：可中途&quot;插话&quot;，年内登陆 ThinQ ON</title>
+    <link href="https://www.aibase.com/news/31442"/>
+    <id>6485f5bee19efd14ce30e78dfdc6a6b8</id>
+    <published>2026-09-30T11:10:23.075313+00:00</published>
+    <updated>2026-09-30T11:10:23.075313+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign</title>
+    <link href="https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"/>
+    <id>a05739822d8ac4dea32726f31d73305c</id>
+    <published>2026-09-30T10:30:00+00:00</published>
+    <updated>2026-09-30T10:30:00+00:00</updated>
+    <summary type="text">Score: 0.826\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>助力小企业将AI用起来 / Helping small businesses put AI to work</title>
+    <link href="https://openai.com/index/helping-small-businesses-put-ai-to-work"/>
+    <id>20e886d7790c487db6396fb397348bf9</id>
+    <published>2026-09-30T10:00:00+00:00</published>
+    <updated>2026-09-30T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视</title>
+    <link href="https://www.ithome.com/1/008/592.htm"/>
+    <id>ea42c3c14bc250a579897b2d08f1845a</id>
+    <published>2026-09-30T01:48:21+00:00</published>
+    <updated>2026-09-30T01:48:21+00:00</updated>
+    <summary type="text">Score: 0.768\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨</title>
+    <link href="https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market"/>
+    <id>bb3d2593b009004cdf66738f3fb370ef</id>
+    <published>2026-09-30T01:40:59.989000+00:00</published>
+    <updated>2026-09-30T01:40:59.989000+00:00</updated>
+    <summary type="text">Score: 0.747\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Open TTS Leaderboard：面向多语言文本转语音和语音克隆的可扩展评测 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning</title>
+    <link href="https://huggingface.co/blog/open-tts-leaderboard"/>
+    <id>6f00c9f3283c15c4bbd4cfbd09623a4e</id>
+    <published>2026-09-30T00:00:00+00:00</published>
+    <updated>2026-09-30T00:00:00+00:00</updated>
     <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -236,26 +241,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>圆点 / Introducing dots</title>
-    <link href="https://openai.com/index/introducing-dots"/>
-    <id>d49e3ef00074beb5dbbe6ccfc84b4950</id>
-    <published>2026-09-29T00:00:00+00:00</published>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.879\nSources: 4 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Claude Sonnet 5.5 发布，官方附上开发使用指南 / Claude Sonnet 5.5 is out! We wrote a guide for building with it:</title>
-    <link href="https://x.com/ClaudeDevs/status/2104687805876367793"/>
-    <id>f87d1b8e79c36d43041d27fe541c5f13</id>
-    <published>2026-09-28T21:40:50+00:00</published>
-    <updated>2026-09-28T21:40:50+00:00</updated>
-    <summary type="text">Score: 0.788\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <title>OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.</title>
+    <link href="https://x.com/OpenAIDevs/status/2105073621144338660"/>
+    <id>60191115fab2ce49cdc8c851b13788dc</id>
+    <published>2026-09-29T23:13:56+00:00</published>
+    <updated>2026-09-29T23:13:56+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
