@@ -4,10 +4,34 @@
   <icon>https://kyutai.org/favicon.ico</icon>
   <link href="https://kyutai.org/papers"/>
   <id>https://kyutai.org/papers</id>
-  <updated>2026-07-06T17:31:52+00:00</updated>
+  <updated>2026-09-16T13:52:50+00:00</updated>
   <author>
     <name>Kyutai</name>
   </author>
+  <entry>
+    <title>Voice of Reason: Reinforcement Learning for Spoken Math</title>
+    <link href="https://arxiv.org/abs/2609.18677"/>
+    <id>b494f8ca00628ba0c9fae76bc8e64db9</id>
+    <published>2026-09-16T13:52:50+00:00</published>
+    <updated>2026-09-16T13:52:50+00:00</updated>
+    <summary type="text">Speech language models enable richer spoken interactions between humans and machines than cascaded systems, allowing access to paralinguistic information and lower latency. However, their accuracy on mathematical reasoning benchmarks has lagged behind those of text models. Reinforcement learning (RL) with verifiable rewards has been instrumental in extending text models' capabilities for solving complex problems and limiting hallucinations. In this work, we explore applying RL to the GLM-4-Voice speech model (Zeng et al., 2024) to bridge the gap between textual and spoken mathematical problem solving. We first adapt the model to the domain using supervised fine-tuning on synthesized spoken question-answering data. We then show that, even without extra reasoning tokens, RL improves the accuracy on GSM8K beyond levels previously achieved for speech models only with supplementary reasoning traces. When combined with existing streaming reasoning techniques, we show further gains to 74.8% free-form accuracy. This establishes a new state-of-the-art for mathematical spoken abilities with speech-native models.</summary>
+  </entry>
+  <entry>
+    <title>To Each Language Its Tokenizer: Modular Tokenizers for Efficient Multilingual LLMs</title>
+    <link href="https://arxiv.org/abs/2609.15528"/>
+    <id>58f1211536caf6bd8f604e90fbba4a4a</id>
+    <published>2026-09-14T13:17:35+00:00</published>
+    <updated>2026-09-14T13:17:35+00:00</updated>
+    <summary type="text">Multilingual Large Language Models (LLMs) traditionally rely on a single vocabulary shared by all supported languages, which can lead to uneven compression across them. Moreover, their large embedding and output matrices increase memory usage and slow inference, notably for small-scale models. It is also wasteful as models are often used for only a subset of languages. To address these issues, we introduce a modular framework for multilingual model training. First, we propose methods to learn large modular BPE and Unigram tokenizers that enable extraction of subtokenizers tailored to any language subset. These subtokenizers achieve compression on par with monolingual tokenizers and improve cross-lingual fairness. Second, we design a pretraining strategy that samples subtokenizers to form batches, restricting predictions to the relevant vocabulary subset and allowing efficient training despite a large vocabulary. This supports efficient inference with any combination of language-specific vocabularies. Therefore, it reduces memory usage and speeds up inference in models without sacrificing performance.</summary>
+  </entry>
+  <entry>
+    <title>MuScriptor: An Open Model for Multi-Instrument Music Transcription</title>
+    <link href="https://arxiv.org/abs/2607.08168"/>
+    <id>c4e5f5d6e5d8a371e0fdb685cd1f1450</id>
+    <published>2026-07-09T07:12:30+00:00</published>
+    <updated>2026-07-09T07:12:30+00:00</updated>
+    <summary type="text">Existing methods for automatic music transcription are often limited to single-instrument recordings or fail on complex, real music mixes. Although previous work utilizes synthetic training data, the resulting models generalize poorly, leading to largely unusable transcription output in realistic, multi-instrument settings. In this work, we analyze the effectiveness of synthetic data for pre-training while combining it with fine-tuning on real music audio and post-training using reinforcement learning. We further introduce conditioning on instrument presence to customize transcriptions. Finally, we release MuScriptor, an open-weight multi-instrument music transcription model that works on real-world music recordings from across a diverse range of musical genres.</summary>
+  </entry>
   <entry>
     <title>Multiplayer Interactive World Models with Representation Autoencoders</title>
     <link href="https://arxiv.org/abs/2607.05352"/>
@@ -57,12 +81,12 @@
     <summary type="text">Speech-to-speech language models have recently emerged to enhance the naturalness of conversational AI. In particular, full-duplex models are distinguished by their real-time interactivity, including handling of pauses, interruptions, and backchannels. However, improving their factuality remains an open challenge. While scaling the model size could address this gap, it would make real-time inference prohibitively expensive. In this work, we propose MoshiRAG, a modular approach that combines a compact full-duplex interface with selective retrieval to access more powerful knowledge sources. Our asynchronous framework enables the model to identify knowledge-demanding queries and ground its responses in external information. By leveraging the natural temporal gap between response onset and the delivery of core information, the retrieval process can be completed while maintaining a natural conversation flow. With this approach, MoshiRAG achieves factuality comparable to the best publicly released non-duplex speech language models while preserving the interactivity inherent to full-duplex systems. Moreover, our flexible design supports plug-and-play retrieval methods without retraining and demonstrates strong performance on out-of-domain mathematical reasoning tasks.</summary>
   </entry>
   <entry>
-    <title>One View Is Enough! Monocular Training for In-the-Wild Novel View Generation</title>
+    <title>One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation</title>
     <link href="https://arxiv.org/abs/2603.23488"/>
     <id>337c6dfbf1c4abb21c61b54a1655df41</id>
     <published>2026-03-24T17:54:25+00:00</published>
     <updated>2026-03-24T17:54:25+00:00</updated>
-    <summary type="text">Monocular novel-view synthesis has long required multi-view image pairs for supervision, limiting training data scale and diversity. We argue it is not necessary: one view is enough. We present OVIE, trained entirely on unpaired internet images. We leverage a monocular depth estimator as a geometric scaffold at training time: we lift a source image into 3D, apply a sampled camera transformation, and project to obtain a pseudo-target view. To handle disocclusions, we introduce a masked training formulation that restricts geometric, perceptual, and textural losses to valid regions, enabling training on 30 million uncurated images. At inference, OVIE is geometry-free, requiring no depth estimator or 3D representation. Trained exclusively on in-the-wild images, OVIE outperforms prior methods in a zero-shot setting, while being 600x faster than the second-best baseline. Code and models are publicly available at https://github.com/AdrienRR/ovie.</summary>
+    <summary type="text">Monocular novel-view synthesis has long required multi-view image pairs for supervision, limiting training to a narrow set of purpose-built datasets. We propose in-the-wild monocular pretraining: a frozen depth estimator lifts each source image into 3D and reprojects under sampled poses to yield pseudo-target views; masked losses restrict supervision to valid regions and an adversarial objective covers disoccluded areas. Scaled to 30 million uncurated images, this produces OVIE, requiring only a source image and target pose at inference. Prior work trains without multi-view data but needs a depth estimator at inference, or drops this dependency but requires multi-view training pairs; OVIE is the first to require neither. Without multi-view supervision, OVIE rivals in-domain baselines on RealEstate10K and surpasses all on DL3DV, producing the most multi-view-consistent trajectories of any geometry-free method; brief multi-view fine-tuning outperforms all geometry-free methods on their training domain. At 116 FPS, it is over 600x faster than the fastest baseline. Code and pretrained models are at https://github.com/kyutai-labs/ovie; video results are on the project page, https://kyutai.org/blog/2026-04-14-ovie/.</summary>
   </entry>
   <entry>
     <title>Generative Drifting is Secretly Score Matching: a Spectral and Variational Perspective</title>

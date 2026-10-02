@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-09-01T00:00:00+00:00</updated>
+  <updated>2026-10-01T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
+    <link href="https://allenai.org/blog/olmocore3"/>
+    <id>204b13cbd9b742fac0a026505da6c9dd</id>
+    <published>2026-10-01T00:00:00+00:00</published>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
     <link href="https://allenai.org/blog/benchmirt"/>
@@ -63,12 +70,5 @@
     <id>3244c0db58316da0c48fd5276f98547f</id>
     <published>2026-06-12T00:00:00+00:00</published>
     <updated>2026-06-12T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>OlmoEarth v1.1: A more efficient family of models</title>
-    <link href="https://allenai.org/blog/olmoearth-v1-1"/>
-    <id>9c42812e65c1dc62f3ce5b38953718eb</id>
-    <published>2026-05-19T00:00:00+00:00</published>
-    <updated>2026-05-19T00:00:00+00:00</updated>
   </entry>
 </feed>

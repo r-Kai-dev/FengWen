@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-09-23T00:00:00+00:00</updated>
+  <updated>2026-10-01T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Barclays scales Claude to upgrade operations and improve client experience</title>
+    <link href="https://www.anthropic.com/news/barclays-scales-claude"/>
+    <id>b51ca68dad366479b9d5e729e94c63a6</id>
+    <published>2026-10-01T00:00:00+00:00</published>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
   <entry>
     <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
     <link href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"/>
@@ -111,13 +119,5 @@
     <published>2026-08-14T00:00:00+00:00</published>
     <updated>2026-08-14T00:00:00+00:00</updated>
     <category term="Announcements"/>
-  </entry>
-  <entry>
-    <title>Improving Fable 5's biology safeguards</title>
-    <link href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"/>
-    <id>5e2402e8c375bee85a56df69198bcc99</id>
-    <published>2026-08-07T00:00:00+00:00</published>
-    <updated>2026-08-07T00:00:00+00:00</updated>
-    <category term="Product"/>
   </entry>
 </feed>

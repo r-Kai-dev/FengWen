@@ -4,10 +4,37 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-09-24T00:00:00+00:00</updated>
+  <updated>2026-10-01T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>What Is ID-LoRA? Voice &amp; Face Identity</title>
+    <link href="https://ltx.io/blog/what-is-id-lora"/>
+    <id>1454a702ddd6e823d85c8234db311b78</id>
+    <published>2026-10-01T00:00:00+00:00</published>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <summary type="text">ID-LoRA generates a talking video with a reference voice and face in one pass on LTX. How it works, the prompt format, settings, and LTX-2.5 compatibility.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>AI In Game Development: Cinematics, Concept Motion &amp; World Models</title>
+    <link href="https://ltx.io/blog/ai-in-game-development"/>
+    <id>e78ede4cec7b8de17a256f2ae0e1bf52</id>
+    <published>2026-09-30T00:00:00+00:00</published>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <summary type="text">AI in game development, stage by stage: concept motion, AI game cinematics, trailers and world models with LTX-2.5, plus the key settings and hard limits.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>How To Train A Character LoRA With LTX-2.5</title>
+    <link href="https://ltx.io/blog/how-to-train-a-character-lora"/>
+    <id>7090515ea528a792d55c301ea891c44a</id>
+    <published>2026-09-29T00:00:00+00:00</published>
+    <updated>2026-09-29T00:00:00+00:00</updated>
+    <summary type="text">Train a character LoRA for LTX-2.5 with the LTX Trainer: build the dataset, pick T2V or I2V mode, decide on voice, validate, and pick the right checkpoint.</summary>
+    <category term="Tutorials"/>
+  </entry>
   <entry>
     <title>Camera Movement Prompt Guide: Shot Language For Video Models</title>
     <link href="https://ltx.io/blog/camera-movement-prompt-guide"/>
@@ -411,33 +438,6 @@
     <published>2026-08-01T00:00:00+00:00</published>
     <updated>2026-08-01T00:00:00+00:00</updated>
     <summary type="text">You have a dataset, you know what you want the LoRA to learn, and you’ve picked a training mode.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How To Run and Monitor LoRA Training</title>
-    <link href="https://ltx.io/blog/run-and-monitor-lora-training"/>
-    <id>d401eb0199b263416efd9a62234daca5</id>
-    <published>2026-07-31T00:00:00+00:00</published>
-    <updated>2026-07-31T00:00:00+00:00</updated>
-    <summary type="text">A training run is where the dataset, captions, and configuration you’ve prepared become an actual LoRA.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>Bring Silent Videos to Life: Foley LoRA For LTX-2.3</title>
-    <link href="https://ltx.io/blog/bring-silent-videos-to-life-foley-lora"/>
-    <id>2adc0e894fe4670502201b804ad4160e</id>
-    <published>2026-07-30T00:00:00+00:00</published>
-    <updated>2026-07-30T00:00:00+00:00</updated>
-    <summary type="text">Foley LoRA for LTX-2.3-22B generates synchronized, realistic sound effects directly from silent video — footsteps, impacts, weather, machines. No speech or music.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>What Are IC-LoRAs &amp; How To Use Them</title>
-    <link href="https://ltx.io/blog/control-loras-ic-lora"/>
-    <id>d79584f49165e66533b09e0ad5142c1d</id>
-    <published>2026-07-30T00:00:00+00:00</published>
-    <updated>2026-07-30T00:00:00+00:00</updated>
-    <summary type="text">This chapter steps off the path. A control LoRA is driven at inference by a reference video.</summary>
     <category term="Tutorials"/>
   </entry>
 </feed>

@@ -4,7 +4,17 @@
   <icon>https://fireworks.ai/favicon.ico</icon>
   <link href="https://fireworks.ai/blog"/>
   <id>https://fireworks.ai/blog</id>
-  <updated>2026-09-28T00:00:00+00:00</updated>
+  <updated>2026-09-30T00:00:00+00:00</updated>
+  <entry>
+    <title>Reinforcement learning: Why alignment of numerics and MoE routing matter</title>
+    <link href="https://fireworks.ai/blog/reinforcement-learning-why-alignment-of-numerics-and-MoE-routing-matter"/>
+    <id>c285d8b00accb69a672feb86c286e11c</id>
+    <published>2026-09-30T00:00:00+00:00</published>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <summary type="text">Frontier training requires co-optimized training and inference: Fireworks develops and validates the trainer and rollout engine together so teams can scale reinforcement learning with alignment across numerics, kernels, and MoEs.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/7b339cfc7640fc478883872319bcfcccff9f0f4e-1600x900.png&quot; alt=&quot;Reinforcement learning: Why alignment of numerics and MoE routing matter&quot; /&gt;
+&lt;p&gt;Frontier training requires co-optimized training and inference: Fireworks develops and validates the trainer and rollout engine together so teams can scale reinforcement learning with alignment across numerics, kernels, and MoEs.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Inside Fireworks Multi-region Deployments: One Deployment, Global Scale</title>
     <link href="https://fireworks.ai/blog/multi-region-deployment"/>
@@ -481,15 +491,5 @@
     <updated>2026-04-24T00:00:00+00:00</updated>
     <summary type="text">How we fixed prompt injection for all models on Fireworks</summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/e70657785d593ba54ced00724718cfe9ef505cfb-1672x941.png&quot; alt=&quot;How we fixed prompt injection for all models on Fireworks&quot; /&gt;</content>
-  </entry>
-  <entry>
-    <title>Claude Code pricing: plans, API costs, and how to lower your bill</title>
-    <link href="https://fireworks.ai/blog/claude-code-pricing"/>
-    <id>bfe14ada814efe31ba1a3a8225955617</id>
-    <published>2026-04-23T00:00:00+00:00</published>
-    <updated>2026-04-23T00:00:00+00:00</updated>
-    <summary type="text">Compare Claude Code costs across Pro, Max, Team, Enterprise, and API usage, then learn how Fireworks can lower model costs for supported workflows.</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;Claude Code pricing: plans, API costs, and how to lower your bill&quot; /&gt;
-&lt;p&gt;Compare Claude Code costs across Pro, Max, Team, Enterprise, and API usage, then learn how Fireworks can lower model costs for supported workflows.&lt;/p&gt;</content>
   </entry>
 </feed>

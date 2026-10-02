@@ -4,28 +4,178 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-09-30T21:09:24+00:00</updated>
+  <updated>2026-10-01T21:18:59+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price</title>
-    <link href="https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price"/>
-    <id>024fab06380e9c02738d9f4a3853a36e</id>
-    <published>2026-09-30T21:09:24+00:00</published>
-    <updated>2026-09-30T21:09:24+00:00</updated>
-    <summary type="text">Score: 0.788\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成 / FLUX 3 Image is now on Krea.</title>
+    <link href="https://x.com/krea_ai/status/2105769469880799716"/>
+    <id>a8562710e57d6d03a08a4c04a2620bfc</id>
+    <published>2026-10-01T21:18:59+00:00</published>
+    <updated>2026-10-01T21:18:59+00:00</updated>
+    <summary type="text">Score: 0.757\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>npm 可信发布新增 dist-tag 权限可选开启 / Opt-in dist-tag permissions for npm trusted publishing</title>
-    <link href="https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing"/>
-    <id>7e1b2a52daf97a6ffa01621926b62ddd</id>
-    <published>2026-09-30T21:03:09+00:00</published>
-    <updated>2026-09-30T21:03:09+00:00</updated>
+    <title>FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑 / FLUX 3 Image from @bfl_ai is now live on OpenRouter</title>
+    <link href="https://x.com/OpenRouter/status/2105759062835220852"/>
+    <id>ed6050d66c3c09f9edb33df349af1f69</id>
+    <published>2026-10-01T20:37:38+00:00</published>
+    <updated>2026-10-01T20:37:38+00:00</updated>
+    <summary type="text">Score: 0.764\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>私有漏洞报告的速率限制 / Rate limits for private vulnerability reports</title>
+    <link href="https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports"/>
+    <id>6062430c3dd9c9bbb2a6ded9e4a48be2</id>
+    <published>2026-10-01T19:57:39+00:00</published>
+    <updated>2026-10-01T19:57:39+00:00</updated>
+    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>私有漏洞报告的结构化表单 / Structured forms for private vulnerability reports</title>
+    <link href="https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports"/>
+    <id>65e0ea933eaca24d4fad594435fd105d</id>
+    <published>2026-10-01T19:57:28+00:00</published>
+    <updated>2026-10-01T19:57:28+00:00</updated>
+    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot 现已能通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use</title>
+    <link href="https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps"/>
+    <id>3c571b87536217ed40d844a1860f6ddd</id>
+    <published>2026-10-01T19:11:26+00:00</published>
+    <updated>2026-10-01T19:11:26+00:00</updated>
+    <summary type="text">Score: 0.845\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>VS Code 中的 GitHub Copilot：2026 年 9 月发布内容 / GitHub Copilot in VS Code, September 2026 releases</title>
+    <link href="https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases"/>
+    <id>2f5a8dd1b457106046d4b130276d8553</id>
+    <published>2026-10-01T19:09:10+00:00</published>
+    <updated>2026-10-01T19:09:10+00:00</updated>
+    <summary type="text">Score: 0.845\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9 / MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!</title>
+    <link href="https://x.com/arena/status/2105733983250301224"/>
+    <id>0b561276cb6f9d4becc141350fc862bf</id>
+    <published>2026-10-01T18:57:58+00:00</published>
+    <updated>2026-10-01T18:57:58+00:00</updated>
+    <summary type="text">Score: 0.751\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:</title>
+    <link href="https://x.com/ClaudeDevs/status/2105721434807083061"/>
+    <id>f98d2c6ebaffe5ff933c525050c7dd39</id>
+    <published>2026-10-01T18:08:07+00:00</published>
+    <updated>2026-10-01T18:08:07+00:00</updated>
+    <summary type="text">Score: 0.792\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>LangChain 讲解如何在 Agent Harness 中构建模型路由器 / How to Build a Model Router in the Harness</title>
+    <link href="https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness"/>
+    <id>325eb6d409ebc5c7d0477712024089ad</id>
+    <published>2026-10-01T17:01:32+00:00</published>
+    <updated>2026-10-01T17:01:32+00:00</updated>
+    <summary type="text">Score: 0.747\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>The eternal complement</title>
+    <link href="https://openai.com/index/the-eternal-complement"/>
+    <id>890202209d1d10dd3d95e93e68058fe9</id>
+    <published>2026-10-01T17:00:00+00:00</published>
+    <updated>2026-10-01T17:00:00+00:00</updated>
+    <summary type="text">Score: 0.840\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!</title>
+    <link href="https://x.com/arena/status/2105702037849841954"/>
+    <id>b213bf3e22a4acce8f6d4bb6af04590a</id>
+    <published>2026-10-01T16:51:02+00:00</published>
+    <updated>2026-10-01T16:51:02+00:00</updated>
+    <summary type="text">Score: 0.752\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Copilot CLI 和 Copilot app 中的动态工作流 / Dynamic workflows in Copilot CLI and the Copilot app</title>
+    <link href="https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app"/>
+    <id>14f977095d9a8dbec1a6c9bbb04ee947</id>
+    <published>2026-10-01T16:30:10+00:00</published>
+    <updated>2026-10-01T16:30:10+00:00</updated>
+    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Albertsons Companies 如何由内而外重塑零售业 / How Albertsons Companies is reimagining retail from the inside out</title>
+    <link href="https://openai.com/index/albertsons-reimagining-retail"/>
+    <id>b337870f0a2c623a25ba2da7505c57ec</id>
+    <published>2026-10-01T16:00:00+00:00</published>
+    <updated>2026-10-01T16:00:00+00:00</updated>
+    <summary type="text">Score: 0.837\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>隆重推出 Olmo-core 3：面向大规模 MoE 的开放、可扩展训练基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
+    <link href="https://huggingface.co/blog/allenai/olmocore3"/>
+    <id>8aa08eded567189891084012c3afecd9</id>
+    <published>2026-10-01T15:01:43+00:00</published>
+    <updated>2026-10-01T15:01:43+00:00</updated>
     <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -34,24 +184,58 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...</title>
-    <link href="https://x.com/ArtificialAnlys/status/2105392625788637299"/>
-    <id>97b806c470841ac741e1f82ad179ddbb</id>
-    <published>2026-09-30T20:21:32+00:00</published>
-    <updated>2026-09-30T20:21:32+00:00</updated>
-    <summary type="text">Score: 0.786\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure</title>
+    <link href="https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure"/>
+    <id>a2c8df5e05f03d56f06223e9f08418e3</id>
+    <published>2026-10-01T12:05:49+00:00</published>
+    <updated>2026-10-01T12:05:49+00:00</updated>
+    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
-    <link href="https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence"/>
-    <id>74e29b555a55e62b11079cc950b00e40</id>
-    <published>2026-09-30T20:01:45+00:00</published>
-    <updated>2026-09-30T20:01:45+00:00</updated>
-    <summary type="text">Score: 0.848\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods</title>
+    <link href="https://claude.dev/blog/getting-started-with-claude-code-mods"/>
+    <id>6aae4dfdf8e7138fe23ab0b3988858ee</id>
+    <published>2026-10-01T12:00:00+00:00</published>
+    <updated>2026-10-01T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.732\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available</title>
+    <link href="https://modal.com/blog/modal-clusters-generally-available"/>
+    <id>5c7df4f7d552ab9c2083b8e8cd664891</id>
+    <published>2026-10-01T11:37:29.546542+00:00</published>
+    <updated>2026-10-01T11:37:29.546542+00:00</updated>
+    <summary type="text">Score: 0.728\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...</title>
+    <link href="https://x.com/thsottiaux/status/2105519215092584786"/>
+    <id>214430698aa807e91f13a833e3f00405</id>
+    <published>2026-10-01T04:44:34+00:00</published>
+    <updated>2026-10-01T04:44:34+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.160.0</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>0a0c92811d187cec639ab3ff0332e050</id>
+    <published>2026-10-01T00:00:00+00:00</published>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.817\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -59,195 +243,14 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....</title>
-    <link href="https://x.com/AravSrinivas/status/2105369479190601754"/>
-    <id>51dabb83fc81db68f0deeca584f02f25</id>
-    <published>2026-09-30T18:49:34+00:00</published>
-    <updated>2026-09-30T18:49:34+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves</title>
-    <link href="https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves"/>
-    <id>2638bf87b6b40419d5b901272d00c018</id>
-    <published>2026-09-30T18:47:01+00:00</published>
-    <updated>2026-09-30T18:47:01+00:00</updated>
-    <summary type="text">Score: 0.782\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...</title>
-    <link href="https://x.com/arena/status/2105367591174995999"/>
-    <id>5b4bcb645260882ce847f333567dfb02</id>
-    <published>2026-09-30T18:42:04+00:00</published>
-    <updated>2026-09-30T18:42:04+00:00</updated>
-    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Jensen Huang 称行业领袖在白宫签署超级智能协定 / Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence.</title>
-    <link href="https://x.com/JensenHuang/status/2105348324484342238"/>
-    <id>1b060479a36ca1883cfd11230686852e</id>
-    <published>2026-09-30T17:25:30+00:00</published>
-    <updated>2026-09-30T17:25:30+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GitHub Advanced Security trials for GitHub Team</title>
-    <link href="https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team"/>
-    <id>4f7a11b74d6e751e93632b8781f53c2a</id>
-    <published>2026-09-30T16:48:24+00:00</published>
-    <updated>2026-09-30T16:48:24+00:00</updated>
-    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>The Den 每周省出 10-15 小时，借 ChatGPT Work 专注增长 / The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
+    <link href="https://openai.com/index/the-den-family-social"/>
+    <id>e6d100c39885d83d2d06be5fcca159bd</id>
+    <published>2026-10-01T00:00:00+00:00</published>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.811\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns</title>
-    <link href="https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns"/>
-    <id>db74f4203b4d24d261fef9547637d102</id>
-    <published>2026-09-30T16:20:04+00:00</published>
-    <updated>2026-09-30T16:20:04+00:00</updated>
-    <summary type="text">Score: 0.785\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio</title>
-    <link href="https://deepmind.google/blog/introducing-synthid-bio"/>
-    <id>e55f5486928147486883df61d9dddca5</id>
-    <published>2026-09-30T15:03:07+00:00</published>
-    <updated>2026-09-30T15:03:07+00:00</updated>
-    <summary type="text">Score: 0.828\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>HydraFusion 现已登陆 VS Code 和 GitHub Copilot 应用 / HydraFusion in VS Code and the GitHub Copilot app</title>
-    <link href="https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app"/>
-    <id>95a42233a48f3691792746d96eaf02ec</id>
-    <published>2026-09-30T14:31:19+00:00</published>
-    <updated>2026-09-30T14:31:19+00:00</updated>
-    <summary type="text">Score: 0.835\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Hugging Face CEO 称收到数千条私信，将花几天逐一处理 / I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...</title>
-    <link href="https://x.com/ClementDelangue/status/2105276853632094607"/>
-    <id>6919a5651696ad048bf8f2f070647b47</id>
-    <published>2026-09-30T12:41:30+00:00</published>
-    <updated>2026-09-30T12:41:30+00:00</updated>
-    <summary type="text">Score: 0.758\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>LG 联手微软秀智能家居语音助手：可中途&quot;插话&quot;，年内登陆 ThinQ ON</title>
-    <link href="https://www.aibase.com/news/31442"/>
-    <id>6485f5bee19efd14ce30e78dfdc6a6b8</id>
-    <published>2026-09-30T11:10:23.075313+00:00</published>
-    <updated>2026-09-30T11:10:23.075313+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign</title>
-    <link href="https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"/>
-    <id>a05739822d8ac4dea32726f31d73305c</id>
-    <published>2026-09-30T10:30:00+00:00</published>
-    <updated>2026-09-30T10:30:00+00:00</updated>
-    <summary type="text">Score: 0.826\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>助力小企业将AI用起来 / Helping small businesses put AI to work</title>
-    <link href="https://openai.com/index/helping-small-businesses-put-ai-to-work"/>
-    <id>20e886d7790c487db6396fb397348bf9</id>
-    <published>2026-09-30T10:00:00+00:00</published>
-    <updated>2026-09-30T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视</title>
-    <link href="https://www.ithome.com/1/008/592.htm"/>
-    <id>ea42c3c14bc250a579897b2d08f1845a</id>
-    <published>2026-09-30T01:48:21+00:00</published>
-    <updated>2026-09-30T01:48:21+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨</title>
-    <link href="https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market"/>
-    <id>bb3d2593b009004cdf66738f3fb370ef</id>
-    <published>2026-09-30T01:40:59.989000+00:00</published>
-    <updated>2026-09-30T01:40:59.989000+00:00</updated>
-    <summary type="text">Score: 0.747\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Open TTS Leaderboard：面向多语言文本转语音和语音克隆的可扩展评测 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning</title>
-    <link href="https://huggingface.co/blog/open-tts-leaderboard"/>
-    <id>6f00c9f3283c15c4bbd4cfbd09623a4e</id>
-    <published>2026-09-30T00:00:00+00:00</published>
-    <updated>2026-09-30T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.</title>
-    <link href="https://x.com/OpenAIDevs/status/2105073621144338660"/>
-    <id>60191115fab2ce49cdc8c851b13788dc</id>
-    <published>2026-09-29T23:13:56+00:00</published>
-    <updated>2026-09-29T23:13:56+00:00</updated>
-    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
