@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-10-01T00:00:00+00:00</updated>
+  <updated>2026-10-02T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
+    <link href="https://allenai.org/blog/astabrief"/>
+    <id>f81a9694bf18806c3d46f887ac22fcbf</id>
+    <published>2026-10-02T00:00:00+00:00</published>
+    <updated>2026-10-02T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
     <link href="https://allenai.org/blog/olmocore3"/>
@@ -63,12 +70,5 @@
     <id>e426f9dea8be7b06c8639b808b3cd933</id>
     <published>2026-06-17T00:00:00+00:00</published>
     <updated>2026-06-17T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>olmo-eval: An evaluation workbench for the model development loop</title>
-    <link href="https://allenai.org/blog/olmo-eval"/>
-    <id>3244c0db58316da0c48fd5276f98547f</id>
-    <published>2026-06-12T00:00:00+00:00</published>
-    <updated>2026-06-12T00:00:00+00:00</updated>
   </entry>
 </feed>

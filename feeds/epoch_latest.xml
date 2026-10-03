@@ -4,7 +4,7 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-10-02T00:22:42.798466+00:00</updated>
+  <updated>2026-10-03T00:05:25.404048+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
@@ -12,9 +12,18 @@
     <title>Sep. 24, 2026</title>
     <link href="https://epoch.ai/publications/huaweis-roadmap-to-2031"/>
     <id>0296545e2af87e4e77b04db1726a3ce5</id>
-    <published>2026-10-02T00:22:42.798466+00:00</published>
-    <updated>2026-10-02T00:22:42.798466+00:00</updated>
+    <published>2026-10-03T00:05:25.404048+00:00</published>
+    <updated>2026-10-03T00:05:25.404048+00:00</updated>
     <summary type="text">Huawei plans major gains in AI chip performance by 2030, but US export controls cap its most important scaling levers. Epoch AI estimates Huawei will produce less than 4% as much AI compute as Nvidia in 2026, a share that could be around 1% by 2028 without access to foreign memory.</summary>
+    <category term="Report"/>
+  </entry>
+  <entry>
+    <title>How many AI agents could we run?</title>
+    <link href="https://epoch.ai/publications/estimating-the-agent-population"/>
+    <id>f49bc8886144f4696049b75d276e12ed</id>
+    <published>2026-10-02T00:00:00+00:00</published>
+    <updated>2026-10-02T00:00:00+00:00</updated>
+    <summary type="text">Memory shipped through 2027 could run 33–171 million concurrent frontier-model agents, or billions using efficient open models. Epoch AI estimates inference capacity from HBM supply, serving benchmarks, and agent-hour costs.</summary>
     <category term="Report"/>
   </entry>
   <entry>
@@ -88,14 +97,5 @@
     <updated>2026-09-14T00:00:00+00:00</updated>
     <summary type="text">The share of US adults using AI at least 6 days a week rose from 8% in March 2026 to 19% in August 2026, according to Epoch AI/Ipsos polling.</summary>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>Introducing the AI Chip Users Explorer</title>
-    <link href="https://epoch.ai/latest/introducing-the-ai-chip-users-explorer"/>
-    <id>51e80d3e4a51e1ee1b8c80f009198f31</id>
-    <published>2026-09-09T00:00:00+00:00</published>
-    <updated>2026-09-09T00:00:00+00:00</updated>
-    <summary type="text">A first look at Epoch AI's data on compute usage across five leading labs.</summary>
-    <category term="Update"/>
   </entry>
 </feed>

@@ -17,6 +17,14 @@
     <summary type="text">We trained the Pocket TTS sampler head with drifting instead of flow matching: one step, no Jacobian, same quality.</summary>
   </entry>
   <entry>
+    <title>Diffusable Latents from Structure-Agnostic Distillation</title>
+    <link href="https://kyutai.org/blog/2026-09-28-structure-agnostic-distillation"/>
+    <id>1625fbb0f61dcec9eff53ef681c8baa0</id>
+    <published>2026-09-28T00:00:00+00:00</published>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <summary type="text">Pool, then distill: one vector per image is enough to make a latent diffusable, whatever its shape.</summary>
+  </entry>
+  <entry>
     <title>Pocket TTS training code released</title>
     <link href="https://kyutai.org/blog/2026-08-25-pocket-tts-training"/>
     <id>f465586c5b629f282644ba4d43296cf7</id>
