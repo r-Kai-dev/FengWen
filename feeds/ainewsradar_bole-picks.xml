@@ -4,227 +4,50 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-10-03T19:51:52.185520+00:00</updated>
+  <updated>2026-10-04T09:24:52+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023</title>
-    <link href="https://www.lmsys.org/blog/2023-03-30-vicuna"/>
-    <id>cd8318eac06499373502d1a7a1ab053d</id>
-    <published>2026-10-03T19:51:52.185520+00:00</published>
-    <updated>2026-10-03T19:51:52.185520+00:00</updated>
-    <summary type="text">Score: 0.789\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Pop!_OS 禁止在大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase</title>
-    <link href="https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases"/>
-    <id>346ddeafd7946313c465cd939199cd8b</id>
-    <published>2026-10-03T17:57:03+00:00</published>
-    <updated>2026-10-03T17:57:03+00:00</updated>
-    <summary type="text">Score: 0.541\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>ARC Prize Foundation 推出第二代抽象推理基准 ARC-AGI-2 / ARC-AGI-2</title>
-    <link href="https://epoch.ai/benchmarks/arc-agi-2"/>
-    <id>421494316c175d243e72fc15254ad6f6</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Alibaba 发布闭源模型 Qwen 3.8 Max，ECI 得 157 分 / Qwen 3.8 Max</title>
-    <link href="https://epoch.ai/models/qwen-3-8-max"/>
-    <id>5013bf84acc5a48eca3ca5ea4c64aa14</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.747\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic 发布 Claude Opus 5.5，ECI 得分 167 排名第一 / Claude Opus 5.5</title>
-    <link href="https://epoch.ai/models/claude-opus-5-5"/>
-    <id>6bc1270731f555a4ac6dbda9954accc8</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Epoch AI 收录 GPT-5 评测数据，发布时排名第一</title>
-    <link href="https://epoch.ai/models/gpt-5"/>
-    <id>1c7d2430e3ae38940dae63ffc10e382e</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.756\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Epoch AI 收录 Grok 4：xAI 2025 年 7 月 9 日发布的闭源模型，ECI 得分 146</title>
-    <link href="https://epoch.ai/models/grok-4"/>
-    <id>ef2edd12fa3055b5a12943b088731815</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.756\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Epoch AI 评测页面：Claude Sonnet 4.5 基准成绩与定价 / Claude Sonnet 4.5</title>
-    <link href="https://epoch.ai/models/claude-sonnet-4-5"/>
-    <id>b05870e021fe42f7f0d0025572e507a2</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google DeepMind 发布 Gemini 3.1 Pro，ECI 得分 155 / Gemini 3.1 Pro</title>
-    <link href="https://epoch.ai/models/gemini-3-1-pro"/>
-    <id>71dc1568aa34e26de6d59244b908756d</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 发布 GPT-5.5 Pro，ECI 得分 162 / GPT-5.5 Pro</title>
-    <link href="https://epoch.ai/models/gpt-5-5-pro"/>
-    <id>1a52cf611097c9ba5c418e2288215a06</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 发布闭源模型 GPT-5.2 Codex / GPT-5.2 Codex</title>
-    <link href="https://epoch.ai/models/gpt-5-2-codex"/>
-    <id>821b7d6ba3bda08fc7949d1560e942db</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 发布闭源模型 GPT-6.1 Sol，定价为输入 $2 / 输出 $10 每 1M tokens / GPT-6.1 Sol</title>
-    <link href="https://epoch.ai/models/gpt-6-1-sol"/>
-    <id>d10bd0c9faf7e2573b11349124110044</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.777\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Qwen 3.6 Plus 发布：Alibaba 闭源模型 ECI 得分 148 / Qwen 3.6 Plus</title>
-    <link href="https://epoch.ai/models/qwen-3-6-plus"/>
-    <id>fbe50098b05ed1e94eb6a53c662e3981</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Qwen3-Coder-480B-A35B：阿里于 2025 年 7 月 31 日发布的开源权重编码模型 / Qwen3-Coder-480B-A35B</title>
-    <link href="https://epoch.ai/models/qwen3-coder-480b-a35b"/>
-    <id>ac2fbdef69283b05c581c03ea940d98d</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Z.ai 与清华大学发布开源权重模型 GLM-4.6</title>
-    <link href="https://epoch.ai/models/glm-4-6"/>
-    <id>e23e6b06195783bd775571297c6c8eab</id>
-    <published>2026-10-03T15:08:37.684714+00:00</published>
-    <updated>2026-10-03T15:08:37.684714+00:00</updated>
-    <summary type="text">Score: 0.753\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>我离开OpenAI，是因为它的文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken</title>
-    <link href="https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881"/>
-    <id>5501caf32359cb4c1135f1a8eeb64611</id>
-    <published>2026-10-03T13:46:34+00:00</published>
-    <updated>2026-10-03T13:46:34+00:00</updated>
-    <summary type="text">Score: 0.531\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Show HN: 德国的新型主权人工智能模型“Kolibri”</title>
-    <link href="https://tej.as/blog/aleph-alpha-kolibri"/>
-    <id>4a8c931f4bfdc2f709f7e451c72e1d24</id>
-    <published>2026-10-03T10:43:51+00:00</published>
-    <updated>2026-10-03T10:43:51+00:00</updated>
-    <summary type="text">Score: 0.558\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索</title>
+    <link href="https://github.com/allenv0/SCM"/>
+    <id>12cb3e514c39db3b4fec426fe681aece</id>
+    <published>2026-10-04T09:24:52+00:00</published>
+    <updated>2026-10-04T09:24:52+00:00</updated>
+    <summary type="text">Score: 0.570\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件</title>
-    <link href="https://www.ithome.com/1/009/444.htm"/>
-    <id>caa3f5e1be563c6e989b4ddf7184876d</id>
-    <published>2026-10-03T06:18:38+00:00</published>
-    <updated>2026-10-03T06:18:38+00:00</updated>
-    <summary type="text">Score: 0.757\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <title>AI 时代，纯数学研究的未来如何？ / What's the Future for Pure Math Research in the Age of AI?</title>
+    <link href="https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai"/>
+    <id>49a421780479d5288b2872ed6129e673</id>
+    <published>2026-10-04T07:53:45+00:00</published>
+    <updated>2026-10-04T07:53:45+00:00</updated>
+    <summary type="text">Score: 0.516\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>GitHub App 无状态安装 token 正式推出 / Stateless GitHub App installation tokens rolled out</title>
-    <link href="https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out"/>
-    <id>67ca2e2546f6a4911218692a453b733a</id>
-    <published>2026-10-02T22:18:23+00:00</published>
-    <updated>2026-10-02T22:18:23+00:00</updated>
-    <summary type="text">Score: 0.796\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>宗教学者与Anthropic公司进行了会面</title>
+    <link href="https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"/>
+    <id>bee31d2a0334710c02108588bbed1b4e</id>
+    <published>2026-10-04T02:34:22+00:00</published>
+    <updated>2026-10-04T02:34:22+00:00</updated>
+    <summary type="text">Score: 0.553\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.</title>
+    <link href="https://huggingface.co/blog/microsoft/thinkingbox"/>
+    <id>cbd42e31e65fc42913c326103f43cd9a</id>
+    <published>2026-10-03T22:56:48+00:00</published>
+    <updated>2026-10-03T22:56:48+00:00</updated>
+    <summary type="text">Score: 0.812\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -232,14 +55,25 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Show HN: 开发了一个开源的乐高AI生成器</title>
-    <link href="https://github.com/anteloc/ldraw-nova"/>
-    <id>3f90d03eae6a91cb48775a0b6c25e040</id>
-    <published>2026-10-02T20:00:15+00:00</published>
-    <updated>2026-10-02T20:00:15+00:00</updated>
-    <summary type="text">Score: 0.540\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>OpenAI安全负责人辞职，警告称该公司文化“已然失控”</title>
+    <link href="https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"/>
+    <id>c14074d78471f2b61ac7b3e773b3f1a1</id>
+    <published>2026-10-03T22:18:13+00:00</published>
+    <updated>2026-10-03T22:18:13+00:00</updated>
+    <summary type="text">Score: 0.527\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.</title>
+    <link href="https://x.com/rohanpaul_ai/status/2106502600703222202"/>
+    <id>be95ac2d581bd62ca8c3a5bc18ce6047</id>
+    <published>2026-10-03T21:52:11+00:00</published>
+    <updated>2026-10-03T21:52:11+00:00</updated>
+    <summary type="text">Score: 0.733\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
 </feed>

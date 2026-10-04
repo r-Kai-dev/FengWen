@@ -4,10 +4,55 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-10-01T00:00:00+00:00</updated>
+  <updated>2026-10-03T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>How To Make An AI Music Video With Audio-to-Video</title>
+    <link href="https://ltx.io/blog/how-to-make-an-ai-music-video"/>
+    <id>a81dd09cfbd6fd1430be6a464872a330</id>
+    <published>2026-10-03T00:00:00+00:00</published>
+    <updated>2026-10-03T00:00:00+00:00</updated>
+    <summary type="text">Make an AI music video from your own song with LTX-2.5 audio-to-video: split the track into sections, generate each shot to fixed audio, then assemble.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>AI Video Model Speed Comparison: LTX-2.5, Veo, Kling, Seedance &amp; More</title>
+    <link href="https://ltx.io/blog/ai-video-model-speed-comparison"/>
+    <id>1ac654e35da3f18fbad283198a22886e</id>
+    <published>2026-10-02T00:00:00+00:00</published>
+    <updated>2026-10-02T00:00:00+00:00</updated>
+    <summary type="text">AI video generator comparison with real render times: LTX-2.5 makes a 10s clip in 6.8s self-hosted, while Veo 3.1, Seedance and Kling take 70s to 398s.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>How To Edit Videos With AI: Retake, Extend &amp; Reframe</title>
+    <link href="https://ltx.io/blog/how-to-edit-ai-videos"/>
+    <id>df1f1b45d77aff1478e576fa68b9ef1b</id>
+    <published>2026-10-02T00:00:00+00:00</published>
+    <updated>2026-10-02T00:00:00+00:00</updated>
+    <summary type="text">Fix a shot without regenerating it. Use LTX Retake to redo a section, Extend to add seconds, and Reframe to change aspect ratio, with the limits of each.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>LTX-2.5 Prompt Enhancer: Understanding Gemma 4 With LTX</title>
+    <link href="https://ltx.io/blog/ltx-2-5-prompt-enhancer"/>
+    <id>01d5854c76b47e3448f287fd126aed43</id>
+    <published>2026-10-02T00:00:00+00:00</published>
+    <updated>2026-10-02T00:00:00+00:00</updated>
+    <summary type="text">The LTX-2.5 prompt enhancer uses Gemma 4 E2B to expand your prompts before encoding. See where it runs, when to switch it on, and when to leave it off.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Voice Cloning With LTX: Reference Audio, ID-LoRA &amp; Dub-It</title>
+    <link href="https://ltx.io/blog/voice-cloning-with-ltx"/>
+    <id>fde49562930bc4843c6105954ee9e5d8</id>
+    <published>2026-10-01T00:00:00+00:00</published>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <summary type="text">AI voice cloning with LTX: clone a voice from 5 seconds of reference audio with ID-LoRA, or re-voice existing footage with Dub-It. Setup and limits inside.</summary>
+    <category term="Production"/>
+  </entry>
   <entry>
     <title>What Is ID-LoRA? Voice &amp; Face Identity</title>
     <link href="https://ltx.io/blog/what-is-id-lora"/>
@@ -16,6 +61,15 @@
     <updated>2026-10-01T00:00:00+00:00</updated>
     <summary type="text">ID-LoRA generates a talking video with a reference voice and face in one pass on LTX. How it works, the prompt format, settings, and LTX-2.5 compatibility.</summary>
     <category term="Production"/>
+  </entry>
+  <entry>
+    <title>AI Anime Video: LoRAs &amp; Prompt Guide</title>
+    <link href="https://ltx.io/blog/ai-anime-video"/>
+    <id>1ca34292e6d1c3a47f15071e321ba162</id>
+    <published>2026-09-30T00:00:00+00:00</published>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <summary type="text">Make AI anime video with LTX-2.5 open weights: style prompts, anime LoRAs, Union Control restyling of live footage, and training your own anime style LoRA.</summary>
+    <category term="Prompting Guides"/>
   </entry>
   <entry>
     <title>AI In Game Development: Cinematics, Concept Motion &amp; World Models</title>
@@ -36,6 +90,24 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
+    <title>First And Last Frame AI Video: LTX FLF2V Guide</title>
+    <link href="https://ltx.io/blog/first-last-frame-ai-video"/>
+    <id>43555e331d2a97529aaebcc82065dce1</id>
+    <published>2026-09-27T00:00:00+00:00</published>
+    <updated>2026-09-27T00:00:00+00:00</updated>
+    <summary type="text">Generate FLF2V video in LTX-2.5 from a start and end frame. Covers the ComfyUI template, the API last_frame_uri field, and the Python keyframe pipeline.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>ComfyUI Cloud Setup For LTX-2.5</title>
+    <link href="https://ltx.io/blog/comfyui-cloud-setup-for-ltx-2-5"/>
+    <id>8f766d99752eacab5c7d689fc243bb6c</id>
+    <published>2026-09-25T00:00:00+00:00</published>
+    <updated>2026-09-25T00:00:00+00:00</updated>
+    <summary type="text">Run LTX-2.5 in ComfyUI on a cloud GPU. Size VRAM and disk, install ComfyUI-LTXVideo, place each model file, and skip the setup errors that burn hours.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
     <title>Camera Movement Prompt Guide: Shot Language For Video Models</title>
     <link href="https://ltx.io/blog/camera-movement-prompt-guide"/>
     <id>0eb83fa97365c177866405a64342f869</id>
@@ -52,6 +124,15 @@
     <updated>2026-09-22T00:00:00+00:00</updated>
     <summary type="text">Six open source text to speech models compared on licence, languages, voice cloning and footprint, with the licence traps that decide what you can ship.</summary>
     <category term="Production"/>
+  </entry>
+  <entry>
+    <title>How To Run LTX On A Mac</title>
+    <link href="https://ltx.io/blog/how-to-run-ltx-on-a-mac"/>
+    <id>1c92afa768fd318add5d52924a095c43</id>
+    <published>2026-09-21T00:00:00+00:00</published>
+    <updated>2026-09-21T00:00:00+00:00</updated>
+    <summary type="text">Run LTX-2.5 locally on an Apple Silicon Mac with LTX Desktop: the 15GB free-RAM rule, text encoding setup, model choice, and when to use the API instead.</summary>
+    <category term="Tutorials"/>
   </entry>
   <entry>
     <title>How To Make Longer AI Videos</title>
@@ -358,86 +439,5 @@
     <updated>2026-08-10T00:00:00+00:00</updated>
     <summary type="text">Learn how to write effective LTX-2.5 video prompts — shot design, multi-shot cuts, Dub-It dialogue, and Video Editing IC-LoRA best practices.</summary>
     <category term="Prompting Guides"/>
-  </entry>
-  <entry>
-    <title>SDR to HDR: Automatic HDR Video Conversion with LTX-2.5</title>
-    <link href="https://ltx.io/blog/sdr-to-hdr"/>
-    <id>ebb9f75f3cf19448e1627ad41e62a8c5</id>
-    <published>2026-08-09T00:00:00+00:00</published>
-    <updated>2026-08-09T00:00:00+00:00</updated>
-    <summary type="text">LTX-2.5 turns any SDR video into true HDR, restoring clipped highlights and flat shadows and returning scene linear EXR ready for professional grading.</summary>
-    <category term="Product Updates"/>
-  </entry>
-  <entry>
-    <title>AI Crowd Generation: Prompting Techniques for Background Characters &amp; Extras</title>
-    <link href="https://ltx.io/blog/crowd-scene-generation"/>
-    <id>c3ecaac7906ab69bd0a6732ca213dc3d</id>
-    <published>2026-08-04T00:00:00+00:00</published>
-    <updated>2026-08-04T00:00:00+00:00</updated>
-    <summary type="text">Prompt LTX-2.3 for believable crowd shots and extras. Use density modifiers, shot framing, and IC-LoRA controls to avoid duplicate faces.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Directing Dialogue and Acting: How to Prompt for Character Speech, Pauses &amp; Emotional Beats</title>
-    <link href="https://ltx.io/blog/directing-dialogue-and-acting"/>
-    <id>29d8a3a3eb9b5081cb851ed3b7ab3f49</id>
-    <published>2026-08-04T00:00:00+00:00</published>
-    <updated>2026-08-04T00:00:00+00:00</updated>
-    <summary type="text">Learn how LTX-2.3's new gated-attention text connector changes dialogue prompting with the segmentation pattern, acting cues, and worked examples.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Domain-Specific Prompting for LTX-2.3: VFX, Animation &amp; More</title>
-    <link href="https://ltx.io/blog/domain-specific-prompting"/>
-    <id>a482abb482ab368ddd4b9607821f109a</id>
-    <published>2026-08-04T00:00:00+00:00</published>
-    <updated>2026-08-04T00:00:00+00:00</updated>
-    <summary type="text">A prompting guide for LTX-2.3 with domain vocabulary from VFX, animation, and restoration. Templates, before/after examples, common mistakes.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>How To Generate AI Stock Footage (2026 Guide)</title>
-    <link href="https://ltx.io/blog/generating-ai-stock-footage"/>
-    <id>318fc5b66a9bc82ad3f04091f2b6565c</id>
-    <published>2026-08-04T00:00:00+00:00</published>
-    <updated>2026-08-04T00:00:00+00:00</updated>
-    <summary type="text">Generate AI stock footage and b-roll with LTX-2.3. A guide for agencies and producers covering workflow, prompt templates, licensing, and cost at scale.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>When Should You Train A LoRA</title>
-    <link href="https://ltx.io/blog/when-to-train-a-lora"/>
-    <id>753ff9893d1d8122b1dcc0f247689286</id>
-    <published>2026-08-04T00:00:00+00:00</published>
-    <updated>2026-08-04T00:00:00+00:00</updated>
-    <summary type="text">Prompt LTX well and it will give you almost anything you can describe. Feed it a reference frame and it will animate what’s in it.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How To Decide What LoRA To Train</title>
-    <link href="https://ltx.io/blog/decide-what-to-train-lora"/>
-    <id>85611a5d618fda56437539123bfb0410</id>
-    <published>2026-08-03T00:00:00+00:00</published>
-    <updated>2026-08-03T00:00:00+00:00</updated>
-    <summary type="text">Before you collect a single clip, you need to decide exactly what you want the LoRA to do at inference. Every later choice you make flows from this one.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How To Build A LoRA Dataset</title>
-    <link href="https://ltx.io/blog/build-the-dataset-lora"/>
-    <id>cc2311f1fb6cdd96eb5d72eeec0daf58</id>
-    <published>2026-08-02T00:00:00+00:00</published>
-    <updated>2026-08-02T00:00:00+00:00</updated>
-    <summary type="text">The dataset is the most important part of training, full stop. Investing time to create a solid training dataset will result in a much better outcome.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>Setting Up A LoRA Training Run</title>
-    <link href="https://ltx.io/blog/set-up-the-training-run-lora"/>
-    <id>f101be41fdd0973d89c9fa38083c9246</id>
-    <published>2026-08-01T00:00:00+00:00</published>
-    <updated>2026-08-01T00:00:00+00:00</updated>
-    <summary type="text">You have a dataset, you know what you want the LoRA to learn, and you’ve picked a training mode.</summary>
-    <category term="Tutorials"/>
   </entry>
 </feed>
