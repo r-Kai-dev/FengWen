@@ -4,7 +4,7 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-10-04T23:45:12.406396+00:00</updated>
+  <updated>2026-10-06T01:37:50.182638+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
@@ -12,10 +12,19 @@
     <title>Sep. 24, 2026</title>
     <link href="https://epoch.ai/publications/huaweis-roadmap-to-2031"/>
     <id>0296545e2af87e4e77b04db1726a3ce5</id>
-    <published>2026-10-04T23:45:12.406396+00:00</published>
-    <updated>2026-10-04T23:45:12.406396+00:00</updated>
+    <published>2026-10-06T01:37:50.182638+00:00</published>
+    <updated>2026-10-06T01:37:50.182638+00:00</updated>
     <summary type="text">Huawei plans major gains in AI chip performance by 2030, but US export controls cap its most important scaling levers. Epoch AI estimates Huawei will produce less than 4% as much AI compute as Nvidia in 2026, a share that could be around 1% by 2028 without access to foreign memory.</summary>
     <category term="Report"/>
+  </entry>
+  <entry>
+    <title>Coding-agent use at OpenAI is doubling roughly every month</title>
+    <link href="https://epoch.ai/data-insights/openai-coding-agent-spending"/>
+    <id>82b48469cd5223a841aea552fe85baee</id>
+    <published>2026-10-05T00:00:00+00:00</published>
+    <updated>2026-10-05T00:00:00+00:00</updated>
+    <summary type="text">OpenAI researchers’ coding-agent usage, valued at API prices, has recently been doubling roughly every month, according to breakpoint fits.</summary>
+    <category term="Data Insight"/>
   </entry>
   <entry>
     <title>How many AI agents could we run?</title>
@@ -88,14 +97,5 @@
     <updated>2026-09-16T00:00:00+00:00</updated>
     <summary type="text">Epoch AI's AI Data Centers explorer now covers an estimated 44% of global AI compute across 86 sites, with a redesigned interface and expanding global coverage.</summary>
     <category term="Update"/>
-  </entry>
-  <entry>
-    <title>Near-daily AI use among US adults has more than doubled in six months</title>
-    <link href="https://epoch.ai/data-insights/near-daily-ai-use-doubled"/>
-    <id>176217cc8abe6f173866035c2fc859a4</id>
-    <published>2026-09-14T00:00:00+00:00</published>
-    <updated>2026-09-14T00:00:00+00:00</updated>
-    <summary type="text">The share of US adults using AI at least 6 days a week rose from 8% in March 2026 to 19% in August 2026, according to Epoch AI/Ipsos polling.</summary>
-    <category term="Data Insight"/>
   </entry>
 </feed>

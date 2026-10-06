@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-10-02T00:00:00+00:00</updated>
+  <updated>2026-10-05T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>How Real-Time Deepfake Detection Works in Financial Services</title>
+    <link href="https://www.resemble.ai/resources/real-time-deepfake-detection-financial-services"/>
+    <id>457f06ca5fb78e3ca79337cf8ac28078</id>
+    <published>2026-10-05T00:00:00+00:00</published>
+    <updated>2026-10-05T00:00:00+00:00</updated>
+    <summary type="text">Learn how real-time deepfake detection works in financial services across live calls, KYC, payments, and meetings, plus what teams should test before deployment.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>A defense lawyer asked if the recording could be AI. The answer used to take more time. Deepfake detection built into forensic analysis.</title>
     <link href="https://www.resemble.ai/resources/a-defense-lawyer-asked-if-the-recording-could-be-ai-the-answer-used-to-take-more-time-deepfake-detection-built-into-forensic-analysis"/>
@@ -106,15 +115,6 @@
     <updated>2026-09-15T00:00:00+00:00</updated>
     <summary type="text">A practical evaluation guide for fraud and security teams comparing AI voice deepfake fraud detection tools across accuracy, false positives, and explainability.</summary>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>AI Watermarking: Tools and Techniques Guide</title>
-    <link href="https://www.resemble.ai/resources/ai-watermarking-tools-techniques-guide"/>
-    <id>21586359e2f7a1dfca6912773752d823</id>
-    <published>2026-09-14T00:00:00+00:00</published>
-    <updated>2026-09-14T00:00:00+00:00</updated>
-    <summary type="text">Learn how an AI watermarking tool works, key techniques, limitations, verification methods, and evaluation criteria for synthetic media workflows.</summary>
-    <category term="Guide"/>
   </entry>
   <entry>
     <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>
