@@ -4,10 +4,19 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-09-22</updated>
+  <updated>2026-10-05</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>Introducing AgentEnv: An Open-Source Framework for Building RL Environments</title>
+    <link href="https://labs.scale.com/blog/introducing-agentenv"/>
+    <id>e2a26fca2c18aa1ed6592cd741fa5d26</id>
+    <published>2026-10-05</published>
+    <updated>2026-10-05</updated>
+    <summary type="text">An agent is only as good as the world it practices in, and building worlds that are realistic, accurate, and scalable all at once is the hard part of scaling RL. Every RL environment Scale builds runs on AgentEnv. Today we're open-sourcing it.
+ — By Edgar Arakelyan, Tejas Polakam, Yzabelle Go</summary>
+  </entry>
   <entry>
     <title>SWE-Bench Pro V2: A Cleaner, Harder-to-Game Leaderboard</title>
     <link href="https://labs.scale.com/blog/swe-bench-pro-v2"/>

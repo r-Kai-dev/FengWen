@@ -4,7 +4,7 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-10-06T01:37:50.182638+00:00</updated>
+  <updated>2026-10-07T00:16:43.080193+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
@@ -12,9 +12,27 @@
     <title>Sep. 24, 2026</title>
     <link href="https://epoch.ai/publications/huaweis-roadmap-to-2031"/>
     <id>0296545e2af87e4e77b04db1726a3ce5</id>
-    <published>2026-10-06T01:37:50.182638+00:00</published>
-    <updated>2026-10-06T01:37:50.182638+00:00</updated>
+    <published>2026-10-07T00:16:43.080193+00:00</published>
+    <updated>2026-10-07T00:16:43.080193+00:00</updated>
     <summary type="text">Huawei plans major gains in AI chip performance by 2030, but US export controls cap its most important scaling levers. Epoch AI estimates Huawei will produce less than 4% as much AI compute as Nvidia in 2026, a share that could be around 1% by 2028 without access to foreign memory.</summary>
+    <category term="Report"/>
+  </entry>
+  <entry>
+    <title>How do Chinese AI companies make money?</title>
+    <link href="https://epoch.ai/publications/how-do-chinese-ai-companies-make-money"/>
+    <id>96e40317c07947e45e4dd0514e619a34</id>
+    <published>2026-10-06T00:00:00+00:00</published>
+    <updated>2026-10-06T00:00:00+00:00</updated>
+    <summary type="text">China's six leading AI firms earn about 10% of OpenAI and Anthropic's combined AI revenue. Epoch AI examines their five revenue streams: consumer apps, model access, enterprise and government solutions, licensing fees, and indirect monetization through cloud and advertising.</summary>
+    <category term="Report"/>
+  </entry>
+  <entry>
+    <title>Who is most exposed to a chip supply shock?</title>
+    <link href="https://epoch.ai/publications/china-us-semiconductor-supply-chain-exposure"/>
+    <id>a24b5c0f0e04aa035d12ace272f394cd</id>
+    <published>2026-10-06T00:00:00+00:00</published>
+    <updated>2026-10-06T00:00:00+00:00</updated>
+    <summary type="text">China is 2.7× as exposed to semiconductor supply shocks as the US, Epoch AI estimates. Epoch traces chips through input-output tables to model the impact of a Taiwan shock and decoupling.</summary>
     <category term="Report"/>
   </entry>
   <entry>
@@ -79,23 +97,5 @@
     <updated>2026-09-17T00:00:00+00:00</updated>
     <summary type="text">Epoch AI's analysis of trade data finds a pattern consistent with $3B worth of chips smuggled to China via Malaysia. China recorded $3.8B of server imports from Malaysia in 2024–25; Malaysia recorded only $0.6B of exports.</summary>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>GPT-6 Astra leads on math benchmarks, but not on software engineering</title>
-    <link href="https://epoch.ai/data-insights/astra-eci-breakdown"/>
-    <id>10fdf95cf87863ae96d84c5262dbf8ce</id>
-    <published>2026-09-16T00:00:00+00:00</published>
-    <updated>2026-09-16T00:00:00+00:00</updated>
-    <summary type="text">OpenAI's GPT-6 Astra tops the Epoch Capabilities Index (ECI) with a score of 166, ahead of Claude Fable 5.1 at 164 and GPT-5.6 Sol at 162. Its Math-ECI of 170 sets a new record, but on software engineering benchmarks its SWE-ECI of 164 still lags behind Fable 5.1's 167.</summary>
-    <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>Scaling Our Global AI Data Center Research</title>
-    <link href="https://epoch.ai/latest/scaling-ai-data-centers-research"/>
-    <id>14f6fde16f537fcc8af72a0717e82cf1</id>
-    <published>2026-09-16T00:00:00+00:00</published>
-    <updated>2026-09-16T00:00:00+00:00</updated>
-    <summary type="text">Epoch AI's AI Data Centers explorer now covers an estimated 44% of global AI compute across 86 sites, with a redesigned interface and expanding global coverage.</summary>
-    <category term="Update"/>
   </entry>
 </feed>

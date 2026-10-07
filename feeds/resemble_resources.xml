@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-10-05T00:00:00+00:00</updated>
+  <updated>2026-10-06T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Guide to Deepfake Detection Technology: Everything You Need to Know in 2026</title>
+    <link href="https://www.resemble.ai/resources/deepfake-detection-technology-guide-2026"/>
+    <id>f161e6956533bf74a6c1e4b3387797cd</id>
+    <published>2026-10-06T00:00:00+00:00</published>
+    <updated>2026-10-06T00:00:00+00:00</updated>
+    <summary type="text">Learn how deepfake detection tech works in 2026, including image, video, and audio detection methods, limitations, and deployment considerations.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>How Real-Time Deepfake Detection Works in Financial Services</title>
     <link href="https://www.resemble.ai/resources/real-time-deepfake-detection-financial-services"/>
@@ -106,15 +115,6 @@
     <updated>2026-09-17T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>AI Voice Deepfake Fraud Detection: 8 Evaluation Criteria</title>
-    <link href="https://www.resemble.ai/resources/ai-voice-deepfake-fraud-detection-evaluation-criteria"/>
-    <id>abc17e52bcf7064ffa016ea1763dd967</id>
-    <published>2026-09-15T00:00:00+00:00</published>
-    <updated>2026-09-15T00:00:00+00:00</updated>
-    <summary type="text">A practical evaluation guide for fraud and security teams comparing AI voice deepfake fraud detection tools across accuracy, false positives, and explainability.</summary>
-    <category term="Blog"/>
   </entry>
   <entry>
     <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>

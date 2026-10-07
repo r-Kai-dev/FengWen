@@ -4,88 +4,40 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-10-05T22:42:14+00:00</updated>
+  <updated>2026-10-06T20:57:56+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Secret scanning 新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more</title>
-    <link href="https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more"/>
-    <id>4dd24c3262d195030c28954e1191ec03</id>
-    <published>2026-10-05T22:42:14+00:00</published>
-    <updated>2026-10-05T22:42:14+00:00</updated>
-    <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Dust：不依赖反向传播的 Transformer 预训练 / Dust: Pretraining Transformers Without Backpropagation</title>
-    <link href="https://qlabs.sh/research/dust"/>
-    <id>18f0e227c3b8a1bc0ae296b85f50639c</id>
-    <published>2026-10-05T21:15:07+00:00</published>
-    <updated>2026-10-05T21:15:07+00:00</updated>
-    <summary type="text">Score: 0.541\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Opus 5.5的研究人员发现了两种室温磁性半导体候选材料</title>
-    <link href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"/>
-    <id>f25f7f6441776a4aa2f0a75d98851177</id>
-    <published>2026-10-05T21:00:21+00:00</published>
-    <updated>2026-10-05T21:00:21+00:00</updated>
-    <summary type="text">Score: 0.568\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI</title>
-    <link href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x"/>
-    <id>33d70bed0216bfa3b49944e31c3d691d</id>
-    <published>2026-10-05T20:01:09+00:00</published>
-    <updated>2026-10-05T20:01:09+00:00</updated>
-    <summary type="text">Score: 0.757\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development</title>
+    <link href="https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development"/>
+    <id>a0a77a36d987906a24f2fcc40bfd4a21</id>
+    <published>2026-10-06T20:57:56+00:00</published>
+    <updated>2026-10-06T20:57:56+00:00</updated>
+    <summary type="text">Score: 0.751\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Beam：Reflection 501B 无重量限制款</title>
-    <link href="https://reflection.ai/blog/introducing-beam"/>
-    <id>8d898f944498d177943721e4224cbd16</id>
-    <published>2026-10-05T19:16:35+00:00</published>
-    <updated>2026-10-05T19:16:35+00:00</updated>
-    <summary type="text">Score: 0.539\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Wikimedia 基金会发现 OpenAI &quot;流氓&quot;智能体在维基媒体平台上的活动 / OpenAI &quot;rogue&quot; agent activities found on Wikimedia projects</title>
-    <link href="https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects"/>
-    <id>f4be2e5a9f1f9a9dc4b9345ced456c40</id>
-    <published>2026-10-05T17:53:35+00:00</published>
-    <updated>2026-10-05T17:53:35+00:00</updated>
-    <summary type="text">Score: 0.822\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
+    <title>ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办</title>
+    <link href="https://x.com/thsottiaux/status/2107573405553938664"/>
+    <id>ea0d1188b3f307a545fcad5ffdcd9290</id>
+    <published>2026-10-06T20:47:11+00:00</published>
+    <updated>2026-10-06T20:47:11+00:00</updated>
+    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="multi_source"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>ReviewBench：面向 AI 代码审查的开放基准 / ReviewBench: An open benchmark for AI code review</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review"/>
-    <id>0db3252f57a4ac96b8f251c0f64f6cdf</id>
-    <published>2026-10-05T15:59:40+00:00</published>
-    <updated>2026-10-05T15:59:40+00:00</updated>
-    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>堆叠式 pull requests 正式可用 / Stacked pull requests generally available</title>
+    <link href="https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available"/>
+    <id>5fc97aba7210abae7341f4307bdc4b53</id>
+    <published>2026-10-06T20:16:41+00:00</published>
+    <updated>2026-10-06T20:16:41+00:00</updated>
+    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -93,23 +45,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Sam Altman：为了AI带来的好处，“世界应该接受一些不好的事情发生 / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI</title>
-    <link href="https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai"/>
-    <id>0e0a9e79fcd0224e22f41cffdd5cedc6</id>
-    <published>2026-10-05T15:03:32+00:00</published>
-    <updated>2026-10-05T15:03:32+00:00</updated>
-    <summary type="text">Score: 0.528\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules</title>
-    <link href="https://openai.com/index/eu-text-provenance"/>
-    <id>ead6f061e2f3363f432fabffd66cba8d</id>
-    <published>2026-10-05T15:00:00+00:00</published>
-    <updated>2026-10-05T15:00:00+00:00</updated>
-    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
+    <link href="https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"/>
+    <id>a10350d1b5948ac31695a42416944999</id>
+    <published>2026-10-06T19:57:04+00:00</published>
+    <updated>2026-10-06T19:57:04+00:00</updated>
+    <summary type="text">Score: 0.840\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -117,56 +58,48 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI在ChatGPT里塞进更多广告 / OpenAI is sticking more ads in ChatGPT</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"/>
-    <id>1dd77c459c402f60d0cdc356e15f05e2</id>
-    <published>2026-10-05T13:09:48+00:00</published>
-    <updated>2026-10-05T13:09:48+00:00</updated>
-    <summary type="text">Score: 0.616\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'</title>
+    <link href="https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight"/>
+    <id>d41fee39b3c5d673b44f21419d1c3009</id>
+    <published>2026-10-06T19:26:09+00:00</published>
+    <updated>2026-10-06T19:26:09+00:00</updated>
+    <summary type="text">Score: 0.798\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>人们正让ChatGPT帮他们决定中期选举怎么投票 / People are asking ChatGPT to help them decide how to vote in the midterms</title>
-    <link href="https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election"/>
-    <id>bbacb61b5e21f58d0132992b72eba8c5</id>
-    <published>2026-10-05T12:59:37+00:00</published>
-    <updated>2026-10-05T12:59:37+00:00</updated>
-    <summary type="text">Score: 0.526\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...</title>
+    <link href="https://x.com/thexpin/status/2107524306058289533"/>
+    <id>0ec9718c20c55393b7da4b16073b722c</id>
+    <published>2026-10-06T17:32:05+00:00</published>
+    <updated>2026-10-06T17:32:05+00:00</updated>
+    <summary type="text">Score: 0.787\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Safeworld 能说服人们相信 GenAI 机器人不会伤害他们吗？ / Can Safeworld convince people that GenAI robots won’t hurt them?</title>
-    <link href="https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them"/>
-    <id>a2a7f85e8259808264bd5723d77c392a</id>
-    <published>2026-10-05T12:00:00+00:00</published>
-    <updated>2026-10-05T12:00:00+00:00</updated>
-    <summary type="text">Score: 0.630\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™</title>
+    <link href="https://www.youtube.com/watch?v=idJQMJwHtyM"/>
+    <id>f0a6f1b4869519362e93cb8fac138d9b</id>
+    <published>2026-10-06T17:02:37+00:00</published>
+    <updated>2026-10-06T17:02:37+00:00</updated>
+    <summary type="text">Score: 0.750\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>欧洲新晋机器人独角兽：德国 RobCo 估值达 10 亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation</title>
-    <link href="https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation"/>
-    <id>a12fe2818ce96a81a9e9c4c34fc50751</id>
-    <published>2026-10-05T11:13:51+00:00</published>
-    <updated>2026-10-05T11:13:51+00:00</updated>
-    <summary type="text">Score: 0.517\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI</title>
-    <link href="https://openai.com/index/new-chatgpt-ads-format-and-measurement"/>
-    <id>206a3e61713bf61917caef0a7b172291</id>
-    <published>2026-10-05T10:00:00+00:00</published>
-    <updated>2026-10-05T10:00:00+00:00</updated>
-    <summary type="text">Score: 0.821\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Atlassian 与 OpenAI 扩大合作，把企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
+    <link href="https://openai.com/index/atlassian-partnership"/>
+    <id>b31432783037ab076d1dbce85087b9c1</id>
+    <published>2026-10-06T16:00:00+00:00</published>
+    <updated>2026-10-06T16:00:00+00:00</updated>
+    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -174,23 +107,70 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Anthropic向警方报案称发现日记条目，一名女子面临重罪指控</title>
-    <link href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html"/>
-    <id>39885e578322bfc0bbba5fb2292e9d83</id>
-    <published>2026-10-05T05:37:40+00:00</published>
-    <updated>2026-10-05T05:37:40+00:00</updated>
-    <summary type="text">Score: 0.555\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):</title>
+    <link href="https://x.com/arcprize/status/2107491194007585239"/>
+    <id>c739200dd32e86e9a10b6c8f25f9ccd2</id>
+    <published>2026-10-06T15:20:30+00:00</published>
+    <updated>2026-10-06T15:20:30+00:00</updated>
+    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Codex CLI 0.160.1</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>b8e780c43c361593dda77d42e344841f</id>
-    <published>2026-10-05T00:00:00+00:00</published>
-    <updated>2026-10-05T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.815\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!</title>
+    <link href="https://x.com/arena/status/2107476436223504484"/>
+    <id>b5c633a4b52cd61a985bcd5ced83602a</id>
+    <published>2026-10-06T14:21:52+00:00</published>
+    <updated>2026-10-06T14:21:52+00:00</updated>
+    <summary type="text">Score: 0.735\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈</title>
+    <link href="https://x.com/OpenRouter/status/2107471559040635360"/>
+    <id>c65f0e5d7699c83694a5d593e9c505d8</id>
+    <published>2026-10-06T14:02:29+00:00</published>
+    <updated>2026-10-06T14:02:29+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: &quot;Le Chonk&quot;</title>
+    <link href="https://mistral.ai/news/mistral-large-4"/>
+    <id>32214263f81b9e3b891178a533aadfbe</id>
+    <published>2026-10-06T13:25:50+00:00</published>
+    <updated>2026-10-06T13:25:50+00:00</updated>
+    <summary type="text">Score: 0.787\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾 / Claude Code in the cloud: a field guide to cloud sessions</title>
+    <link href="https://claude.dev/blog/claude-code-in-the-cloud"/>
+    <id>455119fa824e886b034893393ef27a8f</id>
+    <published>2026-10-06T12:00:00+00:00</published>
+    <updated>2026-10-06T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.774\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>在安全概览中启用代码扫描 AI Scan 的状态 / Code scanning AI Scan enablement status in security overview</title>
+    <link href="https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview"/>
+    <id>66bb5658415f04744683d3492a237e6e</id>
+    <published>2026-10-06T10:23:38+00:00</published>
+    <updated>2026-10-06T10:23:38+00:00</updated>
+    <summary type="text">Score: 0.817\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -198,14 +178,77 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI的GPT-6 Astra打StarCraft输到急眼，索性开始作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead</title>
-    <link href="https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead"/>
-    <id>4366a745d1348ae0166dae23057f6b6a</id>
-    <published>2026-10-04T23:34:17+00:00</published>
-    <updated>2026-10-04T23:34:17+00:00</updated>
-    <summary type="text">Score: 0.496\nSources: 2 (TechURLs)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>用 Ironclad 推进计算机使用 / Advancing computer use with Ironclad</title>
+    <link href="https://openai.com/index/advancing-computer-use-with-ironclad"/>
+    <id>5cd61e16c4effe0a47581f698d525b3d</id>
+    <published>2026-10-06T10:00:00+00:00</published>
+    <updated>2026-10-06T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Falcon-Emirati：当一个 LLM 学会了方言、文化与细微之处 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
+    <link href="https://huggingface.co/blog/tiiuae/falcon-emirati"/>
+    <id>4617e2e414803587e51d272d44757625</id>
+    <published>2026-10-06T06:44:39+00:00</published>
+    <updated>2026-10-06T06:44:39+00:00</updated>
+    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与</title>
+    <link href="https://www.ithome.com/1/009/990.htm"/>
+    <id>2110774917a9743b3d6e3bc1727d9fb3</id>
+    <published>2026-10-06T06:25:15+00:00</published>
+    <updated>2026-10-06T06:25:15+00:00</updated>
+    <summary type="text">Score: 0.756\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.</title>
+    <link href="https://x.com/rohanpaul_ai/status/2107346890648076595"/>
+    <id>88d057a1a5f12c5a364b415fc96b8cea</id>
+    <published>2026-10-06T05:47:05+00:00</published>
+    <updated>2026-10-06T05:47:05+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2 / Bring multimodal semantic search to the edge with EmbeddingGemma 2</title>
+    <link href="https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2"/>
+    <id>5fd300916484e0659408bea1d8abe09e</id>
+    <published>2026-10-06T00:00:00+00:00</published>
+    <updated>2026-10-06T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.756\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Secret scanning 新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more</title>
+    <link href="https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more"/>
+    <id>4dd24c3262d195030c28954e1191ec03</id>
+    <published>2026-10-05T22:42:14+00:00</published>
+    <updated>2026-10-05T22:42:14+00:00</updated>
+    <summary type="text">Score: 0.793\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
 </feed>

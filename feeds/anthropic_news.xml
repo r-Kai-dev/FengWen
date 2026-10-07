@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-10-02T00:00:00+00:00</updated>
+  <updated>2026-10-06T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Expanding the Cyber Verification Program</title>
+    <link href="https://www.anthropic.com/news/cyber-verification-program"/>
+    <id>0655ecfed104c9ebb34a7c24eaa57c1e</id>
+    <published>2026-10-06T00:00:00+00:00</published>
+    <updated>2026-10-06T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
   <entry>
     <title>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
     <link href="https://www.anthropic.com/news/claude-frontier-academy"/>
@@ -110,14 +118,6 @@
     <id>c424240d858f52457ba88d767156c8ff</id>
     <published>2026-08-27T00:00:00+00:00</published>
     <updated>2026-08-27T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-  </entry>
-  <entry>
-    <title>Funding better evaluations of AI’s impact on wellbeing</title>
-    <link href="https://www.anthropic.com/news/wellbeing-research-grants"/>
-    <id>0e2f2b4e35edf08c7df0fef2e37b50b5</id>
-    <published>2026-08-25T00:00:00+00:00</published>
-    <updated>2026-08-25T00:00:00+00:00</updated>
     <category term="Announcements"/>
   </entry>
 </feed>

@@ -4,17 +4,35 @@
   <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
   <link href="https://www.figma.com/blog/"/>
   <id>https://www.figma.com/blog/</id>
-  <updated>2026-10-01T16:48:00.000Z</updated>
+  <updated>2026-10-06T14:00:00.000Z</updated>
   <author>
-    <name>Ken Vreman</name>
+    <name>Jenny Xie</name>
   </author>
   <entry>
-    <title>Workflow lab: From design system to campaign in Figma Weave</title>
-    <link href="https://www.figma.com/blog/workflow-lab-from-design-system-to-campaign-in-figma-weave/"/>
-    <id>4f43609877632a37d4940217edf5620a</id>
-    <published>2026-10-01T16:48:00.000Z</published>
-    <updated>2026-10-01T16:48:00.000Z</updated>
-    <summary type="text">Design systems can power more than just designs. This workflow shows you how to turn raw materials into brand campaign collateral using the Gen Effect and Figma nodes.</summary>
+    <title>3 ways product designers use the Figma agent for craft, speed, and creative expression</title>
+    <link href="https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/"/>
+    <id>60668461c762a7578fce0c5edc0589a9</id>
+    <published>2026-10-06T14:00:00.000Z</published>
+    <updated>2026-10-06T14:00:00.000Z</updated>
+    <summary type="text">Here’s how teams at Uber, Granola, and Atlassian support high-quality, fast-moving work with the Figma agent, now generally available.</summary>
+    <category term="Maker Stories"/>
+  </entry>
+  <entry>
+    <title>How to lighten design system upkeep with the Figma agent</title>
+    <link href="https://www.figma.com/blog/figma-agent-and-design-systems/"/>
+    <id>317ade46c7b0552f5cc23a32a66fd1db</id>
+    <published>2026-10-06T14:00:00.000Z</published>
+    <updated>2026-10-06T14:00:00.000Z</updated>
+    <summary type="text">Figma’s agent can take on repetitive work across your design system, from maintaining your library to automating how designs adhere to it. Here, we share a few ways to put the Figma agent to work.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>Workflow lab: Staying in the flow with Figma’s agent</title>
+    <link href="https://www.figma.com/blog/workflow-lab-staying-in-the-flow-with-the-figma-agent/"/>
+    <id>6c51d462b4c12117486c3e80beaa6347</id>
+    <published>2026-10-06T14:00:00.000Z</published>
+    <updated>2026-10-06T14:00:00.000Z</updated>
+    <summary type="text">Knowing what work to hand to an agent is a skill of its own. This workflow shows how a designer shapes a new temporary-access feature while the Figma agent handles the library updates, crit feedback, and a first draft of a design system spec.</summary>
     <category term="Working Well"/>
   </entry>
   <entry>
@@ -27,85 +45,58 @@
     <category term="Working Well"/>
   </entry>
   <entry>
-    <title>The power of product-based learning</title>
-    <link href="https://www.figma.com/blog/the-power-of-product-based-learning/"/>
-    <id>25c778b2c1fec16ec417c409f4dfacb4</id>
-    <published>2026-09-23T15:56:00.000Z</published>
-    <updated>2026-09-23T15:56:00.000Z</updated>
-    <summary type="text">There’s a big difference between having an idea and making it real, and in that space is where learning happens. Here’s how teachers are using Figma to give their students hands-on design experiences.</summary>
+    <title>Source material: Graphic designer Aitana Picó wants us to appreciate bad trends</title>
+    <link href="https://www.figma.com/blog/source-material-aitana-pico/"/>
+    <id>a596dd749dd4a53a4dc28d0690e2d3d9</id>
+    <published>2026-09-21T17:24:00.000Z</published>
+    <updated>2026-09-21T17:24:00.000Z</updated>
+    <summary type="text">The multidisciplinary designer and artist shares what’s in her “mental database”: an off-putting tarot deck, a Jockstrap CD, and a recurring dream about aerial silks.</summary>
+    <category term="Maker Stories"/>
+  </entry>
+  <entry>
+    <title>Source material: Artist and educator Zach Lieberman likes to break things</title>
+    <link href="https://www.figma.com/blog/source-material-zach-lieberman/"/>
+    <id>0dc9a4bcca0b86bccc91b34a0398cffd</id>
+    <published>2026-09-15T20:52:00.000Z</published>
+    <updated>2026-09-15T20:52:00.000Z</updated>
+    <summary type="text">The creative coder explains the throughline between drawing and computation, and why he’s jealous of pioneering artist Lillian Schwartz.</summary>
+    <category term="Maker Stories"/>
+  </entry>
+  <entry>
+    <title>Source material: Creative technologist Marisa Chentakul is tired of calling things “slop”</title>
+    <link href="https://www.figma.com/blog/source-material-marisa-chentakul/"/>
+    <id>a916ad6833a551e32ac69aa5935a5626</id>
+    <published>2026-09-03T15:49:00.000Z</published>
+    <updated>2026-09-03T15:49:00.000Z</updated>
+    <summary type="text">One of the internet’s favorite designers shares why her cyberdeck doubles as a makeup vanity, and the questions she asks herself to get into a creative space.</summary>
+    <category term="Maker Stories"/>
+  </entry>
+  <entry>
+    <title>How to move fast toward the right thing</title>
+    <link href="https://www.figma.com/blog/how-to-move-fast-toward-the-right-thing/"/>
+    <id>a5d268554fa51c06d12ed2ed27e3788d</id>
+    <published>2026-08-13T20:30:00.000Z</published>
+    <updated>2026-08-13T20:30:00.000Z</updated>
+    <summary type="text">With AI, speed comes easy, but so does tech debt. That’s why the best teams don’t just ship something fast; they consider it carefully, build it efficiently, and make it stand out.</summary>
     <category term="Working Well"/>
   </entry>
   <entry>
-    <title>Digital tools, human expression: The visual identity behind Config 2026</title>
-    <link href="https://www.figma.com/blog/the-visual-identity-behind-config-2026/"/>
-    <id>5dce464eef497e7ea89c4e111509bdd2</id>
-    <published>2026-07-27T16:30:00.000Z</published>
-    <updated>2026-07-27T16:30:00.000Z</updated>
-    <summary type="text">Here’s how Figma’s Brand Studio designed a conference that captured the very human ways we remix and reinvent when working with AI tools.</summary>
+    <title>Try these 10 skills—and show off your own</title>
+    <link href="https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/"/>
+    <id>75dd2acb8d279510bb17fa999604cee5</id>
+    <published>2026-08-13T16:00:00.000Z</published>
+    <updated>2026-08-13T16:00:00.000Z</updated>
+    <summary type="text">Now you can author skills for our agent, directly in Figma, to put your point of view to work. Here are 10 of our favorites to get you started.</summary>
     <category term="Inside Figma"/>
   </entry>
   <entry>
-    <title>Got skills? Make the Figma agent a better collaborator</title>
-    <link href="https://www.figma.com/blog/got-skills-make-the-figma-agent-a-better-collaborator/"/>
-    <id>b83ed2386aca97e8fab33b77cb095543</id>
-    <published>2026-07-01T13:45:00.000Z</published>
-    <updated>2026-07-01T13:45:00.000Z</updated>
-    <summary type="text">From sharing your best thinking to learning from your team’s go-to prompts, here’s what skills unlock in the Figma agent.</summary>
+    <title>Workflow lab: Deploying designs directly with Figma Make</title>
+    <link href="https://www.figma.com/blog/workflow-lab-deploying-designs-directly-with-figma-make/"/>
+    <id>7515234e44912ffeddb73c7292581b3f</id>
+    <published>2026-07-16T12:00:00.000Z</published>
+    <updated>2026-07-16T12:00:00.000Z</updated>
+    <summary type="text">The handoff from design to code doesn't have to be a one-way street. This workflow shows how a designer can connect a codebase to Figma Make, make the changes directly, and bring the whole team into review—right up to the PR.</summary>
     <category term="Working Well"/>
-  </entry>
-  <entry>
-    <title>Start Anywhere, a magazine by Figma</title>
-    <link href="https://www.figma.com/blog/start-anywhere/"/>
-    <id>7bfda3486d72ac4e6c0d323b3138ce10</id>
-    <published>2026-06-29T21:22:00.000Z</published>
-    <updated>2026-06-29T21:22:00.000Z</updated>
-    <summary type="text">New tools and materials make it easier to build anything and start anywhere. The question now is, where do you want to go?</summary>
-    <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>Meet the artists behind Figma’s Season 5 collection</title>
-    <link href="https://www.figma.com/blog/how-season-5-merch-came-to-life/"/>
-    <id>517f9b6edb6ca4dbd6c18612d46d876f</id>
-    <published>2026-06-29T20:12:13.375Z</published>
-    <updated>2026-06-29T20:12:13.375Z</updated>
-    <summary type="text">Figma's Season 5 merch is full of surprises—smiling cubes, a tomato with arms, wooden shapes painted in gouache. We asked the eight artists behind the collection how they work, what inspires them, and what they created.</summary>
-    <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>Config 2026: New materials, new tools and a more expressive canvas</title>
-    <link href="https://www.figma.com/blog/config-2026-recap/"/>
-    <id>2abd62f945d282ed28de42348528f7a9</id>
-    <published>2026-06-24T15:00:00.000Z</published>
-    <updated>2026-06-24T15:00:00.000Z</updated>
-    <summary type="text">Push past what you thought was possible with code layers, Figma Motion, shaders, generative plugins and Weave tools, all on the canvas.</summary>
-    <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>Code on the Figma canvas</title>
-    <link href="https://www.figma.com/blog/code-on-the-figma-canvas/"/>
-    <id>3d2cf3ed32334c4e44a9cca986bcc6d1</id>
-    <published>2026-06-24T14:30:00.000Z</published>
-    <updated>2026-06-24T14:30:00.000Z</updated>
-    <summary type="text">With code layers in Figma Design, you can explore multiple directions with code, side by side with your team.</summary>
-    <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>Connecting Figma and Weave</title>
-    <link href="https://www.figma.com/blog/connecting-figma-and-weave/"/>
-    <id>ad790d763081a8a8700cb1b040c165c5</id>
-    <published>2026-06-24T14:00:00.000Z</published>
-    <updated>2026-06-24T14:00:00.000Z</updated>
-    <summary type="text">Today, we’re announcing new ways your Weave creative workflows can live alongside your Figma frames.</summary>
-    <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>Introducing Figma Motion: Your canvas now has a timeline</title>
-    <link href="https://www.figma.com/blog/introducing-figma-motion/"/>
-    <id>7519594d3c8af6a8903a7882f34e5f61</id>
-    <published>2026-06-24T13:30:00.000Z</published>
-    <updated>2026-06-24T13:30:00.000Z</updated>
-    <summary type="text">Motion now lives on the canvas—in the same file as your components, your variables, and your team—so your designs can come to life from day one.</summary>
-    <category term="Inside Figma"/>
   </entry>
   <entry>
     <title>Figma’s design agent, now with custom tools and greater context</title>
@@ -126,33 +117,6 @@
     <category term="Insights"/>
   </entry>
   <entry>
-    <title>Principles in motion</title>
-    <link href="https://www.figma.com/blog/principles-in-motion/"/>
-    <id>51ed6c282896bc8dc368173e403fcf27</id>
-    <published>2026-06-24T12:30:00.000Z</published>
-    <updated>2026-06-24T12:30:00.000Z</updated>
-    <summary type="text">When you’re designing motion, you’re designing with time. Understanding the mechanics turns movement into meaning.</summary>
-    <category term="Working Well"/>
-  </entry>
-  <entry>
-    <title>What does the future of software look like?</title>
-    <link href="https://www.figma.com/blog/future-states/"/>
-    <id>a2bc13c736a991eb6575ba46e2913f64</id>
-    <published>2026-06-24T12:00:00.000Z</published>
-    <updated>2026-06-24T12:00:00.000Z</updated>
-    <summary type="text">Our community imagines how AI might bring about more human ways to interact with software.</summary>
-    <category term="Insights"/>
-  </entry>
-  <entry>
-    <title>Speaking the language of color</title>
-    <link href="https://www.figma.com/blog/pantone-speaking-the-language-of-color/"/>
-    <id>102db51b37435595774aba964905b2ea</id>
-    <published>2026-06-17T15:00:00.000Z</published>
-    <updated>2026-06-17T15:00:00.000Z</updated>
-    <summary type="text">The Pantone Color Institute explains how brands can use color to shape meaning and drive trends.</summary>
-    <category term="Maker Stories"/>
-  </entry>
-  <entry>
     <title>You never stop cultivating taste</title>
     <link href="https://www.figma.com/blog/you-never-stop-cultivating-taste/"/>
     <id>4aad122c451b6909de964625d41402d1</id>
@@ -162,39 +126,12 @@
     <category term="Insights"/>
   </entry>
   <entry>
-    <title>4 new ways to go from idea to product with AI tools</title>
-    <link href="https://www.figma.com/blog/4-new-ways-to-go-from-idea-to-product-with-ai-tools/"/>
-    <id>a2ca25e89de049fc17efebb3fb73a2b9</id>
-    <published>2026-05-28T19:52:00.000Z</published>
-    <updated>2026-05-28T19:52:00.000Z</updated>
-    <summary type="text">AI tools are changing how teams build products—from where they start to what carries through to production. Here's what that shift looks like across four organizations.</summary>
-    <category term="Working Well"/>
-  </entry>
-  <entry>
-    <title>What matters when anyone can build</title>
-    <link href="https://www.figma.com/blog/what-matters-when-anyone-can-build/"/>
-    <id>7437731bde6b83e0c32bdaf04089cdec</id>
-    <published>2026-05-22T16:30:00.000Z</published>
-    <updated>2026-05-22T16:30:00.000Z</updated>
-    <summary type="text">If AI can make anyone a product builder, the real edge is knowing what’s worth shipping.</summary>
-    <category term="Insights"/>
-  </entry>
-  <entry>
-    <title>What the design-to-code loop unlocks</title>
-    <link href="https://www.figma.com/blog/what-the-design-to-code-loop-unlocks/"/>
-    <id>e9138e3992cc3cb505b0fb2b36bd39c1</id>
-    <published>2026-05-12T15:30:00.000Z</published>
-    <updated>2026-05-12T15:30:00.000Z</updated>
-    <summary type="text">With work moving more fluidly between code and canvas, workflows aren’t just changing—they’re converging.</summary>
-    <category term="Working Well"/>
-  </entry>
-  <entry>
-    <title>How to design agentic tools for work</title>
-    <link href="https://www.figma.com/blog/how-to-design-agentic-tools-for-work/"/>
-    <id>b0f7e1278576f9a8be7509db8ee03e87</id>
-    <published>2026-04-29T16:44:00.000Z</published>
-    <updated>2026-04-29T16:44:00.000Z</updated>
-    <summary type="text">The Gemini Enterprise team shares their approach to making complex, multi-agent workflows feel simple, intuitive, and trustworthy.</summary>
-    <category term="Maker Stories"/>
+    <title>The Figma design agent is here</title>
+    <link href="https://www.figma.com/blog/the-figma-agent-is-here/"/>
+    <id>83f129c14d9235a964b7916305dd74c0</id>
+    <published>2026-05-20T12:00:00.000Z</published>
+    <updated>2026-05-20T12:00:00.000Z</updated>
+    <summary type="text">Starting today, work with an agent that is built for Figma—directly on the canvas.</summary>
+    <category term="Inside Figma"/>
   </entry>
 </feed>
