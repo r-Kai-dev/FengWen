@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-10-02T00:00:00+00:00</updated>
+  <updated>2026-10-07T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>Now in Nature: Retrofitting language models to operate over bytes</title>
+    <link href="https://allenai.org/blog/bolmo-nature"/>
+    <id>f22071f855f77c08b4f34fdc0e1e682e</id>
+    <published>2026-10-07T00:00:00+00:00</published>
+    <updated>2026-10-07T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
     <link href="https://allenai.org/blog/astabrief"/>
@@ -63,12 +70,5 @@
     <id>f7593f8726361bdffc59aa235735e12a</id>
     <published>2026-06-25T00:00:00+00:00</published>
     <updated>2026-06-25T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>MolmoMotion: Language-guided 3D motion forecasting</title>
-    <link href="https://allenai.org/blog/molmo-motion"/>
-    <id>e426f9dea8be7b06c8639b808b3cd933</id>
-    <published>2026-06-17T00:00:00+00:00</published>
-    <updated>2026-06-17T00:00:00+00:00</updated>
   </entry>
 </feed>

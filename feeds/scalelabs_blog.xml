@@ -4,10 +4,18 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-10-05</updated>
+  <updated>2026-10-07</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>Introducing Humanity's Sixth Sense: Measuring Intuitive Visual Reasoning</title>
+    <link href="https://labs.scale.com/blog/introducing-humanitys-sixth-sense"/>
+    <id>6d7b6a4c94b33fd5a29aa5d0ee037e55</id>
+    <published>2026-10-07</published>
+    <updated>2026-10-07</updated>
+    <summary type="text">Today we're introducing Humanity's Sixth Sense (HSS), in partnership with Elorian, a benchmark for intuitive visual reasoning with 522 open-ended tasks across 288 images and 234 video clips (17.6 hours of video in total).  — By Xingang Guo, Brian Jang</summary>
+  </entry>
   <entry>
     <title>Introducing AgentEnv: An Open-Source Framework for Building RL Environments</title>
     <link href="https://labs.scale.com/blog/introducing-agentenv"/>

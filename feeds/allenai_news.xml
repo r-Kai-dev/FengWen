@@ -10,14 +10,6 @@
   </author>
   <entry>
     <title>Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
-    <link href="https://allenai.org/blog/olmocore3"/>
-    <id>4f1389f46041b953335a62e041af748b</id>
-    <published>2026-10-01T00:00:00+00:00</published>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <summary type="text">Olmo-core 3 introduces a redesigned, fully open training stack for efficiently scaling mixture-of-experts modelsâ¦</summary>
-  </entry>
-  <entry>
-    <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
     <link href="https://allenai.org/blog/astabrief"/>
     <id>13b09e851f6dcbded94057a800dd32fe</id>
     <published>2026-10-01T00:00:00+00:00</published>
@@ -25,43 +17,43 @@
     <summary type="text">Weâre releasing AstaBrief, an 8B open-weights model for generating cited scientific reports, available in Astaâsâ¦</summary>
   </entry>
   <entry>
+    <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
+    <link href="https://allenai.org/blog/bolmo-nature"/>
+    <id>bd584b885baaaf6f4e9c8df35c7e6622</id>
+    <published>2026-10-01T00:00:00+00:00</published>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <summary type="text">The technique behind Bolmo, Ai2âs fully open byte-level language models, is now published in Nature, with newâ¦</summary>
+  </entry>
+  <entry>
     <title>The hard parts of AI-assisted science</title>
-    <link href="https://allenai.org/blog/swedish-autodiscovery-recap"/>
-    <id>a189d9a3a4f4f4268e0d76acddc6965d</id>
+    <link href="https://allenai.org/blog/olmocore3"/>
+    <id>4f1389f46041b953335a62e041af748b</id>
     <published>2026-09-01T00:00:00+00:00</published>
     <updated>2026-09-01T00:00:00+00:00</updated>
-    <summary type="text">At an Ai2 event marking our expanded collaboration with Providence Swedish, researchers explored the hardestâ¦</summary>
+    <summary type="text">Olmo-core 3 introduces a redesigned, fully open training stack for efficiently scaling mixture-of-experts modelsâ¦</summary>
   </entry>
   <entry>
     <title>Ai2 expands collaboration with Hugging Face to accelerate open science</title>
-    <link href="https://allenai.org/blog/hugging-face-partnership"/>
-    <id>356630363f9a0dee2a2e83731b5e4415</id>
-    <published>2026-08-01T00:00:00+00:00</published>
-    <updated>2026-08-01T00:00:00+00:00</updated>
-    <summary type="text">Ai2 is expanding its partnership with Hugging Face to give its growing portfolio of fully open models, datasets,â¦</summary>
-  </entry>
-  <entry>
-    <title>Who gets to understand AI? </title>
     <link href="https://allenai.org/blog/swedish-autodiscovery-partnership"/>
     <id>76def5ba78315dfe85431aeefc810a61</id>
-    <published>2026-07-01T00:00:00+00:00</published>
-    <updated>2026-07-01T00:00:00+00:00</updated>
+    <published>2026-08-01T00:00:00+00:00</published>
+    <updated>2026-08-01T00:00:00+00:00</updated>
     <summary type="text">Ai2 and Providence Swedish Cancer Institute are expanding their collaboration after AutoDiscovery helpedâ¦</summary>
   </entry>
   <entry>
-    <title>MolmoMotion: Language-guided 3D motion forecasting</title>
-    <link href="https://allenai.org/blog/who-gets-to-understand-ai"/>
-    <id>c1e7200377138a6f2c52d095311f28ae</id>
-    <published>2026-06-01T00:00:00+00:00</published>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <summary type="text">Why fully open models and research artifacts are essential to independent scrutiny, broader participation, andâ¦</summary>
+    <title>Who gets to understand AI? </title>
+    <link href="https://allenai.org/blog/swedish-autodiscovery-recap"/>
+    <id>a189d9a3a4f4f4268e0d76acddc6965d</id>
+    <published>2026-07-01T00:00:00+00:00</published>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <summary type="text">At an Ai2 event marking our expanded collaboration with Providence Swedish, researchers explored the hardestâ¦</summary>
   </entry>
   <entry>
-    <title>Why Artificial Analysis uses Ai2's IFBench instruction-following eval</title>
-    <link href="https://allenai.org/blog/flexmore"/>
-    <id>595d0d213004e5275c27fad3be1a5ea2</id>
-    <published>2026-05-01T00:00:00+00:00</published>
-    <updated>2026-05-01T00:00:00+00:00</updated>
-    <summary type="text">Danish Foundation Models is using FlexOlmo as the basis for FlexMoRE, a more efficient modular LLM architectureâ¦</summary>
+    <title>MolmoMotion: Language-guided 3D motion forecasting</title>
+    <link href="https://allenai.org/blog/hugging-face-partnership"/>
+    <id>356630363f9a0dee2a2e83731b5e4415</id>
+    <published>2026-06-01T00:00:00+00:00</published>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <summary type="text">Ai2 is expanding its partnership with Hugging Face to give its growing portfolio of fully open models, datasets,â¦</summary>
   </entry>
 </feed>

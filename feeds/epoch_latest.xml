@@ -4,7 +4,7 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-10-07T00:16:43.080193+00:00</updated>
+  <updated>2026-10-08T00:37:54.245811+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
@@ -12,10 +12,37 @@
     <title>Sep. 24, 2026</title>
     <link href="https://epoch.ai/publications/huaweis-roadmap-to-2031"/>
     <id>0296545e2af87e4e77b04db1726a3ce5</id>
-    <published>2026-10-07T00:16:43.080193+00:00</published>
-    <updated>2026-10-07T00:16:43.080193+00:00</updated>
+    <published>2026-10-08T00:37:54.245811+00:00</published>
+    <updated>2026-10-08T00:37:54.245811+00:00</updated>
     <summary type="text">Huawei plans major gains in AI chip performance by 2030, but US export controls cap its most important scaling levers. Epoch AI estimates Huawei will produce less than 4% as much AI compute as Nvidia in 2026, a share that could be around 1% by 2028 without access to foreign memory.</summary>
     <category term="Report"/>
+  </entry>
+  <entry>
+    <title>Can AI automate AI R&amp;D yet?</title>
+    <link href="https://epoch.ai/publications/innovationeval"/>
+    <id>4def9766275418dee90b00d68eba84a5</id>
+    <published>2026-10-07T00:00:00+00:00</published>
+    <updated>2026-10-07T00:00:00+00:00</updated>
+    <summary type="text">Early evidence from InnovationEval: No</summary>
+    <category term="Report"/>
+  </entry>
+  <entry>
+    <title>EBR-bench update</title>
+    <link href="https://epoch.ai/publications/ebr-bench-update"/>
+    <id>0a8fc09f737a3fbcf23b6b929c4f1ef6</id>
+    <published>2026-10-07T00:00:00+00:00</published>
+    <updated>2026-10-07T00:00:00+00:00</updated>
+    <summary type="text">Updates on EBR-bench, Epoch AI’s benchmark that tests models’ ability to learn from experience. GPT-6 Astra hit a perfect score on over half its EBR-bench attempts by exploiting one overpowered card, which we now ban. Plus multi-agent scaffold results.</summary>
+    <category term="Report"/>
+  </entry>
+  <entry>
+    <title>US adults are no more likely to face cyber incidents than when Claude Fable 5 launched</title>
+    <link href="https://epoch.ai/data-insights/cyber-incidents-flat-since-fable-5"/>
+    <id>7cad763922f0fc62b9967a4cef0ca2fd</id>
+    <published>2026-10-07T00:00:00+00:00</published>
+    <updated>2026-10-07T00:00:00+00:00</updated>
+    <summary type="text">June and September polls from Epoch AI/Ipsos show no detectable increase in the share of US adults experiencing cyber incidents</summary>
+    <category term="Data Insight"/>
   </entry>
   <entry>
     <title>How do Chinese AI companies make money?</title>
@@ -70,32 +97,5 @@
     <updated>2026-09-23T00:00:00+00:00</updated>
     <summary type="text">AI model scores on Epoch AI's IKEA furniture assembly benchmark jumped from 28% to 80% in 10 months, with open-weight models trailing closed-weight models by about 7 months. Epoch AI's test of visual and spatial reasoning across 60 photos from three furniture builds.</summary>
     <category term="Report"/>
-  </entry>
-  <entry>
-    <title>The plunging price of thought</title>
-    <link href="https://epoch.ai/publications/the-plunging-price-of-thought"/>
-    <id>cf3abdea77842ad89c2b806be62c8e3b</id>
-    <published>2026-09-22T00:00:00+00:00</published>
-    <updated>2026-09-22T00:00:00+00:00</updated>
-    <summary type="text">Epoch AI measures how fast the cost of a given level of AI performance is falling across five benchmarks covering math, science and games of skill: about 47% per quarter, or 13x per year, since 2023, faster than electricity, compute, batteries or DNA sequencing ever fell.</summary>
-    <category term="Report"/>
-  </entry>
-  <entry>
-    <title>In August, 25% of math preprints acknowledged AI use, up from 4% in April</title>
-    <link href="https://epoch.ai/data-insights/math-preprints-disclosed-ai-use"/>
-    <id>e4456c5b24019b6b59d14966f81bc965</id>
-    <published>2026-09-18T00:00:00+00:00</published>
-    <updated>2026-09-18T00:00:00+00:00</updated>
-    <summary type="text">Acknowledgments of AI use in arXiv math preprints rose from 4% in April 2026 to 25% in August, with 6% crediting AI with a substantial research contribution.</summary>
-    <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>Trade data consistent with $3B of chips smuggled to China via Malaysia</title>
-    <link href="https://epoch.ai/data-insights/malaysia-china-chip-smuggling"/>
-    <id>510f03922e608b2f8ffb714515642fdb</id>
-    <published>2026-09-17T00:00:00+00:00</published>
-    <updated>2026-09-17T00:00:00+00:00</updated>
-    <summary type="text">Epoch AI's analysis of trade data finds a pattern consistent with $3B worth of chips smuggled to China via Malaysia. China recorded $3.8B of server imports from Malaysia in 2024–25; Malaysia recorded only $0.6B of exports.</summary>
-    <category term="Data Insight"/>
   </entry>
 </feed>
