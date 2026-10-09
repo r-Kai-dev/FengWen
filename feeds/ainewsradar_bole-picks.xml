@@ -4,102 +4,77 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-10-07T20:21:00+00:00</updated>
+  <updated>2026-10-08T20:02:39+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter</title>
-    <link href="https://x.com/OpenRouter/status/2107929204142874759"/>
-    <id>2f157929930b3b176e4a504b146cd8a7</id>
-    <published>2026-10-07T20:21:00+00:00</published>
-    <updated>2026-10-07T20:21:00+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot</title>
-    <link href="https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot"/>
-    <id>e8d7ef8e0ad599e8e29cd42a6f3e7d45</id>
-    <published>2026-10-07T20:12:18+00:00</published>
-    <updated>2026-10-07T20:12:18+00:00</updated>
-    <summary type="text">Score: 0.855\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43 / Anthropic has released Claude Haiku 5.5, scoring 43 on the Artificial Analysis Intelligence Index - up 26 points one year after the last ...</title>
-    <link href="https://x.com/ArtificialAnlys/status/2107911905822351609"/>
-    <id>322242ac4faddeb7cb469a9790a7a14b</id>
-    <published>2026-10-07T19:12:16+00:00</published>
-    <updated>2026-10-07T19:12:16+00:00</updated>
-    <summary type="text">Score: 0.766\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名 / Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.</title>
+    <link href="https://x.com/arena/status/2108286973119230096"/>
+    <id>30c6db211dcc4b0ad1ca981fe47dcf77</id>
+    <published>2026-10-08T20:02:39+00:00</published>
+    <updated>2026-10-08T20:02:39+00:00</updated>
+    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents</title>
-    <link href="https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event"/>
-    <id>515eb3d3e06c19ab1ee6f04c892c827a</id>
-    <published>2026-10-07T18:45:28+00:00</published>
-    <updated>2026-10-07T18:45:28+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Triage 及以上权限的用户现在可以归档 pull request / Triage role users or higher can now archive pull requests</title>
+    <link href="https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests"/>
+    <id>1b1c26f4f564b052286b62f49f6b131e</id>
+    <published>2026-10-08T19:01:42+00:00</published>
+    <updated>2026-10-08T19:01:42+00:00</updated>
+    <summary type="text">Score: 0.836\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU</title>
+    <link href="https://blog.comfy.org/p/how-i-generated-live-video-with-minimax"/>
+    <id>a342b361263728c2fad0bb1bc123a383</id>
+    <published>2026-10-08T19:01:22+00:00</published>
+    <updated>2026-10-08T19:01:22+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field</title>
+    <link href="https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field"/>
+    <id>3cad195d620e872dc0413f253d39885c</id>
+    <published>2026-10-08T18:17:07+00:00</published>
+    <updated>2026-10-08T18:17:07+00:00</updated>
+    <summary type="text">Score: 0.785\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.</title>
-    <link href="https://x.com/cursor_ai/status/2107897257651769464"/>
-    <id>86209a3aba9cd8361df1e26e58c658a9</id>
-    <published>2026-10-07T18:14:03+00:00</published>
-    <updated>2026-10-07T18:14:03+00:00</updated>
-    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2</title>
+    <link href="https://x.com/ArtificialAnlys/status/2108236656700768310"/>
+    <id>9d7c5f34bf7096c90682ab262ca2cc94</id>
+    <published>2026-10-08T16:42:42+00:00</published>
+    <updated>2026-10-08T16:42:42+00:00</updated>
+    <summary type="text">Score: 0.763\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题</title>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.293"/>
-    <id>77b845e77a81a6234d15741232573655</id>
-    <published>2026-10-07T18:10:20+00:00</published>
-    <updated>2026-10-07T18:10:20+00:00</updated>
-    <summary type="text">Score: 0.795\nSources: 2 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:</title>
-    <link href="https://x.com/ClaudeDevs/status/2107895957933408429"/>
-    <id>9c853493198ede3516d80a4d3bea33fa</id>
-    <published>2026-10-07T18:08:53+00:00</published>
-    <updated>2026-10-07T18:08:53+00:00</updated>
-    <summary type="text">Score: 0.800\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>密钥保护必须与软件同步扩展 / Secret protection must scale with software</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software"/>
-    <id>07ec7afb1878063ae6ede66aa7dbad23</id>
-    <published>2026-10-07T17:45:34+00:00</published>
-    <updated>2026-10-07T17:45:34+00:00</updated>
-    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>屏幕阅读器可以将时间线作为列表进行导航 / Screen readers can navigate timelines as lists</title>
+    <link href="https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists"/>
+    <id>e3a9b6ed9bdd9bdb4577675a4eff3e89</id>
+    <published>2026-10-08T16:00:56+00:00</published>
+    <updated>2026-10-08T16:00:56+00:00</updated>
+    <summary type="text">Score: 0.829\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -107,12 +82,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>面向边缘设备的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge</title>
-    <link href="https://huggingface.co/blog/LiquidAI/open-d1"/>
-    <id>8e9587562ad28d6746da336d12dd9b63</id>
-    <published>2026-10-07T16:54:33+00:00</published>
-    <updated>2026-10-07T16:54:33+00:00</updated>
-    <summary type="text">Score: 0.847\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex</title>
+    <link href="https://openai.com/index/oracle"/>
+    <id>129a2ecc27c3fb8070337f3903bea8dc</id>
+    <published>2026-10-08T16:00:00+00:00</published>
+    <updated>2026-10-08T16:00:00+00:00</updated>
+    <summary type="text">Score: 0.853\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -120,100 +95,22 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GitHub Copilot 本地沙箱功能正式上线 / Local sandboxing for GitHub Copilot now generally available</title>
-    <link href="https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available"/>
-    <id>7110052caa157cf1f4f411daeebf948c</id>
-    <published>2026-10-07T15:46:17+00:00</published>
-    <updated>2026-10-07T15:46:17+00:00</updated>
-    <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI</title>
-    <link href="https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli"/>
-    <id>5bc195a7120e6260126e8eaed51bdec7</id>
-    <published>2026-10-07T15:46:13+00:00</published>
-    <updated>2026-10-07T15:46:13+00:00</updated>
-    <summary type="text">Score: 0.837\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'</title>
-    <link href="https://www.404media.co/undue-emotional-weight"/>
-    <id>e18fcc4d873d852591e3b150a2305714</id>
-    <published>2026-10-07T14:46:15+00:00</published>
-    <updated>2026-10-07T14:46:15+00:00</updated>
-    <summary type="text">Score: 0.768\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线 / What's new in Claude: September recap</title>
+    <link href="https://www.youtube.com/shorts/n9WfoNW2XnE"/>
+    <id>829bedf25fee93ad1e98ce1bdbef476f</id>
+    <published>2026-10-08T15:53:13+00:00</published>
+    <updated>2026-10-08T15:53:13+00:00</updated>
+    <summary type="text">Score: 0.734\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>a16z 解析德州为何让数据中心排队等电 / Why Texas Is Making Data Centers Wait</title>
-    <link href="https://www.a16z.news/p/why-texas-is-making-data-centers"/>
-    <id>81f70e8d736b1b1c99a2ea1d814197c5</id>
-    <published>2026-10-07T14:01:44+00:00</published>
-    <updated>2026-10-07T14:01:44+00:00</updated>
-    <summary type="text">Score: 0.757\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
-    <link href="https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"/>
-    <id>797fe69026cc3eaf1fcfaaf0680bf3bf</id>
-    <published>2026-10-07T12:45:31+00:00</published>
-    <updated>2026-10-07T12:45:31+00:00</updated>
-    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Introducing Playground：创建并畅玩自定义游戏 / Introducing Playground: Create and play custom games</title>
-    <link href="https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform"/>
-    <id>04e2028901c702bab05872dee1f198c4</id>
-    <published>2026-10-07T12:00:00+00:00</published>
-    <updated>2026-10-07T12:00:00+00:00</updated>
-    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>帮助青少年学习、规划，并共同塑造 AI 的未来 / Helping teens learn, plan, and shape the future of AI</title>
-    <link href="https://openai.com/index/teens-learn-and-plan"/>
-    <id>a026e2894121e2a6d870cced8dc085b8</id>
-    <published>2026-10-07T12:00:00+00:00</published>
-    <updated>2026-10-07T12:00:00+00:00</updated>
-    <summary type="text">Score: 0.828\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Radisson Hotel Group 将酒店探索功能引入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT</title>
-    <link href="https://openai.com/index/radisson"/>
-    <id>4ca4cb2bdb7fdcfa85903dafbeb656e1</id>
-    <published>2026-10-07T07:00:00+00:00</published>
-    <updated>2026-10-07T07:00:00+00:00</updated>
+    <title>草稿 pull request 也计入 pull request 上限 / Draft pull requests count toward pull request limits</title>
+    <link href="https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits"/>
+    <id>2b651ee88455d38d5d8d156e5951f458</id>
+    <published>2026-10-08T14:25:53+00:00</published>
+    <updated>2026-10-08T14:25:53+00:00</updated>
     <summary type="text">Score: 0.825\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -222,25 +119,107 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone</title>
-    <link href="https://openai.com/index/gpt-6-for-everyone"/>
-    <id>8cdaf367ccaef67de613a2b3b4738b81</id>
-    <published>2026-10-07T00:00:00+00:00</published>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.861\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found</title>
+    <link href="https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found"/>
+    <id>bed12aac235108b0d32707ac744cbaa9</id>
+    <published>2026-10-08T13:01:01+00:00</published>
+    <updated>2026-10-08T13:01:01+00:00</updated>
+    <summary type="text">Score: 0.769\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实</title>
+    <link href="https://www.aibase.com/news/31475"/>
+    <id>cd99c75e76e8b614a799a78710d3d777</id>
+    <published>2026-10-08T12:02:12.109914+00:00</published>
+    <updated>2026-10-08T12:02:12.109914+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Pollo AI 携手 OpenAI，把创意点子变成营销活动 / Pollo AI turns creative ideas into campaigns with OpenAI</title>
+    <link href="https://openai.com/index/pollo-ai"/>
+    <id>b3e9c37a45d57f54cee16b888fbc90e6</id>
+    <published>2026-10-08T12:00:00+00:00</published>
+    <updated>2026-10-08T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.828\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
-    <category term="multi_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>
   </entry>
   <entry>
-    <title>适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272</title>
+    <title>Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?</title>
+    <link href="https://x.com/thsottiaux/status/2108040921044639779"/>
+    <id>cb95dea376988d8a2ca650c394aaa5df</id>
+    <published>2026-10-08T03:44:55+00:00</published>
+    <updated>2026-10-08T03:44:55+00:00</updated>
+    <summary type="text">Score: 0.732\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1</title>
+    <link href="https://aihot.news/agent?tab=api"/>
+    <id>90037c7b830d542376d3724fcd164cfd</id>
+    <published>2026-10-08T02:00:00+00:00</published>
+    <updated>2026-10-08T02:00:00+00:00</updated>
+    <summary type="text">Score: 0.806\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM</title>
+    <link href="https://github.com/pingdotgg/ts-rust"/>
+    <id>50c67d2a50a623135c34adfeb78636bd</id>
+    <published>2026-10-08T00:46:00+00:00</published>
+    <updated>2026-10-08T00:46:00+00:00</updated>
+    <summary type="text">Score: 0.782\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡</title>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686908&amp;idx=1&amp;sn=29a97b5ff695871a7bf219d3d6bd6487"/>
+    <id>bc3077ef3572aa873991bb608fea6737</id>
+    <published>2026-10-08T00:36:00+00:00</published>
+    <updated>2026-10-08T00:36:00+00:00</updated>
+    <summary type="text">Score: 0.747\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.162.0</title>
     <link href="https://developers.openai.com/codex/changelog"/>
-    <id>0ae422fcb8eed29c4674f63421fd56f1</id>
-    <published>2026-10-07T00:00:00+00:00</published>
-    <updated>2026-10-07T00:00:00+00:00</updated>
+    <id>5fb93b9b8baf638cc1e7a7b7912375c1</id>
+    <published>2026-10-08T00:00:00+00:00</published>
+    <updated>2026-10-08T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.817\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GPT-6.1 Sol 在 Codex 和 ChatGPT 中极速运行 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>55d9144eed81a8c84102be60f45f0253</id>
+    <published>2026-10-08T00:00:00+00:00</published>
+    <updated>2026-10-08T00:00:00+00:00</updated>
     <summary type="text">Score: 0.821\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -249,14 +228,26 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics</title>
-    <link href="https://openai.com/index/sharing-ai-progress-in-mathematics"/>
-    <id>24a83a37acc03afcababedd20396b702</id>
-    <published>2026-10-06T22:17:21+00:00</published>
-    <updated>2026-10-06T22:17:21+00:00</updated>
-    <summary type="text">Score: 0.812\nSources: 3 (AI HOT)\nImportance: 官方更新</summary>
+    <title>Google 开源 ML Drift 端侧 GPU 推理引擎，接替 TFLite GPU delegate / ML Drift: Next-Gen GPU AI/ML Inference at the Edge</title>
+    <link href="https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge"/>
+    <id>4aa4a32e69e19ad74149e380a6c9a348</id>
+    <published>2026-10-08T00:00:00+00:00</published>
+    <updated>2026-10-08T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
-    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations</title>
+    <link href="https://openai.com/index/disrupting-ai-enabled-false-front-operations"/>
+    <id>1726b4cf286429c8ae4d647d3f0d8d38</id>
+    <published>2026-10-08T00:00:00+00:00</published>
+    <updated>2026-10-08T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.803\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>

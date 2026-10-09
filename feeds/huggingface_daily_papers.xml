@@ -11,7 +11,7 @@
     <id>d6e2d149be82641d49bf0fe1c966e1f5</id>
     <published>2026-09-29T20:00:00.000Z</published>
     <updated>2026-09-29T20:00:00.000Z</updated>
-    <summary type="text">Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we c... \u00b7 Upvotes: 672 \u00b7 Authors: Meijia Chen, Hao Li, Zheng Lu</summary>
+    <summary type="text">Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we c... \u00b7 Upvotes: 675 \u00b7 Authors: Meijia Chen, Hao Li, Zheng Lu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +21,7 @@
     <id>1fe44f5221e8a29a7933ac014659fa6e</id>
     <published>2026-09-28T20:00:00.000Z</published>
     <updated>2026-09-28T20:00:00.000Z</updated>
-    <summary type="text">On-policy distillation (OPD) trains a student to match the teacher's next-token distributions on the student's own trajectories and has yielded substantial empirical gains. Generalized variants allow ... \u00b7 Upvotes: 533 \u00b7 GitHub Stars: 6 \u00b7 Authors: Hao Li, MeiJia Chen, Weijie Ren</summary>
+    <summary type="text">On-policy distillation (OPD) trains a student to match the teacher's next-token distributions on the student's own trajectories and has yielded substantial empirical gains. Generalized variants allow ... \u00b7 Upvotes: 536 \u00b7 GitHub Stars: 6 \u00b7 Authors: Hao Li, MeiJia Chen, Weijie Ren</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +31,7 @@
     <id>d101ed881ca965ab09de53d4d5c7b66b</id>
     <published>2026-09-26T20:00:00.000Z</published>
     <updated>2026-09-26T20:00:00.000Z</updated>
-    <summary type="text">As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness co... \u00b7 Upvotes: 566 \u00b7 GitHub Stars: 5263 \u00b7 Authors: EverMind AI</summary>
+    <summary type="text">As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness co... \u00b7 Upvotes: 568 \u00b7 GitHub Stars: 5305 \u00b7 Authors: EverMind AI</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +41,7 @@
     <id>62eccf37520da702a68648399df2d6a8</id>
     <published>2026-09-26T20:00:00.000Z</published>
     <updated>2026-09-26T20:00:00.000Z</updated>
-    <summary type="text">Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE... \u00b7 Upvotes: 246 \u00b7 GitHub Stars: 10941 \u00b7 Authors: Ruibin Yuan, Jiahao Pan, Junyan Jiang</summary>
+    <summary type="text">Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE... \u00b7 Upvotes: 249 \u00b7 GitHub Stars: 10990 \u00b7 Authors: Ruibin Yuan, Jiahao Pan, Junyan Jiang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +51,7 @@
     <id>724b2d7bf0e2ecceeaea6a90c51f7385</id>
     <published>2026-09-16T20:00:00.000Z</published>
     <updated>2026-09-16T20:00:00.000Z</updated>
-    <summary type="text">As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedb... \u00b7 Upvotes: 139 \u00b7 GitHub Stars: 3364 \u00b7 Authors: Haozhe Liu, Tian Ye, Sensen Gao</summary>
+    <summary type="text">As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedb... \u00b7 Upvotes: 139 \u00b7 GitHub Stars: 3388 \u00b7 Authors: Haozhe Liu, Tian Ye, Sensen Gao</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +61,7 @@
     <id>2ef08ac71bb2a87b42ef740ae01540f7</id>
     <published>2026-09-15T20:00:00.000Z</published>
     <updated>2026-09-15T20:00:00.000Z</updated>
-    <summary type="text">Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. ... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 3528 \u00b7 Authors: Yu Lin, Yiming Wang, Runyuan Cai</summary>
+    <summary type="text">Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. ... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 3751 \u00b7 Authors: Yu Lin, Yiming Wang, Runyuan Cai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,7 +91,7 @@
     <id>46bb7a10e61a4113d482d3eb7775dd57</id>
     <published>2026-09-07T20:00:00.000Z</published>
     <updated>2026-09-07T20:00:00.000Z</updated>
-    <summary type="text">We present Miles v0.1, a full-stack, production-ready system for frontier post-training. Building upon the clean design of slime, Miles designs each stage of the reinforcement-learning (RL) training l... \u00b7 Upvotes: 60 \u00b7 GitHub Stars: 3053 \u00b7 Authors: RadixArk, Tom Chen, Mao Cheng</summary>
+    <summary type="text">We present Miles v0.1, a full-stack, production-ready system for frontier post-training. Building upon the clean design of slime, Miles designs each stage of the reinforcement-learning (RL) training l... \u00b7 Upvotes: 61 \u00b7 GitHub Stars: 3062 \u00b7 Authors: RadixArk, Tom Chen, Mao Cheng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

@@ -4,10 +4,34 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-10-06T00:00:00+00:00</updated>
+  <updated>2026-10-08T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>2026 Usage Policy update</title>
+    <link href="https://www.anthropic.com/news/2026-usage-policy-update"/>
+    <id>37ab9b8b0d6a40485dc99e2fe1fbe324</id>
+    <published>2026-10-08T00:00:00+00:00</published>
+    <updated>2026-10-08T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
+  <entry>
+    <title>Building on our commitment to American scientific discovery</title>
+    <link href="https://www.anthropic.com/news/genesis-mission-commitment"/>
+    <id>360bbb5f37328ca49ba6791bfaa3ab54</id>
+    <published>2026-10-08T00:00:00+00:00</published>
+    <updated>2026-10-08T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
+  <entry>
+    <title>Introducing the Anthropic Cyber Mission</title>
+    <link href="https://www.anthropic.com/news/anthropic-cyber-mission"/>
+    <id>de8af0184890e471892a28cef95fd55e</id>
+    <published>2026-10-08T00:00:00+00:00</published>
+    <updated>2026-10-08T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
   <entry>
     <title>Expanding the Cyber Verification Program</title>
     <link href="https://www.anthropic.com/news/cyber-verification-program"/>
@@ -86,30 +110,6 @@
     <id>b04d14ece30058fafef37216c3b746cd</id>
     <published>2026-09-01T00:00:00+00:00</published>
     <updated>2026-09-01T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-  </entry>
-  <entry>
-    <title>Improving our alignment and security efforts</title>
-    <link href="https://www.anthropic.com/news/improving-alignment-security-efforts"/>
-    <id>08f3994f68860b6e65f506a754966a6a</id>
-    <published>2026-08-31T00:00:00+00:00</published>
-    <updated>2026-08-31T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-  </entry>
-  <entry>
-    <title>Expanding our support for scientists</title>
-    <link href="https://www.anthropic.com/news/expanding-support-for-scientists"/>
-    <id>b12a952087c49267bf5b3a0080282458</id>
-    <published>2026-08-27T00:00:00+00:00</published>
-    <updated>2026-08-27T00:00:00+00:00</updated>
-    <category term="Announcements"/>
-  </entry>
-  <entry>
-    <title>Previewing the Model Hardware Standard</title>
-    <link href="https://www.anthropic.com/news/model-hardware-standard-research-preview"/>
-    <id>c424240d858f52457ba88d767156c8ff</id>
-    <published>2026-08-27T00:00:00+00:00</published>
-    <updated>2026-08-27T00:00:00+00:00</updated>
     <category term="Announcements"/>
   </entry>
 </feed>

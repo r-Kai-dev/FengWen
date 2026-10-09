@@ -4,7 +4,7 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-10-08T00:37:54.245811+00:00</updated>
+  <updated>2026-10-09T00:52:59.055164+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
@@ -12,9 +12,18 @@
     <title>Sep. 24, 2026</title>
     <link href="https://epoch.ai/publications/huaweis-roadmap-to-2031"/>
     <id>0296545e2af87e4e77b04db1726a3ce5</id>
-    <published>2026-10-08T00:37:54.245811+00:00</published>
-    <updated>2026-10-08T00:37:54.245811+00:00</updated>
+    <published>2026-10-09T00:52:59.055164+00:00</published>
+    <updated>2026-10-09T00:52:59.055164+00:00</updated>
     <summary type="text">Huawei plans major gains in AI chip performance by 2030, but US export controls cap its most important scaling levers. Epoch AI estimates Huawei will produce less than 4% as much AI compute as Nvidia in 2026, a share that could be around 1% by 2028 without access to foreign memory.</summary>
+    <category term="Report"/>
+  </entry>
+  <entry>
+    <title>Can AI automate Epoch?</title>
+    <link href="https://epoch.ai/publications/can-ai-automate-epoch"/>
+    <id>9c819e7cba5959007bd237820cc7b9f6</id>
+    <published>2026-10-08T00:00:00+00:00</published>
+    <updated>2026-10-08T00:00:00+00:00</updated>
+    <summary type="text">Frontier models can handle well-defined tasks reliably, but fail in the more open-ended aspects that prevent full work automation. Explore Epoch AI's Automation Reports: realistic, open-ended tasks taken directly from our work, manually graded by our own standards.</summary>
     <category term="Report"/>
   </entry>
   <entry>
@@ -88,14 +97,5 @@
     <updated>2026-10-01T00:00:00+00:00</updated>
     <summary type="text">Median monthly messages per active user rose from 14 in 2023 to 36 in 2025, and the top 10% of users sent 63% of all prompts. Epoch AI's ChatGPT usage explorer draws on 8.3 million messages from 5,000 US YouGov panelists.</summary>
     <category term="Update"/>
-  </entry>
-  <entry>
-    <title>Can AI spot mistakes in IKEA assembly?</title>
-    <link href="https://epoch.ai/publications/furniture-assembly"/>
-    <id>4068ea92dff5bb7490dfa942068d3fbc</id>
-    <published>2026-09-23T00:00:00+00:00</published>
-    <updated>2026-09-23T00:00:00+00:00</updated>
-    <summary type="text">AI model scores on Epoch AI's IKEA furniture assembly benchmark jumped from 28% to 80% in 10 months, with open-weight models trailing closed-weight models by about 7 months. Epoch AI's test of visual and spatial reasoning across 60 photos from three furniture builds.</summary>
-    <category term="Report"/>
   </entry>
 </feed>
