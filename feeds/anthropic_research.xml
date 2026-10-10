@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-10-08T00:00:00+00:00</updated>
+  <updated>2026-10-09T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Investigating unintended model actions in our evaluations and internal use</title>
+    <link href="https://www.anthropic.com/research/investigating-unintended-model-actions"/>
+    <id>69143dc01051ee076506984ed026081c</id>
+    <published>2026-10-09T00:00:00+00:00</published>
+    <updated>2026-10-09T00:00:00+00:00</updated>
+    <category term="Alignment"/>
+  </entry>
   <entry>
     <title>Launching an opt-in vulnerability-finding service for open-source software</title>
     <link href="https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source"/>
@@ -73,14 +81,6 @@
     <category term="Economics"/>
   </entry>
   <entry>
-    <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
-    <link href="https://www.anthropic.com/research/claude-discovers-novel-enzyme-system"/>
-    <id>d1de659a7bd184e45270dc597e559241</id>
-    <published>2026-09-23T00:00:00+00:00</published>
-    <updated>2026-09-23T00:00:00+00:00</updated>
-    <category term="Science"/>
-  </entry>
-  <entry>
     <title>How Claude is uplifting biomolecular modeling</title>
     <link href="https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"/>
     <id>e4c5ed744fd5f0f56941d2432a1d5c7c</id>
@@ -94,13 +94,5 @@
     <id>6f5c21123d9cf1841545378473832b4c</id>
     <published>2026-09-17T00:00:00+00:00</published>
     <updated>2026-09-17T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Measuring tactical intelligence targeting and conventional weapons capabilities of AI models</title>
-    <link href="https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"/>
-    <id>8e3ab6abffeea2f26f8bbb92b1c7514f</id>
-    <published>2026-09-10T00:00:00+00:00</published>
-    <updated>2026-09-10T00:00:00+00:00</updated>
-    <category term="Frontier Red Team"/>
   </entry>
 </feed>

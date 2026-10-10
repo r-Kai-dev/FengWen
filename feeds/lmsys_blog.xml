@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-09-25T00:00:00+00:00</updated>
+  <updated>2026-10-09T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>SGLang and Miles on NVIDIA Vera Rubin</title>
+    <link href="https://lmsys.org/blog/2026-10-09-vera-rubin"/>
+    <id>2d3bd7f8fbe9427fb9985745afabfa42</id>
+    <published>2026-10-09T00:00:00+00:00</published>
+    <updated>2026-10-09T00:00:00+00:00</updated>
+    <summary type="text">We had early access to two NVIDIA Vera Rubin nodes (8 GPUs) and used them to bring SGLang and Miles up on the platform: SGLang for inference and Miles for RL training. On the inference side, we tuned ...</summary>
+    <category term="technical"/>
+  </entry>
   <entry>
     <title>Scaling JEV-like Decision Models with SGLang</title>
     <link href="https://lmsys.org/blog/2026-09-25-sglang-decision-models"/>

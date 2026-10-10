@@ -4,10 +4,22 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-10-07</updated>
+  <updated>2026-10-09</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>DistressBench: A clinician-authored benchmark for how AI models handle users in distress</title>
+    <link href="https://labs.scale.com/blog/distressbench"/>
+    <id>475d52b429e5f3953c4606e17834d1f2</id>
+    <published>2026-10-09</published>
+    <updated>2026-10-09</updated>
+    <summary type="text">People increasingly turn to chatbots for emotional support, and some of those conversations involve suicide or self-harm.
+
+DistressBench measures whether models give the support those conversations need, using rubrics written by licensed clinicians: 718 clinician-authored conversations across 23 suicide and self-harm subcategories. — By Patrick Oathout, Drew Rein</summary>
+    <category term="Safety &amp; Oversight"/>
+    <category term="Agents"/>
+  </entry>
   <entry>
     <title>Introducing Humanity's Sixth Sense: Measuring Intuitive Visual Reasoning</title>
     <link href="https://labs.scale.com/blog/introducing-humanitys-sixth-sense"/>
