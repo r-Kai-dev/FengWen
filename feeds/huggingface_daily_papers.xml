@@ -11,7 +11,17 @@
     <id>180c4cf0e3e956cc7fd106b7c7990e05</id>
     <published>2026-10-04T20:00:00.000Z</published>
     <updated>2026-10-04T20:00:00.000Z</updated>
-    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 19 \u00b7 GitHub Stars: 2889 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
+    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 2893 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents</title>
+    <link href="https://arxiv.org/abs/2609.39102"/>
+    <id>d6e2d149be82641d49bf0fe1c966e1f5</id>
+    <published>2026-09-29T20:00:00.000Z</published>
+    <updated>2026-09-29T20:00:00.000Z</updated>
+    <summary type="text">Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we c... \u00b7 Upvotes: 505 \u00b7 Authors: Meijia Chen, Hao Li, Zheng Lu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +31,17 @@
     <id>0645dbbe6e8c781eb092ba7b68ce41a2</id>
     <published>2026-09-28T20:00:00.000Z</published>
     <updated>2026-09-28T20:00:00.000Z</updated>
-    <summary type="text">We introduce LoopVL to study whether Loop Transformers can be effectively extended to vision- language models. LoopVL combines Module-Loop and Model-Loop computation to iteratively update a unified vi... \u00b7 Upvotes: 474 \u00b7 GitHub Stars: 239 \u00b7 Authors: Zhe Qian, Ziyang Gong, Zhongxing Xu</summary>
+    <summary type="text">We introduce LoopVL to study whether Loop Transformers can be effectively extended to vision- language models. LoopVL combines Module-Loop and Model-Loop computation to iteratively update a unified vi... \u00b7 Upvotes: 474 \u00b7 GitHub Stars: 242 \u00b7 Authors: Zhe Qian, Ziyang Gong, Zhongxing Xu</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation</title>
+    <link href="https://arxiv.org/abs/2609.36484"/>
+    <id>1fe44f5221e8a29a7933ac014659fa6e</id>
+    <published>2026-09-28T20:00:00.000Z</published>
+    <updated>2026-09-28T20:00:00.000Z</updated>
+    <summary type="text">On-policy distillation (OPD) trains a student to match the teacher's next-token distributions on the student's own trajectories and has yielded substantial empirical gains. Generalized variants allow ... \u00b7 Upvotes: 477 \u00b7 GitHub Stars: 7 \u00b7 Authors: Hao Li, MeiJia Chen, Weijie Ren</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +51,7 @@
     <id>d101ed881ca965ab09de53d4d5c7b66b</id>
     <published>2026-09-26T20:00:00.000Z</published>
     <updated>2026-09-26T20:00:00.000Z</updated>
-    <summary type="text">As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness co... \u00b7 Upvotes: 671 \u00b7 GitHub Stars: 5333 \u00b7 Authors: EverMind AI</summary>
+    <summary type="text">As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness co... \u00b7 Upvotes: 673 \u00b7 GitHub Stars: 5363 \u00b7 Authors: EverMind AI</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,17 +61,7 @@
     <id>62eccf37520da702a68648399df2d6a8</id>
     <published>2026-09-26T20:00:00.000Z</published>
     <updated>2026-09-26T20:00:00.000Z</updated>
-    <summary type="text">Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE... \u00b7 Upvotes: 233 \u00b7 GitHub Stars: 11049 \u00b7 Authors: Ruibin Yuan, Jiahao Pan, Junyan Jiang</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Omni-IO Skills: Harnessing Your Agent Omni-Native</title>
-    <link href="https://arxiv.org/abs/2609.31847"/>
-    <id>ba2eaece21615de481fdfe12f1567ed0</id>
-    <published>2026-09-24T20:00:00.000Z</published>
-    <updated>2026-09-24T20:00:00.000Z</updated>
-    <summary type="text">General-purpose agents can plan, reason, and act over long horizons, yet their production capabilities remain fragmented across text, images, audio, video, documents, 3D assets, and code. Extending a ... \u00b7 Upvotes: 451 \u00b7 GitHub Stars: 113 \u00b7 Authors: Yanlin Li, Mingyang Hao, Shengqiong Wu</summary>
+    <summary type="text">Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE... \u00b7 Upvotes: 233 \u00b7 GitHub Stars: 11137 \u00b7 Authors: Ruibin Yuan, Jiahao Pan, Junyan Jiang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +71,7 @@
     <id>724b2d7bf0e2ecceeaea6a90c51f7385</id>
     <published>2026-09-16T20:00:00.000Z</published>
     <updated>2026-09-16T20:00:00.000Z</updated>
-    <summary type="text">As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedb... \u00b7 Upvotes: 139 \u00b7 GitHub Stars: 3405 \u00b7 Authors: Haozhe Liu, Tian Ye, Sensen Gao</summary>
+    <summary type="text">As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedb... \u00b7 Upvotes: 139 \u00b7 GitHub Stars: 3421 \u00b7 Authors: Haozhe Liu, Tian Ye, Sensen Gao</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +81,7 @@
     <id>2ef08ac71bb2a87b42ef740ae01540f7</id>
     <published>2026-09-15T20:00:00.000Z</published>
     <updated>2026-09-15T20:00:00.000Z</updated>
-    <summary type="text">Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. ... \u00b7 Upvotes: 24 \u00b7 GitHub Stars: 3969 \u00b7 Authors: Yu Lin, Yiming Wang, Runyuan Cai</summary>
+    <summary type="text">Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. ... \u00b7 Upvotes: 24 \u00b7 GitHub Stars: 4183 \u00b7 Authors: Yu Lin, Yiming Wang, Runyuan Cai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +91,7 @@
     <id>6dce6615efc3decdf4b6653cb0f6824a</id>
     <published>2026-09-14T20:00:00.000Z</published>
     <updated>2026-09-14T20:00:00.000Z</updated>
-    <summary type="text">We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMN... \u00b7 Upvotes: 557 \u00b7 GitHub Stars: 4377 \u00b7 Authors: Xingxuan Zhang, Gang Ren, Hao Yuan</summary>
+    <summary type="text">We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMN... \u00b7 Upvotes: 558 \u00b7 GitHub Stars: 4378 \u00b7 Authors: Xingxuan Zhang, Gang Ren, Hao Yuan</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,17 +101,7 @@
     <id>0173b994e7eaffb8ddae4ce62dee9ef9</id>
     <published>2026-09-09T20:00:00.000Z</published>
     <updated>2026-09-09T20:00:00.000Z</updated>
-    <summary type="text">We present Vidu S2, which comprises Vidu S2-Avatar, a real-time interactive digital-character model, and Vidu S2-Editing, a real-time video editing model. Moreover, we explore the feasibility of real-... \u00b7 Upvotes: 655 \u00b7 GitHub Stars: 504 \u00b7 Authors: Jintao Zhang, Kai Jiang, Jintao Chen</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Scaling Automatic Research Agents via World Models</title>
-    <link href="https://arxiv.org/abs/2608.12564"/>
-    <id>dd4d55b15499c6d3767dbb70c22bdc9b</id>
-    <published>2026-08-28T20:00:00.000Z</published>
-    <updated>2026-08-28T20:00:00.000Z</updated>
-    <summary type="text">Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently impl... \u00b7 Upvotes: 487 \u00b7 GitHub Stars: 35 \u00b7 Authors: Xiyuan Yang, Sheikh Sarwar, Jingru Cheng</summary>
+    <summary type="text">We present Vidu S2, which comprises Vidu S2-Avatar, a real-time interactive digital-character model, and Vidu S2-Editing, a real-time video editing model. Moreover, we explore the feasibility of real-... \u00b7 Upvotes: 656 \u00b7 GitHub Stars: 505 \u00b7 Authors: Jintao Zhang, Kai Jiang, Jintao Chen</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
