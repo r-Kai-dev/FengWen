@@ -4,238 +4,108 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-10-10T18:53:39+00:00</updated>
+  <updated>2026-10-11T12:01:08+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Copilot for JetBrains 新增控件和聊天功能改进 / New controls and chat improvements in Copilot for JetBrains</title>
-    <link href="https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains"/>
-    <id>35d5c1e77a04c3b30247e14f721e4f2c</id>
-    <published>2026-10-10T18:53:39+00:00</published>
-    <updated>2026-10-10T18:53:39+00:00</updated>
-    <summary type="text">Score: 0.848\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了</title>
-    <link href="https://x.com/SaitoWu/status/2108919486581796872"/>
-    <id>4f8cf3fa8d98a100fdfdd80337f6489c</id>
-    <published>2026-10-10T13:56:02+00:00</published>
-    <updated>2026-10-10T13:56:02+00:00</updated>
-    <summary type="text">Score: 0.766\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / &quot;How much beauty have we lost?&quot; Mathematicians react with shock and disgust as OpenAI bulldozes their field</title>
-    <link href="https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field"/>
-    <id>bfd0aaffb12db7fbce979dec4e4c3fff</id>
-    <published>2026-10-10T13:03:59+00:00</published>
-    <updated>2026-10-10T13:03:59+00:00</updated>
-    <summary type="text">Score: 0.779\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>​知名学者怒批：立即全网下架可联网开放式AI智能体</title>
-    <link href="https://www.aibase.com/news/31545"/>
-    <id>5a5552ec9c059e3a8e3f33054f28fb78</id>
-    <published>2026-10-10T11:11:12.684138+00:00</published>
-    <updated>2026-10-10T11:11:12.684138+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>月之暗面注册资本飙至 1437 万，年内密集增资动作频频</title>
-    <link href="https://www.aibase.com/news/31547"/>
-    <id>b78148067857fdf0938d7f7992bad683</id>
-    <published>2026-10-10T11:11:12.684138+00:00</published>
-    <updated>2026-10-10T11:11:12.684138+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill</title>
-    <link href="https://www.aibase.com/news/31546"/>
-    <id>235b61980b4f71813826e3bea049f67d</id>
-    <published>2026-10-10T11:11:12.684138+00:00</published>
-    <updated>2026-10-10T11:11:12.684138+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理</title>
-    <link href="https://github.com/rociiu/talorys"/>
-    <id>1f23e2cf83b1db3582f6ae44613eaf46</id>
-    <published>2026-10-10T10:52:09+00:00</published>
-    <updated>2026-10-10T10:52:09+00:00</updated>
-    <summary type="text">Score: 0.557\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>据报道，Google 的 Gemini 4“Carbon”模型在编程性能上已追平 Anthropic 的 Opus 5.5 / Google's Gemini 4 &quot;Carbon&quot; model is reportedly matching Anthropic's Opus 5.5 coding performance</title>
-    <link href="https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance"/>
-    <id>b70352a9146476bb7d37c470c92e0f32</id>
-    <published>2026-10-10T08:59:49+00:00</published>
-    <updated>2026-10-10T08:59:49+00:00</updated>
-    <summary type="text">Score: 0.646\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <title>Weave (YC W25) 招聘 ML、AI、产品及设计工程师 / Weave (YC W25) is hiring ML, AI, product, &amp; design engineers</title>
+    <link href="https://jobs.ashbyhq.com/weave-os"/>
+    <id>26d7e1cc048010b436642b99ecb0d608</id>
+    <published>2026-10-11T12:01:08+00:00</published>
+    <updated>2026-10-11T12:01:08+00:00</updated>
+    <summary type="text">Score: 0.524\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI</title>
-    <link href="https://www.aibase.com/news/31534"/>
-    <id>54c3b3e61c1735cce9ef3cd73ac341f2</id>
-    <published>2026-10-10T08:28:37.398179+00:00</published>
-    <updated>2026-10-10T08:28:37.398179+00:00</updated>
-    <summary type="text">Score: 0.739\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>适用于 Claude Code 的 Edgee Mod — 在 Claude Code 里用任意模型，同时保留你的 Claude 套餐 / Edgee Mod for Claude Code — Use any model inside Claude Code, keep your Claude plan</title>
+    <link href="https://www.producthunt.com/products/edgee"/>
+    <id>37cc51f1435e135a53d6c2b4494c2a61</id>
+    <published>2026-10-11T11:02:53.421000+00:00</published>
+    <updated>2026-10-11T11:02:53.421000+00:00</updated>
+    <summary type="text">Score: 0.590\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>lyogavin/airllm — AirLLM 用单块 4GB GPU 跑 70B 推理 / lyogavin/airllm — AirLLM 70B inference with single 4GB GPU</title>
+    <link href="https://github.com/lyogavin/airllm"/>
+    <id>6760a657eaca72deb554c44d6aeb0dce</id>
+    <published>2026-10-11T11:02:35.148000+00:00</published>
+    <updated>2026-10-11T11:02:35.148000+00:00</updated>
+    <summary type="text">Score: 0.571\nSources: 2 (GitHub Trending)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>机器人”是个社会建构：为什么你的洗碗机不算机器人 / &quot;Robot&quot; Is a Social Construct: Why Your Dishwasher Is Not a Robot</title>
+    <link href="https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot"/>
+    <id>e877b28fd3a50be4e5cf0cd79fe26601</id>
+    <published>2026-10-11T10:34:43+00:00</published>
+    <updated>2026-10-11T10:34:43+00:00</updated>
+    <summary type="text">Score: 0.521\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>何夕2077 AI 深度信号周报 2026 W40–W41</title>
+    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41"/>
+    <id>44501ba33b1c1f886282658545c94649</id>
+    <published>2026-10-11T04:50:59+00:00</published>
+    <updated>2026-10-11T04:50:59+00:00</updated>
+    <summary type="text">Score: 0.730\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站</title>
-    <link href="https://www.aibase.com/news/31525"/>
-    <id>589f77eecfb6def85abff452878a2b84</id>
-    <published>2026-10-10T08:28:37.398179+00:00</published>
-    <updated>2026-10-10T08:28:37.398179+00:00</updated>
-    <summary type="text">Score: 0.739\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
+    <title>AI agents 参加站会电话 / AI agents in a stand-up call</title>
+    <link href="https://atoll92.github.io/agent-standup"/>
+    <id>a97ab1f63e0795123f13513d7c42490d</id>
+    <published>2026-10-11T03:42:47+00:00</published>
+    <updated>2026-10-11T03:42:47+00:00</updated>
+    <summary type="text">Score: 0.506\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入</title>
-    <link href="https://www.aibase.com/news/31531"/>
-    <id>771f6b67ec4cefed0744c56c1c4765d1</id>
-    <published>2026-10-10T08:28:37.398179+00:00</published>
-    <updated>2026-10-10T08:28:37.398179+00:00</updated>
-    <summary type="text">Score: 0.739\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？</title>
-    <link href="https://www.aibase.com/news/31544"/>
-    <id>899e19c3850de85b9fe04ba19ffedfc0</id>
-    <published>2026-10-10T08:28:37.398179+00:00</published>
-    <updated>2026-10-10T08:28:37.398179+00:00</updated>
-    <summary type="text">Score: 0.739\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全</title>
-    <link href="https://x.com/indigox/status/2108791275914993998"/>
-    <id>42dffe3794b9fb476d215eb64a7f418c</id>
-    <published>2026-10-10T05:26:34+00:00</published>
-    <updated>2026-10-10T05:26:34+00:00</updated>
-    <summary type="text">Score: 0.759\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic 承认模型对自身推理的解释不可作为行为动机的证据 / Anthropic states plainly that the model’s own explanation of its reasoning can’t be trusted as evidence of why it acted, which is exactly...</title>
-    <link href="https://x.com/rohanpaul_ai/status/2108741349419913339"/>
-    <id>945ed1fcbe65bad3c308d1cb62da19e6</id>
-    <published>2026-10-10T02:08:10+00:00</published>
-    <updated>2026-10-10T02:08:10+00:00</updated>
-    <summary type="text">Score: 0.741\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站</title>
-    <link href="https://www.ithome.com/1/011/194.htm"/>
-    <id>aada25256b174b115dae2e9346f948c1</id>
-    <published>2026-10-10T01:07:47.053000+00:00</published>
-    <updated>2026-10-10T01:07:47.053000+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</title>
-    <link href="https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead"/>
-    <id>e9ecb42038d48a3009758e3b40f760bb</id>
-    <published>2026-10-10T00:18:32+00:00</published>
-    <updated>2026-10-10T00:18:32+00:00</updated>
-    <summary type="text">Score: 0.746\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5</title>
-    <link href="https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5"/>
-    <id>ceb16ee646a60e55319f95d184ca9c2a</id>
-    <published>2026-10-09T22:58:23+00:00</published>
-    <updated>2026-10-09T22:58:23+00:00</updated>
-    <summary type="text">Score: 0.804\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...</title>
-    <link href="https://x.com/rohanpaul_ai/status/2108681738767740983"/>
-    <id>ca541198068e795f9b6cff576d977813</id>
-    <published>2026-10-09T22:11:18+00:00</published>
-    <updated>2026-10-09T22:11:18+00:00</updated>
-    <summary type="text">Score: 0.730\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索</title>
-    <link href="https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051"/>
-    <id>96d2770d99611e50bc1785f668b78494</id>
-    <published>2026-10-09T22:00:35+00:00</published>
-    <updated>2026-10-09T22:00:35+00:00</updated>
-    <summary type="text">Score: 0.558\nSources: 4 (Buzzing)\nImportance: 多源热议</summary>
+    <title>500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏</title>
+    <link href="https://momo5502.com/posts/2026-10-09-game-decompilation"/>
+    <id>633ffb1338d04c7696cb2e3f91d006b9</id>
+    <published>2026-10-11T02:02:38+00:00</published>
+    <updated>2026-10-11T02:02:38+00:00</updated>
+    <summary type="text">Score: 0.546\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>CodeQL 2.27.2 改进 C++、Go、Rust 和 JavaScript 分析能力 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis</title>
-    <link href="https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis"/>
-    <id>a9451f8788820b090e73154a0fc9d0ad</id>
-    <published>2026-10-09T21:32:54+00:00</published>
-    <updated>2026-10-09T21:32:54+00:00</updated>
-    <summary type="text">Score: 0.793\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>Satya Nadella 称我们应当假设所有 AI 模型都已被“攻破 / Satya Nadella says we should assume all AI models are ‘compromised’</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"/>
+    <id>6235feeda9dce1593b76fedb99d39e78</id>
+    <published>2026-10-10T22:10:17+00:00</published>
+    <updated>2026-10-10T22:10:17+00:00</updated>
+    <summary type="text">Score: 0.590\nSources: 3 (Curated Media)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out</title>
+    <link href="https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out"/>
+    <id>dc0bd43b9316fb218742e03d050f5e7e</id>
+    <published>2026-10-10T21:30:36+00:00</published>
+    <updated>2026-10-10T21:30:36+00:00</updated>
+    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
 </feed>
