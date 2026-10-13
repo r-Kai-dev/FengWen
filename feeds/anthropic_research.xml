@@ -4,10 +4,25 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-10-09T00:00:00+00:00</updated>
+  <updated>2026-10-12T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>AI models may be capable of self-replicating without access to a datacenter</title>
+    <link href="https://www.anthropic.com/research/self-replicating-ai"/>
+    <id>56a5fff70df6995c2845579ddb7af70a</id>
+    <published>2026-10-12T00:00:00+00:00</published>
+    <updated>2026-10-12T00:00:00+00:00</updated>
+    <category term="Frontier Red Team"/>
+  </entry>
+  <entry>
+    <title>Strengthening our defenses against distillation attacks</title>
+    <link href="https://www.anthropic.com/research/distillation-defenses"/>
+    <id>ab688102899f79b42fa4407e1c8d15ce</id>
+    <published>2026-10-12T00:00:00+00:00</published>
+    <updated>2026-10-12T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Investigating unintended model actions in our evaluations and internal use</title>
     <link href="https://www.anthropic.com/research/investigating-unintended-model-actions"/>
@@ -79,14 +94,6 @@
     <published>2026-09-24T00:00:00+00:00</published>
     <updated>2026-09-24T00:00:00+00:00</updated>
     <category term="Economics"/>
-  </entry>
-  <entry>
-    <title>How Claude is uplifting biomolecular modeling</title>
-    <link href="https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"/>
-    <id>e4c5ed744fd5f0f56941d2432a1d5c7c</id>
-    <published>2026-09-17T00:00:00+00:00</published>
-    <updated>2026-09-17T00:00:00+00:00</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Measurements for understanding the pace of AI development inside frontier labs</title>
