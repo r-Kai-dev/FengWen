@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-10-09T00:00:00+00:00</updated>
+  <updated>2026-10-14T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
+    <link href="https://allenai.org/blog/hiro-acev2"/>
+    <id>4dcb8422d86dab97b570000c47d6b2b2</id>
+    <published>2026-10-14T00:00:00+00:00</published>
+    <updated>2026-10-14T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Impactful scheduling for GPU clusters</title>
     <link href="https://allenai.org/blog/impactful-scheduling"/>
@@ -63,12 +70,5 @@
     <id>1546eae8793d578e07cf86bf510b766f</id>
     <published>2026-07-13T00:00:00+00:00</published>
     <updated>2026-07-13T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>DiScoFormer: One transformer for density and score, across distributions</title>
-    <link href="https://allenai.org/blog/discoformer"/>
-    <id>5069905e97558331323d917f0d48a7a8</id>
-    <published>2026-06-29T00:00:00+00:00</published>
-    <updated>2026-06-29T00:00:00+00:00</updated>
   </entry>
 </feed>
