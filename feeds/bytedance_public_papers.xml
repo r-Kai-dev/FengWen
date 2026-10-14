@@ -4,10 +4,46 @@
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <link href="https://seed.bytedance.com/en/public_papers"/>
   <id>https://seed.bytedance.com/en/public_papers</id>
-  <updated>2026-08-18T12:00:00+00:00</updated>
+  <updated>2026-09-28T12:00:00+00:00</updated>
   <author>
     <name>ByteDance Seed</name>
   </author>
+  <entry>
+    <title>Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression</title>
+    <link href="https://seed.bytedance.com/en/public_papers/periodic-weak-spots-phase-sensitivity-from-chunked-kv-cache-compression"/>
+    <id>f8b0297b455d7cd56e9282dd2dc4e30d</id>
+    <published>2026-09-28T12:00:00+00:00</published>
+    <updated>2026-09-28T12:00:00+00:00</updated>
+    <summary type="text">Chunked KV-cache compression reduces the memory and attention costs of long-context inference by compressing windows of consecutive tokens into fewer cache entries at a fixed stride. Such compression also introduces a new positional coordinate: a token's phase, or its position relative to compression-window boundaries. We uncover a systematic asymmetry in models using such compression: the same information can be easy to retrieve at one phase and difficult at another. We call this periodic varia</summary>
+    <category term="Machine Learning"/>
+  </entry>
+  <entry>
+    <title>HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?</title>
+    <link href="https://seed.bytedance.com/en/public_papers/harnessdev-can-llms-create-and-evolve-their-own-agent-harness"/>
+    <id>e634a61dbac32a91331436a49a11ace4</id>
+    <published>2026-09-01T12:00:00+00:00</published>
+    <updated>2026-09-01T12:00:00+00:00</updated>
+    <summary type="text">As agents move from research prototypes to deployed tools, their capability increasingly depends on model-external execution infrastructure, commonly termed the agent harness. Changing this harness while holding model weights fixed can substantially alter task performance. Current agent evaluations typically report downstream performance under a chosen harness, leaving a model's ability to develop the harness itself comparatively underexplored. We introduce HarnessDev, a benchmark that shifts th</summary>
+    <category term="Software Engineering"/>
+  </entry>
+  <entry>
+    <title>Aspire: Can Models Self-Evolve from Vague Goals?</title>
+    <link href="https://seed.bytedance.com/en/public_papers/aspire-can-models-self-evolve-from-vague-goals"/>
+    <id>49a88d6a1493d396d4ba461be5be2719</id>
+    <published>2026-08-31T12:00:00+00:00</published>
+    <updated>2026-08-31T12:00:00+00:00</updated>
+    <summary type="text">Many important forms of human learning begin with a vague goal, such as &quot;become a better physicist&quot; or &quot;improve at research.&quot; Learners must interpret the goal, identify capability gaps, decide how to learn, and determine whether they have actually improved. In contrast, existing work on LLM self-evolution typically begins with tasks and evaluation metrics specified by humans, reducing self-evolution to optimizing an explicit objective rather than deciding what and how to learn. We introduce ASPI</summary>
+    <category term="Computation and Language"/>
+  </entry>
+  <entry>
+    <title>S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?</title>
+    <link href="https://seed.bytedance.com/en/public_papers/s3gym-can-llms-turn-self-testing-and-self-judging-into-self-improvement"/>
+    <id>2041681a8ab64847e1aeb7fdd1e93337</id>
+    <published>2026-08-31T12:00:00+00:00</published>
+    <updated>2026-08-31T12:00:00+00:00</updated>
+    <summary type="text">Large language models (LLMs) increasingly interact with external environments and accumulate substantial behavioral experience, yet existing agent benchmarks largely evaluate them as fixed policies. It therefore remains unclear whether an agent can actively test its behavior, judge the resulting experience, and use that experience to improve future decisions. We introduce \textbf{S\textsuperscript{3}Gym}, an interactive benchmark for evaluating LLM self-improvement through three coupled capabili</summary>
+    <category term="Computation and Language"/>
+  </entry>
   <entry>
     <title>Chain-of-Experience for Continual LLM Improvement</title>
     <link href="https://seed.bytedance.com/en/public_papers/chain-of-experience-for-continual-llm-improvement"/>
@@ -133,41 +169,5 @@
     <updated>2026-05-25T16:00:00+00:00</updated>
     <summary type="text">Normalization layers in modern large language models (LLMs) consist of a deterministic normalization operation and a learnable scale vector. While the normalization operation has been extensively studied, the scale vector remains poorly understood despite its ubiquitous use. In this work, we present a systematic study of scale vectors in LLMs from the perspectives of expressivity, optimization, and architectural structure. First, we show empirically that although scale vectors constitute only a </summary>
     <category term="Machine Learning"/>
-  </entry>
-  <entry>
-    <title>Charon: A Unified and Fine-Grained Simulator for Large-Scale LLM Training and Inference</title>
-    <link href="https://seed.bytedance.com/en/public_papers/charon-a-unified-and-fine-grained-simulator-for-large-scale-llm-training-and-inference"/>
-    <id>1a4ea2cf1d4c577a947c9640024b5a21</id>
-    <published>2026-05-15T16:00:00+00:00</published>
-    <updated>2026-05-15T16:00:00+00:00</updated>
-    <summary type="text">Deploying large-scale LLM training and inference with optimal performance is exceptionally challenging due to a complex design space of parallelism strategies, system optimizations, and hardware configurations. Accurate and rapid performance simulation is critical for guiding optimization efforts and system studies by validating &quot;what-if&quot; Hooker Figure hypotheses. To address this, we introduce Charon, a unified, modular, and fine-grained simulator for accurately predicting LLM performance. Exper</summary>
-    <category term="Distributed, Parallel, and Cluster Computing "/>
-  </entry>
-  <entry>
-    <title>UAM: A Dual-Stream Perspective on Forgetting in VLA Training</title>
-    <link href="https://seed.bytedance.com/en/public_papers/uam-a-dual-stream-perspective-on-forgetting-in-vla-training"/>
-    <id>745d82a80e6527a726be875e7c029333</id>
-    <published>2026-05-14T16:00:00+00:00</published>
-    <updated>2026-05-14T16:00:00+00:00</updated>
-    <summary type="text">Vision--language--action (VLA) models are typically built by fine-tuning a pretrained vision--language model (VLM) on action data. However, we show that this standard recipe systematically erodes the VLM's multimodal competence, a side effect we call the embodiment tax. But do VLAs have to forget? Inspired by the two-stream organization of biological vision, we trace this degradation to a structural bottleneck: current VLAs ask a single encoder to support both language-grounded semantics and con</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation via Seamless Hand-Arm Intervention</title>
-    <link href="https://seed.bytedance.com/en/public_papers/hand-in-the-loop-improving-vla-policies-for-dexterous-manipulation-via-seamless-hand-arm-intervention"/>
-    <id>c63f6c405b998e71ad18550d042b7481</id>
-    <published>2026-05-13T16:00:00+00:00</published>
-    <updated>2026-05-13T16:00:00+00:00</updated>
-    <summary type="text">Vision-Language-Action (VLA) models are prone to compounding errors in dexterous manipulation, where high-dimensional action spaces and contact-rich dynamics amplify small policy deviations over long horizons. While Interactive Imitation Learning (IIL) can refine policies through human correction data, applying it to high-degree-of-freedom (DoF) robotic hands remains challenging due to a command mismatch between human teleoperation and policy execution at the intervention moment, which causes ab</summary>
-    <category term="Robotics"/>
-  </entry>
-  <entry>
-    <title>THEMol dataset: Torsion, Hessian, and Energy of Molecules</title>
-    <link href="https://seed.bytedance.com/en/public_papers/themol-dataset-torsion-hessian-and-energy-of-molecules"/>
-    <id>d9bf6c0977e1403efc81aac603a19af8</id>
-    <published>2026-05-13T16:00:00+00:00</published>
-    <updated>2026-05-13T16:00:00+00:00</updated>
-    <summary type="text">We present THEMol (Torsion, Hessian, Energy of Molecules), a massive open-source collection of quantum mechanical properties tailored for closed-shell organic molecules, with up to 50 heavy atoms. THEMol includes a Hessian subset with more than 3 million relaxed geometries with Hessian matrices, a TorsionScan subset with nearly 100 million constrained relaxed geometries with energies and forces, and relaxation-trajectory subsets (HessianRelax and TorsionScanRelax) that together comprise about 3 </summary>
-    <category term="Chemical Physics"/>
   </entry>
 </feed>

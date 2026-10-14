@@ -4,10 +4,27 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-10-03T00:00:00+00:00</updated>
+  <updated>2026-10-13T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>An Easier Way to Use LTX Trainer Is Here</title>
+    <link href="https://ltx.io/blog/an-easier-way-to-use-ltx-trainer-is-here"/>
+    <id>a2abdb33fd797618ac5ee5508f97322f</id>
+    <published>2026-10-13T00:00:00+00:00</published>
+    <updated>2026-10-13T00:00:00+00:00</updated>
+    <summary type="text">LTX Trainer brings custom Character and Style LoRA training into LTX Explore. No GPU, no pipeline, and no leaving the platform.</summary>
+    <category term="Product Updates"/>
+  </entry>
+  <entry>
+    <title>APEX: Better generation from fewer tokens</title>
+    <link href="https://ltx.io/blog/apex-extreme-latent-compression"/>
+    <id>b1febb6bd754bf03c40a8b3a7869527d</id>
+    <published>2026-10-12T00:00:00+00:00</published>
+    <updated>2026-10-12T00:00:00+00:00</updated>
+    <summary type="text">Discover how APEX enables better image generation from fewer tokens by building structure before refining detail, making better use of compute.</summary>
+  </entry>
   <entry>
     <title>How To Make An AI Music Video With Audio-to-Video</title>
     <link href="https://ltx.io/blog/how-to-make-an-ai-music-video"/>
@@ -420,7 +437,7 @@
     <published>2026-08-12T00:00:00+00:00</published>
     <updated>2026-08-12T00:00:00+00:00</updated>
     <summary type="text">World models vs. LLMs: same table, different jobs. See how each predicts, where each breaks, and how LTX-2.5 fits into the world model side.</summary>
-    <category term="Production"/>
+    <category term="Physical AI"/>
   </entry>
   <entry>
     <title>LTX-2.5: The Foundation Film Is Made On</title>
@@ -430,14 +447,5 @@
     <updated>2026-08-11T00:00:00+00:00</updated>
     <summary type="text">LTX-2.5 is here: open weights video AI with Pixel Diffusion, native multishot generation, sharper prompts, and full HDR ACES support for filmmaking teams.</summary>
     <category term="Product Updates"/>
-  </entry>
-  <entry>
-    <title>LTX-2.5 Prompt Guide: Prompting Tips For LTX-2.5</title>
-    <link href="https://ltx.io/blog/ltx-2-5-prompt-guide"/>
-    <id>057924f80a86347556f2088ebca0f0a5</id>
-    <published>2026-08-10T00:00:00+00:00</published>
-    <updated>2026-08-10T00:00:00+00:00</updated>
-    <summary type="text">Learn how to write effective LTX-2.5 video prompts — shot design, multi-shot cuts, Dub-It dialogue, and Video Editing IC-LoRA best practices.</summary>
-    <category term="Prompting Guides"/>
   </entry>
 </feed>

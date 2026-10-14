@@ -4,185 +4,185 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/models"/>
   <id>https://huggingface.co/models</id>
-  <updated>2026-10-13T02:19:34.428244+00:00</updated>
+  <updated>2026-10-14T00:03:07.125051+00:00</updated>
   <entry>
-    <title>baidu/Unlimited-OCR</title>
-    <link href="https://huggingface.co/baidu/Unlimited-OCR"/>
-    <id>ec553a6f3c22333369799627b1a52a67</id>
-    <published>2026-10-13T02:19:34.428244+00:00</published>
-    <updated>2026-10-13T02:19:34.428244+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 1,205,646 \u00b7 Likes: 4517</summary>
+    <title>autotrust/JEV-35B-NVFP4</title>
+    <link href="https://huggingface.co/autotrust/JEV-35B-NVFP4"/>
+    <id>256e014a4c5cae9c3e2cd165f1545643</id>
+    <published>2026-10-14T00:03:07.125051+00:00</published>
+    <updated>2026-10-14T00:03:07.125051+00:00</updated>
+    <summary type="text">Type: text-classification \u00b7 Downloads: 20,494 \u00b7 Likes: 300</summary>
+    <category term="text-classification"/>
+  </entry>
+  <entry>
+    <title>Cactus-Compute/whistle</title>
+    <link href="https://huggingface.co/Cactus-Compute/whistle"/>
+    <id>27994f9b8e158672e7b618b27415cacb</id>
+    <published>2026-10-14T00:03:07.125043+00:00</published>
+    <updated>2026-10-14T00:03:07.125043+00:00</updated>
+    <summary type="text">Type: automatic-speech-recognition \u00b7 Downloads: 21,005 \u00b7 Likes: 382</summary>
+    <category term="automatic-speech-recognition"/>
+  </entry>
+  <entry>
+    <title>openbmb/MiniCPM-V-4.7-1B</title>
+    <link href="https://huggingface.co/openbmb/MiniCPM-V-4.7-1B"/>
+    <id>721eb3bcbe46c9c29afde53e3e7c0092</id>
+    <published>2026-10-14T00:03:07.125036+00:00</published>
+    <updated>2026-10-14T00:03:07.125036+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 263 \u00b7 Likes: 284</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>speridlabs/iris-3b</title>
     <link href="https://huggingface.co/speridlabs/iris-3b"/>
     <id>181f861ac233a04f2e07784f8e4725db</id>
-    <published>2026-10-13T02:19:34.428239+00:00</published>
-    <updated>2026-10-13T02:19:34.428239+00:00</updated>
-    <summary type="text">Type: text-to-image \u00b7 Downloads: 706 \u00b7 Likes: 198</summary>
-    <category term="text-to-image"/>
-  </entry>
-  <entry>
-    <title>Cloudflare/clef-flash</title>
-    <link href="https://huggingface.co/Cloudflare/clef-flash"/>
-    <id>2a4dcf5a15bb2e635ccd0b6b023c9fa7</id>
-    <published>2026-10-13T02:19:34.428233+00:00</published>
-    <updated>2026-10-13T02:19:34.428233+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 23,285 \u00b7 Likes: 789</summary>
-    <category term="image-text-to-text"/>
-  </entry>
-  <entry>
-    <title>Cactus-Compute/whistle</title>
-    <link href="https://huggingface.co/Cactus-Compute/whistle"/>
-    <id>27994f9b8e158672e7b618b27415cacb</id>
-    <published>2026-10-13T02:19:34.428229+00:00</published>
-    <updated>2026-10-13T02:19:34.428229+00:00</updated>
-    <summary type="text">Type: automatic-speech-recognition \u00b7 Downloads: 18,643 \u00b7 Likes: 362</summary>
-    <category term="automatic-speech-recognition"/>
-  </entry>
-  <entry>
-    <title>Aleph-Alpha/Kolibri-1</title>
-    <link href="https://huggingface.co/Aleph-Alpha/Kolibri-1"/>
-    <id>ba91de01964a9f131761713ee921f309</id>
-    <published>2026-10-13T02:19:34.428224+00:00</published>
-    <updated>2026-10-13T02:19:34.428224+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 14,018 \u00b7 Likes: 914</summary>
-    <category term="text-generation"/>
-  </entry>
-  <entry>
-    <title>convaiinnovations/laya</title>
-    <link href="https://huggingface.co/convaiinnovations/laya"/>
-    <id>960dfa0d756cbba230d9dbb4bd4b3e55</id>
-    <published>2026-10-13T02:19:34.428219+00:00</published>
-    <updated>2026-10-13T02:19:34.428219+00:00</updated>
-    <summary type="text">Type: text-classification \u00b7 Downloads: 45,062 \u00b7 Likes: 5535</summary>
-    <category term="text-classification"/>
-  </entry>
-  <entry>
-    <title>unsloth/embeddinggemma-2-GGUF</title>
-    <link href="https://huggingface.co/unsloth/embeddinggemma-2-GGUF"/>
-    <id>3f22bc194d43833bb5490d8e951d6371</id>
-    <published>2026-10-13T02:19:34.428215+00:00</published>
-    <updated>2026-10-13T02:19:34.428215+00:00</updated>
-    <summary type="text">Type: feature-extraction \u00b7 Downloads: 71,914 \u00b7 Likes: 284</summary>
-    <category term="feature-extraction"/>
-  </entry>
-  <entry>
-    <title>Venastine-Research/Xing4.0-29B-A4B-GGUF</title>
-    <link href="https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF"/>
-    <id>7f09c140a563f02dc19631a75f2fb2cd</id>
-    <published>2026-10-13T02:19:34.428210+00:00</published>
-    <updated>2026-10-13T02:19:34.428210+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 52,788 \u00b7 Likes: 705</summary>
-    <category term="text-generation"/>
-  </entry>
-  <entry>
-    <title>nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2</title>
-    <link href="https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2"/>
-    <id>7741b4f9d4c67d91ddaa75115193e0f6</id>
-    <published>2026-10-13T02:19:34.428205+00:00</published>
-    <updated>2026-10-13T02:19:34.428205+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 75,302 \u00b7 Likes: 285</summary>
-    <category term="image-text-to-text"/>
-  </entry>
-  <entry>
-    <title>AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF</title>
-    <link href="https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF"/>
-    <id>e0c9949202c21926f5f93b5792c8df56</id>
-    <published>2026-10-13T02:19:34.428200+00:00</published>
-    <updated>2026-10-13T02:19:34.428200+00:00</updated>
-    <summary type="text">Type: text-to-image \u00b7 Downloads: 161,715 \u00b7 Likes: 373</summary>
+    <published>2026-10-14T00:03:07.125029+00:00</published>
+    <updated>2026-10-14T00:03:07.125029+00:00</updated>
+    <summary type="text">Type: text-to-image \u00b7 Downloads: 889 \u00b7 Likes: 233</summary>
     <category term="text-to-image"/>
   </entry>
   <entry>
     <title>canberkkkkkk/ema-lightning</title>
     <link href="https://huggingface.co/canberkkkkkk/ema-lightning"/>
     <id>b7b2909cbd793914482aa4c6ce2ecb21</id>
-    <published>2026-10-13T02:19:34.428196+00:00</published>
-    <updated>2026-10-13T02:19:34.428196+00:00</updated>
-    <summary type="text">Type: text-to-speech \u00b7 Downloads: 20,310 \u00b7 Likes: 390</summary>
+    <published>2026-10-14T00:03:07.125023+00:00</published>
+    <updated>2026-10-14T00:03:07.125023+00:00</updated>
+    <summary type="text">Type: text-to-speech \u00b7 Downloads: 22,641 \u00b7 Likes: 403</summary>
     <category term="text-to-speech"/>
   </entry>
   <entry>
-    <title>LiquidAI/d1-3B</title>
-    <link href="https://huggingface.co/LiquidAI/d1-3B"/>
-    <id>56cfbc0c2aa189da55a6b7c4b99ab517</id>
-    <published>2026-10-13T02:19:34.428191+00:00</published>
-    <updated>2026-10-13T02:19:34.428191+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 11,866 \u00b7 Likes: 346</summary>
+    <title>convaiinnovations/laya</title>
+    <link href="https://huggingface.co/convaiinnovations/laya"/>
+    <id>960dfa0d756cbba230d9dbb4bd4b3e55</id>
+    <published>2026-10-14T00:03:07.125016+00:00</published>
+    <updated>2026-10-14T00:03:07.125016+00:00</updated>
+    <summary type="text">Type: text-classification \u00b7 Downloads: 46,160 \u00b7 Likes: 5573</summary>
+    <category term="text-classification"/>
+  </entry>
+  <entry>
+    <title>baidu/Unlimited-OCR</title>
+    <link href="https://huggingface.co/baidu/Unlimited-OCR"/>
+    <id>ec553a6f3c22333369799627b1a52a67</id>
+    <published>2026-10-14T00:03:07.125010+00:00</published>
+    <updated>2026-10-14T00:03:07.125010+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 1,175,446 \u00b7 Likes: 4614</summary>
     <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2</title>
+    <link href="https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2"/>
+    <id>7741b4f9d4c67d91ddaa75115193e0f6</id>
+    <published>2026-10-14T00:03:07.125003+00:00</published>
+    <updated>2026-10-14T00:03:07.125003+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 83,887 \u00b7 Likes: 307</summary>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>autotrust/JEV-35B</title>
+    <link href="https://huggingface.co/autotrust/JEV-35B"/>
+    <id>bcc35adb6ceb606428f61b1eee88037f</id>
+    <published>2026-10-14T00:03:07.124995+00:00</published>
+    <updated>2026-10-14T00:03:07.124995+00:00</updated>
+    <summary type="text">Type: text-classification \u00b7 Downloads: 17,426 \u00b7 Likes: 483</summary>
+    <category term="text-classification"/>
   </entry>
   <entry>
     <title>Qwen/Qwen3.8-27B</title>
     <link href="https://huggingface.co/Qwen/Qwen3.8-27B"/>
     <id>89a437a1253842104936226abc840781</id>
-    <published>2026-10-13T02:19:34.428187+00:00</published>
-    <updated>2026-10-13T02:19:34.428187+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 6,895,303 \u00b7 Likes: 17581</summary>
+    <published>2026-10-14T00:03:07.124989+00:00</published>
+    <updated>2026-10-14T00:03:07.124989+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 7,119,569 \u00b7 Likes: 17638</summary>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF</title>
+    <link href="https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF"/>
+    <id>e0c9949202c21926f5f93b5792c8df56</id>
+    <published>2026-10-14T00:03:07.124982+00:00</published>
+    <updated>2026-10-14T00:03:07.124982+00:00</updated>
+    <summary type="text">Type: text-to-image \u00b7 Downloads: 208,575 \u00b7 Likes: 404</summary>
+    <category term="text-to-image"/>
+  </entry>
+  <entry>
+    <title>LiquidAI/d1-3B</title>
+    <link href="https://huggingface.co/LiquidAI/d1-3B"/>
+    <id>56cfbc0c2aa189da55a6b7c4b99ab517</id>
+    <published>2026-10-14T00:03:07.124975+00:00</published>
+    <updated>2026-10-14T00:03:07.124975+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 13,190 \u00b7 Likes: 380</summary>
+    <category term="image-text-to-text"/>
+  </entry>
+  <entry>
+    <title>Cloudflare/clef</title>
+    <link href="https://huggingface.co/Cloudflare/clef"/>
+    <id>50611d711e25d6b57febdd1445f59bcb</id>
+    <published>2026-10-14T00:03:07.124969+00:00</published>
+    <updated>2026-10-14T00:03:07.124969+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 17,173 \u00b7 Likes: 2143</summary>
     <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>ConwayResearch/Underdog-Saluki-27B-1.0</title>
     <link href="https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0"/>
     <id>06cc7891bcb3b96c5698b98a5393973f</id>
-    <published>2026-10-13T02:19:34.428182+00:00</published>
-    <updated>2026-10-13T02:19:34.428182+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 242,329 \u00b7 Likes: 371</summary>
+    <published>2026-10-14T00:03:07.124962+00:00</published>
+    <updated>2026-10-14T00:03:07.124962+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 269,829 \u00b7 Likes: 421</summary>
     <category term="text-generation"/>
+  </entry>
+  <entry>
+    <title>openbmb/MiniCPM-V-4.7-35B-A3B</title>
+    <link href="https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B"/>
+    <id>a77f65d93ceb537d9604e08a30b93f33</id>
+    <published>2026-10-14T00:03:07.124955+00:00</published>
+    <updated>2026-10-14T00:03:07.124955+00:00</updated>
+    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 630 \u00b7 Likes: 458</summary>
+    <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>Lightricks/LTX-2.5</title>
     <link href="https://huggingface.co/Lightricks/LTX-2.5"/>
     <id>ad1ed3b785225533b61ac0d0743b44dd</id>
-    <published>2026-10-13T02:19:34.428178+00:00</published>
-    <updated>2026-10-13T02:19:34.428178+00:00</updated>
-    <summary type="text">Type: image-to-video \u00b7 Downloads: 1,719,766 \u00b7 Likes: 7493</summary>
+    <published>2026-10-14T00:03:07.124947+00:00</published>
+    <updated>2026-10-14T00:03:07.124947+00:00</updated>
+    <summary type="text">Type: image-to-video \u00b7 Downloads: 1,724,548 \u00b7 Likes: 7644</summary>
     <category term="image-to-video"/>
-  </entry>
-  <entry>
-    <title>Cloudflare/clef</title>
-    <link href="https://huggingface.co/Cloudflare/clef"/>
-    <id>50611d711e25d6b57febdd1445f59bcb</id>
-    <published>2026-10-13T02:19:34.428173+00:00</published>
-    <updated>2026-10-13T02:19:34.428173+00:00</updated>
-    <summary type="text">Type: image-text-to-text \u00b7 Downloads: 15,064 \u00b7 Likes: 2096</summary>
-    <category term="image-text-to-text"/>
   </entry>
   <entry>
     <title>abenzerps/Qwen-Image-2.1-Uncensored-Quantized</title>
     <link href="https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized"/>
     <id>1b4634e861e688640db173588b75050b</id>
-    <published>2026-10-13T02:19:34.428168+00:00</published>
-    <updated>2026-10-13T02:19:34.428168+00:00</updated>
-    <summary type="text">Type: text-to-image \u00b7 Downloads: 2,188,658 \u00b7 Likes: 4101</summary>
+    <published>2026-10-14T00:03:07.124940+00:00</published>
+    <updated>2026-10-14T00:03:07.124940+00:00</updated>
+    <summary type="text">Type: text-to-image \u00b7 Downloads: 2,247,929 \u00b7 Likes: 4201</summary>
     <category term="text-to-image"/>
   </entry>
   <entry>
     <title>Qwen/Qwen-Image-2.1-Turbo</title>
     <link href="https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo"/>
     <id>6406acf8d338a4bb73c211b3c4d028b3</id>
-    <published>2026-10-13T02:19:34.428162+00:00</published>
-    <updated>2026-10-13T02:19:34.428162+00:00</updated>
-    <summary type="text">Type: text-to-image \u00b7 Downloads: 6,787 \u00b7 Likes: 639</summary>
+    <published>2026-10-14T00:03:07.124931+00:00</published>
+    <updated>2026-10-14T00:03:07.124931+00:00</updated>
+    <summary type="text">Type: text-to-image \u00b7 Downloads: 9,665 \u00b7 Likes: 708</summary>
     <category term="text-to-image"/>
   </entry>
   <entry>
     <title>jialinyyzz/humanizer</title>
     <link href="https://huggingface.co/jialinyyzz/humanizer"/>
     <id>cd8f5fe8d4aa7d80822652b7d93a6bb1</id>
-    <published>2026-10-13T02:19:34.428154+00:00</published>
-    <updated>2026-10-13T02:19:34.428154+00:00</updated>
-    <summary type="text">Type: text-generation \u00b7 Downloads: 46,070 \u00b7 Likes: 1324</summary>
+    <published>2026-10-14T00:03:07.124917+00:00</published>
+    <updated>2026-10-14T00:03:07.124917+00:00</updated>
+    <summary type="text">Type: text-generation \u00b7 Downloads: 54,039 \u00b7 Likes: 1511</summary>
     <category term="text-generation"/>
   </entry>
   <entry>
     <title>google/embeddinggemma-2</title>
     <link href="https://huggingface.co/google/embeddinggemma-2"/>
     <id>e888d667762db2c1159cf248a1b32d7e</id>
-    <published>2026-10-13T02:19:34.428130+00:00</published>
-    <updated>2026-10-13T02:19:34.428130+00:00</updated>
-    <summary type="text">Type: feature-extraction \u00b7 Downloads: 115,763 \u00b7 Likes: 1944</summary>
+    <published>2026-10-14T00:03:07.124891+00:00</published>
+    <updated>2026-10-14T00:03:07.124891+00:00</updated>
+    <summary type="text">Type: feature-extraction \u00b7 Downloads: 124,930 \u00b7 Likes: 2102</summary>
     <category term="feature-extraction"/>
   </entry>
 </feed>
