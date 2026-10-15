@@ -4,10 +4,18 @@
   <icon>https://microsoft.ai/wp-content/uploads/2025/10/cropped-image-5-32x32.png</icon>
   <link href="https://microsoft.ai/blog/"/>
   <id>https://microsoft.ai/blog/</id>
-  <updated>2026-10-07T18:05:00+00:00</updated>
+  <updated>2026-10-15T16:09:01+00:00</updated>
   <author>
     <name>Microsoft AI</name>
   </author>
+  <entry>
+    <title>Frontier Pre-training at Microsoft AI</title>
+    <link href="https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/"/>
+    <id>7bdbb4a45772cf5f428891c923d32e33</id>
+    <published>2026-10-15T16:09:01+00:00</published>
+    <updated>2026-10-15T16:09:01+00:00</updated>
+    <category term="lab-notes"/>
+  </entry>
   <entry>
     <title>MAI-Code-1.1-Flash: Better, faster, at a quarter of the cost</title>
     <link href="https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/"/>
@@ -161,6 +169,94 @@
     <category term="models"/>
   </entry>
   <entry>
+    <title>MAI-Image-2-Efficient: Flagship Quality, 41% Lower Cost</title>
+    <link href="https://microsoft.ai/news/mai-image-2-efficient/"/>
+    <id>8ba4b895a3acd29347098d8dbb3db999</id>
+    <published>2026-04-14T15:52:40+00:00</published>
+    <updated>2026-04-14T15:52:40+00:00</updated>
+    <category term="models"/>
+  </entry>
+  <entry>
+    <title>Announcing 3 new world class MAI models, available in Foundry</title>
+    <link href="https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/"/>
+    <id>4f362a6b124c2bc0c90892677024293b</id>
+    <published>2026-04-02T13:52:14+00:00</published>
+    <updated>2026-04-02T13:52:14+00:00</updated>
+    <category term="models"/>
+  </entry>
+  <entry>
+    <title>State of the Art Speech Recognition with MAI-Transcribe-1</title>
+    <link href="https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/"/>
+    <id>8430e33c8b8014d774ad0f1524e6a0e8</id>
+    <published>2026-04-02T13:51:50+00:00</published>
+    <updated>2026-04-02T13:51:50+00:00</updated>
+    <category term="ai"/>
+  </entry>
+  <entry>
+    <title>Introducing MAI-Image-2: for limitless creativity</title>
+    <link href="https://microsoft.ai/news/introducing-mai-image-2/"/>
+    <id>fab68c52bc0f3770fae24b71289f66c2</id>
+    <published>2026-03-19T16:00:10+00:00</published>
+    <updated>2026-03-19T16:00:10+00:00</updated>
+    <category term="models"/>
+  </entry>
+  <entry>
+    <title>Introducing Copilot Health</title>
+    <link href="https://microsoft.ai/news/introducing-copilot-health/"/>
+    <id>5788b353e3220a5f380b399d195eab29</id>
+    <published>2026-03-12T12:27:21+00:00</published>
+    <updated>2026-03-12T12:27:21+00:00</updated>
+    <category term="health"/>
+  </entry>
+  <entry>
+    <title>Health Check: How People Use Copilot for Health</title>
+    <link href="https://microsoft.ai/news/health-check-how-people-use-copilot-for-health/"/>
+    <id>7d38b8a2237764aa1da3e401f78530f5</id>
+    <published>2026-03-10T12:33:34+00:00</published>
+    <updated>2026-03-10T12:33:34+00:00</updated>
+    <category term="health"/>
+  </entry>
+  <entry>
+    <title>It’s About Time: The Copilot Usage Report 2025</title>
+    <link href="https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/"/>
+    <id>9d599efe989cd151be349afcd389be35</id>
+    <published>2025-12-10T14:18:35+00:00</published>
+    <updated>2025-12-10T14:18:35+00:00</updated>
+    <category term="research"/>
+  </entry>
+  <entry>
+    <title>Towards Humanist Superintelligence</title>
+    <link href="https://microsoft.ai/news/towards-humanist-superintelligence/"/>
+    <id>47c57493742e035e81168a55a90afb0f</id>
+    <published>2025-11-06T13:30:42+00:00</published>
+    <updated>2025-11-06T13:30:42+00:00</updated>
+    <category term="announcements"/>
+  </entry>
+  <entry>
+    <title>Introducing MAI-Image-1, debuting in the top 10 on LMArena</title>
+    <link href="https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/"/>
+    <id>2b35f5a79fe4c13d1f4166bd382061f3</id>
+    <published>2025-10-13T20:14:15+00:00</published>
+    <updated>2025-10-13T20:14:15+00:00</updated>
+    <category term="models"/>
+  </entry>
+  <entry>
+    <title>Two in-house models in support of our mission</title>
+    <link href="https://microsoft.ai/news/two-new-in-house-models/"/>
+    <id>2a0765620bc3f936e82273e960774160</id>
+    <published>2025-08-28T19:21:00+00:00</published>
+    <updated>2025-08-28T19:21:00+00:00</updated>
+    <category term="models"/>
+  </entry>
+  <entry>
+    <title>The Path to Medical Superintelligence</title>
+    <link href="https://microsoft.ai/news/the-path-to-medical-superintelligence/"/>
+    <id>c0cc1d1fadbaa7d355350990219f438c</id>
+    <published>2025-06-30T19:35:00+00:00</published>
+    <updated>2025-06-30T19:35:00+00:00</updated>
+    <category term="health"/>
+  </entry>
+  <entry>
     <title>Copilot Fall Release: A big step forward in making AI more personal, useful, and human-centered</title>
     <link href="https://www.microsoft.com/en-us/microsoft-copilot/blog/2025/10/23/human-centered-ai/"/>
     <id>893266287a1a1166831c6cf7b2bae7d2</id>
@@ -180,78 +276,16 @@
     <title>An AI companion for everyone</title>
     <link href="https://microsoft.ai/news/an-ai-companion-for-everyone/"/>
     <id>2707f7f5aea917d5c6e0b546d68e9c3a</id>
+    <published>2024-10-01T10:32:59+00:00</published>
+    <updated>2024-10-01T10:32:59+00:00</updated>
     <category term="copilot"/>
-  </entry>
-  <entry>
-    <title>Announcing 3 new world class MAI models, available in Foundry</title>
-    <link href="https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/"/>
-    <id>4f362a6b124c2bc0c90892677024293b</id>
-    <category term="models"/>
-  </entry>
-  <entry>
-    <title>Health Check: How People Use Copilot for Health</title>
-    <link href="https://microsoft.ai/news/health-check-how-people-use-copilot-for-health/"/>
-    <id>7d38b8a2237764aa1da3e401f78530f5</id>
-    <category term="health"/>
-  </entry>
-  <entry>
-    <title>Introducing Copilot Health</title>
-    <link href="https://microsoft.ai/news/introducing-copilot-health/"/>
-    <id>5788b353e3220a5f380b399d195eab29</id>
-    <category term="health"/>
-  </entry>
-  <entry>
-    <title>Introducing MAI-Image-1, debuting in the top 10 on LMArena</title>
-    <link href="https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/"/>
-    <id>2b35f5a79fe4c13d1f4166bd382061f3</id>
-    <category term="models"/>
-  </entry>
-  <entry>
-    <title>Introducing MAI-Image-2: for limitless creativity</title>
-    <link href="https://microsoft.ai/news/introducing-mai-image-2/"/>
-    <id>fab68c52bc0f3770fae24b71289f66c2</id>
-    <category term="models"/>
-  </entry>
-  <entry>
-    <title>It’s About Time: The Copilot Usage Report 2025</title>
-    <link href="https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/"/>
-    <id>9d599efe989cd151be349afcd389be35</id>
-    <category term="research"/>
-  </entry>
-  <entry>
-    <title>MAI-Image-2-Efficient: Flagship Quality, 41% Lower Cost</title>
-    <link href="https://microsoft.ai/news/mai-image-2-efficient/"/>
-    <id>8ba4b895a3acd29347098d8dbb3db999</id>
-    <category term="models"/>
-  </entry>
-  <entry>
-    <title>State of the Art Speech Recognition with MAI-Transcribe-1</title>
-    <link href="https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/"/>
-    <id>8430e33c8b8014d774ad0f1524e6a0e8</id>
-    <category term="ai"/>
-  </entry>
-  <entry>
-    <title>The Path to Medical Superintelligence</title>
-    <link href="https://microsoft.ai/news/the-path-to-medical-superintelligence/"/>
-    <id>c0cc1d1fadbaa7d355350990219f438c</id>
-    <category term="health"/>
-  </entry>
-  <entry>
-    <title>Towards Humanist Superintelligence</title>
-    <link href="https://microsoft.ai/news/towards-humanist-superintelligence/"/>
-    <id>47c57493742e035e81168a55a90afb0f</id>
-    <category term="announcements"/>
-  </entry>
-  <entry>
-    <title>Two in-house models in support of our mission</title>
-    <link href="https://microsoft.ai/news/two-new-in-house-models/"/>
-    <id>2a0765620bc3f936e82273e960774160</id>
-    <category term="models"/>
   </entry>
   <entry>
     <title>What is AI anyway?</title>
     <link href="https://microsoft.ai/news/what-is-ai-anyway/"/>
     <id>a325820c67c8e1e66a8bd1d6a7a09f0b</id>
+    <published>2024-04-22T10:32:00+00:00</published>
+    <updated>2024-04-22T10:32:00+00:00</updated>
     <category term="ted-talk"/>
   </entry>
 </feed>

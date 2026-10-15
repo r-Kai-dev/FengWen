@@ -9,7 +9,7 @@
     <name>Epoch AI</name>
   </author>
   <entry>
-    <title>How well can AI play Slay the Spire?</title>
+    <title>AI systems are improving rapidly at Slay the Spire and its sequel</title>
     <link href="https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel"/>
     <id>63902e4c736687e070d3f8f85559670d</id>
     <published>2026-10-14T00:00:00+00:00</published>
@@ -54,6 +54,15 @@
     <category term="Data Insight"/>
   </entry>
   <entry>
+    <title>China is more exposed to semiconductor supply-chain disruptions than the US</title>
+    <link href="https://epoch.ai/publications/china-us-semiconductor-supply-chain-exposure"/>
+    <id>a24b5c0f0e04aa035d12ace272f394cd</id>
+    <published>2026-10-06T00:00:00+00:00</published>
+    <updated>2026-10-06T00:00:00+00:00</updated>
+    <summary type="text">China is 2.7× as exposed to semiconductor supply shocks as the US, Epoch AI estimates. Epoch traces chips through input-output tables to model the impact of a Taiwan shock and decoupling.</summary>
+    <category term="Report"/>
+  </entry>
+  <entry>
     <title>How do Chinese AI companies make money?</title>
     <link href="https://epoch.ai/publications/how-do-chinese-ai-companies-make-money"/>
     <id>96e40317c07947e45e4dd0514e619a34</id>
@@ -63,16 +72,7 @@
     <category term="Report"/>
   </entry>
   <entry>
-    <title>Who is most exposed to a chip supply shock?</title>
-    <link href="https://epoch.ai/publications/china-us-semiconductor-supply-chain-exposure"/>
-    <id>a24b5c0f0e04aa035d12ace272f394cd</id>
-    <published>2026-10-06T00:00:00+00:00</published>
-    <updated>2026-10-06T00:00:00+00:00</updated>
-    <summary type="text">China is 2.7× as exposed to semiconductor supply shocks as the US, Epoch AI estimates. Epoch traces chips through input-output tables to model the impact of a Taiwan shock and decoupling.</summary>
-    <category term="Report"/>
-  </entry>
-  <entry>
-    <title>Coding-agent use at OpenAI is doubling roughly every month</title>
+    <title>Coding-agent spending by OpenAI researchers is doubling roughly every month</title>
     <link href="https://epoch.ai/data-insights/openai-coding-agent-spending"/>
     <id>82b48469cd5223a841aea552fe85baee</id>
     <published>2026-10-05T00:00:00+00:00</published>
@@ -81,7 +81,7 @@
     <category term="Data Insight"/>
   </entry>
   <entry>
-    <title>How many AI agents could we run?</title>
+    <title>How many AI agents could run on the AI chips shipped through 2027?</title>
     <link href="https://epoch.ai/publications/estimating-the-agent-population"/>
     <id>f49bc8886144f4696049b75d276e12ed</id>
     <published>2026-10-02T00:00:00+00:00</published>
@@ -90,7 +90,7 @@
     <category term="Report"/>
   </entry>
   <entry>
-    <title>How do people actually use ChatGPT?</title>
+    <title>Introducing the ChatGPT usage explorer</title>
     <link href="https://epoch.ai/latest/introducing-the-chatgpt-usage-explorer"/>
     <id>c3bccc5988b8af3dd7cf5733e4ffb51e</id>
     <published>2026-10-01T00:00:00+00:00</published>

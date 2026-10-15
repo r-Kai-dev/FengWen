@@ -4,10 +4,30 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-10-09T00:00:00+00:00</updated>
+  <updated>2026-10-15T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Super VL</title>
+    <link href="https://lmsys.org/blog/2026-10-15-nvidia-nemotron-3-5-super-vl"/>
+    <id>69b6879abd4b72edaf3de6734fec9de7</id>
+    <published>2026-10-15T00:00:00+00:00</published>
+    <updated>2026-10-15T00:00:00+00:00</updated>
+    <summary type="text">Always-on AI agents must do more than generate text. They need to interpret visual information, reason across long-running tasks, and use tools reliably across documents, applications, and video.
+
+NVI...</summary>
+    <category term="blog"/>
+  </entry>
+  <entry>
+    <title>SGLang and Miles Add Day-0 Support for Muse Spark Open</title>
+    <link href="https://lmsys.org/blog/2026-10-15-meta-muse-spark-open"/>
+    <id>b0300fab019d423a203605ffaa41d9b4</id>
+    <published>2026-10-15T00:00:00+00:00</published>
+    <updated>2026-10-15T00:00:00+00:00</updated>
+    <summary type="text">- Model: Muse Spark Open is an open-weight multimodal mixture-of-experts model. It uses an 816B-parameter text transformer backbone, with approximately 42 billion active parameters per token. It accep...</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>SGLang and Miles on NVIDIA Vera Rubin</title>
     <link href="https://lmsys.org/blog/2026-10-09-vera-rubin"/>

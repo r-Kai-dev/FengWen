@@ -4,10 +4,18 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/news"/>
   <id>https://www.anthropic.com/news</id>
-  <updated>2026-10-14T00:00:00+00:00</updated>
+  <updated>2026-10-15T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>An update on independent evaluators</title>
+    <link href="https://www.anthropic.com/news/an-update-on-independent-evaluators"/>
+    <id>6c3dd131282ea39d256c0f3aade06b18</id>
+    <published>2026-10-15T00:00:00+00:00</published>
+    <updated>2026-10-15T00:00:00+00:00</updated>
+    <category term="Announcements"/>
+  </entry>
   <entry>
     <title>Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
     <link href="https://www.anthropic.com/news/singapore-office-opening"/>
@@ -111,13 +119,5 @@
     <published>2026-09-22T00:00:00+00:00</published>
     <updated>2026-09-22T00:00:00+00:00</updated>
     <category term="Features"/>
-  </entry>
-  <entry>
-    <title>Partnering with Accenture on embedded evaluation</title>
-    <link href="https://www.anthropic.com/news/accenture-embedded-evaluation"/>
-    <id>ae0ff9231acb4bcc5c3e0cfe0b1af47d</id>
-    <published>2026-09-18T00:00:00+00:00</published>
-    <updated>2026-09-18T00:00:00+00:00</updated>
-    <category term="Announcements"/>
   </entry>
 </feed>

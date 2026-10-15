@@ -4,10 +4,24 @@
   <icon>https://artificialanalysis.ai/favicon.ico</icon>
   <link href="https://artificialanalysis.ai/articles"/>
   <id>https://artificialanalysis.ai/articles</id>
-  <updated>2026-10-14T00:00:00+00:00</updated>
+  <updated>2026-10-15T00:00:00+00:00</updated>
   <author>
     <name>Artificial Analysis</name>
   </author>
+  <entry>
+    <title>First AA-AgentPerf-Local results for an NVIDIA RTX Spark N1X laptop</title>
+    <link href="https://artificialanalysis.ai/articles/nvidia-rtx-spark-agentperf-local"/>
+    <id>549f90278a607620105bf1b53c9c7d0e</id>
+    <published>2026-10-15T00:00:00+00:00</published>
+    <updated>2026-10-15T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Releases Nemotron 3.5 Super VL and Nemotron 3.5 Bolt 74B A9B</title>
+    <link href="https://artificialanalysis.ai/articles/nemotron-3-5-super-and-bolt"/>
+    <id>b4e0b7f5fb15e90fb6442d21a7325739</id>
+    <published>2026-10-15T00:00:00+00:00</published>
+    <updated>2026-10-15T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Welcome to the era of embodied AI: Introducing AA-Robotics v0.1</title>
     <link href="https://artificialanalysis.ai/articles/aa-robotics"/>
@@ -72,24 +86,10 @@
     <updated>2026-10-06T00:00:00+00:00</updated>
   </entry>
   <entry>
-    <title>Gemini 4 Argon: Google is back as one of the top three labs in intelligence achieved</title>
-    <link href="https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs"/>
-    <id>22d6d11abf2eecf16aa42c3d43002e41</id>
-    <published>2026-09-30T00:00:00+00:00</published>
-    <updated>2026-09-30T00:00:00+00:00</updated>
-  </entry>
-  <entry>
     <title>Korean AI Lab Upstage releases Solar Mini 4</title>
     <link href="https://artificialanalysis.ai/articles/korean-ai-lab-upstage-releases-solar-mini-4"/>
     <id>d9b6e76f9c13a6ac138e8d7300e97ac0</id>
     <published>2026-09-30T00:00:00+00:00</published>
     <updated>2026-09-30T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>AA-AgentPerf-Local: Benchmarking local AI agents on laptops and workstations</title>
-    <link href="https://artificialanalysis.ai/articles/aa-agentperf-local"/>
-    <id>5e7be1c6aab4b87617e99834c6488b7f</id>
-    <published>2026-09-29T00:00:00+00:00</published>
-    <updated>2026-09-29T00:00:00+00:00</updated>
   </entry>
 </feed>

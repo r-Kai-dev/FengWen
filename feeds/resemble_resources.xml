@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-10-14T00:00:00+00:00</updated>
+  <updated>2026-10-15T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>The Deepfake Watchlist: Special Edition — Deepfakes and the 2026 Midterms</title>
+    <link href="https://www.resemble.ai/resources/deepfake-watchlist-2026-midterms"/>
+    <id>77ffba76cea0287a842ea8365c78ad94</id>
+    <published>2026-10-15T00:00:00+00:00</published>
+    <updated>2026-10-15T00:00:00+00:00</updated>
+    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle.</summary>
+    <category term="Deepfake Watchlist"/>
+  </entry>
   <entry>
     <title>Detection Learned to Reason. Here's What That Meant for Q3.</title>
     <link href="https://www.resemble.ai/resources/detection-learned-to-reason-heres-what-that-meant-for-q3"/>
@@ -106,15 +115,6 @@
     <updated>2026-09-30T00:00:00+00:00</updated>
     <summary type="text">Resemble AI for Microsoft Teams brings real-time audio and video deepfake detection into your Teams meetings. A one-page overview to share with your team.</summary>
     <category term="Guide"/>
-  </entry>
-  <entry>
-    <title>Imperceptible Audio Watermark: Techniques, Tools, and What Teams Need to Know</title>
-    <link href="https://www.resemble.ai/resources/imperceptible-audio-watermark-techniques-tools"/>
-    <id>b639a011154d2ea9bd82c05584aa5e72</id>
-    <published>2026-09-29T00:00:00+00:00</published>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <summary type="text">Learn how imperceptible audio watermarking works, which techniques are used, and how to evaluate tools for synthetic media provenance and fraud prevention.</summary>
-    <category term="Blog"/>
   </entry>
   <entry>
     <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>

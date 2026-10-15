@@ -6,8 +6,19 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-10-05T00:00:00.000Z</updated>
+  <updated>2026-10-15T15:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>Introducing Krea 3</title>
+    <link href="https://www.krea.ai/blog/introducing-krea-3"/>
+    <id>https://www.krea.ai/blog/introducing-krea-3</id>
+    <updated>2026-10-15T15:00:00.000Z</updated>
+    <published>2026-10-15T15:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Krea 3 is our new image editing model. Edits take under 8 seconds at native 2K, and products and characters stay consistent from one image to the next.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp" type="image/webp"/>
+  </entry>
   <entry>
     <title>Best Free Alternatives to DALL-E in 2026</title>
     <link href="https://www.krea.ai/blog/best-free-alternatives-to-dall-e-in-2026"/>
@@ -567,16 +578,5 @@
     <category term="guides"/>
     <summary>How to create a logo in 2026 — Krea, Looka, Canva, Ideogram, ChatGPT, and Adobe Express compared by quality, file formats, price, and limits.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-create-a-logo-best-ai-logo-generators-in-2026/agent/hero-v2.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to Make a White Background for Photos in 2026 (Free Tools + Steps)</title>
-    <link href="https://www.krea.ai/blog/how-to-make-a-white-background-for-photos-in-2026"/>
-    <id>https://www.krea.ai/blog/how-to-make-a-white-background-for-photos-in-2026</id>
-    <updated>2026-09-02T00:00:00.000Z</updated>
-    <published>2026-09-02T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>How to make a white background for photos in 2026: compare Krea, Canva, Photoroom, remove.bg, and Adobe Express, with steps and Amazon's pure-white rule.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-make-a-white-background-for-photos-in-2026/agent/hero.png" type="image/webp"/>
   </entry>
 </feed>

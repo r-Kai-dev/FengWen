@@ -4,18 +4,36 @@
   <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
   <link href="https://www.figma.com/blog/"/>
   <id>https://www.figma.com/blog/</id>
-  <updated>2026-10-13T14:35:00.000Z</updated>
+  <updated>2026-10-15T04:53:00.000Z</updated>
   <author>
-    <name>Figma</name>
+    <name>Dylan Field</name>
   </author>
   <entry>
-    <title>Source material: Creative director Manon Macasaet’s spirituality shapes her process</title>
-    <link href="https://www.figma.com/blog/source-material-manon-macasaet/"/>
-    <id>8125cc5e54ccdd3d753742408b16fce0</id>
-    <published>2026-10-13T14:35:00.000Z</published>
-    <updated>2026-10-13T14:35:00.000Z</updated>
-    <summary type="text">The creative behind Poison Candy Apple is inspired by Harajuku fashion, early internet Tumblr, old rave graphics, and kidrobots.</summary>
-    <category term="Maker Stories"/>
+    <title>Build by design: New workflows for new ways of building</title>
+    <link href="https://www.figma.com/blog/build-by-design/"/>
+    <id>2b2fc0fbebd0045c926bbe10da3731b1</id>
+    <published>2026-10-15T04:53:00.000Z</published>
+    <updated>2026-10-15T04:53:00.000Z</updated>
+    <summary type="text">Here’s a look at everything we launched today to bring teams and agents, and the design, code, and context they work with, into Figma’s full-stack creative canvas.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>Design together with code layers on the canvas</title>
+    <link href="https://www.figma.com/blog/design-together-with-code-layers/"/>
+    <id>8018a3ad660a033f64cf2a5a70b9859b</id>
+    <published>2026-10-15T04:52:00.000Z</published>
+    <updated>2026-10-15T04:52:00.000Z</updated>
+    <summary type="text">Today, code layers moves into open beta. Now teams can explore and build prototypes backed by code on the canvas.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>Introducing Specs: Markdown as a medium</title>
+    <link href="https://www.figma.com/blog/introducing-figma-specs/"/>
+    <id>7c5ed8215d044b68fa2e475bd70f19c7</id>
+    <published>2026-10-15T04:51:00.000Z</published>
+    <updated>2026-10-15T04:51:00.000Z</updated>
+    <summary type="text">We’re launching Specs, a container for your context that lives on the Figma canvas.</summary>
+    <category term="Inside Figma"/>
   </entry>
   <entry>
     <title>3 ways product designers use the Figma agent for craft, speed, and creative expression</title>
@@ -97,15 +115,6 @@
     <updated>2026-08-13T16:00:00.000Z</updated>
     <summary type="text">Now you can author skills for our agent, directly in Figma, to put your point of view to work. Here are 10 of our favorites to get you started.</summary>
     <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>Workflow lab: Deploying designs directly with Figma Make</title>
-    <link href="https://www.figma.com/blog/workflow-lab-deploying-designs-directly-with-figma-make/"/>
-    <id>7515234e44912ffeddb73c7292581b3f</id>
-    <published>2026-07-16T12:00:00.000Z</published>
-    <updated>2026-07-16T12:00:00.000Z</updated>
-    <summary type="text">The handoff from design to code doesn't have to be a one-way street. This workflow shows how a designer can connect a codebase to Figma Make, make the changes directly, and bring the whole team into review—right up to the PR.</summary>
-    <category term="Working Well"/>
   </entry>
   <entry>
     <title>Figma’s design agent, now with custom tools and greater context</title>
