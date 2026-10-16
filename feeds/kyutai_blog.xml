@@ -4,10 +4,18 @@
   <icon>https://kyutai.org/favicon.ico</icon>
   <link href="https://kyutai.org/blog"/>
   <id>https://kyutai.org/blog</id>
-  <updated>2026-09-28T00:00:00+00:00</updated>
+  <updated>2026-10-16T00:00:00+00:00</updated>
   <author>
     <name>Kyutai</name>
   </author>
+  <entry>
+    <title>REKI: Registering Knowledge in VLAs</title>
+    <link href="https://kyutai.org/blog/2026-10-02-reki"/>
+    <id>2896b60a1b6c631e69574042eee7d464</id>
+    <published>2026-10-16T00:00:00+00:00</published>
+    <updated>2026-10-16T00:00:00+00:00</updated>
+    <summary type="text">A 2.4B vision-language-action model pretrained on public data only, with a memory of its recent past at negligible cost.</summary>
+  </entry>
   <entry>
     <title>Building a Pocket TTS with a drifting objective</title>
     <link href="https://kyutai.org/blog/2026-09-28-pocket-tts-drifting"/>

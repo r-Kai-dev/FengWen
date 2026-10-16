@@ -4,10 +4,24 @@
   <icon>https://artificialanalysis.ai/favicon.ico</icon>
   <link href="https://artificialanalysis.ai/articles"/>
   <id>https://artificialanalysis.ai/articles</id>
-  <updated>2026-10-15T00:00:00+00:00</updated>
+  <updated>2026-10-16T00:00:00+00:00</updated>
   <author>
     <name>Artificial Analysis</name>
   </author>
+  <entry>
+    <title>Reflection has released Beam, their first model launch</title>
+    <link href="https://artificialanalysis.ai/articles/reflection-beam"/>
+    <id>57b8fa873411c4975a89353e0a763e20</id>
+    <published>2026-10-16T00:00:00+00:00</published>
+    <updated>2026-10-16T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>First AA-AgentPerf results for NVIDIA Vera Rubin NVL72</title>
+    <link href="https://artificialanalysis.ai/articles/vera-rubin-nvl72-agentperf"/>
+    <id>7154bc3d11cc05673c74b22934dc1cb5</id>
+    <published>2026-10-15T00:00:00+00:00</published>
+    <updated>2026-10-15T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>First AA-AgentPerf-Local results for an NVIDIA RTX Spark N1X laptop</title>
     <link href="https://artificialanalysis.ai/articles/nvidia-rtx-spark-agentperf-local"/>
@@ -77,19 +91,5 @@
     <id>80539448c1518e384f835dc9054d61b9</id>
     <published>2026-10-07T00:00:00+00:00</published>
     <updated>2026-10-07T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Mistral has released Mistral Large 4, making France home to the most intelligent model outside the US and China</title>
-    <link href="https://artificialanalysis.ai/articles/mistral-large-4-france-ai"/>
-    <id>5feb667c87a7f50459b8aab1207c8685</id>
-    <published>2026-10-06T00:00:00+00:00</published>
-    <updated>2026-10-06T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Korean AI Lab Upstage releases Solar Mini 4</title>
-    <link href="https://artificialanalysis.ai/articles/korean-ai-lab-upstage-releases-solar-mini-4"/>
-    <id>d9b6e76f9c13a6ac138e8d7300e97ac0</id>
-    <published>2026-09-30T00:00:00+00:00</published>
-    <updated>2026-09-30T00:00:00+00:00</updated>
   </entry>
 </feed>

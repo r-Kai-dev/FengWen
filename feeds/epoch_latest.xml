@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-10-14T00:00:00+00:00</updated>
+  <updated>2026-10-16T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Open-weight models trail closed models in cyber capabilities by 6–7 months</title>
+    <link href="https://epoch.ai/data-insights/open-closed-cyber-eci-gap"/>
+    <id>0229336a8316e9b4999ebabdb01f2bbc</id>
+    <published>2026-10-16T00:00:00+00:00</published>
+    <updated>2026-10-16T00:00:00+00:00</updated>
+    <summary type="text">Z.ai’s GLM-5.3 is the top open-weight model on Epoch’s Cyber ECI, scoring where the closed-weight frontier stood 6–7 months earlier.</summary>
+    <category term="Data Insight"/>
+  </entry>
   <entry>
     <title>AI systems are improving rapidly at Slay the Spire and its sequel</title>
     <link href="https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel"/>
@@ -88,14 +97,5 @@
     <updated>2026-10-02T00:00:00+00:00</updated>
     <summary type="text">Memory shipped through 2027 could run 33–171 million concurrent frontier-model agents, or billions using efficient open models. Epoch AI estimates inference capacity from HBM supply, serving benchmarks, and agent-hour costs.</summary>
     <category term="Report"/>
-  </entry>
-  <entry>
-    <title>Introducing the ChatGPT usage explorer</title>
-    <link href="https://epoch.ai/latest/introducing-the-chatgpt-usage-explorer"/>
-    <id>c3bccc5988b8af3dd7cf5733e4ffb51e</id>
-    <published>2026-10-01T00:00:00+00:00</published>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <summary type="text">Median monthly messages per active user rose from 14 in 2023 to 36 in 2025, and the top 10% of users sent 63% of all prompts. Epoch AI's ChatGPT usage explorer draws on 8.3 million messages from 5,000 US YouGov panelists.</summary>
-    <category term="Update"/>
   </entry>
 </feed>

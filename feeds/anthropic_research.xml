@@ -4,10 +4,50 @@
   <icon>https://www.anthropic.com/favicon.ico</icon>
   <link href="https://www.anthropic.com/research"/>
   <id>https://www.anthropic.com/research</id>
-  <updated>2026-10-12T00:00:00+00:00</updated>
+  <updated>2026-10-16T00:00:00+00:00</updated>
   <author>
     <name>Anthropic</name>
   </author>
+  <entry>
+    <title>Claude reveals ECDSA curve origins</title>
+    <link href="https://www.anthropic.com/research/ecdsa-curve-origins"/>
+    <id>72c62c5c6aca53f295b9191a9444a215</id>
+    <published>2026-10-16T00:00:00+00:00</published>
+    <updated>2026-10-16T00:00:00+00:00</updated>
+    <category term="Frontier Red Team"/>
+  </entry>
+  <entry>
+    <title>Designing more efficient quantum circuits with Claude</title>
+    <link href="https://www.anthropic.com/research/designing-efficient-quantum-circuits"/>
+    <id>2c9d77942c3bb830fccfaa6f7670cbe2</id>
+    <published>2026-10-16T00:00:00+00:00</published>
+    <updated>2026-10-16T00:00:00+00:00</updated>
+    <category term="Science"/>
+  </entry>
+  <entry>
+    <title>How employment is changing at Anthropic</title>
+    <link href="https://www.anthropic.com/research/employment-at-anthropic"/>
+    <id>9bc2c0f7be8643f3e45bed5768ced8c3</id>
+    <published>2026-10-16T00:00:00+00:00</published>
+    <updated>2026-10-16T00:00:00+00:00</updated>
+    <category term="Economics"/>
+  </entry>
+  <entry>
+    <title>The AI expectations gap</title>
+    <link href="https://www.anthropic.com/research/ai-expectations-gap"/>
+    <id>ed74e39c95cd550e9d970b01ac86ca41</id>
+    <published>2026-10-16T00:00:00+00:00</published>
+    <updated>2026-10-16T00:00:00+00:00</updated>
+    <category term="Economics"/>
+  </entry>
+  <entry>
+    <title>Working at the frontier shapes expectations for the future</title>
+    <link href="https://www.anthropic.com/research/expectations-for-the-future"/>
+    <id>337a10de9a2506e07cd984d5ffbceb2e</id>
+    <published>2026-10-16T00:00:00+00:00</published>
+    <updated>2026-10-16T00:00:00+00:00</updated>
+    <category term="Economics"/>
+  </entry>
   <entry>
     <title>AI models may be capable of self-replicating without access to a datacenter</title>
     <link href="https://www.anthropic.com/research/self-replicating-ai"/>
@@ -49,44 +89,12 @@
     <category term="Science"/>
   </entry>
   <entry>
-    <title>Claude-shaped science</title>
-    <link href="https://www.anthropic.com/research/claude-shaped-science"/>
-    <id>07f10d9d53b40efc7f4a164d5ed8318f</id>
-    <published>2026-10-01T00:00:00+00:00</published>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <category term="Science"/>
-  </entry>
-  <entry>
-    <title>What work can robots do?</title>
-    <link href="https://www.anthropic.com/research/what-work-can-robots-do"/>
-    <id>1ffa5de207f734eece170f0731650db2</id>
-    <published>2026-09-30T00:00:00+00:00</published>
-    <updated>2026-09-30T00:00:00+00:00</updated>
-    <category term="Economics"/>
-  </entry>
-  <entry>
-    <title>GLM-5.3 and the spread of advanced cyber capabilities</title>
-    <link href="https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"/>
-    <id>f857d013d7ffb09cd1f67e2acf72faa9</id>
-    <published>2026-09-29T00:00:00+00:00</published>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <category term="Frontier Red Team"/>
-  </entry>
-  <entry>
     <title>What do you want from AI?</title>
     <link href="https://www.anthropic.com/research/your-thoughts-on-ai"/>
     <id>d7b7af21dc657a9b3da5a16db587ea77</id>
     <published>2026-09-29T00:00:00+00:00</published>
     <updated>2026-09-29T00:00:00+00:00</updated>
     <category term="Societal Impacts"/>
-  </entry>
-  <entry>
-    <title>Yes, Claude can do Nine Loops</title>
-    <link href="https://www.anthropic.com/research/yes-claude-can-do-nine-loops"/>
-    <id>e49f13343fd51222c0a5cd34efbfd0f1</id>
-    <published>2026-09-25T00:00:00+00:00</published>
-    <updated>2026-09-25T00:00:00+00:00</updated>
-    <category term="Science"/>
   </entry>
   <entry>
     <title>Project Swap: What happens when agents trade for us?</title>

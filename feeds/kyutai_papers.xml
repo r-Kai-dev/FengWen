@@ -4,10 +4,18 @@
   <icon>https://kyutai.org/favicon.ico</icon>
   <link href="https://kyutai.org/papers"/>
   <id>https://kyutai.org/papers</id>
-  <updated>2026-09-30T12:58:31+00:00</updated>
+  <updated>2026-10-15T16:34:06+00:00</updated>
   <author>
     <name>Kyutai</name>
   </author>
+  <entry>
+    <title>REKI: Registering Knowledge in VLAs</title>
+    <link href="https://arxiv.org/abs/2610.22178"/>
+    <id>1633f3b036497823bf382bcfa213cf6a</id>
+    <published>2026-10-15T16:34:06+00:00</published>
+    <updated>2026-10-15T16:34:06+00:00</updated>
+    <summary type="text">We introduce REKI, a 2.4B vision-language-action model (VLA) pretrained exclusively on public data that sets a new Pareto frontier between performance and model size: on LIBERO-Plus, RoboTwin Clean2Rand and RoboCasa365, it is outperformed only by models about twice its size. REKI consists of a vision-language model (VLM) followed by a flow-matching action expert, and is pretrained on a curated mixture of public robot, egocentric human and vision-language data. Additionally, we endow it with a memory that gives the policy access to its recent past at negligible cost: a few register tokens in the action expert summarise the output of the VLM at each frame and persist in the expert's cache. This memory improves success in simulation and on real robots, and makes oscillations between poses about four times rarer. REKI uses a simple model design and training paradigm, and is optimised to be efficient at training and inference. We release the full code across data curation, training, inference and evaluation, deployment, and all pretrained and finetuned model weights: https://github.com/kyutai-labs/reki.</summary>
+  </entry>
   <entry>
     <title>Diffusable Latents from Structure-Agnostic Distillation</title>
     <link href="https://arxiv.org/abs/2609.39657"/>
