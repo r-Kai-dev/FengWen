@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-10-15T00:00:00+00:00</updated>
+  <updated>2026-10-19T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Colorado AI Act 2026: The New Rules for AI Trust</title>
+    <link href="https://www.resemble.ai/resources/colorado-ai-act-new-rules"/>
+    <id>f03f6e66d0f84ce7e00fa09adf2515fc</id>
+    <published>2026-10-19T00:00:00+00:00</published>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <summary type="text">Colorado's new AI law (SB 26-189) requires disclosure and documentation for AI used in hiring, lending, and healthcare decisions. Here's what changed and what enterprises need to track.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>The Deepfake Watchlist: Special Edition — Deepfakes and the 2026 Midterms</title>
     <link href="https://www.resemble.ai/resources/deepfake-watchlist-2026-midterms"/>
@@ -97,15 +106,6 @@
     <updated>2026-10-01T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>Deepfake Detection for Telecom Fraud Prevention</title>
-    <link href="https://www.resemble.ai/resources/deepfake-detection-for-telecom-fraud-prevention"/>
-    <id>64d157461b8dd43467b5265b3a6f4b63</id>
-    <published>2026-09-30T00:00:00+00:00</published>
-    <updated>2026-09-30T00:00:00+00:00</updated>
-    <summary type="text">How CSPs and fraud teams detect AI voice deepfakes in real time. Verdicts, confidence scores, and API/on-prem options with Resemble Detect.</summary>
-    <category term="Blog"/>
   </entry>
   <entry>
     <title>Resemble AI for Microsoft Teams</title>

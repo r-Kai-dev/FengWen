@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-10-16T00:00:00+00:00</updated>
+  <updated>2026-10-18T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>SGLang Low-Latency Mode: Kernels and Runtime</title>
+    <link href="https://lmsys.org/blog/2026-10-18-sglang-vendor-kernel-runtime"/>
+    <id>ff854b577be93616069453cf464ebcdf</id>
+    <published>2026-10-18T00:00:00+00:00</published>
+    <updated>2026-10-18T00:00:00+00:00</updated>
+    <summary type="text">&lt;style.article:has(kernels-for-low-latency-inference) h2 { font-size: 30px; font-weight: 700; margin-top: 3rem; padding-top: 0; margin-bottom: 1rem; }.article:has(kernels-for-low-latency-inference) h3...</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>SGLang Powers Beam in Production</title>
     <link href="https://lmsys.org/blog/2026-10-16-beam"/>

@@ -4,10 +4,37 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-10-13T00:00:00+00:00</updated>
+  <updated>2026-10-19T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>Cinematic AI Video Generation: A 2026 Open-Source Guide</title>
+    <link href="https://ltx.io/blog/open-source-cinematic-video-generation-guide"/>
+    <id>1c52fd8ede0b5a4a9f8b85d56cc8f548</id>
+    <published>2026-10-19T00:00:00+00:00</published>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <summary type="text">Explore the landscape of open-source video generation models. Learn how local weights and API integration enable production-grade cinematic AI workflows.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Fine-Tuning Open-Source Generative Video Models</title>
+    <link href="https://ltx.io/blog/fine-tuning-open-source-video-models"/>
+    <id>3f64ae69bd81186f727943d24e458175</id>
+    <published>2026-10-19T00:00:00+00:00</published>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <summary type="text">Learn how to build custom, private video generation pipelines using open-source foundation models and LoRA fine-tuning for studio-specific assets.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Leveraging Open-Source World Models For Physical AI Simulation</title>
+    <link href="https://ltx.io/blog/open-source-world-models-for-physical-ai-simulation"/>
+    <id>f6736f763e291ce96194b0b8df165556</id>
+    <published>2026-10-19T00:00:00+00:00</published>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <summary type="text">Explore how open-source world foundation models enable developers to build physical AI, generate synthetic training data, and run simulations on their own hardware.</summary>
+    <category term="Physical AI"/>
+  </entry>
   <entry>
     <title>An Easier Way to Use LTX Trainer Is Here</title>
     <link href="https://ltx.io/blog/an-easier-way-to-use-ltx-trainer-is-here"/>
@@ -27,7 +54,7 @@
     <category term="Tutorials"/>
   </entry>
   <entry>
-    <title>AI Video Model Speed Comparison: LTX-2.5, Veo, Kling, Seedance &amp; More</title>
+    <title>Fastest AI Video Generation Models (2026): LTX-2.5, Veo, Kling, Seedance Compared</title>
     <link href="https://ltx.io/blog/ai-video-model-speed-comparison"/>
     <id>1ac654e35da3f18fbad283198a22886e</id>
     <published>2026-10-02T00:00:00+00:00</published>
@@ -412,32 +439,5 @@
     <updated>2026-08-16T00:00:00+00:00</updated>
     <summary type="text">LTX joins NVIDIA's Cosmos Coalition as a founding member alongside Runway, Black Forest Labs, and Skild AI, building on the new Cosmos 3 model.</summary>
     <category term="Physical AI"/>
-  </entry>
-  <entry>
-    <title>Best World Models in 2026 (Open &amp; Closed)</title>
-    <link href="https://ltx.io/blog/best-world-models"/>
-    <id>3b7e1dd525218812f17b516106681a1a</id>
-    <published>2026-08-13T00:00:00+00:00</published>
-    <updated>2026-08-13T00:00:00+00:00</updated>
-    <summary type="text">The best world models for physical AI and real-time environments in 2026, ranked on openness, speed, and what you can actually build on.</summary>
-    <category term="Physical AI"/>
-  </entry>
-  <entry>
-    <title>World Models vs. LLMs: What's the Difference &amp; Why It Matters</title>
-    <link href="https://ltx.io/blog/world-models-vs-llms"/>
-    <id>04cfbb53603f58788965e701916218b1</id>
-    <published>2026-08-12T00:00:00+00:00</published>
-    <updated>2026-08-12T00:00:00+00:00</updated>
-    <summary type="text">World models vs. LLMs: same table, different jobs. See how each predicts, where each breaks, and how LTX-2.5 fits into the world model side.</summary>
-    <category term="Physical AI"/>
-  </entry>
-  <entry>
-    <title>LTX-2.5: The Foundation Film Is Made On</title>
-    <link href="https://ltx.io/blog/the-foundation-film-is-made-on"/>
-    <id>7bbc1dc5cef7fb0ccc9fa84e6c47f906</id>
-    <published>2026-08-11T00:00:00+00:00</published>
-    <updated>2026-08-11T00:00:00+00:00</updated>
-    <summary type="text">LTX-2.5 is here: open weights video AI with Pixel Diffusion, native multishot generation, sharper prompts, and full HDR ACES support for filmmaking teams.</summary>
-    <category term="Product Updates"/>
   </entry>
 </feed>

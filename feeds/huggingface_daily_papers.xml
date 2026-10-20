@@ -6,22 +6,22 @@
   <id>https://huggingface.co/papers</id>
   <updated>2026-10-14T20:00:00.000Z</updated>
   <entry>
-    <title>Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation</title>
-    <link href="https://arxiv.org/abs/2610.21601"/>
-    <id>7f2ba5746591a8125a5ade0ab0963687</id>
+    <title>MJev-Spatial: System One Spatial Intelligence via Native Attention Matching</title>
+    <link href="https://arxiv.org/abs/2610.22276"/>
+    <id>0e8dea35e79af873bc9a397b6f0dffb4</id>
     <published>2026-10-14T20:00:00.000Z</published>
     <updated>2026-10-14T20:00:00.000Z</updated>
-    <summary type="text">Policy-shift distillation reuses the difference between a teacher's log probabilities before and after reinforcement learning (RL) as supervision on student-generated trajectories. However, this endpo... \u00b7 Upvotes: 668 \u00b7 GitHub Stars: 4 \u00b7 Authors: Bingxi Hou, Guochao Jiang, Guofeng Quan</summary>
+    <summary type="text">Spatial intelligence lets an agent perceive and act in the physical world, and many of its judgments must be made at interaction rates: which spatial relation holds, how far an object is, or where to ... \u00b7 Upvotes: 542 \u00b7 GitHub Stars: 15 \u00b7 Authors: Luozheng Qin, Yuhan Zhu, Changhai Zhou</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
   <entry>
-    <title>OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding</title>
-    <link href="https://arxiv.org/abs/2610.18829"/>
-    <id>3fab5d14b99de6e164d9210eb6440dca</id>
+    <title>Jeva: System One Models from First Principles</title>
+    <link href="https://arxiv.org/abs/2610.18773"/>
+    <id>da31e4001ee621d46acbf3bc8e8a7a0c</id>
     <published>2026-10-12T20:00:00.000Z</published>
     <updated>2026-10-12T20:00:00.000Z</updated>
-    <summary type="text">With the rapid development of multimodal large language models (MLLMs), evaluating their video understanding capabilities has become increasingly important. Existing video understanding benchmarks cov... \u00b7 Upvotes: 578 \u00b7 GitHub Stars: 83 \u00b7 Authors: Xuyang Liu, Shihao Wang, Xinyu Wei</summary>
+    <summary type="text">System one models enable direct, low-latency decision-making. Yet recent practice of predicting an answer from serialized text does not, by itself, respect the structure of a decision problem. We argu... \u00b7 Upvotes: 417 \u00b7 GitHub Stars: 110 \u00b7 Authors: Qi Li, Xinchao Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +31,7 @@
     <id>8e5f5d04101a157be48e20cd4958f1f3</id>
     <published>2026-10-08T20:00:00.000Z</published>
     <updated>2026-10-08T20:00:00.000Z</updated>
-    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 114 \u00b7 GitHub Stars: 3414 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
+    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 110 \u00b7 GitHub Stars: 9746 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +41,7 @@
     <id>cd7695280a5fdcd53eebb0adbd0746a3</id>
     <published>2026-10-06T20:00:00.000Z</published>
     <updated>2026-10-06T20:00:00.000Z</updated>
-    <summary type="text">Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con... \u00b7 Upvotes: 114 \u00b7 GitHub Stars: 2799 \u00b7 Authors: Wei Huang, Bohan Zhang, Chenzhi Liu</summary>
+    <summary type="text">Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con... \u00b7 Upvotes: 113 \u00b7 GitHub Stars: 2808 \u00b7 Authors: Wei Huang, Bohan Zhang, Chenzhi Liu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +51,7 @@
     <id>180c4cf0e3e956cc7fd106b7c7990e05</id>
     <published>2026-10-04T20:00:00.000Z</published>
     <updated>2026-10-04T20:00:00.000Z</updated>
-    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 2921 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
+    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 2926 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,17 +61,17 @@
     <id>d6e2d149be82641d49bf0fe1c966e1f5</id>
     <published>2026-09-29T20:00:00.000Z</published>
     <updated>2026-09-29T20:00:00.000Z</updated>
-    <summary type="text">Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we c... \u00b7 Upvotes: 664 \u00b7 Authors: Meijia Chen, Hao Li, Zheng Lu</summary>
+    <summary type="text">Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we c... \u00b7 Upvotes: 641 \u00b7 Authors: Meijia Chen, Hao Li, Zheng Lu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
   <entry>
-    <title>LoopVL: Recurrent Visual Intelligence</title>
-    <link href="https://arxiv.org/abs/2609.38426"/>
-    <id>0645dbbe6e8c781eb092ba7b68ce41a2</id>
+    <title>TabFM: A Zero-Shot Foundation Model for Tabular Data</title>
+    <link href="https://arxiv.org/abs/2609.37959"/>
+    <id>d65723b4879c0dd7e666f63e2b749ce8</id>
     <published>2026-09-28T20:00:00.000Z</published>
     <updated>2026-09-28T20:00:00.000Z</updated>
-    <summary type="text">We introduce LoopVL to study whether Loop Transformers can be effectively extended to vision- language models. LoopVL combines Module-Loop and Model-Loop computation to iteratively update a unified vi... \u00b7 Upvotes: 484 \u00b7 GitHub Stars: 257 \u00b7 Authors: Zhe Qian, Ziyang Gong, Zhongxing Xu</summary>
+    <summary type="text">Tabular machine learning typically relies on per-dataset workflows, fitting tree ensembles or running AutoML searches from scratch for every task. We present TabFM, a 400M-parameter tabular foundation... \u00b7 Upvotes: 21 \u00b7 GitHub Stars: 2785 \u00b7 Authors: Weihao Kong, Erez Louidor Ilan, Shuxin Nie</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +81,7 @@
     <id>1fe44f5221e8a29a7933ac014659fa6e</id>
     <published>2026-09-28T20:00:00.000Z</published>
     <updated>2026-09-28T20:00:00.000Z</updated>
-    <summary type="text">On-policy distillation (OPD) trains a student to match the teacher's next-token distributions on the student's own trajectories and has yielded substantial empirical gains. Generalized variants allow ... \u00b7 Upvotes: 527 \u00b7 GitHub Stars: 7 \u00b7 Authors: Hao Li, MeiJia Chen, Weijie Ren</summary>
+    <summary type="text">On-policy distillation (OPD) trains a student to match the teacher's next-token distributions on the student's own trajectories and has yielded substantial empirical gains. Generalized variants allow ... \u00b7 Upvotes: 510 \u00b7 GitHub Stars: 7 \u00b7 Authors: Hao Li, MeiJia Chen, Weijie Ren</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,7 +91,7 @@
     <id>d101ed881ca965ab09de53d4d5c7b66b</id>
     <published>2026-09-26T20:00:00.000Z</published>
     <updated>2026-09-26T20:00:00.000Z</updated>
-    <summary type="text">As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness co... \u00b7 Upvotes: 675 \u00b7 GitHub Stars: 5503 \u00b7 Authors: EverMind AI</summary>
+    <summary type="text">As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness co... \u00b7 Upvotes: 610 \u00b7 GitHub Stars: 5518 \u00b7 Authors: EverMind AI</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -101,17 +101,17 @@
     <id>62eccf37520da702a68648399df2d6a8</id>
     <published>2026-09-26T20:00:00.000Z</published>
     <updated>2026-09-26T20:00:00.000Z</updated>
-    <summary type="text">Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE... \u00b7 Upvotes: 238 \u00b7 GitHub Stars: 12135 \u00b7 Authors: Ruibin Yuan, Jiahao Pan, Junyan Jiang</summary>
+    <summary type="text">Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE... \u00b7 Upvotes: 222 \u00b7 GitHub Stars: 12302 \u00b7 Authors: Ruibin Yuan, Jiahao Pan, Junyan Jiang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
   <entry>
-    <title>SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness</title>
-    <link href="https://arxiv.org/abs/2609.20519"/>
-    <id>724b2d7bf0e2ecceeaea6a90c51f7385</id>
-    <published>2026-09-16T20:00:00.000Z</published>
-    <updated>2026-09-16T20:00:00.000Z</updated>
-    <summary type="text">As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedb... \u00b7 Upvotes: 140 \u00b7 GitHub Stars: 3494 \u00b7 Authors: Haozhe Liu, Tian Ye, Sensen Gao</summary>
+    <title>Omni-IO Skills: Harnessing Your Agent Omni-Native</title>
+    <link href="https://arxiv.org/abs/2609.31847"/>
+    <id>ba2eaece21615de481fdfe12f1567ed0</id>
+    <published>2026-09-24T20:00:00.000Z</published>
+    <updated>2026-09-24T20:00:00.000Z</updated>
+    <summary type="text">General-purpose agents can plan, reason, and act over long horizons, yet their production capabilities remain fragmented across text, images, audio, video, documents, 3D assets, and code. Extending a ... \u00b7 Upvotes: 485 \u00b7 GitHub Stars: 199 \u00b7 Authors: Yanlin Li, Mingyang Hao, Shengqiong Wu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

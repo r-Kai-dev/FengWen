@@ -4,16 +4,26 @@
   <icon>https://news.aibase.com/favicon.ico</icon>
   <link href="https://news.aibase.com/zh/daily"/>
   <id>https://news.aibase.com/zh/daily</id>
-  <updated>2026-10-15T22:41:41.206499+00:00</updated>
+  <updated>2026-10-19T17:03:20.987934+00:00</updated>
   <author>
     <name>AIBase</name>
   </author>
   <entry>
+    <title>AI日报：火山引擎砸钱养AI剧；DeepSeek发布API网页搜索与抓取服务；腾讯Marvis上架麒麟软件商店</title>
+    <link href="https://news.aibase.com/zh/daily/31727"/>
+    <id>13047c98a8d6ac1aba76afc1ee72d01d</id>
+    <published>2026-10-19T17:03:20.987934+00:00</published>
+    <updated>2026-10-19T17:03:20.987934+00:00</updated>
+    <summary type="text">1、字节火山引擎砸钱养AI剧：月度TOP10单部最高奖20万火山引擎推出Seedance精品AI剧激励计划，本质是以真金白银补贴撬动内容生态，将模型、工具、平台与分发渠道深度绑定。企业按场景分层选型模型将成为AI落地的关键策略。</summary>
+    <category term="AI Daily"/>
+    <category term="人工智能"/>
+  </entry>
+  <entry>
     <title>AI日报：xAI发布Grok Voice 3.0；蚂蚁百灵开源 Ling-3.1-flash；Step 5 Preview 模型权重正式开源</title>
     <link href="https://news.aibase.com/zh/daily/31668"/>
     <id>cb353fcf8419534e104a4e3586b216aa</id>
-    <published>2026-10-15T22:41:41.206499+00:00</published>
-    <updated>2026-10-15T22:41:41.206499+00:00</updated>
+    <published>2026-10-16T00:03:20.988210+00:00</published>
+    <updated>2026-10-16T00:03:20.988210+00:00</updated>
     <summary type="text">1、马斯克旗下xAI发布GrokVoice3.0，定价仅0.08美元xAI推出的GrokVoice3.0展现了马斯克系公司在语音AI领域的强劲实力。不过内部员工对编码表现的疑虑、Gemini3.5Pro推迟发布及人才流失，表明谷歌在OpenAI、Anthropic等强敌环伺下，仍需以实际体验与稳定性赢得更广泛用户的信任。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -22,8 +32,8 @@
     <title>AI日报：可灵AI带着Kling4.0杀向好莱坞；千问Go已开放体验申请；1688全面接入AI电商工作台Accio</title>
     <link href="https://news.aibase.com/zh/daily/31608"/>
     <id>525dc74fc593a97da7ba2b9b62bd6342</id>
-    <published>2026-10-13T22:41:41.207118+00:00</published>
-    <updated>2026-10-13T22:41:41.207118+00:00</updated>
+    <published>2026-10-14T00:03:20.988389+00:00</published>
+    <updated>2026-10-14T00:03:20.988389+00:00</updated>
     <summary type="text">1、可灵AI带着Kling4.0杀向好莱坞：AI视频要从玩具变成企业的生产流水线文章讲述了可灵AI在2026洛杉矶科技周上展示Kling4.0的计划，强调其在运动连贯性、指令服从和长镜头叙事上的突破。这表明Sora可能从消费级产品转向影视工业领域，减轻OpenAI的算力负担，并借助行业专家推动技术应用。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -32,8 +42,8 @@
     <title>AI日报：OpenAI给GPT-6.1 Sol扩容记忆；蚂蚁“灵光”开启新版内测；唯品会上线自研 AI 助手AI小唯</title>
     <link href="https://news.aibase.com/zh/daily/31569"/>
     <id>2693e14189ff3bcb7d00329f175aa086</id>
-    <published>2026-10-12T22:41:41.207749+00:00</published>
-    <updated>2026-10-12T22:41:41.207749+00:00</updated>
+    <published>2026-10-12T00:00:00+00:00</published>
+    <updated>2026-10-12T00:00:00+00:00</updated>
     <summary type="text">1、OpenAI给GPT-6.1Sol扩容记忆：默认上下文顶到50万，长文本不再单独计费OpenAI对GPT-6.1Sol进行了重大调整，将默认上下文窗口从27.2万token提升至50万token，显著提升了模型处理复杂任务的能力。8、腾讯上线「企鹅微单」:AI创作者接单平台，支持需求发布、智能匹配与微信内结算腾讯推出「企鹅微单」AI创作者接单平台，旨在解决AI创作工具难变现的问题，通过智能匹配机制连接需求方与创作者，并在微信生态内完成交易全流程。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -195,16 +205,6 @@
     <published>2026-09-14T00:00:00+00:00</published>
     <updated>2026-09-14T00:00:00+00:00</updated>
     <summary type="text">1、豆包手机助手消费者版发布:AI键指纹直唤，跨应用Agent再升级豆包手机助手消费者版在交互、记忆、Agent执行及安全等方面全面升级，推动手机AI从“问答”走向“自动办事”。8、DeepSeek-V4.1-Flash上线千问AI平台，API与TokenPlan同步开放DeepSeek-V4.1-Flash的上线为千问AI平台带来了新的技术突破，其在性能和成本控制方面表现出色，适合企业进行长文档解析、客服知识库等任务。</summary>
-    <category term="AI Daily"/>
-    <category term="人工智能"/>
-  </entry>
-  <entry>
-    <title>AI日报：OpenAI正式上线GPT-Live-1 API；DeepSeek V4.1-Flash登陆WorkBuddy；谷歌上线Gemini Windows桌面应用</title>
-    <link href="https://news.aibase.com/zh/daily/30998"/>
-    <id>aed3d1c956e3e63b57845f10b1d7efde</id>
-    <published>2026-09-11T00:00:00+00:00</published>
-    <updated>2026-09-11T00:00:00+00:00</updated>
-    <summary type="text">1、OpenAI正式上线GPT-Live-1API：支持打断处理、工具调用与电话智能体OpenAI正式上线GPT-Live-1API，支持打断处理、工具调用与电话智能体，标志着AI语音交互向自然对话演进。8、支付宝AI支付产品体系再进化，新推AI钱包智能体及三大“AI收”能力支付宝在AI支付领域实现重大升级，从“可支付”迈向“可信支付”，通过推出AI钱包智能体和三大“AI收”能力，以及APASS信任基础设施，构建更安全、高效的智能体商业生态。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
   </entry>
