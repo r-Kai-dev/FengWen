@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-10-19T00:00:00+00:00</updated>
+  <updated>2026-10-20T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>How to Detect Deepfakes in Virtual Meetings</title>
+    <link href="https://www.resemble.ai/resources/detect-deepfakes-virtual-meetings"/>
+    <id>e7a40afae39eb9b00ede39fe79cdacc9</id>
+    <published>2026-10-20T00:00:00+00:00</published>
+    <updated>2026-10-20T00:00:00+00:00</updated>
+    <summary type="text">Learn practical ways to detect deepfake meeting impersonation in virtual meetings with layered verification, real-time signals, and AI monitoring tools.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>Colorado AI Act 2026: The New Rules for AI Trust</title>
     <link href="https://www.resemble.ai/resources/colorado-ai-act-new-rules"/>
@@ -106,15 +115,6 @@
     <updated>2026-10-01T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>Resemble AI for Microsoft Teams</title>
-    <link href="https://www.resemble.ai/resources/resemble-ai-for-microsoft-teams"/>
-    <id>e366a435f4e984397eb17bccc34defb6</id>
-    <published>2026-09-30T00:00:00+00:00</published>
-    <updated>2026-09-30T00:00:00+00:00</updated>
-    <summary type="text">Resemble AI for Microsoft Teams brings real-time audio and video deepfake detection into your Teams meetings. A one-page overview to share with your team.</summary>
-    <category term="Guide"/>
   </entry>
   <entry>
     <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>

@@ -4,14 +4,24 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-10-18T00:00:00+00:00</updated>
+  <updated>2026-10-20T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
   <entry>
+    <title>SGLang-TorchTPU: PyTorch-Native Production Serving on TPUs</title>
+    <link href="https://lmsys.org/blog/2026-10-20-sglang-torchtpu"/>
+    <id>e2244c07a3653fcab0d6c3de05497038</id>
+    <published>2026-10-20T00:00:00+00:00</published>
+    <updated>2026-10-20T00:00:00+00:00</updated>
+    <summary type="text">- SGLang-TorchTPU is open source today, built by the SGLang team at RadixArk in collaboration with Google and Meta.
+- Launch models include Muse Spark Open, GLM-5.3 Flash, GLM-5.3, Kimi K3, DeepSeek V...</summary>
+    <category term="blog"/>
+  </entry>
+  <entry>
     <title>SGLang Low-Latency Mode: Kernels and Runtime</title>
-    <link href="https://lmsys.org/blog/2026-10-18-sglang-vendor-kernel-runtime"/>
-    <id>ff854b577be93616069453cf464ebcdf</id>
+    <link href="https://lmsys.org/blog/2026-10-18-sglang-low-latency-mode"/>
+    <id>5d910056e693aeae8e7b51bb93b8c732</id>
     <published>2026-10-18T00:00:00+00:00</published>
     <updated>2026-10-18T00:00:00+00:00</updated>
     <summary type="text">&lt;style.article:has(kernels-for-low-latency-inference) h2 { font-size: 30px; font-weight: 700; margin-top: 3rem; padding-top: 0; margin-bottom: 1rem; }.article:has(kernels-for-low-latency-inference) h3...</summary>

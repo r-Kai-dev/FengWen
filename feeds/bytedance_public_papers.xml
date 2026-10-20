@@ -36,9 +36,9 @@
     <category term="Computation and Language"/>
   </entry>
   <entry>
-    <title>S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?</title>
-    <link href="https://seed.bytedance.com/en/public_papers/s3gym-can-llms-turn-self-testing-and-self-judging-into-self-improvement"/>
-    <id>2041681a8ab64847e1aeb7fdd1e93337</id>
+    <title>S³Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?</title>
+    <link href="https://seed.bytedance.com/en/public_papers/s-gym-can-llms-turn-self-testing-and-self-judging-into-self-improvement"/>
+    <id>f345fdad46e004e4d8d0aceabaa7488d</id>
     <published>2026-08-31T12:00:00+00:00</published>
     <updated>2026-08-31T12:00:00+00:00</updated>
     <summary type="text">Large language models (LLMs) increasingly interact with external environments and accumulate substantial behavioral experience, yet existing agent benchmarks largely evaluate them as fixed policies. It therefore remains unclear whether an agent can actively test its behavior, judge the resulting experience, and use that experience to improve future decisions. We introduce \textbf{S\textsuperscript{3}Gym}, an interactive benchmark for evaluating LLM self-improvement through three coupled capabili</summary>

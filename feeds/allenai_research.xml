@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-10-14T00:00:00+00:00</updated>
+  <updated>2026-10-20T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
+    <link href="https://allenai.org/blog/fairstress"/>
+    <id>f14acfecf1b7fefad5d2c55fa1d4cc2e</id>
+    <published>2026-10-20T00:00:00+00:00</published>
+    <updated>2026-10-20T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
     <link href="https://allenai.org/blog/hiro-acev2"/>
@@ -63,12 +70,5 @@
     <id>435f86ed53e3fe0ffccd0756c3d257dd</id>
     <published>2026-07-28T00:00:00+00:00</published>
     <updated>2026-07-28T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>What building Shippy taught us about building agents</title>
-    <link href="https://allenai.org/blog/shippy-deep-dive"/>
-    <id>1546eae8793d578e07cf86bf510b766f</id>
-    <published>2026-07-13T00:00:00+00:00</published>
-    <updated>2026-07-13T00:00:00+00:00</updated>
   </entry>
 </feed>

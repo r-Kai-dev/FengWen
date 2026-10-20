@@ -4,37 +4,45 @@
   <icon>https://x.ai/favicon.ico</icon>
   <link href="https://x.ai/news"/>
   <id>https://x.ai/news</id>
-  <updated>2026-10-20T00:04:24.380125+00:00</updated>
+  <updated>2026-10-20T23:33:54.098966+00:00</updated>
   <author>
     <name>xAI</name>
   </author>
   <entry>
-    <title>Introducing Grok 4.7</title>
-    <link href="https://x.ai/news/grok-4-7"/>
-    <id>fe48897e4349bdcb42008add5b12feea</id>
-    <published>2026-10-20T00:04:24.380125+00:00</published>
-    <updated>2026-10-20T00:04:24.380125+00:00</updated>
-  </entry>
-  <entry>
     <title>How SpaceXSI is using Grok Bot to scale customer support</title>
     <link href="https://x.ai/news/grok-bot-customer-support"/>
     <id>fbb3e6ff13ea6e50c4936053f770ba8a</id>
-    <published>2026-10-20T00:04:24.380092+00:00</published>
-    <updated>2026-10-20T00:04:24.380092+00:00</updated>
+    <published>2026-10-20T23:33:54.098966+00:00</published>
+    <updated>2026-10-20T23:33:54.098966+00:00</updated>
   </entry>
   <entry>
     <title>Team Bots: shared AI teammates that learn as they work</title>
     <link href="https://x.ai/news/team-bots"/>
     <id>9be1873c6d6fe1d607f5179d01606068</id>
-    <published>2026-10-20T00:04:24.380058+00:00</published>
-    <updated>2026-10-20T00:04:24.380058+00:00</updated>
+    <published>2026-10-20T23:33:54.098922+00:00</published>
+    <updated>2026-10-20T23:33:54.098922+00:00</updated>
   </entry>
   <entry>
     <title>Introducing The X Subscription</title>
     <link href="https://x.ai/news/x-subscription"/>
     <id>dc5742a5ebde159b66ddfdd041d91c16</id>
-    <published>2026-10-20T00:04:24.379988+00:00</published>
-    <updated>2026-10-20T00:04:24.379988+00:00</updated>
+    <published>2026-10-20T23:33:54.098865+00:00</published>
+    <updated>2026-10-20T23:33:54.098865+00:00</updated>
+  </entry>
+  <entry>
+    <title>Using Grok Bot to detect and respond to incidents</title>
+    <link href="https://x.ai/news/incident-sweep"/>
+    <id>011a29b8c50d0fd3bdacbac415ee9de7</id>
+    <published>2026-10-20T23:33:54.098781+00:00</published>
+    <updated>2026-10-20T23:33:54.098781+00:00</updated>
+  </entry>
+  <entry>
+    <title>Introducing Grok 4.7</title>
+    <link href="https://x.ai/news/grok-4-7"/>
+    <id>fe48897e4349bdcb42008add5b12feea</id>
+    <published>2026-09-21T00:00:00+00:00</published>
+    <updated>2026-09-21T00:00:00+00:00</updated>
+    <summary type="text">SpaceXSI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.</summary>
   </entry>
   <entry>
     <title>Introducing Grok Voice Transcribe 2.0</title>
@@ -450,7 +458,7 @@
     <id>8e4bb0077bac488480b2c4c07797bd3b</id>
     <published>2026-04-30T00:00:00+00:00</published>
     <updated>2026-04-30T00:00:00+00:00</updated>
-    <summary type="text">Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Voice Agent APIs.</summary>
+    <summary type="text">Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Speech to Speech APIs.</summary>
   </entry>
   <entry>
     <title>Grok Voice 1.0</title>

@@ -4,10 +4,18 @@
   <icon>https://kyutai.org/favicon.ico</icon>
   <link href="https://kyutai.org/blog"/>
   <id>https://kyutai.org/blog</id>
-  <updated>2026-10-16T00:00:00+00:00</updated>
+  <updated>2026-10-20T00:00:00+00:00</updated>
   <author>
     <name>Kyutai</name>
   </author>
+  <entry>
+    <title>The tiny TTS was actually 10x too big</title>
+    <link href="https://kyutai.org/blog/2026-10-20-pocket-tts-small"/>
+    <id>bf29ecfff8c3134e23b4242f2d2a0b5b</id>
+    <published>2026-10-20T00:00:00+00:00</published>
+    <updated>2026-10-20T00:00:00+00:00</updated>
+    <summary type="text">A collection of Pocket TTS models from 18.2M parameters down to 1.9M, and how we shrank the backbone, the sampling head and the decoder.</summary>
+  </entry>
   <entry>
     <title>REKI: Registering Knowledge in VLAs</title>
     <link href="https://kyutai.org/blog/2026-10-02-reki"/>
