@@ -4,16 +4,26 @@
   <icon>https://news.aibase.com/favicon.ico</icon>
   <link href="https://news.aibase.com/zh/daily"/>
   <id>https://news.aibase.com/zh/daily</id>
-  <updated>2026-10-19T23:33:01.641075+00:00</updated>
+  <updated>2026-10-21T17:50:06.370675+00:00</updated>
   <author>
     <name>AIBase</name>
   </author>
   <entry>
+    <title>AI日报：ChatGPT上线锁定聊天功能；Ming-3.0-tts登顶国际评测双榜首；Mistral 发布 Voxtral 3 语音 Agent SDK</title>
+    <link href="https://news.aibase.com/zh/daily/31782"/>
+    <id>7a8f67e0c28abbea3efc1ca92a9cf219</id>
+    <published>2026-10-21T17:50:06.370675+00:00</published>
+    <updated>2026-10-21T17:50:06.370675+00:00</updated>
+    <summary type="text">1、OpenAI重磅上线ChatGPT“锁定聊天”功能：四位数PIN码与生物识别双保险OpenAI推出的“锁定聊天”功能是隐私保护层面的实用改进，通过PIN码与生物识别双重验证机制，有效防范设备外借场景下的隐私泄露风险。头部产品凭借应用生态与多端协同能力构筑护城河，AI智能体正加速渗透并重塑日常办公流程，行业进入生态化竞争新阶段。</summary>
+    <category term="AI Daily"/>
+    <category term="人工智能"/>
+  </entry>
+  <entry>
     <title>AI日报：火山引擎砸钱养AI剧；DeepSeek发布API网页搜索与抓取服务；腾讯Marvis上架麒麟软件商店</title>
     <link href="https://news.aibase.com/zh/daily/31727"/>
     <id>13047c98a8d6ac1aba76afc1ee72d01d</id>
-    <published>2026-10-19T23:33:01.641075+00:00</published>
-    <updated>2026-10-19T23:33:01.641075+00:00</updated>
+    <published>2026-10-19T23:50:06.371078+00:00</published>
+    <updated>2026-10-19T23:50:06.371078+00:00</updated>
     <summary type="text">1、字节火山引擎砸钱养AI剧：月度TOP10单部最高奖20万火山引擎推出Seedance精品AI剧激励计划，本质是以真金白银补贴撬动内容生态，将模型、工具、平台与分发渠道深度绑定。企业按场景分层选型模型将成为AI落地的关键策略。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -22,8 +32,8 @@
     <title>AI日报：xAI发布Grok Voice 3.0；蚂蚁百灵开源 Ling-3.1-flash；Step 5 Preview 模型权重正式开源</title>
     <link href="https://news.aibase.com/zh/daily/31668"/>
     <id>cb353fcf8419534e104a4e3586b216aa</id>
-    <published>2026-10-15T23:33:01.641364+00:00</published>
-    <updated>2026-10-15T23:33:01.641364+00:00</updated>
+    <published>2026-10-15T23:50:06.371437+00:00</published>
+    <updated>2026-10-15T23:50:06.371437+00:00</updated>
     <summary type="text">1、马斯克旗下xAI发布GrokVoice3.0，定价仅0.08美元xAI推出的GrokVoice3.0展现了马斯克系公司在语音AI领域的强劲实力。不过内部员工对编码表现的疑虑、Gemini3.5Pro推迟发布及人才流失，表明谷歌在OpenAI、Anthropic等强敌环伺下，仍需以实际体验与稳定性赢得更广泛用户的信任。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -195,16 +205,6 @@
     <published>2026-09-15T00:00:00+00:00</published>
     <updated>2026-09-15T00:00:00+00:00</updated>
     <summary type="text">1、ClaudeOpus5.2深夜灰度上线：响应更快治好了“偷懒病”ClaudeOpus5.2在灰度测试中表现出色，响应速度、输出质量以及自主迭代能力均显著提升，展现了Anthropic在AI模型优化上的强大实力。8、阶跃发布StepAudio3系列模型:五款模型同步上线开放平台阶跃星辰发布StepAudio3系列模型，涵盖语音生成、音频生成、实时交互、语音理解和音乐创作等多个领域，其中多款模型在ArtificialAnalysis榜单中位列全球第一，展现了强大的技术实力和应用潜力。</summary>
-    <category term="AI Daily"/>
-    <category term="人工智能"/>
-  </entry>
-  <entry>
-    <title>AI日报：豆包手机助手消费者版发布；Suno发布v6音乐模型；ElevenLabs发布Music v2.5音频模型</title>
-    <link href="https://news.aibase.com/zh/daily/31034"/>
-    <id>8e8dbd9f02d19d71540c0e899b22e5d9</id>
-    <published>2026-09-14T00:00:00+00:00</published>
-    <updated>2026-09-14T00:00:00+00:00</updated>
-    <summary type="text">1、豆包手机助手消费者版发布:AI键指纹直唤，跨应用Agent再升级豆包手机助手消费者版在交互、记忆、Agent执行及安全等方面全面升级，推动手机AI从“问答”走向“自动办事”。8、DeepSeek-V4.1-Flash上线千问AI平台，API与TokenPlan同步开放DeepSeek-V4.1-Flash的上线为千问AI平台带来了新的技术突破，其在性能和成本控制方面表现出色，适合企业进行长文档解析、客服知识库等任务。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
   </entry>

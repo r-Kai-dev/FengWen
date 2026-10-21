@@ -4,157 +4,179 @@
   <icon>https://github.com/favicon.ico</icon>
   <link href="https://github.com/trending?since=weekly"/>
   <id>https://github.com/trending?since=weekly</id>
-  <updated>2026-10-20T23:33:02.954350+00:00</updated>
+  <updated>2026-10-21T23:50:07.685372+00:00</updated>
   <entry>
-    <title>storytold / artcraft</title>
-    <link href="https://github.com/storytold/artcraft"/>
-    <id>710057ea34189f159ca6091a2d88874c</id>
-    <published>2026-10-20T23:33:02.954350+00:00</published>
-    <updated>2026-10-20T23:33:02.954350+00:00</updated>
-    <summary type="text">ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</summary>
-    <content type="html">&lt;p&gt;ArtCraft is an intentional crafting engine for artists, designers, and filmmakers&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;34.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;5.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;13.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>stablyai / orca</title>
+    <link href="https://github.com/stablyai/orca"/>
+    <id>d3c2f73110a2e3748e9b02d3333b021b</id>
+    <published>2026-10-21T23:50:07.685372+00:00</published>
+    <updated>2026-10-21T23:50:07.685372+00:00</updated>
+    <summary type="text">Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</summary>
+    <content type="html">&lt;p&gt;Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;101.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;6.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;8.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
+  </entry>
+  <entry>
+    <title>earthtojake / text-to-cad</title>
+    <link href="https://github.com/earthtojake/text-to-cad"/>
+    <id>c3f3d3bb92ce9641d3be6164109ef997</id>
+    <published>2026-10-21T23:50:07.685054+00:00</published>
+    <updated>2026-10-21T23:50:07.685054+00:00</updated>
+    <summary type="text">Give your agent CAD superpowers.</summary>
+    <content type="html">&lt;p&gt;Give your agent CAD superpowers.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;22.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>wshobson / agents</title>
+    <link href="https://github.com/wshobson/agents"/>
+    <id>3a84dfd29836d29b7cb8a21cd55de541</id>
+    <published>2026-10-21T23:50:07.684798+00:00</published>
+    <updated>2026-10-21T23:50:07.684798+00:00</updated>
+    <summary type="text">Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi</summary>
+    <content type="html">&lt;p&gt;Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;41.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;665&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>anomalyco / opencode</title>
+    <link href="https://github.com/anomalyco/opencode"/>
+    <id>86766239b7c1e57e680fb995e4ae4cf1</id>
+    <published>2026-10-21T23:50:07.684519+00:00</published>
+    <updated>2026-10-21T23:50:07.684519+00:00</updated>
+    <summary type="text">The open source coding agent.</summary>
+    <content type="html">&lt;p&gt;The open source coding agent.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;219.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;29.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
+  </entry>
+  <entry>
+    <title>akitaonrails / ai-memory</title>
+    <link href="https://github.com/akitaonrails/ai-memory"/>
+    <id>200ba3182cb66439d3f5073df165db05</id>
+    <published>2026-10-21T23:50:07.684232+00:00</published>
+    <updated>2026-10-21T23:50:07.684232+00:00</updated>
+    <summary type="text">Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</summary>
+    <content type="html">&lt;p&gt;Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;12.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;871&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Rust"/>
   </entry>
   <entry>
-    <title>cathrynlavery / diagram-design</title>
-    <link href="https://github.com/cathrynlavery/diagram-design"/>
-    <id>dfc9af7c9962694698a09e7e62ad0e81</id>
-    <published>2026-10-20T23:33:02.954182+00:00</published>
-    <updated>2026-10-20T23:33:02.954182+00:00</updated>
-    <summary type="text">Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</summary>
-    <content type="html">&lt;p&gt;Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;59.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;6.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;HTML&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="HTML"/>
+    <title>HKUDS / CLI-Anything</title>
+    <link href="https://github.com/HKUDS/CLI-Anything"/>
+    <id>2166c293020595bdba40274e959317f8</id>
+    <published>2026-10-21T23:50:07.683919+00:00</published>
+    <updated>2026-10-21T23:50:07.683919+00:00</updated>
+    <summary type="text">&quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub:https://clianything.cc/</summary>
+    <content type="html">&lt;p&gt;&quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub:https://clianything.cc/&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;55.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;5.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;3.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
   </entry>
   <entry>
     <title>cursor / plugins</title>
     <link href="https://github.com/cursor/plugins"/>
     <id>a6e8a8b4693f58d53a47f417718626bb</id>
-    <published>2026-10-20T23:33:02.953981+00:00</published>
-    <updated>2026-10-20T23:33:02.953981+00:00</updated>
+    <published>2026-10-21T23:50:07.683681+00:00</published>
+    <updated>2026-10-21T23:50:07.683681+00:00</updated>
     <summary type="text">Cursor plugin specification and official plugins</summary>
     <content type="html">&lt;p&gt;Cursor plugin specification and official plugins&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;13.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;13.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
   <entry>
-    <title>boykopovar / AnyPS5</title>
-    <link href="https://github.com/boykopovar/AnyPS5"/>
-    <id>90c0bf44c7b8590bcfac93b30f54d03d</id>
-    <published>2026-10-20T23:33:02.953797+00:00</published>
-    <updated>2026-10-20T23:33:02.953797+00:00</updated>
-    <summary type="text">Tool for automatic PS5 executables porting to Linux and Windows</summary>
-    <content type="html">&lt;p&gt;Tool for automatic PS5 executables porting to Linux and Windows&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;45.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;12.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C++&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="C++"/>
+    <title>heygen-com / hyperframes</title>
+    <link href="https://github.com/heygen-com/hyperframes"/>
+    <id>278e911e44da39c781c58011226edc44</id>
+    <published>2026-10-21T23:50:07.683455+00:00</published>
+    <updated>2026-10-21T23:50:07.683455+00:00</updated>
+    <summary type="text">Write HTML. Render video. Built for agents.</summary>
+    <content type="html">&lt;p&gt;Write HTML. Render video. Built for agents.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;69.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;6.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;6.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
   </entry>
   <entry>
-    <title>android / skills</title>
-    <link href="https://github.com/android/skills"/>
-    <id>6207f619c202e37dcf8170c9b72fe502</id>
-    <published>2026-10-20T23:33:02.953629+00:00</published>
-    <updated>2026-10-20T23:33:02.953629+00:00</updated>
-    <content type="html">&lt;p&gt;⭐ &lt;strong&gt;9.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;586&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Kotlin&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Kotlin"/>
-  </entry>
-  <entry>
-    <title>ruvnet / ruflo</title>
-    <link href="https://github.com/ruvnet/ruflo"/>
-    <id>afe970e57caea61e71bc76982c31653d</id>
-    <published>2026-10-20T23:33:02.953452+00:00</published>
-    <updated>2026-10-20T23:33:02.953452+00:00</updated>
-    <summary type="text">🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</summary>
-    <content type="html">&lt;p&gt;🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;77.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;9.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>mksglu / context-mode</title>
+    <link href="https://github.com/mksglu/context-mode"/>
+    <id>38655e6ca74c0c207f7a11ddede415c7</id>
+    <published>2026-10-21T23:50:07.683201+00:00</published>
+    <updated>2026-10-21T23:50:07.683201+00:00</updated>
+    <summary type="text">Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</summary>
+    <content type="html">&lt;p&gt;Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;31.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;3.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
   <entry>
     <title>debpalash / VoiceStudio</title>
     <link href="https://github.com/debpalash/VoiceStudio"/>
     <id>9a7404dbaf80a6ba42cd3e99ab2415a0</id>
-    <published>2026-10-20T23:33:02.953284+00:00</published>
-    <updated>2026-10-20T23:33:02.953284+00:00</updated>
+    <published>2026-10-21T23:50:07.682898+00:00</published>
+    <updated>2026-10-21T23:50:07.682898+00:00</updated>
     <summary type="text">VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</summary>
     <content type="html">&lt;p&gt;VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;78.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;8.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;17.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>heygen-com / hyperframes</title>
-    <link href="https://github.com/heygen-com/hyperframes"/>
-    <id>278e911e44da39c781c58011226edc44</id>
-    <published>2026-10-20T23:33:02.953084+00:00</published>
-    <updated>2026-10-20T23:33:02.953084+00:00</updated>
-    <summary type="text">Write HTML. Render video. Built for agents.</summary>
-    <content type="html">&lt;p&gt;Write HTML. Render video. Built for agents.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;68.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;6.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.9k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="TypeScript"/>
-  </entry>
-  <entry>
-    <title>K-Dense-AI / scientific-agent-skills</title>
-    <link href="https://github.com/K-Dense-AI/scientific-agent-skills"/>
-    <id>a77ef208197c45a96c211d507170ea5a</id>
-    <published>2026-10-20T23:33:02.952913+00:00</published>
-    <updated>2026-10-20T23:33:02.952913+00:00</updated>
-    <summary type="text">Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</summary>
-    <content type="html">&lt;p&gt;Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;53.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;80.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;8.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;17.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
     <title>NationalSecurityAgency / ghidra</title>
     <link href="https://github.com/NationalSecurityAgency/ghidra"/>
     <id>87976978341c3cc67a9a627ef635acd2</id>
-    <published>2026-10-20T23:33:02.952725+00:00</published>
-    <updated>2026-10-20T23:33:02.952725+00:00</updated>
+    <published>2026-10-21T23:50:07.682616+00:00</published>
+    <updated>2026-10-21T23:50:07.682616+00:00</updated>
     <summary type="text">Ghidra is a software reverse engineering (SRE) framework</summary>
     <content type="html">&lt;p&gt;Ghidra is a software reverse engineering (SRE) framework&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;92.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;10.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;7.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Java&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;92.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;10.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;6.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Java&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Java"/>
   </entry>
   <entry>
-    <title>mksglu / context-mode</title>
-    <link href="https://github.com/mksglu/context-mode"/>
-    <id>38655e6ca74c0c207f7a11ddede415c7</id>
-    <published>2026-10-20T23:33:02.952551+00:00</published>
-    <updated>2026-10-20T23:33:02.952551+00:00</updated>
-    <summary type="text">Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</summary>
-    <content type="html">&lt;p&gt;Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;31.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.2k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>android / skills</title>
+    <link href="https://github.com/android/skills"/>
+    <id>6207f619c202e37dcf8170c9b72fe502</id>
+    <published>2026-10-21T23:50:07.682366+00:00</published>
+    <updated>2026-10-21T23:50:07.682366+00:00</updated>
+    <content type="html">&lt;p&gt;⭐ &lt;strong&gt;9.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;590&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.3k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Kotlin&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Kotlin"/>
+  </entry>
+  <entry>
+    <title>ruvnet / ruflo</title>
+    <link href="https://github.com/ruvnet/ruflo"/>
+    <id>afe970e57caea61e71bc76982c31653d</id>
+    <published>2026-10-21T23:50:07.682036+00:00</published>
+    <updated>2026-10-21T23:50:07.682036+00:00</updated>
+    <summary type="text">🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</summary>
+    <content type="html">&lt;p&gt;🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;78.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;9.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;3.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
+  </entry>
+  <entry>
+    <title>K-Dense-AI / scientific-agent-skills</title>
+    <link href="https://github.com/K-Dense-AI/scientific-agent-skills"/>
+    <id>a77ef208197c45a96c211d507170ea5a</id>
+    <published>2026-10-21T23:50:07.681795+00:00</published>
+    <updated>2026-10-21T23:50:07.681795+00:00</updated>
+    <summary type="text">Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</summary>
+    <content type="html">&lt;p&gt;Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;53.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;4.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
   </entry>
   <entry>
     <title>anthropics / claude-plugins-official</title>
     <link href="https://github.com/anthropics/claude-plugins-official"/>
     <id>dea4f980546f0b27fba31bcc732d6699</id>
-    <published>2026-10-20T23:33:02.952340+00:00</published>
-    <updated>2026-10-20T23:33:02.952340+00:00</updated>
+    <published>2026-10-21T23:50:07.681539+00:00</published>
+    <updated>2026-10-21T23:50:07.681539+00:00</updated>
     <summary type="text">Official, Anthropic-managed directory of high quality Claude Code Plugins.</summary>
     <content type="html">&lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;43.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.4k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Python"/>
-  </entry>
-  <entry>
-    <title>MadsLorentzen / ai-job-search</title>
-    <link href="https://github.com/MadsLorentzen/ai-job-search"/>
-    <id>1014fedd0bd6fe008e01d2e3e7322df6</id>
-    <published>2026-10-20T23:33:02.952158+00:00</published>
-    <updated>2026-10-20T23:33:02.952158+00:00</updated>
-    <summary type="text">The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</summary>
-    <content type="html">&lt;p&gt;The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;60.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;18.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;9.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;43.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;5.7k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
     <title>morluto / rea</title>
     <link href="https://github.com/morluto/rea"/>
     <id>346448a9dec6c96e8fe0ddfc43ca28cd</id>
-    <published>2026-10-20T23:33:02.951917+00:00</published>
-    <updated>2026-10-20T23:33:02.951917+00:00</updated>
+    <published>2026-10-21T23:50:07.681257+00:00</published>
+    <updated>2026-10-21T23:50:07.681257+00:00</updated>
     <summary type="text">Reverse engineer anything with agents, from app behavior down to native binaries.</summary>
     <content type="html">&lt;p&gt;Reverse engineer anything with agents, from app behavior down to native binaries.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;347.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;87.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;201.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;357.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;89.7k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;157.6k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
 </feed>

@@ -4,12 +4,201 @@
   <icon>https://news.ycombinator.com/favicon.ico</icon>
   <link href="https://news.ycombinator.com/best"/>
   <id>https://news.ycombinator.com/best</id>
-  <updated>2026-10-20T18:29:09+00:00</updated>
+  <updated>2026-10-21T21:58:03+00:00</updated>
   <author>
     <name>Hacker News</name>
   </author>
   <entry>
-    <title>SimCity, but with Permits</title>
+    <title>Railway Security Disclosure</title>
+    <link href="https://news.ycombinator.com/item?id=50188228"/>
+    <id>de5f07bfe18b785d28e27706ac3d9849</id>
+    <published>2026-10-21T21:58:03+00:00</published>
+    <updated>2026-10-21T21:58:03+00:00</updated>
+  </entry>
+  <entry>
+    <title>Meta hit with $25B penalty for deceiving users about privacy on Facebook</title>
+    <link href="https://news.ycombinator.com/item?id=50186215"/>
+    <id>8adf6a4d025222b9d84818ce356c569b</id>
+    <published>2026-10-21T19:26:20+00:00</published>
+    <updated>2026-10-21T19:26:20+00:00</updated>
+  </entry>
+  <entry>
+    <title>Mistral Large 4</title>
+    <link href="https://news.ycombinator.com/item?id=50186129"/>
+    <id>a04dab32b3d508ef4dcebc22ee8b827a</id>
+    <published>2026-10-21T19:20:55+00:00</published>
+    <updated>2026-10-21T19:20:55+00:00</updated>
+  </entry>
+  <entry>
+    <title>Claude Duet</title>
+    <link href="https://news.ycombinator.com/item?id=50186037"/>
+    <id>6defdd607b675da8bbce429521fe4296</id>
+    <published>2026-10-21T19:14:01+00:00</published>
+    <updated>2026-10-21T19:14:01+00:00</updated>
+  </entry>
+  <entry>
+    <title>GitLab Critical Patch Release</title>
+    <link href="https://news.ycombinator.com/item?id=50185869"/>
+    <id>854dc3fc0529cd958fbe9e4aa091c5b9</id>
+    <published>2026-10-21T19:01:12+00:00</published>
+    <updated>2026-10-21T19:01:12+00:00</updated>
+  </entry>
+  <entry>
+    <title>Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case</title>
+    <link href="https://news.ycombinator.com/item?id=50184820"/>
+    <id>b023eedd01c9c82a5290b0eda25e7dfc</id>
+    <published>2026-10-21T17:45:13+00:00</published>
+    <updated>2026-10-21T17:45:13+00:00</updated>
+  </entry>
+  <entry>
+    <title>EA is shutting down BioWare</title>
+    <link href="https://news.ycombinator.com/item?id=50184586"/>
+    <id>ad6234df1667ba91388f50694935b48c</id>
+    <published>2026-10-21T17:29:33+00:00</published>
+    <updated>2026-10-21T17:29:33+00:00</updated>
+  </entry>
+  <entry>
+    <title>Today's PHP security release, and how we're strengthening security</title>
+    <link href="https://news.ycombinator.com/item?id=50182987"/>
+    <id>0a53c95e560e69eca9a442a4ce748e92</id>
+    <published>2026-10-21T15:48:56+00:00</published>
+    <updated>2026-10-21T15:48:56+00:00</updated>
+  </entry>
+  <entry>
+    <title>Patch the Planet: global response coordination as agents uncover vulnerabilities</title>
+    <link href="https://news.ycombinator.com/item?id=50181175"/>
+    <id>0597060ce2556e8a3852c97713cc731b</id>
+    <published>2026-10-21T14:03:43+00:00</published>
+    <updated>2026-10-21T14:03:43+00:00</updated>
+  </entry>
+  <entry>
+    <title>The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck</title>
+    <link href="https://news.ycombinator.com/item?id=50181137"/>
+    <id>60d4410a623a1a17291f0084719f1755</id>
+    <published>2026-10-21T14:01:25+00:00</published>
+    <updated>2026-10-21T14:01:25+00:00</updated>
+  </entry>
+  <entry>
+    <title>DuckDB 2.0.0 LTS “Cinnamon Teal”</title>
+    <link href="https://news.ycombinator.com/item?id=50181136"/>
+    <id>930afd01bf5314ef839c267077ed2a10</id>
+    <published>2026-10-21T14:01:22+00:00</published>
+    <updated>2026-10-21T14:01:22+00:00</updated>
+  </entry>
+  <entry>
+    <title>Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor</title>
+    <link href="https://news.ycombinator.com/item?id=50181114"/>
+    <id>b8ca72b17c35ab9f4813b745849efab3</id>
+    <published>2026-10-21T14:00:26+00:00</published>
+    <updated>2026-10-21T14:00:26+00:00</updated>
+  </entry>
+  <entry>
+    <title>PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out</title>
+    <link href="https://news.ycombinator.com/item?id=50180943"/>
+    <id>ea8d5014e471c55e70d776761e9e8ab9</id>
+    <published>2026-10-21T13:50:05+00:00</published>
+    <updated>2026-10-21T13:50:05+00:00</updated>
+  </entry>
+  <entry>
+    <title>PHP 8.2.35</title>
+    <link href="https://news.ycombinator.com/item?id=50180873"/>
+    <id>c1bd5129d2926773958fe2769d259d62</id>
+    <published>2026-10-21T13:45:33+00:00</published>
+    <updated>2026-10-21T13:45:33+00:00</updated>
+  </entry>
+  <entry>
+    <title>PHP2Shell: AI uncovers critical RCE in PHP</title>
+    <link href="https://news.ycombinator.com/item?id=50180836"/>
+    <id>7a71d02b401345d1b269b46f17e7eabb</id>
+    <published>2026-10-21T13:43:19+00:00</published>
+    <updated>2026-10-21T13:43:19+00:00</updated>
+  </entry>
+  <entry>
+    <title>OpenAI models are coming to Google Cloud</title>
+    <link href="https://news.ycombinator.com/item?id=50180079"/>
+    <id>57d5e78cc7d9184fb92fa54142925210</id>
+    <published>2026-10-21T12:53:11+00:00</published>
+    <updated>2026-10-21T12:53:11+00:00</updated>
+  </entry>
+  <entry>
+    <title>Dutch National Cyber Security Center is Offline because it uses PHP</title>
+    <link href="https://news.ycombinator.com/item?id=50179828"/>
+    <id>e5fe4d96a12cf6dcd9386958dcc81caa</id>
+    <published>2026-10-21T12:31:28+00:00</published>
+    <updated>2026-10-21T12:31:28+00:00</updated>
+  </entry>
+  <entry>
+    <title>Qwen3-Coder writes less secure code when told it's for a US persona</title>
+    <link href="https://news.ycombinator.com/item?id=50179706"/>
+    <id>86cac18b9d0bd3d3519e62f96e3aedec</id>
+    <published>2026-10-21T12:22:39+00:00</published>
+    <updated>2026-10-21T12:22:39+00:00</updated>
+  </entry>
+  <entry>
+    <title>Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds</title>
+    <link href="https://news.ycombinator.com/item?id=50177916"/>
+    <id>9410bd5d1a3fccb3bf7c4aa0c5207e13</id>
+    <published>2026-10-21T09:08:08+00:00</published>
+    <updated>2026-10-21T09:08:08+00:00</updated>
+  </entry>
+  <entry>
+    <title>The 1.5°C goal of the Paris Agreement is no longer viable</title>
+    <link href="https://news.ycombinator.com/item?id=50177911"/>
+    <id>83da7535fa4c31e72d67d9230df89ffc</id>
+    <published>2026-10-21T09:07:49+00:00</published>
+    <updated>2026-10-21T09:07:49+00:00</updated>
+  </entry>
+  <entry>
+    <title>The Future of CSS</title>
+    <link href="https://news.ycombinator.com/item?id=50175070"/>
+    <id>2918ad55760448159d1942b6a9de77b0</id>
+    <published>2026-10-21T01:47:28+00:00</published>
+    <updated>2026-10-21T01:47:28+00:00</updated>
+  </entry>
+  <entry>
+    <title>Good type against all odds</title>
+    <link href="https://news.ycombinator.com/item?id=50175059"/>
+    <id>e6860ef06e920fa5f08750f8257066f4</id>
+    <published>2026-10-21T01:45:07+00:00</published>
+    <updated>2026-10-21T01:45:07+00:00</updated>
+  </entry>
+  <entry>
+    <title>Muse exposes users' personal and business secrets when they share conversations</title>
+    <link href="https://news.ycombinator.com/item?id=50174687"/>
+    <id>2f3c582675346a759aeb3e81176fce3c</id>
+    <published>2026-10-21T00:45:59+00:00</published>
+    <updated>2026-10-21T00:45:59+00:00</updated>
+  </entry>
+  <entry>
+    <title>The Other Epidemic: Trying to get off benzodiazepines</title>
+    <link href="https://news.ycombinator.com/item?id=50173891"/>
+    <id>e067fc4458b3cc97d3a95342cec0e3f3</id>
+    <published>2026-10-20T23:04:09+00:00</published>
+    <updated>2026-10-20T23:04:09+00:00</updated>
+  </entry>
+  <entry>
+    <title>Feds suspect ransom negotiator ran ShinyHunters extortion site</title>
+    <link href="https://news.ycombinator.com/item?id=50173487"/>
+    <id>9012c242ee32c29ec20bf888d1e66e1a</id>
+    <published>2026-10-20T22:21:05+00:00</published>
+    <updated>2026-10-20T22:21:05+00:00</updated>
+  </entry>
+  <entry>
+    <title>Security advisory: Critical remote code execution vulnerabilities, update now</title>
+    <link href="https://news.ycombinator.com/item?id=50172041"/>
+    <id>7b5ff6689bc16123dfdac7fb5cc6a64e</id>
+    <published>2026-10-20T20:15:50+00:00</published>
+    <updated>2026-10-20T20:15:50+00:00</updated>
+  </entry>
+  <entry>
+    <title>Academics have a duty to defend open knowledge systems like Wikipedia</title>
+    <link href="https://news.ycombinator.com/item?id=50170917"/>
+    <id>ba2b7becf9e4d94a80043d183740b179</id>
+    <published>2026-10-20T18:51:40+00:00</published>
+    <updated>2026-10-20T18:51:40+00:00</updated>
+  </entry>
+  <entry>
+    <title>Show HN: SimCity, but with Permits</title>
     <link href="https://news.ycombinator.com/item?id=50170593"/>
     <id>7a9571d01f9b305071dc67d241c03ff3</id>
     <published>2026-10-20T18:29:09+00:00</published>
@@ -37,11 +226,18 @@
     <updated>2026-10-20T16:02:07+00:00</updated>
   </entry>
   <entry>
-    <title>Steam Users Beg for &quot;No AI&quot; Filter as Vibecoders Flood Next Fest</title>
-    <link href="https://news.ycombinator.com/item?id=50168190"/>
-    <id>e0e6544a490afe24b13346e37b38d7fa</id>
-    <published>2026-10-20T15:48:26+00:00</published>
-    <updated>2026-10-20T15:48:26+00:00</updated>
+    <title>Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery</title>
+    <link href="https://news.ycombinator.com/item?id=50168357"/>
+    <id>6ff8540e0249be70aefe7deffd24cb2a</id>
+    <published>2026-10-20T15:59:06+00:00</published>
+    <updated>2026-10-20T15:59:06+00:00</updated>
+  </entry>
+  <entry>
+    <title>Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming</title>
+    <link href="https://news.ycombinator.com/item?id=50167754"/>
+    <id>63bca717b1caf65a8103da8f224ec7ca</id>
+    <published>2026-10-20T15:20:35+00:00</published>
+    <updated>2026-10-20T15:20:35+00:00</updated>
   </entry>
   <entry>
     <title>Facebook Pages require paid subscription to post more than two links per month</title>
@@ -58,7 +254,14 @@
     <updated>2026-10-20T14:30:31+00:00</updated>
   </entry>
   <entry>
-    <title>EMudhra Intermediate CA Compromise</title>
+    <title>My Friend Bob Cringely</title>
+    <link href="https://news.ycombinator.com/item?id=50166794"/>
+    <id>8bc3990055d08a04cb054175d90d5150</id>
+    <published>2026-10-20T14:13:49+00:00</published>
+    <updated>2026-10-20T14:13:49+00:00</updated>
+  </entry>
+  <entry>
+    <title>eMudhra intermediate CA compromise</title>
     <link href="https://news.ycombinator.com/item?id=50166579"/>
     <id>108d71999c9c1188802bfcd49daaa1be</id>
     <published>2026-10-20T13:58:33+00:00</published>
@@ -84,13 +287,6 @@
     <id>817f45c6a503e730366b419e2b01d2e5</id>
     <published>2026-10-20T13:06:22+00:00</published>
     <updated>2026-10-20T13:06:22+00:00</updated>
-  </entry>
-  <entry>
-    <title>NixOS is making me less afraid</title>
-    <link href="https://news.ycombinator.com/item?id=50165484"/>
-    <id>3a35a9279c1896c6969b0e088cefd74d</id>
-    <published>2026-10-20T12:43:05+00:00</published>
-    <updated>2026-10-20T12:43:05+00:00</updated>
   </entry>
   <entry>
     <title>Apple broke an essential presentation feature of iPads</title>
@@ -161,201 +357,5 @@
     <id>54a36152bc32cf7c94cc5e6fb9c3baf1</id>
     <published>2026-10-19T23:08:52+00:00</published>
     <updated>2026-10-19T23:08:52+00:00</updated>
-  </entry>
-  <entry>
-    <title>An ad-free Android TV</title>
-    <link href="https://news.ycombinator.com/item?id=50158942"/>
-    <id>390f59eb919c758c4dcd2127cac01eb9</id>
-    <published>2026-10-19T22:32:37+00:00</published>
-    <updated>2026-10-19T22:32:37+00:00</updated>
-  </entry>
-  <entry>
-    <title>OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18</title>
-    <link href="https://news.ycombinator.com/item?id=50158138"/>
-    <id>d9416a3da75c511445a0a01963d58813</id>
-    <published>2026-10-19T21:11:45+00:00</published>
-    <updated>2026-10-19T21:11:45+00:00</updated>
-  </entry>
-  <entry>
-    <title>Putting Linux on my RTX Spark laptop because I don't have a Microsoft account</title>
-    <link href="https://news.ycombinator.com/item?id=50158100"/>
-    <id>34c3b91a7a73f2933567da560bb1bf06</id>
-    <published>2026-10-19T21:08:18+00:00</published>
-    <updated>2026-10-19T21:08:18+00:00</updated>
-  </entry>
-  <entry>
-    <title>Germany's far-right AfD: half a million internal documents leaked</title>
-    <link href="https://news.ycombinator.com/item?id=50157664"/>
-    <id>c1602ae5b1e5b75cc37fe863d662aee4</id>
-    <published>2026-10-19T20:31:05+00:00</published>
-    <updated>2026-10-19T20:31:05+00:00</updated>
-  </entry>
-  <entry>
-    <title>The reverts will continue until morale improves</title>
-    <link href="https://news.ycombinator.com/item?id=50156206"/>
-    <id>40ebf142d59a521ab8ac501a6d437d3f</id>
-    <published>2026-10-19T18:42:32+00:00</published>
-    <updated>2026-10-19T18:42:32+00:00</updated>
-  </entry>
-  <entry>
-    <title>Europe EV sales rose 70.3% in September, 32.6% of market share</title>
-    <link href="https://news.ycombinator.com/item?id=50155291"/>
-    <id>9a21fcc98eff3dd9c88b965f3fe29e91</id>
-    <published>2026-10-19T17:30:26+00:00</published>
-    <updated>2026-10-19T17:30:26+00:00</updated>
-  </entry>
-  <entry>
-    <title>Mercury 3: Diffusion at scale</title>
-    <link href="https://news.ycombinator.com/item?id=50155245"/>
-    <id>b3c95bcc8c11587a431acfdbc1426ac8</id>
-    <published>2026-10-19T17:27:11+00:00</published>
-    <updated>2026-10-19T17:27:11+00:00</updated>
-  </entry>
-  <entry>
-    <title>Android apps running native on macOS</title>
-    <link href="https://news.ycombinator.com/item?id=50154624"/>
-    <id>e88f8c2f36b63d7c9787d9c2247b4c36</id>
-    <published>2026-10-19T16:45:30+00:00</published>
-    <updated>2026-10-19T16:45:30+00:00</updated>
-  </entry>
-  <entry>
-    <title>MiniMax M3.1 Flash</title>
-    <link href="https://news.ycombinator.com/item?id=50154540"/>
-    <id>aca641ceb80a28c9465de0248e7bc01c</id>
-    <published>2026-10-19T16:39:09+00:00</published>
-    <updated>2026-10-19T16:39:09+00:00</updated>
-  </entry>
-  <entry>
-    <title>I no longer care to work on any Ruby gems so I've archived all my repositories</title>
-    <link href="https://news.ycombinator.com/item?id=50154518"/>
-    <id>d20e395bea6a03f5e2255640a0c65074</id>
-    <published>2026-10-19T16:37:10+00:00</published>
-    <updated>2026-10-19T16:37:10+00:00</updated>
-  </entry>
-  <entry>
-    <title>DeepSeek banned from U.S. federal civilian agencies under new DHS order</title>
-    <link href="https://news.ycombinator.com/item?id=50154244"/>
-    <id>2278e3962937b3878019f86c35c2a323</id>
-    <published>2026-10-19T16:16:46+00:00</published>
-    <updated>2026-10-19T16:16:46+00:00</updated>
-  </entry>
-  <entry>
-    <title>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</title>
-    <link href="https://news.ycombinator.com/item?id=50153934"/>
-    <id>cef2d113ea041664123ee9186da37be4</id>
-    <published>2026-10-19T15:52:26+00:00</published>
-    <updated>2026-10-19T15:52:26+00:00</updated>
-  </entry>
-  <entry>
-    <title>Ukraine claims first drone evacuation of wounded soldier</title>
-    <link href="https://news.ycombinator.com/item?id=50153664"/>
-    <id>1b8a419ff2ccfdf272206163dfdf05e1</id>
-    <published>2026-10-19T15:31:34+00:00</published>
-    <updated>2026-10-19T15:31:34+00:00</updated>
-  </entry>
-  <entry>
-    <title>CERN and Mistral sign a statement of intent to establish a strategic partnership</title>
-    <link href="https://news.ycombinator.com/item?id=50153630"/>
-    <id>c194ea350c2760fce0378f265d68395e</id>
-    <published>2026-10-19T15:28:24+00:00</published>
-    <updated>2026-10-19T15:28:24+00:00</updated>
-  </entry>
-  <entry>
-    <title>Maybe There Was an Egg Cartel After All</title>
-    <link href="https://news.ycombinator.com/item?id=50152970"/>
-    <id>89e2482cedab94873a6a95578fc82803</id>
-    <published>2026-10-19T14:31:11+00:00</published>
-    <updated>2026-10-19T14:31:11+00:00</updated>
-  </entry>
-  <entry>
-    <title>Plex vulnerabilities being exploited in the wild to drop a cryptominer</title>
-    <link href="https://news.ycombinator.com/item?id=50152321"/>
-    <id>74228548eb7c3cc12b1736571584f01f</id>
-    <published>2026-10-19T13:36:43+00:00</published>
-    <updated>2026-10-19T13:36:43+00:00</updated>
-  </entry>
-  <entry>
-    <title>Wine ported to OpenBSD</title>
-    <link href="https://news.ycombinator.com/item?id=50152307"/>
-    <id>d3e218205909ff44af3708fa423e55e4</id>
-    <published>2026-10-19T13:35:34+00:00</published>
-    <updated>2026-10-19T13:35:34+00:00</updated>
-  </entry>
-  <entry>
-    <title>Ask HN: How to deal with shipping AI-written code you don't understand?</title>
-    <link href="https://news.ycombinator.com/item?id=50151036"/>
-    <id>158896d43e8f1f704606a7420b89ff71</id>
-    <published>2026-10-19T11:24:34+00:00</published>
-    <updated>2026-10-19T11:24:34+00:00</updated>
-  </entry>
-  <entry>
-    <title>Alternatives to animal testing are finally taking off</title>
-    <link href="https://news.ycombinator.com/item?id=50150927"/>
-    <id>89769a2baeb9131a0b34c9aedfaefb6c</id>
-    <published>2026-10-19T11:10:54+00:00</published>
-    <updated>2026-10-19T11:10:54+00:00</updated>
-  </entry>
-  <entry>
-    <title>Let's Encrypt is adding two additional remote perspectives for domain validation</title>
-    <link href="https://news.ycombinator.com/item?id=50150809"/>
-    <id>cf1e7e99247ecf18218965a45926af63</id>
-    <published>2026-10-19T10:53:39+00:00</published>
-    <updated>2026-10-19T10:53:39+00:00</updated>
-  </entry>
-  <entry>
-    <title>Ousted Savannah police officer gave ICE agent husband access to Flock system</title>
-    <link href="https://news.ycombinator.com/item?id=50150750"/>
-    <id>f2d5ba2a8195b4dbe6e4716851b1da53</id>
-    <published>2026-10-19T10:45:14+00:00</published>
-    <updated>2026-10-19T10:45:14+00:00</updated>
-  </entry>
-  <entry>
-    <title>Timestral: Mistral's time-series foundation models</title>
-    <link href="https://news.ycombinator.com/item?id=50150434"/>
-    <id>5d22093d7cb673158bbea2a1bd62604a</id>
-    <published>2026-10-19T09:59:32+00:00</published>
-    <updated>2026-10-19T09:59:32+00:00</updated>
-  </entry>
-  <entry>
-    <title>I built a drone with only one motor [video]</title>
-    <link href="https://news.ycombinator.com/item?id=50150089"/>
-    <id>9b42ecc65b01f1f4f9686a48f23cb1ec</id>
-    <published>2026-10-19T09:05:07+00:00</published>
-    <updated>2026-10-19T09:05:07+00:00</updated>
-  </entry>
-  <entry>
-    <title>Linux 7.3</title>
-    <link href="https://news.ycombinator.com/item?id=50149392"/>
-    <id>e1e2f2fa5f692fb4751af3ba8a94a66f</id>
-    <published>2026-10-19T07:23:57+00:00</published>
-    <updated>2026-10-19T07:23:57+00:00</updated>
-  </entry>
-  <entry>
-    <title>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
-    <link href="https://news.ycombinator.com/item?id=50148855"/>
-    <id>4c3fd83c9cfd49f32ede86aeba2f7d2a</id>
-    <published>2026-10-19T05:55:31+00:00</published>
-    <updated>2026-10-19T05:55:31+00:00</updated>
-  </entry>
-  <entry>
-    <title>DeepSeek V4.1 Flash 1017 (Max)</title>
-    <link href="https://news.ycombinator.com/item?id=50148452"/>
-    <id>7eff384578e2523b2314937d1fc20062</id>
-    <published>2026-10-19T04:41:46+00:00</published>
-    <updated>2026-10-19T04:41:46+00:00</updated>
-  </entry>
-  <entry>
-    <title>Starcraft: Ashfall</title>
-    <link href="https://news.ycombinator.com/item?id=50147233"/>
-    <id>2f475705a53cef2df762140fdf6f8424</id>
-    <published>2026-10-19T01:18:02+00:00</published>
-    <updated>2026-10-19T01:18:02+00:00</updated>
-  </entry>
-  <entry>
-    <title>William Gibson and the trademarking of cyberspace</title>
-    <link href="https://news.ycombinator.com/item?id=50146625"/>
-    <id>ef3f05d2bc9e40036d5da31789287882</id>
-    <published>2026-10-18T23:37:57+00:00</published>
-    <updated>2026-10-18T23:37:57+00:00</updated>
   </entry>
 </feed>
