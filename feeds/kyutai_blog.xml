@@ -4,10 +4,18 @@
   <icon>https://kyutai.org/favicon.ico</icon>
   <link href="https://kyutai.org/blog"/>
   <id>https://kyutai.org/blog</id>
-  <updated>2026-10-20T00:00:00+00:00</updated>
+  <updated>2026-10-22T00:00:00+00:00</updated>
   <author>
     <name>Kyutai</name>
   </author>
+  <entry>
+    <title>CADRE: Rethinking Video Autoencoders for Interactive World Models</title>
+    <link href="https://kyutai.org/blog/2026-10-22-cadre"/>
+    <id>c9f9398a8d45897baffd785cc45c8fa2</id>
+    <published>2026-10-22T00:00:00+00:00</published>
+    <updated>2026-10-22T00:00:00+00:00</updated>
+    <summary type="text">Open video autoencoders that let world models react to your actions in real time, with high video quality.</summary>
+  </entry>
   <entry>
     <title>The tiny TTS was actually 10x too big</title>
     <link href="https://kyutai.org/blog/2026-10-20-pocket-tts-small"/>

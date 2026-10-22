@@ -4,10 +4,28 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-10-20T00:00:00+00:00</updated>
+  <updated>2026-10-22T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Announcing the SGLang AWS Trainium Plugin Beta</title>
+    <link href="https://lmsys.org/blog/2026-10-22-sglang-trainium-beta"/>
+    <id>0241cf966cb5bc2d8f49069f885b829c</id>
+    <published>2026-10-22T00:00:00+00:00</published>
+    <updated>2026-10-22T00:00:00+00:00</updated>
+    <summary type="text">In collaboration with AWS and alongside the TorchNeuron launch, we are announcing the beta of the SGLang Trainium plugin, enabling both inference serving and RL rollouts on AWS Trainium.</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>Elastic Expert Parallelism Scaling in SGLang: Growing a Live MoE Deployment with NIXL</title>
+    <link href="https://lmsys.org/blog/2026-10-21-elastic-ep-scaling-nixl"/>
+    <id>c6597308190f38245b1c3d84a47b726d</id>
+    <published>2026-10-21T00:00:00+00:00</published>
+    <updated>2026-10-21T00:00:00+00:00</updated>
+    <summary type="text">Inference deployments operate under changing load and must adapt their capacity while maintaining throughput and latency targets. For large Mixture-of-Experts (MoE) models, the standard options are ho...</summary>
+    <category term="technical"/>
+  </entry>
   <entry>
     <title>SGLang-TorchTPU: PyTorch-Native Production Serving on TPUs</title>
     <link href="https://lmsys.org/blog/2026-10-20-sglang-torchtpu"/>
