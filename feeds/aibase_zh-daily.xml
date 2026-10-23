@@ -4,16 +4,26 @@
   <icon>https://news.aibase.com/favicon.ico</icon>
   <link href="https://news.aibase.com/zh/daily"/>
   <id>https://news.aibase.com/zh/daily</id>
-  <updated>2026-10-21T23:47:49.237464+00:00</updated>
+  <updated>2026-10-23T17:41:21.850468+00:00</updated>
   <author>
     <name>AIBase</name>
   </author>
   <entry>
+    <title>AI日报：火山引擎发布Seedance2.5 4K；MiniMax开源M3.1 Flash；Canva推出Craft图像模型</title>
+    <link href="https://news.aibase.com/zh/daily/31845"/>
+    <id>141e24e2df23d8de3fb282fc0d429111</id>
+    <published>2026-10-23T17:41:21.850468+00:00</published>
+    <updated>2026-10-23T17:41:21.850468+00:00</updated>
+    <summary type="text">1、火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片Seedance2.54K以样片到正片分工切入影视流程，10-bit色深与细节增强提升表演质感，但仅限企业试用，开放节奏待观察。8、谷歌推出ACE：给每个AI智能体配一台专属电脑，唤醒不到500毫秒谷歌ACE并非普通容器是面向智能体的专属微虚拟机，强化安全隔离和生命周期管理；500毫秒级恢复与快照复制优化了资源密度，为规模化AI智能体运行提供了可行基础设施。</summary>
+    <category term="AI Daily"/>
+    <category term="人工智能"/>
+  </entry>
+  <entry>
     <title>AI日报：ChatGPT上线锁定聊天功能；Ming-3.0-tts登顶国际评测双榜首；Mistral 发布 Voxtral 3 语音 Agent SDK</title>
     <link href="https://news.aibase.com/zh/daily/31782"/>
     <id>7a8f67e0c28abbea3efc1ca92a9cf219</id>
-    <published>2026-10-21T23:47:49.237464+00:00</published>
-    <updated>2026-10-21T23:47:49.237464+00:00</updated>
+    <published>2026-10-21T23:41:21.850757+00:00</published>
+    <updated>2026-10-21T23:41:21.850757+00:00</updated>
     <summary type="text">1、OpenAI重磅上线ChatGPT“锁定聊天”功能：四位数PIN码与生物识别双保险OpenAI推出的“锁定聊天”功能是隐私保护层面的实用改进，通过PIN码与生物识别双重验证机制，有效防范设备外借场景下的隐私泄露风险。头部产品凭借应用生态与多端协同能力构筑护城河，AI智能体正加速渗透并重塑日常办公流程，行业进入生态化竞争新阶段。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -22,8 +32,8 @@
     <title>AI日报：火山引擎砸钱养AI剧；DeepSeek发布API网页搜索与抓取服务；腾讯Marvis上架麒麟软件商店</title>
     <link href="https://news.aibase.com/zh/daily/31727"/>
     <id>13047c98a8d6ac1aba76afc1ee72d01d</id>
-    <published>2026-10-19T23:47:49.238145+00:00</published>
-    <updated>2026-10-19T23:47:49.238145+00:00</updated>
+    <published>2026-10-19T23:41:21.850961+00:00</published>
+    <updated>2026-10-19T23:41:21.850961+00:00</updated>
     <summary type="text">1、字节火山引擎砸钱养AI剧：月度TOP10单部最高奖20万火山引擎推出Seedance精品AI剧激励计划，本质是以真金白银补贴撬动内容生态，将模型、工具、平台与分发渠道深度绑定。企业按场景分层选型模型将成为AI落地的关键策略。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -195,16 +205,6 @@
     <published>2026-09-16T00:00:00+00:00</published>
     <updated>2026-09-16T00:00:00+00:00</updated>
     <summary type="text">1、豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”字节系企业生产力产品推出重大更新，火山引擎升级豆包大模型至0915版本，并优化API接入；飞书发布8.0版本，引入团队智能体“豆包工作伙伴”，推动AI从个人助手向团队协作转变。8、Google官宣Gemini3.8Live，首创“边说边想”颠覆行业交互Google宣布推出Gemini3.8Live及其扩展版本，实现了语音交互领域的重大突破，特别是在低延迟语音流中实现深度推理能力，为语音人工智能应用带来了全新的变革。</summary>
-    <category term="AI Daily"/>
-    <category term="人工智能"/>
-  </entry>
-  <entry>
-    <title>AI日报：Claude Opus 5.2 灰测；苹果正式推送 iOS27；微信回应小微AI隐私争议</title>
-    <link href="https://news.aibase.com/zh/daily/31064"/>
-    <id>89fd703e4368c1cdf77fe9e36b6c56bd</id>
-    <published>2026-09-15T00:00:00+00:00</published>
-    <updated>2026-09-15T00:00:00+00:00</updated>
-    <summary type="text">1、ClaudeOpus5.2深夜灰度上线：响应更快治好了“偷懒病”ClaudeOpus5.2在灰度测试中表现出色，响应速度、输出质量以及自主迭代能力均显著提升，展现了Anthropic在AI模型优化上的强大实力。8、阶跃发布StepAudio3系列模型:五款模型同步上线开放平台阶跃星辰发布StepAudio3系列模型，涵盖语音生成、音频生成、实时交互、语音理解和音乐创作等多个领域，其中多款模型在ArtificialAnalysis榜单中位列全球第一，展现了强大的技术实力和应用潜力。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
   </entry>

@@ -4,10 +4,17 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-10-22T00:00:00+00:00</updated>
+  <updated>2026-10-23T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
+  <entry>
+    <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
+    <link href="https://allenai.org/blog/litpivot"/>
+    <id>0a93e049aa4c6d31d61ad7ff200c7501</id>
+    <published>2026-10-23T00:00:00+00:00</published>
+    <updated>2026-10-23T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>A crop-mapping benchmark for the tropics</title>
     <link href="https://allenai.org/blog/planteur"/>
@@ -63,12 +70,5 @@
     <id>204b13cbd9b742fac0a026505da6c9dd</id>
     <published>2026-10-01T00:00:00+00:00</published>
     <updated>2026-10-01T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
-    <link href="https://allenai.org/blog/benchmirt"/>
-    <id>aa4dfb0147e6973270e073deee34218d</id>
-    <published>2026-09-01T00:00:00+00:00</published>
-    <updated>2026-09-01T00:00:00+00:00</updated>
   </entry>
 </feed>

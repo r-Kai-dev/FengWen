@@ -6,8 +6,19 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-10-20T19:00:00.000Z</updated>
+  <updated>2026-10-22T00:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>Multiplayer Nodes: Build Krea Workflows Together, Live</title>
+    <link href="https://www.krea.ai/blog/multiplayer-nodes"/>
+    <id>https://www.krea.ai/blog/multiplayer-nodes</id>
+    <updated>2026-10-22T00:00:00.000Z</updated>
+    <published>2026-10-22T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Krea Nodes is now multiplayer. Edit the same canvas with your team in real time, with live cursors, shared runs, personal undo, and view or edit sharing.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/multiplayer-nodes-card/card.webp" type="image/webp"/>
+  </entry>
   <entry>
     <title>Krea 3 Crashes the Top 4: Every Benchmark, Explained</title>
     <link href="https://www.krea.ai/blog/krea-3-benchmarks"/>
@@ -76,6 +87,36 @@
     <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/krea-after-effects-plugin.png" type="image/webp"/>
   </entry>
   <entry>
+    <title>Krea for Blender: The AI Add-on for Materials, Lighting and Render Exploration</title>
+    <link href="https://www.krea.ai/blog/krea-blender-addon"/>
+    <id>https://www.krea.ai/blog/krea-blender-addon</id>
+    <updated>2026-10-20T00:00:00.000Z</updated>
+    <published>2026-10-20T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="blender"/>
+    <category term="blender ai"/>
+    <category term="blender addons"/>
+    <category term="3d"/>
+    <summary>Krea for Blender is an AI add-on for materials, lighting, and render exploration in the 3D Viewport. It needs Blender 5.2 or later.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/krea-blender-addon.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea for DaVinci Resolve: AI Look Development, Plates and Grade References</title>
+    <link href="https://www.krea.ai/blog/krea-davinci-resolve-plugin"/>
+    <id>https://www.krea.ai/blog/krea-davinci-resolve-plugin</id>
+    <updated>2026-10-20T00:00:00.000Z</updated>
+    <published>2026-10-20T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="davinci resolve"/>
+    <category term="davinci resolve plugins"/>
+    <category term="color grading"/>
+    <category term="ai"/>
+    <summary>Krea for DaVinci Resolve builds looks, plates, and grade references. It requires macOS 12 or later and DaVinci Resolve Studio. Windows is coming.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/krea-davinci-resolve-plugin.png" type="image/webp"/>
+  </entry>
+  <entry>
     <title>Krea for Illustrator: Generate Artwork, Vectorize It and Design with Krea Agent</title>
     <link href="https://www.krea.ai/blog/krea-illustrator-plugin"/>
     <id>https://www.krea.ai/blog/krea-illustrator-plugin</id>
@@ -89,6 +130,21 @@
     <category term="vector"/>
     <summary>Krea for Illustrator generates artwork, turns it into editable paths with Image Trace, and designs in the document with Krea Agent.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/krea-illustrator-plugin.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea for Photoshop: The AI Plugin for Generating, Relighting and Swapping Backgrounds</title>
+    <link href="https://www.krea.ai/blog/krea-photoshop-plugin"/>
+    <id>https://www.krea.ai/blog/krea-photoshop-plugin</id>
+    <updated>2026-10-20T00:00:00.000Z</updated>
+    <published>2026-10-20T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="photoshop"/>
+    <category term="photoshop plugins"/>
+    <category term="generative fill"/>
+    <category term="ai image generation"/>
+    <summary>Krea for Photoshop is a Photoshop plugin for AI image and video generation, background replacement, relighting, and multi-shot layouts. Results land as layers.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/krea-photoshop-plugin.png" type="image/webp"/>
   </entry>
   <entry>
     <title>Krea for Premiere Pro: AI Shots, Inserts and Plates Straight Into Your Timeline</title>
@@ -127,7 +183,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>DALL-E 3 is retired and ChatGPT's free image limit is roughly 2-3 a day. Five free and freemium alternatives, with current pricing and honest limits.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-free-alternatives-to-dall-e-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-free-alternatives-to-dall-e-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Is LetsEnhance Safe? What It Does, How to Cancel, and Better Alternatives in 2026</title>
@@ -160,7 +216,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>DeepAI's image generator has run a free text-to-image tool since 2016. What its free tier includes, what Pro costs, and how it compares to Leonardo.Ai, Ideogram, and Krea.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/what-is-deepai-free-ai-image-generator-explained-and-alternatives-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/what-is-deepai-free-ai-image-generator-explained-and-alternatives-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Ideogram AI: Features, Pricing &amp; Alternatives (2026)</title>
@@ -171,7 +227,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Ideogram AI's main feature is text rendering inside images. What its free and paid plans actually include, and how Midjourney, Recraft, and Krea compare.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/what-is-ideogram-ai-features-pricing-and-alternatives-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/what-is-ideogram-ai-features-pricing-and-alternatives-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Is There Anything Better Than FaceApp? 3 Alternatives Compared in 2026</title>
@@ -182,7 +238,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>FaceApp, Facetune, Remini, and Krea compared for portrait restyling in 2026 — free tiers, prices, and a one-tap filter versus a written prompt.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-faceapp-alternatives-in-2026/agent/hero-portrait.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-faceapp-alternatives-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Envato vs. Canva: Which Is Better in 2026?</title>
@@ -193,7 +249,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Envato Elements and Canva compared on price, licenses, and included assets in 2026 — plus when to generate an original asset with AI instead.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/envato-vs-canva-which-is-better-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/envato-vs-canva-which-is-better-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>How to Make a Sticker: Best AI Sticker Generators in 2026</title>
@@ -204,7 +260,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>How to make a sticker in 2026 — compare Kittl, Canva, Krea, and a print-and-ship service like Sticker Mule for templates, custom AI art, and die-cut printing.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-make-a-sticker-best-ai-sticker-generators-in-2026/agent/hero-sticker-sheet.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/how-to-make-a-sticker-best-ai-sticker-generators-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Can You Make Money With Canva? Creators Program and Etsy Templates in 2026</title>
@@ -264,7 +320,7 @@
     <category term="premiere pro"/>
     <category term="ai video"/>
     <summary>Compare CapCut, DaVinci Resolve, and Premiere Pro for cutting real footage in 2026, plus where prompt-driven AI tools like Krea fit a different job entirely.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-video-editing-software-in-2026/agent/hero-editor-desk.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-video-editing-software-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Can ChatGPT Reverse Image Search? Best Tools in 2026</title>
@@ -275,7 +331,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>No, ChatGPT can't run a true reverse image search. Here's what it does instead, and the tools that actually find a photo's source: Lens, TinEye, Bing, Yandex.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/can-chatgpt-reverse-image-search-best-tools-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/can-chatgpt-reverse-image-search-best-tools-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Free Coloring Page Generators in 2026: Best Sites, Tools, and Custom AI Pages</title>
@@ -286,7 +342,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Compare the best free coloring page sites and AI generators in 2026 — Crayola, Canva, ColorifyAI, and Krea — plus a prompt recipe for clean, printable line art.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/free-coloring-page-generators-and-how-to-make-your-own-with-ai-in-2026/agent/hero-astronaut-cat.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/free-coloring-page-generators-and-how-to-make-your-own-with-ai-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Is Gamma AI Free? Free Plan Limits and Alternatives in 2026</title>
@@ -297,7 +353,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Gamma's free plan gives 400 one-time AI credits, not a monthly allowance. What that buys, what Plus, Pro, and Ultra cost, and how Canva compares.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/is-gamma-ai-free-pricing-and-alternatives-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/is-gamma-ai-free-pricing-and-alternatives-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Canva Background Remover: Free Plan Limits (2026)</title>
@@ -308,7 +364,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Canva's background remover only runs on paid plans. The steps, the 9 MB and vector limits, and how Photoshop AI and Krea compare, verified Sept 2026.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/can-canva-remove-background-free-plan-limits-and-alternatives-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/can-canva-remove-background-free-plan-limits-and-alternatives-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Is Canva Free? What the Free Plan and Canva AI Include in 2026</title>
@@ -319,7 +375,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>What Canva's Free plan includes in 2026: the 20-use monthly AI allowance, Pro and Business prices, what Canva AI does, and how it compares with Krea.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/is-canva-free-what-the-free-plan-and-canva-ai-include-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/is-canva-free-what-the-free-plan-and-canva-ai-include-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Is Midjourney Free in 2026? Pricing, Video, and Free Alternatives</title>
@@ -330,7 +386,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Whether Midjourney has a free tier today, what Basic, Standard, Pro, and Mega cost, how its video model is billed, and which free alternatives exist.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/is-midjourney-free-pricing-video-and-free-alternatives-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/is-midjourney-free-pricing-video-and-free-alternatives-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Is Stable Diffusion Free in 2026? Where to Get It and What It Costs</title>
@@ -341,7 +397,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Which Stable Diffusion models are free, what the Community License's $1M revenue cap means, where to get the weights, and what hosted options cost.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/is-stable-diffusion-free-where-to-get-it-and-what-it-costs-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/is-stable-diffusion-free-where-to-get-it-and-what-it-costs-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Is Adobe Express Free? Pricing and Comparisons (2026)</title>
@@ -352,7 +408,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Is Adobe Express free? Yes, no card needed. Premium is $9.99/month with 250 generative credits. How it compares with Canva and Krea.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/what-is-adobe-express-free-plan-pricing-and-how-it-compares-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/what-is-adobe-express-free-plan-pricing-and-how-it-compares-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>How to Edit Video with Krea Agent: Cut, Extend and Export Generated Clips (2026)</title>
@@ -390,7 +446,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Compare the best free QR code generators in 2026 — QR Code Generator, Canva, Adobe Express, and ME-QR — plus how to turn one into branded AI artwork with Krea.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-free-qr-code-generators-and-ai-branded-qr-codes-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-free-qr-code-generators-and-ai-branded-qr-codes-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Stock Photos vs. AI Images in 2026: Which Do You Need?</title>
@@ -401,7 +457,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Unsplash, Pexels, Freepik, and Canva's stock library compared with generating your own image — free tiers, license terms, and the faster choice.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/free-stock-photos-vs-ai-generated-images-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/free-stock-photos-vs-ai-generated-images-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Great creatives = great agents</title>
@@ -423,7 +479,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Krea Enhancer, Remini, Topaz Photo, Adobe Lightroom, Let's Enhance, and Upscayl for blurry, noisy, old photos — what each fixes, free tiers, and prices.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-ai-photo-enhancers-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-ai-photo-enhancers-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>The Best AI Video Enhancers in 2026: Turn Blurry or Old Video into HD and 4K (6 Tools Compared)</title>
@@ -434,7 +490,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Topaz Video, Krea Video Upscale, CapCut, TensorPix, AVCLabs, and Video2X compared for old, blurry footage: what upscaling does, prices, and free limits.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-ai-video-enhancers-in-2026-blurry-video-to-hd-and-4k/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-ai-video-enhancers-in-2026-blurry-video-to-hd-and-4k.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>getimg.ai Review: Is It Free and Safe? (2026)</title>
@@ -445,7 +501,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>getimg.ai is no longer free. Its privacy policy, a settings recipe, and how it compares to Krea, Leonardo.Ai, and Ideogram — verified September 2026.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/getimg-ai-review-is-it-free-safe-and-how-to-use-it-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/getimg-ai-review-is-it-free-safe-and-how-to-use-it-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Is Leonardo.Ai Free? Review, Pricing, and Comparisons (2026)</title>
@@ -456,7 +512,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Is Leonardo.Ai free? Yes, 150 tokens a day, outputs are public. Who owns your images, how it compares to Krea, SeaArt, and Ideogram — verified Sept 2026.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/leonardo-ai-review-is-it-free-any-good-and-how-it-compares-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/leonardo-ai-review-is-it-free-any-good-and-how-it-compares-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Is Higgsfield AI Free? Pricing and Alternatives in 2026</title>
@@ -467,7 +523,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Is Higgsfield AI free? Mostly paid — the free plan gives 0 credits, no video. What it costs, who makes it, and how it compares with Runway and Krea.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/what-is-higgsfield-ai-pricing-free-plan-and-alternatives-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/what-is-higgsfield-ai-pricing-free-plan-and-alternatives-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Best AI Business Card and Invitation Card Makers in 2026: 5 Tools Compared</title>
@@ -478,7 +534,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Compare the best business card and invitation card makers in 2026 — VistaPrint, Canva, Adobe Express, Looka, and Krea — by price and print fulfillment.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-ai-business-card-and-invitation-card-makers-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-ai-business-card-and-invitation-card-makers-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>The Best AI PPT Maker in 2026: 5 Tools Compared</title>
@@ -489,7 +545,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Gamma, Canva, Beautiful.ai, Microsoft Copilot, and Krea for slide visuals — free-tier limits, prices, and copy-paste prompts, verified September 2026.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-ai-ppt-maker-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-ai-ppt-maker-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>How to Design a Banner or Infographic with AI in 2026: 5 Tools Compared</title>
@@ -500,7 +556,7 @@
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
     <summary>Compare Krea, Canva, Adobe Express, Piktochart, and Ideogram for banners and infographics in 2026 — price, free tier, and job fit.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-design-a-banner-or-infographic-with-ai-in-2026/agent/hero.png" type="image/webp"/>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/how-to-design-a-banner-or-infographic-with-ai-in-2026.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>What Is Krea Agent? A Plain Guide to Krea's Creative Production Agent (2026)</title>
@@ -561,54 +617,5 @@
     <category term="guides"/>
     <summary>How to make a wallpaper or background image with AI — compare Krea, Wallpapers.com, Canva, Adobe Firefly, Bing Image Creator, and StarryAI, with prices.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-make-a-wallpaper-or-background-image-with-ai-in-2026/agent/hero.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>10 Best Seedance 2.5 Examples + Prompts You Need to See</title>
-    <link href="https://www.krea.ai/blog/10-best-seedance-2-5-examples-prompts-you-need-to-see"/>
-    <id>https://www.krea.ai/blog/10-best-seedance-2-5-examples-prompts-you-need-to-see</id>
-    <updated>2026-09-05T00:00:00.000Z</updated>
-    <published>2026-09-05T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="seedance-2-5"/>
-    <summary>Discover 10 Seedance 2.5 examples + prompts with tested settings for predictable single-take AI videos, native audio, and controlled motion.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/10-best-seedance-2-5-examples-prompts-you-need-to-see/agent/thumbnail.jpg" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>15 Bedroom Ideas for 2026, from Japandi Calm to Moody Maximalism</title>
-    <link href="https://www.krea.ai/blog/15-bedroom-ideas-for-2026-from-japandi-calm-to-moody-maximalism"/>
-    <id>https://www.krea.ai/blog/15-bedroom-ideas-for-2026-from-japandi-calm-to-moody-maximalism</id>
-    <updated>2026-09-05T00:00:00.000Z</updated>
-    <published>2026-09-05T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Bedroom ideas for 2026 visualized with image-generation prompts, from Japandi Calm to Moody Maximalism, with editable controls to preview your room.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/15-bedroom-ideas-for-2026-from-japandi-calm-to-moody-maximalism/agent/thumbnail.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Best Project Management Software for Creative Agencies and Teams: 8 Tools Compared (2026)</title>
-    <link href="https://www.krea.ai/blog/best-project-management-software-for-creative-agencies-and-teams-8-tools-compared"/>
-    <id>https://www.krea.ai/blog/best-project-management-software-for-creative-agencies-and-teams-8-tools-compared</id>
-    <updated>2026-09-05T00:00:00.000Z</updated>
-    <published>2026-09-05T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Best project management software for creative agencies in 2026: proofing, approvals, and real per-seat pricing across seven tools, plus where Krea fits.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-project-management-software-for-creative-agencies-and-teams-8-tools-compared/agent/thumbnail.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to Generate AI Images and Videos in ChatGPT with Krea</title>
-    <link href="https://www.krea.ai/blog/generate-ai-images-and-videos-in-chatgpt-with-krea"/>
-    <id>https://www.krea.ai/blog/generate-ai-images-and-videos-in-chatgpt-with-krea</id>
-    <updated>2026-09-05T00:00:00.000Z</updated>
-    <published>2026-09-05T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="chatgpt"/>
-    <category term="mcp"/>
-    <category term="ai image generation"/>
-    <category term="ai video generation"/>
-    <summary>Connect Krea to ChatGPT to generate images and video with Krea's model lineup, reuse your moodboards and styles, and save results to your library.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/generate-ai-images-and-videos-in-chatgpt-with-krea/agent/hero-what-you-can-create.jpg" type="image/webp"/>
   </entry>
 </feed>
