@@ -4,14 +4,14 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/papers"/>
   <id>https://huggingface.co/papers</id>
-  <updated>2026-10-14T20:00:00.000Z</updated>
+  <updated>2026-10-19T20:00:00.000Z</updated>
   <entry>
-    <title>Has GPT-6-Astra Achieved Embodied Intelligence?</title>
-    <link href="https://arxiv.org/abs/2610.22471"/>
-    <id>3ccaf14b33535bf47dbc010f652d30a1</id>
-    <published>2026-10-14T20:00:00.000Z</published>
-    <updated>2026-10-14T20:00:00.000Z</updated>
-    <summary type="text">GPT-6-Astra demonstrates a level of competence in robotic manipulation and navigation that challenges the conventional paradigm of building specialized models for individual tasks and embodiments. In ... \u00b7 Upvotes: 473 \u00b7 GitHub Stars: 266 \u00b7 Authors: SenseNova, Joint Research Team, Zhongang Cai</summary>
+    <title>StreamEval: Evaluating Interactive Streaming Video Generation Models</title>
+    <link href="https://arxiv.org/abs/2610.28402"/>
+    <id>2119f618149be409fde794ca286c9e73</id>
+    <published>2026-10-19T20:00:00.000Z</published>
+    <updated>2026-10-19T20:00:00.000Z</updated>
+    <summary type="text">As streaming video generation advances, enabling real-time interaction with generated video is becoming increasingly important. We introduce StreamEval, a unified benchmark for interactive streaming v... \u00b7 Upvotes: 558 \u00b7 GitHub Stars: 322 \u00b7 Authors: StreamEval Team</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +21,7 @@
     <id>fe372f6a58e0d0e3dec6598a27cbe575</id>
     <published>2026-10-14T20:00:00.000Z</published>
     <updated>2026-10-14T20:00:00.000Z</updated>
-    <summary type="text">Post-hoc image explanations usually show where a model looks using spatial heatmaps or indicate which channels matter using global channel scores. These separate views are limiting for multispectral d... \u00b7 Upvotes: 521 \u00b7 GitHub Stars: 21 \u00b7 Authors: Haotian Ma, Ruqi Yang, Philip Townsend</summary>
+    <summary type="text">Post-hoc image explanations usually show where a model looks using spatial heatmaps or indicate which channels matter using global channel scores. These separate views are limiting for multispectral d... \u00b7 Upvotes: 680 \u00b7 GitHub Stars: 32 \u00b7 Authors: Haotian Ma, Ruqi Yang, Philip Townsend</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +31,7 @@
     <id>ea78f8eea046eb78846479f67db59298</id>
     <published>2026-10-13T20:00:00.000Z</published>
     <updated>2026-10-13T20:00:00.000Z</updated>
-    <summary type="text">Existing long-horizon agent benchmarks often emphasize final task success while providing limited assessment of intermediate execution validity. Yet real-world business operations require agents to na... \u00b7 Upvotes: 494 \u00b7 GitHub Stars: 48 \u00b7 Authors: Enhan Zhao, Yongqi Tong, Xuejun Yu</summary>
+    <summary type="text">Existing long-horizon agent benchmarks often emphasize final task success while providing limited assessment of intermediate execution validity. Yet real-world business operations require agents to na... \u00b7 Upvotes: 495 \u00b7 GitHub Stars: 54 \u00b7 Authors: Enhan Zhao, Yongqi Tong, Xuejun Yu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +41,7 @@
     <id>3fab5d14b99de6e164d9210eb6440dca</id>
     <published>2026-10-12T20:00:00.000Z</published>
     <updated>2026-10-12T20:00:00.000Z</updated>
-    <summary type="text">With the rapid development of multimodal large language models (MLLMs), evaluating their video understanding capabilities has become increasingly important. Existing video understanding benchmarks cov... \u00b7 Upvotes: 659 \u00b7 GitHub Stars: 113 \u00b7 Authors: Xuyang Liu, Shihao Wang, Xinyu Wei</summary>
+    <summary type="text">With the rapid development of multimodal large language models (MLLMs), evaluating their video understanding capabilities has become increasingly important. Existing video understanding benchmarks cov... \u00b7 Upvotes: 746 \u00b7 GitHub Stars: 117 \u00b7 Authors: Xuyang Liu, Shihao Wang, Xinyu Wei</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +51,7 @@
     <id>8e5f5d04101a157be48e20cd4958f1f3</id>
     <published>2026-10-08T20:00:00.000Z</published>
     <updated>2026-10-08T20:00:00.000Z</updated>
-    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 122 \u00b7 GitHub Stars: 18844 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
+    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 123 \u00b7 GitHub Stars: 19389 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +61,7 @@
     <id>cd7695280a5fdcd53eebb0adbd0746a3</id>
     <published>2026-10-06T20:00:00.000Z</published>
     <updated>2026-10-06T20:00:00.000Z</updated>
-    <summary type="text">Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con... \u00b7 Upvotes: 113 \u00b7 GitHub Stars: 2834 \u00b7 Authors: Wei Huang, Bohan Zhang, Chenzhi Liu</summary>
+    <summary type="text">Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con... \u00b7 Upvotes: 113 \u00b7 GitHub Stars: 2836 \u00b7 Authors: Wei Huang, Bohan Zhang, Chenzhi Liu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +71,7 @@
     <id>180c4cf0e3e956cc7fd106b7c7990e05</id>
     <published>2026-10-04T20:00:00.000Z</published>
     <updated>2026-10-04T20:00:00.000Z</updated>
-    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 2952 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
+    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 2954 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +81,7 @@
     <id>d65723b4879c0dd7e666f63e2b749ce8</id>
     <published>2026-09-28T20:00:00.000Z</published>
     <updated>2026-09-28T20:00:00.000Z</updated>
-    <summary type="text">Tabular machine learning typically relies on per-dataset workflows, fitting tree ensembles or running AutoML searches from scratch for every task. We present TabFM, a 400M-parameter tabular foundation... \u00b7 Upvotes: 21 \u00b7 GitHub Stars: 2798 \u00b7 Authors: Weihao Kong, Erez Louidor Ilan, Shuxin Nie</summary>
+    <summary type="text">Tabular machine learning typically relies on per-dataset workflows, fitting tree ensembles or running AutoML searches from scratch for every task. We present TabFM, a 400M-parameter tabular foundation... \u00b7 Upvotes: 21 \u00b7 GitHub Stars: 2799 \u00b7 Authors: Weihao Kong, Erez Louidor Ilan, Shuxin Nie</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,7 +91,7 @@
     <id>d101ed881ca965ab09de53d4d5c7b66b</id>
     <published>2026-09-26T20:00:00.000Z</published>
     <updated>2026-09-26T20:00:00.000Z</updated>
-    <summary type="text">As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness co... \u00b7 Upvotes: 711 \u00b7 GitHub Stars: 5778 \u00b7 Authors: EverMind AI</summary>
+    <summary type="text">As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness co... \u00b7 Upvotes: 711 \u00b7 GitHub Stars: 5814 \u00b7 Authors: EverMind AI</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -101,7 +101,7 @@
     <id>62eccf37520da702a68648399df2d6a8</id>
     <published>2026-09-26T20:00:00.000Z</published>
     <updated>2026-09-26T20:00:00.000Z</updated>
-    <summary type="text">Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE... \u00b7 Upvotes: 205 \u00b7 GitHub Stars: 12659 \u00b7 Authors: Ruibin Yuan, Jiahao Pan, Junyan Jiang</summary>
+    <summary type="text">Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE... \u00b7 Upvotes: 206 \u00b7 GitHub Stars: 12708 \u00b7 Authors: Ruibin Yuan, Jiahao Pan, Junyan Jiang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -111,7 +111,7 @@
     <id>ba2eaece21615de481fdfe12f1567ed0</id>
     <published>2026-09-24T20:00:00.000Z</published>
     <updated>2026-09-24T20:00:00.000Z</updated>
-    <summary type="text">General-purpose agents can plan, reason, and act over long horizons, yet their production capabilities remain fragmented across text, images, audio, video, documents, 3D assets, and code. Extending a ... \u00b7 Upvotes: 485 \u00b7 GitHub Stars: 229 \u00b7 Authors: Yanlin Li, Mingyang Hao, Shengqiong Wu</summary>
+    <summary type="text">General-purpose agents can plan, reason, and act over long horizons, yet their production capabilities remain fragmented across text, images, audio, video, documents, 3D assets, and code. Extending a ... \u00b7 Upvotes: 485 \u00b7 GitHub Stars: 230 \u00b7 Authors: Yanlin Li, Mingyang Hao, Shengqiong Wu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

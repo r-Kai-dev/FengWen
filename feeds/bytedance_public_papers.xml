@@ -4,10 +4,19 @@
   <icon>https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/favicon_1/favicon.ico</icon>
   <link href="https://seed.bytedance.com/en/public_papers"/>
   <id>https://seed.bytedance.com/en/public_papers</id>
-  <updated>2026-09-28T12:00:00+00:00</updated>
+  <updated>2026-10-24T16:00:00+00:00</updated>
   <author>
     <name>ByteDance Seed</name>
   </author>
+  <entry>
+    <title>Recycler: Cost-Free Latent Reasoning via Hidden State Recycling</title>
+    <link href="https://seed.bytedance.com/en/public_papers/recycler-cost-free-latent-reasoning-via-hidden-state-recycling"/>
+    <id>a008948beb1cf50438aeef11cf1376bd</id>
+    <published>2026-10-24T16:00:00+00:00</published>
+    <updated>2026-10-24T16:00:00+00:00</updated>
+    <summary type="text">Standard autoregressive decoding links successive steps only through sampled discrete tokens, discarding the continuous semantics encoded in previous hidden states. In contrast, recurrent multitoken prediction (MTP) heads propagate both token embeddings and hidden states across steps. Remarkably, an MTP head with only ∼ 2% of the backbone parameters achieves a loss comparable to that of a standalone model ∼ 25% its size, underscoring the value of continuous hidden state feedback. Motivated by th</summary>
+    <category term="LLM"/>
+  </entry>
   <entry>
     <title>Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression</title>
     <link href="https://seed.bytedance.com/en/public_papers/periodic-weak-spots-phase-sensitivity-from-chunked-kv-cache-compression"/>
@@ -159,15 +168,6 @@
     <published>2026-05-25T16:00:00+00:00</published>
     <updated>2026-05-25T16:00:00+00:00</updated>
     <summary type="text">Feedforward network (FFN) layers account for a large fraction of parameters and nonlinear expressivity in Transformer-based large language models (LLMs). Despite the evolution from ReLU and GELU to gated variants such as SwiGLU, most FFN designs still use a single fixed activation function, applying the same nonlinear transformation to all tokens. In this work, we propose Mixture of Activations (MoA), a token-adaptive FFN design that mixes a dictionary of activation functions using lightweight i</summary>
-    <category term="Machine Learning"/>
-  </entry>
-  <entry>
-    <title>Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models</title>
-    <link href="https://seed.bytedance.com/en/public_papers/negligible-in-size-significant-in-effect-on-scale-vectors-in-large-language-models"/>
-    <id>6485fe48282a0e012ef892ab2432f1be</id>
-    <published>2026-05-25T16:00:00+00:00</published>
-    <updated>2026-05-25T16:00:00+00:00</updated>
-    <summary type="text">Normalization layers in modern large language models (LLMs) consist of a deterministic normalization operation and a learnable scale vector. While the normalization operation has been extensively studied, the scale vector remains poorly understood despite its ubiquitous use. In this work, we present a systematic study of scale vectors in LLMs from the perspectives of expressivity, optimization, and architectural structure. First, we show empirically that although scale vectors constitute only a </summary>
     <category term="Machine Learning"/>
   </entry>
 </feed>

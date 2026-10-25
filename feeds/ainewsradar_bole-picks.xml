@@ -4,108 +4,118 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-10-11T12:01:08+00:00</updated>
+  <updated>2026-10-25T17:15:38+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Weave (YC W25) 招聘 ML、AI、产品及设计工程师 / Weave (YC W25) is hiring ML, AI, product, &amp; design engineers</title>
-    <link href="https://jobs.ashbyhq.com/weave-os"/>
-    <id>26d7e1cc048010b436642b99ecb0d608</id>
-    <published>2026-10-11T12:01:08+00:00</published>
-    <updated>2026-10-11T12:01:08+00:00</updated>
-    <summary type="text">Score: 0.524\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>适用于 Claude Code 的 Edgee Mod — 在 Claude Code 里用任意模型，同时保留你的 Claude 套餐 / Edgee Mod for Claude Code — Use any model inside Claude Code, keep your Claude plan</title>
-    <link href="https://www.producthunt.com/products/edgee"/>
-    <id>37cc51f1435e135a53d6c2b4494c2a61</id>
-    <published>2026-10-11T11:02:53.421000+00:00</published>
-    <updated>2026-10-11T11:02:53.421000+00:00</updated>
-    <summary type="text">Score: 0.590\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>lyogavin/airllm — AirLLM 用单块 4GB GPU 跑 70B 推理 / lyogavin/airllm — AirLLM 70B inference with single 4GB GPU</title>
-    <link href="https://github.com/lyogavin/airllm"/>
-    <id>6760a657eaca72deb554c44d6aeb0dce</id>
-    <published>2026-10-11T11:02:35.148000+00:00</published>
-    <updated>2026-10-11T11:02:35.148000+00:00</updated>
-    <summary type="text">Score: 0.571\nSources: 2 (GitHub Trending)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>机器人”是个社会建构：为什么你的洗碗机不算机器人 / &quot;Robot&quot; Is a Social Construct: Why Your Dishwasher Is Not a Robot</title>
-    <link href="https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot"/>
-    <id>e877b28fd3a50be4e5cf0cd79fe26601</id>
-    <published>2026-10-11T10:34:43+00:00</published>
-    <updated>2026-10-11T10:34:43+00:00</updated>
-    <summary type="text">Score: 0.521\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>何夕2077 AI 深度信号周报 2026 W40–W41</title>
-    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41"/>
-    <id>44501ba33b1c1f886282658545c94649</id>
-    <published>2026-10-11T04:50:59+00:00</published>
-    <updated>2026-10-11T04:50:59+00:00</updated>
-    <summary type="text">Score: 0.730\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AI agents 参加站会电话 / AI agents in a stand-up call</title>
-    <link href="https://atoll92.github.io/agent-standup"/>
-    <id>a97ab1f63e0795123f13513d7c42490d</id>
-    <published>2026-10-11T03:42:47+00:00</published>
-    <updated>2026-10-11T03:42:47+00:00</updated>
-    <summary type="text">Score: 0.506\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏</title>
-    <link href="https://momo5502.com/posts/2026-10-09-game-decompilation"/>
-    <id>633ffb1338d04c7696cb2e3f91d006b9</id>
-    <published>2026-10-11T02:02:38+00:00</published>
-    <updated>2026-10-11T02:02:38+00:00</updated>
-    <summary type="text">Score: 0.546\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型</title>
+    <link href="https://lynchlab.net/llm-skin-cancer"/>
+    <id>62b0d8cf0162f5fc85365157625ac8ca</id>
+    <published>2026-10-25T17:15:38+00:00</published>
+    <updated>2026-10-25T17:15:38+00:00</updated>
+    <summary type="text">Score: 0.568\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>Satya Nadella 称我们应当假设所有 AI 模型都已被“攻破 / Satya Nadella says we should assume all AI models are ‘compromised’</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"/>
-    <id>6235feeda9dce1593b76fedb99d39e78</id>
-    <published>2026-10-10T22:10:17+00:00</published>
-    <updated>2026-10-10T22:10:17+00:00</updated>
-    <summary type="text">Score: 0.590\nSources: 3 (Curated Media)\nImportance: 多源热议</summary>
+    <title>AI 的使用让 UC Berkeley 数学教授觉得批改作业&quot;毫无意义 / AI use leads UC Berkeley math professor to see 'no point' in grading homework</title>
+    <link href="https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"/>
+    <id>299a72b82516b0bc5085bdb4921e959d</id>
+    <published>2026-10-25T16:28:26+00:00</published>
+    <updated>2026-10-25T16:28:26+00:00</updated>
+    <summary type="text">Score: 0.538\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>r/opensource 刚刚封禁了 AI、非英语使用者等内容 / r/opensource just banned AI, non-English speakers, and more</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"/>
+    <id>442421296547437fb166b9d68b0076db</id>
+    <published>2026-10-25T13:25:32+00:00</published>
+    <updated>2026-10-25T13:25:32+00:00</updated>
+    <summary type="text">Score: 0.600\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</title>
+    <link href="https://github.com/AgriciDaniel/claude-seo"/>
+    <id>1998c67f085ecab5ba48b1b9f0c5479b</id>
+    <published>2026-10-25T12:45:58.391000+00:00</published>
+    <updated>2026-10-25T12:45:58.391000+00:00</updated>
+    <summary type="text">Score: 0.578\nSources: 2 (GitHub Trending)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>1505年纽伦堡骑士的工具书</title>
+    <link href="https://loeffelholz-codex.org/en"/>
+    <id>787a4b26d042b73f7f4f71baee0f6c46</id>
+    <published>2026-10-25T12:37:54+00:00</published>
+    <updated>2026-10-25T12:37:54+00:00</updated>
+    <summary type="text">Score: 0.535\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔</title>
+    <link href="https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"/>
+    <id>54c0235b04cc77575648c48fd048b127</id>
+    <published>2026-10-25T09:51:17+00:00</published>
+    <updated>2026-10-25T09:51:17+00:00</updated>
+    <summary type="text">Score: 0.566\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out</title>
-    <link href="https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out"/>
-    <id>dc0bd43b9316fb218742e03d050f5e7e</id>
-    <published>2026-10-10T21:30:36+00:00</published>
-    <updated>2026-10-10T21:30:36+00:00</updated>
-    <summary type="text">Score: 0.755\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
+    <title>Papermark Data Rooms — 安全数据室，你的 AI Agent 也能直接操作，60 秒内即可上线。 / Papermark Data Rooms — Secure data rooms your AI agents can run. Live in &lt; 60 sec.</title>
+    <link href="https://www.producthunt.com/products/papermark-2"/>
+    <id>472eedaecd9988bb1c987e20f8cea6c2</id>
+    <published>2026-10-25T09:49:07+00:00</published>
+    <updated>2026-10-25T09:49:07+00:00</updated>
+    <summary type="text">Score: 0.594\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Cerebras 部署了万亿参数的人工智能模型</title>
+    <link href="https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"/>
+    <id>351be1deb99c74ff8744e716e23c574b</id>
+    <published>2026-10-25T01:33:49+00:00</published>
+    <updated>2026-10-25T01:33:49+00:00</updated>
+    <summary type="text">Score: 0.541\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？</title>
+    <link href="https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"/>
+    <id>7eb67f0d08b7fad5af8ef04a6d14f0d9</id>
+    <published>2026-10-24T23:11:54+00:00</published>
+    <updated>2026-10-24T23:11:54+00:00</updated>
+    <summary type="text">Score: 0.528\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>科技行业以外尚未出现人工智能带来回报的迹象</title>
+    <link href="https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"/>
+    <id>41ef67ee7d7b89c4240fca6beac6cb50</id>
+    <published>2026-10-24T19:47:19+00:00</published>
+    <updated>2026-10-24T19:47:19+00:00</updated>
+    <summary type="text">Score: 0.528\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
   </entry>
 </feed>
