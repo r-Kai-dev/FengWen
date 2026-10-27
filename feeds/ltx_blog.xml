@@ -4,10 +4,19 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-10-19T00:00:00+00:00</updated>
+  <updated>2026-10-26T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>LTX’s Latest VFX Tools: Built for the Production Pipeline</title>
+    <link href="https://ltx.io/blog/ltxs-latest-vfx-tools-built-for-the-production-pipeline"/>
+    <id>e0db9c16598d5c800bca352664ef3fe3</id>
+    <published>2026-10-26T00:00:00+00:00</published>
+    <updated>2026-10-26T00:00:00+00:00</updated>
+    <summary type="text">LTX’s latest VFX launch brings new tools for the work that happens between an idea and a finished shot. In a conversation with compositor Doug Hogan, Mohamed Oumoumad walks through the updates and shows how they fit into real production workflows.</summary>
+    <category term="Tutorials"/>
+  </entry>
   <entry>
     <title>Cinematic AI Video Generation: A 2026 Open-Source Guide</title>
     <link href="https://ltx.io/blog/open-source-cinematic-video-generation-guide"/>
@@ -421,15 +430,6 @@
     <updated>2026-08-19T00:00:00+00:00</updated>
     <summary type="text">LTX Explore is a self-service platform that provides instant access to LTX's video generation capabilities. One prompt, one click. No API integration, no technical setup, no knowledge required.</summary>
     <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How Much Does AI Video Generation Actually Cost? (2026 Guide)</title>
-    <link href="https://ltx.io/blog/ai-video-generation-cost"/>
-    <id>8a9a4c586d40bf3a0648fc618a3233a3</id>
-    <published>2026-08-16T00:00:00+00:00</published>
-    <updated>2026-08-16T00:00:00+00:00</updated>
-    <summary type="text">Explore the true cost of AI video generation. We explain the technology, future trends, and specific business use cases for AI video generators.</summary>
-    <category term="Production"/>
   </entry>
   <entry>
     <title>LTX is Part of the NVIDIA Cosmos Coalition: What It Means for Open World Models</title>

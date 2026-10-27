@@ -4,118 +4,252 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-10-25T17:15:38+00:00</updated>
+  <updated>2026-10-26T20:21:41+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>一款问世10年的CNN在皮肤癌诊断方面表现优于前沿的大语言模型</title>
-    <link href="https://lynchlab.net/llm-skin-cancer"/>
-    <id>62b0d8cf0162f5fc85365157625ac8ca</id>
-    <published>2026-10-25T17:15:38+00:00</published>
-    <updated>2026-10-25T17:15:38+00:00</updated>
-    <summary type="text">Score: 0.568\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted</title>
+    <link href="https://x.com/gdb/status/2114814747254432243"/>
+    <id>617af6ef97802fe121aa421dbbf7c5e2</id>
+    <published>2026-10-26T20:21:41+00:00</published>
+    <updated>2026-10-26T20:21:41+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>AI 的使用让 UC Berkeley 数学教授觉得批改作业&quot;毫无意义 / AI use leads UC Berkeley math professor to see 'no point' in grading homework</title>
-    <link href="https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"/>
-    <id>299a72b82516b0bc5085bdb4921e959d</id>
-    <published>2026-10-25T16:28:26+00:00</published>
-    <updated>2026-10-25T16:28:26+00:00</updated>
-    <summary type="text">Score: 0.538\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!</title>
+    <link href="https://x.com/thsottiaux/status/2114800277677092936"/>
+    <id>776fd87aaf9b471d9aaaeec8b27386f3</id>
+    <published>2026-10-26T19:24:11+00:00</published>
+    <updated>2026-10-26T19:24:11+00:00</updated>
+    <summary type="text">Score: 0.768\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>r/opensource 刚刚封禁了 AI、非英语使用者等内容 / r/opensource just banned AI, non-English speakers, and more</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"/>
-    <id>442421296547437fb166b9d68b0076db</id>
-    <published>2026-10-25T13:25:32+00:00</published>
-    <updated>2026-10-25T13:25:32+00:00</updated>
-    <summary type="text">Score: 0.600\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>GPT-6.1 Terra in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot"/>
+    <id>225dbc4b4647c50b69e070c6930c21f9</id>
+    <published>2026-10-26T19:15:53+00:00</published>
+    <updated>2026-10-26T19:15:53+00:00</updated>
+    <summary type="text">Score: 0.854\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</title>
-    <link href="https://github.com/AgriciDaniel/claude-seo"/>
-    <id>1998c67f085ecab5ba48b1b9f0c5479b</id>
-    <published>2026-10-25T12:45:58.391000+00:00</published>
-    <updated>2026-10-25T12:45:58.391000+00:00</updated>
-    <summary type="text">Score: 0.578\nSources: 2 (GitHub Trending)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新 / What’s new in Gamma | September–October 2026</title>
+    <link href="https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026"/>
+    <id>d3e9b4f6b22f8c76f247aaf77f0eb486</id>
+    <published>2026-10-26T19:14:26+00:00</published>
+    <updated>2026-10-26T19:14:26+00:00</updated>
+    <summary type="text">Score: 0.734\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>1505年纽伦堡骑士的工具书</title>
-    <link href="https://loeffelholz-codex.org/en"/>
-    <id>787a4b26d042b73f7f4f71baee0f6c46</id>
-    <published>2026-10-25T12:37:54+00:00</published>
-    <updated>2026-10-25T12:37:54+00:00</updated>
-    <summary type="text">Score: 0.535\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output / GPT-6.1 Terra from @OpenAI is live on OpenRouter!</title>
+    <link href="https://x.com/OpenRouter/status/2114791584755839168"/>
+    <id>ec062d3f58faf3f1e82dd1c752ca56c9</id>
+    <published>2026-10-26T18:49:39+00:00</published>
+    <updated>2026-10-26T18:49:39+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔</title>
-    <link href="https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"/>
-    <id>54c0235b04cc77575648c48fd048b127</id>
-    <published>2026-10-25T09:51:17+00:00</published>
-    <updated>2026-10-25T09:51:17+00:00</updated>
-    <summary type="text">Score: 0.566\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能 / Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.</title>
+    <link href="https://x.com/rohanpaul_ai/status/2114789264936534183"/>
+    <id>4f55388d36d7f369a79724aa1c15aeae</id>
+    <published>2026-10-26T18:40:26+00:00</published>
+    <updated>2026-10-26T18:40:26+00:00</updated>
+    <summary type="text">Score: 0.799\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Papermark Data Rooms — 安全数据室，你的 AI Agent 也能直接操作，60 秒内即可上线。 / Papermark Data Rooms — Secure data rooms your AI agents can run. Live in &lt; 60 sec.</title>
-    <link href="https://www.producthunt.com/products/papermark-2"/>
-    <id>472eedaecd9988bb1c987e20f8cea6c2</id>
-    <published>2026-10-25T09:49:07+00:00</published>
-    <updated>2026-10-25T09:49:07+00:00</updated>
-    <summary type="text">Score: 0.594\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"/>
+    <id>5fcc0ec1f3671b4bd6d6332d572aa6d0</id>
+    <published>2026-10-26T17:10:23+00:00</published>
+    <updated>2026-10-26T17:10:23+00:00</updated>
+    <summary type="text">Score: 0.789\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Cerebras 部署了万亿参数的人工智能模型</title>
-    <link href="https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"/>
-    <id>351be1deb99c74ff8744e716e23c574b</id>
-    <published>2026-10-25T01:33:49+00:00</published>
-    <updated>2026-10-25T01:33:49+00:00</updated>
-    <summary type="text">Score: 0.541\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>我们最新的AI探索：绘制人类大脑图谱 / Our newest AI Quest: Mapping the human brain</title>
+    <link href="https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks"/>
+    <id>1772d62d5b30e65c1c0fb51c4111478e</id>
+    <published>2026-10-26T16:00:00+00:00</published>
+    <updated>2026-10-26T16:00:00+00:00</updated>
+    <summary type="text">Score: 0.830\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？</title>
-    <link href="https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"/>
-    <id>7eb67f0d08b7fad5af8ef04a6d14f0d9</id>
-    <published>2026-10-24T23:11:54+00:00</published>
-    <updated>2026-10-24T23:11:54+00:00</updated>
-    <summary type="text">Score: 0.528\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>Krea 推出面向 Adobe Premiere 的插件 / introducing Krea for Adobe Premiere.</title>
+    <link href="https://x.com/krea_ai/status/2114741513867395527"/>
+    <id>17dfbcde3c69412c1e3089487b75ba6a</id>
+    <published>2026-10-26T15:30:41+00:00</published>
+    <updated>2026-10-26T15:30:41+00:00</updated>
+    <summary type="text">Score: 0.731\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>科技行业以外尚未出现人工智能带来回报的迹象</title>
-    <link href="https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"/>
-    <id>41ef67ee7d7b89c4240fca6beac6cb50</id>
-    <published>2026-10-24T19:47:19+00:00</published>
-    <updated>2026-10-24T19:47:19+00:00</updated>
-    <summary type="text">Score: 0.528\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
+    <title>Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行 / MiniMax-M3.1-Flash can now run locally!</title>
+    <link href="https://x.com/UnslothAI/status/2114730104228286936"/>
+    <id>f00893a94e1f9e25263df31c18e23caf</id>
+    <published>2026-10-26T14:45:21+00:00</published>
+    <updated>2026-10-26T14:45:21+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件 / If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!</title>
+    <link href="https://x.com/ClementDelangue/status/2114713576296300604"/>
+    <id>37abef51c3814dc0d675e59274ddffbc</id>
+    <published>2026-10-26T13:39:40+00:00</published>
+    <updated>2026-10-26T13:39:40+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件 / ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</title>
+    <link href="https://x.com/testingcatalog/status/2114696424021451174"/>
+    <id>9a48bf863ea91ebd332e1a09750c7276</id>
+    <published>2026-10-26T12:31:31+00:00</published>
+    <updated>2026-10-26T12:31:31+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Meta 宣布至多 950 亿美元融资计划，为 AI 等业务筹集资金</title>
+    <link href="https://www.ithome.com/1/018/144.htm"/>
+    <id>206a82d75942e0497ff35a903a994995</id>
+    <published>2026-10-26T12:26:21.940000+00:00</published>
+    <updated>2026-10-26T12:26:21.940000+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Gartner 调研：44% 的 CEO 说不清 AI 到底赚没赚钱</title>
+    <link href="https://www.aibase.com/news/31868"/>
+    <id>3fc218ef36d11bb561cf6fe21ced6aad</id>
+    <published>2026-10-26T11:07:42.030611+00:00</published>
+    <updated>2026-10-26T11:07:42.030611+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>ChatGPT 不断扩张的工作版图 / ChatGPT’s expanding world of work</title>
+    <link href="https://openai.com/index/chatgpt-expanding-world-of-work"/>
+    <id>fe11e42f8a5b825de6109edf79a85bb5</id>
+    <published>2026-10-26T10:00:00+00:00</published>
+    <updated>2026-10-26T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Fanatics 与 OpenAI 如何优化球迷体验 / How Fanatics and OpenAI streamline the fan experience</title>
+    <link href="https://openai.com/index/fanatics-streamline-fan-experience"/>
+    <id>b6d1a21f8ba5e828f462ca22026d6bcc</id>
+    <published>2026-10-26T07:00:00+00:00</published>
+    <updated>2026-10-26T07:00:00+00:00</updated>
+    <summary type="text">Score: 0.818\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Ultrafast 如何将 OpenAI 的事故调查从数小时缩短到几分钟 / How Ultrafast cut incident investigation from hours to minutes at OpenAI</title>
+    <link href="https://openai.com/index/openai-cut-incident-investigation"/>
+    <id>9e88fddbfaf717c67e5faaf979fdd948</id>
+    <published>2026-10-26T07:00:00+00:00</published>
+    <updated>2026-10-26T07:00:00+00:00</updated>
+    <summary type="text">Score: 0.818\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频 / Check out the creator guides in the comments to get more out of #Kling4. #KlingAI</title>
+    <link href="https://x.com/Kling_ai/status/2114574035468386746"/>
+    <id>98d38a31a049381208a4667b291da9e8</id>
+    <published>2026-10-26T04:25:11+00:00</published>
+    <updated>2026-10-26T04:25:11+00:00</updated>
+    <summary type="text">Score: 0.761\nSources: 1 (AI HOT)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GPT-6.1 Terra应用于Work和Codex / GPT-6.1 Terra in Work and Codex</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>f3ba4ebe7e14b02293100ff261816988</id>
+    <published>2026-10-26T00:00:00+00:00</published>
+    <updated>2026-10-26T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / Introducing GPT-6.1 Terra</title>
+    <link href="https://openai.com/index/introducing-gpt-6-1-terra"/>
+    <id>d60436b9e381eadca5d7b28ed3574b46</id>
+    <published>2026-10-26T00:00:00+00:00</published>
+    <updated>2026-10-26T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.837\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="multi_source"/>
-    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
 </feed>

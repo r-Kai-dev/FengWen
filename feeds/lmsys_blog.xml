@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-10-24T00:00:00+00:00</updated>
+  <updated>2026-10-26T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>SGLang security update: improving request isolation</title>
+    <link href="https://lmsys.org/blog/2026-10-26-cf-security"/>
+    <id>a4fb1a903fe3a52dae9a7a7bbd02a0a7</id>
+    <published>2026-10-26T00:00:00+00:00</published>
+    <updated>2026-10-26T00:00:00+00:00</updated>
+    <summary type="text">On September 9, 2026, Cloudflare notified us of cross-request KV cache exposure in its GLM-5.3 deployment on Workers AI. We worked with Cloudflare to address the request-rejection path involved and strengthen related cache-lifetime handling in disaggregated serving.</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>More Than DeepInfer: What SGLang Delivers</title>
     <link href="https://lmsys.org/blog/2026-10-24-dsv41-deepinfer"/>

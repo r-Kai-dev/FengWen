@@ -6,8 +6,106 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-10-22T00:00:00.000Z</updated>
+  <updated>2026-10-26T00:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>Can You Run Seedance 2.5 Locally? Open Source Status</title>
+    <link href="https://www.krea.ai/blog/can-you-run-seedance-2-5-locally"/>
+    <id>https://www.krea.ai/blog/can-you-run-seedance-2-5-locally</id>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="seedance-2-5"/>
+    <summary>Is Seedance 2.5 open source? Can you download it, run it locally, or load it in ComfyUI? What's actually available, and the legit ways to use it.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/can-you-run-seedance-2-5-locally.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Use Seedance 2.5: Step-by-Step Tutorial (2026)</title>
+    <link href="https://www.krea.ai/blog/how-to-use-seedance-2-5"/>
+    <id>https://www.krea.ai/blog/how-to-use-seedance-2-5</id>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>How to use Seedance 2.5 on Krea, step by step: pick an input mode, set duration and resolution, draft cheaply, generate, extend, upscale and download.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/how-to-use-seedance-2-5.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Is Seedance 2.5 Free? Trials, Unlimited &amp; Cheapest Way</title>
+    <link href="https://www.krea.ai/blog/is-seedance-2-5-free"/>
+    <id>https://www.krea.ai/blog/is-seedance-2-5-free</id>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="seedance-2-5"/>
+    <summary>Is Seedance 2.5 free? Not on Krea's Free or Basic plans. Here's what Pro unlocks, why 'unlimited' doesn't exist, and the cheapest way to run it.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/is-seedance-2-5-free.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.5 Draft Mode, Extend, Reframe and 1080p Guide</title>
+    <link href="https://www.krea.ai/blog/seedance-2-5-draft-mode-extend-reframe-guide"/>
+    <id>https://www.krea.ai/blog/seedance-2-5-draft-mode-extend-reframe-guide</id>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="seedance-2-5"/>
+    <summary>How Seedance 2.5 draft mode, video extension, reframing, and video editing work on Krea, plus its real resolution limit (1080p) and how to get 4K.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/seedance-2-5-draft-mode-extend-reframe-guide.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.5 Pricing: What Each Video Costs (2026)</title>
+    <link href="https://www.krea.ai/blog/seedance-2-5-pricing-cost-per-video"/>
+    <id>https://www.krea.ai/blog/seedance-2-5-pricing-cost-per-video</id>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="seedance-2-5"/>
+    <summary>Seedance 2.5 pricing on Krea: compute-unit cost per second at 480p, 720p and 1080p, 5–30s clip tables, video-reference billing, draft mode and API.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/seedance-2-5-pricing-cost-per-video.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.5 Prompt Guide: How to Write Prompts That Work</title>
+    <link href="https://www.krea.ai/blog/seedance-2-5-prompt-guide"/>
+    <id>https://www.krea.ai/blog/seedance-2-5-prompt-guide</id>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="seedance-2-5"/>
+    <summary>Seedance 2.5 prompt guide: the prompt formula, action and camera language, multi-shot timing, @ references, and audio cues, with annotated examples.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/seedance-2-5-prompt-guide.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.5 vs MiniMax H3: Tested Side by Side (2026)</title>
+    <link href="https://www.krea.ai/blog/seedance-2-5-vs-minimax-h3"/>
+    <id>https://www.krea.ai/blog/seedance-2-5-vs-minimax-h3</id>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="seedance-2-5"/>
+    <category term="minimax-h3"/>
+    <category term="minimax-h3max"/>
+    <summary>Seedance 2.5 vs MiniMax H3 and H3 Max, tested on Krea with matched prompts: dialogue, action, clip length, references and cost per second.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/seedance-2-5-vs-minimax-h3.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedance 2.5 vs Wan 3.0: 30-Second AI Video, Tested</title>
+    <link href="https://www.krea.ai/blog/seedance-2-5-vs-wan-3-0"/>
+    <id>https://www.krea.ai/blog/seedance-2-5-vs-wan-3-0</id>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="seedance-2-5"/>
+    <category term="wan30"/>
+    <summary>Seedance 2.5 vs Wan 3.0, tested on Krea with matched prompts: dialogue, action, a 20-second one-take, references, audio and cost per second.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/seedance-2-5-vs-wan-3-0.webp" type="image/webp"/>
+  </entry>
   <entry>
     <title>Multiplayer Nodes: Build Krea Workflows Together, Live</title>
     <link href="https://www.krea.ai/blog/multiplayer-nodes"/>
@@ -524,98 +622,5 @@
     <category term="guides"/>
     <summary>Higgsfield's free plan has 0 credits and no video; paid plans run $19 to $129 a month. Side-by-side table of Higgsfield, Runway and Krea free tiers and prices.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/what-is-higgsfield-ai-pricing-free-plan-and-alternatives-in-2026.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Best AI Business Card and Invitation Card Makers in 2026: 5 Tools Compared</title>
-    <link href="https://www.krea.ai/blog/best-ai-business-card-and-invitation-card-makers-in-2026"/>
-    <id>https://www.krea.ai/blog/best-ai-business-card-and-invitation-card-makers-in-2026</id>
-    <updated>2026-09-09T00:00:00.000Z</updated>
-    <published>2026-09-09T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Compare the best business card and invitation card makers in 2026 — VistaPrint, Canva, Adobe Express, Looka, and Krea — by price and print fulfillment.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-ai-business-card-and-invitation-card-makers-in-2026.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>The Best AI PPT Maker in 2026: 5 Tools Compared</title>
-    <link href="https://www.krea.ai/blog/best-ai-ppt-maker-in-2026"/>
-    <id>https://www.krea.ai/blog/best-ai-ppt-maker-in-2026</id>
-    <updated>2026-09-09T00:00:00.000Z</updated>
-    <published>2026-09-09T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Gamma, Canva, Beautiful.ai, Microsoft Copilot, and Krea for slide visuals — free-tier limits, prices, and copy-paste prompts, verified September 2026.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-ai-ppt-maker-in-2026.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to Design a Banner or Infographic with AI in 2026: 5 Tools Compared</title>
-    <link href="https://www.krea.ai/blog/how-to-design-a-banner-or-infographic-with-ai-in-2026"/>
-    <id>https://www.krea.ai/blog/how-to-design-a-banner-or-infographic-with-ai-in-2026</id>
-    <updated>2026-09-09T00:00:00.000Z</updated>
-    <published>2026-09-09T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Compare Krea, Canva, Adobe Express, Piktochart, and Ideogram for banners and infographics in 2026 — price, free tier, and job fit.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/how-to-design-a-banner-or-infographic-with-ai-in-2026.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>What Is Krea Agent? A Plain Guide to Krea's Creative Production Agent (2026)</title>
-    <link href="https://www.krea.ai/blog/what-is-krea-agent"/>
-    <id>https://www.krea.ai/blog/what-is-krea-agent</id>
-    <updated>2026-09-08T00:00:00.000Z</updated>
-    <published>2026-09-08T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="krea agent"/>
-    <category term="ai agent"/>
-    <category term="creative production"/>
-    <category term="ai image generation"/>
-    <category term="ai video generation"/>
-    <summary>Krea Agent is an AI agent for creative production: describe the work, it picks the models, generates images, video, and audio, and organizes the results.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/what-is-krea-agent/agent/hero-krea-agents.jpg" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to Design a Poster with AI in 2026: 5 Tools Compared</title>
-    <link href="https://www.krea.ai/blog/how-to-design-a-poster-with-ai-in-2026"/>
-    <id>https://www.krea.ai/blog/how-to-design-a-poster-with-ai-in-2026</id>
-    <updated>2026-09-07T00:00:00.000Z</updated>
-    <published>2026-09-07T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>How to design a poster with AI in 2026 — compare Krea, Canva, Adobe Express, PosterMyWall, and VistaCreate by price, free tier, and what each is actually for.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-design-a-poster-with-ai-in-2026/agent/hero-v2.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to Design a T-Shirt with AI in 2026: 6 Tools Compared</title>
-    <link href="https://www.krea.ai/blog/how-to-design-a-t-shirt-with-ai-in-2026"/>
-    <id>https://www.krea.ai/blog/how-to-design-a-t-shirt-with-ai-in-2026</id>
-    <updated>2026-09-07T00:00:00.000Z</updated>
-    <published>2026-09-07T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>The best sites for AI t-shirt design in 2026 — Krea, Placeit, Kittl, Vexels, Printful, and Canva compared by quality, license, price, and limits.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-design-a-t-shirt-with-ai-in-2026/agent/hero-v2.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to Edit and Stylize a Photo with AI in 2026: 6 Tools Compared</title>
-    <link href="https://www.krea.ai/blog/how-to-edit-and-stylize-a-photo-with-ai-in-2026"/>
-    <id>https://www.krea.ai/blog/how-to-edit-and-stylize-a-photo-with-ai-in-2026</id>
-    <updated>2026-09-07T00:00:00.000Z</updated>
-    <published>2026-09-07T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Compare the best AI photo editors for stylizing a photo in 2026 — Krea Edit, Photoshop, Fotor, PicsArt, Luminar Neo, and Pixlr — by look, price, and control.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-edit-and-stylize-a-photo-with-ai-in-2026/agent/hero.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to Make a Wallpaper or Background Image with AI in 2026</title>
-    <link href="https://www.krea.ai/blog/how-to-make-a-wallpaper-or-background-image-with-ai-in-2026"/>
-    <id>https://www.krea.ai/blog/how-to-make-a-wallpaper-or-background-image-with-ai-in-2026</id>
-    <updated>2026-09-07T00:00:00.000Z</updated>
-    <published>2026-09-07T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>How to make a wallpaper or background image with AI — compare Krea, Wallpapers.com, Canva, Adobe Firefly, Bing Image Creator, and StarryAI, with prices.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-make-a-wallpaper-or-background-image-with-ai-in-2026/agent/hero.png" type="image/webp"/>
   </entry>
 </feed>
