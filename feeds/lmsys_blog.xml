@@ -18,6 +18,15 @@
     <category term="blog"/>
   </entry>
   <entry>
+    <title>miniTE Technical Report: Stable and Efficient Reinforcement Learning with Native NVFP4</title>
+    <link href="https://lmsys.org/blog/2026-10-25-minite"/>
+    <id>60c97b28495f0df57c4f018818b528ef</id>
+    <published>2026-10-25T00:00:00+00:00</published>
+    <updated>2026-10-25T00:00:00+00:00</updated>
+    <summary type="text">Native NVFP4 reinforcement learning must remain stable under quantization and execution error while delivering practical efficiency gains. We investigate late-training instability by examining quantization formats, activation scaling, KV-cache precision, and framework differences that affect policy probabilities.</summary>
+    <category term="technical"/>
+  </entry>
+  <entry>
     <title>More Than DeepInfer: What SGLang Delivers</title>
     <link href="https://lmsys.org/blog/2026-10-24-dsv41-deepinfer"/>
     <id>337b18c1bdc060db4a6c0b2509d8915a</id>

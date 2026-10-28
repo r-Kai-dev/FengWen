@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-10-16T00:00:00+00:00</updated>
+  <updated>2026-10-27T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Introducing the AI Chip Imports explorer</title>
+    <link href="https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer"/>
+    <id>9f3d55741426f86a4bc0ae06f26e70de</id>
+    <published>2026-10-27T00:00:00+00:00</published>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <summary type="text">Our explorer uses customs records to estimate national shares. Since 2022, 72% of AI compute has ended up in the US and about 10% in China, including chips China makes itself.</summary>
+    <category term="Update"/>
+  </entry>
   <entry>
     <title>Open-weight models trail closed models in cyber capabilities by 6–7 months</title>
     <link href="https://epoch.ai/data-insights/open-closed-cyber-eci-gap"/>
@@ -88,14 +97,5 @@
     <updated>2026-10-05T00:00:00+00:00</updated>
     <summary type="text">OpenAI researchers’ coding-agent usage, valued at API prices, has recently been doubling roughly every month, according to breakpoint fits.</summary>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>How many AI agents could run on the AI chips shipped through 2027?</title>
-    <link href="https://epoch.ai/publications/estimating-the-agent-population"/>
-    <id>f49bc8886144f4696049b75d276e12ed</id>
-    <published>2026-10-02T00:00:00+00:00</published>
-    <updated>2026-10-02T00:00:00+00:00</updated>
-    <summary type="text">Memory shipped through 2027 could run 33–171 million concurrent frontier-model agents, or billions using efficient open models. Epoch AI estimates inference capacity from HBM supply, serving benchmarks, and agent-hour costs.</summary>
-    <category term="Report"/>
   </entry>
 </feed>

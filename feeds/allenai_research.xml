@@ -4,21 +4,28 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-10-23T00:00:00+00:00</updated>
+  <updated>2026-10-27T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
   <entry>
-    <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-    <link href="https://allenai.org/blog/litpivot"/>
-    <id>0a93e049aa4c6d31d61ad7ff200c7501</id>
-    <published>2026-10-23T00:00:00+00:00</published>
-    <updated>2026-10-23T00:00:00+00:00</updated>
+    <title>Can we trust LLMs to judge whether a research idea is novel?</title>
+    <link href="https://allenai.org/blog/novelty-bench"/>
+    <id>8f4fe5ad1fd1efe5e967e8e24e265356</id>
+    <published>2026-10-27T00:00:00+00:00</published>
+    <updated>2026-10-27T00:00:00+00:00</updated>
   </entry>
   <entry>
     <title>A crop-mapping benchmark for the tropics</title>
     <link href="https://allenai.org/blog/planteur"/>
     <id>c0a9d6815212cc6293ee78eee8932b7e</id>
+    <published>2026-10-22T00:00:00+00:00</published>
+    <updated>2026-10-22T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
+    <link href="https://allenai.org/blog/olmoearth-v1-3"/>
+    <id>8d6302ce1a17ed05275e28995c127a8f</id>
     <published>2026-10-22T00:00:00+00:00</published>
     <updated>2026-10-22T00:00:00+00:00</updated>
   </entry>
@@ -56,12 +63,5 @@
     <id>f81a9694bf18806c3d46f887ac22fcbf</id>
     <published>2026-10-02T00:00:00+00:00</published>
     <updated>2026-10-02T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
-    <link href="https://allenai.org/blog/olmocore3"/>
-    <id>204b13cbd9b742fac0a026505da6c9dd</id>
-    <published>2026-10-01T00:00:00+00:00</published>
-    <updated>2026-10-01T00:00:00+00:00</updated>
   </entry>
 </feed>

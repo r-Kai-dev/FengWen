@@ -4,7 +4,17 @@
   <icon>https://fireworks.ai/favicon.ico</icon>
   <link href="https://fireworks.ai/blog"/>
   <id>https://fireworks.ai/blog</id>
-  <updated>2026-10-20T00:00:00+00:00</updated>
+  <updated>2026-10-22T00:00:00+00:00</updated>
+  <entry>
+    <title>Heidi trains and deploys NVIDIA Nemotron 3 Ultra on Fireworks</title>
+    <link href="https://fireworks.ai/blog/heidi-trains-and-deploys-nvidia-nemotron-3-ultra-on-fireworks"/>
+    <id>2b988a2026fa5b2725da162f1e199be9</id>
+    <published>2026-10-22T00:00:00+00:00</published>
+    <updated>2026-10-22T00:00:00+00:00</updated>
+    <summary type="text">Heidi post-trained NVIDIA Nemotron 3 Ultra on Fireworks and deploys it on NVIDIA Blackwell. ~54% win rate against the production frontier model with clinicians.</summary>
+    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/ca16777bd118aba1ad63d4446ac16aa32d3ef2a8-3200x1800.png&quot; alt=&quot;Heidi trains and deploys NVIDIA Nemotron 3 Ultra on Fireworks&quot; /&gt;
+&lt;p&gt;Heidi post-trained NVIDIA Nemotron 3 Ultra on Fireworks and deploys it on NVIDIA Blackwell. ~54% win rate against the production frontier model with clinicians.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Muse Spark Open on Fireworks: Meta’s open weights wodel, available on US serverless</title>
     <link href="https://fireworks.ai/blog/meta-muse-spark-open"/>
@@ -483,15 +493,5 @@
     <updated>2026-05-19T00:00:00+00:00</updated>
     <summary type="text">Best Open Source LLMs of May 2026: We Reviewed 7 Models</summary>
     <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/9557e447af01a9b49c5ea1393ee212c8bc0d2396-1600x900.png&quot; alt=&quot;Best Open Source LLMs of May 2026: We Reviewed 7 Models&quot; /&gt;</content>
-  </entry>
-  <entry>
-    <title>Innovative Solutions Rebuilds Enterprise Services Delivery with Fireworks</title>
-    <link href="https://fireworks.ai/blog/innovative-solutions"/>
-    <id>7d7a049b5a57549ecfab545568377c02</id>
-    <published>2026-05-05T00:00:00+00:00</published>
-    <updated>2026-05-05T00:00:00+00:00</updated>
-    <summary type="text">By powering DarcyIQ with Fireworks, Innovative Solutions transformed AI inference from a linear cost center into a predictable scaling layer for multi-agent services delivery, enabling faster cycles, higher throughput, and stable economics at billions of tokens per month.</summary>
-    <content type="html">&lt;img src=&quot;https://cdn.sanity.io/images/pv37i0yn/production/6cbed5389f54a0b1e191f8b84d3ee2939acb7888-5000x2813.png&quot; alt=&quot;Innovative Solutions Rebuilds Enterprise Services Delivery with Fireworks&quot; /&gt;
-&lt;p&gt;By powering DarcyIQ with Fireworks, Innovative Solutions transformed AI inference from a linear cost center into a predictable scaling layer for multi-agent services delivery, enabling faster cycles, higher throughput, and stable economics at billions of tokens per month.&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-10-23T00:00:00+00:00</updated>
+  <updated>2026-10-27T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>How to Detect Deepfake Videos: 10 Warning Signs and Verification Tips</title>
+    <link href="https://www.resemble.ai/resources/how-to-detect-deepfake-videos"/>
+    <id>757b170d7f0065ffbee9042bd7678dfe</id>
+    <published>2026-10-27T00:00:00+00:00</published>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <summary type="text">Learn how to detect deepfake videos using 10 warning signs, source verification, provenance checks, and AI detection tools, plus what visual clues can miss.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>The Deepfake Watchlist: Week of October 16–22, 2026</title>
     <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-october-16-22-2026"/>
@@ -106,15 +115,6 @@
     <updated>2026-10-05T00:00:00+00:00</updated>
     <summary type="text">Learn how real-time deepfake detection works in financial services across live calls, KYC, payments, and meetings, plus what teams should test before deployment.</summary>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>A defense lawyer asked if the recording could be AI. The answer used to take more time. Deepfake detection built into forensic analysis.</title>
-    <link href="https://www.resemble.ai/resources/a-defense-lawyer-asked-if-the-recording-could-be-ai-the-answer-used-to-take-more-time-deepfake-detection-built-into-forensic-analysis"/>
-    <id>e9fbce110ff26262fec0fac7949f8c17</id>
-    <published>2026-10-02T00:00:00+00:00</published>
-    <updated>2026-10-02T00:00:00+00:00</updated>
-    <summary type="text">See how JP French International uses Resemble Detect to screen forensic audio for AI-generated speech, helping its experts produce more reliable, defensible analysis.</summary>
-    <category term="Case study"/>
   </entry>
   <entry>
     <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>

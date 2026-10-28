@@ -4,16 +4,26 @@
   <icon>https://news.aibase.com/favicon.ico</icon>
   <link href="https://news.aibase.com/zh/daily"/>
   <id>https://news.aibase.com/zh/daily</id>
-  <updated>2026-10-26T18:09:31.781738+00:00</updated>
+  <updated>2026-10-27T16:09:38.634070+00:00</updated>
   <author>
     <name>AIBase</name>
   </author>
   <entry>
+    <title>AI日报：即梦AI上线“短剧工作室”；蚂蚁灵光2.0发布；千问App重磅上线三大核心学习功能</title>
+    <link href="https://news.aibase.com/zh/daily/31901"/>
+    <id>d421491b11d4e656607c2fd791bb910f</id>
+    <published>2026-10-27T16:09:38.634070+00:00</published>
+    <updated>2026-10-27T16:09:38.634070+00:00</updated>
+    <summary type="text">1、即梦AI上线“短剧工作室”，一站式打通全流程AI创作即梦AI将短剧创作流程高度整合，从剧本诊断到资产管理及团队协作形成闭环。官方测试显示语音生成较原方案快35%，支持多语种与实时输出，推动本地AI向自然语音交互演进。</summary>
+    <category term="AI Daily"/>
+    <category term="人工智能"/>
+  </entry>
+  <entry>
     <title>AI日报：Kimi就K3.1Pro限流致歉；小米发布开源硬件HachimoDock；MiniMax H3 登顶SuperCLUE总榜</title>
     <link href="https://news.aibase.com/zh/daily/31871"/>
     <id>64e78be9691d2377cc3cea05cd7d61d1</id>
-    <published>2026-10-26T18:09:31.781738+00:00</published>
-    <updated>2026-10-26T18:09:31.781738+00:00</updated>
+    <published>2026-10-27T00:09:38.634525+00:00</published>
+    <updated>2026-10-27T00:09:38.634525+00:00</updated>
     <summary type="text">1、Kimi就K3.1Pro限流致歉:全系订阅会员获25%额度补偿Kimi对K3.1Pro限流问题快速响应并透明补偿，额度重置方案兼顾公平，底层精简子Agent调用与输出长度的优化切中算力浪费痛点，体现AI服务商在复杂任务调度下精细化管理与用户体验平衡的积极态度。8、英伟达开源机器人数据引擎Flora:标注成本较GPT-6Astra降至125倍英伟达开源Flora数据引擎，以三个微调Qwen3.5模型实现动作边界检测、逐步评分与成功判断，标注成本低至每小时0.72美元，较GPT-6Astra最高降125倍，日均处理20万小时视频，补足开源机器人数据管道，但纯描述准确率仍有差距。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -22,8 +32,8 @@
     <title>AI日报：火山引擎发布Seedance2.5 4K；MiniMax开源M3.1 Flash；Canva推出Craft图像模型</title>
     <link href="https://news.aibase.com/zh/daily/31845"/>
     <id>141e24e2df23d8de3fb282fc0d429111</id>
-    <published>2026-10-24T00:09:31.791402+00:00</published>
-    <updated>2026-10-24T00:09:31.791402+00:00</updated>
+    <published>2026-10-24T00:09:38.634866+00:00</published>
+    <updated>2026-10-24T00:09:38.634866+00:00</updated>
     <summary type="text">1、火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片Seedance2.54K以样片到正片分工切入影视流程，10-bit色深与细节增强提升表演质感，但仅限企业试用，开放节奏待观察。8、谷歌推出ACE：给每个AI智能体配一台专属电脑，唤醒不到500毫秒谷歌ACE并非普通容器是面向智能体的专属微虚拟机，强化安全隔离和生命周期管理；500毫秒级恢复与快照复制优化了资源密度，为规模化AI智能体运行提供了可行基础设施。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -32,8 +42,8 @@
     <title>AI日报：ChatGPT上线锁定聊天功能；Ming-3.0-tts登顶国际评测双榜首；Mistral 发布 Voxtral 3 语音 Agent SDK</title>
     <link href="https://news.aibase.com/zh/daily/31782"/>
     <id>7a8f67e0c28abbea3efc1ca92a9cf219</id>
-    <published>2026-10-22T00:09:31.791882+00:00</published>
-    <updated>2026-10-22T00:09:31.791882+00:00</updated>
+    <published>2026-10-22T00:09:38.635227+00:00</published>
+    <updated>2026-10-22T00:09:38.635227+00:00</updated>
     <summary type="text">1、OpenAI重磅上线ChatGPT“锁定聊天”功能：四位数PIN码与生物识别双保险OpenAI推出的“锁定聊天”功能是隐私保护层面的实用改进，通过PIN码与生物识别双重验证机制，有效防范设备外借场景下的隐私泄露风险。头部产品凭借应用生态与多端协同能力构筑护城河，AI智能体正加速渗透并重塑日常办公流程，行业进入生态化竞争新阶段。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -195,16 +205,6 @@
     <published>2026-09-18T00:00:00+00:00</published>
     <updated>2026-09-18T00:00:00+00:00</updated>
     <summary type="text">1、千问上线Qwen3.8-Omni-Flash:1M上下文，30项评测平均提升超26%千问推出新一代全模态模型Qwen3.8-Omni-Flash，支持文本、图像、音频与视频输入及1M长上下文，性能在多项评测中显著提升。其搭载的豆包大模型支持语音对话和语义理解，同时提供开放API和OTA升级功能，为开发者提供了高性价比的实验平台。</summary>
-    <category term="AI Daily"/>
-    <category term="人工智能"/>
-  </entry>
-  <entry>
-    <title>AI日报：抖音新增“冒用声音”举报入口；Grok Build上线“长期记忆”功能；豆包联合火山引擎打造AI原生助手</title>
-    <link href="https://news.aibase.com/zh/daily/31136"/>
-    <id>0a9cbe261acc5b86fde57a41df988fb3</id>
-    <published>2026-09-17T00:00:00+00:00</published>
-    <updated>2026-09-17T00:00:00+00:00</updated>
-    <summary type="text">1、抖音新增“冒用声音”专属举报入口上线可核验维权机制反击AI合成侵权抖音上线“冒用声音”专属举报入口，升级维权机制以应对AI生成技术带来的新型权益保护问题。该工具在macOS和Windows桌面端开放，iOS和Android版本即将发布。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
   </entry>
