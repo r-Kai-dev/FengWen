@@ -45,6 +45,15 @@
     <category term="news"/>
   </entry>
   <entry>
+    <title>Training SWE agents with Miles on MI355X: taming long-tail trajectories and complex sandbox coordination</title>
+    <link href="https://lmsys.org/blog/2026-10-22-miles-mi355x-agentic-rl"/>
+    <id>7abbaa90c397be94e7ee7e902bbfc982</id>
+    <published>2026-10-22T00:00:00+00:00</published>
+    <updated>2026-10-22T00:00:00+00:00</updated>
+    <summary type="text">We trained Qwen3-30B-A3B-Instruct with fully asynchronous agentic RL on AMD Instinct MI355X using Miles, SGLang, Megatron-LM, and Harbor, nearly quadrupling its pass@1 score on a 100-task stratified subset of SWE-bench Verified, from 7.3% to 27.5%.</summary>
+    <category term="blog"/>
+  </entry>
+  <entry>
     <title>Elastic Expert Parallelism Scaling in SGLang: Growing a Live MoE Deployment with NIXL</title>
     <link href="https://lmsys.org/blog/2026-10-21-elastic-ep-scaling-nixl"/>
     <id>c6597308190f38245b1c3d84a47b726d</id>

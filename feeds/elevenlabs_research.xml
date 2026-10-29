@@ -4,10 +4,18 @@
   <icon>https://elevenlabs.io/favicon.ico</icon>
   <link href="https://elevenlabs.io/blog/category/research"/>
   <id>https://elevenlabs.io/blog/category/research</id>
-  <updated>2026-09-28T12:00:00+00:00</updated>
+  <updated>2026-10-28T12:00:00+00:00</updated>
   <author>
     <name>ElevenLabs</name>
   </author>
+  <entry>
+    <title>How your transcript knows where each word is spoken</title>
+    <link href="https://elevenlabs.io/blog/cue-aligner"/>
+    <id>4fda95563acd60abd4e08e8db105f5f5</id>
+    <published>2026-10-28T12:00:00+00:00</published>
+    <updated>2026-10-28T12:00:00+00:00</updated>
+    <category term="Research"/>
+  </entry>
   <entry>
     <title>Introducing Eleven v4, our most emotive model</title>
     <link href="https://elevenlabs.io/blog/eleven-v4"/>
@@ -142,14 +150,6 @@
     <id>0224e4324cf6b849b159bf390552304c</id>
     <published>2023-04-27T20:51:57+00:00</published>
     <updated>2023-04-27T20:51:57+00:00</updated>
-    <category term="Research"/>
-  </entry>
-  <entry>
-    <title>This Voice Doesn't Exist - Generative Voice AI</title>
-    <link href="https://elevenlabs.io/blog/enter-the-new-year-with-a-bang"/>
-    <id>c5c672a76cf1ddcc4ff94b1e75495307</id>
-    <published>2023-01-11T18:35:00+00:00</published>
-    <updated>2023-01-11T18:35:00+00:00</updated>
     <category term="Research"/>
   </entry>
 </feed>
