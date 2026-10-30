@@ -4,10 +4,28 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-10-27T00:00:00+00:00</updated>
+  <updated>2026-10-29T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>AI can turn security fixes into working exploits before users receive an update</title>
+    <link href="https://epoch.ai/publications/open-weight-models-patch-gap"/>
+    <id>48625841997834ae73f30a6fbe23dc52</id>
+    <published>2026-10-29T00:00:00+00:00</published>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <summary type="text">GLM 5.3 turned published-but-unshipped Firefox security fixes into working one-click exploits for six releases, at roughly $1,000 each.</summary>
+    <category term="Report"/>
+  </entry>
+  <entry>
+    <title>New global AI computing capacity is doubling every 9 months</title>
+    <link href="https://epoch.ai/data-insights/ai-computing-capacity-additions-doubling"/>
+    <id>0ccd5546cc5abe9d4a954c56298ffc3e</id>
+    <published>2026-10-29T00:00:00+00:00</published>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <summary type="text">The computing power of AI chips sold each quarter has grown about 2.5× per year since 2024, down from a surge in 2023.</summary>
+    <category term="Data Insight"/>
+  </entry>
   <entry>
     <title>Introducing the AI Chip Imports explorer</title>
     <link href="https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer"/>
@@ -79,23 +97,5 @@
     <updated>2026-10-06T00:00:00+00:00</updated>
     <summary type="text">China is 2.7× as exposed to semiconductor supply shocks as the US, Epoch AI estimates. Epoch traces chips through input-output tables to model the impact of a Taiwan shock and decoupling.</summary>
     <category term="Report"/>
-  </entry>
-  <entry>
-    <title>How do Chinese AI companies make money?</title>
-    <link href="https://epoch.ai/publications/how-do-chinese-ai-companies-make-money"/>
-    <id>96e40317c07947e45e4dd0514e619a34</id>
-    <published>2026-10-06T00:00:00+00:00</published>
-    <updated>2026-10-06T00:00:00+00:00</updated>
-    <summary type="text">China's six leading AI firms earn about 10% of OpenAI and Anthropic's combined AI revenue. Epoch AI examines their five revenue streams: consumer apps, model access, enterprise and government solutions, licensing fees, and indirect monetization through cloud and advertising.</summary>
-    <category term="Report"/>
-  </entry>
-  <entry>
-    <title>Coding-agent spending by OpenAI researchers is doubling roughly every month</title>
-    <link href="https://epoch.ai/data-insights/openai-coding-agent-spending"/>
-    <id>82b48469cd5223a841aea552fe85baee</id>
-    <published>2026-10-05T00:00:00+00:00</published>
-    <updated>2026-10-05T00:00:00+00:00</updated>
-    <summary type="text">OpenAI researchers’ coding-agent usage, valued at API prices, has recently been doubling roughly every month, according to breakpoint fits.</summary>
-    <category term="Data Insight"/>
   </entry>
 </feed>

@@ -4,10 +4,20 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-10-09</updated>
+  <updated>2026-10-29</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>FineART: Scale AIâs First Open-Source Robotics Dataset and Model</title>
+    <link href="https://labs.scale.com/blog/fineart"/>
+    <id>078bf9317502295139f46fef7b0a0a8f</id>
+    <published>2026-10-29</published>
+    <updated>2026-10-29</updated>
+    <summary type="text">Weâre releasing FineART-VLA, an open model co-developed with Hugging Face's LeRobot team. It builds upon FineART, Scaleâs first open-source robotics dataset, which includes 40,000 plus robot demonstrations.
+ — By Jade Choghari, Mansi Agarwal, Yusuf Umut Ciftci, Aseem Doriwala, Catherine Weaver, Jackson Lee, Pragna Mannam</summary>
+    <category term="Physical AI"/>
+  </entry>
   <entry>
     <title>DistressBench: A clinician-authored benchmark for how AI models handle users in distress</title>
     <link href="https://labs.scale.com/blog/distressbench"/>

@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-10-26T00:00:00+00:00</updated>
+  <updated>2026-10-29T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Training SWE agents with Miles on MI355X: taming long-tail trajectories and complex sandbox coordination</title>
+    <link href="https://lmsys.org/blog/2026-10-22-miles-mi355x-agentic-rl"/>
+    <id>7abbaa90c397be94e7ee7e902bbfc982</id>
+    <published>2026-10-29T00:00:00+00:00</published>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <summary type="text">We trained Qwen3-30B-A3B-Instruct with fully asynchronous agentic RL on AMD Instinct MI355X using Miles, SGLang, Megatron-LM, and Harbor, nearly quadrupling its pass@1 score on a 100-task stratified subset of SWE-bench Verified, from 7.3% to 27.5%.</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>SGLang security update: improving request isolation</title>
     <link href="https://lmsys.org/blog/2026-10-26-cf-security"/>
@@ -43,15 +52,6 @@
     <updated>2026-10-22T00:00:00+00:00</updated>
     <summary type="text">In collaboration with AWS and alongside the TorchNeuron launch, we are announcing the beta of the SGLang Trainium plugin, enabling both inference serving and RL rollouts on AWS Trainium.</summary>
     <category term="news"/>
-  </entry>
-  <entry>
-    <title>Training SWE agents with Miles on MI355X: taming long-tail trajectories and complex sandbox coordination</title>
-    <link href="https://lmsys.org/blog/2026-10-22-miles-mi355x-agentic-rl"/>
-    <id>7abbaa90c397be94e7ee7e902bbfc982</id>
-    <published>2026-10-22T00:00:00+00:00</published>
-    <updated>2026-10-22T00:00:00+00:00</updated>
-    <summary type="text">We trained Qwen3-30B-A3B-Instruct with fully asynchronous agentic RL on AMD Instinct MI355X using Miles, SGLang, Megatron-LM, and Harbor, nearly quadrupling its pass@1 score on a 100-task stratified subset of SWE-bench Verified, from 7.3% to 27.5%.</summary>
-    <category term="blog"/>
   </entry>
   <entry>
     <title>Elastic Expert Parallelism Scaling in SGLang: Growing a Live MoE Deployment with NIXL</title>

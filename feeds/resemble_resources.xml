@@ -4,10 +4,28 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-10-28T00:00:00+00:00</updated>
+  <updated>2026-10-29T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Agent Detection explained</title>
+    <link href="https://www.resemble.ai/resources/agent-detection-explained"/>
+    <id>88c6dc03e67002041e7ca73c907927fa</id>
+    <published>2026-10-29T00:00:00+00:00</published>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <summary type="text">AI agents are your newest visitors, and bot detectors can’t see them. See how Agent Detection from Resemble AI tells humans, bots, and agents apart.</summary>
+    <category term="Video"/>
+  </entry>
+  <entry>
+    <title>Introducing RAD-S1: a System One model for detecting AI agents that look human</title>
+    <link href="https://www.resemble.ai/resources/introducing-ai-agent-detection"/>
+    <id>fb799737c9e3bffee9755d33bea22577</id>
+    <published>2026-10-29T00:00:00+00:00</published>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <summary type="text">‍RAD-S1 reads how a visitor moves, types and clicks to tell people from AI agents, including agents built to look human. Here's how it works, how we tested it and where the results stop.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>How Insurers Use Deepfake Detection Tools to Prevent Claims Fraud</title>
     <link href="https://www.resemble.ai/resources/deepfake-detection-tools-insurance-industry"/>
@@ -97,50 +115,5 @@
     <updated>2026-10-08T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>They could hear the deepfake. They just couldn’t prove it. Forensic deepfake detection supporting legal cases</title>
-    <link href="https://www.resemble.ai/resources/they-could-hear-the-deepfake-they-just-couldnt-prove-it-forensic-deepfake-detection-supporting-legal-cases"/>
-    <id>93fb2f85b52c61f91a2651f9e984cd50</id>
-    <published>2026-10-07T00:00:00+00:00</published>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <summary type="text">A global investigations firm uses Resemble Detect to turn uncertain audio findings into documented evidence counsel can review and defend.</summary>
-    <category term="Case study"/>
-  </entry>
-  <entry>
-    <title>Guide to Deepfake Detection Technology: Everything You Need to Know in 2026</title>
-    <link href="https://www.resemble.ai/resources/deepfake-detection-technology-guide-2026"/>
-    <id>f161e6956533bf74a6c1e4b3387797cd</id>
-    <published>2026-10-06T00:00:00+00:00</published>
-    <updated>2026-10-06T00:00:00+00:00</updated>
-    <summary type="text">Learn how deepfake detection tech works in 2026, including image, video, and audio detection methods, limitations, and deployment considerations.</summary>
-    <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>Introducing DETECT-World: The First World Model for Deepfake Detection</title>
-    <link href="https://www.resemble.ai/resources/introducing-detect-world-the-first-world-model-for-deepfake-detection"/>
-    <id>ddf8fb07f1af03f7740f5d86dd55d955</id>
-    <published>2026-08-12T00:00:00+00:00</published>
-    <updated>2026-08-12T00:00:00+00:00</updated>
-    <summary type="text">DETECT-World is the first world model for deepfake detection — catching unseen generators by checking physics, not memorizing signatures. Audio, image, and video.</summary>
-    <category term="Research"/>
-  </entry>
-  <entry>
-    <title>The H1 2026 Deepfake Threat Report</title>
-    <link href="https://www.resemble.ai/resources/h1-2026-deepfake-threat-report"/>
-    <id>414d19a6c6e50b2bbea8292fd47a1cd1</id>
-    <published>2026-08-12T00:00:00+00:00</published>
-    <updated>2026-08-12T00:00:00+00:00</updated>
-    <summary type="text">Explore Resemble AI’s H1 2026 Deepfake Threat Report. Uncover key data on rising synthetic media attacks, fraud losses, and defense strategies for enterprise.</summary>
-    <category term="Report"/>
-  </entry>
-  <entry>
-    <title>Top 10 Deepfake Detection Tools for Enterprise Security in 2026</title>
-    <link href="https://www.resemble.ai/resources/top-10-deepfake-detection-tools-for-enterprise-security-in-2026"/>
-    <id>6b2c9e80a2979e2d4e028b33c98435be</id>
-    <published>2026-07-21T00:00:00+00:00</published>
-    <updated>2026-07-21T00:00:00+00:00</updated>
-    <summary type="text">A ranked comparison of the 10 best deepfake detection tools for enterprises in 2026, judged on independent benchmarks, real-time capability, and provenance.</summary>
-    <category term="Blog"/>
   </entry>
 </feed>
