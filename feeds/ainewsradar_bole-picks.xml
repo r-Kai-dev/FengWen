@@ -4,28 +4,16 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-10-29T20:08:31+00:00</updated>
+  <updated>2026-10-30T18:28:00+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience</title>
-    <link href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience"/>
-    <id>4e4a23fea0db9e28c945976898705701</id>
-    <published>2026-10-29T20:08:31+00:00</published>
-    <updated>2026-10-29T20:08:31+00:00</updated>
-    <summary type="text">Score: 0.778\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型</title>
-    <link href="https://x.com/Khazix0918/status/2115898252004622617"/>
-    <id>a9c3804ead789beb620c020ac35edcc7</id>
-    <published>2026-10-29T20:07:09+00:00</published>
-    <updated>2026-10-29T20:07:09+00:00</updated>
+    <title>Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应 / This incredible. Gemma 4 became the first LLM to run in space?</title>
+    <link href="https://x.com/_philschmid/status/2116235686445502608"/>
+    <id>26619c927712427a776934de5e2e5a26</id>
+    <published>2026-10-30T18:28:00+00:00</published>
+    <updated>2026-10-30T18:28:00+00:00</updated>
     <summary type="text">Score: 0.751\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
@@ -33,96 +21,46 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧 / Anthropic’s financials are surprisingly strong</title>
-    <link href="https://www.understandingai.org/p/anthropics-financials-are-surprisingly"/>
-    <id>2c4979c6305859e6b0f4e970520e8d3b</id>
-    <published>2026-10-29T19:10:41+00:00</published>
-    <updated>2026-10-29T19:10:41+00:00</updated>
-    <summary type="text">Score: 0.785\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Meta API 新增 Webhook IP 地址段 / Webhook IP ranges added to the Meta API</title>
-    <link href="https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api"/>
-    <id>9659e99d3ee51274afcdc8494c3a72f5</id>
-    <published>2026-10-29T17:14:38+00:00</published>
-    <updated>2026-10-29T17:14:38+00:00</updated>
-    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench / Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729</title>
-    <link href="https://x.com/TencentHunyuan/status/2115851165904814283"/>
-    <id>0d3b7572d8765b729c9e63d5f0b929c1</id>
-    <published>2026-10-29T17:00:03+00:00</published>
-    <updated>2026-10-29T17:00:03+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI</title>
-    <link href="https://openai.com/index/updated-model-spec"/>
-    <id>9e3ebe1e8e1cadccbb21f577b25fa0bc</id>
-    <published>2026-10-29T17:00:00+00:00</published>
-    <updated>2026-10-29T17:00:00+00:00</updated>
-    <summary type="text">Score: 0.840\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Wiz 分析智能体攻击的七大指纹与发展趋势 / The Rise of Agentic Attacks: What They Look Like, and Where They're Headed</title>
-    <link href="https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed"/>
-    <id>7a10c2c7296e7a9c1f3c39f291de5eed</id>
-    <published>2026-10-29T14:36:22+00:00</published>
-    <updated>2026-10-29T14:36:22+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!</title>
-    <link href="https://x.com/UnslothAI/status/2115812784189620265"/>
-    <id>f3ab2c83f7f8507e53fc8f66733176b5</id>
-    <published>2026-10-29T14:27:32+00:00</published>
-    <updated>2026-10-29T14:27:32+00:00</updated>
-    <summary type="text">Score: 0.764\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning</title>
-    <link href="https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning"/>
-    <id>f80826f41689615d711cf5230e247959</id>
-    <published>2026-10-29T14:21:49+00:00</published>
-    <updated>2026-10-29T14:21:49+00:00</updated>
-    <summary type="text">Score: 0.795\nSources: 2 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
+    <title>Google 的卫星 AI 服务器首次向地球发回响应 / Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
+    <link href="https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"/>
+    <id>26ab84e2a5b8d12e14077c97dbd194ad</id>
+    <published>2026-10-30T18:21:38+00:00</published>
+    <updated>2026-10-30T18:21:38+00:00</updated>
+    <summary type="text">Score: 0.607\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>nemotron-halloween</title>
+    <link href="https://huggingface.co/blog/nvidia/nemotron-halloween"/>
+    <id>434c26fc4e7a92e87aefcff7ac9a5923</id>
+    <published>2026-10-30T17:57:24+00:00</published>
+    <updated>2026-10-30T17:57:24+00:00</updated>
+    <summary type="text">Score: 0.851\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制 / Ultrathink</title>
+    <link href="https://x.com/adocomplete/status/2116224220539883992"/>
+    <id>142ba31f69598016ee0823246858e006</id>
+    <published>2026-10-30T17:42:26+00:00</published>
+    <updated>2026-10-30T17:42:26+00:00</updated>
+    <summary type="text">Score: 0.749\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI</title>
-    <link href="https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"/>
-    <id>528d25de80b0622d3127529715ccc2b2</id>
-    <published>2026-10-29T14:00:00+00:00</published>
-    <updated>2026-10-29T14:00:00+00:00</updated>
+    <title>Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问 / Google's AI Mode doesn't drive traffic &quot;for anybody,&quot; Reddit CEO Huffman warns the entire web</title>
+    <link href="https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web"/>
+    <id>612039f2980fee0ed1041d965d800e5a</id>
+    <published>2026-10-30T17:15:24+00:00</published>
+    <updated>2026-10-30T17:15:24+00:00</updated>
     <summary type="text">Score: 0.781\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
@@ -130,12 +68,137 @@
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Granite Switch 4.1.1 — 像更新软件一样更新模型 / Granite Switch 4.1.1 — Update models like you update software</title>
-    <link href="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"/>
-    <id>8e8de8ef0accda5bfc888d68bbc226b4</id>
-    <published>2026-10-29T13:37:07+00:00</published>
-    <updated>2026-10-29T13:37:07+00:00</updated>
-    <summary type="text">Score: 0.840\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears</title>
+    <link href="https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"/>
+    <id>4978d83daca4ba8739747bbafe8dca5e</id>
+    <published>2026-10-30T14:50:37.797000+00:00</published>
+    <updated>2026-10-30T14:50:37.797000+00:00</updated>
+    <summary type="text">Score: 0.825\nSources: 3 (AI HOT)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles"/>
+    <id>b083c14015b73f216cee2ee4e6f1feed</id>
+    <published>2026-10-30T13:11:05+00:00</published>
+    <updated>2026-10-30T13:11:05+00:00</updated>
+    <summary type="text">Score: 0.765\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元 / Our customers’ ambition is accelerating our growth</title>
+    <link href="https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth"/>
+    <id>86885a437224bfc2a0927286b4515ab1</id>
+    <published>2026-10-30T12:50:00+00:00</published>
+    <updated>2026-10-30T12:50:00+00:00</updated>
+    <summary type="text">Score: 0.722\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update</title>
+    <link href="https://epochai.substack.com/p/glm-patch-gap-exploit-firefox"/>
+    <id>bb83043f07e594b7ebecce6f85bc826e</id>
+    <published>2026-10-30T12:07:16+00:00</published>
+    <updated>2026-10-30T12:07:16+00:00</updated>
+    <summary type="text">Score: 0.760\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Knocket AI — 与来自网站或链接的访客聊天 / Knocket AI — Chat with visitors from your website or link</title>
+    <link href="https://www.producthunt.com/products/knocket-ai"/>
+    <id>567469d32a8215d4f006ee78678bb9c6</id>
+    <published>2026-10-30T11:24:54.434000+00:00</published>
+    <updated>2026-10-30T11:24:54.434000+00:00</updated>
+    <summary type="text">Score: 0.594\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务</title>
+    <link href="https://www.aibase.com/news/31991"/>
+    <id>adbae8e9c8d68d3a5423a0247a21856b</id>
+    <published>2026-10-30T11:24:26.289955+00:00</published>
+    <updated>2026-10-30T11:24:26.289955+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”</title>
+    <link href="https://www.aibase.com/news/31995"/>
+    <id>14aebe75f1f1462941adadcec0e1cc0e</id>
+    <published>2026-10-30T11:24:26.289955+00:00</published>
+    <updated>2026-10-30T11:24:26.289955+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师</title>
+    <link href="https://www.aibase.com/news/31994"/>
+    <id>f1cf10999727ea9a95852a77e0105716</id>
+    <published>2026-10-30T11:24:26.289955+00:00</published>
+    <updated>2026-10-30T11:24:26.289955+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑</title>
+    <link href="https://www.aibase.com/news/31992"/>
+    <id>44c2261c5225c6c688147ba0f4801a61</id>
+    <published>2026-10-30T11:24:26.289955+00:00</published>
+    <updated>2026-10-30T11:24:26.289955+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次</title>
+    <link href="https://www.aibase.com/news/31990"/>
+    <id>64c44c10e5502cf0b85be591c841e2a9</id>
+    <published>2026-10-30T11:24:26.289955+00:00</published>
+    <updated>2026-10-30T11:24:26.289955+00:00</updated>
+    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Anthropic 遭黑客入侵，Claude 开发者的笔记本电脑被植入远程访问木马 / Anthropic hacked to deliver remote access trojan to Claude developer laptops</title>
+    <link href="https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2?postPublishedType=initial"/>
+    <id>d4656282287ba1de2f10ffef9ad82d4f</id>
+    <published>2026-10-30T10:22:51+00:00</published>
+    <updated>2026-10-30T10:22:51+00:00</updated>
+    <summary type="text">Score: 0.586\nSources: 4 (Hacker News)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>让网站更容易表达对 AI 训练的偏好 / Making it easier for websites to express AI training preferences</title>
+    <link href="https://openai.com/index/helping-websites-express-ai-training-preferences"/>
+    <id>f6e04bdc686a2416b15d575b886ab5ed</id>
+    <published>2026-10-30T09:30:00+00:00</published>
+    <updated>2026-10-30T09:30:00+00:00</updated>
+    <summary type="text">Score: 0.823\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -143,46 +206,11 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"/>
-    <id>21f854326687e9b2a041052a8d93197f</id>
-    <published>2026-10-29T13:30:00+00:00</published>
-    <updated>2026-10-29T13:30:00+00:00</updated>
-    <summary type="text">Score: 0.771\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限</title>
-    <link href="https://www.aibase.com/news/31963"/>
-    <id>c5d4b07cd08f2c104b408d24d39534fd</id>
-    <published>2026-10-29T11:31:13.323788+00:00</published>
-    <updated>2026-10-29T11:31:13.323788+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务 / Google's AI search problem finally shows up in the earnings report, some investors believe</title>
-    <link href="https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe"/>
-    <id>16ea796c4b7018e8c263d5368aab7224</id>
-    <published>2026-10-29T10:16:34+00:00</published>
-    <updated>2026-10-29T10:16:34+00:00</updated>
-    <summary type="text">Score: 0.764\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>OpenAI 详解如何检测前沿模型失准行为 / How we detect frontier model misalignment</title>
-    <link href="https://openai.com/index/how-we-detect-frontier-model-misalignment"/>
-    <id>da3e31aca6e9bfa2835c2f4b2c6c3395</id>
-    <published>2026-10-29T09:00:00+00:00</published>
-    <updated>2026-10-29T09:00:00+00:00</updated>
+    <title>社区安全报告及面向青少年的新保护措施 / Community safety report and new protections for teens</title>
+    <link href="https://openai.com/index/community-safety-report-and-new-protections-for-teens"/>
+    <id>f0ae4dc784cda68b25f168121b0fb85d</id>
+    <published>2026-10-30T09:00:00+00:00</published>
+    <updated>2026-10-30T09:00:00+00:00</updated>
     <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -191,64 +219,24 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Ropes &amp; Gray如何用AI赋能交易尽职调查 / How Ropes &amp; Gray is developing AI for transactional diligence</title>
-    <link href="https://openai.com/index/ropes-gray-ai-diligence"/>
-    <id>d363d0edc0665a7a086905b31ee87397</id>
-    <published>2026-10-29T07:00:00+00:00</published>
-    <updated>2026-10-29T07:00:00+00:00</updated>
-    <summary type="text">Score: 0.817\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common</title>
+    <link href="https://www.platformer.news/thursday-newsletter-6"/>
+    <id>9186b25199aa4244d246f494b40ff57c</id>
+    <published>2026-10-30T00:51:00+00:00</published>
+    <updated>2026-10-30T00:51:00+00:00</updated>
+    <summary type="text">Score: 0.763\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
-    <category term="official"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>Codex CLI 0.166.0</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>aa910bc7fb7df554f04f84a6b6bc1ca3</id>
-    <published>2026-10-29T00:00:00+00:00</published>
-    <updated>2026-10-29T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.817\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
-    <link href="https://huggingface.co/blog/mistral-large4"/>
-    <id>c5c439d8ae30a2db5481b97905449af1</id>
-    <published>2026-10-29T00:00:00+00:00</published>
-    <updated>2026-10-29T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.811\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>宣布 Project ProtoStar：让公共资助的科学研究做好迎接 AI 的准备 / Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
-    <link href="https://huggingface.co/blog/announcing-project-protostar"/>
-    <id>d141be16ab293251f69ca1eef454ac69</id>
-    <published>2026-10-29T00:00:00+00:00</published>
-    <updated>2026-10-29T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.811\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</title>
-    <link href="https://www.ithome.com/1/019/268.htm"/>
-    <id>53a22944453a2a36d3e19fbf771ffbdb</id>
-    <published>2026-10-28T22:35:25.040000+00:00</published>
-    <updated>2026-10-28T22:35:25.040000+00:00</updated>
-    <summary type="text">Score: 0.743\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
+    <title>Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.</title>
+    <link href="https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big"/>
+    <id>374d1af69a1897cff18242f3f4d8a0c4</id>
+    <published>2026-10-29T23:42:22+00:00</published>
+    <updated>2026-10-29T23:42:22+00:00</updated>
+    <summary type="text">Score: 0.737\nSources: 1 (AI HOT)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>

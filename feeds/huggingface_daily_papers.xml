@@ -16,12 +16,32 @@
     <category term="paper"/>
   </entry>
   <entry>
+    <title>ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence</title>
+    <link href="https://arxiv.org/abs/2610.34283"/>
+    <id>4f3445fdd3be9ca0b16b56f45745c9eb</id>
+    <published>2026-10-24T20:00:00.000Z</published>
+    <updated>2026-10-24T20:00:00.000Z</updated>
+    <summary type="text">Training a spatial VLM to answer which side an object lies on does not require it to preserve the metric displacement that determines that answer, while supervision for a distance estimate may leave c... \u00b7 Upvotes: 420 \u00b7 GitHub Stars: 21 \u00b7 Authors: Yihao Hu, Yitong Lin, Pan Wang</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
     <title>StreamEval: Evaluating Interactive Streaming Video Generation Models</title>
     <link href="https://arxiv.org/abs/2610.28402"/>
     <id>2119f618149be409fde794ca286c9e73</id>
     <published>2026-10-19T20:00:00.000Z</published>
     <updated>2026-10-19T20:00:00.000Z</updated>
-    <summary type="text">As streaming video generation advances, enabling real-time interaction with generated video is becoming increasingly important. We introduce StreamEval, a unified benchmark for interactive streaming v... \u00b7 Upvotes: 658 \u00b7 GitHub Stars: 558 \u00b7 Authors: StreamEval Team</summary>
+    <summary type="text">As streaming video generation advances, enabling real-time interaction with generated video is becoming increasingly important. We introduce StreamEval, a unified benchmark for interactive streaming v... \u00b7 Upvotes: 658 \u00b7 GitHub Stars: 606 \u00b7 Authors: StreamEval Team</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>MOSS-Image Technical Report</title>
+    <link href="https://arxiv.org/abs/2610.23374"/>
+    <id>0c1052cbf5c5924076cef4a9e95bfe96</id>
+    <published>2026-10-15T20:00:00.000Z</published>
+    <updated>2026-10-15T20:00:00.000Z</updated>
+    <summary type="text">Recent closed-source image generation systems can produce diverse visual content from simple compositions to information-dense graphics, yet open-weight text-to-image models still struggle with dense ... \u00b7 Upvotes: 107 \u00b7 GitHub Stars: 2299 \u00b7 Authors: MOSI. AI</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +51,7 @@
     <id>fe372f6a58e0d0e3dec6598a27cbe575</id>
     <published>2026-10-14T20:00:00.000Z</published>
     <updated>2026-10-14T20:00:00.000Z</updated>
-    <summary type="text">Post-hoc image explanations usually show where a model looks using spatial heatmaps or indicate which channels matter using global channel scores. These separate views are limiting for multispectral d... \u00b7 Upvotes: 760 \u00b7 GitHub Stars: 51 \u00b7 Authors: Haotian Ma, Ruqi Yang, Philip Townsend</summary>
+    <summary type="text">Post-hoc image explanations usually show where a model looks using spatial heatmaps or indicate which channels matter using global channel scores. These separate views are limiting for multispectral d... \u00b7 Upvotes: 761 \u00b7 GitHub Stars: 51 \u00b7 Authors: Haotian Ma, Ruqi Yang, Philip Townsend</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +61,17 @@
     <id>ea78f8eea046eb78846479f67db59298</id>
     <published>2026-10-13T20:00:00.000Z</published>
     <updated>2026-10-13T20:00:00.000Z</updated>
-    <summary type="text">Existing long-horizon agent benchmarks often emphasize final task success while providing limited assessment of intermediate execution validity. Yet real-world business operations require agents to na... \u00b7 Upvotes: 497 \u00b7 GitHub Stars: 90 \u00b7 Authors: Enhan Zhao, Yongqi Tong, Xuejun Yu</summary>
+    <summary type="text">Existing long-horizon agent benchmarks often emphasize final task success while providing limited assessment of intermediate execution validity. Yet real-world business operations require agents to na... \u00b7 Upvotes: 497 \u00b7 GitHub Stars: 102 \u00b7 Authors: Enhan Zhao, Yongqi Tong, Xuejun Yu</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Jeva: System One Models from First Principles</title>
+    <link href="https://arxiv.org/abs/2610.18773"/>
+    <id>da31e4001ee621d46acbf3bc8e8a7a0c</id>
+    <published>2026-10-12T20:00:00.000Z</published>
+    <updated>2026-10-12T20:00:00.000Z</updated>
+    <summary type="text">System one models enable direct, low-latency decision-making. Yet recent practice of predicting an answer from serialized text does not, by itself, respect the structure of a decision problem. We argu... \u00b7 Upvotes: 486 \u00b7 GitHub Stars: 222 \u00b7 Authors: Qi Li, Xinchao Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +91,7 @@
     <id>8e5f5d04101a157be48e20cd4958f1f3</id>
     <published>2026-10-08T20:00:00.000Z</published>
     <updated>2026-10-08T20:00:00.000Z</updated>
-    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 125 \u00b7 GitHub Stars: 21218 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
+    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 125 \u00b7 GitHub Stars: 21433 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +101,7 @@
     <id>cd7695280a5fdcd53eebb0adbd0746a3</id>
     <published>2026-10-06T20:00:00.000Z</published>
     <updated>2026-10-06T20:00:00.000Z</updated>
-    <summary type="text">Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con... \u00b7 Upvotes: 110 \u00b7 GitHub Stars: 2849 \u00b7 Authors: Wei Huang, Bohan Zhang, Chenzhi Liu</summary>
+    <summary type="text">Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con... \u00b7 Upvotes: 110 \u00b7 GitHub Stars: 2852 \u00b7 Authors: Wei Huang, Bohan Zhang, Chenzhi Liu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +111,7 @@
     <id>d9f164840f9b3f2476492fc6ddcb41bc</id>
     <published>2026-10-05T20:00:00.000Z</published>
     <updated>2026-10-05T20:00:00.000Z</updated>
-    <summary type="text">Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation t... \u00b7 Upvotes: 118 \u00b7 GitHub Stars: 2852 \u00b7 Authors: Guangyi Liu, Yong Liu, Jiangning Zhang</summary>
+    <summary type="text">Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation t... \u00b7 Upvotes: 118 \u00b7 GitHub Stars: 2899 \u00b7 Authors: Guangyi Liu, Yong Liu, Jiangning Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,27 +121,7 @@
     <id>180c4cf0e3e956cc7fd106b7c7990e05</id>
     <published>2026-10-04T20:00:00.000Z</published>
     <updated>2026-10-04T20:00:00.000Z</updated>
-    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 2972 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>In-Context Learning for Robots: Methods and Applications</title>
-    <link href="https://arxiv.org/abs/2609.36012"/>
-    <id>35cf4bfe0f3ae6e3174ec34bba12a47e</id>
-    <published>2026-09-27T20:00:00.000Z</published>
-    <updated>2026-09-27T20:00:00.000Z</updated>
-    <summary type="text">General-purpose robots must infer what a new task requires and translate that understanding into appropriate physical action. In-context learning (ICL) for robots supports this process by using demons... \u00b7 Upvotes: 443 \u00b7 GitHub Stars: 229 \u00b7 Authors: Haojian Huang, Zexi Li, Junhao Guo</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Raven: The Harness of Harnesses for Composable Agentic Intelligence</title>
-    <link href="https://arxiv.org/abs/2609.33439"/>
-    <id>d101ed881ca965ab09de53d4d5c7b66b</id>
-    <published>2026-09-26T20:00:00.000Z</published>
-    <updated>2026-09-26T20:00:00.000Z</updated>
-    <summary type="text">As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows. This transition exposes two challenges: increasing harness co... \u00b7 Upvotes: 658 \u00b7 GitHub Stars: 5897 \u00b7 Authors: EverMind AI</summary>
+    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 2976 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

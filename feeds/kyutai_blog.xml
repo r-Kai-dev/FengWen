@@ -4,10 +4,18 @@
   <icon>https://kyutai.org/favicon.ico</icon>
   <link href="https://kyutai.org/blog"/>
   <id>https://kyutai.org/blog</id>
-  <updated>2026-10-22T00:00:00+00:00</updated>
+  <updated>2026-10-28T00:00:00+00:00</updated>
   <author>
     <name>Kyutai</name>
   </author>
+  <entry>
+    <title>Rethinking Neural Thickets Without Weight Perturbations</title>
+    <link href="https://kyutai.org/blog/2026-10-28-logit-psv"/>
+    <id>04e0a4463d5e7c7a8e1bef8dcc85f153</id>
+    <published>2026-10-28T00:00:00+00:00</published>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <summary type="text">A random bias on the output logits matches or exceeds the gains of perturbing every weight of a language model.</summary>
+  </entry>
   <entry>
     <title>CADRE: Rethinking Video Autoencoders for Interactive World Models</title>
     <link href="https://kyutai.org/blog/2026-10-22-cadre"/>

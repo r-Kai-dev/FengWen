@@ -4,10 +4,28 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-10-29T00:00:00+00:00</updated>
+  <updated>2026-10-30T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>AI in Advertising 2026 Report</title>
+    <link href="https://www.resemble.ai/resources/2026-ai-in-advertising-report"/>
+    <id>1395ed9f44025c1dfe21bb0d03080f8b</id>
+    <published>2026-10-30T00:00:00+00:00</published>
+    <updated>2026-10-30T00:00:00+00:00</updated>
+    <summary type="text">We scanned 37,768 ad files on Facebook and Instagram. 1 in 11 carried AI-generated media, and only 0.06% of AI files disclosed it. Free download.</summary>
+    <category term="Report"/>
+  </entry>
+  <entry>
+    <title>The Deepfake Watchlist: Week of October 23–29, 2026</title>
+    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-october-23-29-2026"/>
+    <id>b3f1a80b58899fb757a5009c74c555a2</id>
+    <published>2026-10-30T00:00:00+00:00</published>
+    <updated>2026-10-30T00:00:00+00:00</updated>
+    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
+    <category term="Deepfake Watchlist"/>
+  </entry>
   <entry>
     <title>Agent Detection explained</title>
     <link href="https://www.resemble.ai/resources/agent-detection-explained"/>
@@ -97,23 +115,5 @@
     <updated>2026-10-13T00:00:00+00:00</updated>
     <summary type="text">Learn what AI detectors look for in text, images, video, and audio, how they calculate scores, why false results happen, and how to assess accuracy.</summary>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>Candidate Fraud Detection: Key Strategies for Hiring Teams</title>
-    <link href="https://www.resemble.ai/resources/candidate-fraud-detection-strategies-hiring-teams"/>
-    <id>99d0f1abafec2057aab48f0d22ad39d7</id>
-    <published>2026-10-12T00:00:00+00:00</published>
-    <updated>2026-10-12T00:00:00+00:00</updated>
-    <summary type="text">Learn how global candidate fraud detection helps hiring teams spot fake credentials, proxy interviews, and AI-driven recruitment fraud and validate skills</summary>
-    <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Watchlist: Week of October 2–8, 2026</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-october-2-8-2026"/>
-    <id>cafc6596e00517df0dffd92affd334eb</id>
-    <published>2026-10-08T00:00:00+00:00</published>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
-    <category term="Deepfake Watchlist"/>
   </entry>
 </feed>

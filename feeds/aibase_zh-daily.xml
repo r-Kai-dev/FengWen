@@ -4,16 +4,26 @@
   <icon>https://news.aibase.com/favicon.ico</icon>
   <link href="https://news.aibase.com/zh/daily"/>
   <id>https://news.aibase.com/zh/daily</id>
-  <updated>2026-10-29T17:31:01.561518+00:00</updated>
+  <updated>2026-10-30T17:16:52.763273+00:00</updated>
   <author>
     <name>AIBase</name>
   </author>
   <entry>
+    <title>AI日报：百度升级AI搜索；豆包工作正式接入DeepSeek；谷歌Gemini全面支持PDF、表格等内联编辑</title>
+    <link href="https://news.aibase.com/zh/daily/31993"/>
+    <id>7dc23c8e84eadd475fe7b42e2f43b38f</id>
+    <published>2026-10-30T17:16:52.763273+00:00</published>
+    <updated>2026-10-30T17:16:52.763273+00:00</updated>
+    <summary type="text">1、百度升级AI搜索及搜索AIAPI，调用价格低至4.9元/千次百度将AI搜索从问答工具向任务交付与实时交互延伸，覆盖170余种场景，GUI数据规模提升5倍，显示其构建服务生态意图；API低至4.9元/千次，降低开发者门槛，有望加速B端落地。8、英伟达发布语音转录大模型Nemotron3.5Transcribe，8人同时抢话也能精准识别英伟达开源Nemotron3.5Transcribe，采用MoE架构，340亿总参数/43亿激活，支持40语种转录、31语种互译、8说话人分离，在OpenASR等评测中WER领先，为语音技术生态提供高精度基座。</summary>
+    <category term="AI Daily"/>
+    <category term="人工智能"/>
+  </entry>
+  <entry>
     <title>AI日报：混元Hy4、Hy4flash将发布；Claude Code上线全新环境变量；智元发布具身智能原生OS灵渠1.0</title>
     <link href="https://news.aibase.com/zh/daily/31964"/>
     <id>e4c6909de30e08da4a0b1bf4184f1592</id>
-    <published>2026-10-29T17:31:01.561518+00:00</published>
-    <updated>2026-10-29T17:31:01.561518+00:00</updated>
+    <published>2026-10-30T00:16:52.763702+00:00</published>
+    <updated>2026-10-30T00:16:52.763702+00:00</updated>
     <summary type="text">1、腾讯混元Hy4、Hy4flash即将发布，模型能力、思维链效率全面提升腾讯混元Hy4在长程任务、思维链效率上全面升级，并首次引入视觉理解，补足多模态能力；Hy4flash主打性价比，通过Co-Design高频迭代，显示开源与落地双线并进，后续需关注实测表现。但暂不支持解绑，积分使用细节与后续产品扩展仍需持续关注。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -22,8 +32,8 @@
     <title>AI日报：DeepMind发布世界模型Genie4；WorkBuddy上线远程控制；DeepSeek V5 惊现官方代码库</title>
     <link href="https://news.aibase.com/zh/daily/31930"/>
     <id>8a077149a952203e8f87646b738b60fb</id>
-    <published>2026-10-29T00:31:01.561910+00:00</published>
-    <updated>2026-10-29T00:31:01.561910+00:00</updated>
+    <published>2026-10-29T00:16:52.764009+00:00</published>
+    <updated>2026-10-29T00:16:52.764009+00:00</updated>
     <summary type="text">1、谷歌DeepMind发布实时交互世界模型Genie4加速具身智能与多模态模拟演进Genie4将真实感渲染、原生音频与Gemini推理整合，实现实时可控的世界模拟，是从生成视频向交互式世界引擎的关键跃迁。综艺与大屏云电视基本盘稳固，内容技术双轮驱动格局初现。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -32,8 +42,8 @@
     <title>AI日报：即梦AI上线“短剧工作室”；蚂蚁灵光2.0发布；千问App重磅上线三大核心学习功能</title>
     <link href="https://news.aibase.com/zh/daily/31901"/>
     <id>d421491b11d4e656607c2fd791bb910f</id>
-    <published>2026-10-28T00:31:01.562207+00:00</published>
-    <updated>2026-10-28T00:31:01.562207+00:00</updated>
+    <published>2026-10-28T00:16:52.764311+00:00</published>
+    <updated>2026-10-28T00:16:52.764311+00:00</updated>
     <summary type="text">1、即梦AI上线“短剧工作室”，一站式打通全流程AI创作即梦AI将短剧创作流程高度整合，从剧本诊断到资产管理及团队协作形成闭环。官方测试显示语音生成较原方案快35%，支持多语种与实时输出，推动本地AI向自然语音交互演进。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -42,8 +52,8 @@
     <title>AI日报：Kimi就K3.1Pro限流致歉；小米发布开源硬件HachimoDock；MiniMax H3 登顶SuperCLUE总榜</title>
     <link href="https://news.aibase.com/zh/daily/31871"/>
     <id>64e78be9691d2377cc3cea05cd7d61d1</id>
-    <published>2026-10-27T00:31:01.562486+00:00</published>
-    <updated>2026-10-27T00:31:01.562486+00:00</updated>
+    <published>2026-10-27T00:16:52.764612+00:00</published>
+    <updated>2026-10-27T00:16:52.764612+00:00</updated>
     <summary type="text">1、Kimi就K3.1Pro限流致歉:全系订阅会员获25%额度补偿Kimi对K3.1Pro限流问题快速响应并透明补偿，额度重置方案兼顾公平，底层精简子Agent调用与输出长度的优化切中算力浪费痛点，体现AI服务商在复杂任务调度下精细化管理与用户体验平衡的积极态度。8、英伟达开源机器人数据引擎Flora:标注成本较GPT-6Astra降至125倍英伟达开源Flora数据引擎，以三个微调Qwen3.5模型实现动作边界检测、逐步评分与成功判断，标注成本低至每小时0.72美元，较GPT-6Astra最高降125倍，日均处理20万小时视频，补足开源机器人数据管道，但纯描述准确率仍有差距。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -52,8 +62,8 @@
     <title>AI日报：火山引擎发布Seedance2.5 4K；MiniMax开源M3.1 Flash；Canva推出Craft图像模型</title>
     <link href="https://news.aibase.com/zh/daily/31845"/>
     <id>141e24e2df23d8de3fb282fc0d429111</id>
-    <published>2026-10-24T00:31:01.562757+00:00</published>
-    <updated>2026-10-24T00:31:01.562757+00:00</updated>
+    <published>2026-10-23T00:00:00+00:00</published>
+    <updated>2026-10-23T00:00:00+00:00</updated>
     <summary type="text">1、火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片Seedance2.54K以样片到正片分工切入影视流程，10-bit色深与细节增强提升表演质感，但仅限企业试用，开放节奏待观察。8、谷歌推出ACE：给每个AI智能体配一台专属电脑，唤醒不到500毫秒谷歌ACE并非普通容器是面向智能体的专属微虚拟机，强化安全隔离和生命周期管理；500毫秒级恢复与快照复制优化了资源密度，为规模化AI智能体运行提供了可行基础设施。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -195,16 +205,6 @@
     <published>2026-09-22T00:00:00+00:00</published>
     <updated>2026-09-22T00:00:00+00:00</updated>
     <summary type="text">1、SpaceXAI最强模型Grok4.7上线：长任务能力拉满，价格只有旗舰一半SpaceXAI推出的Grok4.7模型在长任务处理、专业领域性能和安全性方面均有显著提升，同时保持了较低的价格，为编程与知识工作提供了强大的支持。8、小米18Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机小米18Pro系列在影像、硬件和性能方面均有显著提升，展现了强大的技术实力。</summary>
-    <category term="AI Daily"/>
-    <category term="人工智能"/>
-  </entry>
-  <entry>
-    <title>AI日报：千问开源 Qwen-Image-2.1；Claude Opus5.5疑遭内测泄露；智谱MaaS将上线数据不留存机制</title>
-    <link href="https://news.aibase.com/zh/daily/31235"/>
-    <id>ea45e268f69879afc949c51b1b36e4af</id>
-    <published>2026-09-21T00:00:00+00:00</published>
-    <updated>2026-09-21T00:00:00+00:00</updated>
-    <summary type="text">1、通义千问开源Qwen-Image-2.1:7B参数实现文生图与图像编辑一体化通义千问团队开源了新一代图像模型Qwen-Image-2.1，该模型以7B参数实现文生图与图像编辑一体化，具备透明图像生成、多图输入编辑等核心功能，显著提升了生成效果与推理效率。8、ZCode道歉并开源:阿里云OSS已清空，RepoWiki功能已下线ZCode团队针对社区反馈的安全问题发布公开致歉与整改说明，宣布开源代码并邀请第三方机构进行安全审计，以重建用户信任。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
   </entry>

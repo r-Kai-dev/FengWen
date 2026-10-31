@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-10-29T00:00:00+00:00</updated>
+  <updated>2026-10-30T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>LLM use is acknowledged almost as often as specialized AI tools in biology preprints</title>
+    <link href="https://epoch.ai/data-insights/biorxiv-llms-vs-ai-tools"/>
+    <id>6542059afeb4a0deed1407d15322721c</id>
+    <published>2026-10-30T00:00:00+00:00</published>
+    <updated>2026-10-30T00:00:00+00:00</updated>
+    <summary type="text">17% of biology preprints acknowledge LLM use, nearly matching specialized tools like AlphaFold. Epoch AI analyzes trends in AI acknowledgment in research.</summary>
+    <category term="Data Insight"/>
+  </entry>
   <entry>
     <title>AI can turn security fixes into working exploits before users receive an update</title>
     <link href="https://epoch.ai/publications/open-weight-models-patch-gap"/>
@@ -88,14 +97,5 @@
     <updated>2026-10-07T00:00:00+00:00</updated>
     <summary type="text">June and September polls from Epoch AI/Ipsos show no detectable increase in the share of US adults experiencing cyber incidents</summary>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>China is more exposed to semiconductor supply-chain disruptions than the US</title>
-    <link href="https://epoch.ai/publications/china-us-semiconductor-supply-chain-exposure"/>
-    <id>a24b5c0f0e04aa035d12ace272f394cd</id>
-    <published>2026-10-06T00:00:00+00:00</published>
-    <updated>2026-10-06T00:00:00+00:00</updated>
-    <summary type="text">China is 2.7× as exposed to semiconductor supply shocks as the US, Epoch AI estimates. Epoch traces chips through input-output tables to model the impact of a Taiwan shock and decoupling.</summary>
-    <category term="Report"/>
   </entry>
 </feed>
