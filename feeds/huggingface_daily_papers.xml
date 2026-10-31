@@ -11,57 +11,37 @@
     <id>ed86cb48cae72e9a3386476b0a87f724</id>
     <published>2026-10-25T20:00:00.000Z</published>
     <updated>2026-10-25T20:00:00.000Z</updated>
-    <summary type="text">Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternativ... \u00b7 Upvotes: 33 \u00b7 GitHub Stars: 5220 \u00b7 Authors: Shuo Shen, Guangran Cheng, Chengqi Lyu</summary>
+    <summary type="text">Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternativ... \u00b7 Upvotes: 34 \u00b7 GitHub Stars: 5220 \u00b7 Authors: Shuo Shen, Guangran Cheng, Chengqi Lyu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
   <entry>
-    <title>ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence</title>
-    <link href="https://arxiv.org/abs/2610.34283"/>
-    <id>4f3445fdd3be9ca0b16b56f45745c9eb</id>
-    <published>2026-10-24T20:00:00.000Z</published>
-    <updated>2026-10-24T20:00:00.000Z</updated>
-    <summary type="text">Training a spatial VLM to answer which side an object lies on does not require it to preserve the metric displacement that determines that answer, while supervision for a distance estimate may leave c... \u00b7 Upvotes: 420 \u00b7 GitHub Stars: 21 \u00b7 Authors: Yihao Hu, Yitong Lin, Pan Wang</summary>
+    <title>Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution</title>
+    <link href="https://arxiv.org/abs/2610.32285"/>
+    <id>ec560b5deeab83d7783b2ca7ff1c7008</id>
+    <published>2026-10-22T20:00:00.000Z</published>
+    <updated>2026-10-22T20:00:00.000Z</updated>
+    <summary type="text">LLM agents are increasingly used to solve real-world problems, and their effectiveness depends on both the underlying models and the harnesses that support their operation. However, most existing benc... \u00b7 Upvotes: 201 \u00b7 GitHub Stars: 23 \u00b7 Authors: Zhiyong Cao, Hengjie Zhu, Yongxin Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
   <entry>
-    <title>StreamEval: Evaluating Interactive Streaming Video Generation Models</title>
-    <link href="https://arxiv.org/abs/2610.28402"/>
-    <id>2119f618149be409fde794ca286c9e73</id>
-    <published>2026-10-19T20:00:00.000Z</published>
-    <updated>2026-10-19T20:00:00.000Z</updated>
-    <summary type="text">As streaming video generation advances, enabling real-time interaction with generated video is becoming increasingly important. We introduce StreamEval, a unified benchmark for interactive streaming v... \u00b7 Upvotes: 658 \u00b7 GitHub Stars: 606 \u00b7 Authors: StreamEval Team</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>MOSS-Image Technical Report</title>
-    <link href="https://arxiv.org/abs/2610.23374"/>
-    <id>0c1052cbf5c5924076cef4a9e95bfe96</id>
+    <title>OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners</title>
+    <link href="https://arxiv.org/abs/2610.24087"/>
+    <id>81459b8c63c16137b85f91399c8379f8</id>
     <published>2026-10-15T20:00:00.000Z</published>
     <updated>2026-10-15T20:00:00.000Z</updated>
-    <summary type="text">Recent closed-source image generation systems can produce diverse visual content from simple compositions to information-dense graphics, yet open-weight text-to-image models still struggle with dense ... \u00b7 Upvotes: 107 \u00b7 GitHub Stars: 2299 \u00b7 Authors: MOSI. AI</summary>
+    <summary type="text">Can large language model (LLM) agents deliver expert-level operations research (OR) solutions directly from original client materials, without prior expert reformulation? Existing OR benchmarks typica... \u00b7 Upvotes: 225 \u00b7 GitHub Stars: 41 \u00b7 Authors: Peisong Wang, Feixue Liu, Yize Meng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
   <entry>
-    <title>Spectral-Spatial Interpretation</title>
-    <link href="https://arxiv.org/abs/2610.21114"/>
-    <id>fe372f6a58e0d0e3dec6598a27cbe575</id>
+    <title>TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents</title>
+    <link href="https://arxiv.org/abs/2610.22732"/>
+    <id>6c2dc67f7784b53354883c15aad296eb</id>
     <published>2026-10-14T20:00:00.000Z</published>
     <updated>2026-10-14T20:00:00.000Z</updated>
-    <summary type="text">Post-hoc image explanations usually show where a model looks using spatial heatmaps or indicate which channels matter using global channel scores. These separate views are limiting for multispectral d... \u00b7 Upvotes: 761 \u00b7 GitHub Stars: 51 \u00b7 Authors: Haotian Ma, Ruqi Yang, Philip Townsend</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business</title>
-    <link href="https://arxiv.org/abs/2610.20424"/>
-    <id>ea78f8eea046eb78846479f67db59298</id>
-    <published>2026-10-13T20:00:00.000Z</published>
-    <updated>2026-10-13T20:00:00.000Z</updated>
-    <summary type="text">Existing long-horizon agent benchmarks often emphasize final task success while providing limited assessment of intermediate execution validity. Yet real-world business operations require agents to na... \u00b7 Upvotes: 497 \u00b7 GitHub Stars: 102 \u00b7 Authors: Enhan Zhao, Yongqi Tong, Xuejun Yu</summary>
+    <summary type="text">Advances in frontier coding agents have sharply increased the token costs of AI-assisted software engineering. Their token efficiency is typically evaluated on isolated tasks, whereas real-world devel... \u00b7 Upvotes: 6 \u00b7 GitHub Stars: 2569 \u00b7 Authors: Aaron J. Li, Weijia Xu, Chandan Singh</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,17 +51,7 @@
     <id>da31e4001ee621d46acbf3bc8e8a7a0c</id>
     <published>2026-10-12T20:00:00.000Z</published>
     <updated>2026-10-12T20:00:00.000Z</updated>
-    <summary type="text">System one models enable direct, low-latency decision-making. Yet recent practice of predicting an answer from serialized text does not, by itself, respect the structure of a decision problem. We argu... \u00b7 Upvotes: 486 \u00b7 GitHub Stars: 222 \u00b7 Authors: Qi Li, Xinchao Wang</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding</title>
-    <link href="https://arxiv.org/abs/2610.18829"/>
-    <id>3fab5d14b99de6e164d9210eb6440dca</id>
-    <published>2026-10-12T20:00:00.000Z</published>
-    <updated>2026-10-12T20:00:00.000Z</updated>
-    <summary type="text">With the rapid development of multimodal large language models (MLLMs), evaluating their video understanding capabilities has become increasingly important. Existing video understanding benchmarks cov... \u00b7 Upvotes: 751 \u00b7 GitHub Stars: 122 \u00b7 Authors: Xuyang Liu, Shihao Wang, Xinyu Wei</summary>
+    <summary type="text">System one models enable direct, low-latency decision-making. Yet recent practice of predicting an answer from serialized text does not, by itself, respect the structure of a decision problem. We argu... \u00b7 Upvotes: 375 \u00b7 GitHub Stars: 223 \u00b7 Authors: Qi Li, Xinchao Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,7 +61,7 @@
     <id>8e5f5d04101a157be48e20cd4958f1f3</id>
     <published>2026-10-08T20:00:00.000Z</published>
     <updated>2026-10-08T20:00:00.000Z</updated>
-    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 125 \u00b7 GitHub Stars: 21433 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
+    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 85 \u00b7 GitHub Stars: 21576 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -101,7 +71,17 @@
     <id>cd7695280a5fdcd53eebb0adbd0746a3</id>
     <published>2026-10-06T20:00:00.000Z</published>
     <updated>2026-10-06T20:00:00.000Z</updated>
-    <summary type="text">Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con... \u00b7 Upvotes: 110 \u00b7 GitHub Stars: 2852 \u00b7 Authors: Wei Huang, Bohan Zhang, Chenzhi Liu</summary>
+    <summary type="text">Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con... \u00b7 Upvotes: 101 \u00b7 GitHub Stars: 2856 \u00b7 Authors: Wei Huang, Bohan Zhang, Chenzhi Liu</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight</title>
+    <link href="https://arxiv.org/abs/2610.08077"/>
+    <id>20640c4597f7b086e27b0bf656d358f5</id>
+    <published>2026-10-05T20:00:00.000Z</published>
+    <updated>2026-10-05T20:00:00.000Z</updated>
+    <summary type="text">Reinforcement learning with verifiable rewards (RLVR) turns agent experience into learning signals primarily through scalar outcome rewards after interaction. For group-relative objectives, however, t... \u00b7 Upvotes: 187 \u00b7 GitHub Stars: 13 \u00b7 Authors: Haoxiang Zhang, Qinglin Chen, Hiroaki Hayashi</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -111,7 +91,7 @@
     <id>d9f164840f9b3f2476492fc6ddcb41bc</id>
     <published>2026-10-05T20:00:00.000Z</published>
     <updated>2026-10-05T20:00:00.000Z</updated>
-    <summary type="text">Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation t... \u00b7 Upvotes: 118 \u00b7 GitHub Stars: 2899 \u00b7 Authors: Guangyi Liu, Yong Liu, Jiangning Zhang</summary>
+    <summary type="text">Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation t... \u00b7 Upvotes: 107 \u00b7 GitHub Stars: 2941 \u00b7 Authors: Guangyi Liu, Yong Liu, Jiangning Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -121,7 +101,27 @@
     <id>180c4cf0e3e956cc7fd106b7c7990e05</id>
     <published>2026-10-04T20:00:00.000Z</published>
     <updated>2026-10-04T20:00:00.000Z</updated>
-    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 2976 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
+    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 12 \u00b7 GitHub Stars: 2979 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents</title>
+    <link href="https://arxiv.org/abs/2609.39102"/>
+    <id>d6e2d149be82641d49bf0fe1c966e1f5</id>
+    <published>2026-09-29T20:00:00.000Z</published>
+    <updated>2026-09-29T20:00:00.000Z</updated>
+    <summary type="text">Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we c... \u00b7 Upvotes: 225 \u00b7 Authors: Meijia Chen, Hao Li, Zheng Lu</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence</title>
+    <link href="https://arxiv.org/abs/2609.34563"/>
+    <id>5c168da801f24d739530639a7312d9fd</id>
+    <published>2026-09-27T20:00:00.000Z</published>
+    <updated>2026-09-27T20:00:00.000Z</updated>
+    <summary type="text">Latent visual reasoning (LVR) enables multimodal large language models (MLLMs) to perform intermediate computation in continuous latent tokens rather than expressing every reasoning step in words. How... \u00b7 Upvotes: 202 \u00b7 GitHub Stars: 50 \u00b7 Authors: Xi Xiao, Tianchen Zhao, Youngeun Kim</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
