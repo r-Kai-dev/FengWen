@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-10-29T00:00:00+00:00</updated>
+  <updated>2026-11-02T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>HiCache Across Multi-Parallelism and Distributed Serving</title>
+    <link href="https://lmsys.org/blog/2026-11-02-hicache-distributed-serving"/>
+    <id>f21a44dba553467c09a8811bfa769bc6</id>
+    <published>2026-11-02T00:00:00+00:00</published>
+    <updated>2026-11-02T00:00:00+00:00</updated>
+    <summary type="text">Agentic workloads repeatedly send long, mostly unchanged histories to the model. Radix cache reuses prefix KV in GPU memory, and HiCache extends that reuse to host memory and external storage.</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Training SWE agents with Miles on MI355X: taming long-tail trajectories and complex sandbox coordination</title>
     <link href="https://lmsys.org/blog/2026-10-22-miles-mi355x-agentic-rl"/>

@@ -4,10 +4,19 @@
   <icon>https://agents-last-exam.org/favicon.ico</icon>
   <link href="https://agents-last-exam.org/blogs"/>
   <id>https://agents-last-exam.org/blogs</id>
-  <updated>2026-06-14T00:00:00+00:00</updated>
+  <updated>2026-11-02T00:00:00+00:00</updated>
   <author>
     <name>Agents' Last Exam</name>
   </author>
+  <entry>
+    <title>Public Response: Verifier Check from Epoch AI</title>
+    <link href="https://agents-last-exam.org/blogs/verifier-check"/>
+    <id>9b4c5c130b13a560ceb8aed6410a30f7</id>
+    <published>2026-11-02T00:00:00+00:00</published>
+    <updated>2026-11-02T00:00:00+00:00</updated>
+    <summary type="text">Epoch AI flagged 22 ALE v1.1 tasks as scorable without the intended work. Each issue was found by attacking the verifier as a white box, and agents never see the verifier. Across 1,059 trajectories on the lax-grader and tampering tasks, no agent exploited it. Run-level evidence, per-task responses, and model scores on every flagged task.</summary>
+    <category term="Response"/>
+  </entry>
   <entry>
     <title>Agents’ Last Exam</title>
     <link href="https://agents-last-exam.org/blogs/job-ready-agents"/>

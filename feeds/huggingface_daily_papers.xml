@@ -11,7 +11,7 @@
     <id>77e934a3bcaa54fac4c33cc12e9cba8c</id>
     <published>2026-10-26T20:00:00.000Z</published>
     <updated>2026-10-26T20:00:00.000Z</updated>
-    <summary type="text">Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can ca... \u00b7 Upvotes: 152 \u00b7 Authors: Hanqing Wang, Zhaotian Cai, Ruichuan An</summary>
+    <summary type="text">Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can ca... \u00b7 Upvotes: 155 \u00b7 Authors: Hanqing Wang, Zhaotian Cai, Ruichuan An</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,17 +21,7 @@
     <id>ed86cb48cae72e9a3386476b0a87f724</id>
     <published>2026-10-25T20:00:00.000Z</published>
     <updated>2026-10-25T20:00:00.000Z</updated>
-    <summary type="text">Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternativ... \u00b7 Upvotes: 33 \u00b7 GitHub Stars: 5221 \u00b7 Authors: Shuo Shen, Guangran Cheng, Chengqi Lyu</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>MemT-1.0: Towards Memory-Native Evolution</title>
-    <link href="https://arxiv.org/abs/2610.26825"/>
-    <id>c962b7ffc0a6ed65d859b294d13c42d9</id>
-    <published>2026-10-18T20:00:00.000Z</published>
-    <updated>2026-10-18T20:00:00.000Z</updated>
-    <summary type="text">Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new... \u00b7 Upvotes: 142 \u00b7 GitHub Stars: 485 \u00b7 Authors: Zhiyu Li, Zeyu Zhang, Linyun Liu</summary>
+    <summary type="text">Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternativ... \u00b7 Upvotes: 33 \u00b7 GitHub Stars: 5222 \u00b7 Authors: Shuo Shen, Guangran Cheng, Chengqi Lyu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +31,7 @@
     <id>3ccaf14b33535bf47dbc010f652d30a1</id>
     <published>2026-10-14T20:00:00.000Z</published>
     <updated>2026-10-14T20:00:00.000Z</updated>
-    <summary type="text">GPT-6-Astra demonstrates a level of competence in robotic manipulation and navigation that challenges the conventional paradigm of building specialized models for individual tasks and embodiments. In ... \u00b7 Upvotes: 164 \u00b7 GitHub Stars: 351 \u00b7 Authors: SenseNova, Joint Research Team, Zhongang Cai</summary>
+    <summary type="text">GPT-6-Astra demonstrates a level of competence in robotic manipulation and navigation that challenges the conventional paradigm of building specialized models for individual tasks and embodiments. In ... \u00b7 Upvotes: 164 \u00b7 GitHub Stars: 370 \u00b7 Authors: SenseNova, Joint Research Team, Zhongang Cai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +41,17 @@
     <id>6c2dc67f7784b53354883c15aad296eb</id>
     <published>2026-10-14T20:00:00.000Z</published>
     <updated>2026-10-14T20:00:00.000Z</updated>
-    <summary type="text">Advances in frontier coding agents have sharply increased the token costs of AI-assisted software engineering. Their token efficiency is typically evaluated on isolated tasks, whereas real-world devel... \u00b7 Upvotes: 7 \u00b7 GitHub Stars: 3519 \u00b7 Authors: Aaron J. Li, Weijia Xu, Chandan Singh</summary>
+    <summary type="text">Advances in frontier coding agents have sharply increased the token costs of AI-assisted software engineering. Their token efficiency is typically evaluated on isolated tasks, whereas real-world devel... \u00b7 Upvotes: 9 \u00b7 GitHub Stars: 4490 \u00b7 Authors: Aaron J. Li, Weijia Xu, Chandan Singh</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business</title>
+    <link href="https://arxiv.org/abs/2610.20424"/>
+    <id>ea78f8eea046eb78846479f67db59298</id>
+    <published>2026-10-13T20:00:00.000Z</published>
+    <updated>2026-10-13T20:00:00.000Z</updated>
+    <summary type="text">Existing long-horizon agent benchmarks often emphasize final task success while providing limited assessment of intermediate execution validity. Yet real-world business operations require agents to na... \u00b7 Upvotes: 411 \u00b7 GitHub Stars: 124 \u00b7 Authors: Enhan Zhao, Yongqi Tong, Xuejun Yu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +61,7 @@
     <id>da31e4001ee621d46acbf3bc8e8a7a0c</id>
     <published>2026-10-12T20:00:00.000Z</published>
     <updated>2026-10-12T20:00:00.000Z</updated>
-    <summary type="text">System one models enable direct, low-latency decision-making. Yet recent practice of predicting an answer from serialized text does not, by itself, respect the structure of a decision problem. We argu... \u00b7 Upvotes: 163 \u00b7 GitHub Stars: 224 \u00b7 Authors: Qi Li, Xinchao Wang</summary>
+    <summary type="text">System one models enable direct, low-latency decision-making. Yet recent practice of predicting an answer from serialized text does not, by itself, respect the structure of a decision problem. We argu... \u00b7 Upvotes: 165 \u00b7 GitHub Stars: 224 \u00b7 Authors: Qi Li, Xinchao Wang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +71,7 @@
     <id>8e5f5d04101a157be48e20cd4958f1f3</id>
     <published>2026-10-08T20:00:00.000Z</published>
     <updated>2026-10-08T20:00:00.000Z</updated>
-    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 84 \u00b7 GitHub Stars: 21794 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
+    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 86 \u00b7 GitHub Stars: 22110 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +81,7 @@
     <id>cd7695280a5fdcd53eebb0adbd0746a3</id>
     <published>2026-10-06T20:00:00.000Z</published>
     <updated>2026-10-06T20:00:00.000Z</updated>
-    <summary type="text">Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con... \u00b7 Upvotes: 97 \u00b7 GitHub Stars: 2856 \u00b7 Authors: Wei Huang, Bohan Zhang, Chenzhi Liu</summary>
+    <summary type="text">Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con... \u00b7 Upvotes: 97 \u00b7 GitHub Stars: 2859 \u00b7 Authors: Wei Huang, Bohan Zhang, Chenzhi Liu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -101,7 +101,7 @@
     <id>d9f164840f9b3f2476492fc6ddcb41bc</id>
     <published>2026-10-05T20:00:00.000Z</published>
     <updated>2026-10-05T20:00:00.000Z</updated>
-    <summary type="text">Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation t... \u00b7 Upvotes: 103 \u00b7 GitHub Stars: 2980 \u00b7 Authors: Guangyi Liu, Yong Liu, Jiangning Zhang</summary>
+    <summary type="text">Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation t... \u00b7 Upvotes: 107 \u00b7 GitHub Stars: 3056 \u00b7 Authors: Guangyi Liu, Yong Liu, Jiangning Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -111,7 +111,7 @@
     <id>180c4cf0e3e956cc7fd106b7c7990e05</id>
     <published>2026-10-04T20:00:00.000Z</published>
     <updated>2026-10-04T20:00:00.000Z</updated>
-    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 12 \u00b7 GitHub Stars: 2982 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
+    <summary type="text">World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and co... \u00b7 Upvotes: 12 \u00b7 GitHub Stars: 2985 \u00b7 Authors: Chengtao Lv, Jinyang Du, Shuyi Feng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -121,7 +121,7 @@
     <id>d000e66430d07e05dc81197e475efd12</id>
     <published>2026-10-03T20:00:00.000Z</published>
     <updated>2026-10-03T20:00:00.000Z</updated>
-    <summary type="text">We present Kandinsky 6.0 Video, a family of foundation diffusion models for synchronized text-to-audio-video generation, comprising Kandinsky 6.0 Video Lite (3B parameters) and Kandinsky 6.0 Video Pro... \u00b7 Upvotes: 167 \u00b7 GitHub Stars: 351 \u00b7 Authors: Team Kandinsky, Julia Agafonova, Bulat Akhmatov</summary>
+    <summary type="text">We present Kandinsky 6.0 Video, a family of foundation diffusion models for synchronized text-to-audio-video generation, comprising Kandinsky 6.0 Video Lite (3B parameters) and Kandinsky 6.0 Video Pro... \u00b7 Upvotes: 167 \u00b7 GitHub Stars: 353 \u00b7 Authors: Team Kandinsky, Julia Agafonova, Bulat Akhmatov</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

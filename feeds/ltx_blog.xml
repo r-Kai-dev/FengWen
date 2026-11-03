@@ -4,10 +4,55 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-10-26T00:00:00+00:00</updated>
+  <updated>2026-11-01T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>Best AI VFX Tools In 2026: The Toolkit for Artists and Studios</title>
+    <link href="https://ltx.io/blog/ai-vfx-tools"/>
+    <id>8442b42a4ef49f391baa6d0a2f13110e</id>
+    <published>2026-11-01T00:00:00+00:00</published>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <summary type="text">AI VFX tools in LTX-2.5: Alpha Gen mattes, Layout to Render, SDR to HDR, Native HDR EXR, Refine &amp; Restore, Relight and inpainting, with inputs and limits.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Multi-Shot Prompting Guide for LTX-2.5</title>
+    <link href="https://ltx.io/blog/multi-shot-prompting"/>
+    <id>5ecfc397414abf4aa73ea39feda85fca</id>
+    <published>2026-10-31T00:00:00+00:00</published>
+    <updated>2026-10-31T00:00:00+00:00</updated>
+    <summary type="text">Multi-shot prompting for LTX-2.5: name each cut in prose, re-establish framing, carry identity and audio across cuts, and keep 2–4 shots per generation.</summary>
+    <category term="Prompting Guides"/>
+  </entry>
+  <entry>
+    <title>Lighting Prompt Guide For AI Video: Cinematic Lighting Prompts</title>
+    <link href="https://ltx.io/blog/lighting-prompt-guide"/>
+    <id>913b7bd32468177fe3a51b83f8c45456</id>
+    <published>2026-10-30T00:00:00+00:00</published>
+    <updated>2026-10-30T00:00:00+00:00</updated>
+    <summary type="text">Write cinematic lighting prompts for AI video with LTX-2.5: key, fill and rim light, high key and low key, golden hour, practicals and changing light.</summary>
+    <category term="Prompting Guides"/>
+  </entry>
+  <entry>
+    <title>World Models For Game Environment Generation</title>
+    <link href="https://ltx.io/blog/world-models-game-environments"/>
+    <id>9097748db9e63c7f417239d535a2ffed</id>
+    <published>2026-10-29T00:00:00+00:00</published>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <summary type="text">Build world models for game environment generation by fine-tuning LTX-2.5: pick a training mode, turn engine footage into data, and render long traversals.</summary>
+    <category term="Physical AI"/>
+  </entry>
+  <entry>
+    <title>How To Deblur A Video With AI: Fix Out-Of-Focus Footage</title>
+    <link href="https://ltx.io/blog/deblur-video"/>
+    <id>21790a364b3c12a4b525ed50ee11e53f</id>
+    <published>2026-10-27T00:00:00+00:00</published>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <summary type="text">Learn how to deblur a video with AI. Fix out-of-focus footage with the LTX-2.5 Deblur IC-LoRA, with prompts, starting settings, and troubleshooting tips.</summary>
+    <category term="Tutorials"/>
+  </entry>
   <entry>
     <title>LTX’s Latest VFX Tools: Built for the Production Pipeline</title>
     <link href="https://ltx.io/blog/ltxs-latest-vfx-tools-built-for-the-production-pipeline"/>
@@ -15,6 +60,69 @@
     <published>2026-10-26T00:00:00+00:00</published>
     <updated>2026-10-26T00:00:00+00:00</updated>
     <summary type="text">LTX’s latest VFX launch brings new tools for the work that happens between an idea and a finished shot. In a conversation with compositor Doug Hogan, Mohamed Oumoumad walks through the updates and shows how they fit into real production workflows.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>LoRA Training Problems For Video Models</title>
+    <link href="https://ltx.io/blog/lora-training-problems"/>
+    <id>82d23a515c96fb90d9e6703a426ab2d7</id>
+    <published>2026-10-25T00:00:00+00:00</published>
+    <updated>2026-10-25T00:00:00+00:00</updated>
+    <summary type="text">Fix the most common LoRA training problems on LTX-2.5: CUDA out of memory, frame count errors, Gemma mismatches, bad validation samples and slow runs.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>How to Fix Hum, Robotic Voices &amp; Pitch Drift in AI Video Audio</title>
+    <link href="https://ltx.io/blog/fix-robotic-ai-voice"/>
+    <id>be92cd3a8d0274c8c42238d6da6d1257</id>
+    <published>2026-10-22T00:00:00+00:00</published>
+    <updated>2026-10-22T00:00:00+00:00</updated>
+    <summary type="text">Fix a robotic AI voice, constant hum, and pitch drift in LTX-2.5 audio using prompt rewrites, guidance settings, audio-to-video, and targeted retakes.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>How to Run LTX-2.5 in Docker</title>
+    <link href="https://ltx.io/blog/ltx-2-5-docker"/>
+    <id>772c8dfc59fb442f1f6a30df1735bd0a</id>
+    <published>2026-10-22T00:00:00+00:00</published>
+    <updated>2026-10-22T00:00:00+00:00</updated>
+    <summary type="text">Run LTX-2.5 in Docker with GPU access: NVIDIA Container Toolkit setup, a Dockerfile for ltx-pipelines, mounted model weights, and a ComfyUI Docker option.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>How To Fix Seams And Flicker When You Extend Video With AI</title>
+    <link href="https://ltx.io/blog/extend-video-seams-flicker"/>
+    <id>7ad25ac80adc10b0a1780ffb2f1091cb</id>
+    <published>2026-10-21T00:00:00+00:00</published>
+    <updated>2026-10-21T00:00:00+00:00</updated>
+    <summary type="text">Extend video with AI without visible seams or flicker. Learn how context frames, retakes, guidance, and decode settings keep LTX continuations consistent.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>How To Fix Video Compression Artifacts With AI</title>
+    <link href="https://ltx.io/blog/fix-video-compression-artifacts"/>
+    <id>0787d48f9434c8aac6b4c51ffda0f466</id>
+    <published>2026-10-21T00:00:00+00:00</published>
+    <updated>2026-10-21T00:00:00+00:00</updated>
+    <summary type="text">Fix video compression artifacts with AI. Remove macroblocking, banding, and ringing from low-bitrate video footage with the LTX-2.5 Decompression IC-LoRA.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>ACES &amp; Generative Video: Color Management For AI Footage</title>
+    <link href="https://ltx.io/blog/aces-color-management"/>
+    <id>1d944d2b52de0ad752251c5e135a4025</id>
+    <published>2026-10-20T00:00:00+00:00</published>
+    <updated>2026-10-20T00:00:00+00:00</updated>
+    <summary type="text">Bring ACES into AI video color management. Feed ACEScg, ACEScct or linear EXR plates to LTX-2.5 and get half-float EXR plus a BT.2020/HLG master back.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Day To Night AI: How to Turn Daytime Footage Into Night With AI</title>
+    <link href="https://ltx.io/blog/day-for-night-ai"/>
+    <id>9ac0863636b9f5c530a5e171324a8205</id>
+    <published>2026-10-20T00:00:00+00:00</published>
+    <updated>2026-10-20T00:00:00+00:00</updated>
+    <summary type="text">Turn day into night with AI. The LTX Day-to-Night IC-LoRA relights a daytime clip as the same shot at night, frame for frame, with prompts and settings.</summary>
     <category term="Tutorials"/>
   </entry>
   <entry>
@@ -331,113 +439,5 @@
     <updated>2026-09-03T00:00:00+00:00</updated>
     <summary type="text">Free AI video generation means two different things. One is a credit-limited trial. The other is open weights you download and run. Here is the difference.</summary>
     <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Understanding LTX's API Pricing: How to Estimate Your Spend</title>
-    <link href="https://ltx.io/blog/ltx-api-pricing-explained"/>
-    <id>9a6ff197322a38f46176bd78968946c3</id>
-    <published>2026-09-03T00:00:00+00:00</published>
-    <updated>2026-09-03T00:00:00+00:00</updated>
-    <summary type="text">How LTX API pricing works: the per-second cost by model tier and resolution, the SKU system, prepaid vs postpaid billing, and how to estimate your spend.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>How To Fine-Tune LTX: A Practical Guide</title>
-    <link href="https://ltx.io/blog/how-to-fine-tune-ltx"/>
-    <id>37e7a2fc4236e5f05a2020d6d7c66d70</id>
-    <published>2026-09-02T00:00:00+00:00</published>
-    <updated>2026-09-02T00:00:00+00:00</updated>
-    <summary type="text">A practical guide to fine-tuning LTX-2.5. Learn LoRA versus full fine-tuning, hardware needs, dataset prep, config, and running your own trained model.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Water Simulation: How To Add Water To A Video With AI</title>
-    <link href="https://ltx.io/blog/add-water-to-video"/>
-    <id>0ee541ce182d7b5ece4aae8b21a8ee9b</id>
-    <published>2026-09-02T00:00:00+00:00</published>
-    <updated>2026-09-02T00:00:00+00:00</updated>
-    <summary type="text">Adding water to a shot no longer needs a fluid solver. Here is how to pick a pipeline, write the prompt, fix a bad take, and get the element into comp.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>AI Motion Synthesis For Animation With LTX-2.5</title>
-    <link href="https://ltx.io/blog/ai-motion-synthesis-for-animation"/>
-    <id>8e3d6e7896c0e3231aace89c0185805c</id>
-    <published>2026-09-01T00:00:00+00:00</published>
-    <updated>2026-09-01T00:00:00+00:00</updated>
-    <summary type="text">How AI motion synthesis fits an animation pipeline from blocking to final render, using LTX-2.5 keyframe interpolation, IC-LoRA motion transfer, and STG.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>AI Video Trends: AI Video Predictions For 2026 &amp; Beyond</title>
-    <link href="https://ltx.io/blog/ai-video-trends"/>
-    <id>819d58812760b552f6084f990c1fa66f</id>
-    <published>2026-09-01T00:00:00+00:00</published>
-    <updated>2026-09-01T00:00:00+00:00</updated>
-    <summary type="text">Discover 2026’s AI video trends and future predictions. See how AI will transform video marketing, creation workflows, and audience engagement.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>AI Video Resolution Guide: HDR, 4K, 1080p &amp; More</title>
-    <link href="https://ltx.io/blog/ai-video-resolution-guide"/>
-    <id>bedbcc5bb1ff20ff82974b479b1ec500</id>
-    <published>2026-08-31T00:00:00+00:00</published>
-    <updated>2026-08-31T00:00:00+00:00</updated>
-    <summary type="text">An AI video resolution guide to 4K vs 1080p in AI video generation, native vs upscaled output, and how LTX-2.3 reaches higher resolution with upsampling.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>How To Achieve Clean Audio In AI Video Generation</title>
-    <link href="https://ltx.io/blog/audio-in-ai-video-generation"/>
-    <id>62e8d3f5b256aae7c82bbcd8dfb10977</id>
-    <published>2026-08-29T00:00:00+00:00</published>
-    <updated>2026-08-29T00:00:00+00:00</updated>
-    <summary type="text">Clean audio in AI video means sync, signal, and intent. Learn what LTX-2.5's unified audio-video model actually requires to produce publish-quality sound.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How To Use A Community LoRA With LTX-2.5</title>
-    <link href="https://ltx.io/blog/how-to-use-a-community-lora"/>
-    <id>b1074b62c327a881e87b4783e4e97ff6</id>
-    <published>2026-08-26T00:00:00+00:00</published>
-    <updated>2026-08-26T00:00:00+00:00</updated>
-    <summary type="text">How to load, tune, and stack community LoRAs with LTX-2.5, plus what the new architecture means for your existing LTX-2.3 adapters.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>Integrating AI Video Generation Into A VFX Pipeline</title>
-    <link href="https://ltx.io/blog/integrating-ai-video-into-vfx-pipeline"/>
-    <id>41a1779e7eb32bab216047937bf53468</id>
-    <published>2026-08-26T00:00:00+00:00</published>
-    <updated>2026-08-26T00:00:00+00:00</updated>
-    <summary type="text">A practical guide to integrating AI video generation into a VFX pipeline with LTX-2.5: where it fits, which pipeline to use, and how to move the frames.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Open Source vs Closed Source Video Models</title>
-    <link href="https://ltx.io/blog/open-source-vs-closed-source-video-models"/>
-    <id>ad966544fe9211fdff47839133f45eab</id>
-    <published>2026-08-26T00:00:00+00:00</published>
-    <updated>2026-08-26T00:00:00+00:00</updated>
-    <summary type="text">Open source vs closed source AI video models compared: control, cost, IP, and deployment, plus where an open source ai video generator like LTX-2.5 fits.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Meet LTX Explore: The Fastest Way to Experience LTX</title>
-    <link href="https://ltx.io/blog/meet-ltx-explore-the-fastest-way-to-experience-ltx"/>
-    <id>11dda763b60709bd6f9e47306601ee70</id>
-    <published>2026-08-19T00:00:00+00:00</published>
-    <updated>2026-08-19T00:00:00+00:00</updated>
-    <summary type="text">LTX Explore is a self-service platform that provides instant access to LTX's video generation capabilities. One prompt, one click. No API integration, no technical setup, no knowledge required.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>LTX is Part of the NVIDIA Cosmos Coalition: What It Means for Open World Models</title>
-    <link href="https://ltx.io/blog/ltx-joins-the-nvidia-cosmos-coalition"/>
-    <id>f488052397c18eda15fa87d9f220ad6a</id>
-    <published>2026-08-16T00:00:00+00:00</published>
-    <updated>2026-08-16T00:00:00+00:00</updated>
-    <summary type="text">LTX joins NVIDIA's Cosmos Coalition as a founding member alongside Runway, Black Forest Labs, and Skild AI, building on the new Cosmos 3 model.</summary>
-    <category term="Physical AI"/>
   </entry>
 </feed>

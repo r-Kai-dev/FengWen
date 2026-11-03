@@ -4,10 +4,28 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-10-30T00:00:00+00:00</updated>
+  <updated>2026-11-02T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>AI in Political Content and Campaigns 2026 Report</title>
+    <link href="https://www.resemble.ai/resources/2026-political-deepfake-report"/>
+    <id>8f8d66e93449c06eb9a35cbd56ffec41</id>
+    <published>2026-11-02T00:00:00+00:00</published>
+    <updated>2026-11-02T00:00:00+00:00</updated>
+    <summary type="text">We tracked 481 AI incidents in politics. 69% of political disinformation couldn’t be traced to its source, and attacks doubled in the month before votes.</summary>
+    <category term="Report"/>
+  </entry>
+  <entry>
+    <title>How to Detect Deepfake Videos During Employee Onboarding</title>
+    <link href="https://www.resemble.ai/resources/detect-deepfake-videos-during-onboarding"/>
+    <id>527f0367e869a8820d76e83ac1b244c2</id>
+    <published>2026-11-02T00:00:00+00:00</published>
+    <updated>2026-11-02T00:00:00+00:00</updated>
+    <summary type="text">Learn how to detect deepfake videos in onboarding using AI checks, liveness tests, and layered verification to prevent identity fraud during hiring workflows.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>AI in Advertising 2026 Report</title>
     <link href="https://www.resemble.ai/resources/2026-ai-in-advertising-report"/>
@@ -97,23 +115,5 @@
     <updated>2026-10-15T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>Detection Learned to Reason. Here's What That Meant for Q3.</title>
-    <link href="https://www.resemble.ai/resources/detection-learned-to-reason-heres-what-that-meant-for-q3"/>
-    <id>4aafe77d3b6a17493306e8f165baaca0</id>
-    <published>2026-10-14T00:00:00+00:00</published>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <summary type="text">A look at what Resemble built in Q3, from DETECT-World and Investigator to Agent Detection, and where we're taking AI detection next.</summary>
-    <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>What Do AI Detectors Look For? Signals, Methods, and Accuracy</title>
-    <link href="https://www.resemble.ai/resources/what-do-ai-detectors-look-for"/>
-    <id>683cff4f02253e73def595ab26ba4ef2</id>
-    <published>2026-10-13T00:00:00+00:00</published>
-    <updated>2026-10-13T00:00:00+00:00</updated>
-    <summary type="text">Learn what AI detectors look for in text, images, video, and audio, how they calculate scores, why false results happen, and how to assess accuracy.</summary>
-    <category term="Blog"/>
   </entry>
 </feed>

@@ -6,8 +6,24 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-10-29T16:30:00.000Z</updated>
+  <updated>2026-11-02T00:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>How antrofrog Made No Ordinary Love, and How to Make an AI Animation Like It</title>
+    <link href="https://www.krea.ai/blog/how-antrofrog-made-no-ordinary-love"/>
+    <id>https://www.krea.ai/blog/how-antrofrog-made-no-ordinary-love</id>
+    <updated>2026-11-02T00:00:00.000Z</updated>
+    <published>2026-11-02T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <category term="ai animation"/>
+    <category term="ai cartoon"/>
+    <category term="seedance 2.5"/>
+    <category term="krea 3"/>
+    <category term="how to make ai animation"/>
+    <summary>How antrofrog made the AI short No Ordinary Love, and how to make an AI animation like it on Krea with Krea 3 and Seedance 2.5.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/no-ordinary-love/nol-two-umbrellas.webp" type="image/webp"/>
+  </entry>
   <entry>
     <title>Introducing Ad Studio</title>
     <link href="https://www.krea.ai/blog/introducing-ad-studio"/>
@@ -379,7 +395,7 @@
     <published>2026-10-05T00:00:00.000Z</published>
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
-    <summary>Topaz Photo AI and Video AI dropped perpetual licenses in 2025. What they cost now, the RAM a desktop install needs, and three alternatives.</summary>
+    <summary>Topaz AI is not free in 2026: no desktop trial, Photo from $199/yr, Video from $299/yr. Krea Enhancer is the browser alternative.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/is-topaz-ai-free-pricing-system-requirements-and-alternatives-in-2026/agent/hero.png" type="image/webp"/>
   </entry>
   <entry>
@@ -622,16 +638,5 @@
     <category term="guides"/>
     <summary>Compare the best free QR code generators in 2026 — QR Code Generator, Canva, Adobe Express, and ME-QR — plus how to turn one into branded AI artwork with Krea.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-free-qr-code-generators-and-ai-branded-qr-codes-in-2026.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Stock Photos vs. AI Images in 2026: Which Do You Need?</title>
-    <link href="https://www.krea.ai/blog/free-stock-photos-vs-ai-generated-images-in-2026"/>
-    <id>https://www.krea.ai/blog/free-stock-photos-vs-ai-generated-images-in-2026</id>
-    <updated>2026-09-16T00:00:00.000Z</updated>
-    <published>2026-09-16T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Unsplash, Pexels, Freepik, and Canva's stock library compared with generating your own image — free tiers, license terms, and the faster choice.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/free-stock-photos-vs-ai-generated-images-in-2026.webp" type="image/webp"/>
   </entry>
 </feed>
