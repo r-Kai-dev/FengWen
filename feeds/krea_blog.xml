@@ -6,8 +6,26 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-11-02T00:00:00.000Z</updated>
+  <updated>2026-11-03T16:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>Krea 3 Technical Report</title>
+    <link href="https://www.krea.ai/blog/krea-3-technical-report"/>
+    <id>https://www.krea.ai/blog/krea-3-technical-report</id>
+    <updated>2026-11-03T16:00:00.000Z</updated>
+    <published>2026-11-03T16:00:00.000Z</published>
+    <author><name>Erwann Millon</name></author>
+    <category term="research"/>
+    <category term="krea-3"/>
+    <category term="krea 3 technical report"/>
+    <category term="image editing model"/>
+    <category term="ai image editing"/>
+    <category term="lora"/>
+    <category term="style reference"/>
+    <category term="foundation model"/>
+    <summary>Technical report for Krea 3 (K3), our frontier image-to-image model for fast, cost-efficient editing: architecture, training, data, reinforcement learning, preference optimization, and inference.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/k3-landing-final/hero-windcoat-base.webp" type="image/webp"/>
+  </entry>
   <entry>
     <title>How antrofrog Made No Ordinary Love, and How to Make an AI Animation Like It</title>
     <link href="https://www.krea.ai/blog/how-antrofrog-made-no-ordinary-love"/>
@@ -627,16 +645,5 @@
     <category term="guides"/>
     <summary>Reve sunsets image generation on September 27, 2026. What to export before October 31, and the best Reve alternative for AI images: Krea 2, with prices.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/reve-sunset-2026-alternative-ai-generators/agent/hero.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Best Free QR Code Generators in 2026 (and How to Make a Branded One with AI)</title>
-    <link href="https://www.krea.ai/blog/best-free-qr-code-generators-and-ai-branded-qr-codes-in-2026"/>
-    <id>https://www.krea.ai/blog/best-free-qr-code-generators-and-ai-branded-qr-codes-in-2026</id>
-    <updated>2026-09-16T00:00:00.000Z</updated>
-    <published>2026-09-16T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Compare the best free QR code generators in 2026 — QR Code Generator, Canva, Adobe Express, and ME-QR — plus how to turn one into branded AI artwork with Krea.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-free-qr-code-generators-and-ai-branded-qr-codes-in-2026.webp" type="image/webp"/>
   </entry>
 </feed>

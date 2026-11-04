@@ -4,16 +4,23 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-10-27T00:00:00+00:00</updated>
+  <updated>2026-11-03T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
   <entry>
-    <title>Can we trust LLMs to judge whether a research idea is novel?</title>
-    <link href="https://allenai.org/blog/novelty-bench"/>
-    <id>8f4fe5ad1fd1efe5e967e8e24e265356</id>
-    <published>2026-10-27T00:00:00+00:00</published>
-    <updated>2026-10-27T00:00:00+00:00</updated>
+    <title>StateBench: Testing how language models track state changes over long documents</title>
+    <link href="https://allenai.org/blog/statebench"/>
+    <id>e0179563f45e7b864bfc9040bf3c30df</id>
+    <published>2026-11-03T00:00:00+00:00</published>
+    <updated>2026-11-03T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
+    <link href="https://allenai.org/blog/litpivot"/>
+    <id>0a93e049aa4c6d31d61ad7ff200c7501</id>
+    <published>2026-10-23T00:00:00+00:00</published>
+    <updated>2026-10-23T00:00:00+00:00</updated>
   </entry>
   <entry>
     <title>A crop-mapping benchmark for the tropics</title>
@@ -56,12 +63,5 @@
     <id>f22071f855f77c08b4f34fdc0e1e682e</id>
     <published>2026-10-07T00:00:00+00:00</published>
     <updated>2026-10-07T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
-    <link href="https://allenai.org/blog/astabrief"/>
-    <id>f81a9694bf18806c3d46f887ac22fcbf</id>
-    <published>2026-10-02T00:00:00+00:00</published>
-    <updated>2026-10-02T00:00:00+00:00</updated>
   </entry>
 </feed>
