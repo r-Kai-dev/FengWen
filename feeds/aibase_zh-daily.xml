@@ -4,16 +4,26 @@
   <icon>https://news.aibase.com/favicon.ico</icon>
   <link href="https://news.aibase.com/zh/daily"/>
   <id>https://news.aibase.com/zh/daily</id>
-  <updated>2026-11-03T16:59:19.292539+00:00</updated>
+  <updated>2026-11-04T18:15:34.495250+00:00</updated>
   <author>
     <name>AIBase</name>
   </author>
   <entry>
+    <title>AI日报：百度发布物理AI世界模型Apollo World；腾讯 Hy4 正式版亮相；阿里云发布AI投研工作台Qovest</title>
+    <link href="https://news.aibase.com/zh/daily/32090"/>
+    <id>033c06850b89b1a854a39f1ad0bdae34</id>
+    <published>2026-11-04T18:15:34.495250+00:00</published>
+    <updated>2026-11-04T18:15:34.495250+00:00</updated>
+    <summary type="text">1、百度首次发布物理AI世界模型ApolloWorld，萝卜快跑近百辆无人车搭载新架构运营百度ApolloWorld将交通参与者建模为自主智能体，单日可虚拟路测约10万公里，用于验证端到端架构安全性，体现L4从实车测试向仿真闭环演进。后续关键是内容持续更新与跨场景规模化复制。</summary>
+    <category term="AI Daily"/>
+    <category term="人工智能"/>
+  </entry>
+  <entry>
     <title>AI日报：腾讯混元发布Hyra 2.0；商汤发布日日新SenseNova 6.8 Flash；AI 虚拟恋人正式被苹果关进成人区</title>
     <link href="https://news.aibase.com/zh/daily/32056"/>
     <id>d1626a194483b1a4ccb05c8ed989182f</id>
-    <published>2026-11-03T16:59:19.292539+00:00</published>
-    <updated>2026-11-03T16:59:19.292539+00:00</updated>
+    <published>2026-11-04T01:15:34.495762+00:00</published>
+    <updated>2026-11-04T01:15:34.495762+00:00</updated>
     <summary type="text">1、腾讯混元重磅发布Hyra2.0，让AIAgent全面参与科学大模型与硬核研发Hyra2.0推动AI科研从单题求解转向工具研发，三层Agent架构贴近真实研发流程，七大方向成果初步验证智能复利路径，但稳定性和跨领域泛化仍需长期检验。若能保证改动可控性与工程兼容性，将显著降低原型试错成本。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -22,8 +32,8 @@
     <title>AI日报：双十一Token上架电商平台；DeepSeek开源Super-agent架构；美团龙猫发布 LongCat-2.5</title>
     <link href="https://news.aibase.com/zh/daily/32022"/>
     <id>384e3108cc9687d96aced4724beff0c2</id>
-    <published>2026-11-03T00:59:19.292851+00:00</published>
-    <updated>2026-11-03T00:59:19.292851+00:00</updated>
+    <published>2026-11-03T01:15:34.496208+00:00</published>
+    <updated>2026-11-03T01:15:34.496208+00:00</updated>
     <summary type="text">欢迎来到【AI日报】栏目!这里是你每天探索人工智能世界的指南，每天我们为你呈现AI领域的热点内容，聚焦开发者，助你洞悉技术趋势、了解创新AI产品应用。2、DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈该架构将调度、缓存、存算分离与看门狗等系统思想引入Agent底层，以Router/Worker双层解耦和事件驱动改善多任务并发与上下文。8、OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instantchat不受影响OpenAI将ChatGPT与Codex额度打通，以Token统一计量并按任务复杂度消耗，有助于资源精细化和产品整合；保留即时对话免额度降低轻量用户干扰，但复杂任务成本透明度待观察。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -32,8 +42,8 @@
     <title>AI日报：百度升级AI搜索；豆包工作正式接入DeepSeek；谷歌Gemini全面支持PDF、表格等内联编辑</title>
     <link href="https://news.aibase.com/zh/daily/31993"/>
     <id>7dc23c8e84eadd475fe7b42e2f43b38f</id>
-    <published>2026-10-31T00:59:19.293066+00:00</published>
-    <updated>2026-10-31T00:59:19.293066+00:00</updated>
+    <published>2026-10-31T01:15:34.496605+00:00</published>
+    <updated>2026-10-31T01:15:34.496605+00:00</updated>
     <summary type="text">1、百度升级AI搜索及搜索AIAPI，调用价格低至4.9元/千次百度将AI搜索从问答工具向任务交付与实时交互延伸，覆盖170余种场景，GUI数据规模提升5倍，显示其构建服务生态意图；API低至4.9元/千次，降低开发者门槛，有望加速B端落地。8、英伟达发布语音转录大模型Nemotron3.5Transcribe，8人同时抢话也能精准识别英伟达开源Nemotron3.5Transcribe，采用MoE架构，340亿总参数/43亿激活，支持40语种转录、31语种互译、8说话人分离，在OpenASR等评测中WER领先，为语音技术生态提供高精度基座。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -42,8 +52,8 @@
     <title>AI日报：混元Hy4、Hy4flash将发布；Claude Code上线全新环境变量；智元发布具身智能原生OS灵渠1.0</title>
     <link href="https://news.aibase.com/zh/daily/31964"/>
     <id>e4c6909de30e08da4a0b1bf4184f1592</id>
-    <published>2026-10-30T00:59:19.293264+00:00</published>
-    <updated>2026-10-30T00:59:19.293264+00:00</updated>
+    <published>2026-10-30T01:15:34.497038+00:00</published>
+    <updated>2026-10-30T01:15:34.497038+00:00</updated>
     <summary type="text">1、腾讯混元Hy4、Hy4flash即将发布，模型能力、思维链效率全面提升腾讯混元Hy4在长程任务、思维链效率上全面升级，并首次引入视觉理解，补足多模态能力；Hy4flash主打性价比，通过Co-Design高频迭代，显示开源与落地双线并进，后续需关注实测表现。但暂不支持解绑，积分使用细节与后续产品扩展仍需持续关注。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -52,8 +62,8 @@
     <title>AI日报：DeepMind发布世界模型Genie4；WorkBuddy上线远程控制；DeepSeek V5 惊现官方代码库</title>
     <link href="https://news.aibase.com/zh/daily/31930"/>
     <id>8a077149a952203e8f87646b738b60fb</id>
-    <published>2026-10-29T00:59:19.293458+00:00</published>
-    <updated>2026-10-29T00:59:19.293458+00:00</updated>
+    <published>2026-10-28T00:00:00+00:00</published>
+    <updated>2026-10-28T00:00:00+00:00</updated>
     <summary type="text">1、谷歌DeepMind发布实时交互世界模型Genie4加速具身智能与多模态模拟演进Genie4将真实感渲染、原生音频与Gemini推理整合，实现实时可控的世界模拟，是从生成视频向交互式世界引擎的关键跃迁。综艺与大屏云电视基本盘稳固，内容技术双轮驱动格局初现。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -195,16 +205,6 @@
     <published>2026-09-28T00:00:00+00:00</published>
     <updated>2026-09-28T00:00:00+00:00</updated>
     <summary type="text">1、OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布OpenAI计划在OpenAIDevDay上推出代号为「O」的全新常驻型AI助手，该助手可能拥有独立的数字身份，并能实现持续运行。新模型支持从0.32秒至30.4秒的四级动态音频缓冲区设置，能够精准识别对话中任意时刻的说话者，适用于多种应用场景。</summary>
-    <category term="AI Daily"/>
-    <category term="人工智能"/>
-  </entry>
-  <entry>
-    <title>AI日报：谷歌发布Gemini 3.8 Flash TTS；Kimi K3.1十月或压轴登场；豆包向所有用户免费送30天订阅权益</title>
-    <link href="https://news.aibase.com/zh/daily/31355"/>
-    <id>5b2951fdfd9d8943b0208386a153239a</id>
-    <published>2026-09-24T00:00:00+00:00</published>
-    <updated>2026-09-24T00:00:00+00:00</updated>
-    <summary type="text">1、谷歌发布Gemini3.8FlashTTS：支持自然语言定制声音与30秒声音复刻谷歌推出Gemini3.8FlashTTS和Gemini3.8Flash-LiteTTS，满足开发者和创作者在个性化角色配音及大规模音频生成上的需求。8、智元第两万台远征A3Ultra下线交付长隆，六千台半年填满，具身机器人第一次在主题乐园里常态上岗智元公司成功实现具身智能机器人的规模化量产，并在文旅领域实现常态化应用，展现了其技术实力与市场潜力。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
   </entry>

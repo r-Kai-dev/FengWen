@@ -4,12 +4,20 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/news"/>
   <id>https://allenai.org/news</id>
-  <updated>2026-10-01T00:00:00+00:00</updated>
+  <updated>2026-11-01T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
   <entry>
-    <title>$L2a3</title>
+    <title>Ai2 and Google collaborate on a new generation of climate models</title>
+    <link href="https://allenai.org/blog/google-climate-partnership"/>
+    <id>2bfd672d855fe5835c64976033e9c852</id>
+    <published>2026-11-01T00:00:00+00:00</published>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <summary type="text">With funding from Google.org and technical support from Google Research, Ai2 is developing NeuralGCM+, anâ¦</summary>
+  </entry>
+  <entry>
+    <title>$L2a8</title>
     <link href="https://allenai.org/blog/colm-2026-recap"/>
     <id>ecf99783c71c955ce33d9e3cb659fa25</id>
     <published>2026-10-01T00:00:00+00:00</published>
@@ -58,18 +66,10 @@
   </entry>
   <entry>
     <title>Ai2 expands collaboration with Hugging Face to accelerate open science</title>
-    <link href="https://allenai.org/blog/hugging-face-partnership"/>
-    <id>356630363f9a0dee2a2e83731b5e4415</id>
-    <published>2026-08-01T00:00:00+00:00</published>
-    <updated>2026-08-01T00:00:00+00:00</updated>
-    <summary type="text">Ai2 is expanding its partnership with Hugging Face to give its growing portfolio of fully open models, datasets,â¦</summary>
-  </entry>
-  <entry>
-    <title>Who gets to understand AI? </title>
     <link href="https://allenai.org/blog/swedish-autodiscovery-partnership"/>
     <id>76def5ba78315dfe85431aeefc810a61</id>
-    <published>2026-07-01T00:00:00+00:00</published>
-    <updated>2026-07-01T00:00:00+00:00</updated>
+    <published>2026-08-01T00:00:00+00:00</published>
+    <updated>2026-08-01T00:00:00+00:00</updated>
     <summary type="text">Ai2 and Providence Swedish Cancer Institute are expanding their collaboration after AutoDiscovery helpedâ¦</summary>
   </entry>
 </feed>

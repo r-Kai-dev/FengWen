@@ -4,10 +4,28 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-10-30T00:00:00+00:00</updated>
+  <updated>2026-11-04T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Broadcom TPU compute shipments doubled from Q2 to Q3 2026, reaching 2 million H100-equivalents</title>
+    <link href="https://epoch.ai/data-insights/tpu-production-doubling"/>
+    <id>74aecfc5cda5beb6226fd60349cac106</id>
+    <published>2026-11-04T00:00:00+00:00</published>
+    <updated>2026-11-04T00:00:00+00:00</updated>
+    <summary type="text">Broadcom’s shipments of TPU by unit volume increased by about 65% quarter over quarter to roughly 800,000 chips, while compute output doubled, driven by a shift to more powerful chips.</summary>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>Updating the Epoch Capabilities Index methodology to use a Bayesian model</title>
+    <link href="https://epoch.ai/publications/eci-bayesian-methodology"/>
+    <id>08a0640d93f66bf081f08313f5bde71a</id>
+    <published>2026-11-04T00:00:00+00:00</published>
+    <updated>2026-11-04T00:00:00+00:00</updated>
+    <summary type="text">A Bayesian model gives the ECI better-justified uncertainty estimates and lets us compare models directly.</summary>
+    <category term="Report"/>
+  </entry>
   <entry>
     <title>LLM use is acknowledged almost as often as specialized AI tools in biology preprints</title>
     <link href="https://epoch.ai/data-insights/biorxiv-llms-vs-ai-tools"/>
@@ -69,24 +87,6 @@
     <published>2026-10-08T00:00:00+00:00</published>
     <updated>2026-10-08T00:00:00+00:00</updated>
     <summary type="text">Frontier models can handle well-defined tasks reliably, but fail in the more open-ended aspects that prevent full work automation. Explore Epoch AI's Automation Reports: realistic, open-ended tasks taken directly from our work, manually graded by our own standards.</summary>
-    <category term="Report"/>
-  </entry>
-  <entry>
-    <title>Can AI automate AI R&amp;D yet?</title>
-    <link href="https://epoch.ai/publications/innovationeval"/>
-    <id>4def9766275418dee90b00d68eba84a5</id>
-    <published>2026-10-07T00:00:00+00:00</published>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <summary type="text">Early evidence from InnovationEval: No</summary>
-    <category term="Report"/>
-  </entry>
-  <entry>
-    <title>EBR-bench update</title>
-    <link href="https://epoch.ai/publications/ebr-bench-update"/>
-    <id>0a8fc09f737a3fbcf23b6b929c4f1ef6</id>
-    <published>2026-10-07T00:00:00+00:00</published>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <summary type="text">Updates on EBR-bench, Epoch AI’s benchmark that tests models’ ability to learn from experience. GPT-6 Astra hit a perfect score on over half its EBR-bench attempts by exploiting one overpowered card, which we now ban. Plus multi-agent scaffold results.</summary>
     <category term="Report"/>
   </entry>
   <entry>
