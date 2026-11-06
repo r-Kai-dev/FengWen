@@ -4,27 +4,51 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-11-04T20:23:24+00:00</updated>
+  <updated>2026-11-05T22:17:15+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Gemini for Home 现已接入 AT&amp;T 的智能安防系统 / Gemini for Home now plugs into AT&amp;#038;T’s smart security system</title>
-    <link href="https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system"/>
-    <id>4ede50f245f903179dc4563df9e32b73</id>
-    <published>2026-11-04T20:23:24+00:00</published>
-    <updated>2026-11-04T20:23:24+00:00</updated>
-    <summary type="text">Score: 0.622\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <title>Claude Code 会把你的邮箱地址发送给网站 / Claude Code sends your email address to websites</title>
+    <link href="https://github.com/anthropics/claude-code/issues/107757"/>
+    <id>b3b7b80029f0006ea91c66cd2c96138c</id>
+    <published>2026-11-05T22:17:15+00:00</published>
+    <updated>2026-11-05T22:17:15+00:00</updated>
+    <summary type="text">Score: 0.545\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>CodeQL 2.27.4 提升准确性与查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata</title>
-    <link href="https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata"/>
-    <id>eb11f29f347ff6bc30454121dff6c35d</id>
-    <published>2026-11-04T20:04:52+00:00</published>
-    <updated>2026-11-04T20:04:52+00:00</updated>
+    <title>NVIDIA 推出 Cosmos 3 开放模型，用于交互式世界模拟 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
+    <link href="https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"/>
+    <id>641c3c5aeab744a63a3714ccf978c642</id>
+    <published>2026-11-05T19:35:16+00:00</published>
+    <updated>2026-11-05T19:35:16+00:00</updated>
+    <summary type="text">Score: 0.852\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Meta警告称，选举中针对数据中心的抵制可能让AI扩张更难 / Meta warns that election backlash against data centers could make AI expansion harder</title>
+    <link href="https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder"/>
+    <id>230656f8a9ebafb2f08600014a14e4e7</id>
+    <published>2026-11-05T19:12:39+00:00</published>
+    <updated>2026-11-05T19:12:39+00:00</updated>
+    <summary type="text">Score: 0.640\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Gemini Omni 1.2 Flash：速度快、性价比高，支持更长视频片段 / Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash"/>
+    <id>e6352ee87b6e02e58d13d286b4e2534b</id>
+    <published>2026-11-05T17:00:00+00:00</published>
+    <updated>2026-11-05T17:00:00+00:00</updated>
     <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -33,12 +57,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GitHub Copilot 现已登陆 Xcode 编程助手 / GitHub Copilot is now available in Xcode’s coding assistant</title>
-    <link href="https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant"/>
-    <id>ba1bef6e99c92b5e87afcdb9b565a60a</id>
-    <published>2026-11-04T19:10:40+00:00</published>
-    <updated>2026-11-04T19:10:40+00:00</updated>
-    <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Secret scanning 升级检测器，并新增 SpaceX 为合作伙伴 / Secret scanning upgrades detectors, adds SpaceX as partner</title>
+    <link href="https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner"/>
+    <id>c7556964fd82692a5a51f42c969da110</id>
+    <published>2026-11-05T15:48:50+00:00</published>
+    <updated>2026-11-05T15:48:50+00:00</updated>
+    <summary type="text">Score: 0.827\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -46,149 +70,89 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Dharma Field Extractor：任意文档输入，结构化字段以 JSON 输出 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
-    <link href="https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"/>
-    <id>56ee2847b2efaf4651e76c518a0f1f78</id>
-    <published>2026-11-04T17:50:10+00:00</published>
-    <updated>2026-11-04T17:50:10+00:00</updated>
-    <summary type="text">Score: 0.848\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.</title>
-    <link href="https://openai.com/index/openai-to-acquire-pierre"/>
-    <id>3d51bdb1ab2a9097c7d59239f93d93e9</id>
-    <published>2026-11-04T14:30:00+00:00</published>
-    <updated>2026-11-04T14:30:00+00:00</updated>
-    <summary type="text">Score: 0.932\nSources: 5 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 员工的&quot;副业&quot;硬件：GPT-6 Astra 一周出图、一月出样</title>
-    <link href="https://www.aibase.com/news/32089"/>
-    <id>78ba13649a321801354d006861c422aa</id>
-    <published>2026-11-04T12:59:54.788226+00:00</published>
-    <updated>2026-11-04T12:59:54.788226+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>一个人一天搞定：Windows 11 原生测速工具背后的&quot;AI 副驾&quot;模式</title>
-    <link href="https://www.aibase.com/news/32088"/>
-    <id>cf7b567db4bdcf80148a1246737842f6</id>
-    <published>2026-11-04T12:59:54.788226+00:00</published>
-    <updated>2026-11-04T12:59:54.788226+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>字节跳动收紧内部AI权限：网传将全公司封禁外部AI访问L4 代码库，高管回应保密与体验平衡</title>
-    <link href="https://www.aibase.com/news/32084"/>
-    <id>8cb63e0a4c37d68b1cf19e083c6770ab</id>
-    <published>2026-11-04T12:59:54.788226+00:00</published>
-    <updated>2026-11-04T12:59:54.788226+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向</title>
-    <link href="https://www.aibase.com/news/32083"/>
-    <id>19eeff0fa2ff66f921e1206079a0e196</id>
-    <published>2026-11-04T12:59:54.788226+00:00</published>
-    <updated>2026-11-04T12:59:54.788226+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接</title>
-    <link href="https://www.aibase.com/news/32085"/>
-    <id>f5700e52743301118f4e6999b8811cdb</id>
-    <published>2026-11-04T12:59:54.788226+00:00</published>
-    <updated>2026-11-04T12:59:54.788226+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速</title>
-    <link href="https://www.aibase.com/news/32091"/>
-    <id>700b3b12cf1da3275f9079ecb66c0b57</id>
-    <published>2026-11-04T12:59:54.788226+00:00</published>
-    <updated>2026-11-04T12:59:54.788226+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营</title>
-    <link href="https://www.aibase.com/news/32087"/>
-    <id>6d38cc4d670f117b875994f7cf5030c1</id>
-    <published>2026-11-04T12:59:54.788226+00:00</published>
-    <updated>2026-11-04T12:59:54.788226+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>KREV AI — 一支替你运营电商品牌的 AI 团队 / KREV AI — An AI team that runs your ecommerce brand</title>
-    <link href="https://www.producthunt.com/products/krev"/>
-    <id>7acd01f4db18d8173fdcb528ee1f1163</id>
-    <published>2026-11-04T12:43:59.028000+00:00</published>
-    <updated>2026-11-04T12:43:59.028000+00:00</updated>
-    <summary type="text">Score: 0.590\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
+    <title>你可以在 Instagram 全新的桌面版 Edits 应用上用 AI 剪辑视频 / You can edit your videos with AI on Instagram&amp;#8217;s new desktop Edits app</title>
+    <link href="https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp"/>
+    <id>582a312c487b6c25731e6003abfe31ad</id>
+    <published>2026-11-05T15:00:00+00:00</published>
+    <updated>2026-11-05T15:00:00+00:00</updated>
+    <summary type="text">Score: 0.597\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Orphex MCP — 用一个统一的 MCP，运行你的整套数字营销技术栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP</title>
-    <link href="https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing"/>
-    <id>cf579d3ef0ba9fa75616cd7320818e8a</id>
-    <published>2026-11-04T12:43:59.028000+00:00</published>
-    <updated>2026-11-04T12:43:59.028000+00:00</updated>
-    <summary type="text">Score: 0.593\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
+    <title>AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体</title>
+    <link href="https://www.aibase.com/news/32125"/>
+    <id>6962f0b014d33b94c97299dc88032aab</id>
+    <published>2026-11-05T13:12:09.507735+00:00</published>
+    <updated>2026-11-05T13:12:09.507735+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>AI 让死亡成为&quot;可选项&quot;？布罗克曼抛出生命终极命题</title>
+    <link href="https://www.aibase.com/news/32123"/>
+    <id>8a94ff563d147f7bc838da3700a4d066</id>
+    <published>2026-11-05T13:12:09.507735+00:00</published>
+    <updated>2026-11-05T13:12:09.507735+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu</title>
+    <link href="https://www.aibase.com/news/32124"/>
+    <id>9b93816f91666a80fc04203f6d8a2009</id>
+    <published>2026-11-05T13:12:09.507735+00:00</published>
+    <updated>2026-11-05T13:12:09.507735+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>研发超级 AI 或判 20 年：美国民主党抛出最严封杀令</title>
+    <link href="https://www.aibase.com/news/32122"/>
+    <id>f9e4b205868a7ba0fe61f679b96194b0</id>
+    <published>2026-11-05T13:12:09.507735+00:00</published>
+    <updated>2026-11-05T13:12:09.507735+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Easy-Peasy.AI 的 AI Employees——雇一支会分工、发送前先问过你的 AI 团队 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending</title>
+    <link href="https://www.producthunt.com/products/easy-peasy-ai"/>
+    <id>8f9d883888034d3c6d5dbca433b93010</id>
+    <published>2026-11-05T12:47:34.640000+00:00</published>
+    <updated>2026-11-05T12:47:34.640000+00:00</updated>
+    <summary type="text">Score: 0.588\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Google还没搞明白如何让AI像其搜索引擎那样赚钱 / Google hasn&amp;#8217;t figured out how to make AI pay like its search engine</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"/>
-    <id>8a907a72ccdd3f7eeaf5792c7004bded</id>
-    <published>2026-11-04T12:00:00+00:00</published>
-    <updated>2026-11-04T12:00:00+00:00</updated>
-    <summary type="text">Score: 0.590\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <title>Stitch.ai — 集邮件、日历、笔记、任务等功能于一体的 AI 工作空间 / Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more</title>
+    <link href="https://www.producthunt.com/products/stitch-ai"/>
+    <id>a41dc3ce842c8c7c704419d34463c416</id>
+    <published>2026-11-05T12:47:34.640000+00:00</published>
+    <updated>2026-11-05T12:47:34.640000+00:00</updated>
+    <summary type="text">Score: 0.592\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>少了上千条通往 root 的路径 / A thousand fewer paths to root</title>
-    <link href="https://openai.com/index/a-thousand-fewer-paths-to-root"/>
-    <id>4354ef2d6a9dd63d216a159bab7376cd</id>
-    <published>2026-11-04T08:00:00+00:00</published>
-    <updated>2026-11-04T08:00:00+00:00</updated>
-    <summary type="text">Score: 0.818\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GPT-6 Cyber：拓展对齐网络安全 Agent 的能力前沿 / GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents</title>
+    <link href="https://openai.com/index/introducing-gpt-6-cyber"/>
+    <id>a88194955645f8b9116335d5e42e560c</id>
+    <published>2026-11-05T09:00:00+00:00</published>
+    <updated>2026-11-05T09:00:00+00:00</updated>
+    <summary type="text">Score: 0.828\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -196,23 +160,69 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>大型语言模型可证明推理方面的进展</title>
-    <link href="https://www.anthropic.com/research/provable-inference"/>
-    <id>adeda71f58abc71baf0c80f3f1462f2a</id>
-    <published>2026-11-04T07:57:06+00:00</published>
-    <updated>2026-11-04T07:57:06+00:00</updated>
-    <summary type="text">Score: 0.563\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>全新的 pull request 概览页开启公开预览 / New pull request overview page in public preview</title>
+    <link href="https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview"/>
+    <id>2735a993d02b7547c179489f12656102</id>
+    <published>2026-11-05T08:00:00+00:00</published>
+    <updated>2026-11-05T08:00:00+00:00</updated>
+    <summary type="text">Score: 0.810\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职</title>
+    <link href="https://www.aibase.com/news/32120"/>
+    <id>2d3417119cd4f76855ab236344407446</id>
+    <published>2026-11-05T07:56:30.102266+00:00</published>
+    <updated>2026-11-05T07:56:30.102266+00:00</updated>
+    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Kimi Hosted Agents 发布:Harness 运行时转向云端托管</title>
+    <link href="https://www.aibase.com/news/32112"/>
+    <id>f788c1d70f279d8c765767afd8509b60</id>
+    <published>2026-11-05T07:56:30.102266+00:00</published>
+    <updated>2026-11-05T07:56:30.102266+00:00</updated>
+    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码</title>
+    <link href="https://www.aibase.com/news/32119"/>
+    <id>c31caee38f4bcd599033355a956636f9</id>
+    <published>2026-11-05T07:56:30.102266+00:00</published>
+    <updated>2026-11-05T07:56:30.102266+00:00</updated>
+    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>GPT-6 Astra 在安全研究方面表现隐隐逊色</title>
+    <link href="https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks"/>
+    <id>7eeab074cb0f90209f9424be91d7c6f3</id>
+    <published>2026-11-05T07:44:30+00:00</published>
+    <updated>2026-11-05T07:44:30+00:00</updated>
+    <summary type="text">Score: 0.554\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>Daybreak Red 现已在 AWS GovCloud（US-East）上线 / Daybreak Red is now available in AWS GovCloud (US-East)</title>
-    <link href="https://openai.com/index/daybreak-red-aws-govcloud"/>
-    <id>8a805c149163114cbb6cca77b59e1b06</id>
-    <published>2026-11-04T07:00:00+00:00</published>
-    <updated>2026-11-04T07:00:00+00:00</updated>
-    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>为负责任的 AI 基础设施树立新标杆 / Setting a new standard for responsible AI infrastructure</title>
+    <link href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"/>
+    <id>5a8dc44feebc0a571bb5f3bc902b22b9</id>
+    <published>2026-11-05T02:00:00+00:00</published>
+    <updated>2026-11-05T02:00:00+00:00</updated>
+    <summary type="text">Score: 0.805\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -220,24 +230,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Copilot 使用情况 API 支持 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API</title>
-    <link href="https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api"/>
-    <id>7bccbdd8cd56a0336868129d82749ceb</id>
-    <published>2026-11-04T00:32:19+00:00</published>
-    <updated>2026-11-04T00:32:19+00:00</updated>
-    <summary type="text">Score: 0.803\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>DevRev 推出基于 GPT-6.1 Sol 的自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol</title>
-    <link href="https://openai.com/index/devrev-enterprise-self-service"/>
-    <id>6bbcdc34ecb96c9c7f24c349d091e7f7</id>
-    <published>2026-11-04T00:00:00+00:00</published>
-    <updated>2026-11-04T00:00:00+00:00</updated>
+    <title>深入了解 Phonon TTS
+推出高质量端侧语音，登顶基准测试 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
+    <link href="https://huggingface.co/blog/phonon-tts"/>
+    <id>91b7b4e462c46fb0728cb656cca2c3ad</id>
+    <published>2026-11-05T00:00:00+00:00</published>
+    <updated>2026-11-05T00:00:00+00:00</updated>
     <summary type="text">Score: 0.816\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
