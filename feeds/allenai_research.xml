@@ -4,16 +4,23 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-11-03T00:00:00+00:00</updated>
+  <updated>2026-11-06T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
   <entry>
-    <title>StateBench: Testing how language models track state changes over long documents</title>
-    <link href="https://allenai.org/blog/statebench"/>
-    <id>e0179563f45e7b864bfc9040bf3c30df</id>
-    <published>2026-11-03T00:00:00+00:00</published>
-    <updated>2026-11-03T00:00:00+00:00</updated>
+    <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
+    <link href="https://allenai.org/blog/toyblocks"/>
+    <id>f01ddeed37dde08f1502729999c31446</id>
+    <published>2026-11-06T00:00:00+00:00</published>
+    <updated>2026-11-06T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Can we trust LLMs to judge whether a research idea is novel?</title>
+    <link href="https://allenai.org/blog/novelty-bench"/>
+    <id>8f4fe5ad1fd1efe5e967e8e24e265356</id>
+    <published>2026-10-27T00:00:00+00:00</published>
+    <updated>2026-10-27T00:00:00+00:00</updated>
   </entry>
   <entry>
     <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -56,12 +63,5 @@
     <id>6b0ff7ab043aa9f318815123d0707a63</id>
     <published>2026-10-09T00:00:00+00:00</published>
     <updated>2026-10-09T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Now in Nature: Retrofitting language models to operate over bytes</title>
-    <link href="https://allenai.org/blog/bolmo-nature"/>
-    <id>f22071f855f77c08b4f34fdc0e1e682e</id>
-    <published>2026-10-07T00:00:00+00:00</published>
-    <updated>2026-10-07T00:00:00+00:00</updated>
   </entry>
 </feed>

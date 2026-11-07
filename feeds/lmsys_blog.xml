@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-11-02T00:00:00+00:00</updated>
+  <updated>2026-11-05T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>XM-Sparse: Pushing the Throughput Frontier of Sparse Attention with Netpreme X-Memâ¢</title>
+    <link href="https://lmsys.org/blog/2026-11-04-xm-sparse"/>
+    <id>a39852333654a2cd44d0e0cc058e49ea</id>
+    <published>2026-11-05T00:00:00+00:00</published>
+    <updated>2026-11-05T00:00:00+00:00</updated>
+    <summary type="text">XM-Sparse integrates Netpreme X-Memâ¢ with SGLang HiSparse. High-bandwidth access to offloaded KV caches reduces decode latency, while the added capacity supports larger batches and higher concurrency.</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>HiCache Across Multi-Parallelism and Distributed Serving</title>
     <link href="https://lmsys.org/blog/2026-11-02-hicache-distributed-serving"/>

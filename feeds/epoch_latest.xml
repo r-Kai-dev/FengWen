@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-11-04T00:00:00+00:00</updated>
+  <updated>2026-11-06T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>What Huawei’s Horinger data center reveals about China’s compute gap</title>
+    <link href="https://epoch.ai/publications/huawei-horinger-china-compute-gap"/>
+    <id>663c5d4eab1aa36c1a651ea5538171da</id>
+    <published>2026-11-06T00:00:00+00:00</published>
+    <updated>2026-11-06T00:00:00+00:00</updated>
+    <summary type="text">Huawei’s AI data center in Horinger, Inner Mongolia, uses Ascend chips and has an estimated AI computing capacity that is just 7% that of the world’s largest AI data center, SpaceX’s Colossus 2 in Tennessee.</summary>
+    <category term="Report"/>
+  </entry>
   <entry>
     <title>Broadcom TPU compute shipments doubled from Q2 to Q3 2026, reaching 2 million H100-equivalents</title>
     <link href="https://epoch.ai/data-insights/tpu-production-doubling"/>
@@ -88,14 +97,5 @@
     <updated>2026-10-08T00:00:00+00:00</updated>
     <summary type="text">Frontier models can handle well-defined tasks reliably, but fail in the more open-ended aspects that prevent full work automation. Explore Epoch AI's Automation Reports: realistic, open-ended tasks taken directly from our work, manually graded by our own standards.</summary>
     <category term="Report"/>
-  </entry>
-  <entry>
-    <title>US adults are no more likely to face cyber incidents than when Claude Fable 5 launched</title>
-    <link href="https://epoch.ai/data-insights/cyber-incidents-flat-since-fable-5"/>
-    <id>7cad763922f0fc62b9967a4cef0ca2fd</id>
-    <published>2026-10-07T00:00:00+00:00</published>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <summary type="text">June and September polls from Epoch AI/Ipsos show no detectable increase in the share of US adults experiencing cyber incidents</summary>
-    <category term="Data Insight"/>
   </entry>
 </feed>
