@@ -4,192 +4,170 @@
   <icon>https://github.com/favicon.ico</icon>
   <link href="https://github.com/trending?since=daily"/>
   <id>https://github.com/trending?since=daily</id>
-  <updated>2026-11-07T00:31:36.134650+00:00</updated>
+  <updated>2026-11-08T00:06:00.549105+00:00</updated>
+  <entry>
+    <title>dsx-ai-factory / nvke</title>
+    <link href="https://github.com/dsx-ai-factory/nvke"/>
+    <id>57b900ffaddce129fb8d9697dc022968</id>
+    <published>2026-11-08T00:06:00.549105+00:00</published>
+    <updated>2026-11-08T00:06:00.549105+00:00</updated>
+    <summary type="text">NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</summary>
+    <content type="html">&lt;p&gt;NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;547&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;88&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;123&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Go"/>
+  </entry>
+  <entry>
+    <title>ranxianglei / billion-context</title>
+    <link href="https://github.com/ranxianglei/billion-context"/>
+    <id>1bd2c8b2f9d75047079483ca062be808</id>
+    <published>2026-11-08T00:06:00.548852+00:00</published>
+    <updated>2026-11-08T00:06:00.548852+00:00</updated>
+    <summary type="text">A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need</summary>
+    <content type="html">&lt;p&gt;A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;4.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;369&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;191&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
+  </entry>
+  <entry>
+    <title>zed-industries / zed</title>
+    <link href="https://github.com/zed-industries/zed"/>
+    <id>210875ad0c0cd2393909ed934eae23cf</id>
+    <published>2026-11-08T00:06:00.548573+00:00</published>
+    <updated>2026-11-08T00:06:00.548573+00:00</updated>
+    <summary type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</summary>
+    <content type="html">&lt;p&gt;Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;94.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Rust"/>
+  </entry>
+  <entry>
+    <title>mbillow / localthings</title>
+    <link href="https://github.com/mbillow/localthings"/>
+    <id>225019aa4ad585279af551a91323130e</id>
+    <published>2026-11-08T00:06:00.548262+00:00</published>
+    <updated>2026-11-08T00:06:00.548262+00:00</updated>
+    <summary type="text">Control your Samsung appliances from Home Assistant over your home network, with no cloud account.</summary>
+    <content type="html">&lt;p&gt;Control your Samsung appliances from Home Assistant over your home network, with no cloud account.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;1.1k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;112&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;186&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>tailwindlabs / tailwindcss</title>
+    <link href="https://github.com/tailwindlabs/tailwindcss"/>
+    <id>7af8d765c9b23b1d62247afb4f3682a0</id>
+    <published>2026-11-08T00:06:00.547952+00:00</published>
+    <updated>2026-11-08T00:06:00.547952+00:00</updated>
+    <summary type="text">A utility-first CSS framework for rapid UI development.</summary>
+    <content type="html">&lt;p&gt;A utility-first CSS framework for rapid UI development.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;98.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;7.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;122&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="TypeScript"/>
+  </entry>
   <entry>
     <title>astral-sh / ruff</title>
     <link href="https://github.com/astral-sh/ruff"/>
     <id>c33047231e483814c8aca31829fbeeb5</id>
-    <published>2026-11-07T00:31:36.134650+00:00</published>
-    <updated>2026-11-07T00:31:36.134650+00:00</updated>
+    <published>2026-11-08T00:06:00.547638+00:00</published>
+    <updated>2026-11-08T00:06:00.547638+00:00</updated>
     <summary type="text">An extremely fast Python linter and code formatter, written in Rust.</summary>
     <content type="html">&lt;p&gt;An extremely fast Python linter and code formatter, written in Rust.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;50.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;169&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;51.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;350&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Rust"/>
   </entry>
   <entry>
-    <title>cloudflare / security-audit-skill</title>
-    <link href="https://github.com/cloudflare/security-audit-skill"/>
-    <id>e1f6ce7cf0200c0c91aa2c65fd8d050d</id>
-    <published>2026-11-07T00:31:36.134537+00:00</published>
-    <updated>2026-11-07T00:31:36.134537+00:00</updated>
-    <summary type="text">A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</summary>
-    <content type="html">&lt;p&gt;A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;64.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.1k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.5k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="JavaScript"/>
-  </entry>
-  <entry>
-    <title>mattpocock / skills</title>
-    <link href="https://github.com/mattpocock/skills"/>
-    <id>db65aeffc320da84db587caef81809b0</id>
-    <published>2026-11-07T00:31:36.134429+00:00</published>
-    <updated>2026-11-07T00:31:36.134429+00:00</updated>
-    <summary type="text">Skills for Real Engineers. Straight from my .agents directory.</summary>
-    <content type="html">&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;316.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;26.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Shell"/>
-  </entry>
-  <entry>
-    <title>openssl / openssl</title>
-    <link href="https://github.com/openssl/openssl"/>
-    <id>810a4a8ae61db8f9043af94ba5338079</id>
-    <published>2026-11-07T00:31:36.134300+00:00</published>
-    <updated>2026-11-07T00:31:36.134300+00:00</updated>
-    <summary type="text">General purpose TLS and crypto library</summary>
-    <content type="html">&lt;p&gt;General purpose TLS and crypto library&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;31.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;26&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="C"/>
-  </entry>
-  <entry>
-    <title>etcd-io / etcd</title>
-    <link href="https://github.com/etcd-io/etcd"/>
-    <id>81658721a51473bb0874f33815148ec9</id>
-    <published>2026-11-07T00:31:36.134131+00:00</published>
-    <updated>2026-11-07T00:31:36.134131+00:00</updated>
-    <summary type="text">Distributed reliable key-value store for the most critical data of a distributed system</summary>
-    <content type="html">&lt;p&gt;Distributed reliable key-value store for the most critical data of a distributed system&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;52.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;10.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;128&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Go"/>
-  </entry>
-  <entry>
-    <title>nushell / nushell</title>
-    <link href="https://github.com/nushell/nushell"/>
-    <id>25777fd9531136434cac94564c88caab</id>
-    <published>2026-11-07T00:31:36.134014+00:00</published>
-    <updated>2026-11-07T00:31:36.134014+00:00</updated>
-    <summary type="text">A new type of shell</summary>
-    <content type="html">&lt;p&gt;A new type of shell&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;41.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;131&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
-  </entry>
-  <entry>
-    <title>microsoft / vscode</title>
-    <link href="https://github.com/microsoft/vscode"/>
-    <id>4b321b4ed786fd42abdef31afe4e553b</id>
-    <published>2026-11-07T00:31:36.133805+00:00</published>
-    <updated>2026-11-07T00:31:36.133805+00:00</updated>
-    <summary type="text">Visual Studio Code</summary>
-    <content type="html">&lt;p&gt;Visual Studio Code&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;195.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;44.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;301&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>milind-soni / OpenMausBot</title>
+    <link href="https://github.com/milind-soni/OpenMausBot"/>
+    <id>883cec9bfcc5a0ef3a76d28bd9f88301</id>
+    <published>2026-11-08T00:06:00.547375+00:00</published>
+    <updated>2026-11-08T00:06:00.547375+00:00</updated>
+    <summary type="text">Open-source Grok Bot alternative with a virtual machine that bots can use</summary>
+    <content type="html">&lt;p&gt;Open-source Grok Bot alternative with a virtual machine that bots can use&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;17.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
   <entry>
-    <title>google / skills</title>
-    <link href="https://github.com/google/skills"/>
-    <id>b164c25a5e989f6784a1a3bbb62f5c7f</id>
-    <published>2026-11-07T00:31:36.133613+00:00</published>
-    <updated>2026-11-07T00:31:36.133613+00:00</updated>
-    <summary type="text">Agent Skills for Google products and technologies</summary>
-    <content type="html">&lt;p&gt;Agent Skills for Google products and technologies&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;22.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;534&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>sherlock-project / sherlock</title>
+    <link href="https://github.com/sherlock-project/sherlock"/>
+    <id>72931e64031ab9200e4fdb8719b58380</id>
+    <published>2026-11-08T00:06:00.547064+00:00</published>
+    <updated>2026-11-08T00:06:00.547064+00:00</updated>
+    <summary type="text">Hunt down social media accounts by username across social networks</summary>
+    <content type="html">&lt;p&gt;Hunt down social media accounts by username across social networks&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;100.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.8k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
     <title>prometheus / prometheus</title>
     <link href="https://github.com/prometheus/prometheus"/>
     <id>3114c483aac95d9f05bf691fc769452e</id>
-    <published>2026-11-07T00:31:36.133421+00:00</published>
-    <updated>2026-11-07T00:31:36.133421+00:00</updated>
+    <published>2026-11-08T00:06:00.546791+00:00</published>
+    <updated>2026-11-08T00:06:00.546791+00:00</updated>
     <summary type="text">The Prometheus monitoring system and time series database.</summary>
     <content type="html">&lt;p&gt;The Prometheus monitoring system and time series database.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;67.2k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;148&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
+&lt;p&gt;⭐ &lt;strong&gt;67.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;322&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Go&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Go"/>
   </entry>
   <entry>
-    <title>symfony / symfony</title>
-    <link href="https://github.com/symfony/symfony"/>
-    <id>581ea45c9722e6512ece0abb63b929d9</id>
-    <published>2026-11-07T00:31:36.133229+00:00</published>
-    <updated>2026-11-07T00:31:36.133229+00:00</updated>
-    <summary type="text">The Symfony PHP framework</summary>
-    <content type="html">&lt;p&gt;The Symfony PHP framework&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;31.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;9.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;128&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;PHP&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="PHP"/>
-  </entry>
-  <entry>
-    <title>angular / angular</title>
-    <link href="https://github.com/angular/angular"/>
-    <id>0707091cd1b324af0ea5a8f8e73f0324</id>
-    <published>2026-11-07T00:31:36.133032+00:00</published>
-    <updated>2026-11-07T00:31:36.133032+00:00</updated>
-    <summary type="text">Deliver web apps with confidence 🚀</summary>
-    <content type="html">&lt;p&gt;Deliver web apps with confidence 🚀&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;101.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;28.9k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;135&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>meta / astryx</title>
+    <link href="https://github.com/meta/astryx"/>
+    <id>6e0b28eab7c7d549bd9f6abda5e59395</id>
+    <published>2026-11-08T00:06:00.546506+00:00</published>
+    <updated>2026-11-08T00:06:00.546506+00:00</updated>
+    <summary type="text">An open source design system that's fully customizable and agent ready</summary>
+    <content type="html">&lt;p&gt;An open source design system that's fully customizable and agent ready&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;14.5k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;1.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;96&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;TypeScript&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="TypeScript"/>
   </entry>
   <entry>
-    <title>react / react</title>
-    <link href="https://github.com/react/react"/>
-    <id>408b5e16218f68b1daadaa06c95dcfce</id>
-    <published>2026-11-07T00:31:36.132831+00:00</published>
-    <updated>2026-11-07T00:31:36.132831+00:00</updated>
-    <summary type="text">The library for web and native user interfaces.</summary>
-    <content type="html">&lt;p&gt;The library for web and native user interfaces.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;252.3k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;51.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;248&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="JavaScript"/>
-  </entry>
-  <entry>
-    <title>rust-lang / rust</title>
-    <link href="https://github.com/rust-lang/rust"/>
-    <id>eaf1cc1bdf71d748d9c3e611c5ebd0e7</id>
-    <published>2026-11-07T00:31:36.132634+00:00</published>
-    <updated>2026-11-07T00:31:36.132634+00:00</updated>
-    <summary type="text">Empowering everyone to build reliable and efficient software.</summary>
-    <content type="html">&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;121.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;17.4k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;192&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Rust"/>
-  </entry>
-  <entry>
-    <title>mpv-player / mpv</title>
-    <link href="https://github.com/mpv-player/mpv"/>
-    <id>f23b9eaf7e5dc3ff5f7daf9428722a00</id>
-    <published>2026-11-07T00:31:36.132438+00:00</published>
-    <updated>2026-11-07T00:31:36.132438+00:00</updated>
-    <summary type="text">🎥 Command line media player</summary>
-    <content type="html">&lt;p&gt;🎥 Command line media player&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;37.9k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;37&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;C&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="C"/>
-  </entry>
-  <entry>
-    <title>rails / rails</title>
-    <link href="https://github.com/rails/rails"/>
-    <id>348368feb9535b6a1765bb3a9cf41dce</id>
-    <published>2026-11-07T00:31:36.132241+00:00</published>
-    <updated>2026-11-07T00:31:36.132241+00:00</updated>
-    <summary type="text">Ruby on Rails</summary>
-    <content type="html">&lt;p&gt;Ruby on Rails&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;59.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;23.8k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;142&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Ruby&lt;/strong&gt;&lt;/p&gt;</content>
-    <category term="Ruby"/>
-  </entry>
-  <entry>
-    <title>NVIDIA / auto-ontology</title>
-    <link href="https://github.com/NVIDIA/auto-ontology"/>
-    <id>71301b88b686889b41ba966037c5223b</id>
-    <published>2026-11-07T00:31:36.132033+00:00</published>
-    <updated>2026-11-07T00:31:36.132033+00:00</updated>
-    <summary type="text">Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</summary>
-    <content type="html">&lt;p&gt;Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;9.0k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;724&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.0k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>anthropics / skills</title>
+    <link href="https://github.com/anthropics/skills"/>
+    <id>ed76f8fa6882d5cd3a370ccb6210ea9e</id>
+    <published>2026-11-08T00:06:00.546236+00:00</published>
+    <updated>2026-11-08T00:06:00.546236+00:00</updated>
+    <summary type="text">Public repository for Agent Skills</summary>
+    <content type="html">&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;188.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;22.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;390&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Python"/>
   </entry>
   <entry>
-    <title>zed-industries / zed</title>
-    <link href="https://github.com/zed-industries/zed"/>
-    <id>210875ad0c0cd2393909ed934eae23cf</id>
-    <published>2026-11-07T00:31:36.131767+00:00</published>
-    <updated>2026-11-07T00:31:36.131767+00:00</updated>
-    <summary type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</summary>
-    <content type="html">&lt;p&gt;Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.&lt;/p&gt;
-&lt;p&gt;⭐ &lt;strong&gt;93.6k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;11.5k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;306&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
+    <title>mattpocock / skills</title>
+    <link href="https://github.com/mattpocock/skills"/>
+    <id>db65aeffc320da84db587caef81809b0</id>
+    <published>2026-11-08T00:06:00.545958+00:00</published>
+    <updated>2026-11-08T00:06:00.545958+00:00</updated>
+    <summary type="text">Skills for Real Engineers. Straight from my .agents directory.</summary>
+    <content type="html">&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;317.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;26.6k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;1.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Shell&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Shell"/>
+  </entry>
+  <entry>
+    <title>google / skills</title>
+    <link href="https://github.com/google/skills"/>
+    <id>b164c25a5e989f6784a1a3bbb62f5c7f</id>
+    <published>2026-11-08T00:06:00.545613+00:00</published>
+    <updated>2026-11-08T00:06:00.545613+00:00</updated>
+    <summary type="text">Agent Skills for Google products and technologies</summary>
+    <content type="html">&lt;p&gt;Agent Skills for Google products and technologies&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;23.4k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;2.0k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;443&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="Python"/>
+  </entry>
+  <entry>
+    <title>cloudflare / security-audit-skill</title>
+    <link href="https://github.com/cloudflare/security-audit-skill"/>
+    <id>e1f6ce7cf0200c0c91aa2c65fd8d050d</id>
+    <published>2026-11-08T00:06:00.545321+00:00</published>
+    <updated>2026-11-08T00:06:00.545321+00:00</updated>
+    <summary type="text">A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</summary>
+    <content type="html">&lt;p&gt;A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;65.7k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;4.3k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;2.1k&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;</content>
+    <category term="JavaScript"/>
+  </entry>
+  <entry>
+    <title>vercel-labs / agent-browser</title>
+    <link href="https://github.com/vercel-labs/agent-browser"/>
+    <id>c2902c0fcdc908176808b66a62b09dca</id>
+    <published>2026-11-08T00:06:00.545002+00:00</published>
+    <updated>2026-11-08T00:06:00.545002+00:00</updated>
+    <summary type="text">Browser automation CLI for AI agents</summary>
+    <content type="html">&lt;p&gt;Browser automation CLI for AI agents&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;46.8k&lt;/strong&gt; stars &amp;middot; 🍴 &lt;strong&gt;3.2k&lt;/strong&gt; forks &amp;middot; 🔥 &lt;strong&gt;190&lt;/strong&gt; stars today &amp;middot; 💻 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/p&gt;</content>
     <category term="Rust"/>
   </entry>
 </feed>

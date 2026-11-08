@@ -31,7 +31,7 @@
     <id>ed86cb48cae72e9a3386476b0a87f724</id>
     <published>2026-10-25T20:00:00.000Z</published>
     <updated>2026-10-25T20:00:00.000Z</updated>
-    <summary type="text">Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternativ... \u00b7 Upvotes: 17 \u00b7 GitHub Stars: 5221 \u00b7 Authors: Shuo Shen, Guangran Cheng, Chengqi Lyu</summary>
+    <summary type="text">Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternativ... \u00b7 Upvotes: 17 \u00b7 GitHub Stars: 5222 \u00b7 Authors: Shuo Shen, Guangran Cheng, Chengqi Lyu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +41,7 @@
     <id>0053006de6394a1ef85d8bc39123932b</id>
     <published>2026-10-25T20:00:00.000Z</published>
     <updated>2026-10-25T20:00:00.000Z</updated>
-    <summary type="text">Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verif... \u00b7 Upvotes: 168 \u00b7 GitHub Stars: 57 \u00b7 Authors: Weidong Tang, Ruiheng Wang, Jingxuan Zhang</summary>
+    <summary type="text">Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verif... \u00b7 Upvotes: 159 \u00b7 GitHub Stars: 60 \u00b7 Authors: Weidong Tang, Ruiheng Wang, Jingxuan Zhang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +51,7 @@
     <id>c962b7ffc0a6ed65d859b294d13c42d9</id>
     <published>2026-10-18T20:00:00.000Z</published>
     <updated>2026-10-18T20:00:00.000Z</updated>
-    <summary type="text">Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new... \u00b7 Upvotes: 137 \u00b7 GitHub Stars: 526 \u00b7 Authors: Zhiyu Li, Zeyu Zhang, Linyun Liu</summary>
+    <summary type="text">Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new... \u00b7 Upvotes: 137 \u00b7 GitHub Stars: 527 \u00b7 Authors: Zhiyu Li, Zeyu Zhang, Linyun Liu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +61,17 @@
     <id>0c1052cbf5c5924076cef4a9e95bfe96</id>
     <published>2026-10-15T20:00:00.000Z</published>
     <updated>2026-10-15T20:00:00.000Z</updated>
-    <summary type="text">Recent closed-source image generation systems can produce diverse visual content from simple compositions to information-dense graphics, yet open-weight text-to-image models still struggle with dense ... \u00b7 Upvotes: 92 \u00b7 GitHub Stars: 2682 \u00b7 Authors: MOSI. AI</summary>
+    <summary type="text">Recent closed-source image generation systems can produce diverse visual content from simple compositions to information-dense graphics, yet open-weight text-to-image models still struggle with dense ... \u00b7 Upvotes: 92 \u00b7 GitHub Stars: 2711 \u00b7 Authors: MOSI. AI</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>Has GPT-6-Astra Achieved Embodied Intelligence?</title>
+    <link href="https://arxiv.org/abs/2610.22471"/>
+    <id>3ccaf14b33535bf47dbc010f652d30a1</id>
+    <published>2026-10-14T20:00:00.000Z</published>
+    <updated>2026-10-14T20:00:00.000Z</updated>
+    <summary type="text">GPT-6-Astra demonstrates a level of competence in robotic manipulation and navigation that challenges the conventional paradigm of building specialized models for individual tasks and embodiments. In ... \u00b7 Upvotes: 135 \u00b7 GitHub Stars: 504 \u00b7 Authors: SenseNova, Joint Research Team, Zhongang Cai</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -71,7 +81,7 @@
     <id>6c2dc67f7784b53354883c15aad296eb</id>
     <published>2026-10-14T20:00:00.000Z</published>
     <updated>2026-10-14T20:00:00.000Z</updated>
-    <summary type="text">Advances in frontier coding agents have sharply increased the token costs of AI-assisted software engineering. Their token efficiency is typically evaluated on isolated tasks, whereas real-world devel... \u00b7 Upvotes: 13 \u00b7 GitHub Stars: 4866 \u00b7 Authors: Aaron J. Li, Weijia Xu, Chandan Singh</summary>
+    <summary type="text">Advances in frontier coding agents have sharply increased the token costs of AI-assisted software engineering. Their token efficiency is typically evaluated on isolated tasks, whereas real-world devel... \u00b7 Upvotes: 13 \u00b7 GitHub Stars: 4930 \u00b7 Authors: Aaron J. Li, Weijia Xu, Chandan Singh</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -81,7 +91,17 @@
     <id>da31e4001ee621d46acbf3bc8e8a7a0c</id>
     <published>2026-10-12T20:00:00.000Z</published>
     <updated>2026-10-12T20:00:00.000Z</updated>
-    <summary type="text">System one models enable direct, low-latency decision-making. Yet recent practice of predicting an answer from serialized text does not, by itself, respect the structure of a decision problem. We argu... \u00b7 Upvotes: 138 \u00b7 GitHub Stars: 230 \u00b7 Authors: Qi Li, Xinchao Wang</summary>
+    <summary type="text">System one models enable direct, low-latency decision-making. Yet recent practice of predicting an answer from serialized text does not, by itself, respect the structure of a decision problem. We argu... \u00b7 Upvotes: 138 \u00b7 GitHub Stars: 231 \u00b7 Authors: Qi Li, Xinchao Wang</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
+    <title>StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions</title>
+    <link href="https://arxiv.org/abs/2610.17309"/>
+    <id>26181656801507a6db71505f86952458</id>
+    <published>2026-10-11T20:00:00.000Z</published>
+    <updated>2026-10-11T20:00:00.000Z</updated>
+    <summary type="text">We introduce StartLux-Decision, decision models from 0.8B to 27B parameters that combine efficient single-pass prediction with adaptive, confidence-guided reasoning. The Instant models use bidirection... \u00b7 Upvotes: 26 \u00b7 GitHub Stars: 1667 \u00b7 Authors: Xialie Zhuang, Zunhai Su, Jia Pan</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -91,37 +111,17 @@
     <id>8e5f5d04101a157be48e20cd4958f1f3</id>
     <published>2026-10-08T20:00:00.000Z</published>
     <updated>2026-10-08T20:00:00.000Z</updated>
-    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 67 \u00b7 GitHub Stars: 22900 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
+    <summary type="text">LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha... \u00b7 Upvotes: 67 \u00b7 GitHub Stars: 23009 \u00b7 Authors: Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
   <entry>
-    <title>Long-WAM: Scaling the Context of World-Action Models</title>
-    <link href="https://arxiv.org/abs/2610.10528"/>
-    <id>cd7695280a5fdcd53eebb0adbd0746a3</id>
-    <published>2026-10-06T20:00:00.000Z</published>
-    <updated>2026-10-06T20:00:00.000Z</updated>
-    <summary type="text">Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con... \u00b7 Upvotes: 91 \u00b7 GitHub Stars: 2872 \u00b7 Authors: Wei Huang, Bohan Zhang, Chenzhi Liu</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight</title>
-    <link href="https://arxiv.org/abs/2610.08077"/>
-    <id>20640c4597f7b086e27b0bf656d358f5</id>
-    <published>2026-10-05T20:00:00.000Z</published>
-    <updated>2026-10-05T20:00:00.000Z</updated>
-    <summary type="text">Reinforcement learning with verifiable rewards (RLVR) turns agent experience into learning signals primarily through scalar outcome rewards after interaction. For group-relative objectives, however, t... \u00b7 Upvotes: 164 \u00b7 GitHub Stars: 14 \u00b7 Authors: Haoxiang Zhang, Qinglin Chen, Hiroaki Hayashi</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>nanoMuse: An Open-Source Personal Agent for Every Device You Own</title>
-    <link href="https://arxiv.org/abs/2610.08699"/>
-    <id>d9f164840f9b3f2476492fc6ddcb41bc</id>
-    <published>2026-10-05T20:00:00.000Z</published>
-    <updated>2026-10-05T20:00:00.000Z</updated>
-    <summary type="text">Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation t... \u00b7 Upvotes: 102 \u00b7 GitHub Stars: 3262 \u00b7 Authors: Guangyi Liu, Yong Liu, Jiangning Zhang</summary>
+    <title>Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation</title>
+    <link href="https://arxiv.org/abs/2610.14162"/>
+    <id>defa198031a2fe9a9c68db0d9616a886</id>
+    <published>2026-10-08T20:00:00.000Z</published>
+    <updated>2026-10-08T20:00:00.000Z</updated>
+    <summary type="text">Diffusion language models (DLMs) offer parallel sampling for faster generation than autoregressive models, an increasingly important advantage as inference becomes a dominant computational workload. H... \u00b7 Upvotes: 23 \u00b7 GitHub Stars: 1497 \u00b7 Authors: Hermann Kumbong, Ishan S. Khare, Iddah Mlauzi</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
