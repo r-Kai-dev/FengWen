@@ -27,6 +27,15 @@
     <category term="blog"/>
   </entry>
   <entry>
+    <title>Accelerating GLM-5.3-Flash on H200: High-Throughput Disaggregated Serving</title>
+    <link href="https://lmsys.org/blog/2026-11-01-glm53-h200-pd"/>
+    <id>89b1fe4f84fa5f38243d81f260b44edd</id>
+    <published>2026-11-01T00:00:00+00:00</published>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <summary type="text">GLM-5.3-Flash combines sparse attention, recurrent linear attention, and MoE. Serving it efficiently at long context lengths requires sufficient memory to sustain high concurrency, low execution cost per output token, and sufficient prefill throughput to keep decode busy.</summary>
+    <category term="blog"/>
+  </entry>
+  <entry>
     <title>Training SWE agents with Miles on MI355X: taming long-tail trajectories and complex sandbox coordination</title>
     <link href="https://lmsys.org/blog/2026-10-22-miles-mi355x-agentic-rl"/>
     <id>7abbaa90c397be94e7ee7e902bbfc982</id>

@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-11-05T00:00:00+00:00</updated>
+  <updated>2026-11-09T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>How to Detect AI-Generated and Automated Calls in Your Contact Center</title>
+    <link href="https://www.resemble.ai/resources/detect-ai-generated-and-automated-calls-in-contact-centers"/>
+    <id>31ba8c66b697e0ee61a67f291d3712e5</id>
+    <published>2026-11-09T00:00:00+00:00</published>
+    <updated>2026-11-09T00:00:00+00:00</updated>
+    <summary type="text">Learn how to spot AI-generated and automated calls, and how contact centers can detect them in real time.</summary>
+    <category term="Guide"/>
+  </entry>
   <entry>
     <title>The Deepfake Watchlist: Week of October 30–November 5, 2026</title>
     <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-october-30-november-5-2026"/>
@@ -106,14 +115,5 @@
     <updated>2026-10-27T00:00:00+00:00</updated>
     <summary type="text">Learn how to detect deepfake videos using 10 warning signs, source verification, provenance checks, and AI detection tools, plus what visual clues can miss.</summary>
     <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>The Deepfake Watchlist: Week of October 16–22, 2026</title>
-    <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-october-16-22-2026"/>
-    <id>48654d13f48af862c53099a95448dbf2</id>
-    <published>2026-10-23T00:00:00+00:00</published>
-    <updated>2026-10-23T00:00:00+00:00</updated>
-    <summary type="text">‍The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
-    <category term="Deepfake Watchlist"/>
   </entry>
 </feed>

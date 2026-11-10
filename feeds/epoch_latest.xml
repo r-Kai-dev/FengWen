@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-11-06T00:00:00+00:00</updated>
+  <updated>2026-11-09T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Inference Performance Index: changing the way we measure inference capacity</title>
+    <link href="https://epoch.ai/publications/inference-performance-index"/>
+    <id>89151feeaef0544ab26fd550db5d73b3</id>
+    <published>2026-11-09T00:00:00+00:00</published>
+    <updated>2026-11-09T00:00:00+00:00</updated>
+    <summary type="text">Epoch AI's Inference Performance Index, which goes beyond the underestimates of FLOP/s measures and scores chips on memory and communication</summary>
+    <category term="Report"/>
+  </entry>
   <entry>
     <title>What Huawei’s Horinger data center reveals about China’s compute gap</title>
     <link href="https://epoch.ai/publications/huawei-horinger-china-compute-gap"/>
@@ -87,15 +96,6 @@
     <published>2026-10-14T00:00:00+00:00</published>
     <updated>2026-10-14T00:00:00+00:00</updated>
     <summary type="text">Months ago, frontier models could barely beat Slay the Spire. Now they win 90%+ at the easiest setting and up to 20% at the hardest. Results from Epoch AI’s new SpireClimb benchmark.</summary>
-    <category term="Report"/>
-  </entry>
-  <entry>
-    <title>Can AI automate Epoch?</title>
-    <link href="https://epoch.ai/publications/can-ai-automate-epoch"/>
-    <id>9c819e7cba5959007bd237820cc7b9f6</id>
-    <published>2026-10-08T00:00:00+00:00</published>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <summary type="text">Frontier models can handle well-defined tasks reliably, but fail in the more open-ended aspects that prevent full work automation. Explore Epoch AI's Automation Reports: realistic, open-ended tasks taken directly from our work, manually graded by our own standards.</summary>
     <category term="Report"/>
   </entry>
 </feed>

@@ -4,96 +4,244 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-11-08T19:37:42+00:00</updated>
+  <updated>2026-11-09T20:04:55+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>我如何对抗AI造成的脑力透支 / How I Fight AI Brain Fry</title>
-    <link href="https://sergeykuhne.com/blog/fighting-ai-brain-fry"/>
-    <id>786c3f729af0c28b993636e0130dbc6e</id>
-    <published>2026-11-08T19:37:42+00:00</published>
-    <updated>2026-11-08T19:37:42+00:00</updated>
-    <summary type="text">Score: 0.542\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>硅谷承诺AI能治愈疾病，制药公司CEO们并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It</title>
-    <link href="https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c"/>
-    <id>8748b6ba1b567a8f69182120bcf6895d</id>
-    <published>2026-11-08T18:43:07+00:00</published>
-    <updated>2026-11-08T18:43:07+00:00</updated>
-    <summary type="text">Score: 0.539\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>高盛正在撤走银行家和交易员使用的 Claude Code / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders</title>
-    <link href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"/>
-    <id>dc5c298aa12ca64bfe756b751ccf87a2</id>
-    <published>2026-11-08T18:16:07+00:00</published>
-    <updated>2026-11-08T18:16:07+00:00</updated>
-    <summary type="text">Score: 0.538\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>OpenAI以1.25万亿美元估值融资110亿美元</title>
-    <link href="https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought"/>
-    <id>87e44ba017075dba264ba6be9489527c</id>
-    <published>2026-11-08T14:49:23+00:00</published>
-    <updated>2026-11-08T14:49:23+00:00</updated>
-    <summary type="text">Score: 0.570\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分</title>
+    <link href="https://artificialanalysis.ai/models/claude-fable-5-2"/>
+    <id>e422a9f4fad0687f3912f32612e36c3c</id>
+    <published>2026-11-09T20:04:55+00:00</published>
+    <updated>2026-11-09T20:04:55+00:00</updated>
+    <summary type="text">Score: 0.564\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>anthropics/claude-quickstarts — 一组项目合集，帮开发者快速上手，用 Claude API 构建可部署的应用 / anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</title>
-    <link href="https://github.com/anthropics/claude-quickstarts"/>
-    <id>67fee68ef203580a0707f9f3bc3d1ccf</id>
-    <published>2026-11-08T11:56:08.683320+00:00</published>
-    <updated>2026-11-08T11:56:08.683320+00:00</updated>
-    <summary type="text">Score: 0.572\nSources: 2 (GitHub Trending)\nImportance: 值得关注</summary>
+    <title>Anthropic 发布全新 Claude Fable 和 Mythos 5.2 模型 / Anthropic launches new Claude Fable and Mythos 5.2 models</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"/>
+    <id>13ffb9cac7b33b38a9f965aa93085791</id>
+    <published>2026-11-09T19:00:00+00:00</published>
+    <updated>2026-11-09T19:00:00+00:00</updated>
+    <summary type="text">Score: 0.626\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界</title>
-    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45"/>
-    <id>a088f35dc4769d5b4dfab565ee394f87</id>
-    <published>2026-11-08T11:34:35+00:00</published>
-    <updated>2026-11-08T11:34:35+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
+    <title>ChatGPT Enterprise 现已上架 AWS Marketplace / ChatGPT Enterprise now available in AWS Marketplace</title>
+    <link href="https://openai.com/index/chatgpt-enterprise-aws-marketplace"/>
+    <id>1b5ecb34f0b618895cd9f4dd932a5583</id>
+    <published>2026-11-09T19:00:00+00:00</published>
+    <updated>2026-11-09T19:00:00+00:00</updated>
+    <summary type="text">Score: 0.846\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员</title>
+    <link href="https://github.com/thisisme6598/gemini_files"/>
+    <id>f5d2164c5951618332daa1bfe74d3101</id>
+    <published>2026-11-09T18:24:38+00:00</published>
+    <updated>2026-11-09T18:24:38+00:00</updated>
+    <summary type="text">Score: 0.563\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot"/>
+    <id>5a8d198b96d852837055a874e2528568</id>
+    <published>2026-11-09T16:46:43+00:00</published>
+    <updated>2026-11-09T16:46:43+00:00</updated>
+    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Nemotron-Personas-Finance-Japan：一个还原日本人口结构与金融背景的合成数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context</title>
+    <link href="https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"/>
+    <id>1c52d9ea4f4bde953a3360b1cf3bce94</id>
+    <published>2026-11-09T15:05:57+00:00</published>
+    <updated>2026-11-09T15:05:57+00:00</updated>
+    <summary type="text">Score: 0.847\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>homeassistant-ai/ha-mcp — 用 Claude、ChatGPT 等 AI 助手配置并自动化 Home Assistant。 / homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.</title>
+    <link href="https://github.com/homeassistant-ai/ha-mcp"/>
+    <id>b17d3b4e9eb6ddbfc5aa687aaeeb4cc3</id>
+    <published>2026-11-09T13:54:36.109208+00:00</published>
+    <updated>2026-11-09T13:54:36.109208+00:00</updated>
+    <summary type="text">Score: 0.568\nSources: 2 (GitHub Trending)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元</title>
+    <link href="https://www.aibase.com/news/32187"/>
+    <id>30f5c0dc50c603014ec5c3071575b8a9</id>
+    <published>2026-11-09T13:54:36.109208+00:00</published>
+    <updated>2026-11-09T13:54:36.109208+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU</title>
-    <link href="https://github.com/synchopate/llama-modchip"/>
-    <id>10458a30c5755a3002556248cfcc6dfe</id>
-    <published>2026-11-08T10:22:04+00:00</published>
-    <updated>2026-11-08T10:22:04+00:00</updated>
-    <summary type="text">Score: 0.570\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级</title>
+    <link href="https://www.aibase.com/news/32184"/>
+    <id>654f93c6a99a7bd6e90e8d95ba5d5b56</id>
+    <published>2026-11-09T13:54:36.109208+00:00</published>
+    <updated>2026-11-09T13:54:36.109208+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
   </entry>
   <entry>
-    <title>再见Claude，你好Pi / Goodbye Claude, hello Pi</title>
-    <link href="https://caleb.software/posts/claude-to-pi.html"/>
-    <id>518571a906e6e6e10be857134ef621d8</id>
-    <published>2026-11-08T03:11:48+00:00</published>
-    <updated>2026-11-08T03:11:48+00:00</updated>
-    <summary type="text">Score: 0.505\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <title>字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板</title>
+    <link href="https://www.aibase.com/news/32186"/>
+    <id>0f6db4b160b0446329347864814402aa</id>
+    <published>2026-11-09T13:54:36.109208+00:00</published>
+    <updated>2026-11-09T13:54:36.109208+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制</title>
+    <link href="https://www.aibase.com/news/32182"/>
+    <id>39b5cf9ea8b4bcf1f9d3131bdfe7b637</id>
+    <published>2026-11-09T13:54:36.109208+00:00</published>
+    <updated>2026-11-09T13:54:36.109208+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏</title>
+    <link href="https://www.aibase.com/news/32185"/>
+    <id>aff549344db41886cf31f50afe5f0ad3</id>
+    <published>2026-11-09T13:54:36.109208+00:00</published>
+    <updated>2026-11-09T13:54:36.109208+00:00</updated>
+    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Dageno AI 2.0 — 看看AI为什么推荐你的竞争对手，而不是你 / Dageno AI 2.0 — See why AI recommends your competitors instead of you</title>
+    <link href="https://www.producthunt.com/products/agent-powered-geo-by-dageno"/>
+    <id>6233d208a33edb0e4aa2b25c68cc3c1c</id>
+    <published>2026-11-09T13:43:26.290000+00:00</published>
+    <updated>2026-11-09T13:43:26.290000+00:00</updated>
+    <summary type="text">Score: 0.594\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Product Hunt MCP — 你信赖的社区，就在你使用的助手里 / Product Hunt MCP — The community you trust in the assistant you use</title>
+    <link href="https://www.producthunt.com/products/producthunt"/>
+    <id>903bf499029f681f844121955428adef</id>
+    <published>2026-11-09T13:43:26.290000+00:00</published>
+    <updated>2026-11-09T13:43:26.290000+00:00</updated>
+    <summary type="text">Score: 0.594\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Control Room：一个集中式系统，用于跟踪并停止我们研究基础设施中的模型工作负载 / Control Room: A central system to track and stop model workloads across our research infrastructure</title>
+    <link href="https://openai.com/index/control-room"/>
+    <id>b37780ae169725b08826ec88aee622cc</id>
+    <published>2026-11-09T13:00:00+00:00</published>
+    <updated>2026-11-09T13:00:00+00:00</updated>
+    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>你的专家各有搭档，HOPE 能让它们保持在一起 / Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
+    <link href="https://huggingface.co/blog/amazon/higher-order-pruning-experts"/>
+    <id>9abf7eec9d2359703cc9346d4d47fed5</id>
+    <published>2026-11-09T12:34:29+00:00</published>
+    <updated>2026-11-09T12:34:29+00:00</updated>
+    <summary type="text">Score: 0.831\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Secret scanning 现可检测 GitHub Actions 工作流日志中的密钥 / Secret scanning detects secrets in GitHub Actions workflow logs</title>
+    <link href="https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"/>
+    <id>3ff2a6a1603e899597e9271c381f15e9</id>
+    <published>2026-11-09T09:01:37+00:00</published>
+    <updated>2026-11-09T09:01:37+00:00</updated>
+    <summary type="text">Score: 0.807\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI</title>
+    <link href="https://www.aibase.com/news/32176"/>
+    <id>2f0b19dd064a9434a567771565e554f0</id>
+    <published>2026-11-09T08:02:09.890828+00:00</published>
+    <updated>2026-11-09T08:02:09.890828+00:00</updated>
+    <summary type="text">Score: 0.729\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>CodeRabbit 扩大智能体软件开发规模，交付量提升 20 倍 / CodeRabbit scales agentic software development and ships 20x more</title>
+    <link href="https://openai.com/index/coderabbit-codex-daybreak"/>
+    <id>ee12c25b20eb75eee128ab6c60a82278</id>
+    <published>2026-11-09T08:00:00+00:00</published>
+    <updated>2026-11-09T08:00:00+00:00</updated>
+    <summary type="text">Score: 0.813\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Kuken Industries 几分钟内检索完 70 年图纸 / Kuken Industries searches 70 years of drawings in minutes</title>
+    <link href="https://openai.com/index/kuken"/>
+    <id>d6fc476d8b9ca0baed42ac4d0e85d8bf</id>
+    <published>2026-11-09T08:00:00+00:00</published>
+    <updated>2026-11-09T08:00:00+00:00</updated>
+    <summary type="text">Score: 0.813\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
 </feed>
