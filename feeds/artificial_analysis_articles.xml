@@ -4,10 +4,17 @@
   <icon>https://artificialanalysis.ai/favicon.ico</icon>
   <link href="https://artificialanalysis.ai/articles"/>
   <id>https://artificialanalysis.ai/articles</id>
-  <updated>2026-11-09T00:00:00+00:00</updated>
+  <updated>2026-11-10T00:00:00+00:00</updated>
   <author>
     <name>Artificial Analysis</name>
   </author>
+  <entry>
+    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual files</title>
+    <link href="https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent"/>
+    <id>2280e05631602dfaa97f82969a3c815d</id>
+    <published>2026-11-10T00:00:00+00:00</published>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+  </entry>
   <entry>
     <title>Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence Index</title>
     <link href="https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index"/>
@@ -84,12 +91,5 @@
     <id>d735a23d6c9c2d0223a9203de861d569</id>
     <published>2026-10-23T00:00:00+00:00</published>
     <updated>2026-10-23T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>HealthBench and HealthBench Professional: Evaluating models in realistic health conversations</title>
-    <link href="https://artificialanalysis.ai/articles/healthbench-professional-health-conversations"/>
-    <id>f5e1d05faeb20af2e60909a9f6f5065d</id>
-    <published>2026-10-19T00:00:00+00:00</published>
-    <updated>2026-10-19T00:00:00+00:00</updated>
   </entry>
 </feed>

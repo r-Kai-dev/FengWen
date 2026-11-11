@@ -4,10 +4,19 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-10-29</updated>
+  <updated>2026-11-10</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>To Critic or Not to Critic: GRPO vs PPO</title>
+    <link href="https://labs.scale.com/blog/to-critic-or-not-to-critic-grpo-vs-ppo"/>
+    <id>83b2c9fe8ccc3370a00ac6191bc7f2b1</id>
+    <published>2026-11-10</published>
+    <updated>2026-11-10</updated>
+    <summary type="text"> As agentic tasks become more complex and rollouts become longer and more expensive, improving the efficiency of reinforcement learning becomes increasingly important. Critics can reduce gradient variance, allowing models to learn from fewer trajectories, but they also introduce additional compute costs and potential bias. Understanding when a critic should be applied remains an important open question. — By Jason Wei, George Pu, Jingxuan Fan, Yuan (Emily) Xue, Yuan (Christy) Li</summary>
+    <category term="Post-Training"/>
+  </entry>
   <entry>
     <title>FineART: Scale AIâs First Open-Source Robotics Dataset and Model</title>
     <link href="https://labs.scale.com/blog/fineart"/>

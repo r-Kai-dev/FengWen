@@ -4,39 +4,17 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-11-09T20:04:55+00:00</updated>
+  <updated>2026-11-10T19:26:51+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分</title>
-    <link href="https://artificialanalysis.ai/models/claude-fable-5-2"/>
-    <id>e422a9f4fad0687f3912f32612e36c3c</id>
-    <published>2026-11-09T20:04:55+00:00</published>
-    <updated>2026-11-09T20:04:55+00:00</updated>
-    <summary type="text">Score: 0.564\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Anthropic 发布全新 Claude Fable 和 Mythos 5.2 模型 / Anthropic launches new Claude Fable and Mythos 5.2 models</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"/>
-    <id>13ffb9cac7b33b38a9f965aa93085791</id>
-    <published>2026-11-09T19:00:00+00:00</published>
-    <updated>2026-11-09T19:00:00+00:00</updated>
-    <summary type="text">Score: 0.626\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>ChatGPT Enterprise 现已上架 AWS Marketplace / ChatGPT Enterprise now available in AWS Marketplace</title>
-    <link href="https://openai.com/index/chatgpt-enterprise-aws-marketplace"/>
-    <id>1b5ecb34f0b618895cd9f4dd932a5583</id>
-    <published>2026-11-09T19:00:00+00:00</published>
-    <updated>2026-11-09T19:00:00+00:00</updated>
-    <summary type="text">Score: 0.846\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Gemini 4 Carbon in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot"/>
+    <id>ff1b444487d0218e38e33be69ec64da8</id>
+    <published>2026-11-10T19:26:51+00:00</published>
+    <updated>2026-11-10T19:26:51+00:00</updated>
+    <summary type="text">Score: 0.853\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -44,23 +22,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员</title>
-    <link href="https://github.com/thisisme6598/gemini_files"/>
-    <id>f5d2164c5951618332daa1bfe74d3101</id>
-    <published>2026-11-09T18:24:38+00:00</published>
-    <updated>2026-11-09T18:24:38+00:00</updated>
-    <summary type="text">Score: 0.563\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot</title>
-    <link href="https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot"/>
-    <id>5a8d198b96d852837055a874e2528568</id>
-    <published>2026-11-09T16:46:43+00:00</published>
-    <updated>2026-11-09T16:46:43+00:00</updated>
-    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Gemini Intelligence：新功能登陆更多设备 / Gemini Intelligence: New features, on more devices</title>
+    <link href="https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices"/>
+    <id>75ecb82f306aa460edafd2afdc069c22</id>
+    <published>2026-11-10T19:00:00+00:00</published>
+    <updated>2026-11-10T19:00:00+00:00</updated>
+    <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -68,125 +35,11 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Nemotron-Personas-Finance-Japan：一个还原日本人口结构与金融背景的合成数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context</title>
-    <link href="https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"/>
-    <id>1c52d9ea4f4bde953a3360b1cf3bce94</id>
-    <published>2026-11-09T15:05:57+00:00</published>
-    <updated>2026-11-09T15:05:57+00:00</updated>
-    <summary type="text">Score: 0.847\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>homeassistant-ai/ha-mcp — 用 Claude、ChatGPT 等 AI 助手配置并自动化 Home Assistant。 / homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.</title>
-    <link href="https://github.com/homeassistant-ai/ha-mcp"/>
-    <id>b17d3b4e9eb6ddbfc5aa687aaeeb4cc3</id>
-    <published>2026-11-09T13:54:36.109208+00:00</published>
-    <updated>2026-11-09T13:54:36.109208+00:00</updated>
-    <summary type="text">Score: 0.568\nSources: 2 (GitHub Trending)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元</title>
-    <link href="https://www.aibase.com/news/32187"/>
-    <id>30f5c0dc50c603014ec5c3071575b8a9</id>
-    <published>2026-11-09T13:54:36.109208+00:00</published>
-    <updated>2026-11-09T13:54:36.109208+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级</title>
-    <link href="https://www.aibase.com/news/32184"/>
-    <id>654f93c6a99a7bd6e90e8d95ba5d5b56</id>
-    <published>2026-11-09T13:54:36.109208+00:00</published>
-    <updated>2026-11-09T13:54:36.109208+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板</title>
-    <link href="https://www.aibase.com/news/32186"/>
-    <id>0f6db4b160b0446329347864814402aa</id>
-    <published>2026-11-09T13:54:36.109208+00:00</published>
-    <updated>2026-11-09T13:54:36.109208+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制</title>
-    <link href="https://www.aibase.com/news/32182"/>
-    <id>39b5cf9ea8b4bcf1f9d3131bdfe7b637</id>
-    <published>2026-11-09T13:54:36.109208+00:00</published>
-    <updated>2026-11-09T13:54:36.109208+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏</title>
-    <link href="https://www.aibase.com/news/32185"/>
-    <id>aff549344db41886cf31f50afe5f0ad3</id>
-    <published>2026-11-09T13:54:36.109208+00:00</published>
-    <updated>2026-11-09T13:54:36.109208+00:00</updated>
-    <summary type="text">Score: 0.742\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Dageno AI 2.0 — 看看AI为什么推荐你的竞争对手，而不是你 / Dageno AI 2.0 — See why AI recommends your competitors instead of you</title>
-    <link href="https://www.producthunt.com/products/agent-powered-geo-by-dageno"/>
-    <id>6233d208a33edb0e4aa2b25c68cc3c1c</id>
-    <published>2026-11-09T13:43:26.290000+00:00</published>
-    <updated>2026-11-09T13:43:26.290000+00:00</updated>
-    <summary type="text">Score: 0.594\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Product Hunt MCP — 你信赖的社区，就在你使用的助手里 / Product Hunt MCP — The community you trust in the assistant you use</title>
-    <link href="https://www.producthunt.com/products/producthunt"/>
-    <id>903bf499029f681f844121955428adef</id>
-    <published>2026-11-09T13:43:26.290000+00:00</published>
-    <updated>2026-11-09T13:43:26.290000+00:00</updated>
-    <summary type="text">Score: 0.594\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Control Room：一个集中式系统，用于跟踪并停止我们研究基础设施中的模型工作负载 / Control Room: A central system to track and stop model workloads across our research infrastructure</title>
-    <link href="https://openai.com/index/control-room"/>
-    <id>b37780ae169725b08826ec88aee622cc</id>
-    <published>2026-11-09T13:00:00+00:00</published>
-    <updated>2026-11-09T13:00:00+00:00</updated>
-    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>你的专家各有搭档，HOPE 能让它们保持在一起 / Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
-    <link href="https://huggingface.co/blog/amazon/higher-order-pruning-experts"/>
-    <id>9abf7eec9d2359703cc9346d4d47fed5</id>
-    <published>2026-11-09T12:34:29+00:00</published>
-    <updated>2026-11-09T12:34:29+00:00</updated>
+    <title>C++ language server 现在可自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds</title>
+    <link href="https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds"/>
+    <id>1eb06d40762c4b99cbfa4d8c47fb8319</id>
+    <published>2026-11-10T17:04:10+00:00</published>
+    <updated>2026-11-10T17:04:10+00:00</updated>
     <summary type="text">Score: 0.831\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -195,12 +48,26 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Secret scanning 现可检测 GitHub Actions 工作流日志中的密钥 / Secret scanning detects secrets in GitHub Actions workflow logs</title>
-    <link href="https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"/>
-    <id>3ff2a6a1603e899597e9271c381f15e9</id>
-    <published>2026-11-09T09:01:37+00:00</published>
-    <updated>2026-11-09T09:01:37+00:00</updated>
-    <summary type="text">Score: 0.807\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Gemini 4 Carbon 现已上线 / Gemini 4 Carbon is now available</title>
+    <link href="https://deepmind.google/blog/gemini-4-carbon-is-now-available"/>
+    <id>1c1475163d0c94c95651013b409f88f2</id>
+    <published>2026-11-10T16:03:47+00:00</published>
+    <updated>2026-11-10T16:03:47+00:00</updated>
+    <summary type="text">Score: 0.911\nSources: 4 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Dependabot 将暂停对不活跃仓库的提醒 / Dependabot alerts will pause on inactive repositories</title>
+    <link href="https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories"/>
+    <id>939b03af515bb4095df765068142f2ae</id>
+    <published>2026-11-10T14:20:05+00:00</published>
+    <updated>2026-11-10T14:20:05+00:00</updated>
+    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -208,23 +75,69 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI</title>
-    <link href="https://www.aibase.com/news/32176"/>
-    <id>2f0b19dd064a9434a567771565e554f0</id>
-    <published>2026-11-09T08:02:09.890828+00:00</published>
-    <updated>2026-11-09T08:02:09.890828+00:00</updated>
-    <summary type="text">Score: 0.729\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>我们让 Adobe 的创意与效率工具更贴近你日常使用的 Google 应用。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.</title>
+    <link href="https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration"/>
+    <id>cf2202f57f91f9e7dd7c6314e5dcc107</id>
+    <published>2026-11-10T14:00:00+00:00</published>
+    <updated>2026-11-10T14:00:00+00:00</updated>
+    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场</title>
+    <link href="https://www.aibase.com/news/32219"/>
+    <id>e3a4762eb8db42d49526d1eaf0d4679c</id>
+    <published>2026-11-10T13:28:16.749097+00:00</published>
+    <updated>2026-11-10T13:28:16.749097+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>CodeRabbit 扩大智能体软件开发规模，交付量提升 20 倍 / CodeRabbit scales agentic software development and ships 20x more</title>
-    <link href="https://openai.com/index/coderabbit-codex-daybreak"/>
-    <id>ee12c25b20eb75eee128ab6c60a82278</id>
-    <published>2026-11-09T08:00:00+00:00</published>
-    <updated>2026-11-09T08:00:00+00:00</updated>
-    <summary type="text">Score: 0.813\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测</title>
+    <link href="https://www.aibase.com/news/32218"/>
+    <id>1ac09ce59cda3ca7015685b1187a6823</id>
+    <published>2026-11-10T13:28:16.749097+00:00</published>
+    <updated>2026-11-10T13:28:16.749097+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级</title>
+    <link href="https://www.aibase.com/news/32217"/>
+    <id>d0bdc15851ead6031b9c9ced6e0166db</id>
+    <published>2026-11-10T13:28:16.749097+00:00</published>
+    <updated>2026-11-10T13:28:16.749097+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>肯德基在日本翻车：AI 画的商品图，连冰块都&quot;染了色&quot;</title>
+    <link href="https://www.aibase.com/news/32216"/>
+    <id>e0975520272fd2ae5a35d07757839505</id>
+    <published>2026-11-10T13:28:16.749097+00:00</published>
+    <updated>2026-11-10T13:28:16.749097+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>Google Cloud 推出面向医疗行业的 Gemini / Google Cloud launches Gemini for healthcare.</title>
+    <link href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare"/>
+    <id>c1698c560fae8a1084b13a9faa766d66</id>
+    <published>2026-11-10T13:00:00+00:00</published>
+    <updated>2026-11-10T13:00:00+00:00</updated>
+    <summary type="text">Score: 0.835\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -232,12 +145,117 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Kuken Industries 几分钟内检索完 70 年图纸 / Kuken Industries searches 70 years of drawings in minutes</title>
-    <link href="https://openai.com/index/kuken"/>
-    <id>d6fc476d8b9ca0baed42ac4d0e85d8bf</id>
-    <published>2026-11-09T08:00:00+00:00</published>
-    <updated>2026-11-09T08:00:00+00:00</updated>
-    <summary type="text">Score: 0.813\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>推出 AlphaProof Code：深度验证复杂软件的重大突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
+    <link href="https://deepmind.google/blog/introducing-alphaproof-code"/>
+    <id>a532a4a8ebc9036369ad504768b563fa</id>
+    <published>2026-11-10T12:02:28+00:00</published>
+    <updated>2026-11-10T12:02:28+00:00</updated>
+    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>帮助照护者在日常生活中使用 AI / Helping caregivers use AI in everyday life</title>
+    <link href="https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"/>
+    <id>ddea8b22079a6829b14dae73cc46c544</id>
+    <published>2026-11-10T12:00:00+00:00</published>
+    <updated>2026-11-10T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.827\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>信息量更大的GitHub dashboard / A more informative GitHub dashboard</title>
+    <link href="https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard"/>
+    <id>806aa22f31ea3353afbcea2e7c796b39</id>
+    <published>2026-11-10T10:34:35+00:00</published>
+    <updated>2026-11-10T10:34:35+00:00</updated>
+    <summary type="text">Score: 0.816\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>ChatGPT 推出 Businesses 功能 / Introducing Businesses in ChatGPT</title>
+    <link href="https://openai.com/index/introducing-businesses-chatgpt"/>
+    <id>1bfe4bd9b7a89fb1069b7e01252446a0</id>
+    <published>2026-11-10T10:00:00+00:00</published>
+    <updated>2026-11-10T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.831\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>弥合教育领域的AI指导缺口 / Closing the AI guidance gap in education</title>
+    <link href="https://openai.com/index/closing-ai-guidance-gap-education"/>
+    <id>757609540efa0eda13ebf20553578b1d</id>
+    <published>2026-11-10T09:00:00+00:00</published>
+    <updated>2026-11-10T09:00:00+00:00</updated>
+    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>前沿工作：AI对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work</title>
+    <link href="https://openai.com/index/ai-effect-on-freelance-work"/>
+    <id>8442b6dad468dcca1274ad7c5b9fa01b</id>
+    <published>2026-11-10T07:00:00+00:00</published>
+    <updated>2026-11-10T07:00:00+00:00</updated>
+    <summary type="text">Score: 0.841\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="multi_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.167.1</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>ad261152b4eeeb87130a5fbbbee725e8</id>
+    <published>2026-11-10T00:00:00+00:00</published>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.816\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Hugging Face 中的决策模型 / Decision Models in Hugging Face</title>
+    <link href="https://huggingface.co/blog/decision"/>
+    <id>8f86b65ceb1a7d9d7bd73a7b2f94c65d</id>
+    <published>2026-11-10T00:00:00+00:00</published>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.810\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>用你的 Google Cloud 账户支付 Hugging Face Hub / Pay for Hugging Face Hub with your Google Cloud Account</title>
+    <link href="https://huggingface.co/blog/hub-gcp-marketplace"/>
+    <id>686532e50fe0ad810acefb0fff32b11d</id>
+    <published>2026-11-10T00:00:00+00:00</published>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.816\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>

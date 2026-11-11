@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-11-09T00:00:00+00:00</updated>
+  <updated>2026-11-10T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Deepfakes in Microsoft Teams: A Detection Guide</title>
+    <link href="https://www.resemble.ai/resources/detect-deepfakes-microsoft-teams-calls"/>
+    <id>544592e04696a4ef0a3fa0ded8dfb96d</id>
+    <published>2026-11-10T00:00:00+00:00</published>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+    <summary type="text">Deepfake CFOs are joining your Teams calls. Learn how IT security teams detect synthetic audio, video, and hybrid attacks before a wire transfer gets approved.</summary>
+    <category term="Guide"/>
+  </entry>
   <entry>
     <title>How to Detect AI-Generated and Automated Calls in Your Contact Center</title>
     <link href="https://www.resemble.ai/resources/detect-ai-generated-and-automated-calls-in-contact-centers"/>
@@ -105,15 +114,6 @@
     <published>2026-10-28T00:00:00+00:00</published>
     <updated>2026-10-28T00:00:00+00:00</updated>
     <summary type="text">Learn how deepfake detection tools help the insurance industry screen claim photos, videos, audio, and documents while protecting genuine claimants.</summary>
-    <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>How to Detect Deepfake Videos: 10 Warning Signs and Verification Tips</title>
-    <link href="https://www.resemble.ai/resources/how-to-detect-deepfake-videos"/>
-    <id>757b170d7f0065ffbee9042bd7678dfe</id>
-    <published>2026-10-27T00:00:00+00:00</published>
-    <updated>2026-10-27T00:00:00+00:00</updated>
-    <summary type="text">Learn how to detect deepfake videos using 10 warning signs, source verification, provenance checks, and AI detection tools, plus what visual clues can miss.</summary>
     <category term="Blog"/>
   </entry>
 </feed>
