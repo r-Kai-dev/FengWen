@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-11-10T00:00:00+00:00</updated>
+  <updated>2026-11-11T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>A Beginner's Guide to AI Detection Terminology</title>
+    <link href="https://www.resemble.ai/resources/a-beginners-guide-to-ai-detection-terminology"/>
+    <id>3cefef74422ff53f93fe2d0c0bbef6da</id>
+    <published>2026-11-11T00:00:00+00:00</published>
+    <updated>2026-11-11T00:00:00+00:00</updated>
+    <summary type="text">A straightforward guide to the terminology behind AI detection, from deepfakes and voice cloning to detection methods, watermarking, and the slang shaping conversations about AI online.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>Deepfakes in Microsoft Teams: A Detection Guide</title>
     <link href="https://www.resemble.ai/resources/detect-deepfakes-microsoft-teams-calls"/>
@@ -105,15 +114,6 @@
     <published>2026-10-29T00:00:00+00:00</published>
     <updated>2026-10-29T00:00:00+00:00</updated>
     <summary type="text">‍RAD-S1 reads how a visitor moves, types and clicks to tell people from AI agents, including agents built to look human. Here's how it works, how we tested it and where the results stop.</summary>
-    <category term="Blog"/>
-  </entry>
-  <entry>
-    <title>How Insurers Use Deepfake Detection Tools to Prevent Claims Fraud</title>
-    <link href="https://www.resemble.ai/resources/deepfake-detection-tools-insurance-industry"/>
-    <id>4442683ee7ac6fc32528a87c1f1ce23c</id>
-    <published>2026-10-28T00:00:00+00:00</published>
-    <updated>2026-10-28T00:00:00+00:00</updated>
-    <summary type="text">Learn how deepfake detection tools help the insurance industry screen claim photos, videos, audio, and documents while protecting genuine claimants.</summary>
     <category term="Blog"/>
   </entry>
 </feed>
