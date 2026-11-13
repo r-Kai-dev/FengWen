@@ -4,10 +4,28 @@
   <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
   <link href="https://www.figma.com/blog/"/>
   <id>https://www.figma.com/blog/</id>
-  <updated>2026-11-04T22:12:00.000Z</updated>
+  <updated>2026-11-12T14:00:00.000Z</updated>
   <author>
-    <name>Mari Kong</name>
+    <name>Chad Colby</name>
   </author>
+  <entry>
+    <title>How 3D transforms and Figma’s agent brought a launch video to life</title>
+    <link href="https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/"/>
+    <id>a56ee2c6f63f6e29ab9400559b7a9541</id>
+    <published>2026-11-12T14:00:00.000Z</published>
+    <updated>2026-11-12T14:00:00.000Z</updated>
+    <summary type="text">See how Figma’s Brand Studio team combined 3D design, agent-built plugins, shaders, and motion to create a video together on the canvas.</summary>
+    <category term="Inside Figma"/>
+  </entry>
+  <entry>
+    <title>6 easy ways to use the Figma agent right now</title>
+    <link href="https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/"/>
+    <id>ea903cb0d2963d1c96ebd7f82c741cea</id>
+    <published>2026-11-09T21:46:00.000Z</published>
+    <updated>2026-11-09T21:46:00.000Z</updated>
+    <summary type="text">From making designs more expressive and automating busywork, to exploring more possibilities on the canvas, here are six ways to push designers further with the Figma agent.</summary>
+    <category term="Working Well"/>
+  </entry>
   <entry>
     <title>Workflow lab: Test ideas with code layers and the Figma agent</title>
     <link href="https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/"/>
@@ -16,6 +34,15 @@
     <updated>2026-11-04T22:12:00.000Z</updated>
     <summary type="text">Bringing code onto the canvas gives teams a shared space to compare working prototypes side by side, refine a direction, and collaborate on ideas with teammates. This workflow shows how a designer uses code layers and the Figma agent to explore a new feature.</summary>
     <category term="Working Well"/>
+  </entry>
+  <entry>
+    <title>Figma and Sanrio® celebrate Hello Kitty® and the joy of making things with friends</title>
+    <link href="https://www.figma.com/blog/figma-and-sanrio-celebrate-hello-kitty-and-friends/"/>
+    <id>b21877dd7c75dc983ad911614af2b803</id>
+    <published>2026-11-02T14:00:00.000Z</published>
+    <updated>2026-11-02T14:00:00.000Z</updated>
+    <summary type="text">In honor of Hello Kitty®’s birthday, Hello Kitty® and Friends are moving into FigJam, and throwing a party in NYC.</summary>
+    <category term="Inside Figma"/>
   </entry>
   <entry>
     <title>How we’re training a Figma-fluent editing model</title>
@@ -52,33 +79,6 @@
     <updated>2026-10-20T19:18:00.000Z</updated>
     <summary type="text">From experimental typography and print artifacts to architecture, furniture, and fashion, PIN-UP Magazine’s creative director explores how materials, systems, and unexpected connections can shape new visual worlds.</summary>
     <category term="Maker Stories"/>
-  </entry>
-  <entry>
-    <title>Build by design: New workflows for new ways of building</title>
-    <link href="https://www.figma.com/blog/build-by-design/"/>
-    <id>2b2fc0fbebd0045c926bbe10da3731b1</id>
-    <published>2026-10-15T04:53:00.000Z</published>
-    <updated>2026-10-15T04:53:00.000Z</updated>
-    <summary type="text">Here’s a look at everything we launched today to bring teams and agents, and the design, code, and context they work with, into Figma’s full-stack creative canvas.</summary>
-    <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>Design together with code layers on the canvas</title>
-    <link href="https://www.figma.com/blog/design-together-with-code-layers/"/>
-    <id>8018a3ad660a033f64cf2a5a70b9859b</id>
-    <published>2026-10-15T04:52:00.000Z</published>
-    <updated>2026-10-15T04:52:00.000Z</updated>
-    <summary type="text">Today, code layers moves into open beta. Now teams can explore and build prototypes backed by code on the canvas.</summary>
-    <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>Introducing Specs: Markdown as a medium</title>
-    <link href="https://www.figma.com/blog/introducing-figma-specs/"/>
-    <id>7c5ed8215d044b68fa2e475bd70f19c7</id>
-    <published>2026-10-15T04:51:00.000Z</published>
-    <updated>2026-10-15T04:51:00.000Z</updated>
-    <summary type="text">We’re launching Specs, a container for your context that lives on the Figma canvas.</summary>
-    <category term="Inside Figma"/>
   </entry>
   <entry>
     <title>Source material: Creative director Manon Macasaet’s spirituality shapes her process</title>
@@ -126,6 +126,15 @@
     <category term="Working Well"/>
   </entry>
   <entry>
+    <title>Source material: Graphic designer Aitana Picó wants us to appreciate bad trends</title>
+    <link href="https://www.figma.com/blog/source-material-aitana-pico/"/>
+    <id>a596dd749dd4a53a4dc28d0690e2d3d9</id>
+    <published>2026-09-21T17:24:00.000Z</published>
+    <updated>2026-09-21T17:24:00.000Z</updated>
+    <summary type="text">The multidisciplinary designer and artist shares what’s in her “mental database”: an off-putting tarot deck, a Jockstrap CD, and a recurring dream about aerial silks.</summary>
+    <category term="Maker Stories"/>
+  </entry>
+  <entry>
     <title>How to move fast toward the right thing</title>
     <link href="https://www.figma.com/blog/how-to-move-fast-toward-the-right-thing/"/>
     <id>a5d268554fa51c06d12ed2ed27e3788d</id>
@@ -133,15 +142,6 @@
     <updated>2026-08-13T20:30:00.000Z</updated>
     <summary type="text">With AI, speed comes easy, but so does tech debt. That’s why the best teams don’t just ship something fast; they consider it carefully, build it efficiently, and make it stand out.</summary>
     <category term="Working Well"/>
-  </entry>
-  <entry>
-    <title>Try these 10 skills—and show off your own</title>
-    <link href="https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/"/>
-    <id>75dd2acb8d279510bb17fa999604cee5</id>
-    <published>2026-08-13T16:00:00.000Z</published>
-    <updated>2026-08-13T16:00:00.000Z</updated>
-    <summary type="text">Now you can author skills for our agent, directly in Figma, to put your point of view to work. Here are 10 of our favorites to get you started.</summary>
-    <category term="Inside Figma"/>
   </entry>
   <entry>
     <title>Figma’s design agent, now with custom tools and greater context</title>

@@ -4,10 +4,29 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-11-10</updated>
+  <updated>2026-11-12</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>BARC-Bench: When benign workplace requests lead AI agents to cause harm</title>
+    <link href="https://labs.scale.com/blog/barc-bench-when-benign-workplace-requests-lead-ai-agents-to-cause-harm"/>
+    <id>903be0c38b5141173b0044f4a093b386</id>
+    <published>2026-11-12</published>
+    <updated>2026-11-12</updated>
+    <summary type="text">When we delegate tasks to an AI agent, we often emphasize the task description and the overall goal of the task. We are rarely explicit about how an agent should safely complete the task and what boundaries the agent should adhere to. Often, these boundaries are often left unsaid because theyâre common sense or only discoverable after exploring the workspace.
+ — By Kang Kang Li, Kelvin Luu, Lily Ma, Tu Trinh, Ying Liu, Yuan (Emily) Xue, Mohamed Elfeki</summary>
+    <category term="Agents"/>
+  </entry>
+  <entry>
+    <title>To Jev or Not to Jev: When to Use System-1 Decision Models as LLM Judges</title>
+    <link href="https://labs.scale.com/blog/to-jev-or-not-to-jev"/>
+    <id>ce487ffa01a39f9b00491867164be950</id>
+    <published>2026-11-12</published>
+    <updated>2026-11-12</updated>
+    <summary type="text">In September 2026, TypeSafe released Jev, a System-1 decision model that answers typed questions with calibrated probabilities in a single pass, without generating text. In our paper, &quot;To Jev or Not to Jev: When Can System-1 Decision Models Replace LLM Judges?,&quot; we evaluate 14 decision models, including Jev 1.14, against four generative judges across 11 benchmarks to determine when they can replace generative judges, how to query them, and where they fall short. — By Shreyas Subramanian</summary>
+    <category term="Agents"/>
+  </entry>
   <entry>
     <title>To Critic or Not to Critic: GRPO vs PPO</title>
     <link href="https://labs.scale.com/blog/to-critic-or-not-to-critic-grpo-vs-ppo"/>

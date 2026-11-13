@@ -4,10 +4,28 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-11-11T00:00:00+00:00</updated>
+  <updated>2026-11-12T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference</title>
+    <link href="https://lmsys.org/blog/2026-11-12-sglang-consortium"/>
+    <id>26ec43107961b17104a41a9e8ebb0938</id>
+    <published>2026-11-12T00:00:00+00:00</published>
+    <updated>2026-11-12T00:00:00+00:00</updated>
+    <summary type="text">Hardware, model and infrastructure leaders join SGLangâs maintainers to advance efficient inference for growing AI ecosystem</summary>
+    <category term="news"/>
+  </entry>
+  <entry>
+    <title>SGLang-Neuron v0.1.0: SGLang's Serving Stack on AWS Trainium</title>
+    <link href="https://lmsys.org/blog/2026-11-12-sglang-neuron-v0.1.0"/>
+    <id>2847043997df18910548d3769e0df2ae</id>
+    <published>2026-11-12T00:00:00+00:00</published>
+    <updated>2026-11-12T00:00:00+00:00</updated>
+    <summary type="text">Today we are releasing SGLang-Neuron v0.1.0, the first public release of SGLang's backend for AWS Trainium. Trainium is a portfolio of AWS AI chips that delivers the best economics for AI training and inference at scale. It follows the closed beta the SGLang team announced in October.</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Muse Spark Open Ultrafast: Pushing beyond 1,000 Tokens per second</title>
     <link href="https://lmsys.org/blog/2026-11-05-muse-spark-open-ultrafast"/>
