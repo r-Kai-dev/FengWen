@@ -4,10 +4,19 @@
   <icon>https://static.figma.com/app/icon/2/favicon.svg</icon>
   <link href="https://www.figma.com/blog/"/>
   <id>https://www.figma.com/blog/</id>
-  <updated>2026-11-12T14:00:00.000Z</updated>
+  <updated>2026-11-13T20:00:00.000Z</updated>
   <author>
-    <name>Chad Colby</name>
+    <name>Itay Schiff</name>
   </author>
+  <entry>
+    <title>AI’s role in the creative process</title>
+    <link href="https://www.figma.com/blog/ai-role-in-the-creative-process/"/>
+    <id>f5f15db72d38422ebdea4d2d69b83f25</id>
+    <published>2026-11-13T20:00:00.000Z</published>
+    <updated>2026-11-13T20:00:00.000Z</updated>
+    <summary type="text">Which parts of the creative process can AI do for us—and which do we insist on keeping for ourselves?</summary>
+    <category term="Insights"/>
+  </entry>
   <entry>
     <title>How 3D transforms and Figma’s agent brought a launch video to life</title>
     <link href="https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/"/>
@@ -52,15 +61,6 @@
     <updated>2026-10-29T21:00:00.000Z</updated>
     <summary type="text">We’ve increasingly seen that specialized post-training can compete with frontier models. Here, we’re sharing the research behind how we’re translating that to design editing workflows.</summary>
     <category term="Inside Figma"/>
-  </entry>
-  <entry>
-    <title>Source material: &quot;BRAT&quot; Art Director Brent David Freaney finds design inspiration from everyday life</title>
-    <link href="https://www.figma.com/blog/source-material-brent-david-freaney/"/>
-    <id>12a07b69446c9489f0ad66e5de86c6b4</id>
-    <published>2026-10-28T13:00:00.000Z</published>
-    <updated>2026-10-28T13:00:00.000Z</updated>
-    <summary type="text">The designer takes us through his world of color theory, photography, graphic systems, and found ephemeral.</summary>
-    <category term="Maker Stories"/>
   </entry>
   <entry>
     <title>How to put your design system to work with the Figma agent</title>

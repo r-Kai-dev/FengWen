@@ -4,10 +4,28 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-11-12T00:00:00+00:00</updated>
+  <updated>2026-11-13T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>RadixArk Miles runs agentic RL training on NVIDIA Vera CPUs: faster sandboxes, faster training</title>
+    <link href="https://lmsys.org/blog/2026-11-13-miles-vera-sandboxes"/>
+    <id>485de601a95c70579c0c3a29284ad773</id>
+    <published>2026-11-13T00:00:00+00:00</published>
+    <updated>2026-11-13T00:00:00+00:00</updated>
+    <summary type="text">In agentic RL, the model does more than write text: it runs commands in a sandbox, compiles code and runs tests, and decides its next step from the results. A training run can keep hundreds of sandboxes or more open at once, and the CPUs that run them can affect the speed and scale of training.</summary>
+    <category term="technical"/>
+  </entry>
+  <entry>
+    <title>SGLang and NVIDIA NIM: Advancing Enterprise Inference Together</title>
+    <link href="https://lmsys.org/blog/2026-11-13-sglang-nvidia-nim"/>
+    <id>1b02e0228e77564fb42f57d5c605de81</id>
+    <published>2026-11-13T00:00:00+00:00</published>
+    <updated>2026-11-13T00:00:00+00:00</updated>
+    <summary type="text">SGLang now powers NVIDIA NIM Certified microservices. The open-source inference engine brings together high performance, broad model support, and a developer community that continues to push inference forward. It is already proven in large-scale production deployments.</summary>
+    <category term="news"/>
+  </entry>
   <entry>
     <title>LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference</title>
     <link href="https://lmsys.org/blog/2026-11-12-sglang-consortium"/>

@@ -4,16 +4,23 @@
   <icon>https://allenai.org/favicon.svg</icon>
   <link href="https://allenai.org/research"/>
   <id>https://allenai.org/research</id>
-  <updated>2026-11-06T00:00:00+00:00</updated>
+  <updated>2026-11-13T00:00:00+00:00</updated>
   <author>
     <name>Ai2</name>
   </author>
   <entry>
-    <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
-    <link href="https://allenai.org/blog/toyblocks"/>
-    <id>f01ddeed37dde08f1502729999c31446</id>
-    <published>2026-11-06T00:00:00+00:00</published>
-    <updated>2026-11-06T00:00:00+00:00</updated>
+    <title>XYBench: Helping with the problem behind the question</title>
+    <link href="https://allenai.org/blog/xybench"/>
+    <id>5135c3b48d5e135b4495517cecdf4734</id>
+    <published>2026-11-13T00:00:00+00:00</published>
+    <updated>2026-11-13T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>StateBench: Testing how language models track state changes over long documents</title>
+    <link href="https://allenai.org/blog/statebench"/>
+    <id>e0179563f45e7b864bfc9040bf3c30df</id>
+    <published>2026-11-03T00:00:00+00:00</published>
+    <updated>2026-11-03T00:00:00+00:00</updated>
   </entry>
   <entry>
     <title>Can we trust LLMs to judge whether a research idea is novel?</title>
@@ -56,12 +63,5 @@
     <id>4dcb8422d86dab97b570000c47d6b2b2</id>
     <published>2026-10-14T00:00:00+00:00</published>
     <updated>2026-10-14T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Impactful scheduling for GPU clusters</title>
-    <link href="https://allenai.org/blog/impactful-scheduling"/>
-    <id>6b0ff7ab043aa9f318815123d0707a63</id>
-    <published>2026-10-09T00:00:00+00:00</published>
-    <updated>2026-10-09T00:00:00+00:00</updated>
   </entry>
 </feed>

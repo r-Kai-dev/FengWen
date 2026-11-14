@@ -4,16 +4,26 @@
   <icon>https://news.aibase.com/favicon.ico</icon>
   <link href="https://news.aibase.com/zh/daily"/>
   <id>https://news.aibase.com/zh/daily</id>
-  <updated>2026-11-12T16:35:39.389328+00:00</updated>
+  <updated>2026-11-13T17:08:46.948259+00:00</updated>
   <author>
     <name>AIBase</name>
   </author>
   <entry>
+    <title>AI日报：黄仁勋卸任英伟达总裁职位；星火语音大模型SparkAudio 1.0正式上线API服务；Google推出Gemini4Hydrogen</title>
+    <link href="https://news.aibase.com/zh/daily/32319"/>
+    <id>9902640736a0675d7058b4f2bcb106bb</id>
+    <published>2026-11-13T17:08:46.948259+00:00</published>
+    <updated>2026-11-13T17:08:46.948259+00:00</updated>
+    <summary type="text">1、英伟达创始人黄仁勋卸任总裁职位本文揭示黄仁勋卸任背后复杂的地缘政治与个人道德双重危机，凸显AI算力已成为大国博弈焦点。官方明确模型矩阵与effort控制，强调更强模型可用更少工作量抵消高单价，并给出具体提示词优化建议，对知识工作流具有实际指导价值。</summary>
+    <category term="AI Daily"/>
+    <category term="人工智能"/>
+  </entry>
+  <entry>
     <title>AI日报：百度ERNIE 5.5 Flash Preview亮相；阿里官宣千问大模型Qwen4；火山引擎推出Seedance2.5flash</title>
     <link href="https://news.aibase.com/zh/daily/32282"/>
     <id>b7cdb7dda62ae2d96929f3eb233ead21</id>
-    <published>2026-11-12T16:35:39.389328+00:00</published>
-    <updated>2026-11-12T16:35:39.389328+00:00</updated>
+    <published>2026-11-13T01:08:46.948564+00:00</published>
+    <updated>2026-11-13T01:08:46.948564+00:00</updated>
     <summary type="text">1、百度文心大模型再升级：ERNIE5.5FlashPreview亮相，模型权重将于11月25日前正式开源该版本以280B总参数、14B激活的稀疏架构平衡性能与成本，1M上下文拓展长文档与Agent应用边界。准入测试、持续监测与信用档案若能严格落地，将有助于抑制虚标参数等行业乱象，降低企业采购风险。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -22,8 +32,8 @@
     <title>AI日报：MiniMax开源H3-Image；腾讯元宝搜索上线独立网页版；百度发布文心5.5Flash Preview</title>
     <link href="https://news.aibase.com/zh/daily/32252"/>
     <id>8a0d07e278985745b143fff5e5f180b5</id>
-    <published>2026-11-12T01:35:39.389894+00:00</published>
-    <updated>2026-11-12T01:35:39.389894+00:00</updated>
+    <published>2026-11-12T01:08:46.948776+00:00</published>
+    <updated>2026-11-12T01:08:46.948776+00:00</updated>
     <summary type="text">1、MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%MiniMaxH3-Image以16MP高分辨率、10秒级生成和开放权重切入市场，速度与价格优势显著；指令遵循、多图参考与画质强化直击AI感痛点，有望缩小开源与闭源差距，推动图像生成进入高分辨率效率竞争。8、谷歌旗舰Gemini4Carbon正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃Gemini4Carbon在复杂推理、多智能体协同与网络安全等基准上表现突出，成本优势和生态开放度兼具，谷歌以旗舰模型重构AI生产力的路径清晰；但其长任务稳定性与企业落地可靠性仍需持续验证。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -32,8 +42,8 @@
     <title>AI日报：腾讯AI游戏陪伴Agent鹅次元内测；Anthropic发布Claude Fable5.2；美团开源LongCat-2.5</title>
     <link href="https://news.aibase.com/zh/daily/32213"/>
     <id>17c2011e4393d4fd5217cfa4c5b08320</id>
-    <published>2026-11-11T01:35:39.390313+00:00</published>
-    <updated>2026-11-11T01:35:39.390313+00:00</updated>
+    <published>2026-11-11T01:08:46.948971+00:00</published>
+    <updated>2026-11-11T01:08:46.948971+00:00</updated>
     <summary type="text">1、你的游戏“最强搭子”上线:腾讯首款AI游戏陪伴Agent“鹅次元”内测开启腾讯“鹅次元”切入游戏陪伴细分场景，以实时屏幕感知与多模态交互形成差异化，首测覆盖主流游戏并联动QQ跨端生态。其能否将技术理想转化为可持续的教育产品，是观察重点。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -42,8 +52,8 @@
     <title>AI日报：ChatGPT用户遭大规模集中停用；腾讯元器平台今日正式停止服务；DeepSeek 开源智能体应用Harness日活突破154万</title>
     <link href="https://news.aibase.com/zh/daily/32183"/>
     <id>3d354e06ca1ae65f3a10da64368f0b2d</id>
-    <published>2026-11-10T01:35:39.390723+00:00</published>
-    <updated>2026-11-10T01:35:39.390723+00:00</updated>
+    <published>2026-11-10T01:08:46.949179+00:00</published>
+    <updated>2026-11-10T01:08:46.949179+00:00</updated>
     <summary type="text">1、ChatGPT遭大规模集中停用，高价200美元Pro订阅用户也未能幸免此次大规模账号停用事件暴露了AI服务平台在账户风控与用户权益保障之间的失衡。8、未来20万员工将与2000万个AI智能体协同，微软已为其开发专属管理系统纳德拉提出企业未来人机协同的宏大图景，以2000万智能体与20万员工共事类比PC普及，强调AI将重构组织形态；微软已开发智能体开发环境应对管理复杂度，彰显其AI战略的前瞻布局。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -52,8 +62,8 @@
     <title>AI日报：Kimi Hosted Agents发布；谷歌发布 Omni 1.2 Flash；淘宝MNN 团队开源 MNN-Pocket-0.3B</title>
     <link href="https://news.aibase.com/zh/daily/32153"/>
     <id>fbcdf7e7ddca49eff36024ffec5190ef</id>
-    <published>2026-11-07T01:35:39.391172+00:00</published>
-    <updated>2026-11-07T01:35:39.391172+00:00</updated>
+    <published>2026-11-06T00:00:00+00:00</published>
+    <updated>2026-11-06T00:00:00+00:00</updated>
     <summary type="text">1、月之暗面放大招！但跨平台协同与AI生成内容溯源机制仍需强化，才能遏制黑产复燃。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
@@ -195,16 +205,6 @@
     <published>2026-10-13T00:00:00+00:00</published>
     <updated>2026-10-13T00:00:00+00:00</updated>
     <summary type="text">1、可灵AI带着Kling4.0杀向好莱坞：AI视频要从玩具变成企业的生产流水线文章讲述了可灵AI在2026洛杉矶科技周上展示Kling4.0的计划，强调其在运动连贯性、指令服从和长镜头叙事上的突破。这表明Sora可能从消费级产品转向影视工业领域，减轻OpenAI的算力负担，并借助行业专家推动技术应用。</summary>
-    <category term="AI Daily"/>
-    <category term="人工智能"/>
-  </entry>
-  <entry>
-    <title>AI日报：OpenAI给GPT-6.1 Sol扩容记忆；蚂蚁“灵光”开启新版内测；唯品会上线自研 AI 助手AI小唯</title>
-    <link href="https://news.aibase.com/zh/daily/31569"/>
-    <id>2693e14189ff3bcb7d00329f175aa086</id>
-    <published>2026-10-12T00:00:00+00:00</published>
-    <updated>2026-10-12T00:00:00+00:00</updated>
-    <summary type="text">1、OpenAI给GPT-6.1Sol扩容记忆：默认上下文顶到50万，长文本不再单独计费OpenAI对GPT-6.1Sol进行了重大调整，将默认上下文窗口从27.2万token提升至50万token，显著提升了模型处理复杂任务的能力。8、腾讯上线「企鹅微单」:AI创作者接单平台，支持需求发布、智能匹配与微信内结算腾讯推出「企鹅微单」AI创作者接单平台，旨在解决AI创作工具难变现的问题，通过智能匹配机制连接需求方与创作者，并在微信生态内完成交易全流程。</summary>
     <category term="AI Daily"/>
     <category term="人工智能"/>
   </entry>
