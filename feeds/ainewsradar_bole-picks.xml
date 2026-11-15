@@ -4,249 +4,152 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-11-13T20:40:05+00:00</updated>
+  <updated>2026-11-14T19:00:06.948000+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>GitHub Copilot 部分模型将于 12 月停用 / Upcoming deprecation of selected GitHub Copilot models in December</title>
-    <link href="https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december"/>
-    <id>3c910a24ba040c552c788918e9177e8d</id>
-    <published>2026-11-13T20:40:05+00:00</published>
-    <updated>2026-11-13T20:40:05+00:00</updated>
-    <summary type="text">Score: 0.847\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>《拒绝低劣的AI：一份宣言》</title>
-    <link href="https://www.slopmanifesto.com"/>
-    <id>23188ca1319d5ba28a6f2a87c53c0752</id>
-    <published>2026-11-13T19:51:56+00:00</published>
-    <updated>2026-11-13T19:51:56+00:00</updated>
-    <summary type="text">Score: 0.569\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>被出口禁售的 Nvidia 芯片，竟撑起了中国最强的 AI 模型——Jensen，这下可不妙了！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!</title>
-    <link href="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen"/>
-    <id>58b95e98aacb66869db966ea6459f2c9</id>
-    <published>2026-11-13T18:40:30+00:00</published>
-    <updated>2026-11-13T18:40:30+00:00</updated>
-    <summary type="text">Score: 0.647\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>GitHub Copilot 应用现已支持 GitHub Enterprise Server / GitHub Enterprise Server support in the GitHub Copilot app</title>
-    <link href="https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app"/>
-    <id>eff6a6212362dab622678406bc703684</id>
-    <published>2026-11-13T18:27:13+00:00</published>
-    <updated>2026-11-13T18:27:13+00:00</updated>
-    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Gemini 4 Hydrogen in GitHub Copilot</title>
-    <link href="https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot"/>
-    <id>cbf8a3d6f66bfebac2bed30c260d30af</id>
-    <published>2026-11-13T18:23:48+00:00</published>
-    <updated>2026-11-13T18:23:48+00:00</updated>
-    <summary type="text">Score: 0.849\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>使用 SimReady Assets 构建机器人抓取放置仿真 / Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
-    <link href="https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"/>
-    <id>a730965504dc91de7746f2f81cb93bb3</id>
-    <published>2026-11-13T18:00:39+00:00</published>
-    <updated>2026-11-13T18:00:39+00:00</updated>
-    <summary type="text">Score: 0.854\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>XYBench：帮你解决提问背后的问题 / XYBench: Helping with the problem behind the question</title>
-    <link href="https://huggingface.co/blog/allenai/xybench"/>
-    <id>446abc7a2236b2f49729d3dfc6f67755</id>
-    <published>2026-11-13T17:02:35+00:00</published>
-    <updated>2026-11-13T17:02:35+00:00</updated>
-    <summary type="text">Score: 0.846\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Introducing ChatGPT Wallet</title>
-    <link href="https://openai.com/index/introducing-chatgpt-wallet"/>
-    <id>869d72f9bf0443438ed470450f9f95ff</id>
-    <published>2026-11-13T15:00:00+00:00</published>
-    <updated>2026-11-13T15:00:00+00:00</updated>
-    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>llama.cpp v1.0.0：为本地 AI 生态打下更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-    <link href="https://huggingface.co/blog/ggml-org/llama-cpp-v1"/>
-    <id>f86b60aa5654ba5a3f4317f77516575c</id>
-    <published>2026-11-13T14:05:22+00:00</published>
-    <updated>2026-11-13T14:05:22+00:00</updated>
-    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Templify AI — 给不是编辑的人用的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors</title>
-    <link href="https://www.producthunt.com/products/templify"/>
-    <id>a194eead1868bacabbd63314892d5429</id>
-    <published>2026-11-13T13:07:48.320000+00:00</published>
-    <updated>2026-11-13T13:07:48.320000+00:00</updated>
+    <title>ChatGPT 中的商家 — 让客户通过 ChatGPT 发现你的业务 / Businesses in ChatGPT — Help customers discover your business through ChatGPT</title>
+    <link href="https://www.producthunt.com/products/openai"/>
+    <id>d259f2834f3ddd9738cbb2b86e8c375b</id>
+    <published>2026-11-14T19:00:06.948000+00:00</published>
+    <updated>2026-11-14T19:00:06.948000+00:00</updated>
     <summary type="text">Score: 0.594\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明</title>
-    <link href="https://www.aibase.com/news/32317"/>
-    <id>e1b476e870f3ebabb4b484e3a37da022</id>
-    <published>2026-11-13T13:06:54.716718+00:00</published>
-    <updated>2026-11-13T13:06:54.716718+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>比高端型号还猛却更便宜，Google 用&quot;Gemini 4 Hydrogen&quot;上演反向内卷</title>
-    <link href="https://www.aibase.com/news/32318"/>
-    <id>420276cc5f93d2792c5041153e82bcbd</id>
-    <published>2026-11-13T13:06:54.716718+00:00</published>
-    <updated>2026-11-13T13:06:54.716718+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜</title>
-    <link href="https://www.aibase.com/news/32320"/>
-    <id>d2e61092fcc22abcd8b9f73b40334b52</id>
-    <published>2026-11-13T13:06:54.716718+00:00</published>
-    <updated>2026-11-13T13:06:54.716718+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任</title>
-    <link href="https://www.aibase.com/news/32321"/>
-    <id>d1adc0c3b1dc6d10e5d9ac1890c0e342</id>
-    <published>2026-11-13T13:06:54.716718+00:00</published>
-    <updated>2026-11-13T13:06:54.716718+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务</title>
-    <link href="https://www.aibase.com/news/32322"/>
-    <id>36fe9a4578b484692cbb74a882cc6567</id>
-    <published>2026-11-13T13:06:54.716718+00:00</published>
-    <updated>2026-11-13T13:06:54.716718+00:00</updated>
-    <summary type="text">Score: 0.744\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>ChromeDevTools/chrome-devtools-mcp — 为编码 Agent 打造的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents</title>
-    <link href="https://github.com/ChromeDevTools/chrome-devtools-mcp"/>
-    <id>74e1d22ef33e68143a05df934d241771</id>
-    <published>2026-11-13T12:45:36.071000+00:00</published>
-    <updated>2026-11-13T12:45:36.071000+00:00</updated>
-    <summary type="text">Score: 0.571\nSources: 2 (GitHub Trending)\nImportance: 值得关注</summary>
+    <title>Gemini Robotics 2.5 —— Gemini Robotics 2.5：Google 迄今能力最强的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model</title>
+    <link href="https://www.producthunt.com/products/gemini-robotics-2-5"/>
+    <id>336a71bc774117bc5b8699b07baf46c7</id>
+    <published>2026-11-14T19:00:06.948000+00:00</published>
+    <updated>2026-11-14T19:00:06.948000+00:00</updated>
+    <summary type="text">Score: 0.593\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API</title>
-    <link href="https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api"/>
-    <id>641f3701bc9977589922146fd21b53d7</id>
-    <published>2026-11-13T12:22:41+00:00</published>
-    <updated>2026-11-13T12:22:41+00:00</updated>
-    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <title>让 Claude 重新给页面编号，结果它删掉了教授的课程大纲和一整年的笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes</title>
+    <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits"/>
+    <id>3776d6ab5365481dc061e41ffa4369e7</id>
+    <published>2026-11-14T17:51:13+00:00</published>
+    <updated>2026-11-14T17:51:13+00:00</updated>
+    <summary type="text">Score: 0.536\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>&quot;Happy系列&quot;再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
-    <link href="https://www.aibase.com/news/32309"/>
-    <id>011b2e1a48b20a96f5246053afbc9716</id>
-    <published>2026-11-13T08:05:18.830838+00:00</published>
-    <updated>2026-11-13T08:05:18.830838+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>Show HN: DeepSeek V3，约200行纯Jax代码</title>
+    <link href="https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"/>
+    <id>da20b653694a9af21a625805d8582b48</id>
+    <published>2026-11-14T15:04:15+00:00</published>
+    <updated>2026-11-14T15:04:15+00:00</updated>
+    <summary type="text">Score: 0.570\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>那位解雇了 Sam Altman 的 OpenAI 董事会成员：我们仍然无法信任 AI 公司的 CEO / The OpenAI board member who fired Sam Altman says we still can&amp;#8217;t trust AI CEOs</title>
+    <link href="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"/>
+    <id>3a2e7b64e8b9bdf77290aa3c894871a4</id>
+    <published>2026-11-14T15:00:00+00:00</published>
+    <updated>2026-11-14T15:00:00+00:00</updated>
+    <summary type="text">Score: 0.612\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3</title>
+    <link href="https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm"/>
+    <id>796bfeaab9c2119915d1f1ce206a618b</id>
+    <published>2026-11-14T14:09:25+00:00</published>
+    <updated>2026-11-14T14:09:25+00:00</updated>
+    <summary type="text">Score: 0.566\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Show HN：Agweb——一款为 Agent 打造、不挡你路的浏览器 / Show HN: Agweb – a browser for agents that stays out of your way</title>
+    <link href="https://github.com/paul-nameless/agweb"/>
+    <id>a9153de60390e470518c845bdb6ef051</id>
+    <published>2026-11-14T14:08:12+00:00</published>
+    <updated>2026-11-14T14:08:12+00:00</updated>
+    <summary type="text">Score: 0.528\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」</title>
+    <link href="https://www.aibase.com/news/32323"/>
+    <id>b14bc77880ea4ab684019bc3bb68f363</id>
+    <published>2026-11-14T08:57:15.798110+00:00</published>
+    <updated>2026-11-14T08:57:15.798110+00:00</updated>
+    <summary type="text">Score: 0.738\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Codex CLI 0.168.0 版本发布 / Codex CLI 0.168.0</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>a274ddc6da90ae9bfc6875475956ae6e</id>
-    <published>2026-11-13T00:00:00+00:00</published>
-    <updated>2026-11-13T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.841\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
+    <title>Keep Opus 5.5 as your coding default in Claude Code. On 52 coding tasks in Claude Code 2.1.322, Fable 5.2 solved about as many (82.7% vs 84.6%) but cost 2.80x as much per solved task. Opus already solves most of these...</title>
+    <link href="https://x.com/garrytan/status/2121464508225053153"/>
+    <id>06ca89677bc93f0bc020d9d47134dd5a</id>
+    <published>2026-11-14T04:45:28+00:00</published>
+    <updated>2026-11-14T04:45:28+00:00</updated>
+    <summary type="text">Score: 0.640\nSources: 2 (Follow Builders)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <category term="watch"/>
   </entry>
   <entry>
-    <title>一次构建，随处运行：Agent 技能实用指南 / Build once, run on any agent: A practical guide to agent skills</title>
-    <link href="https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills"/>
-    <id>1aa9966f6a4a3d86cd098d08517da365</id>
-    <published>2026-11-12T22:54:52+00:00</published>
-    <updated>2026-11-12T22:54:52+00:00</updated>
-    <summary type="text">Score: 0.800\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
+    <title>据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面</title>
+    <link href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"/>
+    <id>b4c37cb26ab78f9c36eb6748d2f0382b</id>
+    <published>2026-11-14T02:10:01+00:00</published>
+    <updated>2026-11-14T02:10:01+00:00</updated>
+    <summary type="text">Score: 0.569\nSources: 4 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Anthropic 升级 Claude Code 的 Projects 功能：无需人工干预，可并行运行多个 AI 工作单元 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free</title>
+    <link href="https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free"/>
+    <id>7fcfe5a14a5685a2949223889a0dfd20</id>
+    <published>2026-11-14T00:28:11+00:00</published>
+    <updated>2026-11-14T00:28:11+00:00</updated>
+    <summary type="text">Score: 0.524\nSources: 3 (Info Flow)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新</title>
+    <link href="https://unsloth.ai/docs/models/qwen3.8"/>
+    <id>c0ff60b75b7d41022fd934e3a47519df</id>
+    <published>2026-11-14T00:06:04+00:00</published>
+    <updated>2026-11-14T00:06:04+00:00</updated>
+    <summary type="text">Score: 0.519\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>Claude Meetings进入测试 可加入视频通话记笔记答疑</title>
+    <link href="https://claude.com/resources/articles/claude-meetings"/>
+    <id>2ad8ebfcd7b910d5a05aa95a98f0404e</id>
+    <published>2026-11-13T22:39:15+00:00</published>
+    <updated>2026-11-13T22:39:15+00:00</updated>
+    <summary type="text">Score: 0.520\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
   </entry>
 </feed>
