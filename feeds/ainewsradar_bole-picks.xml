@@ -4,150 +4,94 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-11-14T19:00:06.948000+00:00</updated>
+  <updated>2026-11-15T19:31:58.759000+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>ChatGPT 中的商家 — 让客户通过 ChatGPT 发现你的业务 / Businesses in ChatGPT — Help customers discover your business through ChatGPT</title>
-    <link href="https://www.producthunt.com/products/openai"/>
-    <id>d259f2834f3ddd9738cbb2b86e8c375b</id>
-    <published>2026-11-14T19:00:06.948000+00:00</published>
-    <updated>2026-11-14T19:00:06.948000+00:00</updated>
-    <summary type="text">Score: 0.594\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
+    <title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter"/>
+    <id>d683b712cc15ad44fd6e8c9834ef5dee</id>
+    <published>2026-11-15T19:31:58.759000+00:00</published>
+    <updated>2026-11-15T19:31:58.759000+00:00</updated>
+    <summary type="text">Score: 0.589\nSources: 2 (GitHub Trending)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>Gemini Robotics 2.5 —— Gemini Robotics 2.5：Google 迄今能力最强的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model</title>
-    <link href="https://www.producthunt.com/products/gemini-robotics-2-5"/>
-    <id>336a71bc774117bc5b8699b07baf46c7</id>
-    <published>2026-11-14T19:00:06.948000+00:00</published>
-    <updated>2026-11-14T19:00:06.948000+00:00</updated>
-    <summary type="text">Score: 0.593\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>让 Claude 重新给页面编号，结果它删掉了教授的课程大纲和一整年的笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes</title>
-    <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits"/>
-    <id>3776d6ab5365481dc061e41ffa4369e7</id>
-    <published>2026-11-14T17:51:13+00:00</published>
-    <updated>2026-11-14T17:51:13+00:00</updated>
-    <summary type="text">Score: 0.536\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Show HN: DeepSeek V3，约200行纯Jax代码</title>
-    <link href="https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"/>
-    <id>da20b653694a9af21a625805d8582b48</id>
-    <published>2026-11-14T15:04:15+00:00</published>
-    <updated>2026-11-14T15:04:15+00:00</updated>
-    <summary type="text">Score: 0.570\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>所有由人工智能生成的代码都应开源</title>
+    <link href="https://jakub.jankiewicz.org/blog/ai-code-open-source"/>
+    <id>04c57e3ecbbbb54278b1a3f4b54400f2</id>
+    <published>2026-11-15T14:46:58+00:00</published>
+    <updated>2026-11-15T14:46:58+00:00</updated>
+    <summary type="text">Score: 0.556\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>那位解雇了 Sam Altman 的 OpenAI 董事会成员：我们仍然无法信任 AI 公司的 CEO / The OpenAI board member who fired Sam Altman says we still can&amp;#8217;t trust AI CEOs</title>
-    <link href="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"/>
-    <id>3a2e7b64e8b9bdf77290aa3c894871a4</id>
-    <published>2026-11-14T15:00:00+00:00</published>
-    <updated>2026-11-14T15:00:00+00:00</updated>
-    <summary type="text">Score: 0.612\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
+    <title>Show HN: db-branch – 借助 ZFS，几秒内为 AI Agent 和 CI 创建数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS</title>
+    <link href="https://github.com/db-branch/db-branch"/>
+    <id>be6c0c6da9d064654a98ae80abdd892d</id>
+    <published>2026-11-15T13:50:51+00:00</published>
+    <updated>2026-11-15T13:50:51+00:00</updated>
+    <summary type="text">Score: 0.526\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3</title>
-    <link href="https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm"/>
-    <id>796bfeaab9c2119915d1f1ce206a618b</id>
-    <published>2026-11-14T14:09:25+00:00</published>
-    <updated>2026-11-14T14:09:25+00:00</updated>
-    <summary type="text">Score: 0.566\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>ByteAsk Cloud Agents —— 在大型代码库中定位修复方案，直接从 Slack 交付上线 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.</title>
+    <link href="https://www.producthunt.com/products/byteask-cloud-agents"/>
+    <id>ecdc09cc18f238d0511586a720b38c53</id>
+    <published>2026-11-15T12:29:09.521000+00:00</published>
+    <updated>2026-11-15T12:29:09.521000+00:00</updated>
+    <summary type="text">Score: 0.589\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
+    <category term="值得关注"/>
+    <category term="multi_source"/>
+    <category term="watch"/>
+  </entry>
+  <entry>
+    <title>理解现代大型语言模型中的位置嵌入</title>
+    <link href="https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"/>
+    <id>fbcedc7aefbb22f7daea09db92be7eea</id>
+    <published>2026-11-15T12:14:06+00:00</published>
+    <updated>2026-11-15T12:14:06+00:00</updated>
+    <summary type="text">Score: 0.558\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>Show HN：Agweb——一款为 Agent 打造、不挡你路的浏览器 / Show HN: Agweb – a browser for agents that stays out of your way</title>
-    <link href="https://github.com/paul-nameless/agweb"/>
-    <id>a9153de60390e470518c845bdb6ef051</id>
-    <published>2026-11-14T14:08:12+00:00</published>
-    <updated>2026-11-14T14:08:12+00:00</updated>
-    <summary type="text">Score: 0.528\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <title>Show HN：Turbo-Browser-MCP —— 面向 MCP 的批量表单、DOM 增量与提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP</title>
+    <link href="https://github.com/Tthanh2k6/turbo-browser-mcp"/>
+    <id>bf1d147b0cb3f41231eaed405508cbdc</id>
+    <published>2026-11-15T04:09:11+00:00</published>
+    <updated>2026-11-15T04:09:11+00:00</updated>
+    <summary type="text">Score: 0.505\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」</title>
-    <link href="https://www.aibase.com/news/32323"/>
-    <id>b14bc77880ea4ab684019bc3bb68f363</id>
-    <published>2026-11-14T08:57:15.798110+00:00</published>
-    <updated>2026-11-14T08:57:15.798110+00:00</updated>
-    <summary type="text">Score: 0.738\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗</title>
+    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46"/>
+    <id>985539ca3a2f729a3309332efbf0fa5a</id>
+    <published>2026-11-15T03:35:00+00:00</published>
+    <updated>2026-11-15T03:35:00+00:00</updated>
+    <summary type="text">Score: 0.726\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Keep Opus 5.5 as your coding default in Claude Code. On 52 coding tasks in Claude Code 2.1.322, Fable 5.2 solved about as many (82.7% vs 84.6%) but cost 2.80x as much per solved task. Opus already solves most of these...</title>
-    <link href="https://x.com/garrytan/status/2121464508225053153"/>
-    <id>06ca89677bc93f0bc020d9d47134dd5a</id>
-    <published>2026-11-14T04:45:28+00:00</published>
-    <updated>2026-11-14T04:45:28+00:00</updated>
-    <summary type="text">Score: 0.640\nSources: 2 (Follow Builders)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面</title>
-    <link href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"/>
-    <id>b4c37cb26ab78f9c36eb6748d2f0382b</id>
-    <published>2026-11-14T02:10:01+00:00</published>
-    <updated>2026-11-14T02:10:01+00:00</updated>
-    <summary type="text">Score: 0.569\nSources: 4 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Anthropic 升级 Claude Code 的 Projects 功能：无需人工干预，可并行运行多个 AI 工作单元 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free</title>
-    <link href="https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free"/>
-    <id>7fcfe5a14a5685a2949223889a0dfd20</id>
-    <published>2026-11-14T00:28:11+00:00</published>
-    <updated>2026-11-14T00:28:11+00:00</updated>
-    <summary type="text">Score: 0.524\nSources: 3 (Info Flow)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
-  </entry>
-  <entry>
-    <title>Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新</title>
-    <link href="https://unsloth.ai/docs/models/qwen3.8"/>
-    <id>c0ff60b75b7d41022fd934e3a47519df</id>
-    <published>2026-11-14T00:06:04+00:00</published>
-    <updated>2026-11-14T00:06:04+00:00</updated>
-    <summary type="text">Score: 0.519\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Claude Meetings进入测试 可加入视频通话记笔记答疑</title>
-    <link href="https://claude.com/resources/articles/claude-meetings"/>
-    <id>2ad8ebfcd7b910d5a05aa95a98f0404e</id>
-    <published>2026-11-13T22:39:15+00:00</published>
-    <updated>2026-11-13T22:39:15+00:00</updated>
-    <summary type="text">Score: 0.520\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
+    <title>法院驳回了关于DRAM价格垄断案的驳回起诉动议</title>
+    <link href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"/>
+    <id>4c78cd86b0e1be5d9ddf1efe54d19167</id>
+    <published>2026-11-15T01:18:36+00:00</published>
+    <updated>2026-11-15T01:18:36+00:00</updated>
+    <summary type="text">Score: 0.514\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
