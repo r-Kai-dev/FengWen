@@ -4,10 +4,19 @@
   <icon>https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.4/favicon.ico</icon>
   <link href="https://qwen.ai/research"/>
   <id>https://qwen.ai/research</id>
-  <updated>2026-09-20T00:00:00+00:00</updated>
+  <updated>2026-11-16T00:00:00+00:00</updated>
   <author>
     <name>Qwen (Alibaba)</name>
   </author>
+  <entry>
+    <title>Qwen4-Max: Your New Teammate Has Arrived</title>
+    <link href="https://qwen.ai/blog?id=qwen4-max"/>
+    <id>153193231de4b035d4cd418ffe3778ea</id>
+    <published>2026-11-16T00:00:00+00:00</published>
+    <updated>2026-11-16T00:00:00+00:00</updated>
+    <summary type="text">Today, we are introducing Qwen4-Max, your new AI teammate for work, creativity, and discovery. Qwen4-Max is built on the new Qwen4 architecture, with a 2.4-trillion-parameter backbone, native vision capabilities, and a one-million-token context window. Qwen4-Max advances real-world productivity through greater proficiency with professional tools, stronger long-horizon task execution, and...</summary>
+    <category term="Release"/>
+  </entry>
   <entry>
     <title>Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation</title>
     <link href="https://qwen.ai/blog?id=qwen-image-2.1"/>
@@ -42,15 +51,6 @@
     <published>2026-09-03T00:00:00+00:00</published>
     <updated>2026-09-03T00:00:00+00:00</updated>
     <summary type="text">Agent benchmarks over the past few years have mostly followed one pattern. A goal is handed to the model, and the model tries to reach it within a bounded number of turns, whether that means finding the treasure in a maze, producing a report, or fixing a piece of code. Performance is then scored on the quality of the deliverable or on how much of the task got done, and evaluations of this kind...</summary>
-    <category term="Open-Source"/>
-  </entry>
-  <entry>
-    <title>Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving</title>
-    <link href="https://qwen.ai/blog?id=qwen-drive-1.0"/>
-    <id>af0fec6e3e95bfa94186212c9d7026e9</id>
-    <published>2026-09-03T00:00:00+00:00</published>
-    <updated>2026-09-03T00:00:00+00:00</updated>
-    <summary type="text">We introduce Qwen-Drive-1.0, the first vision-language foundation model for autonomous driving that unifies 3D perception and visual question answering at the pretraining stage and further extends to motion planning, while keeping the pretrained VLM architecture entirely untouched. Built on the natively multimodal Qwen3.5-4B, it attaches two external modules. A BEV perception head serves as an...</summary>
     <category term="Open-Source"/>
   </entry>
 </feed>

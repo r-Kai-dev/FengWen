@@ -18,12 +18,102 @@
     <category term="LLM"/>
   </entry>
   <entry>
+    <title>Full-Duplex Interaction with Speech, Expressions and Gestures</title>
+    <link href="https://seed.bytedance.com/en/public_papers/full-duplex-interaction-with-speech-expressions-and-gestures"/>
+    <id>fc6b6db005b96d3d3ad45ba931e8bf4a</id>
+    <published>2026-10-15T12:00:00+00:00</published>
+    <updated>2026-10-15T12:00:00+00:00</updated>
+    <summary type="text">Human face-to-face conversation requires coordinating speech, gestures and expressions across both speaking and listening. We present ELLSA 2, an end-to-end full-duplex dialogue model that jointly optimizes speech interaction and streaming gesture-expression generation. An autoregressive, chunk-wise synthesizer combines pretrained acoustic features with distinct listening and speaking hidden states from the dialogue backbone and speech synthesizer, enabling continuous non-verbal generation even </summary>
+    <category term="Audio and Speech Processing"/>
+  </entry>
+  <entry>
+    <title>Cortex: Consolidating Context into Parametric Memory</title>
+    <link href="https://seed.bytedance.com/en/public_papers/cortex-consolidating-context-into-parametric-memory"/>
+    <id>f2c80b0bd3d7905ab05b8aae1268394a</id>
+    <published>2026-10-14T12:00:00+00:00</published>
+    <updated>2026-10-14T12:00:00+00:00</updated>
+    <summary type="text">Context can improve large language model performance, but these gains may be lost after context removal. Inspired by biological systems consolidation, we formulate Memory Consolidation (MC) as internalizing these gains while preserving non-target capabilities, connecting context-specified editing, skill learning, and behavioral steering under a common objective. We introduce a five-task-family testbed measuring consolidation and retention under single, batch, and sequential updates. We propose C</summary>
+    <category term="Computation and Language"/>
+  </entry>
+  <entry>
+    <title>ObsSpec: Accelerating Agentic Reinforcement Learning with Observation Speculation</title>
+    <link href="https://seed.bytedance.com/en/public_papers/obsspec-accelerating-agentic-reinforcement-learning-with-observation-speculation"/>
+    <id>4d6501143b7ab035102e07fef8b0371a</id>
+    <published>2026-10-11T12:00:00+00:00</published>
+    <updated>2026-10-11T12:00:00+00:00</updated>
+    <summary type="text">Tool-using agents alternate between model generation and tool execution, waiting for each tool call to complete before starting the next generation. This sequential execution is costly during agentic reinforcement learning (RL), which requires large batches of multi-turn rollouts. We introduce ObsSpec, an observation speculation pipeline for agentic RL that uses a small world model to predict tool outputs while the environment executes, allowing the policy to begin its next generation early. Obs</summary>
+    <category term="Machine Learning"/>
+  </entry>
+  <entry>
+    <title>One Model, Multiple Compute Budgets: Multi-Ratio ConceptMoE for Flexible Compute Across Turns</title>
+    <link href="https://seed.bytedance.com/en/public_papers/one-model-multiple-compute-budgets-multi-ratio-conceptmoe-for-flexible-compute-across-turns"/>
+    <id>3936db04b3b0c445bf77ef23f90f3620</id>
+    <published>2026-10-08T12:00:00+00:00</published>
+    <updated>2026-10-08T12:00:00+00:00</updated>
+    <summary type="text">Large language models typically support different inference budgets through separate model sizes or fixed compute configurations. In multi-turn interactions, however, compute demand can vary substantially across turns. Using a high-compute model for every turn wastes computation, while routing among independent models may require rebuilding model-specific history states after switches. We therefore ask whether a single shared model can support multiple compute budgets that can be flexibly assign</summary>
+    <category term="Machine Learning"/>
+  </entry>
+  <entry>
+    <title>FastCI: Efficient GPU-Intensive CI for LLM Training Frameworks</title>
+    <link href="https://seed.bytedance.com/en/public_papers/fastci-efficient-gpu-intensive-ci-for-llm-training-frameworks"/>
+    <id>e99f3ea547667c0d64ac2e9fe96840f0</id>
+    <published>2026-10-01T12:00:00+00:00</published>
+    <updated>2026-10-01T12:00:00+00:00</updated>
+    <summary type="text">As large language models (LLMs) keep growing in size and complexity, their training frameworks evolve at a rapid pace as well. Therefore, continuous integration (CI) is critical for maintaining the quality and stability of these frameworks. However, unlike traditional software, CI for LLM training frameworks relies on GPU-intensive tests, which usually involve complete model training or evaluation. This leads CI itself to become a new bottleneck for fast-paced development. In this paper, we intr</summary>
+    <category term="Machine Learning"/>
+  </entry>
+  <entry>
     <title>Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression</title>
     <link href="https://seed.bytedance.com/en/public_papers/periodic-weak-spots-phase-sensitivity-from-chunked-kv-cache-compression"/>
     <id>f8b0297b455d7cd56e9282dd2dc4e30d</id>
     <published>2026-09-28T12:00:00+00:00</published>
     <updated>2026-09-28T12:00:00+00:00</updated>
     <summary type="text">Chunked KV-cache compression reduces the memory and attention costs of long-context inference by compressing windows of consecutive tokens into fewer cache entries at a fixed stride. Such compression also introduces a new positional coordinate: a token's phase, or its position relative to compression-window boundaries. We uncover a systematic asymmetry in models using such compression: the same information can be easy to retrieve at one phase and difficult at another. We call this periodic varia</summary>
+    <category term="Machine Learning"/>
+  </entry>
+  <entry>
+    <title>Aligning One-Step Generative Models with Reward-Weighted Transport Distillation</title>
+    <link href="https://seed.bytedance.com/en/public_papers/aligning-one-step-generative-models-with-reward-weighted-transport-distillation"/>
+    <id>b8b6341d68922814099935ba9f81abd1</id>
+    <published>2026-09-25T12:00:00+00:00</published>
+    <updated>2026-09-25T12:00:00+00:00</updated>
+    <summary type="text">One-step generators enable high-quality visual generation with a single network evaluation, but their post-training is difficult: general implicit generators provide neither tractable likelihoods nor denoising trajectories, and many rewards are non-differentiable. We introduce Reward-Weighted Transport Distillation (RWTD), a post-training method that requires only generated samples and scalar reward evaluations. Rather than aligning solely to the conventional reward-tilted reference distribution</summary>
+    <category term="Machine Learning"/>
+  </entry>
+  <entry>
+    <title>Block Sparse Attention with Log-Linear Complexity</title>
+    <link href="https://seed.bytedance.com/en/public_papers/block-sparse-attention-with-log-linear-complexity"/>
+    <id>b3d7f210ea8a89f887d9472cec52c3be</id>
+    <published>2026-09-25T12:00:00+00:00</published>
+    <updated>2026-09-25T12:00:00+00:00</updated>
+    <summary type="text">Scaling language models to long contexts is limited by the quadratic cost of self-attention. Block sparse attention offers an efficient alternative, but selecting the retained blocks remains a bottleneck. Conventional block selection requires scoring all query-block pairs and therefore remains quadratic in sequence length. To address this issue, we propose PISA, a block-sparse attention mechanism that employs a pyramid Top-$K$ selection strategy. The main idea is to gradually narrow down the can</summary>
+    <category term="Machine Learning"/>
+  </entry>
+  <entry>
+    <title>EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics</title>
+    <link href="https://seed.bytedance.com/en/public_papers/embodiedswe-coding-agents-for-long-horizon-dexterous-robotics"/>
+    <id>fd051392f705bf3adc7442ee69ac7880</id>
+    <published>2026-09-23T12:00:00+00:00</published>
+    <updated>2026-09-23T12:00:00+00:00</updated>
+    <summary type="text">We study coding agents for long-horizon, dexterous robotics and ask whether their solutions can provide scalable supervision for learning general robot policies. To test this, we develop EMBODIEDSWE-BENCH, a simulation benchmark for coding agents spanning contact-rich manipulation, deformable objects, and long-horizon tasks requiring up to half an hour of continuous interaction. We find that frontier coding agents can solve complex long-horizon tasks and transfer prior solutions across both task</summary>
+    <category term="Robotics"/>
+  </entry>
+  <entry>
+    <title>NSP: Accelerating Variable-Length LLM Training via Nested Sequence Parallelism</title>
+    <link href="https://seed.bytedance.com/en/public_papers/nsp-accelerating-variable-length-llm-training-via-nested-sequence-parallelism"/>
+    <id>9d7a4137f2baeec7b9156a5793ff5d2e</id>
+    <published>2026-09-19T12:00:00+00:00</published>
+    <updated>2026-09-19T12:00:00+00:00</updated>
+    <summary type="text">Long-context LLM training on long-tailed corpora faces a central communication--balance tradeoff. Such sequence-length heterogeneity makes any single sequence-parallelism (SP) degree a poor fit for the workload: a small degree leaves the few long sequences badly imbalanced, while a large degree forces the many short sequences that dominate the workload to pay excessive communication. Existing dynamic-SP systems mix SP degrees within a batch, but to run several groups at once they partition the G</summary>
+    <category term="Distributed, Parallel, and Cluster Computing "/>
+  </entry>
+  <entry>
+    <title>Towards Full Pipeline FP8 Reinforcement Learning for LLMs</title>
+    <link href="https://seed.bytedance.com/en/public_papers/towards-full-pipeline-fp8-reinforcement-learning-for-llms"/>
+    <id>b1251e77814e89932d28f3aa9daeb4c9</id>
+    <published>2026-09-19T12:00:00+00:00</published>
+    <updated>2026-09-19T12:00:00+00:00</updated>
+    <summary type="text">Reinforcement learning (RL) has become a key technique for improving the reasoning and agentic abilities of large language models (LLMs). Although FP8 quantization can accelerate RL training, maintaining stability throughout an FP8 RL pipeline remains challenging. While previous works have focused on resolving train-inference mismatches using correction techniques like TIS, we reveal that full-pipeline FP8 RL still suffers from severe training instability, manifesting as anomalous mid-training e</summary>
     <category term="Machine Learning"/>
   </entry>
   <entry>
@@ -54,6 +144,15 @@
     <category term="Computation and Language"/>
   </entry>
   <entry>
+    <title>Unfolding Scientific Papers into Multi-Turn Generation Trajectories for Continued Pre-Training</title>
+    <link href="https://seed.bytedance.com/en/public_papers/unfolding-scientific-papers-into-multi-turn-generation-trajectories-for-continued-pre-training"/>
+    <id>9b725289a5067801bfa5a586dce1142a</id>
+    <published>2026-08-26T12:00:00+00:00</published>
+    <updated>2026-08-26T12:00:00+00:00</updated>
+    <summary type="text">A recent line of synthetic-data work reconstructs the thinking behind existing text rather than rewriting the text itself, but it operates on short web passages, recovers only local thoughts, and leaves the structure of whole documents untouched. Scientific papers are written to a clear and largely uniform structure and make a natural substrate for lifting this paradigm to the document level. We present a pipeline that unfolds each paper into a multi-turn generation trajectory in which a teacher</summary>
+    <category term="Computation and Language"/>
+  </entry>
+  <entry>
     <title>Chain-of-Experience for Continual LLM Improvement</title>
     <link href="https://seed.bytedance.com/en/public_papers/chain-of-experience-for-continual-llm-improvement"/>
     <id>c750fce0476ab90542e41a34d82b8a74</id>
@@ -79,95 +178,5 @@
     <updated>2026-08-06T12:00:00+00:00</updated>
     <summary type="text">Spatial intelligence is fundamental to embodied agents, yet existing benchmarks focus on local spatial perception from single or few viewpoints, overlooking global spatial awareness over continuous, long-horizon visual streams. To address this limitation, we introduce the Global-Spatial-Temporal Benchmark (GST-Bench), a VQA benchmark for global spatial intelligence in video understanding, comprising human-verified questions derived from 6,790 minutes of synthetically generated video. It requires</summary>
     <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>Sample-Efficient Learning from Agent Experience</title>
-    <link href="https://seed.bytedance.com/en/public_papers/sample-efficient-learning-from-agent-experience"/>
-    <id>a1b7b094e36382a7d81d8c3b75dad70e</id>
-    <published>2026-07-23T12:00:00+00:00</published>
-    <updated>2026-07-23T12:00:00+00:00</updated>
-    <summary type="text">Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disappear once that experience is removed from the context. Separately, context distillation provides a mechanism for internalizing contextual information into model weights. However, applying it to agents' interacti</summary>
-    <category term="Computation and Language"/>
-  </entry>
-  <entry>
-    <title>EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments</title>
-    <link href="https://seed.bytedance.com/en/public_papers/edgebench-unveiling-scaling-laws-of-learning-from-real-world-environments"/>
-    <id>888eb33aa0493a65deb10e74af5d0a7b</id>
-    <published>2026-07-05T16:00:00+00:00</published>
-    <updated>2026-07-05T16:00:00+00:00</updated>
-    <summary type="text">Pretraining scaling laws reveal that model capability improves predictably with data and compute. But learning from real world environments after deployment remains far less understood. Analyzing roughly 38,000 hours of agent interaction with the environment across 134 real world tasks, we find, to the best of our knowledge, the first evidence that overall performance during environment learning follows a log-sigmoid scaling law with remarkably high precision, reaching R^2 = 0.998. Across model </summary>
-    <category term="Computation and Language"/>
-  </entry>
-  <entry>
-    <title>MSQA: A Natively Sourced Multilingual and Multicultural SimpleQA Benchmark</title>
-    <link href="https://seed.bytedance.com/en/public_papers/msqa-a-natively-sourced-multilingual-and-multicultural-simpleqa-benchmark"/>
-    <id>d14e9083646d2b5c2cc554d4c258bbcf</id>
-    <published>2026-07-01T12:00:00+00:00</published>
-    <updated>2026-07-01T12:00:00+00:00</updated>
-    <summary type="text">Multilingual fluency often invites a stronger assumption: a model that can speak a user's language must also understand the culture encoded by that language. We call this the Illusion of Cultural Alignment. To test this assumption directly, we introduce MSQA, a benchmark of 1,064 natively sourced questions across 11 language groups, five cultural dimensions, and three difficulty tiers. Unlike translated benchmarks, MSQA targets locally grounded knowledge and reduces shortcuts from English-centri</summary>
-    <category term="Computation and Language"/>
-  </entry>
-  <entry>
-    <title>Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity</title>
-    <link href="https://seed.bytedance.com/en/public_papers/seed2-0-model-card-towards-intelligence-frontier-for-real-world-complexity"/>
-    <id>0143054c86d20c04a553411f26d18d9d</id>
-    <published>2026-06-30T12:00:00+00:00</published>
-    <updated>2026-06-30T12:00:00+00:00</updated>
-    <summary type="text">We present Seed2.0, a model series that takes a meaningful step toward solving complex, real-world tasks. Our approach begins with identifying users' genuine needs and constructing a reliable, forward-looking evaluation system by selecting and abstracting benchmarks grounded in these needs and in realistic, complex scenarios. Guided by this evaluation system, Seed2.0 targets two persistent challenges, long-tail knowledge and complex instruction following, substantially improving the model's reli</summary>
-    <category term="Artificial Intelligence"/>
-  </entry>
-  <entry>
-    <title>A Unified Generative Framework for Scalable Chemical Reaction Network Exploration</title>
-    <link href="https://seed.bytedance.com/en/public_papers/a-unified-generative-framework-for-scalable-chemical-reaction-network-exploration"/>
-    <id>c86ff8d1091f996a2638b593d249555d</id>
-    <published>2026-06-19T12:00:00+00:00</published>
-    <updated>2026-06-19T12:00:00+00:00</updated>
-    <summary type="text">Chemical reaction networks (CRNs) are crucial for understanding reaction mechanisms and guiding chemical synthesis, yet the computational exploration remains limited by the combinatorial growth of chemical space, the reliability of reaction path screening, and the cost of evaluating thermodynamic and kinetic properties. Here, we present ByteCRN, an end-to-end framework for computational CRN exploration that combines chemically informed reaction enumeration with generative transition state modeli</summary>
-    <category term="Chemical Physics"/>
-  </entry>
-  <entry>
-    <title>Analytic Nonadiabatic Derivative Couplings Using Noncollinear Spin-Flip TDDFT</title>
-    <link href="https://seed.bytedance.com/en/public_papers/analytic-nonadiabatic-derivative-couplings-using-noncollinear-spin-flip-tddft"/>
-    <id>938b64024275d3471850782707e9c4a2</id>
-    <published>2026-06-10T16:00:00+00:00</published>
-    <updated>2026-06-10T16:00:00+00:00</updated>
-    <summary type="text">Nonadiabatic molecular dynamics is an important tool for investigating chemical reaction mechanisms, particularly in photochemical processes. Its central challenge is to efficiently and accurately obtain, at the electronic-structure level, the energies, nuclear forces (gradients), and nonadiabatic derivative couplings (NADCs) associated with multiple potential-energy surfaces. We have previously developed a noncollinear spin-flip time-dependent density functional theory (SF-TDDFT) based on the m</summary>
-    <category term="Reaction subjects"/>
-  </entry>
-  <entry>
-    <title>Towards stable and accurate electron dynamics via neural network based time-dependent variational Monte Carlo</title>
-    <link href="https://seed.bytedance.com/en/public_papers/towards-stable-and-accurate-electron-dynamics-via-neural-network-based-time-dependent-variational-monte-carlo"/>
-    <id>f14f565a84fa1ccb1209086eec0a519d</id>
-    <published>2026-06-03T16:00:00+00:00</published>
-    <updated>2026-06-03T16:00:00+00:00</updated>
-    <summary type="text">Real-time dynamics of interacting electrons lies at the interface between quantum mechanics and non-equilibrium physics, governing the microscopic origin of ultrafast phenomena of molecules and nano-materials. Though neural network variational Monte Carlo has achieved unprecedented accuracy for stationary state calculations, its extension to real-time evolution remains challenging. In this work, we introduce the neural basis time-dependent variational Monte Carlo framework, which achieves stable</summary>
-    <category term="Computational Physics"/>
-  </entry>
-  <entry>
-    <title>MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation</title>
-    <link href="https://seed.bytedance.com/en/public_papers/metapoint-unlocking-precise-spatial-control-in-agentic-visual-generation"/>
-    <id>db00bee1c654180d079794c8fb0d7ee4</id>
-    <published>2026-06-02T16:00:00+00:00</published>
-    <updated>2026-06-02T16:00:00+00:00</updated>
-    <summary type="text">Generative visual models fundamentally struggle with precise spatial control. This arises from a core disconnect: models can process textual descriptions of space but cannot directly map numerical coordinates onto the 2D image canvas. We introduce MetaPoint, a method that bridges this gap by representing a continuous 2D coordinate as a single, special token. Crucially, MetaPoint requires no new architectural components; it directly leverages the model's inherent positional encoding schemes to in</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>Task-Focused Memorization for Multimodal Agents</title>
-    <link href="https://seed.bytedance.com/en/public_papers/task-focused-memorization-for-multimodal-agents"/>
-    <id>a432193b06d53c9d69359efd5b697b5a</id>
-    <published>2026-05-28T16:00:00+00:00</published>
-    <updated>2026-05-28T16:00:00+00:00</updated>
-    <summary type="text">Long-term memory is essential for multimodal agents to build coherent experience, accumulate world knowledge, and achieve continual learning. However, constructing effective memory goes beyond memory module design and basic requirements such as accuracy and fidelity; the key challenge lies in determining what to memorize. Multimodal agents, such as embodied agents, continuously perceive, reason, and act in real or virtual environments, receiving an unbounded stream of multimodal observations. Fr</summary>
-    <category term="Computer Vision and Pattern Recognition"/>
-  </entry>
-  <entry>
-    <title>More Expressive Feedforward Layers: Part I. Token-Adaptive Mixing of Activations</title>
-    <link href="https://seed.bytedance.com/en/public_papers/more-expressive-feedforward-layers-part-i-token-adaptive-mixing-of-activations"/>
-    <id>542574e1d542317930b8e694ee61abf8</id>
-    <published>2026-05-25T16:00:00+00:00</published>
-    <updated>2026-05-25T16:00:00+00:00</updated>
-    <summary type="text">Feedforward network (FFN) layers account for a large fraction of parameters and nonlinear expressivity in Transformer-based large language models (LLMs). Despite the evolution from ReLU and GELU to gated variants such as SwiGLU, most FFN designs still use a single fixed activation function, applying the same nonlinear transformation to all tokens. In this work, we propose Mixture of Activations (MoA), a token-adaptive FFN design that mixes a dictionary of activation functions using lightweight i</summary>
-    <category term="Machine Learning"/>
   </entry>
 </feed>

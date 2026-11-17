@@ -4,10 +4,46 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-11-05T00:00:00+00:00</updated>
+  <updated>2026-11-14T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>How to Embed AI Video Generation Into Your App With LTX-2.5</title>
+    <link href="https://ltx.io/blog/embed-ai-video-generation"/>
+    <id>271ab307774d906426ee4ba87de246b4</id>
+    <published>2026-11-14T00:00:00+00:00</published>
+    <updated>2026-11-14T00:00:00+00:00</updated>
+    <summary type="text">Embed AI video generation in your app with LTX-2.5: the async API job flow, queue limits, per-second costs, and how to self-host the open weights instead.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>Character Reference Sheets In Video Models: One Image or Several?</title>
+    <link href="https://ltx.io/blog/character-reference-sheets-video-models"/>
+    <id>5f535eac3bea20d56cc489099e9760e9</id>
+    <published>2026-11-10T00:00:00+00:00</published>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+    <summary type="text">Should LTX-2.5 get a full character reference sheet, one image, or several? How frame conditioning, keyframes and character LoRAs keep identity stable.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>Open-Source Alternatives to the Veo, Sora &amp; Kling APIs (2026)</title>
+    <link href="https://ltx.io/blog/open-source-video-api-alternatives"/>
+    <id>b1e4d905047bbfa0f0a9578315785f84</id>
+    <published>2026-11-10T00:00:00+00:00</published>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+    <summary type="text">The Sora API shut down in September 2026. Compare open-weight options (LTX-2.5, Wan2.2, HunyuanVideo-1.5) by license, VRAM floor and hosted API access.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>VRAM Requirements for Open Source Video Models (2026)</title>
+    <link href="https://ltx.io/blog/open-video-model-vram-requirements"/>
+    <id>39db97b32c2e270714479608f4539ae0</id>
+    <published>2026-11-10T00:00:00+00:00</published>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+    <summary type="text">Published VRAM floors for LTX-2.5, Wan2.2 and HunyuanVideo-1.5, why the numbers disagree, and the settings that cut GPU memory on a local video model.</summary>
+    <category term="Tutorials"/>
+  </entry>
   <entry>
     <title>Best 5 Video Generation APIs In 2026 (Compared)</title>
     <link href="https://ltx.io/blog/best-video-generation-apis"/>
@@ -15,6 +51,51 @@
     <published>2026-11-05T00:00:00+00:00</published>
     <updated>2026-11-05T00:00:00+00:00</updated>
     <summary type="text">Comparing the best video generation APIs in 2026 by access model, deployment, native audio, and pricing, so you can choose the right one for production.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Running LTX-2.5 on AWS, Google Cloud and Azure GPUs</title>
+    <link href="https://ltx.io/blog/ltx-2-5-cloud-gpu"/>
+    <id>aa6026c9bd85dce32995772767de11fd</id>
+    <published>2026-11-05T00:00:00+00:00</published>
+    <updated>2026-11-05T00:00:00+00:00</updated>
+    <summary type="text">Run LTX-2.5 on a cloud GPU: which AWS, Google Cloud and Azure instances clear the 32GB VRAM floor, plus setup commands, memory flags and cost controls.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>What Is STG (Spatiotemporal Skip Guidance) &amp; How It Affects Motion In AI</title>
+    <link href="https://ltx.io/blog/spatiotemporal-skip-guidance"/>
+    <id>fca37e7ce31bd0a66bd1658c236ee9fe</id>
+    <published>2026-11-05T00:00:00+00:00</published>
+    <updated>2026-11-05T00:00:00+00:00</updated>
+    <summary type="text">Spatiotemporal skip guidance (STG) steers video diffusion away from a perturbed copy of the model. How it differs from CFG and how to tune it in LTX-2.5.</summary>
+    <category term="Tutorials"/>
+  </entry>
+  <entry>
+    <title>Best Open-Source Lip Sync &amp; Talking Head Models In 2026</title>
+    <link href="https://ltx.io/blog/open-source-lip-sync-models"/>
+    <id>c997d9f00e4b1ed21fe988d2f20bc796</id>
+    <published>2026-11-04T00:00:00+00:00</published>
+    <updated>2026-11-04T00:00:00+00:00</updated>
+    <summary type="text">Open-source AI lip sync models compared: Wav2Lip, MuseTalk, LatentSync 1.6 and LTX Dub-It, with licenses, face resolution, VRAM needs and when to use each.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Best Open-Source Runway Aleph Alternatives for Video-to-Video Editing (2026)</title>
+    <link href="https://ltx.io/blog/open-source-runway-aleph-alternatives"/>
+    <id>3ce7d926e3541236e3a7d449a7fd0fa9</id>
+    <published>2026-11-04T00:00:00+00:00</published>
+    <updated>2026-11-04T00:00:00+00:00</updated>
+    <summary type="text">Open-source Runway Aleph alternatives compared: LTX-2.5 IC-LoRAs, Wan2.1 VACE and Wan2.2 Animate, with licenses, resolution, hardware needs and edit fit.</summary>
+    <category term="Production"/>
+  </entry>
+  <entry>
+    <title>Video Generation API Pricing Per Second Compared (2026)</title>
+    <link href="https://ltx.io/blog/video-generation-api-pricing"/>
+    <id>be7fe26c30cbbc02f97f48efdb917eab</id>
+    <published>2026-11-04T00:00:00+00:00</published>
+    <updated>2026-11-04T00:00:00+00:00</updated>
+    <summary type="text">Video generation API pricing per second at 1080p and 4K: LTX-2.5, Veo 3.1, Runway Gen-4.5, Kling 3.0 and Seedance 2.0, plus minimums and billing rules.</summary>
     <category term="Production"/>
   </entry>
   <entry>
@@ -357,87 +438,6 @@
     <published>2026-09-07T00:00:00+00:00</published>
     <updated>2026-09-07T00:00:00+00:00</updated>
     <summary type="text">What training data do you need to fine-tune a video generation model? A practical guide to datasets, clip rules, and captions for LTX-2.5 LoRA training.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Synthetic Data Generation With World Models For Robotics, AV &amp; Computer Vision</title>
-    <link href="https://ltx.io/blog/synthetic-data-generation"/>
-    <id>f27f9b59685f8b0a77853893da592b60</id>
-    <published>2026-09-06T00:00:00+00:00</published>
-    <updated>2026-09-06T00:00:00+00:00</updated>
-    <summary type="text">How world models generate synthetic data for robotics, autonomous vehicles, and computer vision, and where open models like LTX-2.5 fit in the pipeline.</summary>
-    <category term="Physical AI"/>
-  </entry>
-  <entry>
-    <title>Video-to-Video With Open Models: Restyle, Transform &amp; Structure Control</title>
-    <link href="https://ltx.io/blog/video-to-video-with-open-models"/>
-    <id>b85fb9a099d99e4f3c8ab74dd3f73ac4</id>
-    <published>2026-09-06T00:00:00+00:00</published>
-    <updated>2026-09-06T00:00:00+00:00</updated>
-    <summary type="text">Video-to-video AI with open models. How the LTX-2.5 pipelines restyle footage, hold structure and render HDR output, and which one to run for a given job.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>What Is Model Distillation? Dev vs Distilled Explained</title>
-    <link href="https://ltx.io/blog/what-is-model-distillation"/>
-    <id>77e9a94173d71c58d3ba5b1391409a7a</id>
-    <published>2026-09-06T00:00:00+00:00</published>
-    <updated>2026-09-06T00:00:00+00:00</updated>
-    <summary type="text">Model distillation explained for video generation, and exactly how the LTX-2.5 dev and distilled transformers differ on steps, pipelines and memory use.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>LTX-2.5 VRAM &amp; Cost Calculator</title>
-    <link href="https://ltx.io/blog/ltx-vram-cost-calculator"/>
-    <id>77a5aef938977fce143e14c247df76be</id>
-    <published>2026-09-05T00:00:00+00:00</published>
-    <updated>2026-09-05T00:00:00+00:00</updated>
-    <summary type="text">Work out exactly how much VRAM LTX-2.5 needs for your resolution and clip length, what your levers are when it does not fit, and what a generation costs.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Where To Run LTX-2.5: Self-Host, API, Or Hosted Platform</title>
-    <link href="https://ltx.io/blog/where-to-run-ltx-2-5"/>
-    <id>f413677f9c1b6e363a6495fd3d075fab</id>
-    <published>2026-09-05T00:00:00+00:00</published>
-    <updated>2026-09-05T00:00:00+00:00</updated>
-    <summary type="text">Four ways to run LTX-2.5 compared: the LTX API from $0.09 a second, self-hosting the open weights, Hugging Face, and platforms like fal and Replicate.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>How To Create Good Camera Motion With An AI Video Model</title>
-    <link href="https://ltx.io/blog/camera-motion-with-ai-video"/>
-    <id>60b464469d1a00abcfbdd356fbf4d631</id>
-    <published>2026-09-04T00:00:00+00:00</published>
-    <updated>2026-09-04T00:00:00+00:00</updated>
-    <summary type="text">Learn how to direct camera motion in LTX-2.5 with prompt patterns, reliable move types, and fixes for wobble, drift, and detached shots.</summary>
-    <category term="Tutorials"/>
-  </entry>
-  <entry>
-    <title>How To Evaluate A Video Generation Model</title>
-    <link href="https://ltx.io/blog/how-to-evaluate-a-video-generation-model"/>
-    <id>4a11a9f5b6e8a520efebbb6ad816c8ab</id>
-    <published>2026-09-04T00:00:00+00:00</published>
-    <updated>2026-09-04T00:00:00+00:00</updated>
-    <summary type="text">AI model benchmarks rarely answer your question. A repeatable method for evaluating a video generation model on the footage and hardware you actually have.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Multimodal Conditioning In Video Generation Explained</title>
-    <link href="https://ltx.io/blog/multimodal-conditioning"/>
-    <id>91990f2d87f8d6b661daa865586b3342</id>
-    <published>2026-09-04T00:00:00+00:00</published>
-    <updated>2026-09-04T00:00:00+00:00</updated>
-    <summary type="text">Combine text, image, keyframe, and reference video signals to steer AI video. LTX-2.5 conditioning taxonomy, decision matrix, failure modes.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>Free AI Video Generation: What Open Weights Actually Means</title>
-    <link href="https://ltx.io/blog/free-ai-video-generation"/>
-    <id>802865c830bd8469fd5d187c4c5039c0</id>
-    <published>2026-09-03T00:00:00+00:00</published>
-    <updated>2026-09-03T00:00:00+00:00</updated>
-    <summary type="text">Free AI video generation means two different things. One is a credit-limited trial. The other is open weights you download and run. Here is the difference.</summary>
     <category term="Production"/>
   </entry>
 </feed>

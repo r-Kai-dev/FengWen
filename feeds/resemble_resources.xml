@@ -4,10 +4,19 @@
   <icon>https://cdn.prod.website-files.com/69bc3de63d285e297507b3ef/69c2960ee70ed6776049e2fe_favicon.jpg</icon>
   <link href="https://www.resemble.ai/resources"/>
   <id>https://www.resemble.ai/resources</id>
-  <updated>2026-11-12T00:00:00+00:00</updated>
+  <updated>2026-11-16T00:00:00+00:00</updated>
   <author>
     <name>Resemble AI</name>
   </author>
+  <entry>
+    <title>Deepfake Detection for Identity Verification: How It Works</title>
+    <link href="https://www.resemble.ai/resources/deepfake-detection-for-identity-verification"/>
+    <id>abd9e23b2c3efd2dda1d7f0b473afdeb</id>
+    <published>2026-11-16T00:00:00+00:00</published>
+    <updated>2026-11-16T00:00:00+00:00</updated>
+    <summary type="text">Learn how deepfake detection for identity verification works, how it differs from liveness checks, and what to test before deploying it in a KYC workflow.</summary>
+    <category term="Blog"/>
+  </entry>
   <entry>
     <title>The Deepfake Watchlist: Week of November 6–12, 2026</title>
     <link href="https://www.resemble.ai/resources/the-deepfake-watchlist-week-of-november-6-12-2026"/>
@@ -106,14 +115,5 @@
     <updated>2026-10-30T00:00:00+00:00</updated>
     <summary type="text">The Deepfake Watchlist is Resemble AI's weekly surveillance of synthetic media incidents, ongoing cases, and disputed content shaping the news cycle. Each week we track confirmed incidents, emerging attack vectors, and claims under investigation, alongside the provenance, detection, and policy threads running underneath them.</summary>
     <category term="Deepfake Watchlist"/>
-  </entry>
-  <entry>
-    <title>Introducing RAD-S1: a System One model for detecting AI agents that look human</title>
-    <link href="https://www.resemble.ai/resources/introducing-ai-agent-detection"/>
-    <id>fb799737c9e3bffee9755d33bea22577</id>
-    <published>2026-10-29T00:00:00+00:00</published>
-    <updated>2026-10-29T00:00:00+00:00</updated>
-    <summary type="text">‍RAD-S1 reads how a visitor moves, types and clicks to tell people from AI agents, including agents built to look human. Here's how it works, how we tested it and where the results stop.</summary>
-    <category term="Blog"/>
   </entry>
 </feed>

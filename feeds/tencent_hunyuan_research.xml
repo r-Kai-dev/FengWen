@@ -4,10 +4,18 @@
   <icon>https://hunyuan-blog-web-prod-1258344703.cos.ap-guangzhou.myqcloud.com/favicon.png</icon>
   <link href="https://hunyuan.tencent.com/research"/>
   <id>https://hunyuan.tencent.com/research</id>
-  <updated>2026-11-03T16:00:00+00:00</updated>
+  <updated>2026-11-15T16:00:00+00:00</updated>
   <author>
     <name>Tencent Hunyuan</name>
   </author>
+  <entry>
+    <title>Introducing Hy4 flash: Ultimate cost-efficiency for everyday productivity</title>
+    <link href="https://hunyuan.tencent.com/research/hy4-flash"/>
+    <id>c8447c3114d1c8785028fe2afea25673</id>
+    <published>2026-11-15T16:00:00+00:00</published>
+    <updated>2026-11-15T16:00:00+00:00</updated>
+    <category term="Hy LLM"/>
+  </entry>
   <entry>
     <title>Introducing Hy4</title>
     <link href="https://hunyuan.tencent.com/research/hy4"/>
@@ -84,13 +92,5 @@
     <published>2026-04-22T16:00:00+00:00</published>
     <updated>2026-04-22T16:00:00+00:00</updated>
     <category term="Hy LLM"/>
-  </entry>
-  <entry>
-    <title>Stabilizing RLVR via Token-level Gradient Diagnosis and Layerwise Clipping</title>
-    <link href="https://hunyuan.tencent.com/research/100015"/>
-    <id>ce069468ec7e5fe7cbcfafd459521d16</id>
-    <published>2026-02-13T08:36:03+00:00</published>
-    <updated>2026-02-13T08:36:03+00:00</updated>
-    <category term="Guanhua Huang;Tingqiang Xu;Jinbo Wang"/>
   </entry>
 </feed>

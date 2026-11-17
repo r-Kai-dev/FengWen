@@ -4,96 +4,258 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-11-15T19:31:58.759000+00:00</updated>
+  <updated>2026-11-17T00:09:27+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
-    <link href="https://github.com/elementalsouls/Claude-BugHunter"/>
-    <id>d683b712cc15ad44fd6e8c9834ef5dee</id>
-    <published>2026-11-15T19:31:58.759000+00:00</published>
-    <updated>2026-11-15T19:31:58.759000+00:00</updated>
-    <summary type="text">Score: 0.589\nSources: 2 (GitHub Trending)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>Dependabot 关闭警报的请求现在有效期为一年 / Dependabot alert dismissal requests now last one year</title>
+    <link href="https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year"/>
+    <id>4f76d9f94d86c243ccb5be25348acf98</id>
+    <published>2026-11-17T00:09:27+00:00</published>
+    <updated>2026-11-17T00:09:27+00:00</updated>
+    <summary type="text">Score: 0.842\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>所有由人工智能生成的代码都应开源</title>
-    <link href="https://jakub.jankiewicz.org/blog/ai-code-open-source"/>
-    <id>04c57e3ecbbbb54278b1a3f4b54400f2</id>
-    <published>2026-11-15T14:46:58+00:00</published>
-    <updated>2026-11-15T14:46:58+00:00</updated>
-    <summary type="text">Score: 0.556\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>GitHub Copilot 每周更新——11月9日 / GitHub Copilot weekly releases — November 9</title>
+    <link href="https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"/>
+    <id>086805765a543c5c2d1ad773a17a7719</id>
+    <published>2026-11-16T21:34:53+00:00</published>
+    <updated>2026-11-16T21:34:53+00:00</updated>
+    <summary type="text">Score: 0.844\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>每个账户的预算数量上限提升至 40,000 个 / Budget limit increased to 40,000 budgets per account</title>
+    <link href="https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account"/>
+    <id>2e0c543ae45f5cf35745c6e73323409c</id>
+    <published>2026-11-16T21:30:49+00:00</published>
+    <updated>2026-11-16T21:30:49+00:00</updated>
+    <summary type="text">Score: 0.836\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>GitHub Copilot 部分模型将于 2026 年 11 月 16 日停用 / GitHub Copilot models deprecated on November 16, 2026</title>
+    <link href="https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026"/>
+    <id>e4bc697c5c52add6b0282988c502aa85</id>
+    <published>2026-11-16T20:25:20+00:00</published>
+    <updated>2026-11-16T20:25:20+00:00</updated>
+    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>FBI 称 Artex AI 开源黑客工具不到三小时就能攻破网络 / FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’</title>
+    <link href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours"/>
+    <id>fdec269b37db874b8be95db109287ffb</id>
+    <published>2026-11-16T17:36:43+00:00</published>
+    <updated>2026-11-16T17:36:43+00:00</updated>
+    <summary type="text">Score: 0.656\nSources: 3 (Curated Media)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>Show HN: db-branch – 借助 ZFS，几秒内为 AI Agent 和 CI 创建数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS</title>
-    <link href="https://github.com/db-branch/db-branch"/>
-    <id>be6c0c6da9d064654a98ae80abdd892d</id>
-    <published>2026-11-15T13:50:51+00:00</published>
-    <updated>2026-11-15T13:50:51+00:00</updated>
-    <summary type="text">Score: 0.526\nSources: 2 (Info Flow)\nImportance: 值得关注</summary>
+    <title>OpenAI将派驻安全研究人员，调查AI的颠覆风险 / OpenAI will embed safety researchers to investigate AI subversion</title>
+    <link href="https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion"/>
+    <id>d5b4be8f51365c9991df0b9066076239</id>
+    <published>2026-11-16T17:02:43+00:00</published>
+    <updated>2026-11-16T17:02:43+00:00</updated>
+    <summary type="text">Score: 0.642\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>ByteAsk Cloud Agents —— 在大型代码库中定位修复方案，直接从 Slack 交付上线 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.</title>
-    <link href="https://www.producthunt.com/products/byteask-cloud-agents"/>
-    <id>ecdc09cc18f238d0511586a720b38c53</id>
-    <published>2026-11-15T12:29:09.521000+00:00</published>
-    <updated>2026-11-15T12:29:09.521000+00:00</updated>
-    <summary type="text">Score: 0.589\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
+    <title>加强打击网络儿童性虐待的力度 / Strengthening the fight against online child sexual abuse with new tools and support</title>
+    <link href="https://openai.com/index/strengthening-online-child-safety"/>
+    <id>f241cb5ab96bd7f88349e92da8cf3d9d</id>
+    <published>2026-11-16T17:00:00+00:00</published>
+    <updated>2026-11-16T17:00:00+00:00</updated>
+    <summary type="text">Score: 0.883\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="multi_source"/>
-    <category term="watch"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>理解现代大型语言模型中的位置嵌入</title>
-    <link href="https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"/>
-    <id>fbcedc7aefbb22f7daea09db92be7eea</id>
-    <published>2026-11-15T12:14:06+00:00</published>
-    <updated>2026-11-15T12:14:06+00:00</updated>
-    <summary type="text">Score: 0.558\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
-    <category term="多源热议"/>
-    <category term="multi_source"/>
-    <category term="multi_source"/>
+    <title>让更多科学家用上 AI / Broadening access to AI for scientists</title>
+    <link href="https://openai.com/index/expanding-chatgpt-for-academic-researchers"/>
+    <id>6f2d82e73b4b71e2a25ab6d094cd7190</id>
+    <published>2026-11-16T17:00:00+00:00</published>
+    <updated>2026-11-16T17:00:00+00:00</updated>
+    <summary type="text">Score: 0.833\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>Show HN：Turbo-Browser-MCP —— 面向 MCP 的批量表单、DOM 增量与提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP</title>
-    <link href="https://github.com/Tthanh2k6/turbo-browser-mcp"/>
-    <id>bf1d147b0cb3f41231eaed405508cbdc</id>
-    <published>2026-11-15T04:09:11+00:00</published>
-    <updated>2026-11-15T04:09:11+00:00</updated>
-    <summary type="text">Score: 0.505\nSources: 2 (Zeli)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
+    <title>为多个仓库批量启动 AI Scan / Bulk start AI Scan for repositories</title>
+    <link href="https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories"/>
+    <id>eafc46db5e97fcd8f945d62620f8bc87</id>
+    <published>2026-11-16T15:50:22+00:00</published>
+    <updated>2026-11-16T15:50:22+00:00</updated>
+    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
   <entry>
-    <title>何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗</title>
-    <link href="https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46"/>
-    <id>985539ca3a2f729a3309332efbf0fa5a</id>
-    <published>2026-11-15T03:35:00+00:00</published>
-    <updated>2026-11-15T03:35:00+00:00</updated>
-    <summary type="text">Score: 0.726\nSources: 1 (AI HubToday)\nImportance: 行业动态</summary>
+    <title>把GitHub Mobile随身带上iPhone Duo / Take GitHub Mobile with you on iPhone Duo</title>
+    <link href="https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo"/>
+    <id>47e528ad3c53395fb47bea08addab26d</id>
+    <published>2026-11-16T14:30:07+00:00</published>
+    <updated>2026-11-16T14:30:07+00:00</updated>
+    <summary type="text">Score: 0.819\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Ask Maps 新增功能，助力假日出行与准备 / New Ask Maps features to help with holiday travel and prep</title>
+    <link href="https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026"/>
+    <id>a1ded854910442bef2bc2842c8865b33</id>
+    <published>2026-11-16T14:00:00+00:00</published>
+    <updated>2026-11-16T14:00:00+00:00</updated>
+    <summary type="text">Score: 0.818\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军</title>
+    <link href="https://www.aibase.com/news/32343"/>
+    <id>99f391472d1ed6be624d8f4514a34e01</id>
+    <published>2026-11-16T13:39:36.905060+00:00</published>
+    <updated>2026-11-16T13:39:36.905060+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>法院驳回了关于DRAM价格垄断案的驳回起诉动议</title>
-    <link href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"/>
-    <id>4c78cd86b0e1be5d9ddf1efe54d19167</id>
-    <published>2026-11-15T01:18:36+00:00</published>
-    <updated>2026-11-15T01:18:36+00:00</updated>
-    <summary type="text">Score: 0.514\nSources: 2 (Buzzing)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
+    <title>黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会</title>
+    <link href="https://www.aibase.com/news/32341"/>
+    <id>d8ed151fc63bb44d8304ce2947909f8e</id>
+    <published>2026-11-16T13:39:36.905060+00:00</published>
+    <updated>2026-11-16T13:39:36.905060+00:00</updated>
+    <summary type="text">Score: 0.741\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT</title>
+    <link href="https://openai.com/index/science-at-the-frontier"/>
+    <id>3da59896df7cbbcd0c066580fcf4d1b8</id>
+    <published>2026-11-16T12:00:00+00:00</published>
+    <updated>2026-11-16T12:00:00+00:00</updated>
+    <summary type="text">Score: 0.830\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>LVMH媒体部门宣布与OpenAI达成战略合作 / LVMH’s Media Division announces strategic partnership with OpenAI</title>
+    <link href="https://openai.com/index/lvmh-media-division-partnership"/>
+    <id>5efb876c46e06ea28b90114208621599</id>
+    <published>2026-11-16T09:00:00+00:00</published>
+    <updated>2026-11-16T09:00:00+00:00</updated>
+    <summary type="text">Score: 0.821\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整</title>
+    <link href="https://www.aibase.com/news/32337"/>
+    <id>40eafba994163cdcc0137cb4a294955f</id>
+    <published>2026-11-16T08:02:08.302128+00:00</published>
+    <updated>2026-11-16T08:02:08.302128+00:00</updated>
+    <summary type="text">Score: 0.729\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单</title>
+    <link href="https://www.aibase.com/news/32339"/>
+    <id>aecea9ff9b3460c31b5b362ec4a5a609</id>
+    <published>2026-11-16T08:02:08.302128+00:00</published>
+    <updated>2026-11-16T08:02:08.302128+00:00</updated>
+    <summary type="text">Score: 0.729\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>我们第一阶段的内嵌式评估 / Our first phase of embedded assessments</title>
+    <link href="https://openai.com/index/our-first-phase-of-embedded-assessments"/>
+    <id>0e8975d3bfa7689ec9895cec0a06a30d</id>
+    <published>2026-11-16T08:00:00+00:00</published>
+    <updated>2026-11-16T08:00:00+00:00</updated>
+    <summary type="text">Score: 0.838\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
     <category term="multi_source"/>
-    <category term="watch"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>ChatGPT for Healthcare 带来更多方式，推动医疗服务不断前行 / More ways to move care forward with ChatGPT for Healthcare</title>
+    <link href="https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"/>
+    <id>2c69374fa37bb2712091d783320c0309</id>
+    <published>2026-11-16T06:00:00+00:00</published>
+    <updated>2026-11-16T06:00:00+00:00</updated>
+    <summary type="text">Score: 0.817\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>推动面向医疗团队的计算机操作 Agent 发展 / Advancing computer-use agents for healthcare teams</title>
+    <link href="https://openai.com/index/advancing-computer-use-for-healthcare-teams"/>
+    <id>76a934f72e208c7c59839a931b7c3944</id>
+    <published>2026-11-16T06:00:00+00:00</published>
+    <updated>2026-11-16T06:00:00+00:00</updated>
+    <summary type="text">Score: 0.809\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
   </entry>
 </feed>
