@@ -4,10 +4,19 @@
   <icon>https://labs.scale.com/images/favicon.svg</icon>
   <link href="https://labs.scale.com/blog"/>
   <id>https://labs.scale.com/blog</id>
-  <updated>2026-11-12</updated>
+  <updated>2026-11-17</updated>
   <author>
     <name>Scale Labs</name>
   </author>
+  <entry>
+    <title>Measuring Robot Data Diversity: Insights from 20,000 Hours of Real-World Data</title>
+    <link href="https://labs.scale.com/blog/measuring-robot-data-diversity"/>
+    <id>f473833d98e0df07823b83ff454c4fb2</id>
+    <published>2026-11-17</published>
+    <updated>2026-11-17</updated>
+    <summary type="text">We are collecting one of the largest corpora of highly diverse multi-embodiment robot data. Here, we analyze more than 20,000 hours of our loco-manipulation data and take a deeper look at what the robot does, what it handles, where it works, and how all of it looks to a model. — By Yusuf Umut Ciftci, Chitrangada Devulapalli, Pragna Mannam</summary>
+    <category term="Physical AI"/>
+  </entry>
   <entry>
     <title>BARC-Bench: When benign workplace requests lead AI agents to cause harm</title>
     <link href="https://labs.scale.com/blog/barc-bench-when-benign-workplace-requests-lead-ai-agents-to-cause-harm"/>

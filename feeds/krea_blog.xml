@@ -6,8 +6,24 @@
   <link rel="self" href="https://www.krea.ai/blog/feed/atom.xml"/>
   <id>https://www.krea.ai/blog/feed/atom.xml</id>
   <icon>https://www.krea.ai/favicon/favicon-32.png</icon>
-  <updated>2026-11-12T00:00:00.000Z</updated>
+  <updated>2026-11-17T00:00:00.000Z</updated>
   <author><name>The Krea Team</name></author>
+  <entry>
+    <title>Krea Originals 01 &amp; 02: ROCKET and RECESS</title>
+    <link href="https://www.krea.ai/blog/krea-originals-rocket-and-recess"/>
+    <id>https://www.krea.ai/blog/krea-originals-rocket-and-recess</id>
+    <updated>2026-11-17T00:00:00.000Z</updated>
+    <published>2026-11-17T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="krea-originals"/>
+    <category term="krea originals"/>
+    <category term="ai film"/>
+    <category term="short film"/>
+    <category term="seedance 2.5"/>
+    <category term="nodes"/>
+    <summary>Krea Originals are short films from Krea. Here is how ROCKET and RECESS were made: one Nodes canvas, Krea 2 Turbo for characters and locations, Seedance 2.5 for every scene, and prompts written in Claude.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/krea-originals/card-cover.mp4" type="image/webp"/>
+  </entry>
   <entry>
     <title>The Rise of Microdramas: Minute-Long Episodes Are Making Billions</title>
     <link href="https://www.krea.ai/blog/the-rise-of-microdramas"/>
@@ -18,36 +34,6 @@
     <category term="guides"/>
     <summary>Microdramas made about $11 billion in 2025. How the format works, how the apps make money, what AI did to production costs, and where you can post your own.</summary>
     <link rel="enclosure" href="https://gen.krea.ai/images/3ed764fe-aea8-459d-aa35-78c11d89519b.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>The Best Cinematic AI Video Generators in 2026</title>
-    <link href="https://www.krea.ai/blog/best-cinematic-ai-video-generators-in-2026"/>
-    <id>https://www.krea.ai/blog/best-cinematic-ai-video-generators-in-2026</id>
-    <updated>2026-11-05T00:00:00.000Z</updated>
-    <published>2026-11-05T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="seedance-2-5"/>
-    <category term="veo-3-1"/>
-    <category term="kling-4"/>
-    <summary>The best cinematic AI video generators of 2026 compared: Seedance 2.5, Veo 3.1, Kling 4, Runway, Luma, and Higgsfield on camera control, clip length, audio, and Seedance 2.5 price.</summary>
-    <link rel="enclosure" href="https://optim-images.krea.ai/https---s-krea-ai-10-best-seedance-2-5-prompts-for-cinematic-ai-videos-2026-video-7-mp4-1024.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Zoo York: How One Phone Photo Became a One-Minute AI Monkey Movie</title>
-    <link href="https://www.krea.ai/blog/zoo-york-ai-video-prompt-guide"/>
-    <id>https://www.krea.ai/blog/zoo-york-ai-video-prompt-guide</id>
-    <updated>2026-11-05T00:00:00.000Z</updated>
-    <published>2026-11-05T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="krea agent"/>
-    <category term="seedance 2.5"/>
-    <category term="gpt image 2.5"/>
-    <category term="ai video prompts"/>
-    <category term="image to video"/>
-    <summary>How a single phone photo became Zoo York, a one-minute AI short made with Krea Agent, GPT Image 2.5, and Seedance 2.5, with every prompt used.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-prompt-guide/00-cover.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Krea 3 Technical Report</title>
@@ -95,170 +81,6 @@
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/introducing-ad-studio/hero-david.webp" type="image/webp"/>
   </entry>
   <entry>
-    <title>10 Best Image to Video AI Tools in 2026, Prices Checked</title>
-    <link href="https://www.krea.ai/blog/best-image-to-video-ai-tools-in-2026"/>
-    <id>https://www.krea.ai/blog/best-image-to-video-ai-tools-in-2026</id>
-    <updated>2026-10-29T00:00:00.000Z</updated>
-    <published>2026-10-29T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="kling-4"/>
-    <category term="seedance-2-5"/>
-    <category term="veo3"/>
-    <category term="minimax-h3"/>
-    <category term="wan30"/>
-    <category term="runway"/>
-    <summary>The best image to video AI tools in 2026: Krea, Kling 4.0, Veo 3.1 in Google Flow, Runway, Firefly, Luma, Pika, HeyGen, Hailuo and Vidu, with free tiers, prices and clip lengths.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/video-page/imageToVideo.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to AI Face Swap a Photo, Step by Step</title>
-    <link href="https://www.krea.ai/blog/how-to-face-swap-with-ai"/>
-    <id>https://www.krea.ai/blog/how-to-face-swap-with-ai</id>
-    <updated>2026-10-29T00:00:00.000Z</updated>
-    <published>2026-10-29T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>How to do an AI face swap on a photo: upload a target image and a source face in Krea, generate the swap, then refine it. Free to start, no account required.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/face-swap/face1.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Is HeyGen Free? Up to 3 Videos a Month, Paid From $24 (2026)</title>
-    <link href="https://www.krea.ai/blog/is-heygen-free-pricing-and-alternatives-in-2026"/>
-    <id>https://www.krea.ai/blog/is-heygen-free-pricing-and-alternatives-in-2026</id>
-    <updated>2026-10-29T00:00:00.000Z</updated>
-    <published>2026-10-29T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="kling-4"/>
-    <category term="seedance-2-5"/>
-    <category term="veo3"/>
-    <category term="minimax-h3"/>
-    <category term="wan30"/>
-    <summary>HeyGen's free plan gives 1 to 3 watermarked 720p videos a month, up to 1 minute each. Paid plans start at $24. HeyGen pricing, credits, and the best alternatives compared.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/video-upscaler-page/portrait-after.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to Improve Photo Quality: Fix Blurry, Noisy and Low-Res Photos (2026)</title>
-    <link href="https://www.krea.ai/blog/how-to-improve-photo-quality"/>
-    <id>https://www.krea.ai/blog/how-to-improve-photo-quality</id>
-    <updated>2026-10-28T00:00:00.000Z</updated>
-    <published>2026-10-28T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>How to improve photo quality: find out why a photo looks bad, then fix low resolution, blur, noise, poor lighting and compression, on a phone or online.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-restore-v2/how-to-improve-photo-quality.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to Restore Old Photos: Scan, Repair, Colorize and Print (2026)</title>
-    <link href="https://www.krea.ai/blog/how-to-restore-old-photos"/>
-    <id>https://www.krea.ai/blog/how-to-restore-old-photos</id>
-    <updated>2026-10-27T00:00:00.000Z</updated>
-    <published>2026-10-27T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>How to restore old photos step by step: scan prints the right way, repair scratches and tears with AI, colorize black and white, and upscale for printing.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-restore-v2/how-to-restore-old-photos.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Can You Run Seedance 2.5 Locally? Open Source Status</title>
-    <link href="https://www.krea.ai/blog/can-you-run-seedance-2-5-locally"/>
-    <id>https://www.krea.ai/blog/can-you-run-seedance-2-5-locally</id>
-    <updated>2026-10-26T00:00:00.000Z</updated>
-    <published>2026-10-26T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="seedance-2-5"/>
-    <summary>Is Seedance 2.5 open source? Can you download it, run it locally, or load it in ComfyUI? What's actually available, and the legit ways to use it.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/can-you-run-seedance-2-5-locally.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to Use Seedance 2.5: Step-by-Step Tutorial (2026)</title>
-    <link href="https://www.krea.ai/blog/how-to-use-seedance-2-5"/>
-    <id>https://www.krea.ai/blog/how-to-use-seedance-2-5</id>
-    <updated>2026-10-26T00:00:00.000Z</updated>
-    <published>2026-10-26T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>How to use Seedance 2.5 on Krea, step by step: pick an input mode, set duration and resolution, draft cheaply, generate, extend, upscale and download.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/how-to-use-seedance-2-5.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Is Seedance 2.5 Free? Trials, Unlimited &amp; Cheapest Way</title>
-    <link href="https://www.krea.ai/blog/is-seedance-2-5-free"/>
-    <id>https://www.krea.ai/blog/is-seedance-2-5-free</id>
-    <updated>2026-10-26T00:00:00.000Z</updated>
-    <published>2026-10-26T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="seedance-2-5"/>
-    <summary>Is Seedance 2.5 free? Not on Krea's Free or Basic plans. Here's what Pro unlocks, why 'unlimited' doesn't exist, and the cheapest way to run it.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/is-seedance-2-5-free.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Seedance 2.5 Draft Mode, Extend, Reframe and 1080p Guide</title>
-    <link href="https://www.krea.ai/blog/seedance-2-5-draft-mode-extend-reframe-guide"/>
-    <id>https://www.krea.ai/blog/seedance-2-5-draft-mode-extend-reframe-guide</id>
-    <updated>2026-10-26T00:00:00.000Z</updated>
-    <published>2026-10-26T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="seedance-2-5"/>
-    <summary>How Seedance 2.5 draft mode, video extension, reframing, and video editing work on Krea, plus its real resolution limit (1080p) and how to get 4K.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/seedance-2-5-draft-mode-extend-reframe-guide.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Seedance 2.5 Pricing: What Each Video Costs (2026)</title>
-    <link href="https://www.krea.ai/blog/seedance-2-5-pricing-cost-per-video"/>
-    <id>https://www.krea.ai/blog/seedance-2-5-pricing-cost-per-video</id>
-    <updated>2026-10-26T00:00:00.000Z</updated>
-    <published>2026-10-26T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="seedance-2-5"/>
-    <summary>Seedance 2.5 pricing on Krea: compute-unit cost per second at 480p, 720p and 1080p, 5–30s clip tables, video-reference billing, draft mode and API.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/seedance-2-5-pricing-cost-per-video.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Seedance 2.5 Prompt Guide: How to Write Prompts That Work</title>
-    <link href="https://www.krea.ai/blog/seedance-2-5-prompt-guide"/>
-    <id>https://www.krea.ai/blog/seedance-2-5-prompt-guide</id>
-    <updated>2026-10-26T00:00:00.000Z</updated>
-    <published>2026-10-26T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="seedance-2-5"/>
-    <summary>Seedance 2.5 prompt guide: the prompt formula, action and camera language, multi-shot timing, @ references, and audio cues, with annotated examples.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/seedance-2-5-prompt-guide.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Seedance 2.5 vs MiniMax H3: Tested Side by Side (2026)</title>
-    <link href="https://www.krea.ai/blog/seedance-2-5-vs-minimax-h3"/>
-    <id>https://www.krea.ai/blog/seedance-2-5-vs-minimax-h3</id>
-    <updated>2026-10-26T00:00:00.000Z</updated>
-    <published>2026-10-26T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="seedance-2-5"/>
-    <category term="minimax-h3"/>
-    <category term="minimax-h3max"/>
-    <summary>Seedance 2.5 vs MiniMax H3 and H3 Max, tested on Krea with matched prompts: dialogue, action, clip length, references and cost per second.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/seedance-2-5-vs-minimax-h3.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Seedance 2.5 vs Wan 3.0: 30-Second AI Video, Tested</title>
-    <link href="https://www.krea.ai/blog/seedance-2-5-vs-wan-3-0"/>
-    <id>https://www.krea.ai/blog/seedance-2-5-vs-wan-3-0</id>
-    <updated>2026-10-26T00:00:00.000Z</updated>
-    <published>2026-10-26T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="seedance-2-5"/>
-    <category term="wan30"/>
-    <summary>Seedance 2.5 vs Wan 3.0, tested on Krea with matched prompts: dialogue, action, a 20-second one-take, references, audio and cost per second.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/seedance25-blog/seedance-2-5-vs-wan-3-0.webp" type="image/webp"/>
-  </entry>
-  <entry>
     <title>Multiplayer Nodes: Build Krea Workflows Together, Live</title>
     <link href="https://www.krea.ai/blog/multiplayer-nodes"/>
     <id>https://www.krea.ai/blog/multiplayer-nodes</id>
@@ -284,42 +106,6 @@
     <category term="image editing"/>
     <summary>Krea 3 ranks in the top 4-5 on three independent leaderboards: #4 on Arena (1435 Elo), #5 on Artificial Analysis (1151 Elo), and #4 of 51 on Design Arena.</summary>
     <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-3-benchmarks/agent/arena_01_multi_image_edit_top15_krea_rank4.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Krea 3 vs GPT Image 2: Which AI Image Editor to Use in 2026</title>
-    <link href="https://www.krea.ai/blog/krea-3-vs-gpt-image-2-which-ai-image-editor-to-use-in-2026"/>
-    <id>https://www.krea.ai/blog/krea-3-vs-gpt-image-2-which-ai-image-editor-to-use-in-2026</id>
-    <updated>2026-10-20T16:00:00.000Z</updated>
-    <published>2026-10-20T16:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="krea 3"/>
-    <category term="gpt image 2"/>
-    <category term="chatgpt image editor"/>
-    <category term="ai image editor"/>
-    <category term="ai image editing"/>
-    <category term="product photography"/>
-    <category term="brand design"/>
-    <category term="gpt-image-2"/>
-    <summary>Krea 3 Ultra leads on Artificial Analysis. GPT Image 2 leads on Arena and Design Arena. Krea 3 is 10× faster and 3× cheaper than both.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-3/kola-after.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Krea 3 vs Nano Banana Pro (2026): Ahead on Every Leaderboard</title>
-    <link href="https://www.krea.ai/blog/krea-3-vs-nano-banana-pro-is-faster-editing-good-enough"/>
-    <id>https://www.krea.ai/blog/krea-3-vs-nano-banana-pro-is-faster-editing-good-enough</id>
-    <updated>2026-10-20T16:00:00.000Z</updated>
-    <published>2026-10-20T16:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <category term="krea 3"/>
-    <category term="nano banana pro"/>
-    <category term="ai image editing"/>
-    <category term="model comparison"/>
-    <category term="product photography"/>
-    <category term="performance marketing"/>
-    <summary>Krea 3 ranks above Nano Banana Pro on Arena, Design Arena, and Artificial Analysis. It is 10× faster and 3× cheaper than GPT Image 2 and Nano Banana Pro.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/k3-stuff-again/use-cases-marketing-output.webp" type="image/webp"/>
   </entry>
   <entry>
     <title>Krea for After Effects: Generate Plates, Backgrounds and Motion Concepts Inside Your Comp</title>
@@ -414,6 +200,17 @@
     <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/krea-premiere-pro-plugin.png" type="image/webp"/>
   </entry>
   <entry>
+    <title>María Homs × Dazzle × Zara</title>
+    <link href="https://www.krea.ai/blog/maria-homs-dazzle-zara"/>
+    <id>https://www.krea.ai/blog/maria-homs-dazzle-zara</id>
+    <updated>2026-10-20T00:00:00.000Z</updated>
+    <published>2026-10-20T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="case-studies"/>
+    <summary>How Maria Homs, AI director at Dazzle AI, develops a new Zara video every month in Krea.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/case-studies/slide6-three-images.webp" type="image/webp"/>
+  </entry>
+  <entry>
     <title>Introducing Krea 3</title>
     <link href="https://www.krea.ai/blog/introducing-krea-3"/>
     <id>https://www.krea.ai/blog/introducing-krea-3</id>
@@ -425,228 +222,427 @@
     <link rel="enclosure" href="https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp" type="image/webp"/>
   </entry>
   <entry>
-    <title>Best Free Alternatives to DALL-E in 2026</title>
-    <link href="https://www.krea.ai/blog/best-free-alternatives-to-dall-e-in-2026"/>
-    <id>https://www.krea.ai/blog/best-free-alternatives-to-dall-e-in-2026</id>
-    <updated>2026-10-05T00:00:00.000Z</updated>
-    <published>2026-10-05T00:00:00.000Z</published>
+    <title>Like a bull through the wall</title>
+    <link href="https://www.krea.ai/blog/made-by-humans-swissquote"/>
+    <id>https://www.krea.ai/blog/made-by-humans-swissquote</id>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <published>2026-10-08T00:00:00.000Z</published>
     <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>DALL-E 3 is retired and ChatGPT's free image limit is roughly 2-3 a day. Five free and freemium alternatives, with current pricing and honest limits.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-free-alternatives-to-dall-e-in-2026.webp" type="image/webp"/>
+    <category term="case-studies"/>
+    <summary>How MADE BY HUMANS used Krea to bring Swissquote’s iconic orange bull to life in 4 broadcast films</summary>
+    <link rel="enclosure" href="https://s.krea.ai/customer-stories/made-by-humans/v2/still-tunnel.webp" type="image/webp"/>
   </entry>
   <entry>
-    <title>Is LetsEnhance Safe? What It Does, How to Cancel, and Better Alternatives in 2026</title>
-    <link href="https://www.krea.ai/blog/is-letsenhance-safe-what-it-does-how-to-cancel-and-better-alternatives-in-2026"/>
-    <id>https://www.krea.ai/blog/is-letsenhance-safe-what-it-does-how-to-cancel-and-better-alternatives-in-2026</id>
-    <updated>2026-10-05T00:00:00.000Z</updated>
-    <published>2026-10-05T00:00:00.000Z</published>
+    <title>How to Edit Video with Krea Agent: Cut, Extend and Export Generated Clips (2026)</title>
+    <link href="https://www.krea.ai/blog/how-to-edit-video-with-krea-agent"/>
+    <id>https://www.krea.ai/blog/how-to-edit-video-with-krea-agent</id>
+    <updated>2026-09-18T00:00:00.000Z</updated>
+    <published>2026-09-18T00:00:00.000Z</published>
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
-    <summary>LetsEnhance is a legitimate AI upscaler, 4.1 on Trustpilot, 10 free credits, $9-45/month paid. How to cancel it, and how it compares to Photoshop and Krea.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/is-letsenhance-safe-what-it-does-how-to-cancel-and-better-alternatives-in-2026/agent/hero-real-estate-living-room.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Is Topaz AI Free? Pricing, System Requirements, and Alternatives in 2026</title>
-    <link href="https://www.krea.ai/blog/is-topaz-ai-free-pricing-system-requirements-and-alternatives-in-2026"/>
-    <id>https://www.krea.ai/blog/is-topaz-ai-free-pricing-system-requirements-and-alternatives-in-2026</id>
-    <updated>2026-10-05T00:00:00.000Z</updated>
-    <published>2026-10-05T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Topaz AI is not free in 2026: no desktop trial, Photo from $199/yr, Video from $299/yr. Krea Enhancer is the browser alternative.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/is-topaz-ai-free-pricing-system-requirements-and-alternatives-in-2026/agent/hero.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>DeepAI Image Generator: Free Plan &amp; Alternatives (2026)</title>
-    <link href="https://www.krea.ai/blog/what-is-deepai-free-ai-image-generator-explained-and-alternatives-in-2026"/>
-    <id>https://www.krea.ai/blog/what-is-deepai-free-ai-image-generator-explained-and-alternatives-in-2026</id>
-    <updated>2026-10-05T00:00:00.000Z</updated>
-    <published>2026-10-05T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>DeepAI's image generator has run a free text-to-image tool since 2016. What the free tier includes and how it compares to Leonardo.Ai, Ideogram, and Krea.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/what-is-deepai-free-ai-image-generator-explained-and-alternatives-in-2026.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Ideogram AI 2026: Free Plan, Paid From $15/mo, Alternatives</title>
-    <link href="https://www.krea.ai/blog/what-is-ideogram-ai-features-pricing-and-alternatives-in-2026"/>
-    <id>https://www.krea.ai/blog/what-is-ideogram-ai-features-pricing-and-alternatives-in-2026</id>
-    <updated>2026-10-05T00:00:00.000Z</updated>
-    <published>2026-10-05T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Ideogram is built for text in images. Free plan: weekly slow credits, public images. Plus $20/mo ($15 yearly), Pro $60. Vs Midjourney, Recraft and Krea.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/what-is-ideogram-ai-features-pricing-and-alternatives-in-2026.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Is There Anything Better Than FaceApp? 3 Alternatives Compared in 2026</title>
-    <link href="https://www.krea.ai/blog/best-faceapp-alternatives-in-2026"/>
-    <id>https://www.krea.ai/blog/best-faceapp-alternatives-in-2026</id>
-    <updated>2026-09-30T00:00:00.000Z</updated>
-    <published>2026-09-30T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>FaceApp, Facetune, Remini, and Krea compared for portrait restyling in 2026 — free tiers, prices, and a one-tap filter versus a written prompt.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-faceapp-alternatives-in-2026.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Envato vs. Canva: Which Is Better in 2026?</title>
-    <link href="https://www.krea.ai/blog/envato-vs-canva-which-is-better-in-2026"/>
-    <id>https://www.krea.ai/blog/envato-vs-canva-which-is-better-in-2026</id>
-    <updated>2026-09-30T00:00:00.000Z</updated>
-    <published>2026-09-30T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Envato Elements and Canva compared on price, licenses, and included assets in 2026 — plus when to generate an original asset with AI instead.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/envato-vs-canva-which-is-better-in-2026.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>How to Make a Sticker: Best AI Sticker Generators in 2026</title>
-    <link href="https://www.krea.ai/blog/how-to-make-a-sticker-best-ai-sticker-generators-in-2026"/>
-    <id>https://www.krea.ai/blog/how-to-make-a-sticker-best-ai-sticker-generators-in-2026</id>
-    <updated>2026-09-30T00:00:00.000Z</updated>
-    <published>2026-09-30T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>How to make a sticker in 2026 — compare Kittl, Canva, Krea, and a print-and-ship service like Sticker Mule for templates, custom AI art, and die-cut printing.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/how-to-make-a-sticker-best-ai-sticker-generators-in-2026.webp" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Can You Make Money With Canva? Creators Program and Etsy Templates in 2026</title>
-    <link href="https://www.krea.ai/blog/can-you-make-money-with-canva-creators-program-and-etsy-templates-in-2026"/>
-    <id>https://www.krea.ai/blog/can-you-make-money-with-canva-creators-program-and-etsy-templates-in-2026</id>
-    <updated>2026-09-28T00:00:00.000Z</updated>
-    <published>2026-09-28T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Canva pays Creators royalties from a monthly pool, and you can sell templates on Etsy under set license rules. How each route pays and what the rules forbid.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/can-you-make-money-with-canva-creators-program-and-etsy-templates-in-2026/agent/1790624663090-hero.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Best Free Resume Builders and CV Makers in 2026: Which Ones Let You Download the PDF</title>
-    <link href="https://www.krea.ai/blog/best-free-resume-builders-and-cv-makers-in-2026"/>
-    <id>https://www.krea.ai/blog/best-free-resume-builders-and-cv-makers-in-2026</id>
-    <updated>2026-09-28T00:00:00.000Z</updated>
-    <published>2026-09-28T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Eight resume builders compared on one limit: can a free account download a PDF? Canva, Google Docs, Teal, Kickresume, Novoresume, Rezi, Resume.io, Zety.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/best-free-resume-builders-and-cv-makers-in-2026/agent/1790627948309-hero.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Is Photoshop Free? Adobe Apps &amp; Alternatives (2026)</title>
-    <link href="https://www.krea.ai/blog/can-you-use-photoshop-for-free-adobe-apps-explained-and-free-alternatives-in-2026"/>
-    <id>https://www.krea.ai/blog/can-you-use-photoshop-for-free-adobe-apps-explained-and-free-alternatives-in-2026</id>
-    <updated>2026-09-28T00:00:00.000Z</updated>
-    <published>2026-09-28T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Is Photoshop free? Only the mobile app and a 7-day desktop trial. Which Adobe apps are free, and the best free photo editors for beginners.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/can-you-use-photoshop-for-free-adobe-apps-explained-and-free-alternatives-in-2026/agent/1790624711348-hero.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Where to Find Free Fonts, and Font Types Explained, in 2026</title>
-    <link href="https://www.krea.ai/blog/where-to-find-free-fonts-and-font-types-explained-in-2026"/>
-    <id>https://www.krea.ai/blog/where-to-find-free-fonts-and-font-types-explained-in-2026</id>
-    <updated>2026-09-28T00:00:00.000Z</updated>
-    <published>2026-09-28T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>The six font types — serif, sans serif, slab, script, display, monospace — five places to get free fonts legally, and which licences allow commercial use.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-posts/where-to-find-free-fonts-and-font-types-explained-in-2026/agent/1790627957283-hero.png" type="image/webp"/>
-  </entry>
-  <entry>
-    <title>Best Video Editing Software in 2026: CapCut vs DaVinci Resolve vs Premiere Pro (and When to Use AI Instead)</title>
-    <link href="https://www.krea.ai/blog/best-video-editing-software-in-2026"/>
-    <id>https://www.krea.ai/blog/best-video-editing-software-in-2026</id>
-    <updated>2026-09-23T00:00:00.000Z</updated>
-    <published>2026-09-23T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
+    <category term="krea agent"/>
+    <category term="ai video editor"/>
     <category term="video editing"/>
-    <category term="capcut"/>
-    <category term="davinci resolve"/>
-    <category term="premiere pro"/>
-    <category term="ai video"/>
-    <summary>Compare CapCut, DaVinci Resolve, and Premiere Pro for cutting real footage in 2026, plus where prompt-driven AI tools like Krea fit a different job entirely.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/best-video-editing-software-in-2026.webp" type="image/webp"/>
+    <category term="ai video generation"/>
+    <category term="seedance 2.5"/>
+    <summary>Krea Agent now has a timeline video editor: put clips on a timeline, cut them, extend a clip with a new generation, add audio, and export one MP4.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-edit-video-with-krea-agent/agent/1789758923746-hero.png" type="image/webp"/>
   </entry>
   <entry>
-    <title>Can ChatGPT Reverse Image Search? Best Tools in 2026</title>
-    <link href="https://www.krea.ai/blog/can-chatgpt-reverse-image-search-best-tools-in-2026"/>
-    <id>https://www.krea.ai/blog/can-chatgpt-reverse-image-search-best-tools-in-2026</id>
-    <updated>2026-09-23T00:00:00.000Z</updated>
-    <published>2026-09-23T00:00:00.000Z</published>
-    <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>No, ChatGPT can't run a true reverse image search. Here's what it does instead, and the tools that actually find a photo's source: Lens, TinEye, Bing, Yandex.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/can-chatgpt-reverse-image-search-best-tools-in-2026.webp" type="image/webp"/>
+    <title>Great creatives = great agents</title>
+    <link href="https://www.krea.ai/blog/great-creatives-great-agents"/>
+    <id>https://www.krea.ai/blog/great-creatives-great-agents</id>
+    <updated>2026-09-16T00:00:00.000Z</updated>
+    <published>2026-09-16T00:00:00.000Z</published>
+    <author><name>Armand &amp; Ingi, Systms</name></author>
+    <category term="case-studies"/>
+    <summary>Systms used the Krea Agent to build their NYC launch demo, then wrote up the night themselves, no Krea involvement.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/a-different-note-taker/agent/krea-x-systms-cover.png" type="image/webp"/>
   </entry>
   <entry>
-    <title>Free Coloring Page Generators in 2026: Best Sites, Tools, and Custom AI Pages</title>
-    <link href="https://www.krea.ai/blog/free-coloring-page-generators-and-how-to-make-your-own-with-ai-in-2026"/>
-    <id>https://www.krea.ai/blog/free-coloring-page-generators-and-how-to-make-your-own-with-ai-in-2026</id>
-    <updated>2026-09-23T00:00:00.000Z</updated>
-    <published>2026-09-23T00:00:00.000Z</published>
+    <title>What Is Krea Agent? A Plain Guide to Krea's Creative Production Agent (2026)</title>
+    <link href="https://www.krea.ai/blog/what-is-krea-agent"/>
+    <id>https://www.krea.ai/blog/what-is-krea-agent</id>
+    <updated>2026-09-08T00:00:00.000Z</updated>
+    <published>2026-09-08T00:00:00.000Z</published>
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
-    <summary>Compare the best free coloring page sites and AI generators in 2026 — Crayola, Canva, ColorifyAI, and Krea — plus a prompt recipe for clean, printable line art.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/free-coloring-page-generators-and-how-to-make-your-own-with-ai-in-2026.webp" type="image/webp"/>
+    <category term="krea agent"/>
+    <category term="ai agent"/>
+    <category term="creative production"/>
+    <category term="ai image generation"/>
+    <category term="ai video generation"/>
+    <summary>Krea Agent is an AI agent for creative production: describe the work, it picks the models, generates images, video, and audio, and organizes the results.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/what-is-krea-agent/agent/hero-krea-agents.jpg" type="image/webp"/>
   </entry>
   <entry>
-    <title>Is Gamma AI Free? Free Plan Limits and Alternatives in 2026</title>
-    <link href="https://www.krea.ai/blog/is-gamma-ai-free-pricing-and-alternatives-in-2026"/>
-    <id>https://www.krea.ai/blog/is-gamma-ai-free-pricing-and-alternatives-in-2026</id>
-    <updated>2026-09-23T00:00:00.000Z</updated>
-    <published>2026-09-23T00:00:00.000Z</published>
+    <title>How to Generate AI Images and Videos in ChatGPT with Krea</title>
+    <link href="https://www.krea.ai/blog/generate-ai-images-and-videos-in-chatgpt-with-krea"/>
+    <id>https://www.krea.ai/blog/generate-ai-images-and-videos-in-chatgpt-with-krea</id>
+    <updated>2026-09-05T00:00:00.000Z</updated>
+    <published>2026-09-05T00:00:00.000Z</published>
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
-    <summary>Gamma's free plan gives 400 one-time AI credits, not a monthly allowance. What that buys, what Plus, Pro, and Ultra cost, and how Canva compares.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/is-gamma-ai-free-pricing-and-alternatives-in-2026.webp" type="image/webp"/>
+    <category term="chatgpt"/>
+    <category term="chatgpt image generator"/>
+    <category term="chatgpt video generator"/>
+    <category term="krea 3"/>
+    <category term="mcp"/>
+    <summary>Krea for ChatGPT is a ChatGPT image generator and a ChatGPT video generator. Edit with Krea 3, generate video, and keep the results in your library.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/generate-ai-images-and-videos-in-chatgpt-with-krea.png" type="image/webp"/>
   </entry>
   <entry>
-    <title>Canva Background Remover: Free Plan Limits (2026)</title>
-    <link href="https://www.krea.ai/blog/can-canva-remove-background-free-plan-limits-and-alternatives-in-2026"/>
-    <id>https://www.krea.ai/blog/can-canva-remove-background-free-plan-limits-and-alternatives-in-2026</id>
-    <updated>2026-09-21T00:00:00.000Z</updated>
-    <published>2026-09-21T00:00:00.000Z</published>
+    <title>A studio of one</title>
+    <link href="https://www.krea.ai/blog/a-studio-of-one"/>
+    <id>https://www.krea.ai/blog/a-studio-of-one</id>
+    <updated>2026-08-26T00:00:00.000Z</updated>
+    <published>2026-08-26T00:00:00.000Z</published>
     <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Canva's background remover only runs on paid plans. The steps, the 9 MB and vector limits, and how Photoshop AI and Krea compare, verified Sept 2026.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/can-canva-remove-background-free-plan-limits-and-alternatives-in-2026.webp" type="image/webp"/>
+    <category term="case-studies"/>
+    <summary>How director TEDRA built the fantasy world of The Magic Needle alone in Krea, using mood boards, node-editor reference anchors, and prompt discipline.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/a-studio-of-one/agent/tedra-magic-needle-cover.webp" type="image/webp"/>
   </entry>
   <entry>
-    <title>Is Canva Free? Yes, With 20 AI Uses a Month (2026 Limits)</title>
-    <link href="https://www.krea.ai/blog/is-canva-free-what-the-free-plan-and-canva-ai-include-in-2026"/>
-    <id>https://www.krea.ai/blog/is-canva-free-what-the-free-plan-and-canva-ai-include-in-2026</id>
-    <updated>2026-09-21T00:00:00.000Z</updated>
-    <published>2026-09-21T00:00:00.000Z</published>
+    <title>Seedance 2.5: What's New, How It Works, and What You Can Do With It</title>
+    <link href="https://www.krea.ai/blog/seedance-2-5-what-s-new-how-it-works-and-what-you-can-do-with-it"/>
+    <id>https://www.krea.ai/blog/seedance-2-5-what-s-new-how-it-works-and-what-you-can-do-with-it</id>
+    <updated>2026-08-11T00:00:00.000Z</updated>
+    <published>2026-08-11T00:00:00.000Z</published>
     <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Canva Free is $0 with no time limit, but AI is capped at 20 uses a month. What Free includes, what Pro (US$144/yr) and Business add, and Canva AI vs Krea.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/is-canva-free-what-the-free-plan-and-canva-ai-include-in-2026.webp" type="image/webp"/>
+    <category term="product"/>
+    <category term="seedance-2-5"/>
+    <summary>Seedance 2.5 explained: what changed from Seedance 2.0, how reference-guided generation works in practice, and what you can build with it on Krea.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/seedance-2-5-what-s-new-how-it-works-and-what-you-can-do-with-it.webp" type="image/webp"/>
   </entry>
   <entry>
-    <title>Is Midjourney Free in 2026? Pricing, Video, and Free Alternatives</title>
-    <link href="https://www.krea.ai/blog/is-midjourney-free-pricing-video-and-free-alternatives-in-2026"/>
-    <id>https://www.krea.ai/blog/is-midjourney-free-pricing-video-and-free-alternatives-in-2026</id>
-    <updated>2026-09-21T00:00:00.000Z</updated>
-    <published>2026-09-21T00:00:00.000Z</published>
+    <title>Spot the AI</title>
+    <link href="https://www.krea.ai/blog/spot-the-ai"/>
+    <id>https://www.krea.ai/blog/spot-the-ai</id>
+    <updated>2026-08-09T00:00:00.000Z</updated>
+    <published>2026-08-09T00:00:00.000Z</published>
     <author><name>The Krea Team</name></author>
-    <category term="guides"/>
-    <summary>Whether Midjourney has a free tier today, what Basic, Standard, Pro, and Mega cost, how its video model is billed, and which free alternatives exist.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/is-midjourney-free-pricing-video-and-free-alternatives-in-2026.webp" type="image/webp"/>
+    <category term="case-studies"/>
+    <summary>Cream Productions used Krea to generate period-accurate 1980s New York shots for The Westies, blending AI and live-action footage in the same sequences.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/cream-thumbnail.webp" type="image/webp"/>
   </entry>
   <entry>
-    <title>Is Stable Diffusion Free in 2026? Where to Get It and What It Costs</title>
-    <link href="https://www.krea.ai/blog/is-stable-diffusion-free-where-to-get-it-and-what-it-costs-in-2026"/>
-    <id>https://www.krea.ai/blog/is-stable-diffusion-free-where-to-get-it-and-what-it-costs-in-2026</id>
-    <updated>2026-09-21T00:00:00.000Z</updated>
-    <published>2026-09-21T00:00:00.000Z</published>
+    <title>Bending the Kubernetes scheduler</title>
+    <link href="https://www.krea.ai/blog/bending-the-kubernetes-scheduler"/>
+    <id>https://www.krea.ai/blog/bending-the-kubernetes-scheduler</id>
+    <updated>2026-08-07T15:00:00.000Z</updated>
+    <published>2026-08-07T15:00:00.000Z</published>
+    <author><name>Gabriel Menezes</name></author>
+    <category term="engineering"/>
+    <category term="kubernetes"/>
+    <category term="scheduler"/>
+    <category term="gpu scheduling"/>
+    <category term="kueue"/>
+    <category term="descheduler"/>
+    <category term="infrastructure"/>
+    <summary>How we make the default Kubernetes scheduler pack GPU workloads into the cluster first, and spill to overflow capacity only when it's full.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/bending-the-kubernetes-scheduler/hero.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Rebuilding the fashion workflow</title>
+    <link href="https://www.krea.ai/blog/rebuilding-the-fashion-workflow"/>
+    <id>https://www.krea.ai/blog/rebuilding-the-fashion-workflow</id>
+    <updated>2026-08-06T00:00:00.000Z</updated>
+    <published>2026-08-06T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="case-studies"/>
+    <summary>Taskin Goec rebuilds fashion's costliest steps around Krea: internal design rounds, manufacturer sampling, ecommerce shoots, and campaign video.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/new-thumb.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Train in cluster, infer anywhere</title>
+    <link href="https://www.krea.ai/blog/train-in-cluster-infer-anywhere"/>
+    <id>https://www.krea.ai/blog/train-in-cluster-infer-anywhere</id>
+    <updated>2026-08-05T15:00:00.000Z</updated>
+    <published>2026-08-05T15:00:00.000Z</published>
+    <author><name>Gabriel Menezes</name></author>
+    <category term="engineering"/>
+    <category term="kubernetes"/>
+    <category term="virtual kubelet"/>
+    <category term="gpu scheduling"/>
+    <category term="infrastructure"/>
+    <category term="inference"/>
+    <summary>How Krea shares GPUs between research and production with a custom solution that lets inference scale anywhere when training claims every GPU.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/train-in-cluster-infer-anywhere/hero.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>From almost to Doodles</title>
+    <link href="https://www.krea.ai/blog/from-almost-to-doodles"/>
+    <id>https://www.krea.ai/blog/from-almost-to-doodles</id>
+    <updated>2026-07-30T00:00:00.000Z</updated>
+    <published>2026-07-30T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="case-studies"/>
+    <summary>Doodles trained a custom Krea 2 LoRA on their strict visual style guide, closing the gap that other AI models left at almost-Doodles, not quite Doodles.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/Frame%20109.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>A runway show without a runway</title>
+    <link href="https://www.krea.ai/blog/runway-show-without-a-runway"/>
+    <id>https://www.krea.ai/blog/runway-show-without-a-runway</id>
+    <updated>2026-07-22T00:00:00.000Z</updated>
+    <published>2026-07-22T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="case-studies"/>
+    <summary>Designer Taskin Goec staged an all-AI runway show at Berlin Fashion Week, with every look conceived, designed, and styled entirely inside Krea.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/taskin2.0.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>What Is Seedance 2.5 and What Can It Do</title>
+    <link href="https://www.krea.ai/blog/what-is-seedance-2-5"/>
+    <id>https://www.krea.ai/blog/what-is-seedance-2-5</id>
+    <updated>2026-07-09T00:00:00.000Z</updated>
+    <published>2026-07-09T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <category term="seedance-2-5"/>
+    <summary>Everything new in Seedance 2.5: how it compares to Seedance 2.0, what changed with references and video editing, example prompts, and how to use it on Krea.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedancevid.mp4" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Seedream 5.0 Pro - Live on Krea</title>
+    <link href="https://www.krea.ai/blog/seedream-5-0-pro-live-on-krea"/>
+    <id>https://www.krea.ai/blog/seedream-5-0-pro-live-on-krea</id>
+    <updated>2026-07-08T00:00:00.000Z</updated>
+    <published>2026-07-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <category term="seedream-5-pro"/>
+    <summary>Seedream 5.0 Pro is an advanced image generation and editing model with web search and deep reasoning capabilities. Use it on Krea today.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/seedream-5-0-pro-live-on-krea/thumbnail.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 Technical Report</title>
+    <link href="https://www.krea.ai/blog/krea-2-technical-report"/>
+    <id>https://www.krea.ai/blog/krea-2-technical-report</id>
+    <updated>2026-06-23T15:00:00.000Z</updated>
+    <published>2026-06-23T15:00:00.000Z</published>
+    <author><name>Sangwu Lee</name></author>
+    <category term="research"/>
+    <category term="krea-2"/>
+    <category term="krea 2 technical report"/>
+    <category term="krea 2 open source"/>
+    <category term="krea 2 weights"/>
+    <category term="krea 2 raw"/>
+    <category term="krea 2 turbo"/>
+    <category term="text-to-image"/>
+    <category term="open-weights model"/>
+    <category term="foundation model"/>
+    <category term="gpt-image-1"/>
+    <summary>Technical report for Krea 2 (K2), our open-weights text-to-image foundation models for creative exploration. Release includes K2 Raw and K2 Turbo open weights.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-technical-report/agent/1782227962641-krea2-hero-new.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Introducing Generative Sliders</title>
+    <link href="https://www.krea.ai/blog/generative-sliders"/>
+    <id>https://www.krea.ai/blog/generative-sliders</id>
+    <updated>2026-06-11T00:00:00.000Z</updated>
+    <published>2026-06-11T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Krea 2 now includes Generative Sliders for shaping intensity, complexity, movement, and prompt creativity while generating images.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/hensliders.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea Enhancer: How to Enhance Images with Magnific</title>
+    <link href="https://www.krea.ai/blog/how-to-enhance-images-with-magnific"/>
+    <id>https://www.krea.ai/blog/how-to-enhance-images-with-magnific</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
     <author><name>The Krea Team</name></author>
     <category term="guides"/>
-    <summary>Which Stable Diffusion models are free, what the Community License's $1M revenue cap means, where to get the weights, and what hosted options cost.</summary>
-    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/is-stable-diffusion-free-where-to-get-it-and-what-it-costs-in-2026.webp" type="image/webp"/>
+    <summary>Krea Enhancer runs Magnific for 2x upscaling with richer, more believable detail, not just a sharper resize. Here is the step-by-step walkthrough.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails-v2/how-to-enhance-images-with-magnific.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Enhance Images with Magnific Precise in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-enhance-images-with-magnific-precise"/>
+    <id>https://www.krea.ai/blog/how-to-enhance-images-with-magnific-precise</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>A simple guide to enhancing recent Assets images with Magnific Precise in Krea, including default settings and a real 2x result.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-enhance-images-with-magnific-precise/agent/1780613906662-f05755ad-429b-4450-8e5a-fc3d18b57eef.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Enhance Images with Topaz Generative in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-enhance-images-with-topaz-generative"/>
+    <id>https://www.krea.ai/blog/how-to-enhance-images-with-topaz-generative</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>A simple guide to enhancing images with Topaz Generative in Krea, using a recent Assets image and a real 2x result.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-enhance-images-with-topaz-generative/agent/1780614248046-67f738b4-87bb-43dd-bcde-13415e9b0949.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Generate Images With a Style Reference in Krea (5 Steps)</title>
+    <link href="https://www.krea.ai/blog/how-to-generate-images-with-style-references-in-krea"/>
+    <id>https://www.krea.ai/blog/how-to-generate-images-with-style-references-in-krea</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Use a Krea 2 Large style reference to guide the look of a generated image: pick a preset, write your prompt, and generate in 5 steps.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-generate-images-with-style-references-in-krea/agent/1780615689298-a1e6e221-2775-4558-93ad-d0485a0069ac.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea Upscaler: How to Quickly Upscale an Image</title>
+    <link href="https://www.krea.ai/blog/how-to-quick-upscale-images-in-krea"/>
+    <id>https://www.krea.ai/blog/how-to-quick-upscale-images-in-krea</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Krea's built-in upscaler works right from an Image session: hover a generation, click Quick Upscale, and get a sharper, larger version in seconds.</summary>
+    <link rel="enclosure" href="https://optim-images.krea.ai/https---gen-krea-ai-images-00878e15-ecab-57ed-80b4-b749b205cc84-png-1024.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Remove an Image Background in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-remove-background-in-krea"/>
+    <id>https://www.krea.ai/blog/how-to-remove-background-in-krea</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Learn how to remove an image background in Krea Edit by selecting an asset, right-clicking it, and downloading a clean cutout.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-remove-background-in-krea/agent/1780614644162-11-cube-background-removed-final.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>AI in architecture studios – Krea Podcast with Nitsan Bartov</title>
+    <link href="https://www.krea.ai/blog/krea-podcast-episode-2"/>
+    <id>https://www.krea.ai/blog/krea-podcast-episode-2</id>
+    <updated>2026-06-08T00:00:00.000Z</updated>
+    <published>2026-06-08T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="podcast"/>
+    <summary>Krea Podcast episode two with Nitsan Bartov on AI in architecture studios, visual communication, video, and design culture.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-podcast-episode-2/agent/1780952000354-maxresdefault.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>How to Create an API Token in Krea</title>
+    <link href="https://www.krea.ai/blog/how-to-create-api-token-in-krea"/>
+    <id>https://www.krea.ai/blog/how-to-create-api-token-in-krea</id>
+    <updated>2026-06-05T00:00:00.000Z</updated>
+    <published>2026-06-05T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>Learn how to switch to Krea API mode, create an API token, name it, and store it safely after creation.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/how-to-create-api-token-in-krea/agent/1780617924953-06-token-name-ready-redacted.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 Turbo: Generate Images in 2 Seconds</title>
+    <link href="https://www.krea.ai/blog/krea-2-turbo"/>
+    <id>https://www.krea.ai/blog/krea-2-turbo</id>
+    <updated>2026-06-03T00:00:00.000Z</updated>
+    <published>2026-06-03T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Krea 2 Turbo generates high-quality images in 2 seconds, with style references, moodboards, and LoRAs, in the faster Krea 2 experience.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/dynamic_vibrant_minimal_illustration_of_a_rabbit_riding_a_motocross_bike_mid-air_extreme_wide_angle_i3dghnrmc0189glbqpgq_2.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>&quot;Reality is so boring&quot; – Krea Podcast with Boldtron, Serialcut, and Remembering_orion</title>
+    <link href="https://www.krea.ai/blog/krea-podcast-episode-1"/>
+    <id>https://www.krea.ai/blog/krea-podcast-episode-1</id>
+    <updated>2026-06-02T00:00:00.000Z</updated>
+    <published>2026-06-02T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="podcast"/>
+    <summary>A short Krea podcast interview with Boldtron on AI, creative confidence, surreal image-making and creating the things you wish existed.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/gYL2cYou2X0-HD.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>AI Tools for Generating Lifestyle Product Shots</title>
+    <link href="https://www.krea.ai/blog/ai-tools-lifestyle-product-shots"/>
+    <id>https://www.krea.ai/blog/ai-tools-lifestyle-product-shots</id>
+    <updated>2026-05-29T00:00:00.000Z</updated>
+    <published>2026-05-29T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>If you are short on time: Krea 2 inside Krea is the best fit when you want flexible lifestyle product shots, campaign concepts, and editable product scenes in</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/ai-tools-lifestyle-product-shots/1780079378980-0-c43b7911-4a8d-4c95-8564-3c5bd32bae46.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>AI Tools for Creating Product Mockups and Packaging Renders</title>
+    <link href="https://www.krea.ai/blog/ai-tools-product-mockups-packaging-renders"/>
+    <id>https://www.krea.ai/blog/ai-tools-product-mockups-packaging-renders</id>
+    <updated>2026-05-29T00:00:00.000Z</updated>
+    <published>2026-05-29T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="guides"/>
+    <summary>If you are short on time: Krea 2 is the best fit when you want fast creative directions for product mockups, packaging concepts, and launch visuals. Use a</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/ai-tools-product-mockups-packaging-renders/1780080664910-0-d0f91406-7650-4425-b690-2b6c259ecd83.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 LoRA Training: Public LoRAs in Krea Train</title>
+    <link href="https://www.krea.ai/blog/public-loras-krea-2-train"/>
+    <id>https://www.krea.ai/blog/public-loras-krea-2-train</id>
+    <updated>2026-05-29T00:00:00.000Z</updated>
+    <published>2026-05-29T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>How Krea 2 LoRA training works in Krea Train: train a style, character, or object, then keep it private or make it a public LoRA others can reuse.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-loras-available-to-everyone/1780351035099-hjwbbgjawaanilq.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>We are partnering with Henning Larsen</title>
+    <link href="https://www.krea.ai/blog/we-are-partnering-with-henning-larsen"/>
+    <id>https://www.krea.ai/blog/we-are-partnering-with-henning-larsen</id>
+    <updated>2026-05-29T00:00:00.000Z</updated>
+    <published>2026-05-29T00:00:00.000Z</published>
+    <author><name>Diego Rodriguez</name></author>
+    <category term="case-studies"/>
+    <summary>Krea partners with Henning Larsen Architects to integrate AI-powered design tools into their architectural workflow.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-thumbnails/henning.webp" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Moodboard Gallery in Krea 2 + Preview of Random and Auto</title>
+    <link href="https://www.krea.ai/blog/moodboard-gallery-krea-2-random-auto"/>
+    <id>https://www.krea.ai/blog/moodboard-gallery-krea-2-random-auto</id>
+    <updated>2026-05-28T00:00:00.000Z</updated>
+    <published>2026-05-28T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Moodboard Gallery now includes thousands of moodboards in Krea 2, with new Random and Auto moodboard selection modes in preview.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/moodboard-gallery-krea-2-random-auto/1779981485417-0-aiflnhrhnjj4wvfl.jpg" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 API: Style Transfer, Moodboards &amp; Pricing</title>
+    <link href="https://www.krea.ai/blog/krea-2-api-launch"/>
+    <id>https://www.krea.ai/blog/krea-2-api-launch</id>
+    <updated>2026-05-27T00:00:00.000Z</updated>
+    <published>2026-05-27T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Access Krea 2 through the API: two model sizes, style transfer, moodboards, and creativity controls, with code examples and per-image pricing.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/Screenshot 2026-05-27 at 08.02.32.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Animate Krea 2 illustrations with Seedance 2.0</title>
+    <link href="https://www.krea.ai/blog/krea-2-seedance-animation"/>
+    <id>https://www.krea.ai/blog/krea-2-seedance-animation</id>
+    <updated>2026-05-25T00:00:00.000Z</updated>
+    <published>2026-05-25T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>Turn Krea 2 illustrations into fluid, stylistically consistent animation with Seedance 2.0, using a style reference or mood board, in one Krea workflow.</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/mood-boards-krea-2-v2/1778873199624-2-e0314215-b6e7-485d-b50f-9d1842bf3667.png" type="image/webp"/>
+  </entry>
+  <entry>
+    <title>Krea 2 and Nano Banana 2, side by side</title>
+    <link href="https://www.krea.ai/blog/krea-2-and-nano-banana-2-side-by-side"/>
+    <id>https://www.krea.ai/blog/krea-2-and-nano-banana-2-side-by-side</id>
+    <updated>2026-05-22T00:00:00.000Z</updated>
+    <published>2026-05-22T00:00:00.000Z</published>
+    <author><name>The Krea Team</name></author>
+    <category term="product"/>
+    <summary>In 2026, you can finally stop asking which image model is the best one . The interesting question is which two you should keep open at the same time. Inside Kre</summary>
+    <link rel="enclosure" href="https://s.krea.ai/blog-posts/krea-2-and-nano-banana-2-side-by-side/agent/1779757477498-8fcdecdf-4ba5-4e99-b36c-6e07ff62baed.png" type="image/webp"/>
   </entry>
 </feed>

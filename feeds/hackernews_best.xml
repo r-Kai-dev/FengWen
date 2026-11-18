@@ -4,19 +4,173 @@
   <icon>https://news.ycombinator.com/favicon.ico</icon>
   <link href="https://news.ycombinator.com/best"/>
   <id>https://news.ycombinator.com/best</id>
-  <updated>2026-11-16T23:00:34+00:00</updated>
+  <updated>2026-11-17T22:13:34+00:00</updated>
   <author>
     <name>Hacker News</name>
   </author>
   <entry>
-    <title>Optimizely Compromised, Served Malware on Zoom, GitLab</title>
+    <title>Quad9's withdrawal from France: A canary in the coal mine</title>
+    <link href="https://news.ycombinator.com/item?id=50538994"/>
+    <id>66c830b149addf2fae21432fe5ca2dde</id>
+    <published>2026-11-17T22:13:34+00:00</published>
+    <updated>2026-11-17T22:13:34+00:00</updated>
+  </entry>
+  <entry>
+    <title>Java4Shell: RCE in OpenJDK when processing Base64</title>
+    <link href="https://news.ycombinator.com/item?id=50538240"/>
+    <id>deaa8905fe65fea27fe9098832baeb95</id>
+    <published>2026-11-17T21:11:28+00:00</published>
+    <updated>2026-11-17T21:11:28+00:00</updated>
+  </entry>
+  <entry>
+    <title>Israel vs. Wikipedia</title>
+    <link href="https://news.ycombinator.com/item?id=50537441"/>
+    <id>c19446033d9ebb4c325927d0a5ebc271</id>
+    <published>2026-11-17T20:10:03+00:00</published>
+    <updated>2026-11-17T20:10:03+00:00</updated>
+  </entry>
+  <entry>
+    <title>jQuery 4.1.0</title>
+    <link href="https://news.ycombinator.com/item?id=50537156"/>
+    <id>d67717483bb55752ff330d834f7203a8</id>
+    <published>2026-11-17T19:50:40+00:00</published>
+    <updated>2026-11-17T19:50:40+00:00</updated>
+  </entry>
+  <entry>
+    <title>350 years ago, Ole Rømer discovered that light has a finite speed</title>
+    <link href="https://news.ycombinator.com/item?id=50536813"/>
+    <id>c3c8783ae7933d25475459d215d6fabf</id>
+    <published>2026-11-17T19:25:27+00:00</published>
+    <updated>2026-11-17T19:25:27+00:00</updated>
+  </entry>
+  <entry>
+    <title>Solid 2.0</title>
+    <link href="https://news.ycombinator.com/item?id=50536387"/>
+    <id>09dc7b57d72fd62bf9d4a31e7f47e8d4</id>
+    <published>2026-11-17T18:56:17+00:00</published>
+    <updated>2026-11-17T18:56:17+00:00</updated>
+  </entry>
+  <entry>
+    <title>Phrack 73 Released</title>
+    <link href="https://news.ycombinator.com/item?id=50535992"/>
+    <id>16ef1d68a87a8e20aea536a5c09bc9ab</id>
+    <published>2026-11-17T18:31:25+00:00</published>
+    <updated>2026-11-17T18:31:25+00:00</updated>
+  </entry>
+  <entry>
+    <title>MAI Code 2 and Code 2 Flash</title>
+    <link href="https://news.ycombinator.com/item?id=50535885"/>
+    <id>0df8bf1360bdc88420bb56b1f99039a4</id>
+    <published>2026-11-17T18:25:13+00:00</published>
+    <updated>2026-11-17T18:25:13+00:00</updated>
+  </entry>
+  <entry>
+    <title>Apple Services Down</title>
+    <link href="https://news.ycombinator.com/item?id=50535238"/>
+    <id>3d9a36d5d3d7e3dde0f2a4d8a69ae4e2</id>
+    <published>2026-11-17T17:47:14+00:00</published>
+    <updated>2026-11-17T17:47:14+00:00</updated>
+  </entry>
+  <entry>
+    <title>GPT‑6.2 Astra and Sol</title>
+    <link href="https://news.ycombinator.com/item?id=50535230"/>
+    <id>535440935ddb791eab2e29e740d31cca</id>
+    <published>2026-11-17T17:46:43+00:00</published>
+    <updated>2026-11-17T17:46:43+00:00</updated>
+  </entry>
+  <entry>
+    <title>Nvidia stopped disclosing Singapore sales as revenues hit $104B</title>
+    <link href="https://news.ycombinator.com/item?id=50534631"/>
+    <id>078d4a33a268682f2ce499ab9f904865</id>
+    <published>2026-11-17T17:12:06+00:00</published>
+    <updated>2026-11-17T17:12:06+00:00</updated>
+  </entry>
+  <entry>
+    <title>NSA Internal Network Down</title>
+    <link href="https://news.ycombinator.com/item?id=50533089"/>
+    <id>42d43b7ea0c5ae15a3f360f4c5db6001</id>
+    <published>2026-11-17T15:50:48+00:00</published>
+    <updated>2026-11-17T15:50:48+00:00</updated>
+  </entry>
+  <entry>
+    <title>Highly classified US national security communications network goes down</title>
+    <link href="https://news.ycombinator.com/item?id=50532849"/>
+    <id>2f512a4eefa4578c3d1dc33ff85e0c06</id>
+    <published>2026-11-17T15:38:28+00:00</published>
+    <updated>2026-11-17T15:38:28+00:00</updated>
+  </entry>
+  <entry>
+    <title>Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off</title>
+    <link href="https://news.ycombinator.com/item?id=50532385"/>
+    <id>79d4f3afeaee2d6bc39b0616fc824f05</id>
+    <published>2026-11-17T15:07:09+00:00</published>
+    <updated>2026-11-17T15:07:09+00:00</updated>
+  </entry>
+  <entry>
+    <title>What is the best harness for each model?</title>
+    <link href="https://news.ycombinator.com/item?id=50532191"/>
+    <id>6da3e3a6fabcb485a8af22625174b57d</id>
+    <published>2026-11-17T14:53:43+00:00</published>
+    <updated>2026-11-17T14:53:43+00:00</updated>
+  </entry>
+  <entry>
+    <title>We don't need more apps, we need better open source</title>
+    <link href="https://news.ycombinator.com/item?id=50532086"/>
+    <id>7f2836619a18f032fbd30794d669d5f2</id>
+    <published>2026-11-17T14:45:36+00:00</published>
+    <updated>2026-11-17T14:45:36+00:00</updated>
+  </entry>
+  <entry>
+    <title>Loopholes Are for Assholes</title>
+    <link href="https://news.ycombinator.com/item?id=50531761"/>
+    <id>8b6bf75003eed2bdf5a8c328162e944d</id>
+    <published>2026-11-17T14:20:32+00:00</published>
+    <updated>2026-11-17T14:20:32+00:00</updated>
+  </entry>
+  <entry>
+    <title>Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns</title>
+    <link href="https://news.ycombinator.com/item?id=50531751"/>
+    <id>43e74bb271154de4d96b01a20f8a99b5</id>
+    <published>2026-11-17T14:19:59+00:00</published>
+    <updated>2026-11-17T14:19:59+00:00</updated>
+  </entry>
+  <entry>
+    <title>New Evidence Shows School Phone Bans Are Gradually Improving Test Scores</title>
+    <link href="https://news.ycombinator.com/item?id=50530163"/>
+    <id>47ef54287e00a7e3f255447e92240541</id>
+    <published>2026-11-17T11:45:51+00:00</published>
+    <updated>2026-11-17T11:45:51+00:00</updated>
+  </entry>
+  <entry>
+    <title>How the Claude Code team thinks about verification</title>
+    <link href="https://news.ycombinator.com/item?id=50529612"/>
+    <id>d3f13af0ae3b1a84d3a4873a85d3797e</id>
+    <published>2026-11-17T10:20:40+00:00</published>
+    <updated>2026-11-17T10:20:40+00:00</updated>
+  </entry>
+  <entry>
+    <title>If an App Asks for Full Disk Access or System and App Protection Override</title>
+    <link href="https://news.ycombinator.com/item?id=50526560"/>
+    <id>1745d9c848ed15a77ef7f4c9e6922748</id>
+    <published>2026-11-17T02:17:04+00:00</published>
+    <updated>2026-11-17T02:17:04+00:00</updated>
+  </entry>
+  <entry>
+    <title>Why 3dfx 1 cards had such a washed out color output?</title>
+    <link href="https://news.ycombinator.com/item?id=50525575"/>
+    <id>f9cb3c93f3c96bcfc0e8142aadaa3981</id>
+    <published>2026-11-17T00:16:24+00:00</published>
+    <updated>2026-11-17T00:16:24+00:00</updated>
+  </entry>
+  <entry>
+    <title>Optimizely compromised, served malware on Zoom, GitLab</title>
     <link href="https://news.ycombinator.com/item?id=50524767"/>
     <id>30b56347161eafb186fa131f492c1d51</id>
     <published>2026-11-16T23:00:34+00:00</published>
     <updated>2026-11-16T23:00:34+00:00</updated>
   </entry>
   <entry>
-    <title>Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use</title>
+    <title>Windows 11 is collecting data on which coding agents and developer tools you use</title>
     <link href="https://news.ycombinator.com/item?id=50524736"/>
     <id>2d8b34712d4cbb787d58d88a16181cd1</id>
     <published>2026-11-16T22:58:20+00:00</published>
@@ -51,11 +205,25 @@
     <updated>2026-11-16T21:08:38+00:00</updated>
   </entry>
   <entry>
+    <title>Comcast's &quot;fiber-powered Wi-Fi&quot; is cable, AT&amp;T says in false advertising case</title>
+    <link href="https://news.ycombinator.com/item?id=50523025"/>
+    <id>e0a1351f91c0d8ee8b4c466250bdc554</id>
+    <published>2026-11-16T20:48:08+00:00</published>
+    <updated>2026-11-16T20:48:08+00:00</updated>
+  </entry>
+  <entry>
     <title>Carnegie Mellon is putting computer science courses on YouTube for free</title>
     <link href="https://news.ycombinator.com/item?id=50522980"/>
     <id>eff25af00e8cea760875325be0b1ad64</id>
     <published>2026-11-16T20:43:36+00:00</published>
     <updated>2026-11-16T20:43:36+00:00</updated>
+  </entry>
+  <entry>
+    <title>Chemistry is Actually Geometry</title>
+    <link href="https://news.ycombinator.com/item?id=50522643"/>
+    <id>faa34fe6e0f65fe6556189adcb636fc3</id>
+    <published>2026-11-16T20:22:18+00:00</published>
+    <updated>2026-11-16T20:22:18+00:00</updated>
   </entry>
   <entry>
     <title>Rust changed me as a developer</title>
@@ -189,173 +357,5 @@
     <id>5affeef35aa430acfd893cae42b8aa1a</id>
     <published>2026-11-16T02:04:48+00:00</published>
     <updated>2026-11-16T02:04:48+00:00</updated>
-  </entry>
-  <entry>
-    <title>Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack</title>
-    <link href="https://news.ycombinator.com/item?id=50512441"/>
-    <id>9f0a265d33bd9663cc2fa8e0e1c05b3c</id>
-    <published>2026-11-16T00:21:54+00:00</published>
-    <updated>2026-11-16T00:21:54+00:00</updated>
-  </entry>
-  <entry>
-    <title>What's Next for Nvidia?</title>
-    <link href="https://news.ycombinator.com/item?id=50512235"/>
-    <id>0ff775b615df3ce46a0f96203296770e</id>
-    <published>2026-11-15T23:55:55+00:00</published>
-    <updated>2026-11-15T23:55:55+00:00</updated>
-  </entry>
-  <entry>
-    <title>Jensen Huang might return to Nvidia as CEO</title>
-    <link href="https://news.ycombinator.com/item?id=50511982"/>
-    <id>637daa834561d4205871e48dd0ee376e</id>
-    <published>2026-11-15T23:24:53+00:00</published>
-    <updated>2026-11-15T23:24:53+00:00</updated>
-  </entry>
-  <entry>
-    <title>Preserving 30 years of Salon journalism</title>
-    <link href="https://news.ycombinator.com/item?id=50511806"/>
-    <id>8d035e3a112d49f5cd93aa5d14d138d6</id>
-    <published>2026-11-15T23:00:11+00:00</published>
-    <updated>2026-11-15T23:00:11+00:00</updated>
-  </entry>
-  <entry>
-    <title>Old Bitly links are being hijacked</title>
-    <link href="https://news.ycombinator.com/item?id=50511395"/>
-    <id>939ee6685d231f0f04015b989f5d1438</id>
-    <published>2026-11-15T22:11:43+00:00</published>
-    <updated>2026-11-15T22:11:43+00:00</updated>
-  </entry>
-  <entry>
-    <title>Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost</title>
-    <link href="https://news.ycombinator.com/item?id=50510442"/>
-    <id>814aeef8dbbf9b6981f8ce4f859fa10c</id>
-    <published>2026-11-15T20:37:28+00:00</published>
-    <updated>2026-11-15T20:37:28+00:00</updated>
-  </entry>
-  <entry>
-    <title>WebGL Flight Simulator with seed generated terrain</title>
-    <link href="https://news.ycombinator.com/item?id=50510296"/>
-    <id>f2b11f1f7809eee5ec859bad9093e746</id>
-    <published>2026-11-15T20:20:05+00:00</published>
-    <updated>2026-11-15T20:20:05+00:00</updated>
-  </entry>
-  <entry>
-    <title>Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence</title>
-    <link href="https://news.ycombinator.com/item?id=50510042"/>
-    <id>10b8cfc64001b80663114d29b73b904c</id>
-    <published>2026-11-15T19:49:28+00:00</published>
-    <updated>2026-11-15T19:49:28+00:00</updated>
-  </entry>
-  <entry>
-    <title>Handwriting, as a Font</title>
-    <link href="https://news.ycombinator.com/item?id=50509972"/>
-    <id>5095e839398c6f24e5b4e6e6edbd5961</id>
-    <published>2026-11-15T19:42:13+00:00</published>
-    <updated>2026-11-15T19:42:13+00:00</updated>
-  </entry>
-  <entry>
-    <title>Protomaps: Self-hosting map tiles has gotten cheap and easy</title>
-    <link href="https://news.ycombinator.com/item?id=50509837"/>
-    <id>dc16d1911f592aa1d652fe84f3a3b132</id>
-    <published>2026-11-15T19:26:22+00:00</published>
-    <updated>2026-11-15T19:26:22+00:00</updated>
-  </entry>
-  <entry>
-    <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
-    <link href="https://news.ycombinator.com/item?id=50509411"/>
-    <id>3ecab31e35e4ac1ead04e674e0a7a859</id>
-    <published>2026-11-15T18:36:10+00:00</published>
-    <updated>2026-11-15T18:36:10+00:00</updated>
-  </entry>
-  <entry>
-    <title>A short explainer on how El Niño works [video]</title>
-    <link href="https://news.ycombinator.com/item?id=50509308"/>
-    <id>ab5e90c74f6bef1c998d5974668e1332</id>
-    <published>2026-11-15T18:23:21+00:00</published>
-    <updated>2026-11-15T18:23:21+00:00</updated>
-  </entry>
-  <entry>
-    <title>Crows make decisions faster than we can</title>
-    <link href="https://news.ycombinator.com/item?id=50509023"/>
-    <id>e79094ca61c277605e8a8833a184985a</id>
-    <published>2026-11-15T17:53:31+00:00</published>
-    <updated>2026-11-15T17:53:31+00:00</updated>
-  </entry>
-  <entry>
-    <title>Clice v1.0 Released: Welcome to Modern C++</title>
-    <link href="https://news.ycombinator.com/item?id=50508715"/>
-    <id>951ba5ae94075bd9b02b5a5b6e14008e</id>
-    <published>2026-11-15T17:22:32+00:00</published>
-    <updated>2026-11-15T17:22:32+00:00</updated>
-  </entry>
-  <entry>
-    <title>'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story</title>
-    <link href="https://news.ycombinator.com/item?id=50507791"/>
-    <id>4fa9b976b44f4154b6ae7f5e6e9b4a59</id>
-    <published>2026-11-15T15:45:42+00:00</published>
-    <updated>2026-11-15T15:45:42+00:00</updated>
-  </entry>
-  <entry>
-    <title>Emacs Is My Browser</title>
-    <link href="https://news.ycombinator.com/item?id=50507553"/>
-    <id>d2bc8456e55738df8d7e9ed0ac2d91c9</id>
-    <published>2026-11-15T15:21:21+00:00</published>
-    <updated>2026-11-15T15:21:21+00:00</updated>
-  </entry>
-  <entry>
-    <title>All AI-generated code should be Open Source</title>
-    <link href="https://news.ycombinator.com/item?id=50507303"/>
-    <id>42a1df33f295e8004777141e422062d6</id>
-    <published>2026-11-15T14:46:58+00:00</published>
-    <updated>2026-11-15T14:46:58+00:00</updated>
-  </entry>
-  <entry>
-    <title>Things That Turbo Pascal Is Smaller Than (2011)</title>
-    <link href="https://news.ycombinator.com/item?id=50506894"/>
-    <id>4b6d98c80873d2a2ac6e64c155f9f6ec</id>
-    <published>2026-11-15T13:44:16+00:00</published>
-    <updated>2026-11-15T13:44:16+00:00</updated>
-  </entry>
-  <entry>
-    <title>The MacBook Pro's OLED PWM problem</title>
-    <link href="https://news.ycombinator.com/item?id=50506719"/>
-    <id>f298abc9557eeecd4ee3ce050db0ea38</id>
-    <published>2026-11-15T13:15:22+00:00</published>
-    <updated>2026-11-15T13:15:22+00:00</updated>
-  </entry>
-  <entry>
-    <title>Understanding Positional Embeddings in Modern LLMs</title>
-    <link href="https://news.ycombinator.com/item?id=50506376"/>
-    <id>2274c550e5b215fec639f9f155da1494</id>
-    <published>2026-11-15T12:14:06+00:00</published>
-    <updated>2026-11-15T12:14:06+00:00</updated>
-  </entry>
-  <entry>
-    <title>Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business</title>
-    <link href="https://news.ycombinator.com/item?id=50506180"/>
-    <id>14a1d9c8a09d33cf7866f2f2e4ee4938</id>
-    <published>2026-11-15T11:40:51+00:00</published>
-    <updated>2026-11-15T11:40:51+00:00</updated>
-  </entry>
-  <entry>
-    <title>Why did some Apollo missions carry a grenade launcher? (2019)</title>
-    <link href="https://news.ycombinator.com/item?id=50505271"/>
-    <id>d434efd7959993b12ac5ef6fec805151</id>
-    <published>2026-11-15T09:06:43+00:00</published>
-    <updated>2026-11-15T09:06:43+00:00</updated>
-  </entry>
-  <entry>
-    <title>Book list for streetfighting computer scientists</title>
-    <link href="https://news.ycombinator.com/item?id=50504718"/>
-    <id>e301a6aac8bd4c7f022a127a106ab9c8</id>
-    <published>2026-11-15T07:08:50+00:00</published>
-    <updated>2026-11-15T07:08:50+00:00</updated>
-  </entry>
-  <entry>
-    <title>My favourite modern NES games</title>
-    <link href="https://news.ycombinator.com/item?id=50503465"/>
-    <id>0d46f032a3b7f970b498620059b799f9</id>
-    <published>2026-11-15T02:41:25+00:00</published>
-    <updated>2026-11-15T02:41:25+00:00</updated>
   </entry>
 </feed>

@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-11-13T00:00:00+00:00</updated>
+  <updated>2026-11-17T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>SGLang Summit 2026 Recap: Building Open AI Infrastructure Together</title>
+    <link href="https://lmsys.org/blog/2026-11-17-sglang-summit-recap"/>
+    <id>e709804b84eb5f182443d8945e105c89</id>
+    <published>2026-11-17T00:00:00+00:00</published>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <summary type="text">More than 2,000 developers, researchers, and industry leaders gathered at Fort Mason in San Francisco on November 12â13 for the first SGLang Summit.</summary>
+    <category term="news"/>
+  </entry>
   <entry>
     <title>RadixArk Miles runs agentic RL training on NVIDIA Vera CPUs: faster sandboxes, faster training</title>
     <link href="https://lmsys.org/blog/2026-11-13-miles-vera-sandboxes"/>
@@ -60,6 +69,15 @@
     <published>2026-11-11T00:00:00+00:00</published>
     <updated>2026-11-11T00:00:00+00:00</updated>
     <summary type="text">Attention layers need their past to compute the next token, but not every layer remembers it the same way:</summary>
+    <category term="blog"/>
+  </entry>
+  <entry>
+    <title>Optimizing DeepSeek-V4.1 on H200 with SGLang PD Disaggregation</title>
+    <link href="https://lmsys.org/blog/2026-11-05-deepseek-v41-h200-pd-optimization"/>
+    <id>7292f8ece1b5286438c3a3b955991d85</id>
+    <published>2026-11-10T00:00:00+00:00</published>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+    <summary type="text">We optimized DeepSeek-V4.1-Flash on an eight-GPU H200 SGLang deployment with a 1P1D configuration: four GPUs for Prefill and four for Decode.</summary>
     <category term="blog"/>
   </entry>
   <entry>
