@@ -4,16 +4,55 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-11-17T20:20:29+00:00</updated>
+  <updated>2026-11-18T22:04:50+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>OpenAI的GPT-6.2 Astra和GPT-6.2 Sol现已发布 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available</title>
-    <link href="https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available"/>
-    <id>f7c9ebd6d61b083297b60a66ec1f71f3</id>
-    <published>2026-11-17T20:20:29+00:00</published>
-    <updated>2026-11-17T20:20:29+00:00</updated>
+    <title>将 Supabase、Box、Calendly 等更多服务接入 Copilot / Connect Supabase, Box, Calendly, and more to Copilot</title>
+    <link href="https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot"/>
+    <id>304f5f125c25f931f0b916db66b19fbc</id>
+    <published>2026-11-18T22:04:50+00:00</published>
+    <updated>2026-11-18T22:04:50+00:00</updated>
+    <summary type="text">Score: 0.849\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Gemini 4 Neon in GitHub Copilot</title>
+    <link href="https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot"/>
+    <id>2b57131efd96a99e4ef2261fb7d83591</id>
+    <published>2026-11-18T21:49:21+00:00</published>
+    <updated>2026-11-18T21:49:21+00:00</updated>
+    <summary type="text">Score: 0.856\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Gemini 4 Neon 正式发布 / Introducing Gemini 4 Neon</title>
+    <link href="https://deepmind.google/blog/introducing-gemini-4-neon"/>
+    <id>17619ffe0864fb434756428a8fda17ae</id>
+    <published>2026-11-18T21:35:43+00:00</published>
+    <updated>2026-11-18T21:35:43+00:00</updated>
+    <summary type="text">Score: 0.847\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>DaisyRose-27B：把后训练效率推向新高度 / DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
+    <link href="https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"/>
+    <id>6ae86a1293aa4f2b73a043bc1839d8a2</id>
+    <published>2026-11-18T19:54:56+00:00</published>
+    <updated>2026-11-18T19:54:56+00:00</updated>
     <summary type="text">Score: 0.851\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -22,12 +61,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GitHub Copilot Fusion 更新：更广泛的可用性、基准测试和更多模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
-    <link href="https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models"/>
-    <id>932b415b36264f49ac46c9f48814a2a8</id>
-    <published>2026-11-17T18:04:48+00:00</published>
-    <updated>2026-11-17T18:04:48+00:00</updated>
-    <summary type="text">Score: 0.844\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>为什么你的微调任务比FLOPs算出来的还要久 / Why your fine-tuning job takes longer than the FLOPs say</title>
+    <link href="https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"/>
+    <id>119dead80b7ba6ac15ffc94d465bf3f3</id>
+    <published>2026-11-18T18:53:43+00:00</published>
+    <updated>2026-11-18T18:53:43+00:00</updated>
+    <summary type="text">Score: 0.849\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -35,12 +74,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GitHub Copilot 应用，Microsoft Ignite 发布汇总 / GitHub Copilot app, Microsoft Ignite releases</title>
-    <link href="https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases"/>
-    <id>87e3758804d00a3594931d7c8a53595c</id>
-    <published>2026-11-17T18:03:42+00:00</published>
-    <updated>2026-11-17T18:03:42+00:00</updated>
-    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Genie 4 is now available</title>
+    <link href="https://deepmind.google/blog/genie-4-is-now-available"/>
+    <id>6095f27e7f6f8d769e54e2ed95832800</id>
+    <published>2026-11-18T18:13:42+00:00</published>
+    <updated>2026-11-18T18:13:42+00:00</updated>
+    <summary type="text">Score: 0.831\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -48,12 +87,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Copilot 代码审查：自适应力度、密钥检测及更多功能 / Copilot code review: Adaptive effort, secret detection, and more</title>
-    <link href="https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more"/>
-    <id>a43883f605362a2e2dfb071a66ab605d</id>
-    <published>2026-11-17T18:02:05+00:00</published>
-    <updated>2026-11-17T18:02:05+00:00</updated>
-    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Gemini 应用现已登陆低内存 Android 设备。 / The Gemini app is now available on lower-memory Android devices.</title>
+    <link href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices"/>
+    <id>93e2cfd1afff703f12241e1ae4e79550</id>
+    <published>2026-11-18T17:00:00+00:00</published>
+    <updated>2026-11-18T17:00:00+00:00</updated>
+    <summary type="text">Score: 0.836\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -61,12 +100,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</title>
-    <link href="https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot"/>
-    <id>ecd1af10f1c8bc2a35d72626c2b22735</id>
-    <published>2026-11-17T18:01:45+00:00</published>
-    <updated>2026-11-17T18:01:45+00:00</updated>
-    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GitHub Team 版自动运行安全风险评估 / Security risk assessments run automatically on GitHub Team</title>
+    <link href="https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team"/>
+    <id>00ceda97ffa81afd7be3c9f199de3220</id>
+    <published>2026-11-18T16:54:26+00:00</published>
+    <updated>2026-11-18T16:54:26+00:00</updated>
+    <summary type="text">Score: 0.828\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -74,12 +113,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>JetBrains 中的 GitHub Copilot，Ignite 版本发布 / GitHub Copilot in JetBrains, Ignite releases</title>
-    <link href="https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases"/>
-    <id>85ed4f24650dce09ba96632f69bb1496</id>
-    <published>2026-11-17T18:00:59+00:00</published>
-    <updated>2026-11-17T18:00:59+00:00</updated>
-    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>为你的团队定制 GitHub Copilot / Customize GitHub Copilot for your team</title>
+    <link href="https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team"/>
+    <id>6a326f0eb86785f716e1a1d3068def56</id>
+    <published>2026-11-18T16:00:13+00:00</published>
+    <updated>2026-11-18T16:00:13+00:00</updated>
+    <summary type="text">Score: 0.834\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -87,12 +126,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365</title>
-    <link href="https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365"/>
-    <id>774c3d4262da3d89a9bd6dcd78e9dd51</id>
-    <published>2026-11-17T18:00:59+00:00</published>
-    <updated>2026-11-17T18:00:59+00:00</updated>
-    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>Streamhouse 中的时间序列模型：新前沿与应用场景 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
+    <link href="https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"/>
+    <id>dbe8dc0d66717189e667f76026d1e5eb</id>
+    <published>2026-11-18T15:00:23+00:00</published>
+    <updated>2026-11-18T15:00:23+00:00</updated>
+    <summary type="text">Score: 0.839\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -100,12 +139,34 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GitHub Copilot Evals 现已开启公开预览 / GitHub Copilot Evals is now in public preview</title>
-    <link href="https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview"/>
-    <id>0f2eac16c52536ea7c2ca4d7a639cc41</id>
-    <published>2026-11-17T18:00:33+00:00</published>
-    <updated>2026-11-17T18:00:33+00:00</updated>
-    <summary type="text">Score: 0.843\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>员工疯狂烧钱买 Token，Salesforce“吃不消”了：全面推行按岗位设定 AI 使用预算</title>
+    <link href="https://www.aibase.com/news/32388"/>
+    <id>587e9974758f92ed215868cc8cf49741</id>
+    <published>2026-11-18T13:58:22.324138+00:00</published>
+    <updated>2026-11-18T13:58:22.324138+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”</title>
+    <link href="https://www.aibase.com/news/32387"/>
+    <id>1fb93c891b6578770c0f7e95ea39e3e1</id>
+    <published>2026-11-18T13:58:22.324138+00:00</published>
+    <updated>2026-11-18T13:58:22.324138+00:00</updated>
+    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <category term="行业动态"/>
+    <category term="high_ai_relevance"/>
+    <category term="industry"/>
+  </entry>
+  <entry>
+    <title>The Silent Consensus</title>
+    <link href="https://openai.com/index/the-silent-consensus"/>
+    <id>02eb2e0578caf7368a952eb32791cde7</id>
+    <published>2026-11-18T10:00:00+00:00</published>
+    <updated>2026-11-18T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.820\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -113,148 +174,93 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>GPT‑6.2 Astra 和 Sol / Introducing GPT-6.2 Astra and Sol</title>
-    <link href="https://openai.com/index/introducing-gpt-6-2-astra-sol"/>
-    <id>44473595b9c72e727dd01a7b5c6e1e2f</id>
-    <published>2026-11-17T17:45:00+00:00</published>
-    <updated>2026-11-17T17:45:00+00:00</updated>
-    <summary type="text">Score: 0.895\nSources: 3 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>深入 Codex 沙盒内部 / Inside the Codex sandbox</title>
+    <link href="https://openai.com/index/inside-the-codex-sandbox"/>
+    <id>0d3c4abe108d03c7ebc7508a84070ded</id>
+    <published>2026-11-18T08:00:00+00:00</published>
+    <updated>2026-11-18T08:00:00+00:00</updated>
+    <summary type="text">Score: 0.830\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>管理前沿 AI 风险：从训练到部署 / Managing frontier AI risk: From training to deployment</title>
+    <link href="https://openai.com/index/managing-frontier-ai-risk"/>
+    <id>3214e1f5f1e8d045a8751b2319ffa73b</id>
+    <published>2026-11-18T06:00:00+00:00</published>
+    <updated>2026-11-18T06:00:00+00:00</updated>
+    <summary type="text">Score: 0.812\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>180B 参数、32GB 内存：用 Transformers 把 MoE 推理推到极限 / 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers</title>
+    <link href="https://huggingface.co/blog/moe-expert-streaming"/>
+    <id>a1536be9f3223f4976863e28a5a4fedc</id>
+    <published>2026-11-18T00:00:00+00:00</published>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.816\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.170.0</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>eb9597ae7337a94108bf3b3c82805598</id>
+    <published>2026-11-18T00:00:00+00:00</published>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.814\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Le Groupe Figaro 与 OpenAI 合作，将 Le Figaro 的新闻内容引入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
+    <link href="https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"/>
+    <id>9878aaddd375e69088b754226b916ca0</id>
+    <published>2026-11-18T00:00:00+00:00</published>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.808\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Rumble-2-Flash：一个面向40多种语言的开源0.5B语音模型 / Rumble-2-Flash: an open 0.5B speech model for 40+ languages</title>
+    <link href="https://huggingface.co/blog/rumble-2-flash"/>
+    <id>e8b6796399d8aed9401494a930c0b1f1</id>
+    <published>2026-11-18T00:00:00+00:00</published>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.808\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models</title>
+    <link href="https://openai.com/index/advancing-chip-design-with-our-models"/>
+    <id>babadfa43f03db62a1a8de1687d5dc04</id>
+    <published>2026-11-18T00:00:00+00:00</published>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.831\nSources: 2 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="multi_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>让Gemini为你工作 / Put Gemini to work for you</title>
-    <link href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features"/>
-    <id>9b495067eef41efae874af100bf87348</id>
-    <published>2026-11-17T17:00:00+00:00</published>
-    <updated>2026-11-17T17:00:00+00:00</updated>
-    <summary type="text">Score: 0.835\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>AI投资回报担忧升温，英伟达市值排名跌至美国第三</title>
-    <link href="https://www.aibase.com/news/32354"/>
-    <id>c0d7695edd263581236bc070266ad401</id>
-    <published>2026-11-17T09:15:54.646394+00:00</published>
-    <updated>2026-11-17T09:15:54.646394+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制</title>
-    <link href="https://www.aibase.com/news/32352"/>
-    <id>e06d1cd32a45ef060be3666aea97d036</id>
-    <published>2026-11-17T09:15:54.646394+00:00</published>
-    <updated>2026-11-17T09:15:54.646394+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>Gemini Notebook上线网站生成功能，支持一句话创建互动网页</title>
-    <link href="https://www.aibase.com/news/32350"/>
-    <id>c0860028d68a00eeaa8c5fca6ba15283</id>
-    <published>2026-11-17T09:15:54.646394+00:00</published>
-    <updated>2026-11-17T09:15:54.646394+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>亚马逊Audible推出AI音频发现功能与互动式“提问”工具</title>
-    <link href="https://www.aibase.com/news/32357"/>
-    <id>d6265dccac6eb17021631706a8c6cfaa</id>
-    <published>2026-11-17T09:15:54.646394+00:00</published>
-    <updated>2026-11-17T09:15:54.646394+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台</title>
-    <link href="https://www.aibase.com/news/32353"/>
-    <id>2d201e035033967f34a2f1c1e65e3fe3</id>
-    <published>2026-11-17T09:15:54.646394+00:00</published>
-    <updated>2026-11-17T09:15:54.646394+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
-    <category term="行业动态"/>
-    <category term="high_ai_relevance"/>
-    <category term="industry"/>
-  </entry>
-  <entry>
-    <title>推出面向销售场景的ChatGPT / Introducing ChatGPT for Sales</title>
-    <link href="https://openai.com/index/introducing-chatgpt-for-sales"/>
-    <id>a086254ce3d210c6ae05760ad634b7a5</id>
-    <published>2026-11-17T08:00:00+00:00</published>
-    <updated>2026-11-17T08:00:00+00:00</updated>
-    <summary type="text">Score: 0.823\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Astra for Law 领跑法律智能领域 / Astra for Law leads in legal intelligence</title>
-    <link href="https://openai.com/index/astra-law-6-2"/>
-    <id>a6e1d4a0dbbeb0dd036f794004243117</id>
-    <published>2026-11-17T00:00:00+00:00</published>
-    <updated>2026-11-17T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.800\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>GPT-6.2 Astra 和 GPT-6.2 Sol 登陆 Work 和 Codex / GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex</title>
-    <link href="https://developers.openai.com/codex/changelog"/>
-    <id>dd89a5f91814f22bf38398f9aa97c0ba</id>
-    <published>2026-11-17T00:00:00+00:00</published>
-    <updated>2026-11-17T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.818\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>OpenAI 面向智利正式推出 / Introducing OpenAI for Chile</title>
-    <link href="https://openai.com/index/introducing-openai-for-chile"/>
-    <id>93cf86501a86f6e1953def89f1c638d9</id>
-    <published>2026-11-17T00:00:00+00:00</published>
-    <updated>2026-11-17T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.800\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>用 AI 强化 NATO 及盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI</title>
-    <link href="https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"/>
-    <id>c87bf03a46b29ad0b5b4efac0c50c3a8</id>
-    <published>2026-11-17T00:00:00+00:00</published>
-    <updated>2026-11-17T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.800\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
     <category term="high_ai_relevance"/>
     <category term="high_importance"/>
     <category term="official"/>

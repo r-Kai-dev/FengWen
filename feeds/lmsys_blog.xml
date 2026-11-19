@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-11-17T00:00:00+00:00</updated>
+  <updated>2026-11-18T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Humming in SGLang: Flexible Low-Bit Kernels for Efficient MoE Serving</title>
+    <link href="https://lmsys.org/blog/2026-11-18-humming-sglang"/>
+    <id>14f6169fcbd88391fd411ff9c614f11b</id>
+    <published>2026-11-18T00:00:00+00:00</published>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <summary type="text">Humming is a lightweight, JIT-compiled kernel library for quantized dense and mixture-of-experts (MoE) inference. Its SGLang integration connects low-bit checkpoints to specialized kernels while preserving the frameworkâs routing, scheduling, and distributed execution.</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>SGLang Summit 2026 Recap: Building Open AI Infrastructure Together</title>
     <link href="https://lmsys.org/blog/2026-11-17-sglang-summit-recap"/>

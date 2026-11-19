@@ -4,10 +4,19 @@
   <icon>https://ltx.io/favicon.ico</icon>
   <link href="https://ltx.io/blog"/>
   <id>https://ltx.io/blog</id>
-  <updated>2026-11-14T00:00:00+00:00</updated>
+  <updated>2026-11-18T00:00:00+00:00</updated>
   <author>
     <name>LTX</name>
   </author>
+  <entry>
+    <title>Scene Coherence In AI Video: LTX-2.5 Controls</title>
+    <link href="https://ltx.io/blog/scene-coherence-ai-video"/>
+    <id>b8c09759e041558faa12c5fc572d6a77</id>
+    <published>2026-11-18T00:00:00+00:00</published>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <summary type="text">How to keep characters, settings, lighting and voice consistent in AI video with LTX-2.5: multi-shot prompts, first and last frames, keyframes, Retake, IC-LoRA and LoRAs.</summary>
+    <category term="Production"/>
+  </entry>
   <entry>
     <title>How to Embed AI Video Generation Into Your App With LTX-2.5</title>
     <link href="https://ltx.io/blog/embed-ai-video-generation"/>
@@ -429,15 +438,6 @@
     <published>2026-09-07T00:00:00+00:00</published>
     <updated>2026-09-07T00:00:00+00:00</updated>
     <summary type="text">Why enterprises run AI video models privately: data privacy, IP protection, and cost control, plus how LTX-2.5 supports local and on-premise deployment.</summary>
-    <category term="Production"/>
-  </entry>
-  <entry>
-    <title>What Training Data Do You Need To Fine-Tune A Video Generation Model?</title>
-    <link href="https://ltx.io/blog/video-model-training-data"/>
-    <id>46e2c5cff6d5b06f2bdf6f89b9edb6f0</id>
-    <published>2026-09-07T00:00:00+00:00</published>
-    <updated>2026-09-07T00:00:00+00:00</updated>
-    <summary type="text">What training data do you need to fine-tune a video generation model? A practical guide to datasets, clip rules, and captions for LTX-2.5 LoRA training.</summary>
     <category term="Production"/>
   </entry>
 </feed>

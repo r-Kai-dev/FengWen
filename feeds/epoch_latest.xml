@@ -4,10 +4,28 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-11-17T00:00:00+00:00</updated>
+  <updated>2026-11-18T00:00:00+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Agentic inference capacity grew 4.6× in a year, versus 2.6× for compute capacity</title>
+    <link href="https://epoch.ai/data-insights/agentic-inference-capacity-growth"/>
+    <id>2c4aef9840305586e34cfe9461edd1c9</id>
+    <published>2026-11-18T00:00:00+00:00</published>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <summary type="text">Our Inference Performance Index and chip sales data show agentic inference capacity grew nearly twice as much as 8-bit compute.</summary>
+    <category term="Data Insight"/>
+  </entry>
+  <entry>
+    <title>Anthropic’s compute spending is increasing by 4x per year, outpacing OpenAI’s 3x</title>
+    <link href="https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth"/>
+    <id>def4c89c2bc3b26d806da6490f9df74d</id>
+    <published>2026-11-18T00:00:00+00:00</published>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <summary type="text">Anthropic spent nearly $10 billion on compute and infrastructure in the third quarter of 2026, or close to $40 billion on an annualized basis, up from just $433 million in 2023.</summary>
+    <category term="Data Insight"/>
+  </entry>
   <entry>
     <title>How good are Fable 5.2 and GPT-6.2 Astra at real work?</title>
     <link href="https://epoch.ai/publications/how-good-are-fable-5-2-and-gpt-6-2-astra-at-real-work"/>
@@ -79,23 +97,5 @@
     <updated>2026-10-29T00:00:00+00:00</updated>
     <summary type="text">GLM 5.3 turned published-but-unshipped Firefox security fixes into working one-click exploits for six releases, at roughly $1,000 each.</summary>
     <category term="Report"/>
-  </entry>
-  <entry>
-    <title>New global AI computing capacity is doubling every 9 months</title>
-    <link href="https://epoch.ai/data-insights/ai-computing-capacity-additions-doubling"/>
-    <id>0ccd5546cc5abe9d4a954c56298ffc3e</id>
-    <published>2026-10-29T00:00:00+00:00</published>
-    <updated>2026-10-29T00:00:00+00:00</updated>
-    <summary type="text">The computing power of AI chips sold each quarter has grown about 2.5× per year since 2024, down from a surge in 2023.</summary>
-    <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>Introducing the AI Chip Imports explorer</title>
-    <link href="https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer"/>
-    <id>9f3d55741426f86a4bc0ae06f26e70de</id>
-    <published>2026-10-27T00:00:00+00:00</published>
-    <updated>2026-10-27T00:00:00+00:00</updated>
-    <summary type="text">Our explorer uses customs records to estimate national shares. Since 2022, 72% of AI compute has ended up in the US and about 10% in China, including chips China makes itself.</summary>
-    <category term="Update"/>
   </entry>
 </feed>
