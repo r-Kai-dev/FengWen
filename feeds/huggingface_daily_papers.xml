@@ -11,7 +11,7 @@
     <id>bc50563bb64edf8cd71c6c6f42525471</id>
     <published>2026-11-16T19:00:00.000Z</published>
     <updated>2026-11-16T19:00:00.000Z</updated>
-    <summary type="text">We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes t... \u00b7 Upvotes: 150 \u00b7 Authors: Xingchen AGI Lab, Baotian Hu, Bingkai Yang</summary>
+    <summary type="text">We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes t... \u00b7 Upvotes: 160 \u00b7 Authors: Xingchen AGI Lab, Baotian Hu, Bingkai Yang</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -21,7 +21,7 @@
     <id>b9d599e7349b455969ffabc2e093e905</id>
     <published>2026-11-12T19:00:00.000Z</published>
     <updated>2026-11-12T19:00:00.000Z</updated>
-    <summary type="text">The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many ... \u00b7 Upvotes: 127 \u00b7 Authors: Grid Robotics, Qingfeng Lan, Duo Li</summary>
+    <summary type="text">The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many ... \u00b7 Upvotes: 132 \u00b7 Authors: Grid Robotics, Qingfeng Lan, Duo Li</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -31,7 +31,7 @@
     <id>d6b759daf21b12a862e8f5985b785298</id>
     <published>2026-11-12T19:00:00.000Z</published>
     <updated>2026-11-12T19:00:00.000Z</updated>
-    <summary type="text">We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step re... \u00b7 Upvotes: 131 \u00b7 GitHub Stars: 701 \u00b7 Authors: Run Luo, Kuan Zhang, Qi Deng</summary>
+    <summary type="text">We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step re... \u00b7 Upvotes: 138 \u00b7 GitHub Stars: 845 \u00b7 Authors: Run Luo, Kuan Zhang, Qi Deng</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -41,7 +41,7 @@
     <id>539f90a04ab1510a129d6ebd7d080687</id>
     <published>2026-11-08T19:00:00.000Z</published>
     <updated>2026-11-08T19:00:00.000Z</updated>
-    <summary type="text">Long-term memory lets LLM agents personalize, stay consistent, and reuse what worked before. Parametric memories need training, consolidation can lose details for good, and keeping every record leaves... \u00b7 Upvotes: 52 \u00b7 GitHub Stars: 3499 \u00b7 Authors: Wei-Chieh Huang, Weizhi Zhang, Jiayan Nan</summary>
+    <summary type="text">Long-term memory lets LLM agents personalize, stay consistent, and reuse what worked before. Parametric memories need training, consolidation can lose details for good, and keeping every record leaves... \u00b7 Upvotes: 54 \u00b7 GitHub Stars: 3504 \u00b7 Authors: Wei-Chieh Huang, Weizhi Zhang, Jiayan Nan</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -51,7 +51,7 @@
     <id>8496a1470d20e09547370ee4661315be</id>
     <published>2026-11-05T19:00:00.000Z</published>
     <updated>2026-11-05T19:00:00.000Z</updated>
-    <summary type="text">Lloyd's k-means algorithm is a long-running standard for clustering, with applications in data analysis, retrieval, quantization and data curation. In this paper, we introduce an exponential moving av... \u00b7 Upvotes: 20 \u00b7 GitHub Stars: 41807 \u00b7 Authors: Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy</summary>
+    <summary type="text">Lloyd's k-means algorithm is a long-running standard for clustering, with applications in data analysis, retrieval, quantization and data curation. In this paper, we introduce an exponential moving av... \u00b7 Upvotes: 20 \u00b7 GitHub Stars: 41820 \u00b7 Authors: Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -61,7 +61,7 @@
     <id>e514c3cc7a144f188f83deba22dd1511</id>
     <published>2026-11-04T01:46:50.000Z</published>
     <updated>2026-11-04T01:46:50.000Z</updated>
-    <summary type="text">Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wron... \u00b7 Upvotes: 71 \u00b7 GitHub Stars: 899 \u00b7 Authors: Daniel Huang, Qi He, Shaoxiong Duan</summary>
+    <summary type="text">Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wron... \u00b7 Upvotes: 70 \u00b7 GitHub Stars: 899 \u00b7 Authors: Daniel Huang, Qi He, Shaoxiong Duan</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -76,12 +76,22 @@
     <category term="paper"/>
   </entry>
   <entry>
+    <title>Wave Forcing: Towards Speed-of-Light Streaming Video Generation</title>
+    <link href="https://arxiv.org/abs/2611.00859"/>
+    <id>c974e0f9200b4eb9d836654d27004421</id>
+    <published>2026-10-30T20:00:00.000Z</published>
+    <updated>2026-10-30T20:00:00.000Z</updated>
+    <summary type="text">Real-time long-video generation requires continuous output with consistent appearance and natural motion. Existing chunk-wise autoregressive methods face challenges in both generation efficiency and l... \u00b7 Upvotes: 127 \u00b7 GitHub Stars: 138 \u00b7 Authors: Yijie Jin, Yuxuan Liu, Jiajun Xu</summary>
+    <category term="research"/>
+    <category term="paper"/>
+  </entry>
+  <entry>
     <title>HairDeck: Animation-Ready Stylized Hair Cards from a Single Image</title>
     <link href="https://arxiv.org/abs/2610.40599"/>
     <id>49527124f84cebf3361725826fceb1da</id>
     <published>2026-10-28T20:00:00.000Z</published>
     <updated>2026-10-28T20:00:00.000Z</updated>
-    <summary type="text">The hair of stylized characters in games and avatars is built from hair cards: artist-placed ribbons whose geometry is the visible hair, animated by spring bones. Existing image-based methods produce ... \u00b7 Upvotes: 34 \u00b7 GitHub Stars: 1175 \u00b7 Authors: Yuze He, Yixiang Wei, Wang Zhao</summary>
+    <summary type="text">The hair of stylized characters in games and avatars is built from hair cards: artist-placed ribbons whose geometry is the visible hair, animated by spring bones. Existing image-based methods produce ... \u00b7 Upvotes: 34 \u00b7 GitHub Stars: 1185 \u00b7 Authors: Yuze He, Yixiang Wei, Wang Zhao</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -101,7 +111,7 @@
     <id>ed86cb48cae72e9a3386476b0a87f724</id>
     <published>2026-10-25T20:00:00.000Z</published>
     <updated>2026-10-25T20:00:00.000Z</updated>
-    <summary type="text">Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternativ... \u00b7 Upvotes: 17 \u00b7 GitHub Stars: 5223 \u00b7 Authors: Shuo Shen, Guangran Cheng, Chengqi Lyu</summary>
+    <summary type="text">Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternativ... \u00b7 Upvotes: 17 \u00b7 GitHub Stars: 5224 \u00b7 Authors: Shuo Shen, Guangran Cheng, Chengqi Lyu</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>
@@ -111,17 +121,7 @@
     <id>c758f4b629ec70d1b945f83ac733396c</id>
     <published>2026-10-21T20:00:00.000Z</published>
     <updated>2026-10-21T20:00:00.000Z</updated>
-    <summary type="text">Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level... \u00b7 Upvotes: 47 \u00b7 GitHub Stars: 1224 \u00b7 Authors: Tianming Liang, Junyi Pan, Yuxi Li</summary>
-    <category term="research"/>
-    <category term="paper"/>
-  </entry>
-  <entry>
-    <title>MemT-1.0: Towards Memory-Native Evolution</title>
-    <link href="https://arxiv.org/abs/2610.26825"/>
-    <id>c962b7ffc0a6ed65d859b294d13c42d9</id>
-    <published>2026-10-18T20:00:00.000Z</published>
-    <updated>2026-10-18T20:00:00.000Z</updated>
-    <summary type="text">Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new... \u00b7 Upvotes: 129 \u00b7 GitHub Stars: 543 \u00b7 Authors: Zhiyu Li, Zeyu Zhang, Linyun Liu</summary>
+    <summary type="text">Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level... \u00b7 Upvotes: 45 \u00b7 GitHub Stars: 1236 \u00b7 Authors: Tianming Liang, Junyi Pan, Yuxi Li</summary>
     <category term="research"/>
     <category term="paper"/>
   </entry>

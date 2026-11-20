@@ -4,10 +4,19 @@
   <icon>https://www.lmsys.org/images/logo-v2.png</icon>
   <link href="https://lmsys.org/blog"/>
   <id>https://lmsys.org/blog</id>
-  <updated>2026-11-18T00:00:00+00:00</updated>
+  <updated>2026-11-19T00:00:00+00:00</updated>
   <author>
     <name>LMSYS</name>
   </author>
+  <entry>
+    <title>Optimizing DeepSeek-V4.1-Flash PD &amp; Colocate Serving on H20-3e</title>
+    <link href="https://lmsys.org/blog/2026-11-19-deepseek-v41-h20"/>
+    <id>fa92c2bbabdbde94336ae1dc3473d375</id>
+    <published>2026-11-19T00:00:00+00:00</published>
+    <updated>2026-11-19T00:00:00+00:00</updated>
+    <summary type="text">We optimized disaggregated DeepSeek-V4.1-Flash serving on H20-3e by tuning prefill and decode parallelism, supporting BCG with prefill CP and bounded SWA replay, and speeding up Indexer kernels.</summary>
+    <category term="blog"/>
+  </entry>
   <entry>
     <title>Humming in SGLang: Flexible Low-Bit Kernels for Efficient MoE Serving</title>
     <link href="https://lmsys.org/blog/2026-11-18-humming-sglang"/>
