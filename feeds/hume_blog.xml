@@ -4,7 +4,7 @@
   <icon>https://www.hume.ai/favicon.ico</icon>
   <link href="https://www.hume.ai/blog"/>
   <id>https://www.hume.ai/blog</id>
-  <updated>2026-11-20T01:57:52.717214+00:00</updated>
+  <updated>2026-11-21T01:53:47.347715+00:00</updated>
   <author>
     <name>Hume AI</name>
   </author>
@@ -12,8 +12,15 @@
     <title>Introducing Hume's Audio Decision API: A decision layer for speech and sound</title>
     <link href="https://www.hume.ai/blog/introducing-hume-audio-decision-api"/>
     <id>462354fc4af2840be8648fc6faa976dd</id>
-    <published>2026-11-20T01:57:52.717214+00:00</published>
-    <updated>2026-11-20T01:57:52.717214+00:00</updated>
+    <published>2026-11-21T01:53:47.347715+00:00</published>
+    <updated>2026-11-21T01:53:47.347715+00:00</updated>
+  </entry>
+  <entry>
+    <title>Introducing the Hume ASR Entity Dataset</title>
+    <link href="https://www.hume.ai/blog/hume-asr-entity-dataset"/>
+    <id>13a1771f290ad88809f9384d1d2e915c</id>
+    <published>2026-11-20T00:00:00+00:00</published>
+    <updated>2026-11-20T00:00:00+00:00</updated>
   </entry>
   <entry>
     <title>Hume Audio Decision Benchmarks</title>
@@ -21,6 +28,13 @@
     <id>e64e79b09d2cd0ba389edd668bb0cf4a</id>
     <published>2026-11-13T00:00:00+00:00</published>
     <updated>2026-11-13T00:00:00+00:00</updated>
+  </entry>
+  <entry>
+    <title>Behind Humeâs Expression Measurement Models for Face and Voice</title>
+    <link href="https://www.hume.ai/blog/behind-hume-s-expression-measurement-models-for-face-and-voice"/>
+    <id>42632272aea132d907a5a679462d339d</id>
+    <published>2026-10-06T00:00:00+00:00</published>
+    <updated>2026-10-06T00:00:00+00:00</updated>
   </entry>
   <entry>
     <title>Introducing Expression APIs: Give your AI more of what people mean</title>
@@ -35,12 +49,5 @@
     <id>7c4389bc6c0dcfce824fb4b8626ac211</id>
     <published>2026-09-29T00:00:00+00:00</published>
     <updated>2026-09-29T00:00:00+00:00</updated>
-  </entry>
-  <entry>
-    <title>Newly-released Google's Gemini 3.8 Flash TTS tops Hume's Real-World VoiceEQ leaderboard</title>
-    <link href="https://www.hume.ai/blog/newly-released-google-s-gemini-3-8-flash-tts-tops-hume-s-real-world-voiceeq-leaderboard"/>
-    <id>024bf5ad3c9aed29316326c7512af29b</id>
-    <published>2026-09-24T00:00:00+00:00</published>
-    <updated>2026-09-24T00:00:00+00:00</updated>
   </entry>
 </feed>

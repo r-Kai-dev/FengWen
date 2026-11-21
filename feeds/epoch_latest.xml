@@ -4,10 +4,19 @@
   <icon>https://epoch.ai/favicon.svg</icon>
   <link href="https://epoch.ai/latest"/>
   <id>https://epoch.ai/latest</id>
-  <updated>2026-11-18T00:00:00+00:00</updated>
+  <updated>2026-11-21T01:54:17.900700+00:00</updated>
   <author>
     <name>Epoch AI</name>
   </author>
+  <entry>
+    <title>Nov. 18, 2026</title>
+    <link href="https://epoch.ai/publications/chips-topic-overview"/>
+    <id>bdb7b7160e38783eefc8ca833fcef3c8</id>
+    <published>2026-11-21T01:54:17.900700+00:00</published>
+    <updated>2026-11-21T01:54:17.900700+00:00</updated>
+    <summary type="text">A look at the specialized hardware driving modern AI — why chips cost tens of thousands of dollars each, and why demand continues to outstrip supply.</summary>
+    <category term="Topic Overview"/>
+  </entry>
   <entry>
     <title>Agentic inference capacity grew 4.6× in a year, versus 2.6× for compute capacity</title>
     <link href="https://epoch.ai/data-insights/agentic-inference-capacity-growth"/>
@@ -88,14 +97,5 @@
     <updated>2026-10-30T00:00:00+00:00</updated>
     <summary type="text">17% of biology preprints acknowledge LLM use, nearly matching specialized tools like AlphaFold. Epoch AI analyzes trends in AI acknowledgment in research.</summary>
     <category term="Data Insight"/>
-  </entry>
-  <entry>
-    <title>AI can turn security fixes into working exploits before users receive an update</title>
-    <link href="https://epoch.ai/publications/open-weight-models-patch-gap"/>
-    <id>48625841997834ae73f30a6fbe23dc52</id>
-    <published>2026-10-29T00:00:00+00:00</published>
-    <updated>2026-10-29T00:00:00+00:00</updated>
-    <summary type="text">GLM 5.3 turned published-but-unshipped Firefox security fixes into working one-click exploits for six releases, at roughly $1,000 each.</summary>
-    <category term="Report"/>
   </entry>
 </feed>

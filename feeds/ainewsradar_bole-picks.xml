@@ -4,28 +4,17 @@
   <icon>https://learnprompt.github.io/ai-news-radar/assets/logo.svg</icon>
   <link href="https://learnprompt.github.io/ai-news-radar/data/daily-brief.json"/>
   <id>https://learnprompt.github.io/ai-news-radar/data/daily-brief.json</id>
-  <updated>2026-11-19T19:10:45+00:00</updated>
+  <updated>2026-11-20T21:49:29+00:00</updated>
   <author>
     <name>AI News Radar</name>
   </author>
   <entry>
-    <title>Anthropic 的 IPO 或将向慈善事业捐出 1560 亿美元 / Anthropic’s IPO could deliver $156B to charity</title>
-    <link href="https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity"/>
-    <id>aee1e3a48f3279c6d4afc1a9fa91e06c</id>
-    <published>2026-11-19T19:10:45+00:00</published>
-    <updated>2026-11-19T19:10:45+00:00</updated>
-    <summary type="text">Score: 0.650\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Azure DevOps 企业级实时迁移正式可用 / Enterprise Live Migrations from Azure DevOps generally available</title>
-    <link href="https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available"/>
-    <id>71fe7057f19823bdaf8740814097d8f3</id>
-    <published>2026-11-19T18:50:57+00:00</published>
-    <updated>2026-11-19T18:50:57+00:00</updated>
-    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>安全公告权限现已全面可用 / Security advisory permissions are now generally available</title>
+    <link href="https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available"/>
+    <id>5f25e15330bd43e41b1acc6536f8a91a</id>
+    <published>2026-11-20T21:49:29+00:00</published>
+    <updated>2026-11-20T21:49:29+00:00</updated>
+    <summary type="text">Score: 0.841\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -33,12 +22,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Red Hat Enterprise Linux 运行器镜像现已正式可用 / Red Hat Enterprise Linux runner images now generally available</title>
-    <link href="https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available"/>
-    <id>75e98350904c5504d074cf2e0a675775</id>
-    <published>2026-11-19T18:48:46+00:00</published>
-    <updated>2026-11-19T18:48:46+00:00</updated>
-    <summary type="text">Score: 0.832\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>GitHub Enterprise Server 3.23 发布候选版 / GitHub Enterprise Server 3.23 release candidate</title>
+    <link href="https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate"/>
+    <id>4944793ae3173bf878460eab63e82cbe</id>
+    <published>2026-11-20T20:41:26+00:00</published>
+    <updated>2026-11-20T20:41:26+00:00</updated>
+    <summary type="text">Score: 0.838\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -46,136 +35,188 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>Gemini API 新增工具检索功能 / Introducing Tool Retrieval in the Gemini API</title>
-    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval"/>
-    <id>6d4a784f4e15de00720678b60bf48818</id>
-    <published>2026-11-19T18:00:00+00:00</published>
-    <updated>2026-11-19T18:00:00+00:00</updated>
-    <summary type="text">Score: 0.844\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Walter Isaacson 谈 AI 时代的好奇心与创造力 / Walter Isaacson on curiosity and creativity in the AI age.</title>
-    <link href="https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson"/>
-    <id>1e9bddcd607245ebcc98b0e536e81cf4</id>
-    <published>2026-11-19T17:00:00+00:00</published>
-    <updated>2026-11-19T17:00:00+00:00</updated>
-    <summary type="text">Score: 0.828\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>Anthropic以111美元登陆纳斯达克，较IPO发行价高出33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price</title>
-    <link href="https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price"/>
-    <id>50d22a5031fd3fffc783dbb9f9592578</id>
-    <published>2026-11-19T16:59:23+00:00</published>
-    <updated>2026-11-19T16:59:23+00:00</updated>
-    <summary type="text">Score: 0.645\nSources: 2 (Curated Media)\nImportance: 值得关注</summary>
-    <category term="值得关注"/>
-    <category term="multi_source"/>
-    <category term="watch"/>
-  </entry>
-  <entry>
-    <title>Chrome 的 AI 功能消耗了大量带宽</title>
-    <link href="https://perishablepress.com/chrome-ai-wasting-much-bandwidth"/>
-    <id>0d14b3ec23ee5faf9a9e12439c185a24</id>
-    <published>2026-11-19T16:54:25+00:00</published>
-    <updated>2026-11-19T16:54:25+00:00</updated>
-    <summary type="text">Score: 0.566\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <title>Anthropic 巨额 IPO 后股价跳水，纳斯达克抹平 2026 年全部涨幅 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains</title>
+    <link href="https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains"/>
+    <id>e5ca0e0f5fc733d28f2190f5491261ba</id>
+    <published>2026-11-20T17:44:01+00:00</published>
+    <updated>2026-11-20T17:44:01+00:00</updated>
+    <summary type="text">Score: 0.565\nSources: 3 (TechURLs)\nImportance: 多源热议</summary>
     <category term="多源热议"/>
     <category term="multi_source"/>
     <category term="multi_source"/>
   </entry>
   <entry>
-    <title>“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT</title>
-    <link href="https://www.aibase.com/news/32415"/>
-    <id>e33feafb2b53049d0cf79be2cfc599ff</id>
-    <published>2026-11-19T14:26:11.946646+00:00</published>
-    <updated>2026-11-19T14:26:11.946646+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校</title>
+    <link href="https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition"/>
+    <id>f61923d9664a034f2cdb3a33e7b37fe6</id>
+    <published>2026-11-20T16:59:27+00:00</published>
+    <updated>2026-11-20T16:59:27+00:00</updated>
+    <summary type="text">Score: 0.562\nSources: 3 (Buzzing)\nImportance: 多源热议</summary>
+    <category term="多源热议"/>
+    <category term="multi_source"/>
+    <category term="multi_source"/>
+  </entry>
+  <entry>
+    <title>将常用仓库固定到你的仪表盘 / Pin your favorite repositories to your dashboard</title>
+    <link href="https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard"/>
+    <id>47b1e10eba9ffd304a910e084fa24117</id>
+    <published>2026-11-20T14:12:05+00:00</published>
+    <updated>2026-11-20T14:12:05+00:00</updated>
+    <summary type="text">Score: 0.822\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>两个月新增 133 款备案，1245 款生成式 AI 服务在册</title>
+    <link href="https://www.aibase.com/news/32448"/>
+    <id>fcc0baa9dc1665497d070c22451ea2de</id>
+    <published>2026-11-20T14:00:54.386571+00:00</published>
+    <updated>2026-11-20T14:00:54.386571+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜</title>
-    <link href="https://www.aibase.com/news/32417"/>
-    <id>919d236fd5eb7aab53386aa67c4b62a0</id>
-    <published>2026-11-19T14:26:11.946646+00:00</published>
-    <updated>2026-11-19T14:26:11.946646+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏</title>
+    <link href="https://www.aibase.com/news/32447"/>
+    <id>59227f75e69d57d66bb68a7373e58202</id>
+    <published>2026-11-20T14:00:54.386571+00:00</published>
+    <updated>2026-11-20T14:00:54.386571+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾</title>
-    <link href="https://www.aibase.com/news/32416"/>
-    <id>3dc35ac7f643e6316ea117445c09dcb7</id>
-    <published>2026-11-19T14:26:11.946646+00:00</published>
-    <updated>2026-11-19T14:26:11.946646+00:00</updated>
-    <summary type="text">Score: 0.745\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力</title>
+    <link href="https://www.aibase.com/news/32449"/>
+    <id>60bf78879d12e34ae12100e0c9429323</id>
+    <published>2026-11-20T14:00:54.386571+00:00</published>
+    <updated>2026-11-20T14:00:54.386571+00:00</updated>
+    <summary type="text">Score: 0.746\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>Gemini 4 Neon — 前沿推理，任务完成更快速 / Gemini 4 Neon — Frontier reasoning with faster task completion</title>
-    <link href="https://www.producthunt.com/products/gemini-6"/>
-    <id>e3866fc7b61cb6b326f33b1cb8779cce</id>
-    <published>2026-11-19T14:09:48.541000+00:00</published>
-    <updated>2026-11-19T14:09:48.541000+00:00</updated>
-    <summary type="text">Score: 0.594\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
+    <title>AI Gateway — 一站式管理公司的 AI / AI Gateway — Manage your company's AI from one place</title>
+    <link href="https://www.producthunt.com/products/ai-gateway-6"/>
+    <id>a8811d2301a6e49d8b5b40987bbd0b76</id>
+    <published>2026-11-20T13:40:13.384000+00:00</published>
+    <updated>2026-11-20T13:40:13.384000+00:00</updated>
+    <summary type="text">Score: 0.585\nSources: 2 (Product Hunt)\nImportance: 值得关注</summary>
     <category term="值得关注"/>
     <category term="multi_source"/>
     <category term="watch"/>
   </entry>
   <entry>
-    <title>1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤</title>
-    <link href="https://www.aibase.com/news/32410"/>
-    <id>d54190ac1883daf79bb6665ef2f2e797</id>
-    <published>2026-11-19T08:51:24.107390+00:00</published>
-    <updated>2026-11-19T08:51:24.107390+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>Combatting adversarial distillation</title>
+    <link href="https://openai.com/index/combatting-adversarial-distillation"/>
+    <id>1d52c3182a51a5e0ce5752abc6a68a5b</id>
+    <published>2026-11-20T10:00:00+00:00</published>
+    <updated>2026-11-20T10:00:00+00:00</updated>
+    <summary type="text">Score: 0.821\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”</title>
+    <link href="https://www.aibase.com/news/32446"/>
+    <id>02745f87b248d338420872cb17d5be99</id>
+    <published>2026-11-20T08:38:07.743811+00:00</published>
+    <updated>2026-11-20T08:38:07.743811+00:00</updated>
+    <summary type="text">Score: 0.734\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与</title>
-    <link href="https://www.aibase.com/news/32408"/>
-    <id>a6641e537f2c9cab1100aba3f58a617f</id>
-    <published>2026-11-19T08:51:24.107390+00:00</published>
-    <updated>2026-11-19T08:51:24.107390+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频</title>
+    <link href="https://www.aibase.com/news/32437"/>
+    <id>e567fa52111ef73dcb2a9fd954b6aeef</id>
+    <published>2026-11-20T08:38:07.743811+00:00</published>
+    <updated>2026-11-20T08:38:07.743811+00:00</updated>
+    <summary type="text">Score: 0.734\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>从快手本地生活到可灵AI，刘逍近期被曝离开快手</title>
-    <link href="https://www.aibase.com/news/32412"/>
-    <id>73226dfd81d110a5e22d60dc07cb83ac</id>
-    <published>2026-11-19T08:51:24.107390+00:00</published>
-    <updated>2026-11-19T08:51:24.107390+00:00</updated>
-    <summary type="text">Score: 0.733\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
+    <title>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据</title>
+    <link href="https://www.aibase.com/news/32443"/>
+    <id>23a5ea5d1a091791bb93bc3f890103ae</id>
+    <published>2026-11-20T08:38:07.743811+00:00</published>
+    <updated>2026-11-20T08:38:07.743811+00:00</updated>
+    <summary type="text">Score: 0.734\nSources: 1 (AIbase)\nImportance: 行业动态</summary>
     <category term="行业动态"/>
     <category term="high_ai_relevance"/>
     <category term="industry"/>
   </entry>
   <entry>
-    <title>S3 审计日志流式传输现已支持 OpenID Connect，并扩展至 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com</title>
-    <link href="https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com"/>
-    <id>58c1ffc9ef827e537cdeecc57c13be03</id>
-    <published>2026-11-19T08:27:16+00:00</published>
-    <updated>2026-11-19T08:27:16+00:00</updated>
+    <title>GitHub Desktop 现在支持在同一主机上登录多个账户 / GitHub Desktop now supports multiple accounts per host</title>
+    <link href="https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host"/>
+    <id>e789e53f99cb555a83fa9d076fef598d</id>
+    <published>2026-11-20T02:06:01+00:00</published>
+    <updated>2026-11-20T02:06:01+00:00</updated>
+    <summary type="text">Score: 0.797\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Pull Request 概览改进现已开启公开预览 / Improvements on the pull request overview in public preview</title>
+    <link href="https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview"/>
+    <id>0a634d0ec3c29a3c6f77b620726d25a1</id>
+    <published>2026-11-20T00:02:21+00:00</published>
+    <updated>2026-11-20T00:02:21+00:00</updated>
+    <summary type="text">Score: 0.793\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>AI能帮科学家筛选出有潜力的候选药物吗？ / Can AI help scientists identify promising drug candidates?</title>
+    <link href="https://openai.com/index/introducing-medchembench"/>
+    <id>03943f98230dee0762107da5f4f3b5ec</id>
+    <published>2026-11-20T00:00:00+00:00</published>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.801\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Codex CLI 0.171.0</title>
+    <link href="https://developers.openai.com/codex/changelog"/>
+    <id>442b2136b721f4495112624e23a57287</id>
+    <published>2026-11-20T00:00:00+00:00</published>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.815\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <category term="官方更新"/>
+    <category term="official_source"/>
+    <category term="high_ai_relevance"/>
+    <category term="high_importance"/>
+    <category term="official"/>
+  </entry>
+  <entry>
+    <title>Hebbia借助GPT-6 Astra提升金融研究效果 / Hebbia sees improvements in financial research with GPT-6 Astra</title>
+    <link href="https://openai.com/business/customer-stories/hebbia"/>
+    <id>394d79fa6583779daea3cf447f711e7f</id>
+    <published>2026-11-20T00:00:00+00:00</published>
+    <updated>2026-11-20T00:00:00+00:00</updated>
     <summary type="text">Score: 0.809\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
@@ -184,12 +225,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>OpenAI的Performance Factory如何让ChatGPT保持高速运行 / How OpenAI’s Performance Factory keeps ChatGPT fast</title>
-    <link href="https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"/>
-    <id>56b10813128df883ce9896eee83c63cb</id>
-    <published>2026-11-19T08:00:00+00:00</published>
-    <updated>2026-11-19T08:00:00+00:00</updated>
-    <summary type="text">Score: 0.824\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>推出 harness adapters：将你喜欢的模型适配到你的 harness，以提升性能和降低成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
+    <link href="https://huggingface.co/blog/harness-adapters-at-scale"/>
+    <id>917100d49f274e42e4d73c0eafad7d98</id>
+    <published>2026-11-20T00:00:00+00:00</published>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.809\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>
@@ -197,51 +238,12 @@
     <category term="official"/>
   </entry>
   <entry>
-    <title>用 GitHub CLI 等待 pull request 事件 / Wait for pull request events with GitHub CLI</title>
-    <link href="https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli"/>
-    <id>0d4dda75c8493d385e196320d04a24ee</id>
-    <published>2026-11-19T00:00:13+00:00</published>
-    <updated>2026-11-19T00:00:13+00:00</updated>
-    <summary type="text">Score: 0.792\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>开始使用 Daybreak Blue / Get started with Daybreak Blue</title>
-    <link href="https://openai.com/business/learn/daybreak-blue-onboarding-demo"/>
-    <id>4e880cac23472c0093ed6a61a5366ce3</id>
-    <published>2026-11-19T00:00:00+00:00</published>
-    <updated>2026-11-19T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.800\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>探索 Codex 安全插件 / Explore the Codex Security Plugin</title>
-    <link href="https://openai.com/business/learn/codex-security-plugin-demo"/>
-    <id>9c60d7df2f6ce5028f6d0198d7d81d9f</id>
-    <published>2026-11-19T00:00:00+00:00</published>
-    <updated>2026-11-19T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.808\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
-    <category term="官方更新"/>
-    <category term="official_source"/>
-    <category term="high_ai_relevance"/>
-    <category term="high_importance"/>
-    <category term="official"/>
-  </entry>
-  <entry>
-    <title>查看 PR 扫描的实际效果 / See PR scans in action</title>
-    <link href="https://openai.com/business/learn/pr-scans-demo"/>
-    <id>1871fff1cf5fe142690fb906ec15f517</id>
-    <published>2026-11-19T00:00:00+00:00</published>
-    <updated>2026-11-19T00:00:00+00:00</updated>
-    <summary type="text">Score: 0.800\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
+    <title>欢迎 Inkling 2 Mini，为你的本地部署带来前沿性能 / Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
+    <link href="https://huggingface.co/blog/inkling2mini"/>
+    <id>79e35cbf86498de445d1cb4f08053fc9</id>
+    <published>2026-11-20T00:00:00+00:00</published>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <summary type="text">Score: 0.809\nSources: 1 (Official AI Updates)\nImportance: 官方更新</summary>
     <category term="官方更新"/>
     <category term="official_source"/>
     <category term="high_ai_relevance"/>

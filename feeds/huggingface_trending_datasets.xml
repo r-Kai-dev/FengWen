@@ -4,165 +4,165 @@
   <icon>https://huggingface.co/favicon.ico</icon>
   <link href="https://huggingface.co/datasets"/>
   <id>https://huggingface.co/datasets</id>
-  <updated>2026-11-20T01:57:53.218701+00:00</updated>
+  <updated>2026-11-21T01:53:47.689039+00:00</updated>
   <entry>
-    <title>cais/hle</title>
-    <link href="https://huggingface.co/datasets/cais/hle"/>
-    <id>384c4987d529b54a5332482b12faf7cf</id>
-    <published>2026-11-20T01:57:53.218701+00:00</published>
-    <updated>2026-11-20T01:57:53.218701+00:00</updated>
-    <summary type="text">Downloads: 76,082 \u00b7 Likes: 1134</summary>
+    <title>ILSVRC/imagenet-1k</title>
+    <link href="https://huggingface.co/datasets/ILSVRC/imagenet-1k"/>
+    <id>0e8b2d1ab1d0d140854a62233e5b6b88</id>
+    <published>2026-11-21T01:53:47.689039+00:00</published>
+    <updated>2026-11-21T01:53:47.689039+00:00</updated>
+    <summary type="text">Downloads: 92,232 \u00b7 Likes: 1196</summary>
   </entry>
   <entry>
-    <title>openai/gsm8k</title>
-    <link href="https://huggingface.co/datasets/openai/gsm8k"/>
-    <id>c65f4c0b563e8e1c245e9048ee29bbfc</id>
-    <published>2026-11-20T01:57:53.218695+00:00</published>
-    <updated>2026-11-20T01:57:53.218695+00:00</updated>
-    <summary type="text">Downloads: 1,217,166 \u00b7 Likes: 2076</summary>
+    <title>n4ze3m/tiny-voca</title>
+    <link href="https://huggingface.co/datasets/n4ze3m/tiny-voca"/>
+    <id>2be398d15a45a85d1aa66bf863e11cb9</id>
+    <published>2026-11-21T01:53:47.689030+00:00</published>
+    <updated>2026-11-21T01:53:47.689030+00:00</updated>
+    <summary type="text">Downloads: 796 \u00b7 Likes: 47</summary>
+  </entry>
+  <entry>
+    <title>codepawl/cmu-mocap-glb</title>
+    <link href="https://huggingface.co/datasets/codepawl/cmu-mocap-glb"/>
+    <id>db6d0d991ad2b85a3045d00c5915f195</id>
+    <published>2026-11-21T01:53:47.689021+00:00</published>
+    <updated>2026-11-21T01:53:47.689021+00:00</updated>
+    <summary type="text">Downloads: 1,862 \u00b7 Likes: 36</summary>
+  </entry>
+  <entry>
+    <title>TheAgenticDataCompany/open-yap-1k</title>
+    <link href="https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k"/>
+    <id>9f7b67978e3edf5db15e20412389dae5</id>
+    <published>2026-11-21T01:53:47.689012+00:00</published>
+    <updated>2026-11-21T01:53:47.689012+00:00</updated>
+    <summary type="text">Downloads: 8,299 \u00b7 Likes: 255</summary>
   </entry>
   <entry>
     <title>AJ-Gonzalez/qwen4-max-reasoning-250x</title>
     <link href="https://huggingface.co/datasets/AJ-Gonzalez/qwen4-max-reasoning-250x"/>
     <id>e0b88420c5f450c3eadc3658ff8c15d0</id>
-    <published>2026-11-20T01:57:53.218689+00:00</published>
-    <updated>2026-11-20T01:57:53.218689+00:00</updated>
-    <summary type="text">Downloads: 192 \u00b7 Likes: 28</summary>
-  </entry>
-  <entry>
-    <title>tencent/TailorRig</title>
-    <link href="https://huggingface.co/datasets/tencent/TailorRig"/>
-    <id>9bd61eea743f19d8fd523aa6374dc759</id>
-    <published>2026-11-20T01:57:53.218683+00:00</published>
-    <updated>2026-11-20T01:57:53.218683+00:00</updated>
-    <summary type="text">Downloads: 6,132 \u00b7 Likes: 136</summary>
-  </entry>
-  <entry>
-    <title>KORMo-VL/Ko-MultimodalMind2Web</title>
-    <link href="https://huggingface.co/datasets/KORMo-VL/Ko-MultimodalMind2Web"/>
-    <id>a5b9b4d1d52421cdb3726d6cd0930a6a</id>
-    <published>2026-11-20T01:57:53.218677+00:00</published>
-    <updated>2026-11-20T01:57:53.218677+00:00</updated>
-    <summary type="text">Downloads: 111 \u00b7 Likes: 41</summary>
-  </entry>
-  <entry>
-    <title>KORMo-VL/Ko-Online-Mind2Web</title>
-    <link href="https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web"/>
-    <id>8403cc0df89c93adc3514cbdef6a9f6b</id>
-    <published>2026-11-20T01:57:53.218671+00:00</published>
-    <updated>2026-11-20T01:57:53.218671+00:00</updated>
-    <summary type="text">Downloads: 98 \u00b7 Likes: 34</summary>
-  </entry>
-  <entry>
-    <title>KORMo-VL/Ko-Screenspot</title>
-    <link href="https://huggingface.co/datasets/KORMo-VL/Ko-Screenspot"/>
-    <id>654b29aa33d4621411acda85d704e866</id>
-    <published>2026-11-20T01:57:53.218665+00:00</published>
-    <updated>2026-11-20T01:57:53.218665+00:00</updated>
-    <summary type="text">Downloads: 124 \u00b7 Likes: 32</summary>
-  </entry>
-  <entry>
-    <title>ropedia-ai/Ropedia-Xperience-2</title>
-    <link href="https://huggingface.co/datasets/ropedia-ai/Ropedia-Xperience-2"/>
-    <id>c148c08d17ff343c33156bc4235c858e</id>
-    <published>2026-11-20T01:57:53.218659+00:00</published>
-    <updated>2026-11-20T01:57:53.218659+00:00</updated>
-    <summary type="text">Downloads: 8,030 \u00b7 Likes: 38</summary>
+    <published>2026-11-21T01:53:47.689003+00:00</published>
+    <updated>2026-11-21T01:53:47.689003+00:00</updated>
+    <summary type="text">Downloads: 235 \u00b7 Likes: 40</summary>
   </entry>
   <entry>
     <title>ccore/ThreeJS-3D-Scenes</title>
     <link href="https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes"/>
     <id>8bbd3d81ba880dadc9fe95f9d05fe370</id>
-    <published>2026-11-20T01:57:53.218653+00:00</published>
-    <updated>2026-11-20T01:57:53.218653+00:00</updated>
-    <summary type="text">Downloads: 14,601 \u00b7 Likes: 154</summary>
+    <published>2026-11-21T01:53:47.688993+00:00</published>
+    <updated>2026-11-21T01:53:47.688993+00:00</updated>
+    <summary type="text">Downloads: 15,038 \u00b7 Likes: 163</summary>
+  </entry>
+  <entry>
+    <title>KORMo-VL/Ko-MultimodalMind2Web</title>
+    <link href="https://huggingface.co/datasets/KORMo-VL/Ko-MultimodalMind2Web"/>
+    <id>a5b9b4d1d52421cdb3726d6cd0930a6a</id>
+    <published>2026-11-21T01:53:47.688983+00:00</published>
+    <updated>2026-11-21T01:53:47.688983+00:00</updated>
+    <summary type="text">Downloads: 126 \u00b7 Likes: 52</summary>
+  </entry>
+  <entry>
+    <title>KORMo-VL/Ko-Online-Mind2Web</title>
+    <link href="https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web"/>
+    <id>8403cc0df89c93adc3514cbdef6a9f6b</id>
+    <published>2026-11-21T01:53:47.688972+00:00</published>
+    <updated>2026-11-21T01:53:47.688972+00:00</updated>
+    <summary type="text">Downloads: 114 \u00b7 Likes: 45</summary>
+  </entry>
+  <entry>
+    <title>KORMo-VL/Ko-Screenspot</title>
+    <link href="https://huggingface.co/datasets/KORMo-VL/Ko-Screenspot"/>
+    <id>654b29aa33d4621411acda85d704e866</id>
+    <published>2026-11-21T01:53:47.688956+00:00</published>
+    <updated>2026-11-21T01:53:47.688956+00:00</updated>
+    <summary type="text">Downloads: 153 \u00b7 Likes: 50</summary>
   </entry>
   <entry>
     <title>HuggingFaceFW/fineweb</title>
     <link href="https://huggingface.co/datasets/HuggingFaceFW/fineweb"/>
     <id>0a33f391af7b68376d930ed5fe7299c5</id>
-    <published>2026-11-20T01:57:53.218640+00:00</published>
-    <updated>2026-11-20T01:57:53.218640+00:00</updated>
-    <summary type="text">Downloads: 361,078 \u00b7 Likes: 3776</summary>
-  </entry>
-  <entry>
-    <title>KORMo-VL/EVIDENT</title>
-    <link href="https://huggingface.co/datasets/KORMo-VL/EVIDENT"/>
-    <id>8aba5356f13aa8fb2787b8ef345ed9cf</id>
-    <published>2026-11-20T01:57:53.218634+00:00</published>
-    <updated>2026-11-20T01:57:53.218634+00:00</updated>
-    <summary type="text">Downloads: 569 \u00b7 Likes: 47</summary>
-  </entry>
-  <entry>
-    <title>nvidia/PhysicalAI-Human-1M-100K</title>
-    <link href="https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K"/>
-    <id>86f3c5c2f262f86ff94cd46ebdeac948</id>
-    <published>2026-11-20T01:57:53.218627+00:00</published>
-    <updated>2026-11-20T01:57:53.218627+00:00</updated>
-    <summary type="text">Downloads: 18,336 \u00b7 Likes: 96</summary>
+    <published>2026-11-21T01:53:47.688365+00:00</published>
+    <updated>2026-11-21T01:53:47.688365+00:00</updated>
+    <summary type="text">Downloads: 363,745 \u00b7 Likes: 3788</summary>
   </entry>
   <entry>
     <title>google/multimodal-knowledge-agent</title>
     <link href="https://huggingface.co/datasets/google/multimodal-knowledge-agent"/>
     <id>904d9c47a91fb04c4f2e4fd53e1b3d6e</id>
-    <published>2026-11-20T01:57:53.218621+00:00</published>
-    <updated>2026-11-20T01:57:53.218621+00:00</updated>
-    <summary type="text">Downloads: 6,882 \u00b7 Likes: 72</summary>
+    <published>2026-11-21T01:53:47.688356+00:00</published>
+    <updated>2026-11-21T01:53:47.688356+00:00</updated>
+    <summary type="text">Downloads: 7,529 \u00b7 Likes: 85</summary>
+  </entry>
+  <entry>
+    <title>KORMo-VL/EVIDENT</title>
+    <link href="https://huggingface.co/datasets/KORMo-VL/EVIDENT"/>
+    <id>8aba5356f13aa8fb2787b8ef345ed9cf</id>
+    <published>2026-11-21T01:53:47.688346+00:00</published>
+    <updated>2026-11-21T01:53:47.688346+00:00</updated>
+    <summary type="text">Downloads: 768 \u00b7 Likes: 64</summary>
+  </entry>
+  <entry>
+    <title>nvidia/PhysicalAI-Human-1M-100K</title>
+    <link href="https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K"/>
+    <id>86f3c5c2f262f86ff94cd46ebdeac948</id>
+    <published>2026-11-21T01:53:47.688337+00:00</published>
+    <updated>2026-11-21T01:53:47.688337+00:00</updated>
+    <summary type="text">Downloads: 19,357 \u00b7 Likes: 111</summary>
   </entry>
   <entry>
     <title>HubLabs/HubEgo-100K</title>
     <link href="https://huggingface.co/datasets/HubLabs/HubEgo-100K"/>
     <id>0ff687fb15fdf353fad7bb0443eeb5dc</id>
-    <published>2026-11-20T01:57:53.218613+00:00</published>
-    <updated>2026-11-20T01:57:53.218613+00:00</updated>
-    <summary type="text">Downloads: 94,225 \u00b7 Likes: 56</summary>
+    <published>2026-11-21T01:53:47.688327+00:00</published>
+    <updated>2026-11-21T01:53:47.688327+00:00</updated>
+    <summary type="text">Downloads: 190,021 \u00b7 Likes: 72</summary>
   </entry>
   <entry>
     <title>Digitaluz/uzbek-language-corpus</title>
     <link href="https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus"/>
     <id>9494732f91dabfaf0f243a7b695062c9</id>
-    <published>2026-11-20T01:57:53.218591+00:00</published>
-    <updated>2026-11-20T01:57:53.218591+00:00</updated>
-    <summary type="text">Downloads: 480 \u00b7 Likes: 52</summary>
+    <published>2026-11-21T01:53:47.688318+00:00</published>
+    <updated>2026-11-21T01:53:47.688318+00:00</updated>
+    <summary type="text">Downloads: 877 \u00b7 Likes: 73</summary>
   </entry>
   <entry>
     <title>google/physical-engineerings-last-exam</title>
     <link href="https://huggingface.co/datasets/google/physical-engineerings-last-exam"/>
     <id>8e3fbcdaee88502a7f23fae36cdef8b9</id>
-    <published>2026-11-20T01:57:53.218584+00:00</published>
-    <updated>2026-11-20T01:57:53.218584+00:00</updated>
-    <summary type="text">Downloads: 157,772 \u00b7 Likes: 132</summary>
-  </entry>
-  <entry>
-    <title>nvidia/USDCraft-10K</title>
-    <link href="https://huggingface.co/datasets/nvidia/USDCraft-10K"/>
-    <id>0a5afcf6bfda482dca9ff6ca590ba47c</id>
-    <published>2026-11-20T01:57:53.218578+00:00</published>
-    <updated>2026-11-20T01:57:53.218578+00:00</updated>
-    <summary type="text">Downloads: 50,325 \u00b7 Likes: 105</summary>
+    <published>2026-11-21T01:53:47.688309+00:00</published>
+    <updated>2026-11-21T01:53:47.688309+00:00</updated>
+    <summary type="text">Downloads: 223,078 \u00b7 Likes: 155</summary>
   </entry>
   <entry>
     <title>nvidia/simready-assets</title>
     <link href="https://huggingface.co/datasets/nvidia/simready-assets"/>
     <id>d3079f207ee5953c48e5ea8831efaedd</id>
-    <published>2026-11-20T01:57:53.218571+00:00</published>
-    <updated>2026-11-20T01:57:53.218571+00:00</updated>
-    <summary type="text">Downloads: 1,713,377 \u00b7 Likes: 1670</summary>
+    <published>2026-11-21T01:53:47.688299+00:00</published>
+    <updated>2026-11-21T01:53:47.688299+00:00</updated>
+    <summary type="text">Downloads: 1,731,953 \u00b7 Likes: 1692</summary>
   </entry>
   <entry>
     <title>Angais/pixel-art-atlas-1.4m</title>
     <link href="https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m"/>
     <id>9ac657da0dc01685fc9dd6c79e8400bb</id>
-    <published>2026-11-20T01:57:53.218563+00:00</published>
-    <updated>2026-11-20T01:57:53.218563+00:00</updated>
-    <summary type="text">Downloads: 70,962 \u00b7 Likes: 604</summary>
+    <published>2026-11-21T01:53:47.688288+00:00</published>
+    <updated>2026-11-21T01:53:47.688288+00:00</updated>
+    <summary type="text">Downloads: 72,583 \u00b7 Likes: 650</summary>
+  </entry>
+  <entry>
+    <title>nvidia/USDCraft-10K</title>
+    <link href="https://huggingface.co/datasets/nvidia/USDCraft-10K"/>
+    <id>0a5afcf6bfda482dca9ff6ca590ba47c</id>
+    <published>2026-11-21T01:53:47.688273+00:00</published>
+    <updated>2026-11-21T01:53:47.688273+00:00</updated>
+    <summary type="text">Downloads: 55,150 \u00b7 Likes: 131</summary>
   </entry>
   <entry>
     <title>Vyber07/cyber-security</title>
     <link href="https://huggingface.co/datasets/Vyber07/cyber-security"/>
     <id>a393c855c81111bd9b7bd5bccfbf95e4</id>
-    <published>2026-11-20T01:57:53.218541+00:00</published>
-    <updated>2026-11-20T01:57:53.218541+00:00</updated>
-    <summary type="text">Downloads: 27,388 \u00b7 Likes: 1273</summary>
+    <published>2026-11-21T01:53:47.688240+00:00</published>
+    <updated>2026-11-21T01:53:47.688240+00:00</updated>
+    <summary type="text">Downloads: 28,056 \u00b7 Likes: 1324</summary>
   </entry>
 </feed>
